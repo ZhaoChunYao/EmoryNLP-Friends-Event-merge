@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks openly with the group, shares a detailed personal story about past experiences with Speaker_06, and engages others by asking if they’ve had a similar boyfriend."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker clarifies she isn’t calling Speaker_06 evil and acknowledges Speaker_05 isn’t her possession; she listens to friends’ advice and agrees to talk to Speaker_05."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or carelessness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker states she is distressed, cannot watch Speaker_05 and Speaker_06 together, and worries about losing Speaker_05 and that he’s falling in love after only a week."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker resists engaging with the new situation (asks to turn off the viewing) and relies on past negative experiences with Speaker_06 to judge the present, showing caution rather than openness."
+  }
+}

@@ -1,0 +1,86 @@
+event_id: s01_e07_c16_u002_e1
+utterance_id: s01_e07_c16_u002
+  tuple: ('be', 'this/(Paolo)', 'Paolo', 's01_e07_c16_u002')
+
+event_id: s01_e07_c16_u002_e2
+utterance_id: s01_e07_c16_u002
+  tuple: ('want', 'I/(Rachel Green)', 'you to meet my friends', 's01_e07_c16_u002')
+
+event_id: s01_e07_c16_u002_e3
+utterance_id: s01_e07_c16_u002
+  tuple: ('meet', 'you/(Paolo)', 'my friends', 's01_e07_c16_u002')
+
+event_id: s01_e07_c16_u002_e4
+utterance_id: s01_e07_c16_u002
+  tuple: ('be', 'this/(Monica)', 'Monica', 's01_e07_c16_u002')
+
+event_id: s01_e07_c16_u009_e1
+utterance_id: s01_e07_c16_u009
+  tuple: ('speak', 'He/(Paolo)', 'much English', 's01_e07_c16_u009')
+
+event_id: s01_e07_c16_u011_e1
+utterance_id: s01_e07_c16_u011
+  tuple: ('look', 'you/(everyone)', 'at that', 's01_e07_c16_u011')
+
+event_id: s01_e07_c16_u012_e1
+utterance_id: s01_e07_c16_u012
+  tuple: ('come', 'Paolo', 'from where', 's01_e07_c16_u012')
+
+event_id: s01_e07_c16_u013_e1
+utterance_id: s01_e07_c16_u013
+  tuple: ('think', 'I/(Rachel Green)', 'Italy', 's01_e07_c16_u013')
+
+event_id: s01_e07_c16_u014_e1
+utterance_id: s01_e07_c16_u014
+  tuple: ('mean', 'I/(Ross Geller)', 'tonight', 's01_e07_c16_u014')
+  tuple: ('mean', 'I/(Ross Geller)', 'in the building', 's01_e07_c16_u014')
+  tuple: ('mean', 'I/(Ross Geller)', 'into our lives', 's01_e07_c16_u014')
+
+event_id: s01_e07_c16_u015_e1
+utterance_id: s01_e07_c16_u015
+  tuple: ('turn out to be', 'the cat', "Paolo's cat", 's01_e07_c16_u015')
+
+event_id: s01_e07_c16_u016_e1
+utterance_id: s01_e07_c16_u016
+  tuple: ('be', 'that', 'funny', 's01_e07_c16_u016')
+
+event_id: s01_e07_c16_u016_e2
+utterance_id: s01_e07_c16_u016
+  tuple: ('keep touching', 'Rachel', 'him', 's01_e07_c16_u016')
+
+event_id: s01_e07_c16_u018_e1
+utterance_id: s01_e07_c16_u018
+  tuple: ('look', 'I/(Phoebe Buffay)', 'all over the building', 's01_e07_c16_u018')
+
+event_id: s01_e07_c16_u018_e2
+utterance_id: s01_e07_c16_u018
+  tuple: ('find', 'I/(Phoebe Buffay)', 'the kitty', 's01_e07_c16_u018')
+
+event_id: s01_e07_c16_u019_e1
+utterance_id: s01_e07_c16_u019
+  tuple: ('find', 'I/(Rachel Green)', 'him', 's01_e07_c16_u019')
+
+event_id: s01_e07_c16_u019_e2
+utterance_id: s01_e07_c16_u019
+  tuple: ('be', 'He/(the cat)', "Paolo's cat", 's01_e07_c16_u019')
+
+event_id: s01_e07_c16_u020_e1
+utterance_id: s01_e07_c16_u020
+  tuple: ('go', 'you/(Rachel Green)', 'there', 's01_e07_c16_u020')
+
+event_id: s01_e07_c16_u020_e2
+utterance_id: s01_e07_c16_u020
+  tuple: ('guess', 'I/(Phoebe Buffay)', None, 's01_e07_c16_u020')
+
+event_id: s01_e07_c16_u020_e3
+utterance_id: s01_e07_c16_u020
+  tuple: ('tell', 'nobody', 'me', 's01_e07_c16_u020')
+
+event_id: s01_e07_c16_u021_e1
+utterance_id: s01_e07_c16_u021
+  tuple: ('be', 'this/(Phoebe)', 'Phoebe', 's01_e07_c16_u021')
+
+event_id: s01_e07_c16_u023_e1
+utterance_id: s01_e07_c16_u023
+  tuple: ('bet', 'you/(Paolo)', None, 's01_e07_c16_u023')
+

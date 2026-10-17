@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker announces the upcoming TV segment and assertively tells Speaker_06 to forget changing the channel, taking charge in the group."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker dismisses Speaker_06’s suggestion to switch channels (“should forget the idea of changing the channel”), showing low accommodation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or instability in the remarks."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and interest in watching the provocative interview and resists switching to a light movie."
+  }
+}

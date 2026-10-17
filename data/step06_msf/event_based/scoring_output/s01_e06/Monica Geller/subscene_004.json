@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In a group setting, prompts Speaker_02 to share the explanation with everyone, actively engaging and steering the conversation (u043)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Supports another speaker with “Good for you, Joey” and makes a polite request for the explanation, showing cooperative tone (u038, u043)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or diligence in this exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or insecurity in the brief interaction."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking to hear the theory/explanation after it was withheld (u043)."
+  }
+}

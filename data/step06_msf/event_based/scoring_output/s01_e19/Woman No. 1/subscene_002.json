@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Provides brief, functional replies and a simple request about the radiator; no outgoing or energetic behavior shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Answers helpfully and politely wishes them luck finding Marcel (“I hope you find Marcel”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Had already tried the suggested fix (“try turning the radiator knob back the other way” — “Of course”) and sought help about the radiator, indicating proactive, methodical problem-solving."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; remains calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Focuses on a practical issue without showing curiosity or unconventional ideas."
+  }
+}

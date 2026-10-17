@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and task-focused; proposes a cooking method but shows no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says “Ok, all done,” helps with cooking, and proposes a plan collaboratively, referencing making them like Speaker_05 used to—polite, cooperative tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Completes the task (“Ok, all done”) and suggests a specific preparation sequence (whip then add peas and onions), indicating planning and method."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm, matter-of-fact statements with no anxiety; confidently proposes a plan and reports completion."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggests an unconventional variation (whipped potatoes with peas and onions) and values a distinct style from Speaker_05."
+  }
+}

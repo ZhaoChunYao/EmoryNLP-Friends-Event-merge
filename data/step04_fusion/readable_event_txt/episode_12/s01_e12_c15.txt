@@ -1,0 +1,33 @@
+event_id: s01_e12_c15_u001_e1
+utterance_id: s01_e12_c15_u001
+  tuple: ('be', 'that', 'a shut-down', 's01_e12_c15_u001')
+
+event_id: s01_e12_c15_u003_e1
+utterance_id: s01_e12_c15_u003
+  tuple: ('go', 'you guys/Chandler Bing, Joey Tribbiani, Ross Geller', None, 's01_e12_c15_u003')
+
+event_id: s01_e12_c15_u003_e2
+utterance_id: s01_e12_c15_u003
+  tuple: ('come', 'you/(Chandler Bing, Joey Tribbiani, Ross Geller)', None, 's01_e12_c15_u003')
+
+event_id: s01_e12_c15_u004_e1
+utterance_id: s01_e12_c15_u004
+  tuple: ('be', 'it/time', '2:30 in the morning', 's01_e12_c15_u004')
+
+event_id: s01_e12_c15_u005_e1
+utterance_id: s01_e12_c15_u005
+  tuple: ('get', 'you/(Joey Tribbiani)', 'out', 's01_e12_c15_u005')
+
+event_id: s01_e12_c15_u006_e1
+utterance_id: s01_e12_c15_u006
+  tuple: ('hang out', 'you guys/Chandler Bing, Joey Tribbiani, Ross Geller', 'in my apartment', 's01_e12_c15_u006')
+
+event_id: s01_e12_c15_u006_e2
+utterance_id: s01_e12_c15_u006
+  tuple: ('use', 'I/Monica Geller', 'my left hand', 's01_e12_c15_u006')
+
+event_id: s01_e12_c15_u006_e3
+utterance_id: s01_e12_c15_u006
+  tuple: ('go', 'I/Monica Geller', None, 's01_e12_c15_u006')
+  tuple: ('be', 'I/Monica Geller', 'gone', 's01_e12_c15_u006')
+

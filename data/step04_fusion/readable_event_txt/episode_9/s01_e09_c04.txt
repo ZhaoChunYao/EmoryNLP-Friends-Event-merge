@@ -1,0 +1,158 @@
+event_id: s01_e09_c04_u001_e1
+utterance_id: s01_e09_c04_u001
+  tuple: ('look', 'you/(all)', None, 's01_e09_c04_u001')
+
+event_id: s01_e09_c04_u001_e2
+utterance_id: s01_e09_c04_u001
+  tuple: ('talk', 'she/(unspecified)', 'to it', 's01_e09_c04_u001')
+
+event_id: s01_e09_c04_u001_e3
+utterance_id: s01_e09_c04_u001
+  tuple: ('think', 'I/(Ross Geller)', 'that I should get some belly time too', 's01_e09_c04_u001')
+  tuple: ('get', 'I/(Ross Geller)', 'some belly time', 's01_e09_c04_u001')
+
+event_id: s01_e09_c04_u001_e4
+utterance_id: s01_e09_c04_u001
+  tuple: ('believe', 'I/(Ross Geller)', 'any of this', 's01_e09_c04_u001')
+
+event_id: s01_e09_c04_u002_e1
+utterance_id: s01_e09_c04_u002
+  tuple: ('believe', 'I/(Phoebe Buffay)', 'it', 's01_e09_c04_u002')
+  tuple: ('think', 'I/(Phoebe Buffay)', 'the baby can hear everything', 's01_e09_c04_u002')
+  tuple: ('hear', 'the baby', 'everything', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e2
+utterance_id: s01_e09_c04_u002
+  tuple: ('show', 'I/(Phoebe Buffay)', 'you', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e3
+utterance_id: s01_e09_c04_u002
+  tuple: ('look', 'you/(Ross Geller)', None, 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e4
+utterance_id: s01_e09_c04_u002
+  tuple: ('seem', 'this/(idea)', 'a little weird', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e5
+utterance_id: s01_e09_c04_u002
+  tuple: ('put', 'you/(Ross Geller)', 'your head', 's01_e09_c04_u002')
+  tuple: ('put', 'you/(Ross Geller)', 'inside this turkey', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e6
+utterance_id: s01_e09_c04_u002
+  tuple: ('talk', 'we all/(group)', None, 's01_e09_c04_u002')
+  tuple: ('say', 'we/(group)', 'everything', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u002_e7
+utterance_id: s01_e09_c04_u002
+  tuple: ('hear', 'you/(Ross Geller)', 'everything we say', 's01_e09_c04_u002')
+
+event_id: s01_e09_c04_u003_e1
+utterance_id: s01_e09_c04_u003
+  tuple: ('say', 'I/(Chandler Bing)', 'that I am totally behind this experiment', 's01_e09_c04_u003')
+  tuple: ('be', 'I/(Chandler Bing)', 'behind this experiment', 's01_e09_c04_u003')
+
+event_id: s01_e09_c04_u003_e2
+utterance_id: s01_e09_c04_u003
+  tuple: ('butter', 'I/(Chandler Bing)', 'your head', 's01_e09_c04_u003')
+
+event_id: s01_e09_c04_u005_e1
+utterance_id: s01_e09_c04_u005
+  tuple: ('make', 'you/(Rachel Green)', 'your money', 's01_e09_c04_u005')
+
+event_id: s01_e09_c04_u006_e1
+utterance_id: s01_e09_c04_u006
+  tuple: ('forget', 'you/(Rachel Green)', 'Vail', 's01_e09_c04_u006')
+
+event_id: s01_e09_c04_u006_e2
+utterance_id: s01_e09_c04_u006
+  tuple: ('forget', 'you/(Rachel Green)', 'seeing my family', 's01_e09_c04_u006')
+  tuple: ('see', 'I/(Rachel Green)', 'my family', 's01_e09_c04_u006')
+
+event_id: s01_e09_c04_u006_e3
+utterance_id: s01_e09_c04_u006
+  tuple: ('forget', 'you/(Rachel Green)', 'shoop, shoop, shoop', 's01_e09_c04_u006')
+
+event_id: s01_e09_c04_u007_e1
+utterance_id: s01_e09_c04_u007
+  tuple: ('be', 'your mail', 'here', 's01_e09_c04_u007')
+
+event_id: s01_e09_c04_u008_e1
+utterance_id: s01_e09_c04_u008
+  tuple: ('put', 'you/(Monica Geller)', 'it', 's01_e09_c04_u008')
+  tuple: ('put', 'you/(Monica Geller)', 'on the table', 's01_e09_c04_u008')
+
+event_id: s01_e09_c04_u011_e1
+utterance_id: s01_e09_c04_u011
+  tuple: ('open', 'you/(Rachel Green)', 'it', 's01_e09_c04_u011')
+
+event_id: s01_e09_c04_u013_e1
+utterance_id: s01_e09_c04_u013
+  tuple: ('be', 'you guys/(friends)', 'great', 's01_e09_c04_u013')
+
+event_id: s01_e09_c04_u014_e1
+utterance_id: s01_e09_c04_u014
+  tuple: ('chip', 'we all/(group)', 'in', 's01_e09_c04_u014')
+
+event_id: s01_e09_c04_u016_e1
+utterance_id: s01_e09_c04_u016
+  tuple: ('owe', 'you/(Joey Tribbiani)', 'me 20 bucks', 's01_e09_c04_u016')
+
+event_id: s01_e09_c04_u017_e1
+utterance_id: s01_e09_c04_u017
+  tuple: ('thank', 'I/(Rachel Green)', 'you', 's01_e09_c04_u017')
+
+event_id: s01_e09_c04_u018_e1
+utterance_id: s01_e09_c04_u018
+  tuple: ('go', 'you/(Chandler Bing)', None, 's01_e09_c04_u018')
+
+event_id: s01_e09_c04_u018_e2
+utterance_id: s01_e09_c04_u018
+  tuple: ('get', 'I/(Monica Geller)', 'your traditional Thanksgiving feast', 's01_e09_c04_u018')
+
+event_id: s01_e09_c04_u018_e3
+utterance_id: s01_e09_c04_u018
+  tuple: ('get', 'you/(Chandler Bing)', "your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns", 's01_e09_c04_u018')
+
+event_id: s01_e09_c04_u019_e1
+utterance_id: s01_e09_c04_u019
+  tuple: ('be', 'this/(meal)', 'what you are having for Thanksgiving dinner', 's01_e09_c04_u019')
+  tuple: ('have', 'you/(Chandler Bing)', 'for Thanksgiving dinner', 's01_e09_c04_u019')
+
+event_id: s01_e09_c04_u019_e2
+utterance_id: s01_e09_c04_u019
+  tuple: ('be', 'it/(problem)', 'with you and this holiday', 's01_e09_c04_u019')
+
+event_id: s01_e09_c04_u020_e1
+utterance_id: s01_e09_c04_u020
+  tuple: ('be', 'I/(Chandler Bing)', 'nine years old', 's01_e09_c04_u020')
+
+event_id: s01_e09_c04_u021_e1
+utterance_id: s01_e09_c04_u021
+  tuple: ('hate', 'I/(Ross Geller)', 'this story', 's01_e09_c04_u021')
+
+event_id: s01_e09_c04_u022_e1
+utterance_id: s01_e09_c04_u022
+  tuple: ('finish', "we/(Chandler Bing's family)", 'this magnificent Thanksgiving dinner', 's01_e09_c04_u022')
+
+event_id: s01_e09_c04_u022_e2
+utterance_id: s01_e09_c04_u022
+  tuple: ('have', 'I/(Chandler Bing)', 'a mouthful of pumpkin pie', 's01_e09_c04_u022')
+  tuple: ('remember', 'I/(Chandler Bing)', 'this part', 's01_e09_c04_u022')
+
+event_id: s01_e09_c04_u022_e3
+utterance_id: s01_e09_c04_u022
+  tuple: ('be', 'this/(moment)', 'the moment', 's01_e09_c04_u022')
+  tuple: ('tell', 'my parents', 'me they are getting divorced', 's01_e09_c04_u022')
+  tuple: ('get', 'they/(my parents)', 'divorced', 's01_e09_c04_u022')
+
+event_id: s01_e09_c04_u024_e1
+utterance_id: s01_e09_c04_u024
+  tuple: ('be', 'it/(situation)', 'very difficult to appreciate a Thanksgiving dinner once you have seen it in reverse', 's01_e09_c04_u024')
+  tuple: ('appreciate', 'you/(general)', 'a Thanksgiving dinner', 's01_e09_c04_u024')
+
+event_id: s01_e09_c04_u024_e2
+utterance_id: s01_e09_c04_u024
+  tuple: ('see', 'you/(general)', 'it', 's01_e09_c04_u024')
+  tuple: ('see', 'you/(general)', 'in reverse', 's01_e09_c04_u024')
+

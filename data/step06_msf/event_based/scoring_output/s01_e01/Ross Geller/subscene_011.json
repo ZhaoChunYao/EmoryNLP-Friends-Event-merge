@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives minimal, brief replies (“Yeah.”; “Goodnight.”) and offers no elaboration, indicating a reserved, non-talkative stance."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Polite “Goodnight,” but no clear behavior showing trustworthiness, straightforwardness, or generosity versus the opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization, planning, or care versus carelessness are shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The reaction “Mmm. Oh, no-” shows sudden worry/distress, indicating sensitivity or nervousness; this outweighs the earlier perfunctory “Yeah” to being asked if okay."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, imagination, or dogmatism/cautiousness are present in the brief exchanges."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly tells the group to stop and asks a question about a movie role; no clear pattern of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They straightforwardly admit that the accusations about their obsessive behavior are true, showing honesty rather than defensiveness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "The discussion centers on their obsessive concern with things like using a coaster to protect furniture, indicating meticulous, organized tendencies."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admitting to obsessive behavior and reacting strongly to orderliness cues (e.g., coaster/condensation scenario) suggests nervous sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Their rigid, cautious focus on preventing damage (coaster concern) reflects cautiousness over openness; any curiosity (asking about the role) is minor compared to this."
+  }
+}

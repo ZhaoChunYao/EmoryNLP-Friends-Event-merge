@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a plan and asks a practical question, but shows no clear outgoing, energetic, or highly social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Suggests straightforwardly returning Speaker_02’s egg by openly saying, “Here’s your egg back,” which is honest and pro‑social."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proposes a clear, simple plan and then checks if it will work, indicating forethought and care rather than carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Asks whether the plan will work, showing doubt/concern about the outcome."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Favors a literal, conservative approach (simply returning the egg) and questions its viability, reflecting caution over inventiveness."
+  }
+}

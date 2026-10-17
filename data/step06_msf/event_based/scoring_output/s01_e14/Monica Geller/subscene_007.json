@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead and energizes the group by saying they should start throwing things into the ritual now."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is straightforward about resources (“only oregano and a Fresca”) and cooperatively pushes to move the ritual forward."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Unprepared (has the wrong items) and urges proceeding anyway, showing carelessness and lack of planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; confidently urges immediate action despite missing required ingredients."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Willing to improvise with unconventional items and proceed experimentally rather than follow the strict ritual requirements."
+  }
+}

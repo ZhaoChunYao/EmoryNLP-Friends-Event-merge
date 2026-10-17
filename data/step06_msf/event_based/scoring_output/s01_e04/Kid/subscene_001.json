@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks only in brief refusals (“No.”; “No! No!”) and offers minimal engagement beyond a terse claim of finding the puck, indicating reserved, non-talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After admitting they found Speaker_02’s puck, TargetSpeaker repeatedly refuses to return it despite direct requests (“give me my puck back” → “No.” and “No! No!”), showing uncooperative, ungenerous behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "The exchange provides no clear signs of organization or carelessness; the conflict is about cooperation over the puck, not planning or diligence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "During a heated confrontation, TargetSpeaker responds firmly (“No! No!”) without visible anxiety or hesitation, suggesting confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "There is no evidence of curiosity or creativity; the rigid refusal reflects uncooperativeness more than (lack of) openness."
+  }
+}

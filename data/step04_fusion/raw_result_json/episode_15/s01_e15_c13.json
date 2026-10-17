@@ -1,0 +1,53 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c13_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'what time it is', 's01_e15_c13_u001')",
+            "('be', 'it/(time)', 'what time', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('look', 'I/Chandler Bing', 'at the WENUS', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'not happy', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('let', 'you/Fran', 'me tell you something', 's01_e15_c13_u001')",
+            "('tell', 'I/Chandler Bing', 'something', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('care', 'you/Fran', 'about it', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('care', 'I/Chandler Bing', 'about it', 's01_e15_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('get', 'you/Fran', 'it', 's01_e15_c13_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

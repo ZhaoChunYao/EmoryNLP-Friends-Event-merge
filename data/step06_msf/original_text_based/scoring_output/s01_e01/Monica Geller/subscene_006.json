@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly to calm someone; no clear signs of being especially outgoing, talkative, or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Provides soothing, supportive help: \"Just breathe... think of nice calm things,\" and reassures with a positive framing of the situation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Offers advice but shows no concrete behaviors indicating organization or efficiency, nor any carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays composed and coaches another through distress (breathing, calming thoughts), showing confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages embracing change and autonomy: \"This is probably for the best… Independence. Taking control of your life.\""
+  }
+}

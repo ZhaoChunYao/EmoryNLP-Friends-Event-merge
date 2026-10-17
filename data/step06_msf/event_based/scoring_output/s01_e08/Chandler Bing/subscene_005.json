@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He makes playful, unsolicited comments (u005) and openly calls out another’s behavior (u007, u009), showing outgoing, talkative engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He bluntly criticizes another at a funeral and calls him a “frightening, frightening man” (u007, u009), showing low warmth and tact."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He objects to someone watching football during a funeral (u007), reflecting attention to norms and propriety."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks up confidently and jokes without signs of anxiety or distress (u005, u007, u009)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "His quip that an overcoat sounds like another person (u005) shows playful, creative thinking."
+  }
+}

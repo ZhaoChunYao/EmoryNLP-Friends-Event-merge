@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "She takes the call and arranges to go to the admissions office but shows no clear signs of being especially outgoing or reserved beyond necessary communication."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She is cooperative and polite—asks to find out what the office wants (u012), thanks the admissions officer (u014.3) and Speaker_01 (u018), and agrees to come right down to resolve the issue (u014.2)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She admits she and Speaker_01 forgot to sign one of the admissions forms (u016), indicating a careless oversight that caused the problem."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "She initially says she doesn’t know what to do (u011–u012) but then handles the call and makes a plan without clear signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, inventiveness, or rigidity; she simply takes practical steps to resolve the form issue."
+  }
+}

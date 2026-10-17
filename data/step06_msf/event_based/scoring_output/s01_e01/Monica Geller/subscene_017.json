@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or withdrawal; TargetSpeaker mainly asks a question and vents (u002, u004, u006)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "States \"I hate men\" (u004) and describes attracting \"dogs and men with severe emotional problems\" (u006), showing hostility and cynicism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or diligence is shown in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses strong negative emotions about dating (\"I hate men,\" u004) and worries she attracts problematic partners (u006)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Makes a sweeping, dogmatic judgment (\"I hate men,\" u004) rather than a nuanced view."
+  }
+}

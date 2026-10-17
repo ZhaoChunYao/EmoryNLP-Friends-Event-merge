@@ -1,0 +1,81 @@
+event_id: s01_e03_c04_u001_e1
+utterance_id: s01_e03_c04_u001
+  tuple: ('mean', 'I/Monica Geller', None, 's01_e03_c04_u001')
+
+event_id: s01_e03_c04_u001_e2
+utterance_id: s01_e03_c04_u001
+  tuple: ('let', 'I/Monica Geller', 'them meet him', 's01_e03_c04_u001')
+
+event_id: s01_e03_c04_u001_e3
+utterance_id: s01_e03_c04_u001
+  tuple: ('meet', "them/(Monica's friends)", 'him', 's01_e03_c04_u001')
+
+event_id: s01_e03_c04_u001_e4
+utterance_id: s01_e03_c04_u001
+  tuple: ('bring', 'I/Monica Geller', 'a guy home', 's01_e03_c04_u001')
+
+event_id: s01_e03_c04_u001_e5
+utterance_id: s01_e03_c04_u001
+  tuple: ('be', "they/(Monica's friends)", 'within five minutes', 's01_e03_c04_u001')
+  tuple: ('be', "they/(Monica's friends)", 'all over him', 's01_e03_c04_u001')
+  tuple: ('be', "they/(Monica's friends)", 'like coyotes', 's01_e03_c04_u001')
+  tuple: ('pick', 'coyotes', 'off the weak members', 's01_e03_c04_u001')
+
+event_id: s01_e03_c04_u002_e1
+utterance_id: s01_e03_c04_u002
+  tuple: ('listen', 'you/Monica Geller', None, 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e2
+utterance_id: s01_e03_c04_u002
+  tuple: ('see', 'who/Paula', 'more than her fair share of bad beef', 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e3
+utterance_id: s01_e03_c04_u002
+  tuple: ('tell', 'I/Paula', 'you', 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e4
+utterance_id: s01_e03_c04_u002
+  tuple: ('be', "that/(Monica's friends being all over him)", 'not such a terrible thing', 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e5
+utterance_id: s01_e03_c04_u002
+  tuple: ('mean', 'I/Paula', None, 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e6
+utterance_id: s01_e03_c04_u002
+  tuple: ('be', "they/(Monica's friends)", 'your friends', 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u002_e7
+utterance_id: s01_e03_c04_u002
+  tuple: ('look', "they/(Monica's friends)", 'out after you', 's01_e03_c04_u002')
+
+event_id: s01_e03_c04_u003_e1
+utterance_id: s01_e03_c04_u003
+  tuple: ('know', 'I/Monica Geller', None, 's01_e03_c04_u003')
+
+event_id: s01_e03_c04_u003_e2
+utterance_id: s01_e03_c04_u003
+  tuple: ('wish', 'I/Monica Geller', "that once I'd bring a guy home that they actually liked", 's01_e03_c04_u003')
+
+event_id: s01_e03_c04_u003_e3
+utterance_id: s01_e03_c04_u003
+  tuple: ('bring', 'I/Monica Geller', 'a guy home', 's01_e03_c04_u003')
+
+event_id: s01_e03_c04_u003_e4
+utterance_id: s01_e03_c04_u003
+  tuple: ('like', "they/(Monica's friends)", 'a guy', 's01_e03_c04_u003')
+
+event_id: s01_e03_c04_u004_e1
+utterance_id: s01_e03_c04_u004
+  tuple: ('realise', 'you/Monica Geller', 'the odds of that happening are a little slimmer if they never get to meet the guy', 's01_e03_c04_u004')
+  tuple: ('be', 'the odds of that happening', 'a little slimmer', 's01_e03_c04_u004')
+
+event_id: s01_e03_c04_u004_e2
+utterance_id: s01_e03_c04_u004
+  tuple: ('happen', "that/(Monica's friends liking the guy)", None, 's01_e03_c04_u004')
+
+event_id: s01_e03_c04_u004_e3
+utterance_id: s01_e03_c04_u004
+  tuple: ('get', "they/(Monica's friends)", 'to meet the guy', 's01_e03_c04_u004')
+  tuple: ('meet', "they/(Monica's friends)", 'the guy', 's01_e03_c04_u004')
+

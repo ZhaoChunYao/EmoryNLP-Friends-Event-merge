@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only asks who ordered the chicken and points out that Speaker_07 took the remote; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Behaves cooperatively and straightforwardly by alerting others—“look… [Speaker_07] took the remote”—and asking a neutral, factual question about the food order."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization or carelessness; merely notes events and asks a question."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no anxiety or emotional reactivity; statements are matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are practical and routine; no signs of imaginative or unconventional thinking, nor of dogmatism."
+  }
+}

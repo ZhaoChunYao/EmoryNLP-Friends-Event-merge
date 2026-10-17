@@ -1,0 +1,137 @@
+event_id: s01_e17_c07_u001_e1
+utterance_id: s01_e17_c07_u001
+  tuple: ('sleep', 'I/(Rachel Green)', 'with Billy Dreskin', 's01_e17_c07_u001')
+
+event_id: s01_e17_c07_u001_e2
+utterance_id: s01_e17_c07_u001
+  tuple: ('try', 'His father', 'put you out of business', 's01_e17_c07_u001')
+  tuple: ('put', 'His father', 'you', 's01_e17_c07_u001')
+  tuple: ('put', 'His father', 'out of business', 's01_e17_c07_u001')
+
+event_id: s01_e17_c07_u003_e1
+utterance_id: s01_e17_c07_u003
+  tuple: ('have', 'he/(Marcel)', 'the remote', 's01_e17_c07_u003')
+
+event_id: s01_e17_c07_u004_e1
+utterance_id: s01_e17_c07_u004
+  tuple: ('switch', 'he/(Marcel)', 'it', 's01_e17_c07_u004')
+
+event_id: s01_e17_c07_u008_e1
+utterance_id: s01_e17_c07_u008
+  tuple: ('hold', 'you/(the woman from the hospital admissions office)', 'on a second', 's01_e17_c07_u008')
+
+event_id: s01_e17_c07_u008_e2
+utterance_id: s01_e17_c07_u008
+  tuple: ('let', 'you/(the woman from the hospital admissions office)', 'me', 's01_e17_c07_u008')
+  tuple: ('check', 'I/(Rachel Green)', None, 's01_e17_c07_u008')
+  tuple: ('see', 'I/(Rachel Green)', "if she's here", 's01_e17_c07_u008')
+  tuple: ('be', 'she/(Monica Geller)', 'here', 's01_e17_c07_u008')
+
+event_id: s01_e17_c07_u010_e1
+utterance_id: s01_e17_c07_u010
+  tuple: ('be', 'it/(phone call)', 'the woman from the hospital admissions office', 's01_e17_c07_u010')
+
+event_id: s01_e17_c07_u010_e2
+utterance_id: s01_e17_c07_u010
+  tuple: ('say', 'she/(the woman from the hospital admissions office)', "there's a problem with the form", 's01_e17_c07_u010')
+  tuple: ('be', 'there', 'a problem', 's01_e17_c07_u010')
+
+event_id: s01_e17_c07_u011_e1
+utterance_id: s01_e17_c07_u011
+  tuple: ('do', 'we/(Monica Geller and Rachel Green)', None, 's01_e17_c07_u011')
+
+event_id: s01_e17_c07_u012_e1
+utterance_id: s01_e17_c07_u012
+  tuple: ('know', 'I/(Monica Geller)', None, 's01_e17_c07_u012')
+
+event_id: s01_e17_c07_u012_e2
+utterance_id: s01_e17_c07_u012
+  tuple: ('explain', 'you/(Rachel Green)', None, 's01_e17_c07_u012')
+
+event_id: s01_e17_c07_u012_e3
+utterance_id: s01_e17_c07_u012
+  tuple: ('want', 'they/(hospital admissions office)', 'what', 's01_e17_c07_u012')
+
+event_id: s01_e17_c07_u012_e4
+utterance_id: s01_e17_c07_u012
+  tuple: ('find', 'you/(Rachel Green)', 'out what they want', 's01_e17_c07_u012')
+
+event_id: s01_e17_c07_u013_e1
+utterance_id: s01_e17_c07_u013
+  tuple: ('do', 'you/(Monica Geller)', 'it', 's01_e17_c07_u013')
+
+event_id: s01_e17_c07_u014_e1
+utterance_id: s01_e17_c07_u014
+  tuple: ('be', 'this/(Monica Geller)', 'Monica', 's01_e17_c07_u014')
+
+event_id: s01_e17_c07_u014_e2
+utterance_id: s01_e17_c07_u014
+  tuple: ('be', 'we/(Monica Geller and Rachel Green)', 'right', 's01_e17_c07_u014')
+
+event_id: s01_e17_c07_u014_e3
+utterance_id: s01_e17_c07_u014
+  tuple: ('thank', 'I/(Monica Geller)', 'you', 's01_e17_c07_u014')
+
+event_id: s01_e17_c07_u016_e1
+utterance_id: s01_e17_c07_u016
+  tuple: ('forget', 'we/(Monica Geller and Rachel Green)', 'sign one of the admissions forms', 's01_e17_c07_u016')
+  tuple: ('sign', 'we/(Monica Geller and Rachel Green)', 'one of the admissions forms', 's01_e17_c07_u016')
+
+event_id: s01_e17_c07_u017_e1
+utterance_id: s01_e17_c07_u017
+  tuple: ('be', 'you/(Monica Geller)', 'right', 's01_e17_c07_u017')
+
+event_id: s01_e17_c07_u017_e2
+utterance_id: s01_e17_c07_u017
+  tuple: ('be', 'this', 'worth it', 's01_e17_c07_u017')
+
+event_id: s01_e17_c07_u018_e1
+utterance_id: s01_e17_c07_u018
+  tuple: ('thank', 'I/(Monica Geller)', 'you', 's01_e17_c07_u018')
+
+event_id: s01_e17_c07_u019_e1
+utterance_id: s01_e17_c07_u019
+  tuple: ('let', 'you/(Monica Geller)', 'me', 's01_e17_c07_u019')
+  tuple: ('change', 'I/(Rachel Green)', None, 's01_e17_c07_u019')
+
+event_id: s01_e17_c07_u026_e1
+utterance_id: s01_e17_c07_u026
+  tuple: ('stand', 'your sister', 'up me', 's01_e17_c07_u026')
+
+event_id: s01_e17_c07_u027_e1
+utterance_id: s01_e17_c07_u027
+  tuple: ('hate', 'you/(Joey Tribbiani)', 'it', 's01_e17_c07_u027')
+
+event_id: s01_e17_c07_u027_e2
+utterance_id: s01_e17_c07_u027
+  tuple: ('be', 'people', 'there', 's01_e17_c07_u027')
+  tuple: ('be', 'people', 'there for you', 's01_e17_c07_u027')
+
+event_id: s01_e17_c07_u028_e1
+utterance_id: s01_e17_c07_u028
+  tuple: ('try', 'you/(Joey Tribbiani)', 'calling her', 's01_e17_c07_u028')
+  tuple: ('call', 'you/(Joey Tribbiani)', 'her', 's01_e17_c07_u028')
+
+event_id: s01_e17_c07_u029_e1
+utterance_id: s01_e17_c07_u029
+  tuple: ('try', 'I/(Joey Tribbiani)', None, 's01_e17_c07_u029')
+  tuple: ('try', 'I/(Joey Tribbiani)', 'for two days', 's01_e17_c07_u029')
+
+event_id: s01_e17_c07_u029_e2
+utterance_id: s01_e17_c07_u029
+  tuple: ('call', 'I/(Joey Tribbiani)', 'the restaurant', 's01_e17_c07_u029')
+
+event_id: s01_e17_c07_u029_e3
+utterance_id: s01_e17_c07_u029
+  tuple: ('say', 'they/(the restaurant staff)', 'she was too busy to talk', 's01_e17_c07_u029')
+  tuple: ('be', 'she/(Ursula Buffay)', 'too busy', 's01_e17_c07_u029')
+  tuple: ('talk', 'she/(Ursula Buffay)', None, 's01_e17_c07_u029')
+
+event_id: s01_e17_c07_u029_e4
+utterance_id: s01_e17_c07_u029
+  tuple: ('believe', 'I/(Joey Tribbiani)', "she's blowin' me off", 's01_e17_c07_u029')
+
+event_id: s01_e17_c07_u029_e5
+utterance_id: s01_e17_c07_u029
+  tuple: ('blow', 'she/(Ursula Buffay)', 'off me', 's01_e17_c07_u029')
+

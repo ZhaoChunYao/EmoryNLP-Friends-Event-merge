@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker reacts loudly and excitedly, calling the news \"really, really huge\" and declaring their lives will never be the same (u002, u004). Another person asks if there’s a mute button to silence TargetSpeaker (u005), implying very talkative/energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker shares and reacts to gossip but shows neither kindness nor hostility toward others; no clear cooperative or antagonistic behavior is displayed."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, diligence, or carelessness; TargetSpeaker only offers spontaneous commentary about the news."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "They are excited and dramatic, but there are no signs of nervousness, worry, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from hyperbolic reactions, there is no clear display of curiosity, imaginative thinking, or openness to new ideas."
+  }
+}

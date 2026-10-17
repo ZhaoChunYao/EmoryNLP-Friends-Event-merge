@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Shares enthusiastic news about the new restaurant ('a cute little place on 10th Street') and sets up a social audition dinner, asking Speaker_04 to attend and to 'ooh' and 'ahh' and make yummy noises."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Invites Speaker_04 to be at the dinner and welcomes their supportive reactions ('ooh' and 'ahh'), showing friendliness and valuing others’ support."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows planning and goal focus: 'I’m going to cook dinner for [Speaker_06] on Monday night as an audition' and discusses concrete details about the venue."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "'I love my life'—speaks confidently and shows no anxiety about the upcoming audition."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Actively pursues a new restaurant venture and an audition dinner, indicating willingness to try new experiences and create new dishes."
+  }
+}

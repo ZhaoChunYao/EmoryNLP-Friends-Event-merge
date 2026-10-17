@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She talks at length about herself and dramatic adventures (“been talking about me all night”), vividly recounts a high-intensity story (bullets, escape to the border), and openly discusses sexual topics and potential relationships."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She apologizes for monopolizing the conversation and invites the other to share (“sorry… tell me one of your stories”), and she is straightforward about being married, having a boyfriend, and viewing a new relationship as mainly sexual."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; her disclosures and actions don’t show efficiency/planfulness or sloppiness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She calmly recounts a life-threatening situation (bullets hitting the car but making it to the border) and discusses unconventional relationships without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She describes adventurous, unconventional experiences (escaping under fire, travel) and embraces non-traditional relationship structures and candid sexual openness."
+  }
+}

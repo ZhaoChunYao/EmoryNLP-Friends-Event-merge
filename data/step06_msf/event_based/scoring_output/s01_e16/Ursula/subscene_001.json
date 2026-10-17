@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up repeatedly about the long wait, makes jokes, and directly manages the interaction (telling the waitress to wait and proposing they start over)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Impatient and curt with the waitress (“wait”), complains that the wait is unbelievable, and reacts with a sharp “No, no, no!”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness in actions; behavior centers on reacting to the situation."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows strong irritation about the delay and reacts emotionally (“unbelievable,” “No, no, no!”)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses an imaginative cartoon/ham metaphor and is flexible in proposing to start the interaction over."
+  }
+}

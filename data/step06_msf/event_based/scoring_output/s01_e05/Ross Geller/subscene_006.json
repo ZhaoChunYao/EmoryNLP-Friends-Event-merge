@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He is chatty and expressive, shares a personal story about cooking after being left, and sings a playful 'laundry' song with Speaker_01."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He validates Speaker_01 (“That doesn’t sound stupid”), apologizes, delivers bad news gently, and reassures (“Don’t be upset… could happen to anyone”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He notes the task status (“we’ve finished the laundry”) and identifies the red sock error, but shows no clear signs of planning or organization beyond observing the mistake."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He stays calm and uses humor/singing and reassurance when revealing the mistake, showing composure rather than anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He makes an analogy to his first time cooking after a breakup and uses playful, creative singing—behaviors indicating imagination and openness."
+  }
+}

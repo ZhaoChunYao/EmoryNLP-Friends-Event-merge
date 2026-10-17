@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He jumps into the exchange, challenges his ex about the new partner (“Who the hell’s [name]?”), and proactively suggests all four of them go out to dinner together tonight—showing social assertiveness and eagerness for group interaction."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is not straightforward—he falsely claims to have a girlfriend (“uh, uh, Monica”) to save face and presses for a ‘friends’ dinner with a hidden agenda."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior shows organization or carelessness from him in this exchange; productivity claims come from the other speaker."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He reacts anxiously and defensively to his ex’s new relationship and scrambles to invent a girlfriend (“uh, uh, Monica”), indicating insecurity and nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear sign of curiosity or openness to new ideas; his suggestions appear motivated by jealousy and face-saving rather than exploration."
+  }
+}

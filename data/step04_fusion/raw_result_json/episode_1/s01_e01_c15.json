@@ -1,0 +1,198 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c15_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('believe', 'I/Joey Tribbiani', \"what I'm hearing here\", 's01_e01_c15_u001')",
+            "('hear', 'I/Joey Tribbiani', 'what', 's01_e01_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('believe', 'I/Phoebe Buffay', \"what I'm hearing here\", 's01_e01_c15_u002')",
+            "('hear', 'I/Phoebe Buffay', 'what', 's01_e01_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('stop', 'you/Phoebe Buffay', None, 's01_e01_c15_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'I/Phoebe Buffay', 'it', 's01_e01_c15_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'I/Monica Geller', 'that you had a nice butt', 's01_e01_c15_u008')",
+            "('have', 'you/Rachel Green', 'a nice butt', 's01_e01_c15_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it/(butt)', 'just not a great butt', 's01_e01_c15_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'a great butt', 's01_e01_c15_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('come', 'it/(a great butt)', None, 's01_e01_c15_u009')",
+            "('bite', 'it/(a great butt)', 'ya', 's01_e01_c15_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'There', 'an image', 's01_e01_c15_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('like', 'anybody', 'more coffee', 's01_e01_c15_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('make', 'you/Rachel Green', 'it', 's01_e01_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('serve', 'you/Rachel Green', 'it', 's01_e01_c15_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('serve', 'I/Rachel Green', 'it', 's01_e01_c15_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/#ALL#', 'a cup of coffee', 's01_e01_c15_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'in Las Vegas', 's01_e01_c15_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('excuse', 'you/Customer', 'me', 's01_e01_c15_u017')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('give', 'you/Customer', 'this to that guy over there', 's01_e01_c15_u017')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('go', 'you/Customer', None, 's01_e01_c15_u017')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('thank', 'I/Rachel Green', 'you', 's01_e01_c15_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c15_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'Liza Minelli', 's01_e01_c15_u018')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+event_id: s01_e12_c07_u001_e1
+utterance_id: s01_e12_c07_u001
+  tuple: ('believe', 'I/(Rachel Green)', "you don't want to know", 's01_e12_c07_u001')
+  tuple: ('want', 'you/(Ross Geller)', 'to know', 's01_e12_c07_u001')
+  tuple: ('know', 'you/(Ross Geller)', None, 's01_e12_c07_u001')
+
+event_id: s01_e12_c07_u001_e2
+utterance_id: s01_e12_c07_u001
+  tuple: ('know', 'I/(Rachel Green)', None, 's01_e12_c07_u001')
+
+event_id: s01_e12_c07_u001_e3
+utterance_id: s01_e12_c07_u001
+  tuple: ('know', 'the doctor', None, 's01_e12_c07_u001')
+
+event_id: s01_e12_c07_u001_e4
+utterance_id: s01_e12_c07_u001
+  tuple: ('know', 'Carol', None, 's01_e12_c07_u001')
+
+event_id: s01_e12_c07_u001_e5
+utterance_id: s01_e12_c07_u001
+  tuple: ('know', 'Susan', None, 's01_e12_c07_u001')
+
+event_id: s01_e12_c07_u002_e1
+utterance_id: s01_e12_c07_u002
+  tuple: ('know', 'Monica', None, 's01_e12_c07_u002')
+
+event_id: s01_e12_c07_u003_e1
+utterance_id: s01_e12_c07_u003
+  tuple: ('know', 'you/(Monica Geller)', None, 's01_e12_c07_u003')
+
+event_id: s01_e12_c07_u003_e2
+utterance_id: s01_e12_c07_u003
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e12_c07_u003')
+
+event_id: s01_e12_c07_u004_e1
+utterance_id: s01_e12_c07_u004
+  tuple: ('call', 'Carol', 'me', 's01_e12_c07_u004')
+
+event_id: s01_e12_c07_u004_e2
+utterance_id: s01_e12_c07_u004
+  tuple: ('thank', 'Carol', 'me', 's01_e12_c07_u004')
+  tuple: ('thank', 'Carol', 'for the lasagna', 's01_e12_c07_u004')
+
+event_id: s01_e12_c07_u004_e3
+utterance_id: s01_e12_c07_u004
+  tuple: ('ask', 'I/(Monica Geller)', None, 's01_e12_c07_u004')
+
+event_id: s01_e12_c07_u004_e4
+utterance_id: s01_e12_c07_u004
+  tuple: ('tell', 'she/(Carol)', 'me', 's01_e12_c07_u004')
+
+event_id: s01_e12_c07_u005_e1
+utterance_id: s01_e12_c07_u005
+  tuple: ('be', 'it/(the baby)', 'what', 's01_e12_c07_u005')
+
+event_id: s01_e12_c07_u006_e1
+utterance_id: s01_e12_c07_u006
+  tuple: ('know', 'he/(Joey Tribbiani)', None, 's01_e12_c07_u006')
+
+event_id: s01_e12_c07_u007_e1
+utterance_id: s01_e12_c07_u007
+  tuple: ('be', 'I/(Monica Geller)', 'sorry', 's01_e12_c07_u007')
+
+event_id: s01_e12_c07_u007_e2
+utterance_id: s01_e12_c07_u007
+  tuple: ('be', 'I/(Monica Geller)', 'excited about being an aunt', 's01_e12_c07_u007')
+  tuple: ('be', 'I/(Monica Geller)', 'an aunt', 's01_e12_c07_u007')
+
+event_id: s01_e12_c07_u014_e1
+utterance_id: s01_e12_c07_u014
+  tuple: ('be', 'what', 'the matter', 's01_e12_c07_u014')
+
+event_id: s01_e12_c07_u015_e1
+utterance_id: s01_e12_c07_u015
+  tuple: ('be', 'I/(Phoebe Buffay)', 'sorry', 's01_e12_c07_u015')
+
+event_id: s01_e12_c07_u015_e2
+utterance_id: s01_e12_c07_u015
+  tuple: ('be', 'I/(Phoebe Buffay)', 'out of sorts', 's01_e12_c07_u015')
+
+event_id: s01_e12_c07_u016_e1
+utterance_id: s01_e12_c07_u016
+  tuple: ('get', 'we/(Customer)', 'some cappuccino', 's01_e12_c07_u016')
+  tuple: ('get', 'we/(Customer)', 'over here', 's01_e12_c07_u016')
+
+event_id: s01_e12_c07_u017_e1
+utterance_id: s01_e12_c07_u017
+  tuple: ('be', 'that/(the cappuccino order)', 'me', 's01_e12_c07_u017')
+
+event_id: s01_e12_c07_u018_e1
+utterance_id: s01_e12_c07_u018
+  tuple: ('close', 'that table place', None, 's01_e12_c07_u018')
+  tuple: ('close', 'that table place', 'at 7', 's01_e12_c07_u018')
+
+event_id: s01_e12_c07_u018_e2
+utterance_id: s01_e12_c07_u018
+  tuple: ('come', 'you/(Chandler Bing)', None, 's01_e12_c07_u018')
+  tuple: ('come', 'you/(Chandler Bing)', 'on', 's01_e12_c07_u018')
+
+event_id: s01_e12_c07_u020_e1
+utterance_id: s01_e12_c07_u020
+  tuple: ('be', 'it/(unknown)', 'what', 's01_e12_c07_u020')
+
+event_id: s01_e12_c07_u021_e1
+utterance_id: s01_e12_c07_u021
+  tuple: ('know', 'you/(Ross Geller)', 'Paolo', 's01_e12_c07_u021')
+
+event_id: s01_e12_c07_u022_e1
+utterance_id: s01_e12_c07_u022
+  tuple: ('be', 'I/(Ross Geller)', 'familiar', 's01_e12_c07_u022')
+  tuple: ('be', 'I/(Ross Geller)', 'familiar with his work', 's01_e12_c07_u022')
+
+event_id: s01_e12_c07_u023_e1
+utterance_id: s01_e12_c07_u023
+  tuple: ('make', 'he/(Paolo)', 'a move on me', 's01_e12_c07_u023')
+
+event_id: s01_e12_c07_u025_e1
+utterance_id: s01_e12_c07_u025
+  tuple: ('be', 'store', 'open', 's01_e12_c07_u025')
+

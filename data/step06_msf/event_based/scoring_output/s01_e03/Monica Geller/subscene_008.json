@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly asks where Speaker_03 is and then says 'Thanks.' Minimal speech without signs of being notably outgoing or notably reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is polite and cooperative, saying 'Thanks.' after receiving information."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Asking for someone's location shows a simple goal but no clear evidence of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; the brief interaction is neutral in tone."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, imagination, or closed-mindedness in this exchange."
+  }
+}

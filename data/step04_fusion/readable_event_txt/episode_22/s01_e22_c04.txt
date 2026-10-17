@@ -1,0 +1,86 @@
+event_id: s01_e22_c04_u001_e1
+utterance_id: s01_e22_c04_u001
+  tuple: ('be', 'Windows', 'clean', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e2
+utterance_id: s01_e22_c04_u001
+  tuple: ('be', 'candels', 'lit', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e3
+utterance_id: s01_e22_c04_u001
+  tuple: ('be', 'belt', 'to tight', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e4
+utterance_id: s01_e22_c04_u001
+  tuple: ('change', 'I/Monica Geller', 'the belt', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e5
+utterance_id: s01_e22_c04_u001
+  tuple: ('turn', 'I/Monica Geller', 'the fish', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e6
+utterance_id: s01_e22_c04_u001
+  tuple: ('make', 'I/Monica Geller', 'lasagne', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u001_e7
+utterance_id: s01_e22_c04_u001
+  tuple: ('be', 'I/Monica Geller', 'out of control', 's01_e22_c04_u001')
+
+event_id: s01_e22_c04_u002_e1
+utterance_id: s01_e22_c04_u002
+  tuple: ('understand', 'I/Rachel Green', None, 's01_e22_c04_u002')
+
+event_id: s01_e22_c04_u002_e2
+utterance_id: s01_e22_c04_u002
+  tuple: ('mean', 'I/Rachel Green', None, 's01_e22_c04_u002')
+
+event_id: s01_e22_c04_u002_e3
+utterance_id: s01_e22_c04_u002
+  tuple: ('date', 'you/Monica Geller', 'this guy', 's01_e22_c04_u002')
+  tuple: ('date', 'you/Monica Geller', 'since his midterms', 's01_e22_c04_u002')
+
+event_id: s01_e22_c04_u002_e4
+utterance_id: s01_e22_c04_u002
+  tuple: ('be', 'you/Monica Geller', None, 's01_e22_c04_u002')
+
+event_id: s01_e22_c04_u004_e1
+utterance_id: s01_e22_c04_u004
+  tuple: ('be', 'tonight', 'the Night', 's01_e22_c04_u004')
+
+event_id: s01_e22_c04_u005_e1
+utterance_id: s01_e22_c04_u005
+  tuple: ('know', 'I/Monica Geller', None, 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e2
+utterance_id: s01_e22_c04_u005
+  tuple: ('look', 'you/Rachel Green', None, 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e3
+utterance_id: s01_e22_c04_u005
+  tuple: ('be', "he/(Monica's boyfriend)", 'a great guy', 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e4
+utterance_id: s01_e22_c04_u005
+  tuple: ('love', 'I/Monica Geller', 'being with him', 's01_e22_c04_u005')
+  tuple: ('be', 'I/Monica Geller', 'with him', 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e5
+utterance_id: s01_e22_c04_u005
+  tuple: ('be', 'I/Monica Geller', None, 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e6
+utterance_id: s01_e22_c04_u005
+  tuple: ('know', 'you/Rachel Green', None, 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e7
+utterance_id: s01_e22_c04_u005
+  tuple: ('happen', 'Things', None, 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u005_e8
+utterance_id: s01_e22_c04_u005
+  tuple: ('plan', 'you/Rachel Green', 'these things', 's01_e22_c04_u005')
+
+event_id: s01_e22_c04_u006_e1
+utterance_id: s01_e22_c04_u006
+  tuple: ('shave', 'you/Monica Geller', 'your legs', 's01_e22_c04_u006')
+

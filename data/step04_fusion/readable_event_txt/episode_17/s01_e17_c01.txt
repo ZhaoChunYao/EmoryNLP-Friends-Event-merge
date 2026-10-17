@@ -1,0 +1,129 @@
+event_id: s01_e17_c01_u003_e1
+utterance_id: s01_e17_c01_u003
+  tuple: ('take', 'my friend here', 'down our Christmas lights', 's01_e17_c01_u003')
+
+event_id: s01_e17_c01_u003_e2
+utterance_id: s01_e17_c01_u003
+  tuple: ('fall', 'she/Rachel Green', 'off the balcony', 's01_e17_c01_u003')
+
+event_id: s01_e17_c01_u003_e3
+utterance_id: s01_e17_c01_u003
+  tuple: ('break', 'she/Rachel Green', 'her foot or ankle or something', 's01_e17_c01_u003')
+
+event_id: s01_e17_c01_u004_e1
+utterance_id: s01_e17_c01_u004
+  tuple: ('have', 'you/Monica Geller', 'your Christmas lights', 's01_e17_c01_u004')
+
+event_id: s01_e17_c01_u006_e1
+utterance_id: s01_e17_c01_u006
+  tuple: ('fill', 'you/Monica Geller', 'out this', 's01_e17_c01_u006')
+
+event_id: s01_e17_c01_u006_e2
+utterance_id: s01_e17_c01_u006
+  tuple: ('bring', 'you/Monica Geller', 'it', 's01_e17_c01_u006')
+  tuple: ('bring', 'you/Monica Geller', 'to me', 's01_e17_c01_u006')
+
+event_id: s01_e17_c01_u010_e1
+utterance_id: s01_e17_c01_u010
+  tuple: ('call', 'you/Rachel Green', 'in case of emergency', 's01_e17_c01_u010')
+
+event_id: s01_e17_c01_u014_e1
+utterance_id: s01_e17_c01_u014
+  tuple: ('be', 'that', 'so sweet', 's01_e17_c01_u014')
+
+event_id: s01_e17_c01_u014_e2
+utterance_id: s01_e17_c01_u014
+  tuple: ('love', 'I/Monica Geller', 'you', 's01_e17_c01_u014')
+
+event_id: s01_e17_c01_u015_e1
+utterance_id: s01_e17_c01_u015
+  tuple: ('check', 'you/Monica Geller', 'it', 's01_e17_c01_u015')
+
+event_id: s01_e17_c01_u015_e2
+utterance_id: s01_e17_c01_u015
+  tuple: ('want', 'I/Rachel Green', 'some of that', 's01_e17_c01_u015')
+
+event_id: s01_e17_c01_u016_e1
+utterance_id: s01_e17_c01_u016
+  tuple: ('have', 'you/Rachel Green', 'insurance', 's01_e17_c01_u016')
+
+event_id: s01_e17_c01_u017_e1
+utterance_id: s01_e17_c01_u017
+  tuple: ('cost', 'this', 'how much', 's01_e17_c01_u017')
+
+event_id: s01_e17_c01_u018_e1
+utterance_id: s01_e17_c01_u018
+  tuple: ('have', 'I/Monica Geller', 'no idea', 's01_e17_c01_u018')
+
+event_id: s01_e17_c01_u018_e2
+utterance_id: s01_e17_c01_u018
+  tuple: ('be', 'X-rays alone', 'a couple hundred dollars', 's01_e17_c01_u018')
+
+event_id: s01_e17_c01_u019_e1
+utterance_id: s01_e17_c01_u019
+  tuple: ('do', 'we/Monica Geller+Rachel Green', 'what', 's01_e17_c01_u019')
+
+event_id: s01_e17_c01_u020_e1
+utterance_id: s01_e17_c01_u020
+  tuple: ('be', 'there', 'not much', 's01_e17_c01_u020')
+
+event_id: s01_e17_c01_u021_e1
+utterance_id: s01_e17_c01_u021
+  tuple: ('use', 'I/Rachel Green', 'yours', 's01_e17_c01_u021')
+
+event_id: s01_e17_c01_u023_e1
+utterance_id: s01_e17_c01_u023
+  tuple: ('wait', 'you/Monica Geller', 'a second', 's01_e17_c01_u023')
+
+event_id: s01_e17_c01_u023_e2
+utterance_id: s01_e17_c01_u023
+  tuple: ('put', 'I/Rachel Green', 'who', 's01_e17_c01_u023')
+  tuple: ('put', 'I/Rachel Green', 'as my "In case of emergency" person', 's01_e17_c01_u023')
+
+event_id: s01_e17_c01_u024_e1
+utterance_id: s01_e17_c01_u024
+  tuple: ('be', 'that', 'insurance fraud', 's01_e17_c01_u024')
+
+event_id: s01_e17_c01_u025_e1
+utterance_id: s01_e17_c01_u025
+  tuple: ('forget', 'you/Monica Geller', 'it', 's01_e17_c01_u025')
+
+event_id: s01_e17_c01_u025_e2
+utterance_id: s01_e17_c01_u025
+  tuple: ('go', 'I/Rachel Green', 'home', 's01_e17_c01_u025')
+
+event_id: s01_e17_c01_u026_e1
+utterance_id: s01_e17_c01_u026
+  tuple: ('hate', 'I/Monica Geller', 'this', 's01_e17_c01_u026')
+
+event_id: s01_e17_c01_u027_e1
+utterance_id: s01_e17_c01_u027
+  tuple: ('love', 'I/Rachel Green', 'you', 's01_e17_c01_u027')
+
+event_id: s01_e17_c01_u028_e1
+utterance_id: s01_e17_c01_u028
+  tuple: ('need', 'I/Monica Geller', 'a new set of these forms', 's01_e17_c01_u028')
+
+event_id: s01_e17_c01_u030_e1
+utterance_id: s01_e17_c01_u030
+  tuple: ('be', 'I/Monica Geller', 'really an idiot', 's01_e17_c01_u030')
+
+event_id: s01_e17_c01_u030_e2
+utterance_id: s01_e17_c01_u030
+  tuple: ('see', 'you/Nurse Sizemore', None, 's01_e17_c01_u030')
+
+event_id: s01_e17_c01_u030_e3
+utterance_id: s01_e17_c01_u030
+  tuple: ('fill', 'I/Monica Geller', "out my friend's form", 's01_e17_c01_u030')
+  tuple: ('put', 'I/Monica Geller', 'her information', 's01_e17_c01_u030')
+  tuple: ('put', 'I/Monica Geller', 'mine', 's01_e17_c01_u030')
+
+event_id: s01_e17_c01_u031_e1
+utterance_id: s01_e17_c01_u031
+  tuple: ('be', 'you/Monica Geller', 'an idiot', 's01_e17_c01_u031')
+
+event_id: s01_e17_c01_u032_e1
+utterance_id: s01_e17_c01_u032
+  tuple: ('be', 'that', 'me', 's01_e17_c01_u032')
+  tuple: ('be', 'I/Monica Geller', 'that stupid', 's01_e17_c01_u032')
+

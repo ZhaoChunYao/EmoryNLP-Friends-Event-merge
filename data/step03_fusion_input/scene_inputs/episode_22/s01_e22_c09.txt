@@ -1,0 +1,78 @@
+('think', 'I/Chandler Bing', 'last night was great', 's01_e22_c09_u001')
+[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+
+('be', 'last night', 'great', 's01_e22_c09_u001')
+[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+
+('know', 'you/Phoebe Buffay', None, 's01_e22_c09_u001')
+[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+
+('do', 'Tracy and I', 'Ebony and Ivory', 's01_e22_c09_u001')
+[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+
+('be', 'you/Chandler Bing', 'great', 's01_e22_c09_u002')
+[s01_e22_c09_u002] Phoebe Buffay: You were great. But they still made fun of you.
+
+('make', 'they/(people at karaoke)', 'fun of you', 's01_e22_c09_u002')
+[s01_e22_c09_u002] Phoebe Buffay: You were great. But they still made fun of you.
+
+('know', 'you/Chandler Bing', None, 's01_e22_c09_u004')
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, "Mr. Caring Boss," "Mr.", you know, "I'm one of you, Boss," "Mr., I wanna be your buddy, Boss Man Bing!"
+
+('be', 'you/Chandler Bing', 'like Mr. Caring Boss', 's01_e22_c09_u004')
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, "Mr. Caring Boss," "Mr.", you know, "I'm one of you, Boss," "Mr., I wanna be your buddy, Boss Man Bing!"
+
+('be', 'I/Chandler Bing', 'one of you', 's01_e22_c09_u004')
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, "Mr. Caring Boss," "Mr.", you know, "I'm one of you, Boss," "Mr., I wanna be your buddy, Boss Man Bing!"
+
+('want', 'I/Chandler Bing', 'be your buddy', 's01_e22_c09_u004')
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, "Mr. Caring Boss," "Mr.", you know, "I'm one of you, Boss," "Mr., I wanna be your buddy, Boss Man Bing!"
+
+('be', 'I/Chandler Bing', 'your buddy', 's01_e22_c09_u004')
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, "Mr. Caring Boss," "Mr.", you know, "I'm one of you, Boss," "Mr., I wanna be your buddy, Boss Man Bing!"
+
+('get', 'I/Chandler Bing', 'it', 's01_e22_c09_u005')
+[s01_e22_c09_u005] Chandler Bing: Then, I don't get it.
+
+('know', 'you/Chandler Bing', 'what', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('think', 'I/Phoebe Buffay', "you've gotta face it", 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('face', 'you/Chandler Bing', 'it', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('be', 'you/Chandler Bing', 'like the guy in the big office', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('be', 'you/Chandler Bing', 'in the big office', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('be', 'you/Chandler Bing', 'the one', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('hire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('fire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('say', "they/(Chandler's employees)", "you're a great boss", 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('be', 'you/Chandler Bing', 'a great boss', 's01_e22_c09_u006')
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+
+('do', "they/(Chandler's employees)", None, 's01_e22_c09_u007')
+[s01_e22_c09_u007] Chandler Bing: They do?
+
+('be', "they/(Chandler's employees)", 'your friends anymore', 's01_e22_c09_u008')
+[s01_e22_c09_u008] Phoebe Buffay: Uh huh. But they're not your friends anymore.
+
+('want', 'I/Chandler Bing', None, 's01_e22_c09_u009')
+[s01_e22_c09_u009] Chandler Bing: I just wan't to...
+
+('can', 'you/Chandler Bing', None, 's01_e22_c09_u010')
+[s01_e22_c09_u010] Phoebe Buffay: No, but you can't.
+

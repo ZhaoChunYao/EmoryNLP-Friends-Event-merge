@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates interaction to borrow an item and openly shares that it’s a big day for them (u003, u005)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely asks to borrow moisturizer and expresses thanks (u003, u007)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Prepares for an important day by seeking necessary grooming supplies (u003, u005)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressed anxiety or emotional volatility; mood not indicated."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, imaginative ideas, or preference for novelty in the exchange."
+  }
+}

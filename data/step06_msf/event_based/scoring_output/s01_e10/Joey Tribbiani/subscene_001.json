@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker simply answers questions about not getting the job and complains; no clear outgoing, energetic, or highly sociable behavior is shown."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker criticizes the rival ('not jolly'), accuses him of sleeping with the manager, and frames the decision as 'all political,' showing disparaging and confrontational tendencies."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors indicating organization or carelessness; discussing the failed job and taking a helper role does not clearly reflect conscientiousness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses frustration and feels the helper position is 'a slap in the face,' indicating sensitivity and negative affect."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or closed-mindedness is presented in the exchange."
+  }
+}

@@ -1,0 +1,105 @@
+('be', 'it/(the rule)', 'just because it was my table', 's01_e12_c05_u001')
+[s01_e12_c05_u001] Chandler Bing: Ok, so it's just because it was my table, I have to buy a new one?
+
+('be', 'it/(the table)', 'my table', 's01_e12_c05_u001')
+[s01_e12_c05_u001] Chandler Bing: Ok, so it's just because it was my table, I have to buy a new one?
+
+('buy', 'I/(Chandler Bing)', 'a new one', 's01_e12_c05_u001')
+[s01_e12_c05_u001] Chandler Bing: Ok, so it's just because it was my table, I have to buy a new one?
+
+('be', 'that/(the rule statement)', 'the rule', 's01_e12_c05_u002')
+[s01_e12_c05_u002] Joey Tribbiani: That's the rule.
+
+('be', 'there', 'no rule', 's01_e12_c05_u003')
+[s01_e12_c05_u003] Chandler Bing: What rule? There's no rule, if anything, you owe me a table!
+
+('owe', 'you/(Joey Tribbiani)', 'me a table', 's01_e12_c05_u003')
+[s01_e12_c05_u003] Chandler Bing: What rule? There's no rule, if anything, you owe me a table!
+
+('get', 'you/(Chandler Bing)', 'to that', 's01_e12_c05_u004')
+[s01_e12_c05_u004] Joey Tribbiani: How'd you get to that?
+
+('believe', 'I/(Chandler Bing)', 'the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio', 's01_e12_c05_u005')
+[s01_e12_c05_u005] Chandler Bing: Well, I believe the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio
+
+('be', 'the piece of furniture', 'fine until your little breakfast adventure', 's01_e12_c05_u005')
+[s01_e12_c05_u005] Chandler Bing: Well, I believe the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio
+
+('know', 'you/(Chandler Bing)', 'about that', 's01_e12_c05_u006')
+[s01_e12_c05_u006] Joey Tribbiani: You knew about that?
+
+('say', 'we/(Chandler Bing and Joey Tribbiani)', 'the impressions you made in the butter left little to the imagination', 's01_e12_c05_u007')
+[s01_e12_c05_u007] Chandler Bing: Well, let's just say the impressions you made in the butter left little to the imagination.
+
+('make', 'you/(Joey Tribbiani)', 'impressions in the butter', 's01_e12_c05_u007')
+[s01_e12_c05_u007] Chandler Bing: Well, let's just say the impressions you made in the butter left little to the imagination.
+
+('leave', 'the impressions', 'little to the imagination', 's01_e12_c05_u007')
+[s01_e12_c05_u007] Chandler Bing: Well, let's just say the impressions you made in the butter left little to the imagination.
+
+('split', 'we/(Chandler Bing and Joey Tribbiani)', 'it', 's01_e12_c05_u008')
+[s01_e12_c05_u008] Joey Tribbiani: Ok, ok, How about if we split it?
+
+('mean', 'you/(Joey Tribbiani)', 'buy it together', 's01_e12_c05_u009')
+[s01_e12_c05_u009] Chandler Bing: What do you mean, like, buy it together?
+
+('buy', 'we/(Chandler Bing and Joey Tribbiani)', 'it', 's01_e12_c05_u009')
+[s01_e12_c05_u009] Chandler Bing: What do you mean, like, buy it together?
+
+('think', 'you/(Joey Tribbiani)', 'we are ready for something like that', 's01_e12_c05_u011')
+[s01_e12_c05_u011] Chandler Bing: You think we're ready for something like that?
+
+('be', 'we/(Chandler Bing and Joey Tribbiani)', 'ready for something like that', 's01_e12_c05_u011')
+[s01_e12_c05_u011] Chandler Bing: You think we're ready for something like that?
+
+('be', 'it/(buying together)', 'a pretty big commitment', 's01_e12_c05_u013')
+[s01_e12_c05_u013] Chandler Bing: Well, it's a pretty big commitment, I mean, what if one of us wants to move out?
+
+('want', 'one of us/(Chandler Bing or Joey Tribbiani)', 'to move out', 's01_e12_c05_u013')
+[s01_e12_c05_u013] Chandler Bing: Well, it's a pretty big commitment, I mean, what if one of us wants to move out?
+
+('move out', 'one of us/(Chandler Bing or Joey Tribbiani)', None, 's01_e12_c05_u013')
+[s01_e12_c05_u013] Chandler Bing: Well, it's a pretty big commitment, I mean, what if one of us wants to move out?
+
+('move out', 'you/(Chandler Bing)', None, 's01_e12_c05_u014')
+[s01_e12_c05_u014] Joey Tribbiani: Why, are you moving out?
+
+('move out', 'I/(Chandler Bing)', None, 's01_e12_c05_u015')
+[s01_e12_c05_u015] Chandler Bing: I'm not moving out.
+
+('tell', 'you/(Chandler Bing)', 'me', 's01_e12_c05_u016')
+[s01_e12_c05_u016] Joey Tribbiani: You'd tell me if you were moving out right
+
+('be', 'it/(the issue)', 'just that with my last roommate Kip', 's01_e12_c05_u017')
+[s01_e12_c05_u017] Chandler Bing: Yeah, yeah, it's just that with my last roommate Kip...
+
+('know', 'I/(Joey Tribbiani)', 'all about Kip', 's01_e12_c05_u018')
+[s01_e12_c05_u018] Joey Tribbiani: Aw, I know all about Kip!
+
+('be', 'it/(the issue)', 'just that we bought a hibachi together', 's01_e12_c05_u019')
+[s01_e12_c05_u019] Chandler Bing: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
+
+('buy', 'we/(Chandler Bing and Kip)', 'a hibachi', 's01_e12_c05_u019')
+[s01_e12_c05_u019] Chandler Bing: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
+
+('run off', 'he/(Kip)', None, 's01_e12_c05_u019')
+[s01_e12_c05_u019] Chandler Bing: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
+
+('get married', 'he/(Kip)', None, 's01_e12_c05_u019')
+[s01_e12_c05_u019] Chandler Bing: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
+
+('get', 'things/(the situation)', 'pretty ugly', 's01_e12_c05_u019')
+[s01_e12_c05_u019] Chandler Bing: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
+
+('let', 'you/(Chandler Bing)', 'me ask you something', 's01_e12_c05_u020')
+[s01_e12_c05_u020] Joey Tribbiani: Well, let me ask you something, was Kip a better roommate than me?
+
+('ask', 'I/(Joey Tribbiani)', 'you something', 's01_e12_c05_u020')
+[s01_e12_c05_u020] Joey Tribbiani: Well, let me ask you something, was Kip a better roommate than me?
+
+('be', 'Kip', 'a better roommate than me', 's01_e12_c05_u020')
+[s01_e12_c05_u020] Joey Tribbiani: Well, let me ask you something, was Kip a better roommate than me?
+
+('do', 'you/(Joey Tribbiani)', 'that', 's01_e12_c05_u021')
+[s01_e12_c05_u021] Chandler Bing: Aw, don't do that
+

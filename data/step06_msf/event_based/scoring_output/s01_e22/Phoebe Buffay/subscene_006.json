@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks assertively and at length, directly confronting Speaker_01, insisting he knows what is meant, and even cuts him off with “Uh uh.”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Bluntly tells Speaker_01 people made fun of him, insists he must face reality, says he can’t be friends with employees, and cuts him off—more critical than warm or accommodating."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Pushes for clear role boundaries and responsibility—urges Speaker_01 to accept being the boss and not a buddy, emphasizing order and realism."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of anxiety; speaks firmly and confidently while delivering uncomfortable truths."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Takes a rigid, absolute stance (“you cannot be friends with your employees”) rather than exploring alternatives, indicating a dogmatic view."
+  }
+}

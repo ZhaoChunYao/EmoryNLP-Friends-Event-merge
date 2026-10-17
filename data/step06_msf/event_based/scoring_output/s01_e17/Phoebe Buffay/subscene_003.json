@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates conversation, asks for a minute to talk, gives a birthday present, and repeatedly engages with direct questions about Speaker_02’s relationship."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Remembers Speaker_02’s birthday and brings a present; shows concern/empathy by noting Speaker_04 is really crazy about Speaker_02."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Remembered the birthday and prepared a gift, indicating planning and reliability."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks directly and calmly about sensitive topics and confidently refuses food (“No food with a face”) with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity by probing about the status of Speaker_02’s relationship and whether Speaker_02 will call Speaker_04."
+  }
+}

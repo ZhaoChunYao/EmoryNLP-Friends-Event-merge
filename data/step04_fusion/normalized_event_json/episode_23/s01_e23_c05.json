@@ -1,0 +1,233 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u001_e1",
+          "tuples": [
+            "('go', 'we/Lydia+Mom', 'through this', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e2",
+          "tuples": [
+            "('call', 'I/Lydia', 'him', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e3",
+          "tuples": [
+            "('care', 'I/Lydia', 'if it is his kid', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e4",
+          "tuples": [
+            "('be', 'it/(baby)', 'his kid', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e5",
+          "tuples": [
+            "('be', 'the guy', 'a jerk', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e6",
+          "tuples": [
+            "('be', 'I/Lydia', 'alone', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e7",
+          "tuples": [
+            "('be', 'Joey Tribbiani', 'here', 's01_e23_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u001_e8",
+          "tuples": [
+            "('mean', \"you/Lydia's mom\", 'what', 's01_e23_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u003_e1",
+          "tuples": [
+            "('hold on', \"you/Lydia's mom\", None, 's01_e23_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u003_e2",
+          "tuples": [
+            "('want', \"she/Lydia's mom\", 'to talk to you', 's01_e23_c05_u003')",
+            "('talk', \"she/Lydia's mom\", 'to you', 's01_e23_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u003_e3",
+          "tuples": [
+            "('take', 'you/Joey Tribbiani', 'the phone', 's01_e23_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u004_e1",
+          "tuples": [
+            "('be', 'it', 'me', 's01_e23_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u004_e2",
+          "tuples": [
+            "('be', 'we/Joey Tribbiani+Lydia', 'just friends', 's01_e23_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u004_e3",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', 'single', 's01_e23_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u005_e1",
+          "tuples": [
+            "('be', \"she/Lydia's mom\", 'much of a phone person', 's01_e23_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u006_e1",
+          "tuples": [
+            "('be', 'what', 'the deal with this father guy', 's01_e23_c05_u006')",
+            "('be', 'the deal', 'with this father guy', 's01_e23_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u006_e2",
+          "tuples": [
+            "('mean', 'I/Joey Tribbiani', None, 's01_e23_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u006_e3",
+          "tuples": [
+            "('have', 'someone', 'my baby somewhere', 's01_e23_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u006_e4",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'to know about it', 's01_e23_c05_u006')",
+            "('know', 'I/Joey Tribbiani', 'it', 's01_e23_c05_u006')",
+            "('know', 'I/Joey Tribbiani', 'about it', 's01_e23_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u006_e5",
+          "tuples": [
+            "('know', 'you/Lydia', None, 's01_e23_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u007_e1",
+          "tuples": [
+            "('be', 'I/Lydia', 'interested in your views on fatherhood', 's01_e23_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u008_e1",
+          "tuples": [
+            "('look', 'you/Lydia', None, 's01_e23_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u008_e2",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani', None, 's01_e23_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u010",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u010_e1",
+          "tuples": [
+            "('take care', 'you/Lydia', None, 's01_e23_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u012",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u012_e1",
+          "tuples": [
+            "('know', 'you/Lydia', 'what the Celtics problem is', 's01_e23_c05_u012')",
+            "('be', 'the Celtics problem', 'what', 's01_e23_c05_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c05_u012_e2",
+          "tuples": [
+            "('let', 'they/The Celtics', 'the players run the team', 's01_e23_c05_u012')",
+            "('run', 'the players', 'the team', 's01_e23_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u013",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u013_e1",
+          "tuples": [
+            "('be', 'that', 'so not true', 's01_e23_c05_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c05_u014",
+      "events": [
+        {
+          "event_id": "s01_e23_c05_u014_e1",
+          "tuples": [
+            "('be', 'it', None, 's01_e23_c05_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She engages actively, jokes about spelling it out with noodles, and confidently states there will be and that she wants a fifth date."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She quickly apologizes for spitting on him and notes that being spat on isn’t what he needs right now, showing empathy and concern."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She had just spit on him—an impulsive, careless act—despite later apologizing."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She remains calm and supportive during his vulnerable admission and confidently affirms wanting a fifth date."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a playful noodle comment, there’s no strong sign of unusual curiosity or inventiveness."
+  }
+}

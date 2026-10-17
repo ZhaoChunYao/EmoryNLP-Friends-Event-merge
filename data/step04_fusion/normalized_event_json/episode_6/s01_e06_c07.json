@@ -1,0 +1,360 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e06_c07_u001",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u001_e1",
+          "tuples": [
+            "('love', 'I/Chandler Bing', 'these fingers', 's01_e06_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u003_e1",
+          "tuples": [
+            "('mean', 'I/Chandler Bing', 'my fingers', 's01_e06_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c07_u003_e2",
+          "tuples": [
+            "('look', 'you/Aurora', 'at them', 's01_e06_c07_u003')",
+            "('look', 'you/Aurora', 'at how happy they are', 's01_e06_c07_u003')",
+            "('be', \"they/(Chandler Bing's fingers)\", 'happy', 's01_e06_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u004_e1",
+          "tuples": [
+            "('be', 'I/Aurora', 'late', 's01_e06_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u005_e1",
+          "tuples": [
+            "('go', 'you/Aurora', None, 's01_e06_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u008",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u008_e1",
+          "tuples": [
+            "('have', 'I/Aurora', None, 's01_e06_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u009",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u009_e1",
+          "tuples": [
+            "('leave', 'she/Aurora', None, 's01_e06_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u010",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u010_e1",
+          "tuples": [
+            "('be', 'I/Aurora', 'sorry', 's01_e06_c07_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c07_u010_e2",
+          "tuples": [
+            "('wait', 'he/Andrew', 'for me', 's01_e06_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u011",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u011_e1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'you talked to Rick', 's01_e06_c07_u011')",
+            "('talk', 'you/Aurora', 'to Rick', 's01_e06_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u012",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u012_e1",
+          "tuples": [
+            "('be', 'it/(the guy waiting for Aurora)', 'not Rick', 's01_e06_c07_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u013",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u013_e1",
+          "tuples": [
+            "('spend', 'he/Ethan', 'the whole day with you', 's01_e06_c07_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u014",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u014_e1",
+          "tuples": [
+            "('be', 'it/(the guy waiting for Aurora)', 'Andrew', 's01_e06_c07_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u015",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u015_e1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'there will be many moments in the years to come when I will regret asking the following question', 's01_e06_c07_u015')",
+            "('be', 'there', 'many moments', 's01_e06_c07_u015')",
+            "('come', 'years', None, 's01_e06_c07_u015')",
+            "('regret', 'I/Chandler Bing', 'asking the following question', 's01_e06_c07_u015')",
+            "('ask', 'I/Chandler Bing', 'the following question', 's01_e06_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c07_u015_e2",
+          "tuples": [
+            "('be', 'Andrew', None, 's01_e06_c07_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u016",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u016_e1",
+          "tuples": [
+            "('be', 'he/Andrew', 'new', 's01_e06_c07_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u017",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u017_e1",
+          "tuples": [
+            "('say', 'you/Aurora', 'you are not completely fulfilled by Rick, Ethan and myself', 's01_e06_c07_u017')",
+            "('be', 'what you are saying', 'you are not completely fulfilled by Rick, Ethan and myself', 's01_e06_c07_u017')",
+            "('fulfill', 'you/Aurora', 'by Rick, Ethan and myself', 's01_e06_c07_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u018",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u018_e1",
+          "tuples": [
+            "('be', 'that', 'not exactly what I was', 's01_e06_c07_u018')",
+            "('be', 'I/Aurora', None, 's01_e06_c07_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u019",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u019_e1",
+          "tuples": [
+            "('know', 'you/Aurora', None, 's01_e06_c07_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c07_u019_e2",
+          "tuples": [
+            "('kill', 'most women', 'for three guys like us', 's01_e06_c07_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u020",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u020_e1",
+          "tuples": [
+            "('want', 'you/Chandler Bing', 'what', 's01_e06_c07_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u022",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u022_e1",
+          "tuples": [
+            "('have', 'you/Chandler Bing', 'me', 's01_e06_c07_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u024",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u024_e1",
+          "tuples": [
+            "('mean', 'you/Chandler Bing', None, 's01_e06_c07_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u025",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u025_e1",
+          "tuples": [
+            "('lose', 'you/Aurora', 'the other guys', 's01_e06_c07_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u027",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u027_e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing & Aurora)', 'great together', 's01_e06_c07_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u028",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u028_e1",
+          "tuples": [
+            "('have', 'we/(Chandler Bing & Aurora)', 'what we have now', 's01_e06_c07_u028')",
+            "('talk', 'we/(Chandler Bing & Aurora)', None, 's01_e06_c07_u028')",
+            "('laugh', 'we/(Chandler Bing & Aurora)', None, 's01_e06_c07_u028')",
+            "('make', 'we/(Chandler Bing & Aurora)', 'love without feeling obligated to one another', 's01_e06_c07_u028')",
+            "('feel', 'we/(Chandler Bing & Aurora)', 'obligated to one another', 's01_e06_c07_u028')",
+            "('think', 'I/Aurora', 'that is what you wanted too', 's01_e06_c07_u028')",
+            "('be', 'that', 'what you wanted too', 's01_e06_c07_u028')",
+            "('want', 'you/Chandler Bing', 'that', 's01_e06_c07_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u029",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u029_e1",
+          "tuples": [
+            "('want', 'part of me/(Chandler Bing)', 'that', 's01_e06_c07_u029')",
+            "('be', 'it', 'like I am two guys', 's01_e06_c07_u029')",
+            "('be', 'I/Chandler Bing', 'two guys', 's01_e06_c07_u029')",
+            "('go', 'one guy/(part of Chandler Bing)', '\"Shut up! This is great!\"', 's01_e06_c07_u029')",
+            "('shut up', 'you/(the other guy in Chandler)', None, 's01_e06_c07_u029')",
+            "('be', 'this', 'great', 's01_e06_c07_u029')",
+            "('be', 'there', 'this other guy', 's01_e06_c07_u029')",
+            "('be', 'it', \"the same guy that wells up every time that Grinch's heart grows three sizes and breaks that measuring device\", 's01_e06_c07_u029')",
+            "('well up', 'the same guy', None, 's01_e06_c07_u029')",
+            "('grow', \"Grinch's heart\", 'three sizes', 's01_e06_c07_u029')",
+            "('break', \"Grinch's heart\", 'that measuring device', 's01_e06_c07_u029')",
+            "('say', 'he/(the same guy)', '\"This is too hard! Get out! Get out!\"', 's01_e06_c07_u029')",
+            "('be', 'this', 'too hard', 's01_e06_c07_u029')",
+            "('get out', 'you/Chandler Bing', None, 's01_e06_c07_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u030",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u030_e1",
+          "tuples": [
+            "('listen', 'you/Chandler Bing', 'to which one of the two guys', 's01_e06_c07_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u031",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u031_e1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', None, 's01_e06_c07_u031')",
+            "('have', 'I/Chandler Bing', 'to listen to both of them', 's01_e06_c07_u031')",
+            "('listen', 'I/Chandler Bing', 'to both of them', 's01_e06_c07_u031')",
+            "('let', 'they/(the two guys in Chandler)', 'each other finish', 's01_e06_c07_u031')",
+            "('finish', 'each other', None, 's01_e06_c07_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u034",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u034_e1",
+          "tuples": [
+            "('call', 'you/Chandler Bing', 'me', 's01_e06_c07_u034')",
+            "('change', 'you/Chandler Bing', 'your mind', 's01_e06_c07_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c07_u036",
+      "events": [
+        {
+          "event_id": "s01_e06_c07_u036_e1",
+          "tuples": [
+            "('run', 'the first guy/(part of Chandler Bing)', 'the lips', 's01_e06_c07_u036')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, curt replies (“No!”, “Sorry, prom queen.” “Nope.”) and does not engage in conversation, indicating a reserved, non-talkative stance."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Refuses multiple pleas to return Marcel, dismisses appeals to be the ‘bigger person,’ and mocks Speaker_03 as “prom queen,” showing uncooperative and antagonistic behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Insists the dispute over Marcel must go to a judge, adhering to formal process despite social pressure, indicating rule-bound, organized conduct."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains firm and unflustered in the face of pleas and a threat to call her supervisor, displaying confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Shows rigid, dogmatic adherence to procedure (insisting on a judge) and refuses to consider alternatives or compromise."
+  }
+}

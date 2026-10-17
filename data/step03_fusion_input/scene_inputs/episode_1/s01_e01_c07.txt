@@ -1,0 +1,141 @@
+('divorce', 'I/(Ross Geller)', None, 's01_e01_c07_u001')
+[s01_e01_c07_u001] Ross Geller: I'm divorced! I'm only 26 and I'm divorced!
+
+('be', 'I/(Ross Geller)', 'only 26', 's01_e01_c07_u001')
+[s01_e01_c07_u001] Ross Geller: I'm divorced! I'm only 26 and I'm divorced!
+
+('shut up', 'you/(Ross Geller)', None, 's01_e01_c07_u002')
+[s01_e01_c07_u002] Joey Tribbiani: Shut up!
+
+('stop', 'you/(Ross Geller)', None, 's01_e01_c07_u003')
+[s01_e01_c07_u003] Chandler Bing: You must stop!
+
+('take', 'That', 'an hour', 's01_e01_c07_u004')
+[s01_e01_c07_u004] Ross Geller: That only took me an hour.
+
+('look', 'you/(Ross Geller)', None, 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('understand', 'you/(Ross Geller)', None, 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('have', 'we/(Chandler Bing+Joey Tribbiani)', 'a relationship', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('last', 'a relationship', 'longer than a Mento', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('have', 'you/(Ross Geller)', 'the love of a woman for four years', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('rip', "she/(Ross Geller's ex-wife)", 'out your heart', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('rip', "she/(Ross Geller's ex-wife)", 'at the end of four years of closeness and sharing', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('be', 'that', "why we don't do it", 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('do', 'we/(Chandler Bing+Joey Tribbiani)', 'it', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('think', 'I/(Chandler Bing)', 'that was my point', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('be', 'that', 'my point', 's01_e01_c07_u005')
+[s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+
+('know', 'you/(Chandler Bing+Joey Tribbiani)', 'what the scariest part is', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'the scariest part', None, 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'there', 'only one woman for everybody', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('mean', 'I/(Ross Geller)', "what if you get one woman - and that's it", 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('get', 'you', 'one woman', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'that', 'it', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'there', 'only one woman', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'there', 'in my case', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('be', 'there', 'for her', 's01_e01_c07_u006')
+[s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+
+('talk', 'you/(Ross Geller)', 'about what', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'That', "like saying there's only one flavor of ice cream for you", 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('say', 'you', "there's only one flavor of ice cream for you", 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'there', 'only one flavor of ice cream for you', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('let', 'you/(Ross Geller)', 'me/(Joey Tribbiani)', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('tell', 'me/(Joey Tribbiani)', 'you/(Ross Geller) something', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'there', 'lots of flavors out there', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'there', 'Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('get', 'you/(Ross Geller)', "'em", 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('get', 'you/(Ross Geller)', 'with Jimmies', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('get', 'you/(Ross Geller)', 'with nuts', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('get', 'you/(Ross Geller)', 'with whipped cream', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'This', 'the best thing that ever happened to you', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('happen', 'that', 'to you/(Ross Geller)', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('marry', 'you/(Ross Geller)', None, 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('be', 'you/(Ross Geller)', 'eight', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('welcome', 'I/(Joey Tribbiani)', 'back to the world', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('grab', 'you/(Ross Geller)', 'a spoon', 's01_e01_c07_u007')
+[s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+
+('know', 'I/(Ross Geller)', "if I'm hungry or horny", 's01_e01_c07_u008')
+[s01_e01_c07_u008] Ross Geller: I honestly don't know if I'm hungry or horny.
+
+('be', 'I/(Ross Geller)', 'hungry', 's01_e01_c07_u008')
+[s01_e01_c07_u008] Ross Geller: I honestly don't know if I'm hungry or horny.
+
+('be', 'I/(Ross Geller)', 'horny', 's01_e01_c07_u008')
+[s01_e01_c07_u008] Ross Geller: I honestly don't know if I'm hungry or horny.
+
+('stay', 'you/(Ross Geller)', 'out of my freezer', 's01_e01_c07_u009')
+[s01_e01_c07_u009] Chandler Bing: Stay out of my freezer!
+

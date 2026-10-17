@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates a group activity (“are going to look over the news together now”) and talks through multiple items, showing outgoing, leading participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives clear, honest feedback on name suggestions (“Nah... not-not special enough.” / “Waaay too special.”), indicating straightforwardness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Sets an agenda and systematically reviews news items (Congress bill, subway fares, weather, sports), showing organized, task-focused behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and without signs of anxiety when accepting/rejecting suggestions; appears calm and confident."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Evaluates names as too plain or too unusual, favoring moderation; no clear evidence of curiosity or dogmatism."
+  }
+}

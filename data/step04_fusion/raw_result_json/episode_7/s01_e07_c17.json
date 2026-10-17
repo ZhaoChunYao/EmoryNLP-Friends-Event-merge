@@ -1,0 +1,103 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c17_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u001_e1",
+          "tuples": [
+            "('let', 'you/(Jill Goodacre)', 'us', 's01_e07_c17_u001')",
+            "('see', 'we/(Chandler Bing+Jill Goodacre)', None, 's01_e07_c17_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c17_u001_e2",
+          "tuples": [
+            "('blow', 'you/(Chandler Bing)', 'a bubble', 's01_e07_c17_u001')",
+            "('be', 'a bubble', 'good', 's01_e07_c17_u001')",
+            "('get', 'it/(a bubble)', 'a boyish charm', 's01_e07_c17_u001')",
+            "('be', 'it/(a bubble)', 'impish', 's01_e07_c17_u001')",
+            "('go', 'we/(Chandler Bing+Jill Goodacre)', None, 's01_e07_c17_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c17_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u003_e1",
+          "tuples": [
+            "('be', 'it/(situation)', 'OK', 's01_e07_c17_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c17_u003_e2",
+          "tuples": [
+            "('need', 'I/(Chandler Bing)', 'reach over and put it in my mouth', 's01_e07_c17_u003')",
+            "('reach', 'I/(Chandler Bing)', None, 's01_e07_c17_u003')",
+            "('put', 'I/(Chandler Bing)', 'it/(gum)', 's01_e07_c17_u003')",
+            "('put', 'I/(Chandler Bing)', 'in my mouth', 's01_e07_c17_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c17_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u004_e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing+Jill Goodacre)', 'back on track', 's01_e07_c17_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c17_u004_e2",
+          "tuples": [
+            "('chew', 'I/(Chandler Bing)', \"someone else's gum\", 's01_e07_c17_u004')",
+            "('be', 'this/(gum)', 'not my gum', 's01_e07_c17_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c17_u004_e3",
+          "tuples": [
+            "('choke', 'you/(Chandler Bing)', None, 's01_e07_c17_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c17_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u006_e1",
+          "tuples": [
+            "('be', 'you/(Chandler Bing)', 'alright', 's01_e07_c17_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c17_u008",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u008_e1",
+          "tuples": [
+            "('be', 'that/(help)', 'better', 's01_e07_c17_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c17_u009",
+      "events": [
+        {
+          "event_id": "s01_e07_c17_u009_e1",
+          "tuples": [
+            "('be', 'that/(help)', None, 's01_e07_c17_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

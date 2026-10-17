@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively shows off the office, enthusiastically points out the window view (“Yes indeedy!” u005), engages others in looking at the view and features (u007), and even summons another person to see it (u009-u013)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Boastful and showing off the office; summons Speaker_03 just to show it off and then dismisses them (u009-u013)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Focus is on showing off the office rather than any organized or efficient task; limited clear evidence of either organized or sloppy behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confident, upbeat tone (“Yes indeedy!” u005), comfortable directing others and dismissing them (u011), with no signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from liking the view (u005), there is no clear display of curiosity, imagination, or openness to new ideas."
+  }
+}

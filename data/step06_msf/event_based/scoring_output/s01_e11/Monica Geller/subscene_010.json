@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief greetings and short replies without initiating new topics (u009 “Hello.”; u011 “No, you?”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely and reciprocates the question (u011), and is straightforward in pointing out the repeated question (u013)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to planning, organization, or diligence; only brief small talk."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional reactivity; calm, matter-of-fact responses."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity about new ideas or imaginative thinking; interaction is routine small talk."
+  }
+}

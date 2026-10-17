@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes two brief statements and shows no clear signs of being outgoing or talkative."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When asked to hand over the cigarette, TargetSpeaker says they are not giving Speaker_01 a cigarette, refusing to comply and not accommodating the request."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "There is no clear behavior about organization, planning, or diligence in the exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite pressure to smoke and to hand over the cigarette, TargetSpeaker responds firmly and calmly, indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not engage with or reject new ideas clearly; their remark that Speaker_01 misses the cigarette does not show a clear openness or closed-mindedness."
+  }
+}

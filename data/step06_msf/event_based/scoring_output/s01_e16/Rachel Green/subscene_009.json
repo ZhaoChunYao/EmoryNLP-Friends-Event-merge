@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No signs of being outgoing or talkative; only brief, functional statements and a request for help."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Complies with another’s prior request to take the decorations down and speaks straightforwardly; politely asks for help."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Follows through on a requested task (taking down decorations) despite adverse weather, indicating diligence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In a stressful moment, says they are okay and calmly asks for help, showing composure rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/creativity or of dogmatic behavior; actions are purely task-focused."
+  }
+}

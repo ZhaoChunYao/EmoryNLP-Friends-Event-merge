@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He enthusiastically organizes a social outing and announces, “You’re the birthday boy… we’re taking you to the Rangers–Penguins game tonight,” and expresses affection (“We love you”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He offers a gift (hockey tickets) to a friend and speaks warmly (“We love you”), showing generosity and friendliness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He notes he counted the steps to Central Perk, but this doesn’t clearly show either organized/efficient behavior or carelessness in this context."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He reacts calmly and confidently when corrected about the birthday timing, replying “So?” without showing anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He shows curious, exploratory behavior by measuring and noting it’s fewer than 100 steps from their apartment to Central Perk."
+  }
+}

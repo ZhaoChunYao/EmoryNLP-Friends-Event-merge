@@ -1,0 +1,127 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u001_e1",
+          "tuples": [
+            "('get', 'it/(this situation)', 'better', 's01_e08_c01_u001')",
+            "('get', 'it/(this situation)', 'than this', 's01_e08_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u002",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u002_e1",
+          "tuples": [
+            "('date', 'you/(Chandler Bing)', 'anybody', 's01_e08_c01_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u002_e2",
+          "tuples": [
+            "('meet', 'I/(Shelley)', 'somebody', 's01_e08_c01_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u002_e3",
+          "tuples": [
+            "('be', 'who/(guy Shelley met)', 'perfect', 's01_e08_c01_u002')",
+            "('be', 'who/(guy Shelley met)', 'for you', 's01_e08_c01_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u003_e1",
+          "tuples": [
+            "('see', 'you/(Shelley)', None, 's01_e08_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u003_e2",
+          "tuples": [
+            "('be', 'perfect', 'a problem', 's01_e08_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u003_e3",
+          "tuples": [
+            "('say', 'you/(Shelley)', 'co-dependent', 's01_e08_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u003_e4",
+          "tuples": [
+            "('say', 'you/(Shelley)', 'self-destructive', 's01_e08_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u004",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u004_e1",
+          "tuples": [
+            "('want', 'you/(Chandler Bing)', 'a date', 's01_e08_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u006_e1",
+          "tuples": [
+            "('be', 'he/(guy Shelley met)', 'cute', 's01_e08_c01_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u006_e2",
+          "tuples": [
+            "('be', 'he/(guy Shelley met)', 'funny', 's01_e08_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u007_e1",
+          "tuples": [
+            "('be', 'he/(guy Shelley met)', 'a he', 's01_e08_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e08_c01_u008_e1",
+          "tuples": [
+            "('think', 'I/(Shelley)', None, 's01_e08_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c01_u008_e2",
+          "tuples": [
+            "('go', 'I/(Shelley)', 'flush myself down the toilet now', 's01_e08_c01_u008')",
+            "('flush', 'I/(Shelley)', 'myself', 's01_e08_c01_u008')",
+            "('flush', 'I/(Shelley)', 'down the toilet', 's01_e08_c01_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

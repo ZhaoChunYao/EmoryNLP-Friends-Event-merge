@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, factual comments and a short meta-remark; no clear sign of outgoing, energetic talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They explicitly refrain from giving a nagging cleaning reminder to Speaker_01, choosing a more considerate, non-bossy response."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They reference a specific cleaning protocol (scrubbing a Teflon pan with a plastic brush) and note they used to remind others about it, showing attention to detail and organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, irritation, or emotional volatility; demeanor appears calm but not distinctly confident or insecure."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "They contrast the 'old TargetSpeaker' with their current choice to act differently, indicating flexibility and willingness to change their usual approach."
+  }
+}

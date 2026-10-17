@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker gives direct instructions in the group—telling Speaker_04 to call Speaker_05 immediately and to stop being so testosteroney—showing assertive, outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers practical help by urging the call and is straightforward in feedback (“stop being so testosteroney”), indicating candid and cooperative intent rather than being evasive or boastful."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker pushes for prompt action and checks follow‑through, noting that Speaker_04 did not say anything on Speaker_05’s answering machine—showing attention to efficiency and details."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or unusual calm; statements are neutral directives without emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or imaginative thinking; comments focus on practical, procedural matters."
+  }
+}

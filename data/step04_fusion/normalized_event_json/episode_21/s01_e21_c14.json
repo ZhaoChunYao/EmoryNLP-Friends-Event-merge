@@ -1,0 +1,196 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c14_u001",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u001_e1",
+          "tuples": [
+            "('be', 'This', 'the final boarding call for flight 67 to San Diego', 's01_e21_c14_u001')",
+            "('be', 'This', 'for flight 67', 's01_e21_c14_u001')",
+            "('be', 'This', 'to San Diego', 's01_e21_c14_u001')",
+            "('board', 'the final boarding call', 'at gate 42A', 's01_e21_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u002",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u002_e1",
+          "tuples": [
+            "('write', 'I/(Phoebe Buffay)', 'this poem', 's01_e21_c14_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u002_e2",
+          "tuples": [
+            "('eat', 'you/(Marcel)', 'it', 's01_e21_c14_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u002_e3",
+          "tuples": [
+            "('get', 'you/(Marcel)', 'on the plane', 's01_e21_c14_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u003",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u003_e1",
+          "tuples": [
+            "('thank', 'I/(Ross Geller)', 'you', 's01_e21_c14_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u005",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u005_e1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', \"there's gonna be a lot of babes in San Diego\", 's01_e21_c14_u005')",
+            "('be', 'There', 'a lot of babes in San Diego', 's01_e21_c14_u005')",
+            "('be', 'a lot of babes', 'in San Diego', 's01_e21_c14_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u005_e2",
+          "tuples": [
+            "('remember', 'you/(Marcel)', \"there's also a lot to learn\", 's01_e21_c14_u005')",
+            "('be', 'There', 'a lot to learn', 's01_e21_c14_u005')",
+            "('learn', 'you/(Marcel)', None, 's01_e21_c14_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u006",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u006_e1",
+          "tuples": [
+            "('know', 'I/(Joey Tribbiani)', 'what to say', 's01_e21_c14_u006')",
+            "('say', 'I/(Joey Tribbiani)', 'what', 's01_e21_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u006_e2",
+          "tuples": [
+            "('be', 'it/(Marcel)', 'a monkey', 's01_e21_c14_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u007",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u007_e1",
+          "tuples": [
+            "('say', 'you/(Joey Tribbiani)', 'what you feel', 's01_e21_c14_u007')",
+            "('feel', 'you/(Joey Tribbiani)', 'what', 's01_e21_c14_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u008",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u008_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'hungry', 's01_e21_c14_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u009",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u009_e1",
+          "tuples": [
+            "('be', 'That', 'good', 's01_e21_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u010",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u010_e1",
+          "tuples": [
+            "('be', 'this', 'for you', 's01_e21_c14_u010')",
+            "('be', 'It', 'something to do on the plane', 's01_e21_c14_u010')",
+            "('do', 'you/(Marcel)', 'something', 's01_e21_c14_u010')",
+            "('do', 'you/(Marcel)', 'on the plane', 's01_e21_c14_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u011",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u011_e1",
+          "tuples": [
+            "('mind', 'you guys/(All)', None, 's01_e21_c14_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u011_e2",
+          "tuples": [
+            "('like', 'I/(Ross Geller)', 'to take a moment', 's01_e21_c14_u011')",
+            "('take', 'I/(Ross Geller)', 'a moment', 's01_e21_c14_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c14_u013",
+      "events": [
+        {
+          "event_id": "s01_e21_c14_u013_e1",
+          "tuples": [
+            "('come', 'Marcel', 'here', 's01_e21_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u013_e2",
+          "tuples": [
+            "('be', 'this', 'it', 's01_e21_c14_u013')",
+            "('be', 'There', 'just a coupla things I want to say', 's01_e21_c14_u013')",
+            "('want', 'I/(Ross Geller)', 'to say', 's01_e21_c14_u013')",
+            "('say', 'I/(Ross Geller)', None, 's01_e21_c14_u013')",
+            "('miss', 'I/(Ross Geller)', 'you', 's01_e21_c14_u013')",
+            "('forget', 'I/(Ross Geller)', 'about you', 's01_e21_c14_u013')",
+            "('be', 'you/(Marcel)', 'more than just a pet to me', 's01_e21_c14_u013')",
+            "('be', 'you/(Marcel)', 'more like a be-', 's01_e21_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u013_e3",
+          "tuples": [
+            "('leave', 'you/(Marcel)', 'my leg', 's01_e21_c14_u013')",
+            "('stop', 'you/(Marcel)', 'humping me for two seconds', 's01_e21_c14_u013')",
+            "('hump', 'you/(Marcel)', 'me', 's01_e21_c14_u013')",
+            "('hump', 'you/(Marcel)', 'for two seconds', 's01_e21_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c14_u013_e4",
+          "tuples": [
+            "('take', 'you/(airline staff)', 'him away', 's01_e21_c14_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives very brief responses and does not display outgoing or energetic talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely and warmly (“Yes, Bunny?”) and offers a differing view tentatively (“could have been a peach”), showing cooperativeness rather than confrontation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; the tone appears calm."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Considers an alternative possibility about the fruit (“could have been a peach”) rather than insisting on a single account."
+  }
+}

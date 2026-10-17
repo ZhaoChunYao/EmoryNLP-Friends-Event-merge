@@ -1,0 +1,152 @@
+event_id: s01_e01_c07_u001_e1
+utterance_id: s01_e01_c07_u001
+  tuple: ('divorce', 'I/(Ross Geller)', None, 's01_e01_c07_u001')
+
+event_id: s01_e01_c07_u001_e2
+utterance_id: s01_e01_c07_u001
+  tuple: ('be', 'I/(Ross Geller)', 'only 26', 's01_e01_c07_u001')
+
+event_id: s01_e01_c07_u002_e1
+utterance_id: s01_e01_c07_u002
+  tuple: ('shut up', 'you/(Ross Geller)', None, 's01_e01_c07_u002')
+
+event_id: s01_e01_c07_u003_e1
+utterance_id: s01_e01_c07_u003
+  tuple: ('stop', 'you/(Ross Geller)', None, 's01_e01_c07_u003')
+
+event_id: s01_e01_c07_u004_e1
+utterance_id: s01_e01_c07_u004
+  tuple: ('take', 'That', 'an hour', 's01_e01_c07_u004')
+
+event_id: s01_e01_c07_u005_e1
+utterance_id: s01_e01_c07_u005
+  tuple: ('look', 'you/(Ross Geller)', None, 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e2
+utterance_id: s01_e01_c07_u005
+  tuple: ('understand', 'you/(Ross Geller)', None, 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e3
+utterance_id: s01_e01_c07_u005
+  tuple: ('have', 'we/(Chandler Bing+Joey Tribbiani)', 'a relationship', 's01_e01_c07_u005')
+  tuple: ('last', 'a relationship', 'longer than a Mento', 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e4
+utterance_id: s01_e01_c07_u005
+  tuple: ('have', 'you/(Ross Geller)', 'the love of a woman for four years', 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e5
+utterance_id: s01_e01_c07_u005
+  tuple: ('rip', "she/(Ross Geller's ex-wife)", 'out your heart', 's01_e01_c07_u005')
+  tuple: ('rip', "she/(Ross Geller's ex-wife)", 'at the end of four years of closeness and sharing', 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e6
+utterance_id: s01_e01_c07_u005
+  tuple: ('be', 'that', "why we don't do it", 's01_e01_c07_u005')
+  tuple: ('do', 'we/(Chandler Bing+Joey Tribbiani)', 'it', 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u005_e7
+utterance_id: s01_e01_c07_u005
+  tuple: ('think', 'I/(Chandler Bing)', 'that was my point', 's01_e01_c07_u005')
+  tuple: ('be', 'that', 'my point', 's01_e01_c07_u005')
+
+event_id: s01_e01_c07_u006_e1
+utterance_id: s01_e01_c07_u006
+  tuple: ('know', 'you/(Chandler Bing+Joey Tribbiani)', 'what the scariest part is', 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e2
+utterance_id: s01_e01_c07_u006
+  tuple: ('be', 'the scariest part', None, 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e3
+utterance_id: s01_e01_c07_u006
+  tuple: ('be', 'there', 'only one woman for everybody', 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e4
+utterance_id: s01_e01_c07_u006
+  tuple: ('mean', 'I/(Ross Geller)', "what if you get one woman - and that's it", 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e5
+utterance_id: s01_e01_c07_u006
+  tuple: ('get', 'you', 'one woman', 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e6
+utterance_id: s01_e01_c07_u006
+  tuple: ('be', 'that', 'it', 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u006_e7
+utterance_id: s01_e01_c07_u006
+  tuple: ('be', 'there', 'only one woman', 's01_e01_c07_u006')
+  tuple: ('be', 'there', 'in my case', 's01_e01_c07_u006')
+  tuple: ('be', 'there', 'for her', 's01_e01_c07_u006')
+
+event_id: s01_e01_c07_u007_e1
+utterance_id: s01_e01_c07_u007
+  tuple: ('talk', 'you/(Ross Geller)', 'about what', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e2
+utterance_id: s01_e01_c07_u007
+  tuple: ('be', 'That', "like saying there's only one flavor of ice cream for you", 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e3
+utterance_id: s01_e01_c07_u007
+  tuple: ('say', 'you', "there's only one flavor of ice cream for you", 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e4
+utterance_id: s01_e01_c07_u007
+  tuple: ('be', 'there', 'only one flavor of ice cream for you', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e5
+utterance_id: s01_e01_c07_u007
+  tuple: ('let', 'you/(Ross Geller)', 'me/(Joey Tribbiani)', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e6
+utterance_id: s01_e01_c07_u007
+  tuple: ('tell', 'me/(Joey Tribbiani)', 'you/(Ross Geller) something', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e7
+utterance_id: s01_e01_c07_u007
+  tuple: ('be', 'there', 'lots of flavors out there', 's01_e01_c07_u007')
+  tuple: ('be', 'there', 'Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e8
+utterance_id: s01_e01_c07_u007
+  tuple: ('get', 'you/(Ross Geller)', "'em", 's01_e01_c07_u007')
+  tuple: ('get', 'you/(Ross Geller)', 'with Jimmies', 's01_e01_c07_u007')
+  tuple: ('get', 'you/(Ross Geller)', 'with nuts', 's01_e01_c07_u007')
+  tuple: ('get', 'you/(Ross Geller)', 'with whipped cream', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e9
+utterance_id: s01_e01_c07_u007
+  tuple: ('be', 'This', 'the best thing that ever happened to you', 's01_e01_c07_u007')
+  tuple: ('happen', 'that', 'to you/(Ross Geller)', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e10
+utterance_id: s01_e01_c07_u007
+  tuple: ('marry', 'you/(Ross Geller)', None, 's01_e01_c07_u007')
+  tuple: ('be', 'you/(Ross Geller)', 'eight', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e11
+utterance_id: s01_e01_c07_u007
+  tuple: ('welcome', 'I/(Joey Tribbiani)', 'back to the world', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u007_e12
+utterance_id: s01_e01_c07_u007
+  tuple: ('grab', 'you/(Ross Geller)', 'a spoon', 's01_e01_c07_u007')
+
+event_id: s01_e01_c07_u008_e1
+utterance_id: s01_e01_c07_u008
+  tuple: ('know', 'I/(Ross Geller)', "if I'm hungry or horny", 's01_e01_c07_u008')
+
+event_id: s01_e01_c07_u008_e2
+utterance_id: s01_e01_c07_u008
+  tuple: ('be', 'I/(Ross Geller)', 'hungry', 's01_e01_c07_u008')
+
+event_id: s01_e01_c07_u008_e3
+utterance_id: s01_e01_c07_u008
+  tuple: ('be', 'I/(Ross Geller)', 'horny', 's01_e01_c07_u008')
+
+event_id: s01_e01_c07_u009_e1
+utterance_id: s01_e01_c07_u009
+  tuple: ('stay', 'you/(Ross Geller)', 'out of my freezer', 's01_e01_c07_u009')
+

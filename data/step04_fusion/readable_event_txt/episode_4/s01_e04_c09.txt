@@ -1,0 +1,69 @@
+event_id: s01_e04_c09_u001_e1
+utterance_id: s01_e04_c09_u001
+  tuple: ('excuse', 'you/(Receptionist)', 'me', 's01_e04_c09_u001')
+
+event_id: s01_e04_c09_u002_e1
+utterance_id: s01_e04_c09_u002
+  tuple: ('say', 'it/(candy bar wrapper)', "to call this number if you're not completely satisfied with this candy bar", 's01_e04_c09_u002')
+  tuple: ('call', 'you/(Receptionist)', 'this number', 's01_e04_c09_u002')
+  tuple: ('be', 'you/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')
+  tuple: ('be', 'you/(Receptionist)', 'with this candy bar', 's01_e04_c09_u002')
+
+event_id: s01_e04_c09_u002_e2
+utterance_id: s01_e04_c09_u002
+  tuple: ('be', 'I/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')
+
+event_id: s01_e04_c09_u003_e1
+utterance_id: s01_e04_c09_u003
+  tuple: ('listen', 'you/(Receptionist)', None, 's01_e04_c09_u003')
+
+event_id: s01_e04_c09_u003_e2
+utterance_id: s01_e04_c09_u003
+  tuple: ('be', 'it/(situation)', 'kind of an emergency', 's01_e04_c09_u003')
+
+event_id: s01_e04_c09_u003_e3
+utterance_id: s01_e04_c09_u003
+  tuple: ('guess', 'I/(Chandler Bing)', 'you know that', 's01_e04_c09_u003')
+  tuple: ('know', 'you/(Receptionist)', 'that', 's01_e04_c09_u003')
+
+event_id: s01_e04_c09_u003_e4
+utterance_id: s01_e04_c09_u003
+  tuple: ('be', 'we/(Chandler Bing + Receptionist)', 'in the predicament room', 's01_e04_c09_u003')
+
+event_id: s01_e04_c09_u004_e1
+utterance_id: s01_e04_c09_u004
+  tuple: ('hold on', 'you/(Ross Geller)', None, 's01_e04_c09_u004')
+
+event_id: s01_e04_c09_u004_e2
+utterance_id: s01_e04_c09_u004
+  tuple: ('fill out', 'you/(Ross Geller)', 'these', 's01_e04_c09_u004')
+
+event_id: s01_e04_c09_u004_e3
+utterance_id: s01_e04_c09_u004
+  tuple: ('sit', 'you/(Ross Geller)', 'over there', 's01_e04_c09_u004')
+
+event_id: s01_e04_c09_u005_e1
+utterance_id: s01_e04_c09_u005
+  tuple: ('look', 'you/(Receptionist)', None, 's01_e04_c09_u005')
+
+event_id: s01_e04_c09_u005_e2
+utterance_id: s01_e04_c09_u005
+  tuple: ('make', 'I/(Ross Geller)', 'any trouble', 's01_e04_c09_u005')
+
+event_id: s01_e04_c09_u005_e3
+utterance_id: s01_e04_c09_u005
+  tuple: ('be', 'I/(Ross Geller)', 'in a lot of pain', 's01_e04_c09_u005')
+
+event_id: s01_e04_c09_u005_e4
+utterance_id: s01_e04_c09_u005
+  tuple: ('be', 'my face', 'dented', 's01_e04_c09_u005')
+
+event_id: s01_e04_c09_u006_e1
+utterance_id: s01_e04_c09_u006
+  tuple: ('wait', 'you/(Ross Geller)', 'your turn', 's01_e04_c09_u006')
+
+event_id: s01_e04_c09_u007_e1
+utterance_id: s01_e04_c09_u007
+  tuple: ('think', 'you/(Receptionist)', 'how long it will be', 's01_e04_c09_u007')
+  tuple: ('be', 'it/(wait time)', 'how long', 's01_e04_c09_u007')
+

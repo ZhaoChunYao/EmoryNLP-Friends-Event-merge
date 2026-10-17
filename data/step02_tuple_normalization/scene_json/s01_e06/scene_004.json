@@ -1,0 +1,670 @@
+{
+  "tuples": [
+    {
+      "verb": "greet",
+      "subject": "we/(Chandler Bing+Rachel Green)",
+      "object": "each other",
+      "uid": "s01_e06_c04_u002"
+    },
+    {
+      "verb": "like",
+      "subject": "I/(Chandler Bing)",
+      "object": "that",
+      "uid": "s01_e06_c04_u002"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(ALL)",
+      "object": null,
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "clean",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "the windows",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "the floors",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "use",
+      "subject": "I/(Rachel Green)",
+      "object": "all the attachments",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "use",
+      "subject": "I/(Rachel Green)",
+      "object": "on the vacuum",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Rachel Green)",
+      "object": "what that's for",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(vacuum round attachment)",
+      "object": "for what",
+      "uid": "s01_e06_c04_u003"
+    },
+    {
+      "verb": "know",
+      "subject": "nobody",
+      "object": null,
+      "uid": "s01_e06_c04_u004"
+    },
+    {
+      "verb": "suppose",
+      "subject": "we/(people)",
+      "object": "to ask",
+      "uid": "s01_e06_c04_u004"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(ALL)",
+      "object": null,
+      "uid": "s01_e06_c04_u005"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(apartment)",
+      "object": "great",
+      "uid": "s01_e06_c04_u006"
+    },
+    {
+      "verb": "see",
+      "subject": "I/(Monica Geller)",
+      "object": "you moved the green ottoman",
+      "uid": "s01_e06_c04_u007"
+    },
+    {
+      "verb": "move",
+      "subject": "you/(Rachel Green)",
+      "object": "the green ottoman",
+      "uid": "s01_e06_c04_u007"
+    },
+    {
+      "verb": "happen",
+      "subject": "that/(the ottoman moving)",
+      "object": null,
+      "uid": "s01_e06_c04_u009"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e06_c04_u010"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Rachel Green)",
+      "object": "it looked better there",
+      "uid": "s01_e06_c04_u010"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(ottoman placement)",
+      "object": "better",
+      "uid": "s01_e06_c04_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(green ottoman)",
+      "object": "an extra seat",
+      "uid": "s01_e06_c04_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(green ottoman)",
+      "object": "around the coffee table",
+      "uid": "s01_e06_c04_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(green ottoman placement)",
+      "object": "interesting",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(ALL)",
+      "object": "what",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "see",
+      "subject": "we/(Monica Geller+Rachel Green+friends)",
+      "object": "what it looked like in the old spot",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(green ottoman)",
+      "object": null,
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(green ottoman)",
+      "object": "in the old spot",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(green ottoman)",
+      "object": "good",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "leave",
+      "subject": "we/(Monica Geller+friends)",
+      "object": "it",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "leave",
+      "subject": "we/(Monica Geller+friends)",
+      "object": "for a while",
+      "uid": "s01_e06_c04_u011"
+    },
+    {
+      "verb": "believe",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "you tried to move the green ottoman",
+      "uid": "s01_e06_c04_u012"
+    },
+    {
+      "verb": "try",
+      "subject": "you/(Rachel Green)",
+      "object": "to move the green ottoman",
+      "uid": "s01_e06_c04_u012"
+    },
+    {
+      "verb": "try",
+      "subject": "you/(Rachel Green)",
+      "object": "to fan out the magazines",
+      "uid": "s01_e06_c04_u013"
+    },
+    {
+      "verb": "fan out",
+      "subject": "you/(Rachel Green)",
+      "object": "the magazines",
+      "uid": "s01_e06_c04_u013"
+    },
+    {
+      "verb": "scratch",
+      "subject": "she/(Monica Geller)",
+      "object": "your eyes",
+      "uid": "s01_e06_c04_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "not that bad",
+      "uid": "s01_e06_c04_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e06_c04_u015"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/(Monica Geller)",
+      "object": "when I lived with you",
+      "uid": "s01_e06_c04_u015"
+    },
+    {
+      "verb": "live",
+      "subject": "I/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e06_c04_u015"
+    },
+    {
+      "verb": "live",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "with you",
+      "uid": "s01_e06_c04_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "like a little",
+      "uid": "s01_e06_c04_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(accusation)",
+      "object": "so unfair",
+      "uid": "s01_e06_c04_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Ross Geller+Monica Geller)",
+      "object": "kids",
+      "uid": "s01_e06_c04_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "yours/(Monica Geller)",
+      "object": "the only Raggedy Ann doll",
+      "uid": "s01_e06_c04_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(Raggedy Ann doll)",
+      "object": "raggedy",
+      "uid": "s01_e06_c04_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "responsible",
+      "uid": "s01_e06_c04_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "organised",
+      "uid": "s01_e06_c04_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "a kook",
+      "uid": "s01_e06_c04_u018"
+    },
+    {
+      "verb": "try",
+      "subject": "you/(Monica Geller)",
+      "object": "to imagine this",
+      "uid": "s01_e06_c04_u019"
+    },
+    {
+      "verb": "imagine",
+      "subject": "you/(Monica Geller)",
+      "object": "this",
+      "uid": "s01_e06_c04_u019"
+    },
+    {
+      "verb": "arrive",
+      "subject": "the phone bill",
+      "object": null,
+      "uid": "s01_e06_c04_u019"
+    },
+    {
+      "verb": "pay",
+      "subject": "you/(Monica Geller)",
+      "object": "it",
+      "uid": "s01_e06_c04_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "a kook",
+      "uid": "s01_e06_c04_u021"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e06_c04_u021"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Monica Geller)",
+      "object": "until they send you a notice",
+      "uid": "s01_e06_c04_u021"
+    },
+    {
+      "verb": "send",
+      "subject": "they/(phone company)",
+      "object": "you a notice",
+      "uid": "s01_e06_c04_u021"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Monica Geller)",
+      "object": "that",
+      "uid": "s01_e06_c04_u022"
+    },
+    {
+      "verb": "let",
+      "subject": "you/(Monica Geller)",
+      "object": "me go grocery shopping",
+      "uid": "s01_e06_c04_u023"
+    },
+    {
+      "verb": "go",
+      "subject": "me/(Rachel Green)",
+      "object": "grocery shopping",
+      "uid": "s01_e06_c04_u023"
+    },
+    {
+      "verb": "buy",
+      "subject": "I/(Rachel Green)",
+      "object": "laundry detergent",
+      "uid": "s01_e06_c04_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(laundry detergent)",
+      "object": "the one with the easy-pour spout",
+      "uid": "s01_e06_c04_u023"
+    },
+    {
+      "verb": "do",
+      "subject": "someone",
+      "object": "that",
+      "uid": "s01_e06_c04_u024"
+    },
+    {
+      "verb": "wonder",
+      "subject": "one",
+      "object": null,
+      "uid": "s01_e06_c04_u024"
+    },
+    {
+      "verb": "leave",
+      "subject": "someone",
+      "object": "a glass",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "leave",
+      "subject": "someone",
+      "object": "on the coffee table",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "no coaster",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(drink)",
+      "object": "a cold drink",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(day)",
+      "object": "a hot day",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "inch",
+      "subject": "little beads of condensation",
+      "object": "their way",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "inch",
+      "subject": "little beads of condensation",
+      "object": "to the surface of the wood",
+      "uid": "s01_e06_c04_u025"
+    },
+    {
+      "verb": "stop",
+      "subject": "you/(ALL)",
+      "object": "it",
+      "uid": "s01_e06_c04_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(accusation)",
+      "object": "true",
+      "uid": "s01_e06_c04_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "who",
+      "uid": "s01_e06_c04_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "Mom",
+      "uid": "s01_e06_c04_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "there",
+      "uid": "s01_e06_c04_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(phone call)",
+      "object": "my agent",
+      "uid": "s01_e06_c04_u031"
+    },
+    {
+      "verb": "get",
+      "subject": "my agent",
+      "object": "me a job",
+      "uid": "s01_e06_c04_u031"
+    },
+    {
+      "verb": "get",
+      "subject": "my agent",
+      "object": "in the new Al Pacino movie",
+      "uid": "s01_e06_c04_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "what/(unknown)",
+      "object": "the part",
+      "uid": "s01_e06_c04_u033"
+    },
+    {
+      "verb": "believe",
+      "subject": "you/(ALL)",
+      "object": "this",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "This guy",
+      "object": "the reason I became an actor",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "become",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "an actor",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "out of order",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(unknown)",
+      "object": "out of order",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "This whole courtroom",
+      "object": "out of order",
+      "uid": "s01_e06_c04_u034"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "I was out",
+      "uid": "s01_e06_c04_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "out",
+      "uid": "s01_e06_c04_u036"
+    },
+    {
+      "verb": "pull",
+      "subject": "they/(unknown)",
+      "object": "me",
+      "uid": "s01_e06_c04_u036"
+    },
+    {
+      "verb": "pull",
+      "subject": "they/(unknown)",
+      "object": "back in me",
+      "uid": "s01_e06_c04_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "his",
+      "uid": "s01_e06_c04_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "what",
+      "uid": "s01_e06_c04_u039"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "his butt double",
+      "uid": "s01_e06_c04_u040"
+    },
+    {
+      "verb": "play",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "Al Pacino's butt",
+      "uid": "s01_e06_c04_u040"
+    },
+    {
+      "verb": "go",
+      "subject": "he/(Al Pacino)",
+      "object": null,
+      "uid": "s01_e06_c04_u040"
+    },
+    {
+      "verb": "go",
+      "subject": "he/(Al Pacino)",
+      "object": "into the shower",
+      "uid": "s01_e06_c04_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "his butt",
+      "uid": "s01_e06_c04_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(job)",
+      "object": "a real movie",
+      "uid": "s01_e06_c04_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "Al Pacino",
+      "object": "in it",
+      "uid": "s01_e06_c04_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(fact)",
+      "object": "big",
+      "uid": "s01_e06_c04_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(job)",
+      "object": "terrific",
+      "uid": "s01_e06_c04_u043"
+    },
+    {
+      "verb": "deserve",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "this",
+      "uid": "s01_e06_c04_u043"
+    },
+    {
+      "verb": "crack",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "your way",
+      "uid": "s01_e06_c04_u043"
+    },
+    {
+      "verb": "crack",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "into showbusiness",
+      "uid": "s01_e06_c04_u043"
+    },
+    {
+      "verb": "make",
+      "subject": "you/(ALL)",
+      "object": "jokes",
+      "uid": "s01_e06_c04_u044"
+    },
+    {
+      "verb": "care",
+      "subject": "I/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e06_c04_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(job)",
+      "object": "a big break",
+      "uid": "s01_e06_c04_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(job)",
+      "object": "for me",
+      "uid": "s01_e06_c04_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "right",
+      "uid": "s01_e06_c04_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(opportunity)",
+      "object": null,
+      "uid": "s01_e06_c04_u045"
+    },
+    {
+      "verb": "invite",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "us all",
+      "uid": "s01_e06_c04_u045"
+    },
+    {
+      "verb": "invite",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "to the big opening",
+      "uid": "s01_e06_c04_u045"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+event_id: s01_e23_c12_u001_e1
+utterance_id: s01_e23_c12_u001
+  tuple: ('do', 'you/Ross Geller', 'suck the door open', 's01_e23_c12_u001')
+  tuple: ('suck', 'you/Ross Geller', 'the door', 's01_e23_c12_u001')
+  tuple: ('open', 'you/Ross Geller', 'the door', 's01_e23_c12_u001')
+
+event_id: s01_e23_c12_u002_e1
+utterance_id: s01_e23_c12_u002
+  tuple: ('help', 'you/(anyone)', None, 's01_e23_c12_u002')
+
+event_id: s01_e23_c12_u003_e1
+utterance_id: s01_e23_c12_u003
+  tuple: ('find', 'They/(unknown)', 'their bodies', 's01_e23_c12_u003')
+
+event_id: s01_e23_c12_u004_e1
+utterance_id: s01_e23_c12_u004
+  tuple: ('help', 'you/(anyone)', None, 's01_e23_c12_u004')
+

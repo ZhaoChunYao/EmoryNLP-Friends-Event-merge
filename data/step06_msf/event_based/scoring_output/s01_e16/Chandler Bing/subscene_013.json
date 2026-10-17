@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Apart from briefly sharing and offering advice, there is no clear sign of outgoing, energetic, or highly talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says they told Speaker_01 everything, showing candidness/straightforwardness, and offers advice to help others avoid a mistake."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Gives a specific precautionary rule (“never leave a hand on the desk”), indicating carefulness and attention to avoiding errors."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of stress, insecurity, or nervousness are shown."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Frames guidance as a strict rule (“never”), reflecting a cautious, dogmatic stance rather than curiosity or openness."
+  }
+}

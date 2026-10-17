@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only speaks to enforce rules; no clear signs of sociability, talkativeness, or energetic engagement beyond brief corrections."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforwardly enforces fair play by telling others they cannot request or hand over specific cards, showing cooperative, trustworthy intent."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps the game organized and rule-abiding by preventing specific card requests and card transfers during the game."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly and confidently corrects others about the rules without signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Insists on conventional rules and rejects unconventional play (requesting or giving specific cards), indicating a cautious, rule-bound approach."
+  }
+}

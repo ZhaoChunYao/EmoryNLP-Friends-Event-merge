@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaks minimally and hesitantly; only asks brief questions like confirming entry ('Are you sure I should come in?')."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Defers to Speaker_01 and seeks permission before entering the office, showing politeness and respect."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of efficiency or organization; simply responds to an invitation without task-focused behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Requests reassurance ('are you sure?'), indicating uncertainty or nervousness about proceeding."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, imagination, or unconventional thinking in the brief exchange."
+  }
+}

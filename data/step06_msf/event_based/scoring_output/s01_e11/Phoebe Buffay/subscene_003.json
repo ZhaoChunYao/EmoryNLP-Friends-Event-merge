@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates action and repeatedly urges Speaker_01 to whistle at Speaker_02 (“come on… whistle… Do it do it do it!”), showing energetic, socially bold behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "They ignore Speaker_01’s repeated refusals (“No!”) and keep pressuring them to whistle, showing low consideration for the other’s wishes."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "They push for an impulsive, inappropriate act (whistling at someone) despite being told to be cool and after Speaker_01 says they’re not going to whistle."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They display confidence and no signs of anxiety while instigating the behavior and insisting multiple times."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "They propose doing “something” and specifically suggest the playful, unconventional act of whistling, showing low caution and willingness to try novel ideas."
+  }
+}

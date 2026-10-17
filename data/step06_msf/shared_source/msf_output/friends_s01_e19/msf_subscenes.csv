@@ -1,0 +1,799 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e19,s01_e19_c02,Monica Geller,0,0,6,0,6,3,s01_e19_c02_u001,s01_e19_c02_u011,"[s01_e19_c02_u001] Monica Geller: Mail call, Rachel Green, bunk seven.
+[s01_e19_c02_u002] Rachel Green: Thank you. Oh, cool! Free sample of coffee!
+[s01_e19_c02_u003] Monica Geller: Oh good! 'Cause where else would we get any?
+[s01_e19_c02_u004] Rachel Green: Oh. Right. ...Oh great.
+[s01_e19_c02_u005] Monica Geller: What is it?
+[s01_e19_c02_u006] Rachel Green: Country club newsletter. My mother sends me the engagement notices for 'inspiration.' Oh my God! Oh my God, it's Barry and Mindy!
+[s01_e19_c02_u007] Monica Geller: Barry who you almost...?
+[s01_e19_c02_u008] Rachel Green: Barry who I almost.
+[s01_e19_c02_u009] Monica Geller: And Mindy, your maid of...?
+[s01_e19_c02_u010] Rachel Green: Mindy, my maid of. Oh!
+[s01_e19_c02_u011] Monica Geller: That's Mindy? Wow, she is pretty. Lucky. To have had a friend like you."
+s01_e19,s01_e19_c02,Rachel Green,0,0,6,0,6,3,s01_e19_c02_u001,s01_e19_c02_u011,"[s01_e19_c02_u001] Monica Geller: Mail call, Rachel Green, bunk seven.
+[s01_e19_c02_u002] Rachel Green: Thank you. Oh, cool! Free sample of coffee!
+[s01_e19_c02_u003] Monica Geller: Oh good! 'Cause where else would we get any?
+[s01_e19_c02_u004] Rachel Green: Oh. Right. ...Oh great.
+[s01_e19_c02_u005] Monica Geller: What is it?
+[s01_e19_c02_u006] Rachel Green: Country club newsletter. My mother sends me the engagement notices for 'inspiration.' Oh my God! Oh my God, it's Barry and Mindy!
+[s01_e19_c02_u007] Monica Geller: Barry who you almost...?
+[s01_e19_c02_u008] Rachel Green: Barry who I almost.
+[s01_e19_c02_u009] Monica Geller: And Mindy, your maid of...?
+[s01_e19_c02_u010] Rachel Green: Mindy, my maid of. Oh!
+[s01_e19_c02_u011] Monica Geller: That's Mindy? Wow, she is pretty. Lucky. To have had a friend like you."
+s01_e19,s01_e19_c03,Joey Tribbiani,0,15,19,14,20,2,s01_e19_c03_u016,s01_e19_c03_u026,"[s01_e19_c03_u016] Monica Geller: Wonderful!
+[s01_e19_c03_u017] Phoebe Buffay: So good!
+[s01_e19_c03_u018] Joey Tribbiani: Suck-fest.
+[s01_e19_c03_u019] Chandler Bing: Toootal chick-flick.
+[s01_e19_c03_u020] Phoebe Buffay: I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast...
+[s01_e19_c03_u021] Joey Tribbiani: Hey, I don't need violence to enjoy a movie. Just so long as there's a little nudity.
+[s01_e19_c03_u022] Monica Geller: There was nudity!
+[s01_e19_c03_u023] Joey Tribbiani: I meant female nudity. Alright? I don't need to see Lou Grant frolicking.
+[s01_e19_c03_u024] Monica Geller, Phoebe Buffay: Hugh! Hugh Grant!
+[s01_e19_c03_u025] Ross Geller: Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are.
+[s01_e19_c03_u026] Chandler Bing: They're still just friends, right?"
+s01_e19,s01_e19_c03,Monica Geller,0,10,11,9,12,2,s01_e19_c03_u010,s01_e19_c03_u018,"[s01_e19_c03_u010] Rachel Green: Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?
+[s01_e19_c03_u011] Ross Geller: Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
+[s01_e19_c03_u012] Unknown Speaker: 
+[s01_e19_c03_u013] Monica Geller: Hi.
+[s01_e19_c03_u014] Ross Geller: ...Gets interrupted. Hi!
+[s01_e19_c03_u015] Rachel Green: Hi, how was the movie?
+[s01_e19_c03_u016] Monica Geller: Wonderful!
+[s01_e19_c03_u017] Phoebe Buffay: So good!
+[s01_e19_c03_u018] Joey Tribbiani: Suck-fest."
+s01_e19,s01_e19_c03,Phoebe Buffay,0,14,15,13,16,2,s01_e19_c03_u015,s01_e19_c03_u022,"[s01_e19_c03_u015] Rachel Green: Hi, how was the movie?
+[s01_e19_c03_u016] Monica Geller: Wonderful!
+[s01_e19_c03_u017] Phoebe Buffay: So good!
+[s01_e19_c03_u018] Joey Tribbiani: Suck-fest.
+[s01_e19_c03_u019] Chandler Bing: Toootal chick-flick.
+[s01_e19_c03_u020] Phoebe Buffay: I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast...
+[s01_e19_c03_u021] Joey Tribbiani: Hey, I don't need violence to enjoy a movie. Just so long as there's a little nudity.
+[s01_e19_c03_u022] Monica Geller: There was nudity!"
+s01_e19,s01_e19_c03,Rachel Green,0,0,7,0,8,3,s01_e19_c03_u001,s01_e19_c03_u014,"[s01_e19_c03_u001] Ross Geller: Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good boy. C'mere, gimme the rice. Thank you, good boy. Well, I see he's finally mastered the difference between 'bring me the' and 'pee in the'. 'Bring me the' and- Rach?
+[s01_e19_c03_u002] Rachel Green: What?
+[s01_e19_c03_u003] Ross Geller: Hi.
+[s01_e19_c03_u004] Rachel Green: Oh, I'm sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I'm happy for them.
+[s01_e19_c03_u005] Ross Geller: Really.
+[s01_e19_c03_u006] Rachel Green: No. Oh, oh, I guess it would be different if I were- with somebody.
+[s01_e19_c03_u007] Ross Geller: Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?
+[s01_e19_c03_u008] Rachel Green: Oh, I don't know. I guess it's not about no guys, it's about the right guy, y'know? I mean, with Barry, it was safe and it was easy, but there was no heat. With Paolo, that's all there was, was heat! And it was just this raw, animal, sexual...
+[s01_e19_c03_u009] Ross Geller: Wait-wait. I, I got it. I was there.
+[s01_e19_c03_u010] Rachel Green: Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?
+[s01_e19_c03_u011] Ross Geller: Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
+[s01_e19_c03_u012] Unknown Speaker: 
+[s01_e19_c03_u013] Monica Geller: Hi.
+[s01_e19_c03_u014] Ross Geller: ...Gets interrupted. Hi!"
+s01_e19,s01_e19_c03,Rachel Green,1,9,9,8,10,2,s01_e19_c03_u009,s01_e19_c03_u016,"[s01_e19_c03_u009] Ross Geller: Wait-wait. I, I got it. I was there.
+[s01_e19_c03_u010] Rachel Green: Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?
+[s01_e19_c03_u011] Ross Geller: Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
+[s01_e19_c03_u012] Unknown Speaker: 
+[s01_e19_c03_u013] Monica Geller: Hi.
+[s01_e19_c03_u014] Ross Geller: ...Gets interrupted. Hi!
+[s01_e19_c03_u015] Rachel Green: Hi, how was the movie?
+[s01_e19_c03_u016] Monica Geller: Wonderful!"
+s01_e19,s01_e19_c03,Ross Geller,0,0,10,0,11,3,s01_e19_c03_u001,s01_e19_c03_u017,"[s01_e19_c03_u001] Ross Geller: Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good boy. C'mere, gimme the rice. Thank you, good boy. Well, I see he's finally mastered the difference between 'bring me the' and 'pee in the'. 'Bring me the' and- Rach?
+[s01_e19_c03_u002] Rachel Green: What?
+[s01_e19_c03_u003] Ross Geller: Hi.
+[s01_e19_c03_u004] Rachel Green: Oh, I'm sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I'm happy for them.
+[s01_e19_c03_u005] Ross Geller: Really.
+[s01_e19_c03_u006] Rachel Green: No. Oh, oh, I guess it would be different if I were- with somebody.
+[s01_e19_c03_u007] Ross Geller: Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?
+[s01_e19_c03_u008] Rachel Green: Oh, I don't know. I guess it's not about no guys, it's about the right guy, y'know? I mean, with Barry, it was safe and it was easy, but there was no heat. With Paolo, that's all there was, was heat! And it was just this raw, animal, sexual...
+[s01_e19_c03_u009] Ross Geller: Wait-wait. I, I got it. I was there.
+[s01_e19_c03_u010] Rachel Green: Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?
+[s01_e19_c03_u011] Ross Geller: Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
+[s01_e19_c03_u012] Unknown Speaker: 
+[s01_e19_c03_u013] Monica Geller: Hi.
+[s01_e19_c03_u014] Ross Geller: ...Gets interrupted. Hi!
+[s01_e19_c03_u015] Rachel Green: Hi, how was the movie?
+[s01_e19_c03_u016] Monica Geller: Wonderful!
+[s01_e19_c03_u017] Phoebe Buffay: So good!"
+s01_e19,s01_e19_c03,Ross Geller,1,22,24,21,24,2,s01_e19_c03_u023,s01_e19_c03_u030,"[s01_e19_c03_u023] Joey Tribbiani: I meant female nudity. Alright? I don't need to see Lou Grant frolicking.
+[s01_e19_c03_u024] Monica Geller, Phoebe Buffay: Hugh! Hugh Grant!
+[s01_e19_c03_u025] Ross Geller: Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are.
+[s01_e19_c03_u026] Chandler Bing: They're still just friends, right?
+[s01_e19_c03_u027] Rachel Green: And I will see you tomorrow!
+[s01_e19_c03_u028] Ross Geller: That's right, you're gonna spend tomorrow at Aunt Rachel's, aren't you.
+[s01_e19_c03_u029] Monica Geller: Oh, hang on, hang on. Does Aunt Monica get a say in this?
+[s01_e19_c03_u030] Ross Geller: 'Pwease, Aunt Monica, pwease?' Oh, unclench. You're not even gonna be there."
+s01_e19,s01_e19_c04,Chandler Bing,0,0,0,0,1,2,s01_e19_c04_u001,s01_e19_c04_u006,"[s01_e19_c04_u001] Chandler Bing: I can't believe we are even having this discussion.
+[s01_e19_c04_u002] Joey Tribbiani: I agree. I'm, like, in disbelief.
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+[s01_e19_c04_u005] Joey Tribbiani: She really said that?
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight."
+s01_e19,s01_e19_c04,Chandler Bing,1,6,6,5,6,2,s01_e19_c04_u006,s01_e19_c04_u011,"[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+[s01_e19_c04_u007] Joey Tribbiani: 'Tonight' tonight?
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used."
+s01_e19,s01_e19_c04,Joey Tribbiani,0,0,4,0,5,2,s01_e19_c04_u001,s01_e19_c04_u010,"[s01_e19_c04_u001] Chandler Bing: I can't believe we are even having this discussion.
+[s01_e19_c04_u002] Joey Tribbiani: I agree. I'm, like, in disbelief.
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+[s01_e19_c04_u005] Joey Tribbiani: She really said that?
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+[s01_e19_c04_u007] Joey Tribbiani: 'Tonight' tonight?
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her."
+s01_e19,s01_e19_c04,Ross Geller,0,1,6,0,6,3,s01_e19_c04_u001,s01_e19_c04_u011,"[s01_e19_c04_u001] Chandler Bing: I can't believe we are even having this discussion.
+[s01_e19_c04_u002] Joey Tribbiani: I agree. I'm, like, in disbelief.
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+[s01_e19_c04_u005] Joey Tribbiani: She really said that?
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+[s01_e19_c04_u007] Joey Tribbiani: 'Tonight' tonight?
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used."
+s01_e19,s01_e19_c05,Monica Geller,0,1,3,0,4,2,s01_e19_c05_u001,s01_e19_c05_u011,"[s01_e19_c05_u001] Rachel Green: Now, now the one in the feather boa, that's Dr. Francis. Now, she used to be a man. Okay, now look, see, there's Raven. We hate her. We're glad she's dying. Okay- Wh- wh- Marcel, are you playing with Monica's shoes? You know you're not supposed to pl- whoah. Marcel, did you poo in the shoe? Marcel, bad monkey! Oh! Oh! Sorry, Barry. Little engagement gift. I'm sure you didn't register for that. Who died? Who died? Roll him over! Oh, c'mon, roll him over! Oh...! Well, we know it wasn't Dexter, right Marcel? Because- Marcel? Marc-
+[s01_e19_c05_u002] Unknown Speaker: 
+[s01_e19_c05_u003] Joey Tribbiani: How could you lose him?
+[s01_e19_c05_u004] Rachel Green: I don't know. We were watching TV, and then he pooped in Monica's shoe-
+[s01_e19_c05_u005] Monica Geller: Wait. He pooped in my shoe? Which one?
+[s01_e19_c05_u006] Rachel Green: I don't know. The left one.
+[s01_e19_c05_u007] Monica Geller: Which ones?
+[s01_e19_c05_u008] Rachel Green: Oh. Oh, those little clunky Amish things you think go with everything.
+[s01_e19_c05_u009] Phoebe Buffay: Hey.
+[s01_e19_c05_u010] #ALL#: Hi.
+[s01_e19_c05_u011] Phoebe Buffay: Whoah, ooh, why is the air in here so negative?"
+s01_e19,s01_e19_c05,Monica Geller,1,9,11,8,12,2,s01_e19_c05_u011,s01_e19_c05_u019,"[s01_e19_c05_u011] Phoebe Buffay: Whoah, ooh, why is the air in here so negative?
+[s01_e19_c05_u012] Chandler Bing: Rachel lost Marcel.
+[s01_e19_c05_u013] Phoebe Buffay: Oh no, how?
+[s01_e19_c05_u014] Monica Geller: He- he pooped in my shoe.
+[s01_e19_c05_u015] Phoebe Buffay: Which one?
+[s01_e19_c05_u016] Monica Geller: Those cute little black ones I wear all the time.
+[s01_e19_c05_u017] Phoebe Buffay: No, which one? The right or left? 'Cause the left one is lucky...
+[s01_e19_c05_u018] Rachel Green: C'mon, you guys, what're we gonna do, what're we gonna do?
+[s01_e19_c05_u019] Joey Tribbiani: Alright alright. You're a monkey. You're loose in the city. Where do you go?"
+s01_e19,s01_e19_c05,Monica Geller,2,17,26,16,27,2,s01_e19_c05_u019,s01_e19_c05_u036,"[s01_e19_c05_u019] Joey Tribbiani: Alright alright. You're a monkey. You're loose in the city. Where do you go?
+[s01_e19_c05_u020] Chandler Bing: Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats, you go to the Russian Tea Room.
+[s01_e19_c05_u021] Rachel Green: Oh, my, God, c'mon, you guys! He's gonna be home any minute! He's gonna kill me!
+[s01_e19_c05_u022] Monica Geller: Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth.
+[s01_e19_c05_u023] Rachel Green: Well, what'm I gonna do? What'm I gonna do?
+[s01_e19_c05_u024] Monica Geller: Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you.
+[s01_e19_c05_u025] Unknown Speaker: 
+[s01_e19_c05_u026] Rachel Green: Anybody wanna trade? Oh...
+[s01_e19_c05_u027] Unknown Speaker: 
+[s01_e19_c05_u028] Mr. Heckles: Whaddyou want?
+[s01_e19_c05_u029] Monica Geller: Mr. Heckles, our friend lost a monkey. Have you seen it?
+[s01_e19_c05_u030] Mr. Heckles: I left a Belgian waffle out here, did you take it?
+[s01_e19_c05_u031] Monica Geller: No!
+[s01_e19_c05_u032] Phoebe Buffay: Why would you leave your Belgian waffle in the hall?
+[s01_e19_c05_u033] Mr. Heckles: I wasn't ready for it.
+[s01_e19_c05_u034] Monica Geller: A monkey. Have you seen a monkey?
+[s01_e19_c05_u035] Mr. Heckles: Saw Regis Philbin once...
+[s01_e19_c05_u036] Phoebe Buffay: Okay, thank you, Mr. Heckles."
+s01_e19,s01_e19_c05,Mr. Heckles,0,21,30,20,31,3,s01_e19_c05_u023,s01_e19_c05_u041,"[s01_e19_c05_u023] Rachel Green: Well, what'm I gonna do? What'm I gonna do?
+[s01_e19_c05_u024] Monica Geller: Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you.
+[s01_e19_c05_u025] Unknown Speaker: 
+[s01_e19_c05_u026] Rachel Green: Anybody wanna trade? Oh...
+[s01_e19_c05_u027] Unknown Speaker: 
+[s01_e19_c05_u028] Mr. Heckles: Whaddyou want?
+[s01_e19_c05_u029] Monica Geller: Mr. Heckles, our friend lost a monkey. Have you seen it?
+[s01_e19_c05_u030] Mr. Heckles: I left a Belgian waffle out here, did you take it?
+[s01_e19_c05_u031] Monica Geller: No!
+[s01_e19_c05_u032] Phoebe Buffay: Why would you leave your Belgian waffle in the hall?
+[s01_e19_c05_u033] Mr. Heckles: I wasn't ready for it.
+[s01_e19_c05_u034] Monica Geller: A monkey. Have you seen a monkey?
+[s01_e19_c05_u035] Mr. Heckles: Saw Regis Philbin once...
+[s01_e19_c05_u036] Phoebe Buffay: Okay, thank you, Mr. Heckles.
+[s01_e19_c05_u037] Mr. Heckles: You owe me a waffle.
+[s01_e19_c05_u038] Unknown Speaker: 
+[s01_e19_c05_u039] Rachel Green: Okay, he's a, he's a black capuchian monkey with a white face... ...with, with Russian dressing and, and pickles on the side. Okay. Thanks.
+[s01_e19_c05_u040] Ross Geller: Hey. How did, uh, how'd it go today?
+[s01_e19_c05_u041] Rachel Green: Great! It went great. Really great. Hey, is that wine?"
+s01_e19,s01_e19_c05,Phoebe Buffay,0,4,12,3,13,3,s01_e19_c05_u005,s01_e19_c05_u020,"[s01_e19_c05_u005] Monica Geller: Wait. He pooped in my shoe? Which one?
+[s01_e19_c05_u006] Rachel Green: I don't know. The left one.
+[s01_e19_c05_u007] Monica Geller: Which ones?
+[s01_e19_c05_u008] Rachel Green: Oh. Oh, those little clunky Amish things you think go with everything.
+[s01_e19_c05_u009] Phoebe Buffay: Hey.
+[s01_e19_c05_u010] #ALL#: Hi.
+[s01_e19_c05_u011] Phoebe Buffay: Whoah, ooh, why is the air in here so negative?
+[s01_e19_c05_u012] Chandler Bing: Rachel lost Marcel.
+[s01_e19_c05_u013] Phoebe Buffay: Oh no, how?
+[s01_e19_c05_u014] Monica Geller: He- he pooped in my shoe.
+[s01_e19_c05_u015] Phoebe Buffay: Which one?
+[s01_e19_c05_u016] Monica Geller: Those cute little black ones I wear all the time.
+[s01_e19_c05_u017] Phoebe Buffay: No, which one? The right or left? 'Cause the left one is lucky...
+[s01_e19_c05_u018] Rachel Green: C'mon, you guys, what're we gonna do, what're we gonna do?
+[s01_e19_c05_u019] Joey Tribbiani: Alright alright. You're a monkey. You're loose in the city. Where do you go?
+[s01_e19_c05_u020] Chandler Bing: Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats, you go to the Russian Tea Room."
+s01_e19,s01_e19_c05,Phoebe Buffay,1,27,27,26,28,2,s01_e19_c05_u031,s01_e19_c05_u037,"[s01_e19_c05_u031] Monica Geller: No!
+[s01_e19_c05_u032] Phoebe Buffay: Why would you leave your Belgian waffle in the hall?
+[s01_e19_c05_u033] Mr. Heckles: I wasn't ready for it.
+[s01_e19_c05_u034] Monica Geller: A monkey. Have you seen a monkey?
+[s01_e19_c05_u035] Mr. Heckles: Saw Regis Philbin once...
+[s01_e19_c05_u036] Phoebe Buffay: Okay, thank you, Mr. Heckles.
+[s01_e19_c05_u037] Mr. Heckles: You owe me a waffle."
+s01_e19,s01_e19_c05,Rachel Green,0,0,4,0,5,3,s01_e19_c05_u001,s01_e19_c05_u012,"[s01_e19_c05_u001] Rachel Green: Now, now the one in the feather boa, that's Dr. Francis. Now, she used to be a man. Okay, now look, see, there's Raven. We hate her. We're glad she's dying. Okay- Wh- wh- Marcel, are you playing with Monica's shoes? You know you're not supposed to pl- whoah. Marcel, did you poo in the shoe? Marcel, bad monkey! Oh! Oh! Sorry, Barry. Little engagement gift. I'm sure you didn't register for that. Who died? Who died? Roll him over! Oh, c'mon, roll him over! Oh...! Well, we know it wasn't Dexter, right Marcel? Because- Marcel? Marc-
+[s01_e19_c05_u002] Unknown Speaker: 
+[s01_e19_c05_u003] Joey Tribbiani: How could you lose him?
+[s01_e19_c05_u004] Rachel Green: I don't know. We were watching TV, and then he pooped in Monica's shoe-
+[s01_e19_c05_u005] Monica Geller: Wait. He pooped in my shoe? Which one?
+[s01_e19_c05_u006] Rachel Green: I don't know. The left one.
+[s01_e19_c05_u007] Monica Geller: Which ones?
+[s01_e19_c05_u008] Rachel Green: Oh. Oh, those little clunky Amish things you think go with everything.
+[s01_e19_c05_u009] Phoebe Buffay: Hey.
+[s01_e19_c05_u010] #ALL#: Hi.
+[s01_e19_c05_u011] Phoebe Buffay: Whoah, ooh, why is the air in here so negative?
+[s01_e19_c05_u012] Chandler Bing: Rachel lost Marcel."
+s01_e19,s01_e19_c05,Rachel Green,1,14,20,13,21,3,s01_e19_c05_u016,s01_e19_c05_u030,"[s01_e19_c05_u016] Monica Geller: Those cute little black ones I wear all the time.
+[s01_e19_c05_u017] Phoebe Buffay: No, which one? The right or left? 'Cause the left one is lucky...
+[s01_e19_c05_u018] Rachel Green: C'mon, you guys, what're we gonna do, what're we gonna do?
+[s01_e19_c05_u019] Joey Tribbiani: Alright alright. You're a monkey. You're loose in the city. Where do you go?
+[s01_e19_c05_u020] Chandler Bing: Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats, you go to the Russian Tea Room.
+[s01_e19_c05_u021] Rachel Green: Oh, my, God, c'mon, you guys! He's gonna be home any minute! He's gonna kill me!
+[s01_e19_c05_u022] Monica Geller: Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth.
+[s01_e19_c05_u023] Rachel Green: Well, what'm I gonna do? What'm I gonna do?
+[s01_e19_c05_u024] Monica Geller: Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you.
+[s01_e19_c05_u025] Unknown Speaker: 
+[s01_e19_c05_u026] Rachel Green: Anybody wanna trade? Oh...
+[s01_e19_c05_u027] Unknown Speaker: 
+[s01_e19_c05_u028] Mr. Heckles: Whaddyou want?
+[s01_e19_c05_u029] Monica Geller: Mr. Heckles, our friend lost a monkey. Have you seen it?
+[s01_e19_c05_u030] Mr. Heckles: I left a Belgian waffle out here, did you take it?"
+s01_e19,s01_e19_c05,Rachel Green,2,31,41,30,41,3,s01_e19_c05_u035,s01_e19_c05_u051,"[s01_e19_c05_u035] Mr. Heckles: Saw Regis Philbin once...
+[s01_e19_c05_u036] Phoebe Buffay: Okay, thank you, Mr. Heckles.
+[s01_e19_c05_u037] Mr. Heckles: You owe me a waffle.
+[s01_e19_c05_u038] Unknown Speaker: 
+[s01_e19_c05_u039] Rachel Green: Okay, he's a, he's a black capuchian monkey with a white face... ...with, with Russian dressing and, and pickles on the side. Okay. Thanks.
+[s01_e19_c05_u040] Ross Geller: Hey. How did, uh, how'd it go today?
+[s01_e19_c05_u041] Rachel Green: Great! It went great. Really great. Hey, is that wine?
+[s01_e19_c05_u042] Ross Geller: Yeah. You, uh, you want some?
+[s01_e19_c05_u043] Rachel Green: Oh, I would love some. But y'know what? Y'know what? Let's not drink it here. I'm feeling kinda crazy. You wanna go to Newark?
+[s01_e19_c05_u044] Ross Geller: Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y'know how we were, uh, y'know, talking before about, uh, relationships and stuff? Well-
+[s01_e19_c05_u045] Rachel Green: Oh God, Ross, I cannot do this.
+[s01_e19_c05_u046] Ross Geller: Okay, quick and painful.
+[s01_e19_c05_u047] Rachel Green: Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.
+[s01_e19_c05_u048] Ross Geller: Oh, what? What-what?
+[s01_e19_c05_u049] Rachel Green: Y'know Marcel?
+[s01_e19_c05_u050] Ross Geller: ...Yeah?
+[s01_e19_c05_u051] Rachel Green: Well, I kind of... I kind of lost him."
+s01_e19,s01_e19_c05,Ross Geller,0,32,41,31,41,3,s01_e19_c05_u036,s01_e19_c05_u051,"[s01_e19_c05_u036] Phoebe Buffay: Okay, thank you, Mr. Heckles.
+[s01_e19_c05_u037] Mr. Heckles: You owe me a waffle.
+[s01_e19_c05_u038] Unknown Speaker: 
+[s01_e19_c05_u039] Rachel Green: Okay, he's a, he's a black capuchian monkey with a white face... ...with, with Russian dressing and, and pickles on the side. Okay. Thanks.
+[s01_e19_c05_u040] Ross Geller: Hey. How did, uh, how'd it go today?
+[s01_e19_c05_u041] Rachel Green: Great! It went great. Really great. Hey, is that wine?
+[s01_e19_c05_u042] Ross Geller: Yeah. You, uh, you want some?
+[s01_e19_c05_u043] Rachel Green: Oh, I would love some. But y'know what? Y'know what? Let's not drink it here. I'm feeling kinda crazy. You wanna go to Newark?
+[s01_e19_c05_u044] Ross Geller: Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y'know how we were, uh, y'know, talking before about, uh, relationships and stuff? Well-
+[s01_e19_c05_u045] Rachel Green: Oh God, Ross, I cannot do this.
+[s01_e19_c05_u046] Ross Geller: Okay, quick and painful.
+[s01_e19_c05_u047] Rachel Green: Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.
+[s01_e19_c05_u048] Ross Geller: Oh, what? What-what?
+[s01_e19_c05_u049] Rachel Green: Y'know Marcel?
+[s01_e19_c05_u050] Ross Geller: ...Yeah?
+[s01_e19_c05_u051] Rachel Green: Well, I kind of... I kind of lost him."
+s01_e19,s01_e19_c06,Chandler Bing,0,41,48,40,49,2,s01_e19_c06_u043,s01_e19_c06_u059,"[s01_e19_c06_u043] Monica Geller: Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?
+[s01_e19_c06_u044] Luisa Gianetti: I could... but I won't. If I find that monkey, he's mine.
+[s01_e19_c06_u045] Phoebe Buffay: Dun-dun-duuuur! Sorry.
+[s01_e19_c06_u046] Unknown Speaker: 
+[s01_e19_c06_u047] Chandler Bing: Marcel?
+[s01_e19_c06_u048] Joey Tribbiani: Marcel?
+[s01_e19_c06_u049] Chandler Bing: Marcel?
+[s01_e19_c06_u050] Joey Tribbiani: Marcel?
+[s01_e19_c06_u051] Unknown Speaker: 
+[s01_e19_c06_u052] Woman No. 1: Hi, can I help you?
+[s01_e19_c06_u053] Unknown Speaker: 
+[s01_e19_c06_u054] Chandler Bing: Um, we're kind of having an emergency and we-we were looking for something...
+[s01_e19_c06_u055] Joey Tribbiani: A monkey.
+[s01_e19_c06_u056] Chandler Bing: Yes have you seen any?
+[s01_e19_c06_u057] Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?
+[s01_e19_c06_u058] Joey Tribbiani: Um, sure! Did you, uh, did you try turning the knob back the other way?
+[s01_e19_c06_u059] Woman No. 1: Of course."
+s01_e19,s01_e19_c06,Chandler Bing,1,55,61,54,62,3,s01_e19_c06_u060,s01_e19_c06_u076,"[s01_e19_c06_u060] Joey Tribbiani: Oh. Then, no.
+[s01_e19_c06_u061] Unknown Speaker: 
+[s01_e19_c06_u062] Woman No. 2: Did I put too much rum in here?
+[s01_e19_c06_u063] Unknown Speaker: 
+[s01_e19_c06_u064] Woman No. 1: Just a sec. Hope you find your monkey.
+[s01_e19_c06_u065] Chandler Bing: Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu.
+[s01_e19_c06_u066] Joey Tribbiani: Uh, aren't we kind of in the middle of something here?
+[s01_e19_c06_u067] Chandler Bing: Yes, but these women are very hot, and they need our help! And they're very hot.
+[s01_e19_c06_u068] Joey Tribbiani: We can't, alright? We're sorry. You have no idea how sorry, but... We promised we'd find this monkey. If you see him, he's about yea high and answers to the name Marcel, so if we could get some pictures of you, you'd really be helping us out.
+[s01_e19_c06_u069] Unknown Speaker: 
+[s01_e19_c06_u070] Chandler Bing: Okay, from now on, you don't get to talk to other people.
+[s01_e19_c06_u071] Joey Tribbiani: Marcel?
+[s01_e19_c06_u072] Chandler Bing: Marcel?!
+[s01_e19_c06_u073] Unknown Speaker: 
+[s01_e19_c06_u074] Phoebe Buffay: Marcel?
+[s01_e19_c06_u075] Monica Geller: Marcel?
+[s01_e19_c06_u076] Phoebe Buffay: Marcel?"
+s01_e19,s01_e19_c06,Joey Tribbiani,0,42,46,41,47,2,s01_e19_c06_u044,s01_e19_c06_u057,"[s01_e19_c06_u044] Luisa Gianetti: I could... but I won't. If I find that monkey, he's mine.
+[s01_e19_c06_u045] Phoebe Buffay: Dun-dun-duuuur! Sorry.
+[s01_e19_c06_u046] Unknown Speaker: 
+[s01_e19_c06_u047] Chandler Bing: Marcel?
+[s01_e19_c06_u048] Joey Tribbiani: Marcel?
+[s01_e19_c06_u049] Chandler Bing: Marcel?
+[s01_e19_c06_u050] Joey Tribbiani: Marcel?
+[s01_e19_c06_u051] Unknown Speaker: 
+[s01_e19_c06_u052] Woman No. 1: Hi, can I help you?
+[s01_e19_c06_u053] Unknown Speaker: 
+[s01_e19_c06_u054] Chandler Bing: Um, we're kind of having an emergency and we-we were looking for something...
+[s01_e19_c06_u055] Joey Tribbiani: A monkey.
+[s01_e19_c06_u056] Chandler Bing: Yes have you seen any?
+[s01_e19_c06_u057] Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?"
+s01_e19,s01_e19_c06,Joey Tribbiani,1,48,52,47,53,2,s01_e19_c06_u052,s01_e19_c06_u065,"[s01_e19_c06_u052] Woman No. 1: Hi, can I help you?
+[s01_e19_c06_u053] Unknown Speaker: 
+[s01_e19_c06_u054] Chandler Bing: Um, we're kind of having an emergency and we-we were looking for something...
+[s01_e19_c06_u055] Joey Tribbiani: A monkey.
+[s01_e19_c06_u056] Chandler Bing: Yes have you seen any?
+[s01_e19_c06_u057] Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?
+[s01_e19_c06_u058] Joey Tribbiani: Um, sure! Did you, uh, did you try turning the knob back the other way?
+[s01_e19_c06_u059] Woman No. 1: Of course.
+[s01_e19_c06_u060] Joey Tribbiani: Oh. Then, no.
+[s01_e19_c06_u061] Unknown Speaker: 
+[s01_e19_c06_u062] Woman No. 2: Did I put too much rum in here?
+[s01_e19_c06_u063] Unknown Speaker: 
+[s01_e19_c06_u064] Woman No. 1: Just a sec. Hope you find your monkey.
+[s01_e19_c06_u065] Chandler Bing: Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu."
+s01_e19,s01_e19_c06,Joey Tribbiani,2,54,54,53,55,2,s01_e19_c06_u059,s01_e19_c06_u067,"[s01_e19_c06_u059] Woman No. 1: Of course.
+[s01_e19_c06_u060] Joey Tribbiani: Oh. Then, no.
+[s01_e19_c06_u061] Unknown Speaker: 
+[s01_e19_c06_u062] Woman No. 2: Did I put too much rum in here?
+[s01_e19_c06_u063] Unknown Speaker: 
+[s01_e19_c06_u064] Woman No. 1: Just a sec. Hope you find your monkey.
+[s01_e19_c06_u065] Chandler Bing: Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu.
+[s01_e19_c06_u066] Joey Tribbiani: Uh, aren't we kind of in the middle of something here?
+[s01_e19_c06_u067] Chandler Bing: Yes, but these women are very hot, and they need our help! And they're very hot."
+s01_e19,s01_e19_c06,Joey Tribbiani,3,56,60,55,61,3,s01_e19_c06_u062,s01_e19_c06_u075,"[s01_e19_c06_u062] Woman No. 2: Did I put too much rum in here?
+[s01_e19_c06_u063] Unknown Speaker: 
+[s01_e19_c06_u064] Woman No. 1: Just a sec. Hope you find your monkey.
+[s01_e19_c06_u065] Chandler Bing: Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu.
+[s01_e19_c06_u066] Joey Tribbiani: Uh, aren't we kind of in the middle of something here?
+[s01_e19_c06_u067] Chandler Bing: Yes, but these women are very hot, and they need our help! And they're very hot.
+[s01_e19_c06_u068] Joey Tribbiani: We can't, alright? We're sorry. You have no idea how sorry, but... We promised we'd find this monkey. If you see him, he's about yea high and answers to the name Marcel, so if we could get some pictures of you, you'd really be helping us out.
+[s01_e19_c06_u069] Unknown Speaker: 
+[s01_e19_c06_u070] Chandler Bing: Okay, from now on, you don't get to talk to other people.
+[s01_e19_c06_u071] Joey Tribbiani: Marcel?
+[s01_e19_c06_u072] Chandler Bing: Marcel?!
+[s01_e19_c06_u073] Unknown Speaker: 
+[s01_e19_c06_u074] Phoebe Buffay: Marcel?
+[s01_e19_c06_u075] Monica Geller: Marcel?"
+s01_e19,s01_e19_c06,Luisa Gianetti,0,18,19,17,20,2,s01_e19_c06_u019,s01_e19_c06_u027,"[s01_e19_c06_u019] Rachel Green: Cat! What'm I saying? Cat!
+[s01_e19_c06_u020] Unknown Speaker: 
+[s01_e19_c06_u021] Monica Geller: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+[s01_e19_c06_u022] Luisa Gianetti: Marcel?
+[s01_e19_c06_u023] Ross Geller: My uncle Marcel.
+[s01_e19_c06_u024] Phoebe Buffay: Oh, is that who the monkey's named after?
+[s01_e19_c06_u025] Luisa Gianetti: Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?
+[s01_e19_c06_u026] Phoebe Buffay: Oh my God. You'd put that poor little creature in jail?
+[s01_e19_c06_u027] Monica Geller: Pheebs, you remember how we talked about saying things quietly to yourself first?"
+s01_e19,s01_e19_c06,Luisa Gianetti,1,25,27,24,28,2,s01_e19_c06_u027,s01_e19_c06_u035,"[s01_e19_c06_u027] Monica Geller: Pheebs, you remember how we talked about saying things quietly to yourself first?
+[s01_e19_c06_u028] Phoebe Buffay: Yes, but there isn't always time!
+[s01_e19_c06_u029] Monica Geller: Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller.
+[s01_e19_c06_u030] Luisa Gianetti: Oh my God, you are! And you're Rachel Green!
+[s01_e19_c06_u031] Rachel Green: Yeah!
+[s01_e19_c06_u032] Luisa Gianetti: Luisa Gianetti! Lincoln High? I sat behind you guys in home room!
+[s01_e19_c06_u033] Rachel Green: Luisa? Oh my God! Monica! It's Luisa!
+[s01_e19_c06_u034] Monica Geller: The Luisa from home room!
+[s01_e19_c06_u035] Rachel Green: Yes!!"
+s01_e19,s01_e19_c06,Luisa Gianetti,2,29,29,28,30,2,s01_e19_c06_u031,s01_e19_c06_u037,"[s01_e19_c06_u031] Rachel Green: Yeah!
+[s01_e19_c06_u032] Luisa Gianetti: Luisa Gianetti! Lincoln High? I sat behind you guys in home room!
+[s01_e19_c06_u033] Rachel Green: Luisa? Oh my God! Monica! It's Luisa!
+[s01_e19_c06_u034] Monica Geller: The Luisa from home room!
+[s01_e19_c06_u035] Rachel Green: Yes!!
+[s01_e19_c06_u036] Luisa Gianetti: You have no idea who I am, do you.
+[s01_e19_c06_u037] Monica Geller: No, none at all."
+s01_e19,s01_e19_c06,Luisa Gianetti,3,32,38,31,39,2,s01_e19_c06_u034,s01_e19_c06_u047,"[s01_e19_c06_u034] Monica Geller: The Luisa from home room!
+[s01_e19_c06_u035] Rachel Green: Yes!!
+[s01_e19_c06_u036] Luisa Gianetti: You have no idea who I am, do you.
+[s01_e19_c06_u037] Monica Geller: No, none at all.
+[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?
+[s01_e19_c06_u040] Monica Geller: Oh, I'm- I'm so sorry!
+[s01_e19_c06_u041] Luisa Gianetti: Ah, it's not so much you, you were fat, you had your own problems. But you? What a bitch!
+[s01_e19_c06_u042] Rachel Green: What?!
+[s01_e19_c06_u043] Monica Geller: Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?
+[s01_e19_c06_u044] Luisa Gianetti: I could... but I won't. If I find that monkey, he's mine.
+[s01_e19_c06_u045] Phoebe Buffay: Dun-dun-duuuur! Sorry.
+[s01_e19_c06_u046] Unknown Speaker: 
+[s01_e19_c06_u047] Chandler Bing: Marcel?"
+s01_e19,s01_e19_c06,Luisa Gianetti,4,73,75,72,76,2,s01_e19_c06_u082,s01_e19_c06_u093,"[s01_e19_c06_u082] Phoebe Buffay: Oh, it's okay, it was just my left leg.
+[s01_e19_c06_u083] Unknown Speaker: 
+[s01_e19_c06_u084] Monica Geller: Look, Phoebe!
+[s01_e19_c06_u085] Phoebe Buffay: Yeah! Oh, c'mere, Marcel! Oh, Marcel, c'mere!
+[s01_e19_c06_u086] Unknown Speaker: 
+[s01_e19_c06_u087] Luisa Gianetti: Step aside, ladies!
+[s01_e19_c06_u088] Monica Geller: What're you gonna do?
+[s01_e19_c06_u089] Luisa Gianetti: Just a small tranquiliser.
+[s01_e19_c06_u090] Unknown Speaker: 
+[s01_e19_c06_u091] Monica Geller: Run, Marcel, run! Run, Marcel! Are you okay?
+[s01_e19_c06_u092] Phoebe Buffay: Yeah, think so. Oh! Huh. Whoah.
+[s01_e19_c06_u093] Monica Geller: Oh gosh."
+s01_e19,s01_e19_c06,Monica Geller,0,22,24,21,25,2,s01_e19_c06_u024,s01_e19_c06_u032,"[s01_e19_c06_u024] Phoebe Buffay: Oh, is that who the monkey's named after?
+[s01_e19_c06_u025] Luisa Gianetti: Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?
+[s01_e19_c06_u026] Phoebe Buffay: Oh my God. You'd put that poor little creature in jail?
+[s01_e19_c06_u027] Monica Geller: Pheebs, you remember how we talked about saying things quietly to yourself first?
+[s01_e19_c06_u028] Phoebe Buffay: Yes, but there isn't always time!
+[s01_e19_c06_u029] Monica Geller: Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller.
+[s01_e19_c06_u030] Luisa Gianetti: Oh my God, you are! And you're Rachel Green!
+[s01_e19_c06_u031] Rachel Green: Yeah!
+[s01_e19_c06_u032] Luisa Gianetti: Luisa Gianetti! Lincoln High? I sat behind you guys in home room!"
+s01_e19,s01_e19_c06,Monica Geller,1,30,31,29,32,2,s01_e19_c06_u032,s01_e19_c06_u039,"[s01_e19_c06_u032] Luisa Gianetti: Luisa Gianetti! Lincoln High? I sat behind you guys in home room!
+[s01_e19_c06_u033] Rachel Green: Luisa? Oh my God! Monica! It's Luisa!
+[s01_e19_c06_u034] Monica Geller: The Luisa from home room!
+[s01_e19_c06_u035] Rachel Green: Yes!!
+[s01_e19_c06_u036] Luisa Gianetti: You have no idea who I am, do you.
+[s01_e19_c06_u037] Monica Geller: No, none at all.
+[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?"
+s01_e19,s01_e19_c06,Monica Geller,2,33,34,32,35,2,s01_e19_c06_u035,s01_e19_c06_u042,"[s01_e19_c06_u035] Rachel Green: Yes!!
+[s01_e19_c06_u036] Luisa Gianetti: You have no idea who I am, do you.
+[s01_e19_c06_u037] Monica Geller: No, none at all.
+[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?
+[s01_e19_c06_u040] Monica Geller: Oh, I'm- I'm so sorry!
+[s01_e19_c06_u041] Luisa Gianetti: Ah, it's not so much you, you were fat, you had your own problems. But you? What a bitch!
+[s01_e19_c06_u042] Rachel Green: What?!"
+s01_e19,s01_e19_c06,Monica Geller,3,36,37,35,38,2,s01_e19_c06_u038,s01_e19_c06_u045,"[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?
+[s01_e19_c06_u040] Monica Geller: Oh, I'm- I'm so sorry!
+[s01_e19_c06_u041] Luisa Gianetti: Ah, it's not so much you, you were fat, you had your own problems. But you? What a bitch!
+[s01_e19_c06_u042] Rachel Green: What?!
+[s01_e19_c06_u043] Monica Geller: Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?
+[s01_e19_c06_u044] Luisa Gianetti: I could... but I won't. If I find that monkey, he's mine.
+[s01_e19_c06_u045] Phoebe Buffay: Dun-dun-duuuur! Sorry."
+s01_e19,s01_e19_c06,Monica Geller,4,65,65,64,66,2,s01_e19_c06_u074,s01_e19_c06_u080,"[s01_e19_c06_u074] Phoebe Buffay: Marcel?
+[s01_e19_c06_u075] Monica Geller: Marcel?
+[s01_e19_c06_u076] Phoebe Buffay: Marcel?
+[s01_e19_c06_u077] Both: Marcel?
+[s01_e19_c06_u078] Phoebe Buffay: Oh-my-God!
+[s01_e19_c06_u079] Monica Geller: Whaaat!
+[s01_e19_c06_u080] Phoebe Buffay: Something just brushed up against my right leg!"
+s01_e19,s01_e19_c06,Monica Geller,5,67,78,66,79,3,s01_e19_c06_u076,s01_e19_c06_u097,"[s01_e19_c06_u076] Phoebe Buffay: Marcel?
+[s01_e19_c06_u077] Both: Marcel?
+[s01_e19_c06_u078] Phoebe Buffay: Oh-my-God!
+[s01_e19_c06_u079] Monica Geller: Whaaat!
+[s01_e19_c06_u080] Phoebe Buffay: Something just brushed up against my right leg!
+[s01_e19_c06_u081] Monica Geller: What is it?
+[s01_e19_c06_u082] Phoebe Buffay: Oh, it's okay, it was just my left leg.
+[s01_e19_c06_u083] Unknown Speaker: 
+[s01_e19_c06_u084] Monica Geller: Look, Phoebe!
+[s01_e19_c06_u085] Phoebe Buffay: Yeah! Oh, c'mere, Marcel! Oh, Marcel, c'mere!
+[s01_e19_c06_u086] Unknown Speaker: 
+[s01_e19_c06_u087] Luisa Gianetti: Step aside, ladies!
+[s01_e19_c06_u088] Monica Geller: What're you gonna do?
+[s01_e19_c06_u089] Luisa Gianetti: Just a small tranquiliser.
+[s01_e19_c06_u090] Unknown Speaker: 
+[s01_e19_c06_u091] Monica Geller: Run, Marcel, run! Run, Marcel! Are you okay?
+[s01_e19_c06_u092] Phoebe Buffay: Yeah, think so. Oh! Huh. Whoah.
+[s01_e19_c06_u093] Monica Geller: Oh gosh.
+[s01_e19_c06_u094] Unknown Speaker: 
+[s01_e19_c06_u095] Ross Geller: Marcel?
+[s01_e19_c06_u096] Rachel Green: Marcel?
+[s01_e19_c06_u097] Ross Geller: Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone."
+s01_e19,s01_e19_c06,Phoebe Buffay,0,19,23,18,24,3,s01_e19_c06_u021,s01_e19_c06_u031,"[s01_e19_c06_u021] Monica Geller: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+[s01_e19_c06_u022] Luisa Gianetti: Marcel?
+[s01_e19_c06_u023] Ross Geller: My uncle Marcel.
+[s01_e19_c06_u024] Phoebe Buffay: Oh, is that who the monkey's named after?
+[s01_e19_c06_u025] Luisa Gianetti: Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?
+[s01_e19_c06_u026] Phoebe Buffay: Oh my God. You'd put that poor little creature in jail?
+[s01_e19_c06_u027] Monica Geller: Pheebs, you remember how we talked about saying things quietly to yourself first?
+[s01_e19_c06_u028] Phoebe Buffay: Yes, but there isn't always time!
+[s01_e19_c06_u029] Monica Geller: Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller.
+[s01_e19_c06_u030] Luisa Gianetti: Oh my God, you are! And you're Rachel Green!
+[s01_e19_c06_u031] Rachel Green: Yeah!"
+s01_e19,s01_e19_c06,Phoebe Buffay,1,62,72,61,73,3,s01_e19_c06_u070,s01_e19_c06_u089,"[s01_e19_c06_u070] Chandler Bing: Okay, from now on, you don't get to talk to other people.
+[s01_e19_c06_u071] Joey Tribbiani: Marcel?
+[s01_e19_c06_u072] Chandler Bing: Marcel?!
+[s01_e19_c06_u073] Unknown Speaker: 
+[s01_e19_c06_u074] Phoebe Buffay: Marcel?
+[s01_e19_c06_u075] Monica Geller: Marcel?
+[s01_e19_c06_u076] Phoebe Buffay: Marcel?
+[s01_e19_c06_u077] Both: Marcel?
+[s01_e19_c06_u078] Phoebe Buffay: Oh-my-God!
+[s01_e19_c06_u079] Monica Geller: Whaaat!
+[s01_e19_c06_u080] Phoebe Buffay: Something just brushed up against my right leg!
+[s01_e19_c06_u081] Monica Geller: What is it?
+[s01_e19_c06_u082] Phoebe Buffay: Oh, it's okay, it was just my left leg.
+[s01_e19_c06_u083] Unknown Speaker: 
+[s01_e19_c06_u084] Monica Geller: Look, Phoebe!
+[s01_e19_c06_u085] Phoebe Buffay: Yeah! Oh, c'mere, Marcel! Oh, Marcel, c'mere!
+[s01_e19_c06_u086] Unknown Speaker: 
+[s01_e19_c06_u087] Luisa Gianetti: Step aside, ladies!
+[s01_e19_c06_u088] Monica Geller: What're you gonna do?
+[s01_e19_c06_u089] Luisa Gianetti: Just a small tranquiliser."
+s01_e19,s01_e19_c06,Rachel Green,0,0,15,0,16,3,s01_e19_c06_u001,s01_e19_c06_u023,"[s01_e19_c06_u001] Ross Geller: I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment.
+[s01_e19_c06_u002] Rachel Green: I know, I know, I'm sorry-
+[s01_e19_c06_u003] Ross Geller: No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil.
+[s01_e19_c06_u004] Rachel Green: Ross, I'm doing everything that I can, I've got everybody looking for him, and I- Oh! Who is it?
+[s01_e19_c06_u005] Intercom: Animal Control.
+[s01_e19_c06_u006] Rachel Green: See? I've even called Animal Control!
+[s01_e19_c06_u007] Ross Geller: You called Animal Control?
+[s01_e19_c06_u008] Rachel Green: Uh-huh... why... do you not like them?
+[s01_e19_c06_u009] Ross Geller: Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me.
+[s01_e19_c06_u010] Rachel Green: O-okay, now see, you never ever ever told us that...
+[s01_e19_c06_u011] Ross Geller: That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!
+[s01_e19_c06_u012] Unknown Speaker: 
+[s01_e19_c06_u013] Rachel Green: Hi, thanks for coming.
+[s01_e19_c06_u014] Luisa Gianetti: Somebody called about a monkey?
+[s01_e19_c06_u015] Rachel Green: Oh, y'know what? That was a complete misunderstanding!
+[s01_e19_c06_u016] Ross Geller: Yeah, we thought we had a monkey, but we-we didn't.
+[s01_e19_c06_u017] Rachel Green: Turned out it was a hat.
+[s01_e19_c06_u018] Ross Geller: Cat!
+[s01_e19_c06_u019] Rachel Green: Cat! What'm I saying? Cat!
+[s01_e19_c06_u020] Unknown Speaker: 
+[s01_e19_c06_u021] Monica Geller: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+[s01_e19_c06_u022] Luisa Gianetti: Marcel?
+[s01_e19_c06_u023] Ross Geller: My uncle Marcel."
+s01_e19,s01_e19_c06,Rachel Green,1,26,32,25,33,3,s01_e19_c06_u028,s01_e19_c06_u040,"[s01_e19_c06_u028] Phoebe Buffay: Yes, but there isn't always time!
+[s01_e19_c06_u029] Monica Geller: Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller.
+[s01_e19_c06_u030] Luisa Gianetti: Oh my God, you are! And you're Rachel Green!
+[s01_e19_c06_u031] Rachel Green: Yeah!
+[s01_e19_c06_u032] Luisa Gianetti: Luisa Gianetti! Lincoln High? I sat behind you guys in home room!
+[s01_e19_c06_u033] Rachel Green: Luisa? Oh my God! Monica! It's Luisa!
+[s01_e19_c06_u034] Monica Geller: The Luisa from home room!
+[s01_e19_c06_u035] Rachel Green: Yes!!
+[s01_e19_c06_u036] Luisa Gianetti: You have no idea who I am, do you.
+[s01_e19_c06_u037] Monica Geller: No, none at all.
+[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?
+[s01_e19_c06_u040] Monica Geller: Oh, I'm- I'm so sorry!"
+s01_e19,s01_e19_c06,Rachel Green,2,35,35,34,36,2,s01_e19_c06_u037,s01_e19_c06_u043,"[s01_e19_c06_u037] Monica Geller: No, none at all.
+[s01_e19_c06_u038] Rachel Green: None.
+[s01_e19_c06_u039] Luisa Gianetti: Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?
+[s01_e19_c06_u040] Monica Geller: Oh, I'm- I'm so sorry!
+[s01_e19_c06_u041] Luisa Gianetti: Ah, it's not so much you, you were fat, you had your own problems. But you? What a bitch!
+[s01_e19_c06_u042] Rachel Green: What?!
+[s01_e19_c06_u043] Monica Geller: Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?"
+s01_e19,s01_e19_c06,Rachel Green,3,80,92,79,92,3,s01_e19_c06_u092,s01_e19_c06_u111,"[s01_e19_c06_u092] Phoebe Buffay: Yeah, think so. Oh! Huh. Whoah.
+[s01_e19_c06_u093] Monica Geller: Oh gosh.
+[s01_e19_c06_u094] Unknown Speaker: 
+[s01_e19_c06_u095] Ross Geller: Marcel?
+[s01_e19_c06_u096] Rachel Green: Marcel?
+[s01_e19_c06_u097] Ross Geller: Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone.
+[s01_e19_c06_u098] Rachel Green: Ross, you don't know that.
+[s01_e19_c06_u099] Ross Geller: Oh come on. It's cold, it's dark, he doesn't know the Village. And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much.
+[s01_e19_c06_u100] Rachel Green: Ross, I said I'm sorry like a million times. What do you want me to do? You want me to break my foot too? Okay, I'm gonna break my foot, right here. Ow!! Oh! Oh my God, oh my God! There, are you happy now?!
+[s01_e19_c06_u101] Ross Geller: Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!
+[s01_e19_c06_u102] Rachel Green: Y'know, it is not like I did this on purpose.
+[s01_e19_c06_u103] Ross Geller: Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you're off in Rachel-land, doing your Rachel-thing, totally oblivious to people's monkeys, or to people's feelings...
+[s01_e19_c06_u104] Rachel Green: Ross.
+[s01_e19_c06_u105] Ross Geller: I don't even wanna hear it, you're just...
+[s01_e19_c06_u106] Rachel Green: Ross.
+[s01_e19_c06_u107] Ross Geller: Oh, forget it, okay?
+[s01_e19_c06_u108] Rachel Green: Ross!
+[s01_e19_c06_u109] Ross Geller: What? What?
+[s01_e19_c06_u110] Unknown Speaker: 
+[s01_e19_c06_u111] Both: Hey! Hey, Bananaman!"
+s01_e19,s01_e19_c06,Ross Geller,0,0,0,0,1,2,s01_e19_c06_u001,s01_e19_c06_u006,"[s01_e19_c06_u001] Ross Geller: I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment.
+[s01_e19_c06_u002] Rachel Green: I know, I know, I'm sorry-
+[s01_e19_c06_u003] Ross Geller: No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil.
+[s01_e19_c06_u004] Rachel Green: Ross, I'm doing everything that I can, I've got everybody looking for him, and I- Oh! Who is it?
+[s01_e19_c06_u005] Intercom: Animal Control.
+[s01_e19_c06_u006] Rachel Green: See? I've even called Animal Control!"
+s01_e19,s01_e19_c06,Ross Geller,1,2,2,1,3,2,s01_e19_c06_u002,s01_e19_c06_u008,"[s01_e19_c06_u002] Rachel Green: I know, I know, I'm sorry-
+[s01_e19_c06_u003] Ross Geller: No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil.
+[s01_e19_c06_u004] Rachel Green: Ross, I'm doing everything that I can, I've got everybody looking for him, and I- Oh! Who is it?
+[s01_e19_c06_u005] Intercom: Animal Control.
+[s01_e19_c06_u006] Rachel Green: See? I've even called Animal Control!
+[s01_e19_c06_u007] Ross Geller: You called Animal Control?
+[s01_e19_c06_u008] Rachel Green: Uh-huh... why... do you not like them?"
+s01_e19,s01_e19_c06,Ross Geller,2,4,8,3,9,3,s01_e19_c06_u004,s01_e19_c06_u015,"[s01_e19_c06_u004] Rachel Green: Ross, I'm doing everything that I can, I've got everybody looking for him, and I- Oh! Who is it?
+[s01_e19_c06_u005] Intercom: Animal Control.
+[s01_e19_c06_u006] Rachel Green: See? I've even called Animal Control!
+[s01_e19_c06_u007] Ross Geller: You called Animal Control?
+[s01_e19_c06_u008] Rachel Green: Uh-huh... why... do you not like them?
+[s01_e19_c06_u009] Ross Geller: Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me.
+[s01_e19_c06_u010] Rachel Green: O-okay, now see, you never ever ever told us that...
+[s01_e19_c06_u011] Ross Geller: That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!
+[s01_e19_c06_u012] Unknown Speaker: 
+[s01_e19_c06_u013] Rachel Green: Hi, thanks for coming.
+[s01_e19_c06_u014] Luisa Gianetti: Somebody called about a monkey?
+[s01_e19_c06_u015] Rachel Green: Oh, y'know what? That was a complete misunderstanding!"
+s01_e19,s01_e19_c06,Ross Geller,3,10,10,9,11,2,s01_e19_c06_u010,s01_e19_c06_u017,"[s01_e19_c06_u010] Rachel Green: O-okay, now see, you never ever ever told us that...
+[s01_e19_c06_u011] Ross Geller: That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!
+[s01_e19_c06_u012] Unknown Speaker: 
+[s01_e19_c06_u013] Rachel Green: Hi, thanks for coming.
+[s01_e19_c06_u014] Luisa Gianetti: Somebody called about a monkey?
+[s01_e19_c06_u015] Rachel Green: Oh, y'know what? That was a complete misunderstanding!
+[s01_e19_c06_u016] Ross Geller: Yeah, we thought we had a monkey, but we-we didn't.
+[s01_e19_c06_u017] Rachel Green: Turned out it was a hat."
+s01_e19,s01_e19_c06,Ross Geller,4,12,14,11,15,2,s01_e19_c06_u013,s01_e19_c06_u022,"[s01_e19_c06_u013] Rachel Green: Hi, thanks for coming.
+[s01_e19_c06_u014] Luisa Gianetti: Somebody called about a monkey?
+[s01_e19_c06_u015] Rachel Green: Oh, y'know what? That was a complete misunderstanding!
+[s01_e19_c06_u016] Ross Geller: Yeah, we thought we had a monkey, but we-we didn't.
+[s01_e19_c06_u017] Rachel Green: Turned out it was a hat.
+[s01_e19_c06_u018] Ross Geller: Cat!
+[s01_e19_c06_u019] Rachel Green: Cat! What'm I saying? Cat!
+[s01_e19_c06_u020] Unknown Speaker: 
+[s01_e19_c06_u021] Monica Geller: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+[s01_e19_c06_u022] Luisa Gianetti: Marcel?"
+s01_e19,s01_e19_c06,Ross Geller,5,16,16,15,17,2,s01_e19_c06_u017,s01_e19_c06_u024,"[s01_e19_c06_u017] Rachel Green: Turned out it was a hat.
+[s01_e19_c06_u018] Ross Geller: Cat!
+[s01_e19_c06_u019] Rachel Green: Cat! What'm I saying? Cat!
+[s01_e19_c06_u020] Unknown Speaker: 
+[s01_e19_c06_u021] Monica Geller: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+[s01_e19_c06_u022] Luisa Gianetti: Marcel?
+[s01_e19_c06_u023] Ross Geller: My uncle Marcel.
+[s01_e19_c06_u024] Phoebe Buffay: Oh, is that who the monkey's named after?"
+s01_e19,s01_e19_c06,Ross Geller,6,79,92,78,92,3,s01_e19_c06_u091,s01_e19_c06_u111,"[s01_e19_c06_u091] Monica Geller: Run, Marcel, run! Run, Marcel! Are you okay?
+[s01_e19_c06_u092] Phoebe Buffay: Yeah, think so. Oh! Huh. Whoah.
+[s01_e19_c06_u093] Monica Geller: Oh gosh.
+[s01_e19_c06_u094] Unknown Speaker: 
+[s01_e19_c06_u095] Ross Geller: Marcel?
+[s01_e19_c06_u096] Rachel Green: Marcel?
+[s01_e19_c06_u097] Ross Geller: Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone.
+[s01_e19_c06_u098] Rachel Green: Ross, you don't know that.
+[s01_e19_c06_u099] Ross Geller: Oh come on. It's cold, it's dark, he doesn't know the Village. And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much.
+[s01_e19_c06_u100] Rachel Green: Ross, I said I'm sorry like a million times. What do you want me to do? You want me to break my foot too? Okay, I'm gonna break my foot, right here. Ow!! Oh! Oh my God, oh my God! There, are you happy now?!
+[s01_e19_c06_u101] Ross Geller: Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!
+[s01_e19_c06_u102] Rachel Green: Y'know, it is not like I did this on purpose.
+[s01_e19_c06_u103] Ross Geller: Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you're off in Rachel-land, doing your Rachel-thing, totally oblivious to people's monkeys, or to people's feelings...
+[s01_e19_c06_u104] Rachel Green: Ross.
+[s01_e19_c06_u105] Ross Geller: I don't even wanna hear it, you're just...
+[s01_e19_c06_u106] Rachel Green: Ross.
+[s01_e19_c06_u107] Ross Geller: Oh, forget it, okay?
+[s01_e19_c06_u108] Rachel Green: Ross!
+[s01_e19_c06_u109] Ross Geller: What? What?
+[s01_e19_c06_u110] Unknown Speaker: 
+[s01_e19_c06_u111] Both: Hey! Hey, Bananaman!"
+s01_e19,s01_e19_c06,Woman No. 1,0,47,47,46,48,2,s01_e19_c06_u050,s01_e19_c06_u058,"[s01_e19_c06_u050] Joey Tribbiani: Marcel?
+[s01_e19_c06_u051] Unknown Speaker: 
+[s01_e19_c06_u052] Woman No. 1: Hi, can I help you?
+[s01_e19_c06_u053] Unknown Speaker: 
+[s01_e19_c06_u054] Chandler Bing: Um, we're kind of having an emergency and we-we were looking for something...
+[s01_e19_c06_u055] Joey Tribbiani: A monkey.
+[s01_e19_c06_u056] Chandler Bing: Yes have you seen any?
+[s01_e19_c06_u057] Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?
+[s01_e19_c06_u058] Joey Tribbiani: Um, sure! Did you, uh, did you try turning the knob back the other way?"
+s01_e19,s01_e19_c06,Woman No. 1,1,49,53,48,54,2,s01_e19_c06_u054,s01_e19_c06_u066,"[s01_e19_c06_u054] Chandler Bing: Um, we're kind of having an emergency and we-we were looking for something...
+[s01_e19_c06_u055] Joey Tribbiani: A monkey.
+[s01_e19_c06_u056] Chandler Bing: Yes have you seen any?
+[s01_e19_c06_u057] Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?
+[s01_e19_c06_u058] Joey Tribbiani: Um, sure! Did you, uh, did you try turning the knob back the other way?
+[s01_e19_c06_u059] Woman No. 1: Of course.
+[s01_e19_c06_u060] Joey Tribbiani: Oh. Then, no.
+[s01_e19_c06_u061] Unknown Speaker: 
+[s01_e19_c06_u062] Woman No. 2: Did I put too much rum in here?
+[s01_e19_c06_u063] Unknown Speaker: 
+[s01_e19_c06_u064] Woman No. 1: Just a sec. Hope you find your monkey.
+[s01_e19_c06_u065] Chandler Bing: Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu.
+[s01_e19_c06_u066] Joey Tribbiani: Uh, aren't we kind of in the middle of something here?"
+s01_e19,s01_e19_c07,Luisa Gianetti,0,13,14,12,15,2,s01_e19_c07_u016,s01_e19_c07_u023,"[s01_e19_c07_u016] Ross Geller: C'mere, Marcel.
+[s01_e19_c07_u017] Mr. Heckles: C'mere, Patti.
+[s01_e19_c07_u018] Luisa Gianetti: Here, monkey. Here, monkey! Here, monkey! Gotcha.
+[s01_e19_c07_u019] Ross Geller: Okay, gimme my monkey back.
+[s01_e19_c07_u020] Mr. Heckles: That's my monkey.
+[s01_e19_c07_u021] Luisa Gianetti: You're both gonna have to take this up with the judge.
+[s01_e19_c07_u022] Mr. Heckles: That's not my monkey. Just the dress is mine, you can send that back whenever.
+[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey."
+s01_e19,s01_e19_c07,Luisa Gianetti,1,16,22,15,22,2,s01_e19_c07_u019,s01_e19_c07_u030,"[s01_e19_c07_u019] Ross Geller: Okay, gimme my monkey back.
+[s01_e19_c07_u020] Mr. Heckles: That's my monkey.
+[s01_e19_c07_u021] Luisa Gianetti: You're both gonna have to take this up with the judge.
+[s01_e19_c07_u022] Mr. Heckles: That's not my monkey. Just the dress is mine, you can send that back whenever.
+[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey.
+[s01_e19_c07_u024] Luisa Gianetti: No!
+[s01_e19_c07_u025] Rachel Green: Oh, c'mon, Luisa!
+[s01_e19_c07_u026] Luisa Gianetti: Sorry, prom queen.
+[s01_e19_c07_u027] Ross Geller: You had to be a bitch in high school, you couldn't've been fat.
+[s01_e19_c07_u028] Rachel Green: Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you... were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C'mon, Luisa, you have a chance to be the bigger person here! Take it!
+[s01_e19_c07_u029] Luisa Gianetti: Nope.
+[s01_e19_c07_u030] Rachel Green: Alright. Well then how about I call your supervisor, and I tell her that you shot my friend in the ass with a dart?"
+s01_e19,s01_e19_c07,Mr. Heckles,0,0,16,0,17,3,s01_e19_c07_u001,s01_e19_c07_u025,"[s01_e19_c07_u001] Phoebe Buffay: Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea.
+[s01_e19_c07_u002] Unknown Speaker: 
+[s01_e19_c07_u003] Ross Geller: Hi, did you order some bananas?
+[s01_e19_c07_u004] Mr. Heckles: What about it?
+[s01_e19_c07_u005] Ross Geller: Gimme back my monkey.
+[s01_e19_c07_u006] Mr. Heckles: I don't have a monkey.
+[s01_e19_c07_u007] Rachel Green: Then what's with all the bananas?
+[s01_e19_c07_u008] Mr. Heckles: Potassium.
+[s01_e19_c07_u009] Unknown Speaker: 
+[s01_e19_c07_u010] Ross Geller: Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?
+[s01_e19_c07_u011] Unknown Speaker: 
+[s01_e19_c07_u012] Ross Geller: Marcel! What've you done to him?
+[s01_e19_c07_u013] Mr. Heckles: That's my monkey. That's Patti, Patti the monkey.
+[s01_e19_c07_u014] Ross Geller: Are you insane? C'mere, Marcel, c'mon.
+[s01_e19_c07_u015] Mr. Heckles: C'mere, Patti.
+[s01_e19_c07_u016] Ross Geller: C'mere, Marcel.
+[s01_e19_c07_u017] Mr. Heckles: C'mere, Patti.
+[s01_e19_c07_u018] Luisa Gianetti: Here, monkey. Here, monkey! Here, monkey! Gotcha.
+[s01_e19_c07_u019] Ross Geller: Okay, gimme my monkey back.
+[s01_e19_c07_u020] Mr. Heckles: That's my monkey.
+[s01_e19_c07_u021] Luisa Gianetti: You're both gonna have to take this up with the judge.
+[s01_e19_c07_u022] Mr. Heckles: That's not my monkey. Just the dress is mine, you can send that back whenever.
+[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey.
+[s01_e19_c07_u024] Luisa Gianetti: No!
+[s01_e19_c07_u025] Rachel Green: Oh, c'mon, Luisa!"
+s01_e19,s01_e19_c07,Rachel Green,0,20,22,19,22,2,s01_e19_c07_u023,s01_e19_c07_u030,"[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey.
+[s01_e19_c07_u024] Luisa Gianetti: No!
+[s01_e19_c07_u025] Rachel Green: Oh, c'mon, Luisa!
+[s01_e19_c07_u026] Luisa Gianetti: Sorry, prom queen.
+[s01_e19_c07_u027] Ross Geller: You had to be a bitch in high school, you couldn't've been fat.
+[s01_e19_c07_u028] Rachel Green: Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you... were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C'mon, Luisa, you have a chance to be the bigger person here! Take it!
+[s01_e19_c07_u029] Luisa Gianetti: Nope.
+[s01_e19_c07_u030] Rachel Green: Alright. Well then how about I call your supervisor, and I tell her that you shot my friend in the ass with a dart?"
+s01_e19,s01_e19_c07,Ross Geller,0,0,1,0,2,2,s01_e19_c07_u001,s01_e19_c07_u008,"[s01_e19_c07_u001] Phoebe Buffay: Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea.
+[s01_e19_c07_u002] Unknown Speaker: 
+[s01_e19_c07_u003] Ross Geller: Hi, did you order some bananas?
+[s01_e19_c07_u004] Mr. Heckles: What about it?
+[s01_e19_c07_u005] Ross Geller: Gimme back my monkey.
+[s01_e19_c07_u006] Mr. Heckles: I don't have a monkey.
+[s01_e19_c07_u007] Rachel Green: Then what's with all the bananas?
+[s01_e19_c07_u008] Mr. Heckles: Potassium."
+s01_e19,s01_e19_c07,Ross Geller,1,3,12,2,13,3,s01_e19_c07_u004,s01_e19_c07_u021,"[s01_e19_c07_u004] Mr. Heckles: What about it?
+[s01_e19_c07_u005] Ross Geller: Gimme back my monkey.
+[s01_e19_c07_u006] Mr. Heckles: I don't have a monkey.
+[s01_e19_c07_u007] Rachel Green: Then what's with all the bananas?
+[s01_e19_c07_u008] Mr. Heckles: Potassium.
+[s01_e19_c07_u009] Unknown Speaker: 
+[s01_e19_c07_u010] Ross Geller: Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?
+[s01_e19_c07_u011] Unknown Speaker: 
+[s01_e19_c07_u012] Ross Geller: Marcel! What've you done to him?
+[s01_e19_c07_u013] Mr. Heckles: That's my monkey. That's Patti, Patti the monkey.
+[s01_e19_c07_u014] Ross Geller: Are you insane? C'mere, Marcel, c'mon.
+[s01_e19_c07_u015] Mr. Heckles: C'mere, Patti.
+[s01_e19_c07_u016] Ross Geller: C'mere, Marcel.
+[s01_e19_c07_u017] Mr. Heckles: C'mere, Patti.
+[s01_e19_c07_u018] Luisa Gianetti: Here, monkey. Here, monkey! Here, monkey! Gotcha.
+[s01_e19_c07_u019] Ross Geller: Okay, gimme my monkey back.
+[s01_e19_c07_u020] Mr. Heckles: That's my monkey.
+[s01_e19_c07_u021] Luisa Gianetti: You're both gonna have to take this up with the judge."
+s01_e19,s01_e19_c07,Ross Geller,2,15,15,14,16,2,s01_e19_c07_u018,s01_e19_c07_u024,"[s01_e19_c07_u018] Luisa Gianetti: Here, monkey. Here, monkey! Here, monkey! Gotcha.
+[s01_e19_c07_u019] Ross Geller: Okay, gimme my monkey back.
+[s01_e19_c07_u020] Mr. Heckles: That's my monkey.
+[s01_e19_c07_u021] Luisa Gianetti: You're both gonna have to take this up with the judge.
+[s01_e19_c07_u022] Mr. Heckles: That's not my monkey. Just the dress is mine, you can send that back whenever.
+[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey.
+[s01_e19_c07_u024] Luisa Gianetti: No!"
+s01_e19,s01_e19_c07,Ross Geller,3,19,19,18,20,2,s01_e19_c07_u022,s01_e19_c07_u028,"[s01_e19_c07_u022] Mr. Heckles: That's not my monkey. Just the dress is mine, you can send that back whenever.
+[s01_e19_c07_u023] Ross Geller: Alright, I want my monkey.
+[s01_e19_c07_u024] Luisa Gianetti: No!
+[s01_e19_c07_u025] Rachel Green: Oh, c'mon, Luisa!
+[s01_e19_c07_u026] Luisa Gianetti: Sorry, prom queen.
+[s01_e19_c07_u027] Ross Geller: You had to be a bitch in high school, you couldn't've been fat.
+[s01_e19_c07_u028] Rachel Green: Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you... were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C'mon, Luisa, you have a chance to be the bigger person here! Take it!"
+s01_e19,s01_e19_c08,Barry Farber,0,5,7,4,7,2,s01_e19_c08_u005,s01_e19_c08_u013,"[s01_e19_c08_u005] Ross Geller: Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
+[s01_e19_c08_u006] Rachel Green: That'd be good.
+[s01_e19_c08_u007] Ross Geller: Alright. The, uh, the neighbours must be vacuuming. Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...
+[s01_e19_c08_u008] Unknown Speaker: 
+[s01_e19_c08_u009] Barry Farber: Rachel.
+[s01_e19_c08_u010] Rachel Green: Barry?!
+[s01_e19_c08_u011] Barry Farber: I can't. I can't do it, I can't marry Mindy. I think I'm still in love with you.
+[s01_e19_c08_u012] Rachel Green, Ross Geller: Oh!
+[s01_e19_c08_u013] Ross Geller: We have got to start locking that door!"
+s01_e19,s01_e19_c08,Rachel Green,0,0,5,0,6,3,s01_e19_c08_u001,s01_e19_c08_u012,"[s01_e19_c08_u001] Ross Geller: It'll be nice to get this off finally, won't it? Yes it will. Or we can leave it on for now, that's fine.
+[s01_e19_c08_u002] Rachel Green: Y'know, with the right pair of pumps, that would be a great little outfit.
+[s01_e19_c08_u003] Ross Geller: Listen, I'm- I'm sorry I was so hard on you before, it's just I...
+[s01_e19_c08_u004] Rachel Green: Oh, Ross, c'mon. It's my fault, I almost lost your...
+[s01_e19_c08_u005] Ross Geller: Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
+[s01_e19_c08_u006] Rachel Green: That'd be good.
+[s01_e19_c08_u007] Ross Geller: Alright. The, uh, the neighbours must be vacuuming. Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...
+[s01_e19_c08_u008] Unknown Speaker: 
+[s01_e19_c08_u009] Barry Farber: Rachel.
+[s01_e19_c08_u010] Rachel Green: Barry?!
+[s01_e19_c08_u011] Barry Farber: I can't. I can't do it, I can't marry Mindy. I think I'm still in love with you.
+[s01_e19_c08_u012] Rachel Green, Ross Geller: Oh!"
+s01_e19,s01_e19_c08,Ross Geller,0,0,4,0,5,3,s01_e19_c08_u001,s01_e19_c08_u011,"[s01_e19_c08_u001] Ross Geller: It'll be nice to get this off finally, won't it? Yes it will. Or we can leave it on for now, that's fine.
+[s01_e19_c08_u002] Rachel Green: Y'know, with the right pair of pumps, that would be a great little outfit.
+[s01_e19_c08_u003] Ross Geller: Listen, I'm- I'm sorry I was so hard on you before, it's just I...
+[s01_e19_c08_u004] Rachel Green: Oh, Ross, c'mon. It's my fault, I almost lost your...
+[s01_e19_c08_u005] Ross Geller: Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
+[s01_e19_c08_u006] Rachel Green: That'd be good.
+[s01_e19_c08_u007] Ross Geller: Alright. The, uh, the neighbours must be vacuuming. Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...
+[s01_e19_c08_u008] Unknown Speaker: 
+[s01_e19_c08_u009] Barry Farber: Rachel.
+[s01_e19_c08_u010] Rachel Green: Barry?!
+[s01_e19_c08_u011] Barry Farber: I can't. I can't do it, I can't marry Mindy. I think I'm still in love with you."
+s01_e19,s01_e19_c09,Chandler Bing,0,2,3,1,4,2,s01_e19_c09_u002,s01_e19_c09_u009,"[s01_e19_c09_u002] Phoebe Buffay: Nope.
+[s01_e19_c09_u003] Monica Geller: That's because I'm in front of them.
+[s01_e19_c09_u004] Chandler Bing: Eh. I thought that was an alp.
+[s01_e19_c09_u005] Monica Geller: Well, high school was not my favourite time.
+[s01_e19_c09_u006] Joey Tribbiani: I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex.
+[s01_e19_c09_u007] Chandler Bing: Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice.
+[s01_e19_c09_u008] Monica Geller: Gosh, doesn't it seem like a million years ago?
+[s01_e19_c09_u009] Phoebe Buffay: Oh. Oooh! Ooh! Ooh! Ooh! My butt cheek is waking up! Oooh! Ooh!"
+s01_e19,s01_e19_c09,Monica Geller,0,0,4,0,4,3,s01_e19_c09_u001,s01_e19_c09_u009,"[s01_e19_c09_u001] Monica Geller: This is me in The Sound of Music. See the von Trapp kids?
+[s01_e19_c09_u002] Phoebe Buffay: Nope.
+[s01_e19_c09_u003] Monica Geller: That's because I'm in front of them.
+[s01_e19_c09_u004] Chandler Bing: Eh. I thought that was an alp.
+[s01_e19_c09_u005] Monica Geller: Well, high school was not my favourite time.
+[s01_e19_c09_u006] Joey Tribbiani: I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex.
+[s01_e19_c09_u007] Chandler Bing: Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice.
+[s01_e19_c09_u008] Monica Geller: Gosh, doesn't it seem like a million years ago?
+[s01_e19_c09_u009] Phoebe Buffay: Oh. Oooh! Ooh! Ooh! Ooh! My butt cheek is waking up! Oooh! Ooh!"

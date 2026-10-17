@@ -1,0 +1,300 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c01_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('take', 'my friend here', 'down our Christmas lights', 's01_e17_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('fall', 'she/Rachel Green', 'off the balcony', 's01_e17_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('break', 'she/Rachel Green', 'her foot or ankle or something', 's01_e17_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Monica Geller', 'your Christmas lights', 's01_e17_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('fill', 'you/Monica Geller', 'out this', 's01_e17_c01_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('bring', 'you/Monica Geller', 'it', 's01_e17_c01_u006')",
+            "('bring', 'you/Monica Geller', 'to me', 's01_e17_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('call', 'you/Rachel Green', 'in case of emergency', 's01_e17_c01_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'so sweet', 's01_e17_c01_u014')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('love', 'I/Monica Geller', 'you', 's01_e17_c01_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('check', 'you/Monica Geller', 'it', 's01_e17_c01_u015')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'some of that', 's01_e17_c01_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Rachel Green', 'insurance', 's01_e17_c01_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('cost', 'this', 'how much', 's01_e17_c01_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'no idea', 's01_e17_c01_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'X-rays alone', 'a couple hundred dollars', 's01_e17_c01_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'we/Monica Geller+Rachel Green', 'what', 's01_e17_c01_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'there', 'not much', 's01_e17_c01_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('use', 'I/Rachel Green', 'yours', 's01_e17_c01_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u023",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'you/Monica Geller', 'a second', 's01_e17_c01_u023')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('put', 'I/Rachel Green', 'who', 's01_e17_c01_u023')",
+            "('put', 'I/Rachel Green', 'as my \"In case of emergency\" person', 's01_e17_c01_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'insurance fraud', 's01_e17_c01_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u025",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('forget', 'you/Monica Geller', 'it', 's01_e17_c01_u025')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go', 'I/Rachel Green', 'home', 's01_e17_c01_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u026",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/Monica Geller', 'this', 's01_e17_c01_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u027",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('love', 'I/Rachel Green', 'you', 's01_e17_c01_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u028",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('need', 'I/Monica Geller', 'a new set of these forms', 's01_e17_c01_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u030",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'really an idiot', 's01_e17_c01_u030')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('see', 'you/Nurse Sizemore', None, 's01_e17_c01_u030')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('fill', 'I/Monica Geller', \"out my friend's form\", 's01_e17_c01_u030')",
+            "('put', 'I/Monica Geller', 'her information', 's01_e17_c01_u030')",
+            "('put', 'I/Monica Geller', 'mine', 's01_e17_c01_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u031",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'an idiot', 's01_e17_c01_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c01_u032",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'me', 's01_e17_c01_u032')",
+            "('be', 'I/Monica Geller', 'that stupid', 's01_e17_c01_u032')"
+          ]
+        }
+      ]
+    }
+  ]
+}

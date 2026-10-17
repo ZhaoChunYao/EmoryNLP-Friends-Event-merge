@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "He announces he is going to be a father but shows no clear outgoing or reserved behavior beyond normal conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He responds amicably to praise about being a great father and uses self-deprecating humor rather than arguing or boasting."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He admits he cannot get Speaker_03 to stop eating the bath mat and shows delayed realization about aspects of becoming a father, suggesting poor control/organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He expresses worry about raising a baby by comparing it to his inability to manage Speaker_03 eating the bath mat."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements show curiosity/inventiveness or dogmatism/caution."
+  }
+}

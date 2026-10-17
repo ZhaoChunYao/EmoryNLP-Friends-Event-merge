@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge of the conversation with strong declarations and multiple interjections (asks about the simian, asks whose turn it is, corrects the game score)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Delivers harsh, unsympathetic judgments (“will never feel like a father,” “will never feel connected”) and nitpicks the score, showing low warmth/cooperation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks procedural details and enforces rules in the game (asks whose turn it is; insists that playing “IDNEY” gets zero points)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with certainty and composure, confidently correcting others without signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Makes absolute, dogmatic predictions (“never”) and focuses on strict rule application, showing little openness to alternative views."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly says they are coming (u002) and offers a simple greeting 'Hi' (u007), with no clear signs of talkativeness or energetic engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The polite greeting 'Hi' (u007) is neutral; there is no concrete behavior indicating trustworthiness/generosity or the opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Stating they are coming (u002) provides no clear indication of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional instability; the tone is neutral across brief lines (u002, u007)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or dogmatism; only arrival notification and greeting (u002, u007)."
+  }
+}

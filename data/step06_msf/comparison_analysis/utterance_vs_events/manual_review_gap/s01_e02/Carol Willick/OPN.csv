@@ -1,0 +1,51 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e02,Carol Willick,subscene_006.json,OPN,1,-1,2,"Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 006
+Main speaker: Carol Willick
+UID span: s01_e02_c10_u001 → s01_e02_c10_u010
+Peak window: 0 → 4
+
+Dialogue:
+  [s01_e02_c10_u001]
+  1. Susan Bunch says Ross Geller is acting like there is something wrong with naming the baby Helen.
+  [s01_e02_c10_u002]
+  1. Ross Geller says Ross Geller does not think the baby should be named Helen Geller.
+  [s01_e02_c10_u003]
+  1. Carol Willick says the baby is not going to be named Helen Geller.
+  [s01_e02_c10_u004]
+  1. Ross Geller says Ross Geller is thanking Carol Willick for saying the baby is not going to be named Helen Geller.
+  [s01_e02_c10_u005]
+  1. Carol Willick says Carol Willick means the baby's last name is not going to be Geller.
+  2. Carol Willick says the baby's last name is not Geller.
+  [s01_e02_c10_u006]
+  1. Ross Geller says Carol Willick is planning to name the baby Helen Willick.
+  [s01_e02_c10_u007]
+  1. Carol Willick says Ross Geller, Susan Bunch, and Carol Willick have talked about naming the baby Helen Willick-Bunch.
+  [s01_e02_c10_u008]
+  1. Ross Geller says Carol Willick and Susan Bunch should wait a minute.
+  2. Ross Geller says Susan Bunch is included in the baby's hyphenated name.
+  [s01_e02_c10_u009]
+  1. Susan Bunch says Ben Geller is also Susan Bunch's baby.
+  [s01_e02_c10_u010]
+  1. Ross Geller says the situation about naming the baby is funny.
+  2. Ross Geller says Susan Bunch did not make any sperm, which Ross Geller does not remember happening.
+","Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 006
+Main speaker: Carol Willick
+UID span: s01_e02_c10_u001 → s01_e02_c10_u010
+Peak window: 0 → 4
+
+Dialogue:
+  [s01_e02_c10_u001] Susan Bunch: Oh, please! What's wrong with Helen?
+  [s01_e02_c10_u002] Ross Geller: Helen Geller? I don't think so.
+  [s01_e02_c10_u003] Carol Willick: Hello? It's not gonna be Helen Geller.
+  [s01_e02_c10_u004] Ross Geller: Thank you!
+  [s01_e02_c10_u005] Carol Willick: No, I mean it's not Geller.
+  [s01_e02_c10_u006] Ross Geller: What, it's gonna be Helen Willick?
+  [s01_e02_c10_u007] Carol Willick: No, actually, um, we talked about Helen Willick-Bunch.
+  [s01_e02_c10_u008] Ross Geller: Well, wait a minute, wha- why is she in the title?
+  [s01_e02_c10_u009] Susan Bunch: It's my baby too.
+  [s01_e02_c10_u010] Ross Geller: Oh, 's'funny, really? Um, I don't remember you making any sperm.
+","Supports an unconventional, inclusive hyphenated surname solution (u007), reflecting openness to new ideas.","Dismisses the option outright and repeats that it won’t happen, showing little openness to alternatives.",,,

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates group conversation asking how everyone is doing and whether they are ready, and engages in bold teasing."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes a cutting/teasing remark about Speaker_04’s ears, which is not generous or considerate."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Asks whether everyone is ready, steering the group toward preparedness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks assertively and teases without showing worry or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, inventiveness, or caution/dogmatism in the exchange."
+  }
+}

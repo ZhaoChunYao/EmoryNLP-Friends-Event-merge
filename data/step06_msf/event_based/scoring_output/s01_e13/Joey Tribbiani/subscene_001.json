@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Directs others (“listen”), asks multiple probing questions, and reacts emphatically (“Since then?!”), showing active, assertive engagement in the exchange."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uses blunt, confrontational remarks (“you’re not my mother,” “one to talk”) and an imperative tone, indicating low warmth and cooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States he has made an appointment with Speaker_03 and asks to be excused to keep it, showing planning and responsibility (the claim he’s burning tomatoes comes from another speaker and is not confirmed by his behavior)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses uncertainty about his feelings (“I don’t know whether I’ve ever been in love”) and seeks reassurance about his parents’ relationship, indicating insecurity/sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity/creativity or of closed-mindedness beyond interpersonal boundary-setting."
+  }
+}

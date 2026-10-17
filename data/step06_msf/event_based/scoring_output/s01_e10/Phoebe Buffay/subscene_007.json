@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets proactively (“Hi, Speaker_02!”) and engages others by prompting a check-in."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for Speaker_03’s wellbeing by asking them to confirm they are alright."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Does not display anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or dogmatism."
+  }
+}

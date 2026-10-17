@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He engages in group banter with a bold joke ('being so testosteroney is the real San Francisco treat') and takes the initiative to call Speaker_03, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He uses boastful macho humor and avoids straightforward communication by not leaving any message on Speaker_03's machine."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indication of organization or carelessness; he simply called and then chose not to leave a message."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He avoids leaving a voicemail because a previous spontaneous message embarrassed him ('Yes indeedy-o'), showing nervous self-consciousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He declines to leave a spontaneous message, opting for caution over improvisation."
+  }
+}

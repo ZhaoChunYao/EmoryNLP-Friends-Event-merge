@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is talkative and socially probing—exclaims “Ewww!” and initiates questions about the relationship and the science project (u007, u010, u012)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "She helpfully relays that Speaker_02 will be late (u008) but also teases by calling it a “little science project” (u012); mixed tone without clear kindness or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Beyond passing along a message about lateness (u008), there’s no clear sign of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, stress, or insecurity; her comments are casual and teasing (u007, u010, u012)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking about how things are going and what someone thinks of the science project (u010, u012)."
+  }
+}

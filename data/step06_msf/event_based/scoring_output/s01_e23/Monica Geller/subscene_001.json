@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in the conversation, asks about specific details of the labor, and initiates a hypothetical with Speaker_04 about future baby plans."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker reassures others that everything about Speaker_02's labor is fine and asks attentive, caring questions."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker focuses on a concrete, relevant detail of the situation by asking whether Speaker_02's water has broken, showing organized, task-focused follow-up."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker calmly states that everything is fine and proceeds matter-of-factly without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of inventive ideas or rigid, dogmatic views; questions are practical rather than imaginative."
+  }
+}

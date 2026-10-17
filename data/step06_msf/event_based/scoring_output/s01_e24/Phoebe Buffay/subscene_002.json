@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In u032, the speaker asserts \"I am the head\" and enthusiastically says the barbecue is going to be very fun, showing outgoing, confident social energy."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating either cooperation/generosity or conflict/boastfulness; interactions are neutral."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of planning, organization, or carelessness; only brief casual comments."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In u032 the confident declaration of being in charge and positive outlook about the barbecue show security and lack of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "\"Oh, let me see!\" (u028) suggests mild curiosity, but there is no strong evidence of openness or closed-mindedness overall."
+  }
+}

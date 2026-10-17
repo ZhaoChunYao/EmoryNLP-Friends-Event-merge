@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief replies and leaves the gathering (“I have to go home.”; “Yeah.”; “Goodnight.”), showing reserved, minimally social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforward and polite in responses and parting (“I have to go home.”; “Goodnight.”) with no signs of conflict or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from stating a need to go home, there is no concrete behavior showing organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When asked if they will be okay, replies calmly with “Yeah,” showing no visible anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or behaviors indicating curiosity/imagination or dogmatism/caution in this brief exchange."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker greets the group (u009) and then publicly thanks several people (u014), engaging socially beyond minimal replies."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He explicitly thanks multiple people (u014), and is told to stop thanking everyone (u015), indicating overt politeness and consideration."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors related to organization or reliability are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional instability are present."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or cautiousness are expressed."
+  }
+}

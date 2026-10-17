@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is outspoken and assertive: volunteers to handle the cramp (“I got it,” u018), corrects Speaker_01 (“No, you don’t,” u020), and actively engages in the argument (u023, u025)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite a brief offer to help, TargetSpeaker argues and blames (“You started it,” repeated u023, u025), contributing to bickering that Speaker_02 says is making labor harder (u026)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Continues a disruptive argument during a delivery, leading Speaker_02 to say they are making childbirth more difficult and to order them out (u026–u028), showing careless, inconsiderate behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety, fear, or emotional instability; statements are assertive rather than nervous."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or dogmatism beyond the argument; the dialogue centers on conflict, not ideas."
+  }
+}

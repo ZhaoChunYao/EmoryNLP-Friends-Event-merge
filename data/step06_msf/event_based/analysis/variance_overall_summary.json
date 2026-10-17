@@ -1,0 +1,27 @@
+{
+  "main_characters": [
+    "Chandler Bing",
+    "Joey Tribbiani",
+    "Monica Geller",
+    "Phoebe Buffay",
+    "Rachel Green",
+    "Ross Geller"
+  ],
+  "traits": [
+    "EXT",
+    "AGR",
+    "CON",
+    "NEU",
+    "OPN"
+  ],
+  "num_episode_character_trait_entries": 715,
+  "num_scene_character_trait_entries": 715,
+  "overall_mean_episode_variance": 0.404851,
+  "overall_mean_scene_variance": 0.312278,
+  "overall_scene_minus_episode": -0.092573,
+  "notes": {
+    "episode_variance_from_subscenes": "Within each episode-character-trait, variance over all subscene scores from big_five_output_anon.",
+    "scene_variance_from_scene_means": "Within each episode-character-trait, variance over all scene mean scores from big_five_output_anon_scene.",
+    "variance_definition": "Population variance (ddof=0). Single observation gives variance 0."
+  }
+}

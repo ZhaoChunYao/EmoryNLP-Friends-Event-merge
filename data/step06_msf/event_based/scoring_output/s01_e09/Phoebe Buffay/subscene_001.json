@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Says hello and asks one factual question; limited participation without clear outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Keeps the exchange polite and non-mocking and asks a straightforward, respectful question."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or diligence is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of stress, insecurity, or emotional volatility appear."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity by asking what the modeling was for."
+  }
+}

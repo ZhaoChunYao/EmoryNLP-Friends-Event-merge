@@ -1,0 +1,100 @@
+event_id: s01_e21_c10_u001_e1
+utterance_id: s01_e21_c10_u001
+  tuple: ('be', 'your zoo', None, 's01_e21_c10_u001')
+
+event_id: s01_e21_c10_u002_e1
+utterance_id: s01_e21_c10_u002
+  tuple: ('be', 'it/(Dr. Baldhara’s facility)', 'technically not a zoo per se', 's01_e21_c10_u002')
+  tuple: ('be', 'it/(Dr. Baldhara’s facility)', 'more of an interactive wildlife experience', 's01_e21_c10_u002')
+
+event_id: s01_e21_c10_u002_e2
+utterance_id: s01_e21_c10_u002
+  tuple: ('ask', 'I/(Dr. Baldhara)', 'you some questions', 's01_e21_c10_u002')
+  tuple: ('ask', 'I/(Dr. Baldhara)', 'about Marcel', 's01_e21_c10_u002')
+  tuple: ('be', 'it/(Ross’s monkey)', 'Marcel', 's01_e21_c10_u002')
+
+event_id: s01_e21_c10_u004_e1
+utterance_id: s01_e21_c10_u004
+  tuple: ('fight', 'he/(Marcel)', None, 's01_e21_c10_u004')
+  tuple: ('fight', 'he/(Marcel)', 'with other animals', 's01_e21_c10_u004')
+
+event_id: s01_e21_c10_u005_e1
+utterance_id: s01_e21_c10_u005
+  tuple: ('be', 'he/(Marcel)', 'very docile', 's01_e21_c10_u005')
+
+event_id: s01_e21_c10_u006_e1
+utterance_id: s01_e21_c10_u006
+  tuple: ('be', 'he/(Marcel)', 'cornered', 's01_e21_c10_u006')
+
+event_id: s01_e21_c10_u007_e1
+utterance_id: s01_e21_c10_u007
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e21_c10_u007')
+
+event_id: s01_e21_c10_u008_e1
+utterance_id: s01_e21_c10_u008
+  tuple: ('be', 'he/(Marcel)', None, 's01_e21_c10_u008')
+  tuple: ('be', 'he/(Marcel)', 'at handling small objects', 's01_e21_c10_u008')
+  tuple: ('handle', 'he/(Marcel)', 'small objects', 's01_e21_c10_u008')
+
+event_id: s01_e21_c10_u009_e1
+utterance_id: s01_e21_c10_u009
+  tuple: ('hold', 'he/(Marcel)', 'a banana', 's01_e21_c10_u009')
+
+event_id: s01_e21_c10_u009_e2
+utterance_id: s01_e21_c10_u009
+  tuple: ('be', 'that', 'what you mean', 's01_e21_c10_u009')
+  tuple: ('mean', 'you/(Dr. Baldhara)', 'that', 's01_e21_c10_u009')
+
+event_id: s01_e21_c10_u011_e1
+utterance_id: s01_e21_c10_u011
+  tuple: ('need', 'he/(Marcel)', 'a blade', 's01_e21_c10_u011')
+
+event_id: s01_e21_c10_u012_e1
+utterance_id: s01_e21_c10_u012
+  tuple: ('be', 'he/(Marcel)', 'up against a jungle cat or an animal with horns', 's01_e21_c10_u012')
+  tuple: ('give', 'you/(Ross Geller)', 'the little guy something', 's01_e21_c10_u012')
+  tuple: ('be', 'it/(leaving Marcel unarmed)', 'just cruel', 's01_e21_c10_u012')
+
+event_id: s01_e21_c10_u014_e1
+utterance_id: s01_e21_c10_u014
+  tuple: ('get in', 'he/(Marcel)', None, 's01_e21_c10_u014')
+  tuple: ('get in', 'he/(Marcel)', 'to San Diego', 's01_e21_c10_u014')
+
+event_id: s01_e21_c10_u015_e1
+utterance_id: s01_e21_c10_u015
+  tuple: ('come back', 'we/(Joey Tribbiani and Chandler Bing)', None, 's01_e21_c10_u015')
+  tuple: ('come back', 'we/(Joey Tribbiani and Chandler Bing)', 'from our walk', 's01_e21_c10_u015')
+
+event_id: s01_e21_c10_u015_e2
+utterance_id: s01_e21_c10_u015
+  tuple: ('ring', 'the phone', None, 's01_e21_c10_u015')
+
+event_id: s01_e21_c10_u016_e1
+utterance_id: s01_e21_c10_u016
+  tuple: ('be', 'he/(Marcel)', 'in', 's01_e21_c10_u016')
+
+event_id: s01_e21_c10_u017_e1
+utterance_id: s01_e21_c10_u017
+  tuple: ('hear', 'you/(Marcel)', 'that', 's01_e21_c10_u017')
+
+event_id: s01_e21_c10_u018_e1
+utterance_id: s01_e21_c10_u018
+  tuple: ('make', 'you/(Ross Geller)', 'a big mistake', 's01_e21_c10_u018')
+
+event_id: s01_e21_c10_u018_e2
+utterance_id: s01_e21_c10_u018
+  tuple: ('mean', 'I/(Dr. Baldhara)', None, 's01_e21_c10_u018')
+
+event_id: s01_e21_c10_u018_e3
+utterance_id: s01_e21_c10_u018
+  tuple: ('be', 'San Diego', 'all well and good', 's01_e21_c10_u018')
+
+event_id: s01_e21_c10_u018_e4
+utterance_id: s01_e21_c10_u018
+  tuple: ('give', 'you/(Ross Geller)', 'him', 's01_e21_c10_u018')
+  tuple: ('give', 'you/(Ross Geller)', 'to me', 's01_e21_c10_u018')
+  tuple: ('start', 'I/(Dr. Baldhara)', 'him', 's01_e21_c10_u018')
+  tuple: ('start', 'I/(Dr. Baldhara)', 'off against a blind rabbit', 's01_e21_c10_u018')
+  tuple: ('give', 'I/(Dr. Baldhara)', 'you twenty percent', 's01_e21_c10_u018')
+  tuple: ('give', 'I/(Dr. Baldhara)', 'of the gains', 's01_e21_c10_u018')
+

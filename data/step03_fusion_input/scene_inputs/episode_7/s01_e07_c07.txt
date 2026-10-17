@@ -1,0 +1,42 @@
+('be', 'it', 'me', 's01_e07_c07_u002')
+[s01_e07_c07_u002] Chandler Bing: Hey, it's me.
+
+('be', 'it', 'Chandler', 's01_e07_c07_u003')
+[s01_e07_c07_u003] Monica Geller: It's Chandler! Are you OK?
+
+('be', 'you/(Chandler Bing)', 'OK', 's01_e07_c07_u003')
+[s01_e07_c07_u003] Monica Geller: It's Chandler! Are you OK?
+
+('be', 'I/(Chandler Bing)', 'fine', 's01_e07_c07_u004')
+[s01_e07_c07_u004] Chandler Bing: Yeah, I'm fine. I'm trppd in an ATM vstbl wth Jll Gdcr.
+
+('trap', 'he/(Chandler Bing)', 'in an ATM vestibule with Jill Goodacre', 's01_e07_c07_u011')
+[s01_e07_c07_u011] Joey Tribbiani: Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.
+
+('trap', 'he/(Chandler Bing)', 'in an ATM vestibule', 's01_e07_c07_u011')
+[s01_e07_c07_u011] Joey Tribbiani: Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.
+
+('trap', 'he/(Chandler Bing)', 'with Jill Goodacre', 's01_e07_c07_u011')
+[s01_e07_c07_u011] Joey Tribbiani: Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.
+
+('have', 'I/(Monica Geller)', 'no idea', 's01_e07_c07_u007')
+[s01_e07_c07_u007] Monica Geller: I have no idea what you just said.
+
+('say', 'you/(Chandler Bing)', 'what', 's01_e07_c07_u007')
+[s01_e07_c07_u007] Monica Geller: I have no idea what you just said.
+
+('put', 'you/(Monica Geller)', 'Joey', 's01_e07_c07_u008')
+[s01_e07_c07_u008] Chandler Bing: Put Joey on the phone.
+
+('put', 'you/(Monica Geller)', 'on the phone', 's01_e07_c07_u008')
+[s01_e07_c07_u008] Chandler Bing: Put Joey on the phone.
+
+('be', 'what', 'up', 's01_e07_c07_u009')
+[s01_e07_c07_u009] Joey Tribbiani: What's up man?
+
+('listen', 'you/(Chandler Bing)', None, 's01_e07_c07_u011')
+[s01_e07_c07_u011] Joey Tribbiani: Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.
+
+('enter', 'that thought', 'my mind', 's01_e07_c07_u012')
+[s01_e07_c07_u012] Chandler Bing: Yeah, like that thought never entered my mind.
+

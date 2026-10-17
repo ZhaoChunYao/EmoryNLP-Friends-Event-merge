@@ -1,0 +1,72 @@
+event_id: s01_e12_c06_u001_e1
+utterance_id: s01_e12_c06_u001
+  tuple: ('get', "we/Phoebe's Assistant", 'a couple changes', 's01_e12_c06_u001')
+  tuple: ('get', "we/Phoebe's Assistant", 'in your schedule', 's01_e12_c06_u001')
+
+event_id: s01_e12_c06_u001_e2
+utterance_id: s01_e12_c06_u001
+  tuple: ('push back', 'Your 4:00 herbal massage', 'to 4:30', 's01_e12_c06_u001')
+
+event_id: s01_e12_c06_u001_e3
+utterance_id: s01_e12_c06_u001
+  tuple: ('cancel', 'Miss Somerfield', 'her 5:30 shiatsu', 's01_e12_c06_u001')
+
+event_id: s01_e12_c06_u003_e1
+utterance_id: s01_e12_c06_u003
+  tuple: ('come', 'your 3:00', None, 's01_e12_c06_u003')
+
+event_id: s01_e12_c06_u003_e2
+utterance_id: s01_e12_c06_u003
+  tuple: ('mean', "I/Phoebe's Assistant", 'to sound unprofessional', 's01_e12_c06_u003')
+  tuple: ('sound', "I/Phoebe's Assistant", 'unprofessional', 's01_e12_c06_u003')
+
+event_id: s01_e12_c06_u005_e1
+utterance_id: s01_e12_c06_u005
+  tuple: ('do', 'you/Paolo', None, 's01_e12_c06_u005')
+
+event_id: s01_e12_c06_u006_e1
+utterance_id: s01_e12_c06_u006
+  tuple: ('tell', 'Racquela', 'me', 's01_e12_c06_u006')
+
+event_id: s01_e12_c06_u006_e2
+utterance_id: s01_e12_c06_u006
+  tuple: ('massage', 'you/Phoebe Buffay', None, 's01_e12_c06_u006')
+
+event_id: s01_e12_c06_u007_e1
+utterance_id: s01_e12_c06_u007
+  tuple: ('be', 'Racquela', 'right', 's01_e12_c06_u007')
+
+event_id: s01_e12_c06_u009_e1
+utterance_id: s01_e12_c06_u009
+  tuple: ('know', 'I/Phoebe Buffay', 'what you just said', 's01_e12_c06_u009')
+
+event_id: s01_e12_c06_u009_e2
+utterance_id: s01_e12_c06_u009
+  tuple: ('say', 'you/Paolo', 'what', 's01_e12_c06_u009')
+
+event_id: s01_e12_c06_u009_e3
+utterance_id: s01_e12_c06_u009
+  tuple: ('let', 'we/Phoebe Buffay+Paolo', 'get started', 's01_e12_c06_u009')
+  tuple: ('get start', 'we/Phoebe Buffay+Paolo', None, 's01_e12_c06_u009')
+
+event_id: s01_e12_c06_u011_e1
+utterance_id: s01_e12_c06_u011
+  tuple: ('be', 'that', 'your decision', 's01_e12_c06_u011')
+
+event_id: s01_e12_c06_u011_e2
+utterance_id: s01_e12_c06_u011
+  tuple: ('mean', 'I/Phoebe Buffay', None, 's01_e12_c06_u011')
+
+event_id: s01_e12_c06_u011_e3
+utterance_id: s01_e12_c06_u011
+  tuple: ('prefer', 'some people', 'to take off', 's01_e12_c06_u011')
+  tuple: ('take off', 'some people', None, 's01_e12_c06_u011')
+
+event_id: s01_e12_c06_u011_e4
+utterance_id: s01_e12_c06_u011
+  tuple: ('know', 'you/Paolo', None, 's01_e12_c06_u011')
+
+event_id: s01_e12_c06_u011_e5
+utterance_id: s01_e12_c06_u011
+  tuple: ('be', 'you/Paolo', 'naked', 's01_e12_c06_u011')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Plans a simple laundry outing with one person and denies it’s a date; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Directly asks Speaker_03 to state what they’re suggesting, plans considerate actions (shaving, bringing wine), and agrees to pick up a different fabric softener when prompted."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Although he says planning requires minimal thinking, he proactively organizes prep (shave again, pick up wine) and adjusts supplies (will get a different fabric softener)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Calls himself “a sensitive, warm kind of guy” and a “warm, fuzzy bear,” seeks reassurance about fabric softener, and shows concern about impression by preparing (shaving again, wine)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Dismisses rethinking bringing dirty underwear (“No”), but is willing to change fabric softener; mixed signals on flexibility vs. rigidity."
+  }
+}

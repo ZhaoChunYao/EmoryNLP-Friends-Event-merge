@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up repeatedly, identifies Speaker_01 as a model (u001), talks about being trapped together and debates the area’s label (u003), and asserts he was the “some guy” with her (u007)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Accommodates Speaker_01’s preferred term by “going with ‘vestibule’” (u005) and is straightforward in clarifying that the ‘some guy’ was himself (u007)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "States being trapped and fixates briefly on terminology (u003), but shows no explicit signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Considers ‘vestibule’ vs. ‘atrium’ but this brief terminology choice doesn’t clearly indicate curiosity or inventiveness versus dogmatism."
+  }
+}

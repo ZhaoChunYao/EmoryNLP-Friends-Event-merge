@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes charge in the group, telling everyone to shut up and ordering them to put TargetSpeaker’s table back."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uses a dismissive, commanding tone (“shut up”) and orders others around."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Insists the table be put back (restoring order) and gives a clear, practical explanation about having jobs and buying things."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Gives firm commands without hesitation or signs of nervousness; appears confident."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments focus on practical matters (jobs, buying things) with no clear display of curiosity or imaginative thinking."
+  }
+}

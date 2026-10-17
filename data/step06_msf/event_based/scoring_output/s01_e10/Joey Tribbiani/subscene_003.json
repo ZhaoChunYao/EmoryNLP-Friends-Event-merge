@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, factual comments and does not display outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "A mild correction about the name and a practical note about milk show neither generosity nor hostility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Points out potential confusion about multiple people with the same name and states there is no room for milk, indicating attention to detail and practical organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Statements are calm and matter-of-fact; no signs of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are practical rather than imaginative or exploratory; no curiosity or novel ideas shown."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives warnings and advice but shows no clear signs of being especially talkative or energetic beyond brief, factual comments."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helps by warning about the credit-card theft and suggests a practical step (go to the post office), speaking in a straightforward manner even when critical."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proposes an organized, practical plan based on relevant information (photo at the post office) to address the problem."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays calm and tells Speaker_01 she is losing her composure and becoming obsessive, indicating a secure, steady demeanor."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Recommends a conventional solution and shows no clear signs of curiosity or imaginative approaches."
+  }
+}

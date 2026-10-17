@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Asks questions and engages playfully—inquiring about Speaker_03 and the situation, then making a humorous 'Quack, quack' (u009, u011, u015)—showing sociable, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses warmth and positivity—says they 'cannot forget' Speaker_01 and praises Speaker_03’s support as 'great' (u005, u013)—indicating a cooperative, friendly stance."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits arriving late (u001), which signals poor punctuality despite offering an explanation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Momentary hesitation (starts to speak then stops, u013) but otherwise calm and playful; no strong signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows unconventional, playful creativity with 'Quack, quack' (u015) and readily embraces support in a special situation (u013), suggesting openness."
+  }
+}

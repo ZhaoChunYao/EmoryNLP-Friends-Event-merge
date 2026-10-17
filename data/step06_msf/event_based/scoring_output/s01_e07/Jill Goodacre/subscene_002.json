@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates but only with brief questions; no clear signs of being especially outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker checks if Speaker_01 is alright, provides help during choking, and asks if the help made things better."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Behavior shows reactive helping but no clear evidence of organization/efficiency or of carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional volatility; responses seem calm and practical."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/creativity or of dogmatism/caution in the brief exchange."
+  }
+}

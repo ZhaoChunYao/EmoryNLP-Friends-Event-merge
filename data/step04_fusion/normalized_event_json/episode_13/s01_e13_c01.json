@@ -1,0 +1,101 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e13_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u001_e1",
+          "tuples": [
+            "('be', 'That', 'it', 's01_e13_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c01_u001_e2",
+          "tuples": [
+            "('barge', 'you/Chandler Bing', 'in here', 's01_e13_c01_u001')",
+            "('knock', 'you/Chandler Bing', None, 's01_e13_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u002",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u002_e1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'sorry', 's01_e13_c01_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u003_e1",
+          "tuples": [
+            "('have', 'you/Chandler Bing', 'no respect', 's01_e13_c01_u003')",
+            "('have', 'you/Chandler Bing', \"for anybody's privacy\", 's01_e13_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u004",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u004_e1",
+          "tuples": [
+            "('wait', 'you/Rachel Green', None, 's01_e13_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u005_e1",
+          "tuples": [
+            "('wait', 'you/Chandler Bing', None, 's01_e13_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c01_u005_e2",
+          "tuples": [
+            "('be', 'This', 'ridiculous', 's01_e13_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u006_e1",
+          "tuples": [
+            "('say', 'I/Chandler Bing', 'one thing', 's01_e13_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e13_c01_u008_e1",
+          "tuples": [
+            "('be', 'That', 'a relatively open weave', 's01_e13_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c01_u008_e2",
+          "tuples": [
+            "('see', 'I/Chandler Bing', 'your nipular areas', 's01_e13_c01_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

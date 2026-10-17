@@ -1,0 +1,132 @@
+event_id: s01_e23_c04_u002_e1
+utterance_id: s01_e23_c04_u002
+  tuple: ('be', 'they/babies', 'tiny and chubby and so sweet to touch', 's01_e23_c04_u002')
+
+event_id: s01_e23_c04_u002_e2
+utterance_id: s01_e23_c04_u002
+  tuple: ('touch', 'you/parent', None, 's01_e23_c04_u002')
+
+event_id: s01_e23_c04_u002_e3
+utterance_id: s01_e23_c04_u002
+  tuple: ('grow up', 'they/babies', None, 's01_e23_c04_u002')
+
+event_id: s01_e23_c04_u002_e4
+utterance_id: s01_e23_c04_u002
+  tuple: ('resent', 'they/babies', 'you', 's01_e23_c04_u002')
+
+event_id: s01_e23_c04_u002_e5
+utterance_id: s01_e23_c04_u002
+  tuple: ('yell', 'they/babies', 'at you', 's01_e23_c04_u002')
+  tuple: ('not know', 'you/parent', 'why', 's01_e23_c04_u002')
+  tuple: ('cry', 'you/parent', None, 's01_e23_c04_u002')
+
+event_id: s01_e23_c04_u004_e1
+utterance_id: s01_e23_c04_u004
+  tuple: ('thank', 'I/Phoebe Buffay', 'Ross', 's01_e23_c04_u004')
+
+event_id: s01_e23_c04_u005_e1
+utterance_id: s01_e23_c04_u005
+  tuple: ('pay', 'I/Ross Geller', 'you', 's01_e23_c04_u005')
+  tuple: ('stop', 'you/Phoebe Buffay', None, 's01_e23_c04_u005')
+
+event_id: s01_e23_c04_u008_e1
+utterance_id: s01_e23_c04_u008
+  tuple: ('look', 'you/everyone', 'twins', 's01_e23_c04_u008')
+
+event_id: s01_e23_c04_u009_e1
+utterance_id: s01_e23_c04_u009
+  tuple: ('not have', 'I/Monica Geller', 'one', 's01_e23_c04_u009')
+
+event_id: s01_e23_c04_u009_e2
+utterance_id: s01_e23_c04_u009
+  tuple: ('get', 'they/parents of twins', 'two', 's01_e23_c04_u009')
+
+event_id: s01_e23_c04_u010_e1
+utterance_id: s01_e23_c04_u010
+  tuple: ('get', 'you/Monica Geller', 'one', 's01_e23_c04_u010')
+
+event_id: s01_e23_c04_u012_e1
+utterance_id: s01_e23_c04_u012
+  tuple: ('tell', 'I/Chandler Bing', 'you what', 's01_e23_c04_u012')
+  tuple: ('say', 'you/Monica Geller', 'what', 's01_e23_c04_u012')
+
+event_id: s01_e23_c04_u012_e2
+utterance_id: s01_e23_c04_u012
+  tuple: ('be', 'we/Chandler Bing and Monica Geller', '40', 's01_e23_c04_u012')
+
+event_id: s01_e23_c04_u012_e3
+utterance_id: s01_e23_c04_u012
+  tuple: ('be', 'neither one of us/Chandler Bing and Monica Geller', None, 's01_e23_c04_u012')
+
+event_id: s01_e23_c04_u012_e4
+utterance_id: s01_e23_c04_u012
+  tuple: ('get together', 'you and I/Monica Geller and Chandler Bing', None, 's01_e23_c04_u012')
+  tuple: ('have', 'you and I/Monica Geller and Chandler Bing', 'one', 's01_e23_c04_u012')
+
+event_id: s01_e23_c04_u013_e1
+utterance_id: s01_e23_c04_u013
+  tuple: ('not be', 'I/Monica Geller', None, 's01_e23_c04_u013')
+
+event_id: s01_e23_c04_u013_e2
+utterance_id: s01_e23_c04_u013
+  tuple: ('be', 'I/Monica Geller', '40', 's01_e23_c04_u013')
+
+event_id: s01_e23_c04_u014_e1
+utterance_id: s01_e23_c04_u014
+  tuple: ('mean', 'I/Chandler Bing', 'hypothetically', 's01_e23_c04_u014')
+
+event_id: s01_e23_c04_u017_e1
+utterance_id: s01_e23_c04_u017
+  tuple: ('be', 'it', 'what', 's01_e23_c04_u017')
+
+event_id: s01_e23_c04_u017_e2
+utterance_id: s01_e23_c04_u017
+  tuple: ('be', 'there', 'something fundamentally unmarriable about me', 's01_e23_c04_u017')
+
+event_id: s01_e23_c04_u020_e1
+utterance_id: s01_e23_c04_u020
+  tuple: ('be', 'this parachute', 'a knapsack', 's01_e23_c04_u020')
+
+event_id: s01_e23_c04_u023_e1
+utterance_id: s01_e23_c04_u023
+  tuple: ('look', 'you/Rachel Green', 'at you', 's01_e23_c04_u023')
+
+event_id: s01_e23_c04_u024_e1
+utterance_id: s01_e23_c04_u024
+  tuple: ('go', 'you/Rachel Green', 'home', 's01_e23_c04_u024')
+  tuple: ('change', 'you/Rachel Green', None, 's01_e23_c04_u024')
+
+event_id: s01_e23_c04_u025_e1
+utterance_id: s01_e23_c04_u025
+  tuple: ('be', 'it', 'an important day', 's01_e23_c04_u025')
+
+event_id: s01_e23_c04_u025_e2
+utterance_id: s01_e23_c04_u025
+  tuple: ('want', 'I/Rachel Green', 'look nice', 's01_e23_c04_u025')
+  tuple: ('look', 'I/Rachel Green', 'nice', 's01_e23_c04_u025')
+
+event_id: s01_e23_c04_u025_e3
+utterance_id: s01_e23_c04_u025
+  tuple: ('be', 'Dr. Franzblau', 'by', 's01_e23_c04_u025')
+
+event_id: s01_e23_c04_u026_e1
+utterance_id: s01_e23_c04_u026
+  tuple: ('not see', 'I/Monica Geller', 'him', 's01_e23_c04_u026')
+
+event_id: s01_e23_c04_u027_e1
+utterance_id: s01_e23_c04_u027
+  tuple: ('be', 'he/Dr. Franzblau', 'where', 's01_e23_c04_u027')
+  tuple: ('suppose to be', 'he/Dr. Franzblau', 'here', 's01_e23_c04_u027')
+
+event_id: s01_e23_c04_u027_e2
+utterance_id: s01_e23_c04_u027
+  tuple: ('need', 'the baby', 'him', 's01_e23_c04_u027')
+
+event_id: s01_e23_c04_u028_e1
+utterance_id: s01_e23_c04_u028
+  tuple: ('be', 'the deal', 'with you and doctors', 's01_e23_c04_u028')
+
+event_id: s01_e23_c04_u028_e2
+utterance_id: s01_e23_c04_u028
+  tuple: ('be', 'your father', 'a doctor', 's01_e23_c04_u028')
+

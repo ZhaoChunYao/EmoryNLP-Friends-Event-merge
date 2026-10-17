@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In a tense childbirth moment, TargetSpeaker speaks up to reassure ('it's going to be ok') and directs others to keep focusing on the baby, showing assertive, outward engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are supportive and prosocial—reminding everyone they are doing this for the baby and offering calming reassurance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides clear, goal-focused guidance (keep focusing on the baby), helping organize attention during the contractions."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays calm and confident under pressure, reassuring others that the childbirth will be okay."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity; a brief preference for a baby name doesn’t show openness or closed-mindedness."
+  }
+}

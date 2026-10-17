@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives straightforward replies about uncertainty without showing either outgoing energy or reserved withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Openly admits not knowing what to do and acknowledges limited chef experience, showing straightforwardness and humility rather than boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Says not knowing what to do is the main issue, but there is no concrete behavior indicating either organized efficiency or careless sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses uncertainty about life direction and self-deprecates about ability (“only an all‑toast restaurant”), suggesting insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "When presented with a new opportunity (head chef), responds cautiously by emphasizing lack of experience and minimizing capability rather than showing curiosity to try."
+  }
+}

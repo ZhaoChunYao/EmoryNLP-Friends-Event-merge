@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Says he has a date and quickly leaves (“TargetSpeaker got ta go, TargetSpeaker got a date… TargetSpeaker'm outta here”), showing social, outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Dismisses Speaker_01 with “Great story! But… gotta go” and exits abruptly, prioritizing himself over the conversation."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Struggles to recall the date’s name (“Speaker_03 -- Speaker_03 -- Speaker_03… Oh man”) and makes an abrupt, unplanned exit (“I’m outta here”)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Stammering and “Oh man” when trying to remember the date’s name suggest flustered, nervous behavior."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or unconventional thinking in the brief exchange."
+  }
+}

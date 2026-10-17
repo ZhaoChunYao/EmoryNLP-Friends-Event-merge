@@ -1,0 +1,259 @@
+event_id: s01_e01_c11_u001_e1
+utterance_id: s01_e01_c11_u001
+  tuple: ('be', 'this', 'amazing', 's01_e01_c11_u001')
+
+event_id: s01_e01_c11_u001_e2
+utterance_id: s01_e01_c11_u001
+  tuple: ('mean', 'I/Rachel Green', None, 's01_e01_c11_u001')
+
+event_id: s01_e01_c11_u001_e3
+utterance_id: s01_e01_c11_u001
+  tuple: ('make', 'I/Rachel Green', 'coffee', 's01_e01_c11_u001')
+  tuple: ('make', 'I/Rachel Green', 'in my entire life', 's01_e01_c11_u001')
+
+event_id: s01_e01_c11_u002_e1
+utterance_id: s01_e01_c11_u002
+  tuple: ('be', 'That', 'amazing', 's01_e01_c11_u002')
+
+event_id: s01_e01_c11_u004_e1
+utterance_id: s01_e01_c11_u004
+  tuple: ('figure', 'I/Rachel Green', None, 's01_e01_c11_u004')
+  tuple: ('be', 'there', 'anything', 's01_e01_c11_u004')
+  tuple: ('do', 'I/Rachel Green', 'anything', 's01_e01_c11_u004')
+
+event_id: s01_e01_c11_u005_e1
+utterance_id: s01_e01_c11_u005
+  tuple: ('invade', 'I/Chandler Bing', 'Poland', 's01_e01_c11_u005')
+
+event_id: s01_e01_c11_u005_e2
+utterance_id: s01_e01_c11_u005
+  tuple: ('do', 'I/Chandler Bing', 'anything', 's01_e01_c11_u005')
+
+event_id: s01_e01_c11_u006_e1
+utterance_id: s01_e01_c11_u006
+  tuple: ('listen', 'you/Rachel Green', None, 's01_e01_c11_u006')
+
+event_id: s01_e01_c11_u006_e2
+utterance_id: s01_e01_c11_u006
+  tuple: ('be', 'you/Rachel Green', 'on a roll', 's01_e01_c11_u006')
+
+event_id: s01_e01_c11_u006_e3
+utterance_id: s01_e01_c11_u006
+  tuple: ('feel', 'you/Rachel Green', None, 's01_e01_c11_u006')
+
+event_id: s01_e01_c11_u006_e4
+utterance_id: s01_e01_c11_u006
+  tuple: ('make', 'you/Rachel Green', 'a Western omelet', 's01_e01_c11_u006')
+
+event_id: s01_e01_c11_u006_e5
+utterance_id: s01_e01_c11_u006
+  tuple: ('be', 'I/Joey Tribbiani', 'not that hungry', 's01_e01_c11_u006')
+
+event_id: s01_e01_c11_u007_e1
+utterance_id: s01_e01_c11_u007
+  tuple: ('be', 'Lenny and Squigy', 'here', 's01_e01_c11_u007')
+
+event_id: s01_e01_c11_u012_e1
+utterance_id: s01_e01_c11_u012
+  tuple: ('be', 'it/Paul the Wine Guy', None, 's01_e01_c11_u012')
+
+event_id: s01_e01_c11_u014_e1
+utterance_id: s01_e01_c11_u014
+  tuple: ('thank', 'I/Paul the Wine Guy', 'you', 's01_e01_c11_u014')
+
+event_id: s01_e01_c11_u015_e1
+utterance_id: s01_e01_c11_u015
+  tuple: ('stop', 'you/Paul the Wine Guy', None, 's01_e01_c11_u015')
+
+event_id: s01_e01_c11_u016_e1
+utterance_id: s01_e01_c11_u016
+  tuple: ('tell', 'I/Paul the Wine Guy', 'you', 's01_e01_c11_u016')
+  tuple: ('be', 'last night', 'like all my birthdays, both graduations, plus the barn raising scene in Witness', 's01_e01_c11_u016')
+
+event_id: s01_e01_c11_u017_e1
+utterance_id: s01_e01_c11_u017
+  tuple: ('talk', 'we/Monica Geller+Paul the Wine Guy', None, 's01_e01_c11_u017')
+
+event_id: s01_e01_c11_u019_e1
+utterance_id: s01_e01_c11_u019
+  tuple: ('be', 'that', 'a real date', 's01_e01_c11_u019')
+
+event_id: s01_e01_c11_u019_e2
+utterance_id: s01_e01_c11_u019
+  tuple: ('do', 'you/Monica Geller', 'what', 's01_e01_c11_u019')
+  tuple: ('do', 'you/Monica Geller', 'on a real date', 's01_e01_c11_u019')
+
+event_id: s01_e01_c11_u020_e1
+utterance_id: s01_e01_c11_u020
+  tuple: ('shut up', 'you/#ALL#', None, 's01_e01_c11_u020')
+
+event_id: s01_e01_c11_u020_e2
+utterance_id: s01_e01_c11_u020
+  tuple: ('put back', 'you/#ALL#', 'my table', 's01_e01_c11_u020')
+
+event_id: s01_e01_c11_u022_e1
+utterance_id: s01_e01_c11_u022
+  tuple: ('get', 'I/Chandler Bing', 'to work', 's01_e01_c11_u022')
+
+event_id: s01_e01_c11_u022_e2
+utterance_id: s01_e01_c11_u022
+  tuple: ('input', 'I/Chandler Bing', 'those numbers', 's01_e01_c11_u022')
+
+event_id: s01_e01_c11_u022_e3
+utterance_id: s01_e01_c11_u022
+  tuple: ('make', 'it', 'much of a difference', 's01_e01_c11_u022')
+
+event_id: s01_e01_c11_u023_e1
+utterance_id: s01_e01_c11_u023
+  tuple: ('have', 'you guys/#ALL#', 'jobs', 's01_e01_c11_u023')
+
+event_id: s01_e01_c11_u024_e1
+utterance_id: s01_e01_c11_u024
+  tuple: ('have', 'we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy', 'jobs', 's01_e01_c11_u024')
+
+event_id: s01_e01_c11_u024_e2
+utterance_id: s01_e01_c11_u024
+  tuple: ('see', 'you/Rachel Green', None, 's01_e01_c11_u024')
+
+event_id: s01_e01_c11_u024_e3
+utterance_id: s01_e01_c11_u024
+  tuple: ('be', 'that', 'how we buy stuff', 's01_e01_c11_u024')
+  tuple: ('buy', 'we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy', 'stuff', 's01_e01_c11_u024')
+
+event_id: s01_e01_c11_u025_e1
+utterance_id: s01_e01_c11_u025
+  tuple: ('be', 'I/Joey Tribbiani', 'an actor', 's01_e01_c11_u025')
+
+event_id: s01_e01_c11_u026_e1
+utterance_id: s01_e01_c11_u026
+  tuple: ('see', 'I/Rachel Green', 'you', 's01_e01_c11_u026')
+  tuple: ('see', 'I/Rachel Green', 'in anything', 's01_e01_c11_u026')
+
+event_id: s01_e01_c11_u027_e1
+utterance_id: s01_e01_c11_u027
+  tuple: ('doubt', 'I/Joey Tribbiani', 'it', 's01_e01_c11_u027')
+
+event_id: s01_e01_c11_u028_e1
+utterance_id: s01_e01_c11_u028
+  tuple: ('wait', 'you/Rachel Green', None, 's01_e01_c11_u028')
+
+event_id: s01_e01_c11_u028_e2
+utterance_id: s01_e01_c11_u028
+  tuple: ('happen', 'you/Rachel Green', None, 's01_e01_c11_u028')
+  tuple: ('catch', 'you/Rachel Green', "the Reruns' production of Pinocchio", 's01_e01_c11_u028')
+  tuple: ('catch', 'you/Rachel Green', 'of Pinocchio', 's01_e01_c11_u028')
+  tuple: ('catch', 'you/Rachel Green', 'at the little theater', 's01_e01_c11_u028')
+  tuple: ('catch', 'you/Rachel Green', 'in the park', 's01_e01_c11_u028')
+
+event_id: s01_e01_c11_u029_e1
+utterance_id: s01_e01_c11_u029
+  tuple: ('look', 'you/Monica Geller', None, 's01_e01_c11_u029')
+
+event_id: s01_e01_c11_u029_e2
+utterance_id: s01_e01_c11_u029
+  tuple: ('be', 'it', 'a job', 's01_e01_c11_u029')
+
+event_id: s01_e01_c11_u030_e1
+utterance_id: s01_e01_c11_u030
+  tuple: ('look', 'you/Joey Tribbiani', None, 's01_e01_c11_u030')
+
+event_id: s01_e01_c11_u030_e2
+utterance_id: s01_e01_c11_u030
+  tuple: ('be', 'I/Chandler Bing', 'a real live boy', 's01_e01_c11_u030')
+
+event_id: s01_e01_c11_u031_e1
+utterance_id: s01_e01_c11_u031
+  tuple: ('take', 'I/Joey Tribbiani', 'this abuse', 's01_e01_c11_u031')
+
+event_id: s01_e01_c11_u032_e1
+utterance_id: s01_e01_c11_u032
+  tuple: ('be', 'you/Joey Tribbiani', 'right', 's01_e01_c11_u032')
+
+event_id: s01_e01_c11_u032_e2
+utterance_id: s01_e01_c11_u032
+  tuple: ('be', 'I/Chandler Bing', 'sorry', 's01_e01_c11_u032')
+
+event_id: s01_e01_c11_u032_e3
+utterance_id: s01_e01_c11_u032
+  tuple: ('be', 'I/Chandler Bing', 'a wooden boy', 's01_e01_c11_u032')
+
+event_id: s01_e01_c11_u033_e1
+utterance_id: s01_e01_c11_u033
+  tuple: ('know', 'you/Monica Geller+Chandler Bing', None, 's01_e01_c11_u033')
+  tuple: ('be', 'he/Chandler Bing', 'a dead man', 's01_e01_c11_u033')
+
+event_id: s01_e01_c11_u034_e1
+utterance_id: s01_e01_c11_u034
+  tuple: ('do', 'you/Rachel Green', None, 's01_e01_c11_u034')
+
+event_id: s01_e01_c11_u034_e2
+utterance_id: s01_e01_c11_u034
+  tuple: ('sleep', 'you/Rachel Green', None, 's01_e01_c11_u034')
+
+event_id: s01_e01_c11_u034_e3
+utterance_id: s01_e01_c11_u034
+  tuple: ('talk', 'you/Rachel Green', 'to Barry', 's01_e01_c11_u034')
+
+event_id: s01_e01_c11_u034_e4
+utterance_id: s01_e01_c11_u034
+  tuple: ('stop', 'I/Monica Geller', 'smiling', 's01_e01_c11_u034')
+  tuple: ('smile', 'I/Monica Geller', None, 's01_e01_c11_u034')
+
+event_id: s01_e01_c11_u035_e1
+utterance_id: s01_e01_c11_u035
+  tuple: ('see', 'I/Rachel Green', 'that', 's01_e01_c11_u035')
+
+event_id: s01_e01_c11_u035_e2
+utterance_id: s01_e01_c11_u035
+  tuple: ('look', 'you/Monica Geller', None, 's01_e01_c11_u035')
+  tuple: ('sleep', 'you/Monica Geller', 'with a hanger', 's01_e01_c11_u035')
+  tuple: ('sleep', 'you/Monica Geller', 'in your mouth', 's01_e01_c11_u035')
+
+event_id: s01_e01_c11_u036_e1
+utterance_id: s01_e01_c11_u036
+  tuple: ('know', 'I/Monica Geller', None, 's01_e01_c11_u036')
+
+event_id: s01_e01_c11_u036_e2
+utterance_id: s01_e01_c11_u036
+  tuple: ('be', 'he/Paul the Wine Guy', None, 's01_e01_c11_u036')
+
+event_id: s01_e01_c11_u036_e3
+utterance_id: s01_e01_c11_u036
+  tuple: ('remember', 'you/Rachel Green', 'you and Tony DeMarco', 's01_e01_c11_u036')
+
+event_id: s01_e01_c11_u038_e1
+utterance_id: s01_e01_c11_u038
+  tuple: ('be', 'it', 'like that', 's01_e01_c11_u038')
+  tuple: ('be', 'it', 'with feelings', 's01_e01_c11_u038')
+
+event_id: s01_e01_c11_u039_e1
+utterance_id: s01_e01_c11_u039
+  tuple: ('be', 'you/Monica Geller', 'in trouble', 's01_e01_c11_u039')
+
+event_id: s01_e01_c11_u041_e1
+utterance_id: s01_e01_c11_u041
+  tuple: ('want', 'you/Monica Geller', 'a wedding dress', 's01_e01_c11_u041')
+
+event_id: s01_e01_c11_u042_e1
+utterance_id: s01_e01_c11_u042
+  tuple: ('get', 'we/Monica Geller+Rachel Green', 'ahead of selves', 's01_e01_c11_u042')
+
+event_id: s01_e01_c11_u042_e2
+utterance_id: s01_e01_c11_u042
+  tuple: ('get up', 'I/Monica Geller', None, 's01_e01_c11_u042')
+  tuple: ('go', 'I/Monica Geller', 'to work', 's01_e01_c11_u042')
+  tuple: ('think', 'I/Monica Geller', 'about him', 's01_e01_c11_u042')
+
+event_id: s01_e01_c11_u043_e1
+utterance_id: s01_e01_c11_u043
+  tuple: ('look', 'you/Monica Geller', None, 's01_e01_c11_u043')
+
+event_id: s01_e01_c11_u043_e2
+utterance_id: s01_e01_c11_u043
+  tuple: ('wish', 'you/Monica Geller', 'me luck', 's01_e01_c11_u043')
+
+event_id: s01_e01_c11_u045_e1
+utterance_id: s01_e01_c11_u045
+  tuple: ('go', 'I/Rachel Green', None, 's01_e01_c11_u045')
+  tuple: ('get', 'I/Rachel Green', 'one of those job things', 's01_e01_c11_u045')
+

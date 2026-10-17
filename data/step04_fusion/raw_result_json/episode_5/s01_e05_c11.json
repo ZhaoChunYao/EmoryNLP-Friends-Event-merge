@@ -1,0 +1,63 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c11_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', 'you/Chandler Bing', 'this', 's01_e05_c11_u001')",
+            "('be', 'it/(breaking up)', 'just like pulling off a Band-aid', 's01_e05_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('pull', 'you/Chandler Bing', 'off a Band-aid', 's01_e05_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('expose', 'the wound', None, 's01_e05_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c11_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'we/(Chandler Bing+Janice Litman Goralnik)', None, 's01_e05_c11_u003')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'we should go out anymore', 's01_e05_c11_u003')",
+            "('go', 'we/(Chandler Bing+Janice Litman Goralnik)', 'out', 's01_e05_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c11_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'you/Chandler Bing', None, 's01_e05_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('stop', 'you/Chandler Bing', 'it', 's01_e05_c11_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

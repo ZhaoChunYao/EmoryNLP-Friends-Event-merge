@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes initiative and leads: says he speaks for everyone, proposes the plan, volunteers \"it should be me,\" goes out and delivers a supportive speech to Speaker_04."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and kindness: suggests only one person go so Speaker_04 isn’t overwhelmed, asks if Speaker_04 is all right, and reassures that Speaker_04 deserves better."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Offers an organized, thoughtful plan—only one person should go outside to avoid overwhelming Speaker_04—and follows through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears confident and steady: asserts himself, approaches Speaker_04 without hesitation, and responds calmly when rebuffed (just \"Huh\")."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking; actions focus on interpersonal support rather than novel ideas."
+  }
+}

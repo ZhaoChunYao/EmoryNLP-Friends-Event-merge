@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up readily during introductions with energetic interjections (“Yeah!”, “Yes!!”) and helps identify the visitor, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Bluntly admits “None” when asked if they know who the visitor is and offers no apology or warmth while the visitor expresses being ignored."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responses are confident and unhesitant (enthusiastic affirmations and blunt admission), with no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or caution/dogmatism in the interaction."
+  }
+}

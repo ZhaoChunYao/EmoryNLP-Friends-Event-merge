@@ -1,0 +1,65 @@
+event_id: s01_e16_c13_u001_e1
+utterance_id: s01_e16_c13_u001
+  tuple: ('be', 'I/Ross Geller', 'a father', 's01_e16_c13_u001')
+
+event_id: s01_e16_c13_u002_e1
+utterance_id: s01_e16_c13_u002
+  tuple: ('occur', 'this/(Ross being a father)', 'to you', 's01_e16_c13_u002')
+
+event_id: s01_e16_c13_u003_e1
+utterance_id: s01_e16_c13_u003
+  tuple: ('know', 'I/Ross Geller', 'I was havin a baby', 's01_e16_c13_u003')
+  tuple: ('have', 'I/Ross Geller', 'a baby', 's01_e16_c13_u003')
+
+event_id: s01_e16_c13_u003_e2
+utterance_id: s01_e16_c13_u003
+  tuple: ('realize', 'I/Ross Geller', 'the baby was having me', 's01_e16_c13_u003')
+  tuple: ('have', 'the baby', 'me', 's01_e16_c13_u003')
+
+event_id: s01_e16_c13_u004_e1
+utterance_id: s01_e16_c13_u004
+  tuple: ('be', 'you/Ross Geller', 'great', 's01_e16_c13_u004')
+
+event_id: s01_e16_c13_u005_e1
+utterance_id: s01_e16_c13_u005
+  tuple: ('say', 'you/Rachel Green', 'that', 's01_e16_c13_u005')
+
+event_id: s01_e16_c13_u005_e2
+utterance_id: s01_e16_c13_u005
+  tuple: ('get', 'I/Ross Geller', 'Marcel to stop eating the bath mat', 's01_e16_c13_u005')
+  tuple: ('stop', 'Marcel', 'eating the bath mat', 's01_e16_c13_u005')
+  tuple: ('eat', 'Marcel', 'the bath mat', 's01_e16_c13_u005')
+
+event_id: s01_e16_c13_u005_e3
+utterance_id: s01_e16_c13_u005
+  tuple: ('raise', 'I/Ross Geller', 'a kid', 's01_e16_c13_u005')
+
+event_id: s01_e16_c13_u006_e1
+utterance_id: s01_e16_c13_u006
+  tuple: ('say', 'some scientists', 'that monkeys and babies are actually different', 's01_e16_c13_u006')
+  tuple: ('be', 'monkeys and babies', 'actually different', 's01_e16_c13_u006')
+
+event_id: s01_e16_c13_u008_e1
+utterance_id: s01_e16_c13_u008
+  tuple: ('go', 'you/Joey Tribbiani', None, 's01_e16_c13_u008')
+
+event_id: s01_e16_c13_u012_e1
+utterance_id: s01_e16_c13_u012
+  tuple: ('ask', 'I/Phoebe Buffay', 'you one question', 's01_e16_c13_u012')
+
+event_id: s01_e16_c13_u014_e1
+utterance_id: s01_e16_c13_u014
+  tuple: ('have', 'you two/(Joey Tribbiani and his date)', None, 's01_e16_c13_u014')
+
+event_id: s01_e16_c13_u015_e1
+utterance_id: s01_e16_c13_u015
+  tuple: ('be', 'it/(this matter)', 'any of your business', 's01_e16_c13_u015')
+
+event_id: s01_e16_c13_u015_e2
+utterance_id: s01_e16_c13_u015
+  tuple: ('have', 'we/(Joey Tribbiani and his date)', None, 's01_e16_c13_u015')
+
+event_id: s01_e16_c13_u017_e1
+utterance_id: s01_e16_c13_u017
+  tuple: ('mean', 'you/Phoebe Buffay', 'sex', 's01_e16_c13_u017')
+

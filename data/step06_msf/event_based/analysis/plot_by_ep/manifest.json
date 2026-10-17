@@ -1,0 +1,99 @@
+{
+  "input_root": "big_five_output_anon_ep",
+  "output_dir": "analysis\\plot_by_ep",
+  "score_mode": "raw",
+  "score_note": "No preprocessing applied; scores are plotted as-is.",
+  "include_subscenes": false,
+  "traits": [
+    "OPN",
+    "CON",
+    "EXT",
+    "AGR",
+    "NEU"
+  ],
+  "characters": [
+    "Chandler Bing",
+    "Joey Tribbiani",
+    "Monica Geller",
+    "Phoebe Buffay",
+    "Rachel Green",
+    "Ross Geller"
+  ],
+  "character_count": 6,
+  "files_written": [
+    "analysis\\plot_by_ep\\Chandler_Bing\\Chandler_Bing_OPN.png",
+    "analysis\\plot_by_ep\\Chandler_Bing\\Chandler_Bing_CON.png",
+    "analysis\\plot_by_ep\\Chandler_Bing\\Chandler_Bing_EXT.png",
+    "analysis\\plot_by_ep\\Chandler_Bing\\Chandler_Bing_AGR.png",
+    "analysis\\plot_by_ep\\Chandler_Bing\\Chandler_Bing_NEU.png",
+    "analysis\\plot_by_ep\\Joey_Tribbiani\\Joey_Tribbiani_OPN.png",
+    "analysis\\plot_by_ep\\Joey_Tribbiani\\Joey_Tribbiani_CON.png",
+    "analysis\\plot_by_ep\\Joey_Tribbiani\\Joey_Tribbiani_EXT.png",
+    "analysis\\plot_by_ep\\Joey_Tribbiani\\Joey_Tribbiani_AGR.png",
+    "analysis\\plot_by_ep\\Joey_Tribbiani\\Joey_Tribbiani_NEU.png",
+    "analysis\\plot_by_ep\\Monica_Geller\\Monica_Geller_OPN.png",
+    "analysis\\plot_by_ep\\Monica_Geller\\Monica_Geller_CON.png",
+    "analysis\\plot_by_ep\\Monica_Geller\\Monica_Geller_EXT.png",
+    "analysis\\plot_by_ep\\Monica_Geller\\Monica_Geller_AGR.png",
+    "analysis\\plot_by_ep\\Monica_Geller\\Monica_Geller_NEU.png",
+    "analysis\\plot_by_ep\\Phoebe_Buffay\\Phoebe_Buffay_OPN.png",
+    "analysis\\plot_by_ep\\Phoebe_Buffay\\Phoebe_Buffay_CON.png",
+    "analysis\\plot_by_ep\\Phoebe_Buffay\\Phoebe_Buffay_EXT.png",
+    "analysis\\plot_by_ep\\Phoebe_Buffay\\Phoebe_Buffay_AGR.png",
+    "analysis\\plot_by_ep\\Phoebe_Buffay\\Phoebe_Buffay_NEU.png",
+    "analysis\\plot_by_ep\\Rachel_Green\\Rachel_Green_OPN.png",
+    "analysis\\plot_by_ep\\Rachel_Green\\Rachel_Green_CON.png",
+    "analysis\\plot_by_ep\\Rachel_Green\\Rachel_Green_EXT.png",
+    "analysis\\plot_by_ep\\Rachel_Green\\Rachel_Green_AGR.png",
+    "analysis\\plot_by_ep\\Rachel_Green\\Rachel_Green_NEU.png",
+    "analysis\\plot_by_ep\\Ross_Geller\\Ross_Geller_OPN.png",
+    "analysis\\plot_by_ep\\Ross_Geller\\Ross_Geller_CON.png",
+    "analysis\\plot_by_ep\\Ross_Geller\\Ross_Geller_EXT.png",
+    "analysis\\plot_by_ep\\Ross_Geller\\Ross_Geller_AGR.png",
+    "analysis\\plot_by_ep\\Ross_Geller\\Ross_Geller_NEU.png"
+  ],
+  "series_found": {
+    "Chandler Bing": {
+      "OPN": 24,
+      "CON": 24,
+      "EXT": 24,
+      "AGR": 24,
+      "NEU": 24
+    },
+    "Joey Tribbiani": {
+      "OPN": 23,
+      "CON": 23,
+      "EXT": 23,
+      "AGR": 23,
+      "NEU": 23
+    },
+    "Monica Geller": {
+      "OPN": 24,
+      "CON": 24,
+      "EXT": 24,
+      "AGR": 24,
+      "NEU": 24
+    },
+    "Phoebe Buffay": {
+      "OPN": 24,
+      "CON": 24,
+      "EXT": 24,
+      "AGR": 24,
+      "NEU": 24
+    },
+    "Rachel Green": {
+      "OPN": 24,
+      "CON": 24,
+      "EXT": 24,
+      "AGR": 24,
+      "NEU": 24
+    },
+    "Ross Geller": {
+      "OPN": 24,
+      "CON": 24,
+      "EXT": 24,
+      "AGR": 24,
+      "NEU": 24
+    }
+  }
+}

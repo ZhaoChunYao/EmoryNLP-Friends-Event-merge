@@ -1,0 +1,66 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e06_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e06_c09_u001_e1",
+          "tuples": [
+            "('bother', 'it/(unknown)', 'you', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e2",
+          "tuples": [
+            "('go', 'you/(unknown)', 'out', 's01_e06_c09_u001')",
+            "('get', 'you/(unknown)', 'the shoes', 's01_e06_c09_u001')",
+            "('do', 'you/(unknown)', 'this', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e3",
+          "tuples": [
+            "('be', 'This/(unknown)', 'stupid', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e4",
+          "tuples": [
+            "('prove', 'I/(Monica Geller)', 'anything', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e5",
+          "tuples": [
+            "('get', 'I/(Monica Geller)', 'them', 's01_e06_c09_u001')",
+            "('go', 'I/(Monica Geller)', None, 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e6",
+          "tuples": [
+            "('know', 'everyone', None, 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e7",
+          "tuples": [
+            "('wake', 'I/(Monica Geller)', 'up', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e8",
+          "tuples": [
+            "('put', 'I/(Monica Geller)', 'them back', 's01_e06_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c09_u001_e9",
+          "tuples": [
+            "('need', 'I/(Monica Geller)', 'help', 's01_e06_c09_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

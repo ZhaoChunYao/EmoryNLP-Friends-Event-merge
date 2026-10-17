@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker calls Speaker_02 over and later suggests that Speaker_01 should whistle to get attention, showing outgoing, proactive social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Apart from politely saying “Thanks,” there’s no strong evidence of either cooperativeness/generosity or its opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Rather than acting nervous, TargetSpeaker confidently initiates contact (“come to me”) and proposes whistling, showing composure under social pressure."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Suggesting whistling is bold but not clear evidence of curiosity or creativity versus dogmatism/caution."
+  }
+}

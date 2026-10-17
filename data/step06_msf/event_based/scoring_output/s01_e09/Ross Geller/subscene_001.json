@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly speaks up to dispute the claim (u006, u008, u010) and proactively initiates a call in front of others to settle it (u012), showing assertive, outgoing engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker flatly tells Speaker_03 they are wrong multiple times (u006, u008, u010), showing confrontational disagreement rather than accommodating or cooperative behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "When faced with conflicting claims, TargetSpeaker immediately takes a concrete, organized step to verify by calling Speaker_04 (u012), indicating a efficient, task-focused approach."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains confident and decisive—asserting their position and taking action without signs of anxiety or insecurity (u006–u012)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Despite Speaker_03 stating they just spoke to the people involved (u011), TargetSpeaker persists that Speaker_03 is wrong (u010), showing dogmatic certainty; only afterward decides to call (u012)."
+  }
+}

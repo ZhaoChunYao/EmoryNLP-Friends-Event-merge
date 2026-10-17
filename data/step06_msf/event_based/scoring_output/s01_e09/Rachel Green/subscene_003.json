@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only provides brief factual updates about money and a broken cup; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When corrected about the remaining amount, TargetSpeaker promptly agrees it was $98.50 and openly admits breaking a cup, showing straightforwardness and honesty."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He tracks a savings goal but gives an initial incorrect figure and mentions breaking a cup; these mixed signals don’t clearly show either organized efficiency or careless sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or insecurity; statements are matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or dogmatism in the brief exchange."
+  }
+}

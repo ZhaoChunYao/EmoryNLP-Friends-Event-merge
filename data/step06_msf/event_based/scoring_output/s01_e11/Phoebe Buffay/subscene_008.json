@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates multiple social interactions and questions (u006 'Hey Rach', u008 'Hello', u010 asks if someone is going to the hospital) and takes initiative to start an activity with others (u014 asks to begin planned preparation)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Friendly greetings (u006, u008) and cooperative intent by proposing to do planned preparation with another person (u014)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Refers to and wants to begin a 'planned preparation' for a performance (u014), showing organization and follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of anxiety; confidently jokes that the hospital question was a trick question and promptly moves to organize preparation (u014)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indication of curiosity, unconventional ideas, or imaginative discussion from the TargetSpeaker in this exchange."
+  }
+}

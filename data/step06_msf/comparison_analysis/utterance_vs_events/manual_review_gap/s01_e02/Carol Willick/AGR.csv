@@ -1,0 +1,55 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e02,Carol Willick,subscene_007.json,AGR,1,-1,2,"Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 007
+Main speaker: Carol Willick
+UID span: s01_e02_c10_u009 → s01_e02_c10_u017
+Peak window: 9 → 11
+
+Dialogue:
+  [s01_e02_c10_u009]
+  1. Susan Bunch says Ben Geller is also Susan Bunch's baby.
+  [s01_e02_c10_u010]
+  1. Ross Geller says the situation about naming the baby is funny.
+  2. Ross Geller says Susan Bunch did not make any sperm, which Ross Geller does not remember happening.
+  [s01_e02_c10_u011]
+  1. Susan Bunch says Ross Geller, Susan Bunch, and Carol Willick all know that making sperm is a challenge.
+  [s01_e02_c10_u012]
+  1. Carol Willick says Ross Geller and Susan Bunch should stop arguing.
+  [s01_e02_c10_u013]
+  1. Ross Geller says Susan Bunch gets a credit in the baby's name.
+  2. Ross Geller says Ross Geller is included in the baby's name too.
+  [s01_e02_c10_u014]
+  1. Carol Willick says Ross Geller is suggesting naming the baby Helen Willick-Bunch-Geller.
+  2. Carol Willick says naming the baby Helen Willick-Bunch-Geller would border on child abuse.
+  [s01_e02_c10_u015]
+  1. Ross Geller says Ross Geller is suggesting the baby's name should be Geller-Willick-Bunch.
+  [s01_e02_c10_u016]
+  1. Susan Bunch says Ross Geller is trying to manipulate the naming by proposing an overly long name.
+  2. Susan Bunch says Ross Geller knows people are not going to say all those names.
+  3. Susan Bunch says people will end up calling the baby Geller.
+  4. Susan Bunch says Ross Geller will get his way if people call the baby Geller.
+  [s01_e02_c10_u017]
+  1. Ross Geller says Susan Bunch thinks the current naming situation is Ross Geller's preferred way.
+  2. Ross Geller says Carol Willick and Susan Bunch should believe Ross Geller.
+  3. Ross Geller says Ross Geller had imagined this moment in Ross Geller's life differently.
+  4. Ross Geller says Carol Willick and Susan Bunch know what Ross Geller means.
+  5. Ross Geller says the situation is too hard for Ross Geller and says Ross Geller cannot continue with this conversation.
+","Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 007
+Main speaker: Carol Willick
+UID span: s01_e02_c10_u009 → s01_e02_c10_u017
+Peak window: 9 → 11
+
+Dialogue:
+  [s01_e02_c10_u009] Susan Bunch: It's my baby too.
+  [s01_e02_c10_u010] Ross Geller: Oh, 's'funny, really? Um, I don't remember you making any sperm.
+  [s01_e02_c10_u011] Susan Bunch: Yeah, and we all know what a challenge that is!
+  [s01_e02_c10_u012] Carol Willick: All right, you two, stop it!
+  [s01_e02_c10_u013] Ross Geller: No no no, she gets a credit, hey, I'm in there too.
+  [s01_e02_c10_u014] Carol Willick: Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.
+  [s01_e02_c10_u015] Ross Geller: Of course not, I'm... suggesting Geller-Willick-Bunch.
+  [s01_e02_c10_u016] Susan Bunch: Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!
+  [s01_e02_c10_u017] Ross Geller: My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-
+","Asks the others to stop arguing, attempting to maintain harmony.","Issues a sharp command ('stop it!') and bluntly labels the idea as 'borders on child abuse,' showing confrontational, critical stance.",,,

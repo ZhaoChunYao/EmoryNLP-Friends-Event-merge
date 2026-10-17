@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and sustains friendly small talk with Speaker_03 (asks how they’re doing, slept okay, talked to Speaker_04) and openly gushes about feelings (“I cannot stop smiling,” “Big time!”), showing outgoing, talkative energy."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and warmth toward Speaker_03 by asking about their sleep and well-being, speaks positively about Speaker_05 (“special,” “amazing”), and gently, straightforwardly sets boundaries about marriage talk (“we’re getting ahead of ourselves”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States a clear, disciplined plan: “I’m going to get up, go to work, and not think about Speaker_05 all day.”"
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays positive affect and no signs of anxiety (“I cannot stop smiling”; playful “Big time!”), indicating comfort and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a playful relational analogy (“like yours with Speaker_06, but with feelings”) and shows curiosity by asking multiple questions about Speaker_03’s situation."
+  }
+}

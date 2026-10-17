@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up in a group setting, directing the interaction and calling out that Speaker_04 is home now, showing ease and initiative in a social context."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says Speaker_02 is going to go away now, a dismissive and unfriendly move toward another person."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional reactivity are shown."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflect curiosity, imagination, or rigidity about ideas."
+  }
+}

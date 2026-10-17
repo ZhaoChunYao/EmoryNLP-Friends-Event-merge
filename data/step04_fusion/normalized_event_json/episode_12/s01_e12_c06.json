@@ -1,0 +1,145 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u001_e1",
+          "tuples": [
+            "('get', \"we/Phoebe's Assistant\", 'a couple changes', 's01_e12_c06_u001')",
+            "('get', \"we/Phoebe's Assistant\", 'in your schedule', 's01_e12_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u001_e2",
+          "tuples": [
+            "('push back', 'Your 4:00 herbal massage', 'to 4:30', 's01_e12_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u001_e3",
+          "tuples": [
+            "('cancel', 'Miss Somerfield', 'her 5:30 shiatsu', 's01_e12_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u003_e1",
+          "tuples": [
+            "('come', 'your 3:00', None, 's01_e12_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u003_e2",
+          "tuples": [
+            "('mean', \"I/Phoebe's Assistant\", 'to sound unprofessional', 's01_e12_c06_u003')",
+            "('sound', \"I/Phoebe's Assistant\", 'unprofessional', 's01_e12_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u005_e1",
+          "tuples": [
+            "('do', 'you/Paolo', None, 's01_e12_c06_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u006_e1",
+          "tuples": [
+            "('tell', 'Racquela', 'me', 's01_e12_c06_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u006_e2",
+          "tuples": [
+            "('massage', 'you/Phoebe Buffay', None, 's01_e12_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u007_e1",
+          "tuples": [
+            "('be', 'Racquela', 'right', 's01_e12_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u009_e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'what you just said', 's01_e12_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u009_e2",
+          "tuples": [
+            "('say', 'you/Paolo', 'what', 's01_e12_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u009_e3",
+          "tuples": [
+            "('let', 'we/Phoebe Buffay+Paolo', 'get started', 's01_e12_c06_u009')",
+            "('get start', 'we/Phoebe Buffay+Paolo', None, 's01_e12_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e12_c06_u011_e1",
+          "tuples": [
+            "('be', 'that', 'your decision', 's01_e12_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u011_e2",
+          "tuples": [
+            "('mean', 'I/Phoebe Buffay', None, 's01_e12_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u011_e3",
+          "tuples": [
+            "('prefer', 'some people', 'to take off', 's01_e12_c06_u011')",
+            "('take off', 'some people', None, 's01_e12_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u011_e4",
+          "tuples": [
+            "('know', 'you/Paolo', None, 's01_e12_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c06_u011_e5",
+          "tuples": [
+            "('be', 'you/Paolo', 'naked', 's01_e12_c06_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

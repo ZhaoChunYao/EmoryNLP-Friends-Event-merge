@@ -1,0 +1,43 @@
+event_id: s01_e12_c11_u001_e1
+utterance_id: s01_e12_c11_u001
+  tuple: ('think', 'you/(Ross Geller)', 'what', 's01_e12_c11_u001')
+
+event_id: s01_e12_c11_u002_e1
+utterance_id: s01_e12_c11_u002
+  tuple: ('think', 'I/(Ross Geller)', "it's the most beautiful table I've ever seen", 's01_e12_c11_u002')
+  tuple: ('be', 'it/(the table)', "the most beautiful table I've ever seen", 's01_e12_c11_u002')
+  tuple: ('see', 'I/(Ross Geller)', 'the most beautiful table', 's01_e12_c11_u002')
+
+event_id: s01_e12_c11_u003_e1
+utterance_id: s01_e12_c11_u003
+  tuple: ('know', 'I/(Chandler Bing)', None, 's01_e12_c11_u003')
+
+event_id: s01_e12_c11_u005_e1
+utterance_id: s01_e12_c11_u005
+  tuple: ('work', 'this/(the foosball table)', None, 's01_e12_c11_u005')
+
+event_id: s01_e12_c11_u005_e2
+utterance_id: s01_e12_c11_u005
+  tuple: ('balance', 'you/(Chandler Bing & Joey Tribbiani)', "the plates on these little guys' heads", 's01_e12_c11_u005')
+
+event_id: s01_e12_c11_u006_e1
+utterance_id: s01_e12_c11_u006
+  tuple: ('care', 'who', None, 's01_e12_c11_u006')
+
+event_id: s01_e12_c11_u006_e2
+utterance_id: s01_e12_c11_u006
+  tuple: ('eat', 'we/(Joey Tribbiani & Chandler Bing)', 'at the sink', 's01_e12_c11_u006')
+
+event_id: s01_e12_c11_u006_e3
+utterance_id: s01_e12_c11_u006
+  tuple: ('come', 'you/(Monica Geller & Ross Geller)', None, 's01_e12_c11_u006')
+
+event_id: s01_e12_c11_u006_e4
+utterance_id: s01_e12_c11_u006
+  tuple: ('let', 'we/(Joey Tribbiani & Chandler Bing)', 'play', 's01_e12_c11_u006')
+  tuple: ('play', 'we/(Joey Tribbiani & Chandler Bing)', None, 's01_e12_c11_u006')
+
+event_id: s01_e12_c11_u007_e1
+utterance_id: s01_e12_c11_u007
+  tuple: ('suck', 'you/(Ross Geller)', None, 's01_e12_c11_u007')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the interaction by directing how to view the image, calls on Speaker_03 to share thoughts, and confidently announces “you’re going to be an aunt.”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Disregards Speaker_03’s denials, twice insists she’s tearing up, and publicly blurts the aunt news, prompting Speaker_03 to say “shut up,” indicating insensitivity/inconsideration."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tries to keep the group focused and methodical by telling everyone not to tilt/relax their eyes and structures the discussion by asking Speaker_03 to speak."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of anxiety; behaves assuredly and assertively throughout the exchange."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses playful/novel viewing approaches (tilting to see an ‘old potato’) and insists on a conventional method, indicating low openness to alternative perspectives."
+  }
+}

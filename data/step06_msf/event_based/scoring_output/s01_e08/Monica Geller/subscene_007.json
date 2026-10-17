@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly to identify the person and suggest checking the age; no clear signs of outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helpfully identifies the person in the photo as their grandmother (u007) and cooperatively suggests the group check how old she was (u009)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from a casual suggestion to check the age (u009), there is no clear evidence of organization or task-focused planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, insecurity, or emotional reactivity; tone appears neutral."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by proposing to look into how old the grandmother was in the photo (u009)."
+  }
+}

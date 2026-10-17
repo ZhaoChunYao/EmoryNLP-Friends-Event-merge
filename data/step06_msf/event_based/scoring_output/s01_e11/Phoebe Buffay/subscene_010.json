@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the exchange—questions Speaker_01 about Speaker_02 and directly instructs Speaker_02 to look at himself, then asks how he feels."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for Speaker_02’s well-being by asking how he feels; interacts in a straightforward, non-hostile manner."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Efficiently assesses the situation by giving a clear instruction (look at yourself) and immediately checking symptoms (how do you feel?)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and assertive while giving directions and asking questions; no signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Questions and actions are practical and routine; no clear evidence of imaginative or unconventional thinking."
+  }
+}

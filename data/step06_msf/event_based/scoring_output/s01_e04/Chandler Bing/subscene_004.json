@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Announces a brief time out and provides running commentary; promptly engages another speaker with “Yes, Bunny?”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely and attentively (“Yes, Bunny?”) and coordinates cooperatively with others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes the flow by declaring a brief time out for multiple speakers."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or insecurity; demeanor appears neutral and calm."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity, imagination, or unconventional ideas in the remarks."
+  }
+}

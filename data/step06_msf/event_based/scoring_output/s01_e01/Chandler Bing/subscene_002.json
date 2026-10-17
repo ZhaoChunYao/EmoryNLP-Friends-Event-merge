@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker directly tells another to decide between tuna salad and egg salad and later declares someone should not be wearing those pants, showing assertive, outspoken behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "They issue directives and make a blunt, critical comment about someone’s clothing (“should not be wearing those pants”), suggesting low warmth and tact."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Prompting a decision suggests some preference for order, but there is insufficient behavior showing planning or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or emotional instability are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or creativity; the clothing judgment may be critical but doesn’t clearly reflect openness or closed-mindedness."
+  }
+}

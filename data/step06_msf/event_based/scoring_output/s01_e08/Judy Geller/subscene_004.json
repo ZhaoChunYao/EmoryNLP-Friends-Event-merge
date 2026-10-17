@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, practical statements—chooses a dress and makes a single comment on shoes—without clear signs of being especially outgoing or notably reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Concurs with the partner (“Speaker_01 is right”) and cooperatively commits to a choice (“we’ll go with the burgundy dress”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Quickly selects a dress and evaluates shoe appropriateness (“really a day shoe”), showing planning and attention to detail."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Makes a calm, decisive choice and offers confident feedback on the shoes without signs of anxiety or self-doubt."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Applies conventional fashion norms by classifying the suggested pair as a ‘day shoe’ and sticks with a straightforward choice rather than exploring alternatives."
+  }
+}

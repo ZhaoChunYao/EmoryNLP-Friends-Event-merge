@@ -1,0 +1,40 @@
+event_id: s01_e16_c16_u001_e1
+utterance_id: s01_e16_c16_u001
+  tuple: ('do', 'you/Rachel Green', 'what', 's01_e16_c16_u001')
+
+event_id: s01_e16_c16_u001_e2
+utterance_id: s01_e16_c16_u001
+  tuple: ('freeze', 'it/(outside)', None, 's01_e16_c16_u001')
+
+event_id: s01_e16_c16_u001_e3
+utterance_id: s01_e16_c16_u001
+  tuple: ('come', 'you/Rachel Green', 'inside', 's01_e16_c16_u001')
+
+event_id: s01_e16_c16_u002_e1
+utterance_id: s01_e16_c16_u002
+  tuple: ('want', 'you/Monica Geller', 'me to take them down', 's01_e16_c16_u002')
+
+event_id: s01_e16_c16_u002_e2
+utterance_id: s01_e16_c16_u002
+  tuple: ('take', 'I/Rachel Green', 'them down', 's01_e16_c16_u002')
+
+event_id: s01_e16_c16_u006_e1
+utterance_id: s01_e16_c16_u006
+  tuple: ('be', 'I/Rachel Green', 'okay', 's01_e16_c16_u006')
+
+event_id: s01_e16_c16_u006_e2
+utterance_id: s01_e16_c16_u006
+  tuple: ('help', 'you/Mr. Heckles', 'me/Rachel Green', 's01_e16_c16_u006')
+
+event_id: s01_e16_c16_u007_e1
+utterance_id: s01_e16_c16_u007
+  tuple: ('see', 'you/Rachel Green', None, 's01_e16_c16_u007')
+
+event_id: s01_e16_c16_u007_e2
+utterance_id: s01_e16_c16_u007
+  tuple: ('be', 'this/(situation)', 'just the kind of thing I was talking about', 's01_e16_c16_u007')
+
+event_id: s01_e16_c16_u007_e3
+utterance_id: s01_e16_c16_u007
+  tuple: ('talk', 'I/Mr. Heckles', 'about', 's01_e16_c16_u007')
+

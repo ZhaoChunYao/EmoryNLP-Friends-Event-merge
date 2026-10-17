@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and addresses a group conversation, saying it’s nice when everyone is together and repeatedly gathers everyone to talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Delivers difficult news directly yet gently (“there’s no easy way to say this… I’ve decided to break up with [Speaker_06]”), showing straightforwardness and consideration for the group."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes a formal talk, states the topic clearly, and communicates a firm decision, indicating planning and decisiveness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed while announcing a breakup and responds calmly (“things change, people change”), showing little anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from acknowledging that things and people change, there is no strong behavior showing curiosity or unconventional thinking."
+  }
+}

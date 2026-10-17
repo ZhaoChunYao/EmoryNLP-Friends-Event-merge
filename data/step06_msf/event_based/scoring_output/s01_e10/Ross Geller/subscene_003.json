@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Says living with a roommate at a certain age is 'pathetic' and notes his apartment has been quiet, suggesting a preference for being solitary."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After calling roommates 'pathetic,' he quickly softens it with a humorous reframe ('pathet' is Sanskrit for 'really cool way to live'), showing tact and concern for others' feelings."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Mentions his apartment has been quiet since someone left him, indicating hurt and loneliness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays playful, imaginative wordplay by invoking a faux Sanskrit meaning to reframe his comment."
+  }
+}

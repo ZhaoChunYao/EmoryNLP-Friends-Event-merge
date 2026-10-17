@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She proactively makes a phone call to identify herself and plans to go to a tap class to see who the person is, indicating outgoing, action-oriented behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of kindness or hostility; she states her plans but does not directly argue or cooperate in a way that shows agreeableness or its opposite."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She pursues an impulsive plan to go to tap class to confront someone despite others warning it’s madness and noting she’s losing her composure, suggesting poor self-regulation and planning."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Others say she is losing her composure and becoming obsessed, and she says someone is ‘living her life,’ indicating anxious and emotionally driven behavior."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She shows curiosity and investigative behavior by calling to ask what the classes are and planning to attend tap class to find out who the person is."
+  }
+}

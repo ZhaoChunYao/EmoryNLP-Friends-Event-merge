@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively asks to come to Speaker_01's Thanksgiving dinner, showing sociable, outgoing behavior (u039)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker gives a clear, straightforward explanation about celebrating in December due to the grandmother’s boyfriend following a lunar calendar (u037) and politely asks to join a friend’s dinner (u039)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicates being organized/efficient or sloppy/careless; only a scheduling detail is provided."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity; tone is neutral and matter-of-fact."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker accepts an unconventional plan to celebrate Thanksgiving in December to accommodate a lunar calendar (u037), indicating openness to nontraditional practices."
+  }
+}

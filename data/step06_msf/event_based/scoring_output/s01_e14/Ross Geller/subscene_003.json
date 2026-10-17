@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Opens with a humorous, extended speculation about dogs and jet lag, offering multiple unsolicited statements—talkative and socially engaged."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Avoids straightforwardly labeling his ex-wife and her partner as lovers, insists that’s all there is to know, then later reveals she’s pregnant with his baby—evasive and unreliable."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Says he “always forgets” his ex-wife is pregnant with his baby and withholds that key fact until later—careless and disorganized."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or insecurity; he jokes and speaks matter-of-factly despite the sensitive topic."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays imaginative, curious thinking by asserting dogs experience jet lag and even “lose about a week and a half” when flying across time zones."
+  }
+}

@@ -1,0 +1,93 @@
+event_id: s01_e16_c12_u001_e1
+utterance_id: s01_e16_c12_u001
+  tuple: ('forget', 'Mom and Dad', 'a sound', 's01_e16_c12_u001')
+
+event_id: s01_e16_c12_u001_e2
+utterance_id: s01_e16_c12_u001
+  tuple: ('be', 'this', 'the miracle of birth', 's01_e16_c12_u001')
+
+event_id: s01_e16_c12_u002_e1
+utterance_id: s01_e16_c12_u002
+  tuple: ('be', 'that', 'having a baby', 's01_e16_c12_u002')
+  tuple: ('have', 'that', 'a baby', 's01_e16_c12_u002')
+
+event_id: s01_e16_c12_u002_e2
+utterance_id: s01_e16_c12_u002
+  tuple: ('be', 'Next week', 'our final class', 's01_e16_c12_u002')
+
+event_id: s01_e16_c12_u004_e1
+utterance_id: s01_e16_c12_u004
+  tuple: ('go', 'Susan', None, 's01_e16_c12_u004')
+
+event_id: s01_e16_c12_u006_e1
+utterance_id: s01_e16_c12_u006
+  tuple: ('be', 'This', 'impossible', 's01_e16_c12_u006')
+  tuple: ('be', 'It', 'impossible', 's01_e16_c12_u006')
+
+event_id: s01_e16_c12_u007_e1
+utterance_id: s01_e16_c12_u007
+  tuple: ('be', 'What', None, 's01_e16_c12_u007')
+
+event_id: s01_e16_c12_u008_e1
+utterance_id: s01_e16_c12_u008
+  tuple: ('do', 'that woman', 'what', 's01_e16_c12_u008')
+
+event_id: s01_e16_c12_u008_e2
+utterance_id: s01_e16_c12_u008
+  tuple: ('do', 'I/Carol Willick', 'that', 's01_e16_c12_u008')
+
+event_id: s01_e16_c12_u008_e3
+utterance_id: s01_e16_c12_u008
+  tuple: ('stay', 'it', 'in', 's01_e16_c12_u008')
+
+event_id: s01_e16_c12_u008_e4
+utterance_id: s01_e16_c12_u008
+  tuple: ('be', 'that', 'all', 's01_e16_c12_u008')
+
+event_id: s01_e16_c12_u008_e5
+utterance_id: s01_e16_c12_u008
+  tuple: ('be', 'everything', 'the same', 's01_e16_c12_u008')
+
+event_id: s01_e16_c12_u009_e1
+utterance_id: s01_e16_c12_u009
+  tuple: ('be', 'everything', 'alright', 's01_e16_c12_u009')
+
+event_id: s01_e16_c12_u010_e1
+utterance_id: s01_e16_c12_u010
+  tuple: ('know', 'you/Ross Geller', 'what', 's01_e16_c12_u010')
+
+event_id: s01_e16_c12_u010_e2
+utterance_id: s01_e16_c12_u010
+  tuple: ('go', 'no one', 'up to you', 's01_e16_c12_u010')
+  tuple: ('say', 'no one', None, 's01_e16_c12_u010')
+  tuple: ('be', 'that', 'your nostril', 's01_e16_c12_u010')
+  tuple: ('mind', 'you/Ross Geller', 'if we push this pot roast through it', 's01_e16_c12_u010')
+  tuple: ('push', 'we', 'this pot roast', 's01_e16_c12_u010')
+  tuple: ('push', 'we', 'through it', 's01_e16_c12_u010')
+
+event_id: s01_e16_c12_u013_e1
+utterance_id: s01_e16_c12_u013
+  tuple: ('know', 'I/Susan Bunch', 'it is frightening', 's01_e16_c12_u013')
+  tuple: ('be', 'it', 'frightening', 's01_e16_c12_u013')
+
+event_id: s01_e16_c12_u013_e2
+utterance_id: s01_e16_c12_u013
+  tuple: ('be', 'The birth part', 'just one day', 's01_e16_c12_u013')
+
+event_id: s01_e16_c12_u013_e3
+utterance_id: s01_e16_c12_u013
+  tuple: ('be', 'it', 'over', 's01_e16_c12_u013')
+
+event_id: s01_e16_c12_u013_e4
+utterance_id: s01_e16_c12_u013
+  tuple: ('be', 'we/Susan Bunch+Ross Geller+Carol Willick', 'parents for the rest of our lives', 's01_e16_c12_u013')
+  tuple: ('be', 'we/Susan Bunch+Ross Geller+Carol Willick', 'parents', 's01_e16_c12_u013')
+  tuple: ('be', 'we/Susan Bunch+Ross Geller+Carol Willick', 'for the rest of our lives', 's01_e16_c12_u013')
+
+event_id: s01_e16_c12_u015_e1
+utterance_id: s01_e16_c12_u015
+  tuple: ('mean', 'I/Susan Bunch', 'that is what this is all about', 's01_e16_c12_u015')
+  tuple: ('be', 'that', 'what', 's01_e16_c12_u015')
+  tuple: ('be', 'this', None, 's01_e16_c12_u015')
+  tuple: ('be', 'this', 'about what', 's01_e16_c12_u015')
+

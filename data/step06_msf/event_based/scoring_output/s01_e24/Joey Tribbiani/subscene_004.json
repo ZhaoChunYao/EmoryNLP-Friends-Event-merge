@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a brief friendly greeting ('Hey!') but no sustained outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Neutral and polite; no signs of either generosity/cooperation or conflict/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Asks a brief clarification ('The country?'), but there’s not enough to show organized or diligent behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety, sensitivity, or insecurity; tone appears neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The clarification question does not clearly indicate curiosity or inventiveness beyond basic understanding."
+  }
+}

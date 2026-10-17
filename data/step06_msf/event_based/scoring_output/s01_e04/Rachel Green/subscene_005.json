@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker has minimal speech (“Okay.”) and a brief directive to ask what the caller wants; no clear sign of being outgoing or withdrawn (u004, u008)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Tone is neutral and practical; no evidence of warmth/generosity or hostility/unreliability (u004, u008)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Suggesting to ask what the Visa card people want is practical but not enough to show organized or efficient behavior (u008)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "On hearing the caller is the Visa card people, TargetSpeaker responds calmly and pragmatically (“ask them what they want,” noting they want something from her), showing composure rather than anxiety (u008)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or caution/dogmatism beyond a standard practical response (u008)."
+  }
+}

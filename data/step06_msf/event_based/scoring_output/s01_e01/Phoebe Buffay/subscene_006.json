@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only reacts briefly and echoes another’s words; there’s no clear sign of being outgoing or especially talkative."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They neither cooperate nor act hostile; they simply express disbelief and ask a self-focused question."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization or reliability; asking about repeating others’ words doesn’t show planning or efficiency."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They say they are hearing comments they cannot believe and then anxiously ask if they were repeating others’ words again, suggesting sensitivity and self-consciousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or dogmatism appear in the brief exchanges."
+  }
+}

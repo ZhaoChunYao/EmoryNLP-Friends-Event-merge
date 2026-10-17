@@ -1,0 +1,369 @@
+('guess', 'I/(Monica Geller)', 'that he bought her the big pipe organ', 's01_e01_c02_u001')
+[s01_e01_c02_u001] Monica Geller: Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
+
+('buy', 'he/(unknown)', 'the big pipe organ', 's01_e01_c02_u001')
+[s01_e01_c02_u001] Monica Geller: Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
+
+('be', 'she/(unknown)', 'not happy about it', 's01_e01_c02_u001')
+[s01_e01_c02_u001] Monica Geller: Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
+
+('decide', 'you/(Monica Geller)', None, 's01_e01_c02_u002')
+[s01_e01_c02_u002] Chandler Bing: Tuna or egg salad? Decide!
+
+('have', 'I/(Ross Geller)', 'whatever Christine is having', 's01_e01_c02_u003')
+[s01_e01_c02_u003] Ross Geller: I'll have whatever Christine is having.
+
+('have', 'Christine', 'whatever', 's01_e01_c02_u003')
+[s01_e01_c02_u003] Ross Geller: I'll have whatever Christine is having.
+
+('marry', 'I/(Rachel Green)', 'him/(Barry Farber)', 's01_e01_c02_u004')
+[s01_e01_c02_u004] Rachel Green: Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!
+
+('be', 'I/(Rachel Green)', 'sorry', 's01_e01_c02_u004')
+[s01_e01_c02_u004] Rachel Green: Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!
+
+('love', 'I/(Rachel Green)', 'him/(Barry Farber)', 's01_e01_c02_u004')
+[s01_e01_c02_u004] Rachel Green: Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!
+
+('matter', 'it/(the marriage decision)', 'to me/(Rachel Green)', 's01_e01_c02_u004')
+[s01_e01_c02_u004] Rachel Green: Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!
+
+('let', 'I/(Phoebe Buffay)', 'go of my hair', 's01_e01_c02_u006')
+[s01_e01_c02_u006] Phoebe Buffay: If I let go of my hair, my head will fall off.
+
+('fall', 'my head', 'off', 's01_e01_c02_u006')
+[s01_e01_c02_u006] Phoebe Buffay: If I let go of my hair, my head will fall off.
+
+('wear', 'she/(unknown)', 'those pants', 's01_e01_c02_u007')
+[s01_e01_c02_u007] Chandler Bing: Ooh, she should not be wearing those pants.
+
+('say', 'I/(Joey Tribbiani)', 'push her down the stairs', 's01_e01_c02_u008')
+[s01_e01_c02_u008] Joey Tribbiani: I say push her down the stairs.
+
+('push', 'I/(Joey Tribbiani)', 'down the stairs', 's01_e01_c02_u008')
+[s01_e01_c02_u008] Joey Tribbiani: I say push her down the stairs.
+
+('push', 'Chandler Bing, Joey Tribbiani, Phoebe Buffay, Ross Geller', 'down the stairs', 's01_e01_c02_u009')
+[s01_e01_c02_u009] Chandler Bing, Joey Tribbiani, Phoebe Buffay, Ross Geller: Push her down the stairs! Push her down the stairs! Push her down the stairs!
+
+('listen', 'you/(Dr. Leonard Green)', 'to me/(Rachel Green)', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', 'it/(the situation)', 'like', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('tell', 'everyone', 'me/(Rachel Green)', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', 'you/(Rachel Green)', 'a shoe', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('stop', 'I/(Rachel Green)', None, 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('say', 'I/(Rachel Green)', '‘What if I don’t wanna be a shoe? What if I wanna be a purse or a hat?’', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('want', 'I/(Rachel Green)', 'to be a shoe', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', 'I/(Rachel Green)', 'a shoe', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('want', 'I/(Rachel Green)', 'to be a purse', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', 'I/(Rachel Green)', 'a purse', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('say', 'I/(Rachel Green)', 'I want you to buy me a hat', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('want', 'I/(Rachel Green)', 'you/(Dr. Leonard Green) to buy me a hat', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('buy', 'you/(Dr. Leonard Green)', 'a hat', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('say', 'I/(Rachel Green)', 'I am a ha-', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', 'I/(Rachel Green)', 'a ha-', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('be', "it/(what I'm saying)", 'a metaphor', 's01_e01_c02_u011')
+[s01_e01_c02_u011] Rachel Green: C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!
+
+('see', 'you/(Rachel Green)', 'where he’d have trouble', 's01_e01_c02_u012')
+[s01_e01_c02_u012] Ross Geller: You can see where he'd have trouble.
+
+('have', 'he/(Dr. Leonard Green)', 'trouble', 's01_e01_c02_u012')
+[s01_e01_c02_u012] Ross Geller: You can see where he'd have trouble.
+
+('look', 'you/(Dr. Leonard Green)', None, 's01_e01_c02_u013')
+[s01_e01_c02_u013] Rachel Green: Look Daddy, it's my life. Well maybe I'll just stay here with Monica.
+
+('be', 'it/(this)', 'my life', 's01_e01_c02_u013')
+[s01_e01_c02_u013] Rachel Green: Look Daddy, it's my life. Well maybe I'll just stay here with Monica.
+
+('stay', 'I/(Rachel Green)', 'with Monica', 's01_e01_c02_u013')
+[s01_e01_c02_u013] Rachel Green: Look Daddy, it's my life. Well maybe I'll just stay here with Monica.
+
+('guess', 'I/(Monica Geller)', 'we’ve established who’s staying here with Monica', 's01_e01_c02_u014')
+[s01_e01_c02_u014] Monica Geller: Well, I guess we've established who's staying here with Monica...
+
+('establish', 'we/(Monica Geller and Rachel Green)', 'who’s staying here with Monica', 's01_e01_c02_u014')
+[s01_e01_c02_u014] Monica Geller: Well, I guess we've established who's staying here with Monica...
+
+('stay', 'who/(Rachel Green)', 'with Monica', 's01_e01_c02_u014')
+[s01_e01_c02_u014] Monica Geller: Well, I guess we've established who's staying here with Monica...
+
+('be', 'that/(the decision)', 'my decision', 's01_e01_c02_u015')
+[s01_e01_c02_u015] Rachel Green: Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!
+
+('need', 'I/(Rachel Green)', 'your money', 's01_e01_c02_u015')
+[s01_e01_c02_u015] Rachel Green: Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!
+
+('wait', 'you/(Dr. Leonard Green)', None, 's01_e01_c02_u015')
+[s01_e01_c02_u015] Rachel Green: Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!
+
+('say', 'I/(Rachel Green)', 'maybe', 's01_e01_c02_u015')
+[s01_e01_c02_u015] Rachel Green: Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!
+
+('breathe', 'you/(Rachel Green)', None, 's01_e01_c02_u017')
+[s01_e01_c02_u017] Monica Geller: Just breathe, breathe.. that's it. Just try to think of nice calm things...
+
+('be', 'that/(breathing)', 'it', 's01_e01_c02_u017')
+[s01_e01_c02_u017] Monica Geller: Just breathe, breathe.. that's it. Just try to think of nice calm things...
+
+('try', 'you/(Rachel Green)', 'to think of nice calm things', 's01_e01_c02_u017')
+[s01_e01_c02_u017] Monica Geller: Just breathe, breathe.. that's it. Just try to think of nice calm things...
+
+('think', 'you/(Rachel Green)', 'of nice calm things', 's01_e01_c02_u017')
+[s01_e01_c02_u017] Monica Geller: Just breathe, breathe.. that's it. Just try to think of nice calm things...
+
+('be', 'these/(things Phoebe is listing)', 'a few', 's01_e01_c02_u018')
+[s01_e01_c02_u018] Phoebe Buffay: Raindrops on roses and rabbits and kittens, bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string. These are a few...
+
+('be', 'I/(Rachel Green)', 'all better now', 's01_e01_c02_u019')
+[s01_e01_c02_u019] Rachel Green: I'm all better now.
+
+('help', 'I/(Phoebe Buffay)', None, 's01_e01_c02_u020')
+[s01_e01_c02_u020] Phoebe Buffay: I helped!
+
+('look', 'you/(Rachel Green)', None, 's01_e01_c02_u021')
+[s01_e01_c02_u021] Monica Geller: Okay, look, this is probably for the best, y'know? Independence. Taking control of your life. The whole, 'hat' thing.
+
+('be', 'this/(situation)', 'probably for the best', 's01_e01_c02_u021')
+[s01_e01_c02_u021] Monica Geller: Okay, look, this is probably for the best, y'know? Independence. Taking control of your life. The whole, 'hat' thing.
+
+('need', 'you/(Rachel Green)', 'anything', 's01_e01_c02_u022')
+[s01_e01_c02_u022] Joey Tribbiani: And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.
+
+('come', 'you/(Rachel Green)', 'to Joey', 's01_e01_c02_u022')
+[s01_e01_c02_u022] Joey Tribbiani: And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.
+
+('live', 'Joey Tribbiani and Chandler Bing', 'across the hall', 's01_e01_c02_u022')
+[s01_e01_c02_u022] Joey Tribbiani: And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.
+
+('be', 'he/(Chandler Bing)', 'away', 's01_e01_c02_u022')
+[s01_e01_c02_u022] Joey Tribbiani: And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.
+
+('stop', 'Joey Tribbiani', 'hitting on her', 's01_e01_c02_u023')
+[s01_e01_c02_u023] Monica Geller: Joey, stop hitting on her! It's her wedding day!
+
+('hit', 'you/(Joey Tribbiani)', 'on her', 's01_e01_c02_u023')
+[s01_e01_c02_u023] Monica Geller: Joey, stop hitting on her! It's her wedding day!
+
+('be', 'it/(today)', 'her wedding day', 's01_e01_c02_u023')
+[s01_e01_c02_u023] Monica Geller: Joey, stop hitting on her! It's her wedding day!
+
+('be', 'there/(existential)', 'a rule or something', 's01_e01_c02_u024')
+[s01_e01_c02_u024] Joey Tribbiani: What, like there's a rule or something?
+
+('do', 'you/(unknown)', 'that', 's01_e01_c02_u026')
+[s01_e01_c02_u026] Chandler Bing: Please don't do that again, it's a horrible sound.
+
+('be', 'it/(the sound)', 'a horrible sound', 's01_e01_c02_u026')
+[s01_e01_c02_u026] Chandler Bing: Please don't do that again, it's a horrible sound.
+
+('be', 'it/(name)', 'Paul', 's01_e01_c02_u027')
+[s01_e01_c02_u027] Paul the Wine Guy: It's, uh, it's Paul.
+
+('be', 'it/(time)', '6:30', 's01_e01_c02_u028')
+[s01_e01_c02_u028] Monica Geller: Oh God, is it 6:30? Buzz him in!
+
+('buzz', 'you/(unknown)', 'in him', 's01_e01_c02_u028')
+[s01_e01_c02_u028] Monica Geller: Oh God, is it 6:30? Buzz him in!
+
+('be', 'who/(unknown person identity)', 'Paul', 's01_e01_c02_u029')
+[s01_e01_c02_u029] Joey Tribbiani: Who's Paul?
+
+('be', "your 'not a real date' tonight", 'Paul the Wine Guy', 's01_e01_c02_u031')
+[s01_e01_c02_u031] Monica Geller: Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
+
+('ask', 'he/(Paul the Wine Guy)', 'out you/(Monica Geller)', 's01_e01_c02_u032')
+[s01_e01_c02_u032] Ross Geller: He finally asked you out?
+
+('be', 'this/(moment)', 'a Dear Diary moment', 's01_e01_c02_u034')
+[s01_e01_c02_u034] Chandler Bing: Ooh, this is a Dear Diary moment.
+
+('wait', 'you/(Rachel Green)', None, 's01_e01_c02_u035')
+[s01_e01_c02_u035] Monica Geller: Rach, wait, I can cancel...
+
+('cancel', 'I/(Monica Geller)', None, 's01_e01_c02_u035')
+[s01_e01_c02_u035] Monica Geller: Rach, wait, I can cancel...
+
+('go', 'you/(Monica Geller)', None, 's01_e01_c02_u036')
+[s01_e01_c02_u036] Rachel Green: Please, no, go, that'd be fine!
+
+('be', 'that/(the plan)', 'fine', 's01_e01_c02_u036')
+[s01_e01_c02_u036] Rachel Green: Please, no, go, that'd be fine!
+
+('be', 'you/(Rachel Green)', 'okay', 's01_e01_c02_u037')
+[s01_e01_c02_u037] Monica Geller: Are, are you okay? I mean, do you want me to stay?
+
+('want', 'you/(Rachel Green)', 'me/(Monica Geller) to stay', 's01_e01_c02_u037')
+[s01_e01_c02_u037] Monica Geller: Are, are you okay? I mean, do you want me to stay?
+
+('stay', 'me/(Monica Geller)', None, 's01_e01_c02_u037')
+[s01_e01_c02_u037] Monica Geller: Are, are you okay? I mean, do you want me to stay?
+
+('be', 'that/(that idea)', 'good', 's01_e01_c02_u038')
+[s01_e01_c02_u038] Ross Geller: That'd be good...
+
+('go', 'you/(Monica Geller)', 'on', 's01_e01_c02_u040')
+[s01_e01_c02_u040] Ross Geller: No, go on! It's Paul the Wine Guy!
+
+('be', 'it/(Paul the Wine Guy)', 'Paul the Wine Guy', 's01_e01_c02_u040')
+[s01_e01_c02_u040] Ross Geller: No, go on! It's Paul the Wine Guy!
+
+('mean', 'that/(that phrase)', None, 's01_e01_c02_u041')
+[s01_e01_c02_u041] Phoebe Buffay: What does that mean? Does he sell it, drink it, or just complain a lot?
+
+('sell', 'he/(Paul the Wine Guy)', 'it/(wine)', 's01_e01_c02_u041')
+[s01_e01_c02_u041] Phoebe Buffay: What does that mean? Does he sell it, drink it, or just complain a lot?
+
+('drink', 'he/(Paul the Wine Guy)', 'it/(wine)', 's01_e01_c02_u041')
+[s01_e01_c02_u041] Phoebe Buffay: What does that mean? Does he sell it, drink it, or just complain a lot?
+
+('complain', 'he/(Paul the Wine Guy)', None, 's01_e01_c02_u041')
+[s01_e01_c02_u041] Phoebe Buffay: What does that mean? Does he sell it, drink it, or just complain a lot?
+
+('come', 'you/(Paul the Wine Guy)', 'in', 's01_e01_c02_u043')
+[s01_e01_c02_u043] Monica Geller: Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul.
+
+('be', 'this/(Paul)', 'everybody', 's01_e01_c02_u043')
+[s01_e01_c02_u043] Monica Geller: Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul.
+
+('be', 'this/(everybody)', 'Paul', 's01_e01_c02_u043')
+[s01_e01_c02_u043] Monica Geller: Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul.
+
+('be', 'I/(Chandler Bing)', 'sorry', 's01_e01_c02_u045')
+[s01_e01_c02_u045] Chandler Bing: I'm sorry, I didn't catch your name. Paul, was it?
+
+('catch', 'I/(Chandler Bing)', 'your name', 's01_e01_c02_u045')
+[s01_e01_c02_u045] Chandler Bing: I'm sorry, I didn't catch your name. Paul, was it?
+
+('be', 'it/(your name)', 'Paul', 's01_e01_c02_u045')
+[s01_e01_c02_u045] Chandler Bing: I'm sorry, I didn't catch your name. Paul, was it?
+
+('be', 'I/(Monica Geller)', 'right back', 's01_e01_c02_u046')
+[s01_e01_c02_u046] Monica Geller: Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah...
+
+('go', 'I/(Monica Geller)', None, 's01_e01_c02_u046')
+[s01_e01_c02_u046] Monica Geller: Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah...
+
+('change', 'you/(Monica Geller)', None, 's01_e01_c02_u048')
+[s01_e01_c02_u048] Monica Geller: Change! Okay, sit down. Two seconds.
+
+('sit', 'you/(Paul the Wine Guy)', None, 's01_e01_c02_u048')
+[s01_e01_c02_u048] Monica Geller: Change! Okay, sit down. Two seconds.
+
+('pull', 'I/(Phoebe Buffay)', 'out four eyelashes', 's01_e01_c02_u049')
+[s01_e01_c02_u049] Phoebe Buffay: Ooh, I just pulled out four eyelashes. That can't be good.
+
+('be', 'that/(pulling eyelashes)', 'good', 's01_e01_c02_u049')
+[s01_e01_c02_u049] Phoebe Buffay: Ooh, I just pulled out four eyelashes. That can't be good.
+
+('like', 'she/(Monica Geller)', 'it', 's01_e01_c02_u053')
+[s01_e01_c02_u053] Joey Tribbiani: Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.
+
+('rub', 'you/(Paul the Wine Guy)', 'her neck', 's01_e01_c02_u053')
+[s01_e01_c02_u053] Joey Tribbiani: Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.
+
+('rub', 'you/(Paul the Wine Guy)', 'in the same spot', 's01_e01_c02_u053')
+[s01_e01_c02_u053] Joey Tribbiani: Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.
+
+('start', 'it/(her neck)', 'to get a little red', 's01_e01_c02_u053')
+[s01_e01_c02_u053] Joey Tribbiani: Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.
+
+('get', 'it/(her neck)', 'a little red', 's01_e01_c02_u053')
+[s01_e01_c02_u053] Joey Tribbiani: Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red.
+
+('shut up', 'you/(Joey Tribbiani)', None, 's01_e01_c02_u054')
+[s01_e01_c02_u054] Monica Geller: Shut up, Joey!
+
+('be', 'you/(Rachel Green)', 'up to tonight', 's01_e01_c02_u055')
+[s01_e01_c02_u055] Ross Geller: So Rachel, what're you, uh... what're you up to tonight?
+
+('suppose', 'I/(Rachel Green)', 'to be headed for Aruba on my honeymoon', 's01_e01_c02_u056')
+[s01_e01_c02_u056] Rachel Green: Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!
+
+('head', 'I/(Rachel Green)', 'for Aruba', 's01_e01_c02_u056')
+[s01_e01_c02_u056] Rachel Green: Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!
+
+('head', 'I/(Rachel Green)', 'on my honeymoon', 's01_e01_c02_u056')
+[s01_e01_c02_u056] Rachel Green: Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!
+
+('get', 'you/(Rachel Green)', 'your honeymoon', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('talk', 'you/(generic)', 'about your big lizards', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('feel', 'you/(Rachel Green)', 'like being alone tonight', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('be', 'you/(Rachel Green)', 'alone tonight', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('come', 'Joey and Chandler', 'over', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('help', 'Joey and Chandler', 'me/(Ross Geller)', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('put together', 'me/(Ross Geller)', 'my new furniture', 's01_e01_c02_u057')
+[s01_e01_c02_u057] Ross Geller: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+
+('be', 'we/(Chandler Bing and Joey Tribbiani)', 'very excited', 's01_e01_c02_u058')
+[s01_e01_c02_u058] Chandler Bing: Yes, and we're very excited about it.
+
+('be', 'we/(Chandler Bing and Joey Tribbiani)', 'excited about it', 's01_e01_c02_u058')
+[s01_e01_c02_u058] Chandler Bing: Yes, and we're very excited about it.
+
+('think', 'I/(Rachel Green)', 'I am just gonna hang out here tonight', 's01_e01_c02_u059')
+[s01_e01_c02_u059] Rachel Green: Well actually thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day.
+
+('hang', 'I/(Rachel Green)', None, 's01_e01_c02_u059')
+[s01_e01_c02_u059] Rachel Green: Well actually thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day.
+
+('be', 'it/(day)', 'kinda a long day', 's01_e01_c02_u059')
+[s01_e01_c02_u059] Rachel Green: Well actually thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day.
+
+('want', 'you/(Phoebe Buffay)', 'to help', 's01_e01_c02_u061')
+[s01_e01_c02_u061] Joey Tribbiani: Hey Pheebs, you wanna help?
+
+('help', 'you/(Phoebe Buffay)', None, 's01_e01_c02_u061')
+[s01_e01_c02_u061] Joey Tribbiani: Hey Pheebs, you wanna help?
+
+('wish', 'I/(Phoebe Buffay)', 'I could', 's01_e01_c02_u062')
+[s01_e01_c02_u062] Phoebe Buffay: Oh, I wish I could, but I don't want to.
+
+('can', 'I/(Phoebe Buffay)', None, 's01_e01_c02_u062')
+[s01_e01_c02_u062] Phoebe Buffay: Oh, I wish I could, but I don't want to.
+
+('want', 'I/(Phoebe Buffay)', 'to', 's01_e01_c02_u062')
+[s01_e01_c02_u062] Phoebe Buffay: Oh, I wish I could, but I don't want to.
+

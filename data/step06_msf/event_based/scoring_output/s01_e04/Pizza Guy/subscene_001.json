@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks only to confirm the order, explain the mix‑up, and ask a practical question; no clear signs of outgoing or especially talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely engages, asks them to wait, admits the delivery mix‑up, and offers to take the incorrect pizza back."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Carelessly delivered the pizzas to the wrong places and only afterward tried to fix it, indicating disorganization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows anxiety about the mistake, saying his father is going to kill him and sounding flustered."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Sticks to factual details about the delivery; no signs of curiosity, creativity, or openness to new ideas."
+  }
+}

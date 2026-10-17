@@ -1,0 +1,74 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c21_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c21_u001_e1",
+          "tuples": [
+            "('be', 'this', 'fun', 's01_e07_c21_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c21_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c21_u002_e1",
+          "tuples": [
+            "('let', 'you/Jill Goodacre', 'me use your phone', 's01_e07_c21_u002')",
+            "('use', 'me/Chandler Bing', 'your phone', 's01_e07_c21_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c21_u002_e2",
+          "tuples": [
+            "('save', 'you/Jill Goodacre', 'my life', 's01_e07_c21_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c21_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c21_u003_e1",
+          "tuples": [
+            "('have', 'I/Jill Goodacre', 'a great blackout', 's01_e07_c21_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c21_u003_e2",
+          "tuples": [
+            "('see', 'I/Jill Goodacre', 'you', 's01_e07_c21_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c21_u005",
+      "events": [
+        {
+          "event_id": "s01_e07_c21_u005_e1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'account number 7143457', 's01_e07_c21_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c21_u005_e2",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'if you got any of that', 's01_e07_c21_u005')",
+            "('get', 'you/(bank)', 'any of that', 's01_e07_c21_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c21_u005_e3",
+          "tuples": [
+            "('like', 'I/Chandler Bing', 'a copy of the tape', 's01_e07_c21_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

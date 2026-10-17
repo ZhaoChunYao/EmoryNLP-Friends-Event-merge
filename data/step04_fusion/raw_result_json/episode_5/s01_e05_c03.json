@@ -1,0 +1,203 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c03_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('tell', 'I/(Joey Tribbiani)', 'you', 's01_e05_c03_u001')",
+            "('tell', 'I/(Joey Tribbiani)', 'this guy is perfect for you', 's01_e05_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'this guy', 'perfect', 's01_e05_c03_u001')",
+            "('be perfect', 'this guy', 'for you', 's01_e05_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('forget', 'you/(Joey Tribbiani)', 'it', 's01_e05_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('belch', 'your cousin', 'the alphabet', 's01_e05_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('come on', 'you/(Monica Geller)', None, 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'this guy', 'great', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'his name', 'Bob', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'he/(Bob)', \"Angela's brother\", 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('be', 'he/(Bob)', 'smart', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('be', 'he/(Bob)', 'sophisticated', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('have', 'he/(Bob)', 'a real job', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_8",
+          "tuples": [
+            "('go on', 'I/(Joey Tribbiani)', 'three auditions', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_9",
+          "tuples": [
+            "('call', 'I/(Joey Tribbiani)', 'myself an actor', 's01_e05_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event_10",
+          "tuples": [
+            "('be', 'Bob', None, 's01_e05_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('help', 'god', 'us', 's01_e05_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('lay', 'Ugly Naked Guy', 'kitchen tile', 's01_e05_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(Monica Geller)', None, 's01_e05_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('ask', 'I/(Joey Tribbiani)', 'a favor', 's01_e05_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('do', 'I/(Joey Tribbiani)', 'this', 's01_e05_c03_u007')",
+            "('do', 'I/(Joey Tribbiani)', 'for her brother', 's01_e05_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('come back', 'Angela', 'to me', 's01_e05_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go on', 'what', 'here', 's01_e05_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go out', 'you/(Monica Geller)', 'with tons of girls', 's01_e05_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c03_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/(Joey Tribbiani)', None, 's01_e05_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('make', 'I/(Joey Tribbiani)', 'a huge mistake', 's01_e05_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('break up', 'I/(Joey Tribbiani)', 'with her', 's01_e05_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('help', 'you/(Monica Geller)', 'me', 's01_e05_c03_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

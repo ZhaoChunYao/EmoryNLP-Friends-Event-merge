@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages in friendly, bold small talk and flirtation (“I’ve heard that cute doctors have trouble getting women to go out with them”) and self-discloses (“I’m a waitress”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds directly and politely (“I’m not currently involved with anyone”; “I understand your point”; agrees with plan: “That’s fine”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or diligence beyond normal conversation."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and composed, shows no anxiety, and is confident enough to make a playful compliment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No explicit signs of curiosity or unconventional thinking; comments are polite and practical."
+  }
+}

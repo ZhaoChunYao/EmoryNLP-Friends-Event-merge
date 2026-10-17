@@ -1,0 +1,243 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c08_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'you/Ursula', 'a minute', 's01_e17_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('work', 'I/Ursula', None, 's01_e17_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u010",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'I/Phoebe', 'a birthday present', 's01_e17_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u012",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('remember', 'you/Phoebe', None, 's01_e17_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'it/thermos', 'a Judy Jetson thermos', 's01_e17_c08_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u015",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'I/Ursula', 'something', 's01_e17_c08_u015')",
+            "('get', 'I/Ursula', 'for you', 's01_e17_c08_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u017",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you/Ursula', 'I was coming', 's01_e17_c08_u017')",
+            "('come', 'I/Phoebe', None, 's01_e17_c08_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u020",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('believe', 'I/Phoebe', 'you did this', 's01_e17_c08_u020')",
+            "('do', 'you/Ursula', 'this', 's01_e17_c08_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u024",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'what', 'the deal with you and Joey', 's01_e17_c08_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u025",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'he/Joey', 'so great', 's01_e17_c08_u025')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'that/relationship with Joey', 'over', 's01_e17_c08_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u027",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'he/Joey', None, 's01_e17_c08_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u029",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you/Ursula', None, 's01_e17_c08_u029')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'he/Joey', 'really nutsy', 's01_e17_c08_u029')",
+            "('be', 'he/Joey', 'about you', 's01_e17_c08_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u030",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'he/Joey', None, 's01_e17_c08_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u031",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'you/Ursula', 'me', 's01_e17_c08_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u034",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('excuse', 'you/(waiter)', 'me', 's01_e17_c08_u034')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('come', 'this/dish', 'with a side salad', 's01_e17_c08_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u036",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('call', 'you/Ursula', 'him', 's01_e17_c08_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u037",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/Phoebe', 'he likes me', 's01_e17_c08_u037')",
+            "('like', 'he/Joey', 'me', 's01_e17_c08_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u039",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'he/Joey', 'so smart', 's01_e17_c08_u039')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('figure', 'he/Joey', 'out it', 's01_e17_c08_u039')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('want', 'you/Phoebe', 'some chicken', 's01_e17_c08_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c08_u041",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('change', 'you/Phoebe', None, 's01_e17_c08_u041')"
+          ]
+        }
+      ]
+    }
+  ]
+}

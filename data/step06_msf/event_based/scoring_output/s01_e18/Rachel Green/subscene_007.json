@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively shares exciting personal news with the group and delivers it dramatically (\"I got an interview... Saks... Fifth... Avenue\"), showing energetic, outgoing engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker disagrees with Speaker_01’s claim about not being as bad as Speaker_03, but does so briefly and without hostility; no clear signs of either generosity/trustworthiness or unreliability/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mentioning an interview indicates initiative, but there is no concrete behavior showing organization/efficiency or sloppiness/carelessness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She presents the interview news with confidence and pride, showing no nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity/creativity or of dogmatism/caution is expressed in this brief dialogue."
+  }
+}

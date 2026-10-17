@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "He simply reports the invitation to the sonogram and his uncertainty; no clear sign of being outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is candid about the situation and his feelings and acknowledges responsibility: he explains the invite and says he will still be a father."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He explicitly says he has no idea what to do or what action he will take, showing lack of planning/organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Statements like “I have no idea what to do” and concern about still being a father indicate anxiety and emotional sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear exploration of new ideas or rigidity; he only expresses uncertainty about what to do."
+  }
+}

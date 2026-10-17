@@ -1,0 +1,895 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e11,s01_e11_c01,Monica Geller,0,0,3,0,4,3,s01_e11_c01_u001,s01_e11_c01_u011,"[s01_e11_c01_u001] Phoebe Buffay: Do you think they have yesterday's daily news?
+[s01_e11_c01_u002] Monica Geller: Why?
+[s01_e11_c01_u003] Phoebe Buffay: Just wanna check my horoscope, see if it was right.
+[s01_e11_c01_u004] Monica Geller: Oh my God. Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
+[s01_e11_c01_u005] Phoebe Buffay: Where? Ooh, come to Momma.
+[s01_e11_c01_u006] Monica Geller: He's coming. Be cool, be cool, be cool.
+[s01_e11_c01_u007] Unknown Speaker: 
+[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks.
+[s01_e11_c01_u010] Unknown Speaker: 
+[s01_e11_c01_u011] Phoebe Buffay: We should do something. Whistle."
+s01_e11,s01_e11_c01,Monica Geller,1,5,5,4,6,2,s01_e11_c01_u005,s01_e11_c01_u013,"[s01_e11_c01_u005] Phoebe Buffay: Where? Ooh, come to Momma.
+[s01_e11_c01_u006] Monica Geller: He's coming. Be cool, be cool, be cool.
+[s01_e11_c01_u007] Unknown Speaker: 
+[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks.
+[s01_e11_c01_u010] Unknown Speaker: 
+[s01_e11_c01_u011] Phoebe Buffay: We should do something. Whistle.
+[s01_e11_c01_u012] Monica Geller: We are not going to whistle.
+[s01_e11_c01_u013] Phoebe Buffay: Come on, do it."
+s01_e11,s01_e11_c01,Monica Geller,2,7,12,6,12,3,s01_e11_c01_u008,s01_e11_c01_u020,"[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks.
+[s01_e11_c01_u010] Unknown Speaker: 
+[s01_e11_c01_u011] Phoebe Buffay: We should do something. Whistle.
+[s01_e11_c01_u012] Monica Geller: We are not going to whistle.
+[s01_e11_c01_u013] Phoebe Buffay: Come on, do it.
+[s01_e11_c01_u014] Monica Geller: No!
+[s01_e11_c01_u015] Phoebe Buffay: Do it!
+[s01_e11_c01_u016] Monica Geller: No!
+[s01_e11_c01_u017] Phoebe Buffay: Do it do it do it!
+[s01_e11_c01_u018] Monica Geller: Woo-woo!
+[s01_e11_c01_u019] Unknown Speaker: 
+[s01_e11_c01_u020] Phoebe Buffay: I can't believe you did that!"
+s01_e11,s01_e11_c01,Phoebe Buffay,0,0,2,0,3,3,s01_e11_c01_u001,s01_e11_c01_u009,"[s01_e11_c01_u001] Phoebe Buffay: Do you think they have yesterday's daily news?
+[s01_e11_c01_u002] Monica Geller: Why?
+[s01_e11_c01_u003] Phoebe Buffay: Just wanna check my horoscope, see if it was right.
+[s01_e11_c01_u004] Monica Geller: Oh my God. Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
+[s01_e11_c01_u005] Phoebe Buffay: Where? Ooh, come to Momma.
+[s01_e11_c01_u006] Monica Geller: He's coming. Be cool, be cool, be cool.
+[s01_e11_c01_u007] Unknown Speaker: 
+[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks."
+s01_e11,s01_e11_c01,Phoebe Buffay,1,4,4,3,5,2,s01_e11_c01_u004,s01_e11_c01_u012,"[s01_e11_c01_u004] Monica Geller: Oh my God. Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
+[s01_e11_c01_u005] Phoebe Buffay: Where? Ooh, come to Momma.
+[s01_e11_c01_u006] Monica Geller: He's coming. Be cool, be cool, be cool.
+[s01_e11_c01_u007] Unknown Speaker: 
+[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks.
+[s01_e11_c01_u010] Unknown Speaker: 
+[s01_e11_c01_u011] Phoebe Buffay: We should do something. Whistle.
+[s01_e11_c01_u012] Monica Geller: We are not going to whistle."
+s01_e11,s01_e11_c01,Phoebe Buffay,2,6,12,5,12,3,s01_e11_c01_u006,s01_e11_c01_u020,"[s01_e11_c01_u006] Monica Geller: He's coming. Be cool, be cool, be cool.
+[s01_e11_c01_u007] Unknown Speaker: 
+[s01_e11_c01_u008] Guy: Nice hat.
+[s01_e11_c01_u009] Monica Geller, Phoebe Buffay: Thanks.
+[s01_e11_c01_u010] Unknown Speaker: 
+[s01_e11_c01_u011] Phoebe Buffay: We should do something. Whistle.
+[s01_e11_c01_u012] Monica Geller: We are not going to whistle.
+[s01_e11_c01_u013] Phoebe Buffay: Come on, do it.
+[s01_e11_c01_u014] Monica Geller: No!
+[s01_e11_c01_u015] Phoebe Buffay: Do it!
+[s01_e11_c01_u016] Monica Geller: No!
+[s01_e11_c01_u017] Phoebe Buffay: Do it do it do it!
+[s01_e11_c01_u018] Monica Geller: Woo-woo!
+[s01_e11_c01_u019] Unknown Speaker: 
+[s01_e11_c01_u020] Phoebe Buffay: I can't believe you did that!"
+s01_e11,s01_e11_c02,Monica Geller,0,0,5,0,5,3,s01_e11_c02_u001,s01_e11_c02_u010,"[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+[s01_e11_c02_u003] Monica Geller: Phoebe, what are you doing?
+[s01_e11_c02_u004] Phoebe Buffay: Maybe nobody's tried this.
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+[s01_e11_c02_u007] Monica Geller: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+[s01_e11_c02_u009] Monica Geller: I wish all guys could be like him.
+[s01_e11_c02_u010] Phoebe Buffay: I know."
+s01_e11,s01_e11_c02,Phoebe Buffay,0,0,5,0,5,3,s01_e11_c02_u001,s01_e11_c02_u010,"[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+[s01_e11_c02_u003] Monica Geller: Phoebe, what are you doing?
+[s01_e11_c02_u004] Phoebe Buffay: Maybe nobody's tried this.
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+[s01_e11_c02_u007] Monica Geller: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+[s01_e11_c02_u009] Monica Geller: I wish all guys could be like him.
+[s01_e11_c02_u010] Phoebe Buffay: I know."
+s01_e11,s01_e11_c03,Chandler Bing,0,5,11,4,12,3,s01_e11_c03_u005,s01_e11_c03_u019,"[s01_e11_c03_u005] Rachel Green: Oh, she's coming up! She's coming up!
+[s01_e11_c03_u006] Jay Leno: Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one.
+[s01_e11_c03_u007] Unknown Speaker: 
+[s01_e11_c03_u008] Chandler Bing: Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime, HBO, and Cinemax.
+[s01_e11_c03_u009] Rachel Green: No way, forget it.
+[s01_e11_c03_u010] Joey Tribbiani: C'mon, she's your mom!
+[s01_e11_c03_u011] Chandler Bing: Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?
+[s01_e11_c03_u012] Rachel Green: Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!
+[s01_e11_c03_u013] Chandler Bing: Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'
+[s01_e11_c03_u014] Ross Geller: C'mon, Chandler, I love your mom. I think she's a blast.
+[s01_e11_c03_u015] Chandler Bing: You can say that because she's not your mom.
+[s01_e11_c03_u016] Ross Geller: Oh, please...
+[s01_e11_c03_u017] Unknown Speaker: 
+[s01_e11_c03_u018] Paolo: Bona sera.
+[s01_e11_c03_u019] Rachel Green: Oh, hi sweetie."
+s01_e11,s01_e11_c03,Chandler Bing,1,22,28,21,29,3,s01_e11_c03_u024,s01_e11_c03_u038,"[s01_e11_c03_u024] Paolo: Ah! Nora Bing!
+[s01_e11_c03_u025] Jay Leno: ...Now what is this about you-you being arrested i-in London? What is that all about?
+[s01_e11_c03_u026] Phoebe Buffay: Your mom was arrested?
+[s01_e11_c03_u027] Chandler Bing: Shhh, busy beaming with pride.
+[s01_e11_c03_u028] Nora Tyler Bing: ...This is kind of embarrassing, but occasionally after I've been intimate with a man...
+[s01_e11_c03_u029] Chandler Bing: Now why would she say that's embarrassing?
+[s01_e11_c03_u030] #ALL#: Shhh.
+[s01_e11_c03_u031] Nora Tyler Bing: ...I just get this craving for Kung Pow Chicken.
+[s01_e11_c03_u032] Chandler Bing: THAT'S TOO MUCH INFORMATION!!
+[s01_e11_c03_u033] Jay Leno: Alright, so now you're doing this whole book tour thing, how is that going?
+[s01_e11_c03_u034] Nora Tyler Bing: Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+[s01_e11_c03_u035] #ALL#: Awww!
+[s01_e11_c03_u036] Chandler Bing: This is the way that I find out. Most moms use the phone.
+[s01_e11_c03_u037] Jay Leno: Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad...
+[s01_e11_c03_u038] Nora Tyler Bing: Oh no, I am a fabulous mom! I bought my son his first condoms."
+s01_e11,s01_e11_c03,Chandler Bing,2,30,30,29,30,2,s01_e11_c03_u033,s01_e11_c03_u040,"[s01_e11_c03_u033] Jay Leno: Alright, so now you're doing this whole book tour thing, how is that going?
+[s01_e11_c03_u034] Nora Tyler Bing: Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+[s01_e11_c03_u035] #ALL#: Awww!
+[s01_e11_c03_u036] Chandler Bing: This is the way that I find out. Most moms use the phone.
+[s01_e11_c03_u037] Jay Leno: Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad...
+[s01_e11_c03_u038] Nora Tyler Bing: Oh no, I am a fabulous mom! I bought my son his first condoms.
+[s01_e11_c03_u039] Unknown Speaker: 
+[s01_e11_c03_u040] Chandler Bing: ...And then he burst into flames."
+s01_e11,s01_e11_c03,Jay Leno,0,28,29,27,30,2,s01_e11_c03_u031,s01_e11_c03_u040,"[s01_e11_c03_u031] Nora Tyler Bing: ...I just get this craving for Kung Pow Chicken.
+[s01_e11_c03_u032] Chandler Bing: THAT'S TOO MUCH INFORMATION!!
+[s01_e11_c03_u033] Jay Leno: Alright, so now you're doing this whole book tour thing, how is that going?
+[s01_e11_c03_u034] Nora Tyler Bing: Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+[s01_e11_c03_u035] #ALL#: Awww!
+[s01_e11_c03_u036] Chandler Bing: This is the way that I find out. Most moms use the phone.
+[s01_e11_c03_u037] Jay Leno: Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad...
+[s01_e11_c03_u038] Nora Tyler Bing: Oh no, I am a fabulous mom! I bought my son his first condoms.
+[s01_e11_c03_u039] Unknown Speaker: 
+[s01_e11_c03_u040] Chandler Bing: ...And then he burst into flames."
+s01_e11,s01_e11_c03,Nora Tyler Bing,0,23,27,22,28,2,s01_e11_c03_u025,s01_e11_c03_u037,"[s01_e11_c03_u025] Jay Leno: ...Now what is this about you-you being arrested i-in London? What is that all about?
+[s01_e11_c03_u026] Phoebe Buffay: Your mom was arrested?
+[s01_e11_c03_u027] Chandler Bing: Shhh, busy beaming with pride.
+[s01_e11_c03_u028] Nora Tyler Bing: ...This is kind of embarrassing, but occasionally after I've been intimate with a man...
+[s01_e11_c03_u029] Chandler Bing: Now why would she say that's embarrassing?
+[s01_e11_c03_u030] #ALL#: Shhh.
+[s01_e11_c03_u031] Nora Tyler Bing: ...I just get this craving for Kung Pow Chicken.
+[s01_e11_c03_u032] Chandler Bing: THAT'S TOO MUCH INFORMATION!!
+[s01_e11_c03_u033] Jay Leno: Alright, so now you're doing this whole book tour thing, how is that going?
+[s01_e11_c03_u034] Nora Tyler Bing: Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+[s01_e11_c03_u035] #ALL#: Awww!
+[s01_e11_c03_u036] Chandler Bing: This is the way that I find out. Most moms use the phone.
+[s01_e11_c03_u037] Jay Leno: Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad..."
+s01_e11,s01_e11_c03,Nora Tyler Bing,1,29,30,28,30,2,s01_e11_c03_u032,s01_e11_c03_u040,"[s01_e11_c03_u032] Chandler Bing: THAT'S TOO MUCH INFORMATION!!
+[s01_e11_c03_u033] Jay Leno: Alright, so now you're doing this whole book tour thing, how is that going?
+[s01_e11_c03_u034] Nora Tyler Bing: Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+[s01_e11_c03_u035] #ALL#: Awww!
+[s01_e11_c03_u036] Chandler Bing: This is the way that I find out. Most moms use the phone.
+[s01_e11_c03_u037] Jay Leno: Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad...
+[s01_e11_c03_u038] Nora Tyler Bing: Oh no, I am a fabulous mom! I bought my son his first condoms.
+[s01_e11_c03_u039] Unknown Speaker: 
+[s01_e11_c03_u040] Chandler Bing: ...And then he burst into flames."
+s01_e11,s01_e11_c03,Phoebe Buffay,0,19,20,18,21,2,s01_e11_c03_u021,s01_e11_c03_u028,"[s01_e11_c03_u021] Monica Geller: Last night.
+[s01_e11_c03_u022] Ross Geller: Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew.
+[s01_e11_c03_u023] Phoebe Buffay: Hey hey hey! She's on!
+[s01_e11_c03_u024] Paolo: Ah! Nora Bing!
+[s01_e11_c03_u025] Jay Leno: ...Now what is this about you-you being arrested i-in London? What is that all about?
+[s01_e11_c03_u026] Phoebe Buffay: Your mom was arrested?
+[s01_e11_c03_u027] Chandler Bing: Shhh, busy beaming with pride.
+[s01_e11_c03_u028] Nora Tyler Bing: ...This is kind of embarrassing, but occasionally after I've been intimate with a man..."
+s01_e11,s01_e11_c03,Rachel Green,0,3,4,2,5,2,s01_e11_c03_u003,s01_e11_c03_u011,"[s01_e11_c03_u003] Phoebe Buffay: Yeah, we-we feel kinda responsible.
+[s01_e11_c03_u004] Joey Tribbiani: I can't believe you said woowoo. I don't even say woowoo.
+[s01_e11_c03_u005] Rachel Green: Oh, she's coming up! She's coming up!
+[s01_e11_c03_u006] Jay Leno: Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one.
+[s01_e11_c03_u007] Unknown Speaker: 
+[s01_e11_c03_u008] Chandler Bing: Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime, HBO, and Cinemax.
+[s01_e11_c03_u009] Rachel Green: No way, forget it.
+[s01_e11_c03_u010] Joey Tribbiani: C'mon, she's your mom!
+[s01_e11_c03_u011] Chandler Bing: Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?"
+s01_e11,s01_e11_c03,Rachel Green,1,6,7,5,8,2,s01_e11_c03_u006,s01_e11_c03_u014,"[s01_e11_c03_u006] Jay Leno: Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one.
+[s01_e11_c03_u007] Unknown Speaker: 
+[s01_e11_c03_u008] Chandler Bing: Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime, HBO, and Cinemax.
+[s01_e11_c03_u009] Rachel Green: No way, forget it.
+[s01_e11_c03_u010] Joey Tribbiani: C'mon, she's your mom!
+[s01_e11_c03_u011] Chandler Bing: Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?
+[s01_e11_c03_u012] Rachel Green: Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!
+[s01_e11_c03_u013] Chandler Bing: Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'
+[s01_e11_c03_u014] Ross Geller: C'mon, Chandler, I love your mom. I think she's a blast."
+s01_e11,s01_e11_c03,Ross Geller,0,10,17,9,18,2,s01_e11_c03_u011,s01_e11_c03_u025,"[s01_e11_c03_u011] Chandler Bing: Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?
+[s01_e11_c03_u012] Rachel Green: Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!
+[s01_e11_c03_u013] Chandler Bing: Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'
+[s01_e11_c03_u014] Ross Geller: C'mon, Chandler, I love your mom. I think she's a blast.
+[s01_e11_c03_u015] Chandler Bing: You can say that because she's not your mom.
+[s01_e11_c03_u016] Ross Geller: Oh, please...
+[s01_e11_c03_u017] Unknown Speaker: 
+[s01_e11_c03_u018] Paolo: Bona sera.
+[s01_e11_c03_u019] Rachel Green: Oh, hi sweetie.
+[s01_e11_c03_u020] Ross Geller: When did Rigatoni get back from Rome?
+[s01_e11_c03_u021] Monica Geller: Last night.
+[s01_e11_c03_u022] Ross Geller: Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew.
+[s01_e11_c03_u023] Phoebe Buffay: Hey hey hey! She's on!
+[s01_e11_c03_u024] Paolo: Ah! Nora Bing!
+[s01_e11_c03_u025] Jay Leno: ...Now what is this about you-you being arrested i-in London? What is that all about?"
+s01_e11,s01_e11_c04,Monica Geller,0,0,0,0,0,3,s01_e11_c04_u001,s01_e11_c04_u006,"[s01_e11_c04_u001] Monica Geller: Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.
+[s01_e11_c04_u002] Unknown Speaker: 
+[s01_e11_c04_u003] Phoebe Buffay: What about Glen? He could be a Glen.
+[s01_e11_c04_u004] Monica Geller: Nah... not-not special enough.
+[s01_e11_c04_u005] Phoebe Buffay: Ooh! How about Agamemnon?
+[s01_e11_c04_u006] Monica Geller: Waaay too special."
+s01_e11,s01_e11_c04,Phoebe Buffay,0,0,0,0,0,2,s01_e11_c04_u001,s01_e11_c04_u006,"[s01_e11_c04_u001] Monica Geller: Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.
+[s01_e11_c04_u002] Unknown Speaker: 
+[s01_e11_c04_u003] Phoebe Buffay: What about Glen? He could be a Glen.
+[s01_e11_c04_u004] Monica Geller: Nah... not-not special enough.
+[s01_e11_c04_u005] Phoebe Buffay: Ooh! How about Agamemnon?
+[s01_e11_c04_u006] Monica Geller: Waaay too special."
+s01_e11,s01_e11_c05,Chandler Bing,0,0,3,0,4,2,s01_e11_c05_u001,s01_e11_c05_u009,"[s01_e11_c05_u001] Nora Tyler Bing: I am famished. What do I want...
+[s01_e11_c05_u002] Chandler Bing: Please God don't let it be Kung Pow Chicken.
+[s01_e11_c05_u003] Nora Tyler Bing: Oh, you watched the show! What'd you think?
+[s01_e11_c05_u004] Chandler Bing: Well, I think you need to come out of your shell just a little.
+[s01_e11_c05_u005] Ross Geller: What is this dive? Only you could've picked this place.
+[s01_e11_c05_u006] Nora Tyler Bing: Oooh, c'mon, shut up, it's fun. Gimme a hug. Well, I think we're ready for some tequila.
+[s01_e11_c05_u007] Chandler Bing: I know I am.
+[s01_e11_c05_u008] Nora Tyler Bing: Who's doing shots?
+[s01_e11_c05_u009] Monica Geller: Yeah."
+s01_e11,s01_e11_c05,Nora Tyler Bing,0,0,7,0,8,2,s01_e11_c05_u001,s01_e11_c05_u014,"[s01_e11_c05_u001] Nora Tyler Bing: I am famished. What do I want...
+[s01_e11_c05_u002] Chandler Bing: Please God don't let it be Kung Pow Chicken.
+[s01_e11_c05_u003] Nora Tyler Bing: Oh, you watched the show! What'd you think?
+[s01_e11_c05_u004] Chandler Bing: Well, I think you need to come out of your shell just a little.
+[s01_e11_c05_u005] Ross Geller: What is this dive? Only you could've picked this place.
+[s01_e11_c05_u006] Nora Tyler Bing: Oooh, c'mon, shut up, it's fun. Gimme a hug. Well, I think we're ready for some tequila.
+[s01_e11_c05_u007] Chandler Bing: I know I am.
+[s01_e11_c05_u008] Nora Tyler Bing: Who's doing shots?
+[s01_e11_c05_u009] Monica Geller: Yeah.
+[s01_e11_c05_u010] Phoebe Buffay: I'm in.
+[s01_e11_c05_u011] Nora Tyler Bing: There y'go. Ross?
+[s01_e11_c05_u012] Ross Geller: Uh, I'm not really a shot drinking kinda guy.
+[s01_e11_c05_u013] Unknown Speaker: 
+[s01_e11_c05_u014] Rachel Green: Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time."
+s01_e11,s01_e11_c05,Nora Tyler Bing,1,14,35,13,35,3,s01_e11_c05_u015,s01_e11_c05_u048,"[s01_e11_c05_u015] Ross Geller: ...But a man can change.
+[s01_e11_c05_u016] Unknown Speaker: 
+[s01_e11_c05_u017] Ross Geller: Anyone want me to appraise anything?
+[s01_e11_c05_u018] Unknown Speaker: 
+[s01_e11_c05_u019] Rachel Green: Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer.
+[s01_e11_c05_u020] Nora Tyler Bing: Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.
+[s01_e11_c05_u021] Chandler Bing: Myyy mother, ladies and gentlemen.
+[s01_e11_c05_u022] Unknown Speaker: 
+[s01_e11_c05_u023] Nora Tyler Bing: Yeah, any messages for room 226?
+[s01_e11_c05_u024] Unknown Speaker: 
+[s01_e11_c05_u025] Nora Tyler Bing: You okay there, slugger?
+[s01_e11_c05_u026] Ross Geller: Yeah, I'm fine, I'm fine.
+[s01_e11_c05_u027] Nora Tyler Bing: What is with you tonight?
+[s01_e11_c05_u028] Ross Geller: Nothing. Nothing nothing nothing.
+[s01_e11_c05_u029] Nora Tyler Bing: Okay, thank you. It's the Italian Hand-Licker, isn't it.
+[s01_e11_c05_u030] Ross Geller: No. It's the one he's licking.
+[s01_e11_c05_u031] Nora Tyler Bing: She's supposed to be with you.
+[s01_e11_c05_u032] Ross Geller: You're good.
+[s01_e11_c05_u033] Nora Tyler Bing: Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?
+[s01_e11_c05_u034] Ross Geller: The girl on the cover with her nipples showing?
+[s01_e11_c05_u035] Nora Tyler Bing: No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off.
+[s01_e11_c05_u036] Ross Geller: When?
+[s01_e11_c05_u037] Nora Tyler Bing: He's not a hero. ...You know who our hero is.
+[s01_e11_c05_u038] Ross Geller: The guy on the cover with his nipples showing?
+[s01_e11_c05_u039] Nora Tyler Bing: No, it's you!
+[s01_e11_c05_u040] Ross Geller: Please.
+[s01_e11_c05_u041] Nora Tyler Bing: No, really, c'mon. You're smart, you're sexy...
+[s01_e11_c05_u042] Ross Geller: Right.
+[s01_e11_c05_u043] Nora Tyler Bing: You are gonna be fine, believe me.
+[s01_e11_c05_u044] Unknown Speaker: 
+[s01_e11_c05_u045] Ross Geller: Uh-oh...
+[s01_e11_c05_u046] Unknown Speaker: 
+[s01_e11_c05_u047] Unknown Speaker: 
+[s01_e11_c05_u048] Joey Tribbiani: Uhhhh.... I'll just pee in the street."
+s01_e11,s01_e11_c05,Rachel Green,0,11,12,10,13,2,s01_e11_c05_u011,s01_e11_c05_u021,"[s01_e11_c05_u011] Nora Tyler Bing: There y'go. Ross?
+[s01_e11_c05_u012] Ross Geller: Uh, I'm not really a shot drinking kinda guy.
+[s01_e11_c05_u013] Unknown Speaker: 
+[s01_e11_c05_u014] Rachel Green: Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time.
+[s01_e11_c05_u015] Ross Geller: ...But a man can change.
+[s01_e11_c05_u016] Unknown Speaker: 
+[s01_e11_c05_u017] Ross Geller: Anyone want me to appraise anything?
+[s01_e11_c05_u018] Unknown Speaker: 
+[s01_e11_c05_u019] Rachel Green: Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer.
+[s01_e11_c05_u020] Nora Tyler Bing: Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.
+[s01_e11_c05_u021] Chandler Bing: Myyy mother, ladies and gentlemen."
+s01_e11,s01_e11_c05,Ross Geller,0,9,13,8,14,3,s01_e11_c05_u009,s01_e11_c05_u023,"[s01_e11_c05_u009] Monica Geller: Yeah.
+[s01_e11_c05_u010] Phoebe Buffay: I'm in.
+[s01_e11_c05_u011] Nora Tyler Bing: There y'go. Ross?
+[s01_e11_c05_u012] Ross Geller: Uh, I'm not really a shot drinking kinda guy.
+[s01_e11_c05_u013] Unknown Speaker: 
+[s01_e11_c05_u014] Rachel Green: Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time.
+[s01_e11_c05_u015] Ross Geller: ...But a man can change.
+[s01_e11_c05_u016] Unknown Speaker: 
+[s01_e11_c05_u017] Ross Geller: Anyone want me to appraise anything?
+[s01_e11_c05_u018] Unknown Speaker: 
+[s01_e11_c05_u019] Rachel Green: Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer.
+[s01_e11_c05_u020] Nora Tyler Bing: Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.
+[s01_e11_c05_u021] Chandler Bing: Myyy mother, ladies and gentlemen.
+[s01_e11_c05_u022] Unknown Speaker: 
+[s01_e11_c05_u023] Nora Tyler Bing: Yeah, any messages for room 226?"
+s01_e11,s01_e11_c05,Ross Geller,1,18,35,17,35,3,s01_e11_c05_u021,s01_e11_c05_u048,"[s01_e11_c05_u021] Chandler Bing: Myyy mother, ladies and gentlemen.
+[s01_e11_c05_u022] Unknown Speaker: 
+[s01_e11_c05_u023] Nora Tyler Bing: Yeah, any messages for room 226?
+[s01_e11_c05_u024] Unknown Speaker: 
+[s01_e11_c05_u025] Nora Tyler Bing: You okay there, slugger?
+[s01_e11_c05_u026] Ross Geller: Yeah, I'm fine, I'm fine.
+[s01_e11_c05_u027] Nora Tyler Bing: What is with you tonight?
+[s01_e11_c05_u028] Ross Geller: Nothing. Nothing nothing nothing.
+[s01_e11_c05_u029] Nora Tyler Bing: Okay, thank you. It's the Italian Hand-Licker, isn't it.
+[s01_e11_c05_u030] Ross Geller: No. It's the one he's licking.
+[s01_e11_c05_u031] Nora Tyler Bing: She's supposed to be with you.
+[s01_e11_c05_u032] Ross Geller: You're good.
+[s01_e11_c05_u033] Nora Tyler Bing: Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?
+[s01_e11_c05_u034] Ross Geller: The girl on the cover with her nipples showing?
+[s01_e11_c05_u035] Nora Tyler Bing: No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off.
+[s01_e11_c05_u036] Ross Geller: When?
+[s01_e11_c05_u037] Nora Tyler Bing: He's not a hero. ...You know who our hero is.
+[s01_e11_c05_u038] Ross Geller: The guy on the cover with his nipples showing?
+[s01_e11_c05_u039] Nora Tyler Bing: No, it's you!
+[s01_e11_c05_u040] Ross Geller: Please.
+[s01_e11_c05_u041] Nora Tyler Bing: No, really, c'mon. You're smart, you're sexy...
+[s01_e11_c05_u042] Ross Geller: Right.
+[s01_e11_c05_u043] Nora Tyler Bing: You are gonna be fine, believe me.
+[s01_e11_c05_u044] Unknown Speaker: 
+[s01_e11_c05_u045] Ross Geller: Uh-oh...
+[s01_e11_c05_u046] Unknown Speaker: 
+[s01_e11_c05_u047] Unknown Speaker: 
+[s01_e11_c05_u048] Joey Tribbiani: Uhhhh.... I'll just pee in the street."
+s01_e11,s01_e11_c06,Joey Tribbiani,0,0,17,0,18,3,s01_e11_c06_u001,s01_e11_c06_u026,"[s01_e11_c06_u001] Ross Geller: Hey, is Chandler here?
+[s01_e11_c06_u002] Joey Tribbiani: Yeah.
+[s01_e11_c06_u003] Unknown Speaker: 
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+[s01_e11_c06_u005] Joey Tribbiani: Right. No big deal.
+[s01_e11_c06_u006] Ross Geller: Okay.
+[s01_e11_c06_u007] Joey Tribbiani: In Bizarro World!! You broke the code!
+[s01_e11_c06_u008] Ross Geller: What code?
+[s01_e11_c06_u009] Joey Tribbiani: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!
+[s01_e11_c06_u010] Unknown Speaker: 
+[s01_e11_c06_u011] Chandler Bing: What are you guys doing out here?
+[s01_e11_c06_u012] Ross Geller: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+[s01_e11_c06_u013] Joey Tribbiani: Yeah, well, you don't have your racket.
+[s01_e11_c06_u014] Ross Geller: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+[s01_e11_c06_u015] Joey Tribbiani: Yeah, well you didn't call and leave your grip size.
+[s01_e11_c06_u016] Chandler Bing: Okay, you guys spend waaaay too much time together.
+[s01_e11_c06_u017] Ross Geller: Okay, I'm scum, I'm scum.
+[s01_e11_c06_u018] Joey Tribbiani: Ross, how could you let this happen?
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+[s01_e11_c06_u020] Joey Tribbiani: You don't think my mom's sexy?
+[s01_e11_c06_u021] Ross Geller: Well... not in the same way...
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+[s01_e11_c06_u023] Ross Geller: Okay, I think we're getting into a weird area here...
+[s01_e11_c06_u024] Unknown Speaker: 
+[s01_e11_c06_u025] Rachel Green: Hey.
+[s01_e11_c06_u026] Ross Geller: Hey."
+s01_e11,s01_e11_c06,Joey Tribbiani,1,29,33,28,33,2,s01_e11_c06_u033,s01_e11_c06_u044,"[s01_e11_c06_u033] Rachel Green: Goodbye, baby.
+[s01_e11_c06_u034] Paolo: Ciao, bela.
+[s01_e11_c06_u035] Unknown Speaker: 
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+[s01_e11_c06_u037] Unknown Speaker: 
+[s01_e11_c06_u038] Joey Tribbiani: So are you gonna tell him?
+[s01_e11_c06_u039] Ross Geller: Why would I tell him?
+[s01_e11_c06_u040] Joey Tribbiani: How about 'cause if you don't, his mother might.
+[s01_e11_c06_u041] Ross Geller: Oh...
+[s01_e11_c06_u042] Monica Geller: What are you guys doing here?
+[s01_e11_c06_u043] Joey Tribbiani: Uhhhh.... he's not even wearing a jockstrap!
+[s01_e11_c06_u044] Monica Geller: ...What did I ask?"
+s01_e11,s01_e11_c06,Monica Geller,0,33,33,32,33,2,s01_e11_c06_u039,s01_e11_c06_u044,"[s01_e11_c06_u039] Ross Geller: Why would I tell him?
+[s01_e11_c06_u040] Joey Tribbiani: How about 'cause if you don't, his mother might.
+[s01_e11_c06_u041] Ross Geller: Oh...
+[s01_e11_c06_u042] Monica Geller: What are you guys doing here?
+[s01_e11_c06_u043] Joey Tribbiani: Uhhhh.... he's not even wearing a jockstrap!
+[s01_e11_c06_u044] Monica Geller: ...What did I ask?"
+s01_e11,s01_e11_c06,Rachel Green,0,19,21,18,22,2,s01_e11_c06_u021,s01_e11_c06_u030,"[s01_e11_c06_u021] Ross Geller: Well... not in the same way...
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+[s01_e11_c06_u023] Ross Geller: Okay, I think we're getting into a weird area here...
+[s01_e11_c06_u024] Unknown Speaker: 
+[s01_e11_c06_u025] Rachel Green: Hey.
+[s01_e11_c06_u026] Ross Geller: Hey.
+[s01_e11_c06_u027] Rachel Green: What're you guys doing out here?
+[s01_e11_c06_u028] Ross Geller: Well, not playing raquetball!
+[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+[s01_e11_c06_u030] Ross Geller: He didn't get the goggles!"
+s01_e11,s01_e11_c06,Rachel Green,1,23,27,22,28,2,s01_e11_c06_u026,s01_e11_c06_u039,"[s01_e11_c06_u026] Ross Geller: Hey.
+[s01_e11_c06_u027] Rachel Green: What're you guys doing out here?
+[s01_e11_c06_u028] Ross Geller: Well, not playing raquetball!
+[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+[s01_e11_c06_u030] Ross Geller: He didn't get the goggles!
+[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+[s01_e11_c06_u032] Unknown Speaker: 
+[s01_e11_c06_u033] Rachel Green: Goodbye, baby.
+[s01_e11_c06_u034] Paolo: Ciao, bela.
+[s01_e11_c06_u035] Unknown Speaker: 
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+[s01_e11_c06_u037] Unknown Speaker: 
+[s01_e11_c06_u038] Joey Tribbiani: So are you gonna tell him?
+[s01_e11_c06_u039] Ross Geller: Why would I tell him?"
+s01_e11,s01_e11_c06,Ross Geller,0,0,24,0,25,3,s01_e11_c06_u001,s01_e11_c06_u034,"[s01_e11_c06_u001] Ross Geller: Hey, is Chandler here?
+[s01_e11_c06_u002] Joey Tribbiani: Yeah.
+[s01_e11_c06_u003] Unknown Speaker: 
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+[s01_e11_c06_u005] Joey Tribbiani: Right. No big deal.
+[s01_e11_c06_u006] Ross Geller: Okay.
+[s01_e11_c06_u007] Joey Tribbiani: In Bizarro World!! You broke the code!
+[s01_e11_c06_u008] Ross Geller: What code?
+[s01_e11_c06_u009] Joey Tribbiani: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!
+[s01_e11_c06_u010] Unknown Speaker: 
+[s01_e11_c06_u011] Chandler Bing: What are you guys doing out here?
+[s01_e11_c06_u012] Ross Geller: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+[s01_e11_c06_u013] Joey Tribbiani: Yeah, well, you don't have your racket.
+[s01_e11_c06_u014] Ross Geller: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+[s01_e11_c06_u015] Joey Tribbiani: Yeah, well you didn't call and leave your grip size.
+[s01_e11_c06_u016] Chandler Bing: Okay, you guys spend waaaay too much time together.
+[s01_e11_c06_u017] Ross Geller: Okay, I'm scum, I'm scum.
+[s01_e11_c06_u018] Joey Tribbiani: Ross, how could you let this happen?
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+[s01_e11_c06_u020] Joey Tribbiani: You don't think my mom's sexy?
+[s01_e11_c06_u021] Ross Geller: Well... not in the same way...
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+[s01_e11_c06_u023] Ross Geller: Okay, I think we're getting into a weird area here...
+[s01_e11_c06_u024] Unknown Speaker: 
+[s01_e11_c06_u025] Rachel Green: Hey.
+[s01_e11_c06_u026] Ross Geller: Hey.
+[s01_e11_c06_u027] Rachel Green: What're you guys doing out here?
+[s01_e11_c06_u028] Ross Geller: Well, not playing raquetball!
+[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+[s01_e11_c06_u030] Ross Geller: He didn't get the goggles!
+[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+[s01_e11_c06_u032] Unknown Speaker: 
+[s01_e11_c06_u033] Rachel Green: Goodbye, baby.
+[s01_e11_c06_u034] Paolo: Ciao, bela."
+s01_e11,s01_e11_c06,Ross Geller,1,26,26,25,27,2,s01_e11_c06_u029,s01_e11_c06_u038,"[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+[s01_e11_c06_u030] Ross Geller: He didn't get the goggles!
+[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+[s01_e11_c06_u032] Unknown Speaker: 
+[s01_e11_c06_u033] Rachel Green: Goodbye, baby.
+[s01_e11_c06_u034] Paolo: Ciao, bela.
+[s01_e11_c06_u035] Unknown Speaker: 
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+[s01_e11_c06_u037] Unknown Speaker: 
+[s01_e11_c06_u038] Joey Tribbiani: So are you gonna tell him?"
+s01_e11,s01_e11_c06,Ross Geller,2,28,32,27,33,3,s01_e11_c06_u031,s01_e11_c06_u044,"[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+[s01_e11_c06_u032] Unknown Speaker: 
+[s01_e11_c06_u033] Rachel Green: Goodbye, baby.
+[s01_e11_c06_u034] Paolo: Ciao, bela.
+[s01_e11_c06_u035] Unknown Speaker: 
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+[s01_e11_c06_u037] Unknown Speaker: 
+[s01_e11_c06_u038] Joey Tribbiani: So are you gonna tell him?
+[s01_e11_c06_u039] Ross Geller: Why would I tell him?
+[s01_e11_c06_u040] Joey Tribbiani: How about 'cause if you don't, his mother might.
+[s01_e11_c06_u041] Ross Geller: Oh...
+[s01_e11_c06_u042] Monica Geller: What are you guys doing here?
+[s01_e11_c06_u043] Joey Tribbiani: Uhhhh.... he's not even wearing a jockstrap!
+[s01_e11_c06_u044] Monica Geller: ...What did I ask?"
+s01_e11,s01_e11_c07,Monica Geller,0,0,3,0,3,3,s01_e11_c07_u001,s01_e11_c07_u008,"[s01_e11_c07_u001] Monica Geller: Hi.
+[s01_e11_c07_u002] Phoebe Buffay: Hi.
+[s01_e11_c07_u003] Monica Geller: What are you doing here?
+[s01_e11_c07_u004] Phoebe Buffay: Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?
+[s01_e11_c07_u005] Monica Geller: I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?
+[s01_e11_c07_u006] Phoebe Buffay: No. No! No! ...So, um, do you think he's doing any better than he was this morning?
+[s01_e11_c07_u007] Monica Geller: How would I know? I-I wasn't here.
+[s01_e11_c07_u008] Phoebe Buffay: Really? Not even to, um, change his PAJAMAS?!"
+s01_e11,s01_e11_c07,Phoebe Buffay,0,0,3,0,3,3,s01_e11_c07_u001,s01_e11_c07_u008,"[s01_e11_c07_u001] Monica Geller: Hi.
+[s01_e11_c07_u002] Phoebe Buffay: Hi.
+[s01_e11_c07_u003] Monica Geller: What are you doing here?
+[s01_e11_c07_u004] Phoebe Buffay: Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?
+[s01_e11_c07_u005] Monica Geller: I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?
+[s01_e11_c07_u006] Phoebe Buffay: No. No! No! ...So, um, do you think he's doing any better than he was this morning?
+[s01_e11_c07_u007] Monica Geller: How would I know? I-I wasn't here.
+[s01_e11_c07_u008] Phoebe Buffay: Really? Not even to, um, change his PAJAMAS?!"
+s01_e11,s01_e11_c08,Chandler Bing,0,0,15,0,16,3,s01_e11_c08_u001,s01_e11_c08_u021,"[s01_e11_c08_u001] Chandler Bing: Oh my God.
+[s01_e11_c08_u002] Ross Geller: You're my friend. I-I had to tell you.
+[s01_e11_c08_u003] Chandler Bing: I can't believe it. Paolo kissed my mom?
+[s01_e11_c08_u004] Ross Geller: Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... I can't do this, I did it, it was me, I'm sorry, I kissed your mom.
+[s01_e11_c08_u005] Chandler Bing: What?
+[s01_e11_c08_u006] Ross Geller: I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-
+[s01_e11_c08_u007] Chandler Bing: You knew about this?
+[s01_e11_c08_u008] Joey Tribbiani: Uh... y'know, knowledge is a tricky thing.
+[s01_e11_c08_u009] Chandler Bing: I spent the entire day with you, why didn't you tell me?!
+[s01_e11_c08_u010] Joey Tribbiani: Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.
+[s01_e11_c08_u011] Ross Geller: Thanks, man, big help.
+[s01_e11_c08_u012] Chandler Bing: I can't believe this! What the hell were you thinking?
+[s01_e11_c08_u013] Ross Geller: I wasn't- I mean, I-
+[s01_e11_c08_u014] Chandler Bing: Y'know, of all my friends, no-one knows the crap I go through with my mom more than you.
+[s01_e11_c08_u015] Ross Geller: I know-
+[s01_e11_c08_u016] Chandler Bing: I can't believe you did this.
+[s01_e11_c08_u017] Ross Geller: Chandler-
+[s01_e11_c08_u018] Joey Tribbiani: Me neither, y'know what-
+[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!
+[s01_e11_c08_u021] Ross Geller: Chandler-"
+s01_e11,s01_e11_c08,Chandler Bing,1,17,18,16,19,2,s01_e11_c08_u017,s01_e11_c08_u024,"[s01_e11_c08_u017] Ross Geller: Chandler-
+[s01_e11_c08_u018] Joey Tribbiani: Me neither, y'know what-
+[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!
+[s01_e11_c08_u021] Ross Geller: Chandler-
+[s01_e11_c08_u022] Chandler Bing: You gotta let me slam the door!
+[s01_e11_c08_u023] Joey Tribbiani: Chandler, I didn't kiss her, he did! See what happens when you break the code?
+[s01_e11_c08_u024] Ross Geller: Joey-"
+s01_e11,s01_e11_c08,Joey Tribbiani,0,5,7,4,8,2,s01_e11_c08_u005,s01_e11_c08_u013,"[s01_e11_c08_u005] Chandler Bing: What?
+[s01_e11_c08_u006] Ross Geller: I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-
+[s01_e11_c08_u007] Chandler Bing: You knew about this?
+[s01_e11_c08_u008] Joey Tribbiani: Uh... y'know, knowledge is a tricky thing.
+[s01_e11_c08_u009] Chandler Bing: I spent the entire day with you, why didn't you tell me?!
+[s01_e11_c08_u010] Joey Tribbiani: Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.
+[s01_e11_c08_u011] Ross Geller: Thanks, man, big help.
+[s01_e11_c08_u012] Chandler Bing: I can't believe this! What the hell were you thinking?
+[s01_e11_c08_u013] Ross Geller: I wasn't- I mean, I-"
+s01_e11,s01_e11_c08,Joey Tribbiani,1,15,20,14,20,2,s01_e11_c08_u015,s01_e11_c08_u025,"[s01_e11_c08_u015] Ross Geller: I know-
+[s01_e11_c08_u016] Chandler Bing: I can't believe you did this.
+[s01_e11_c08_u017] Ross Geller: Chandler-
+[s01_e11_c08_u018] Joey Tribbiani: Me neither, y'know what-
+[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!
+[s01_e11_c08_u021] Ross Geller: Chandler-
+[s01_e11_c08_u022] Chandler Bing: You gotta let me slam the door!
+[s01_e11_c08_u023] Joey Tribbiani: Chandler, I didn't kiss her, he did! See what happens when you break the code?
+[s01_e11_c08_u024] Ross Geller: Joey-
+[s01_e11_c08_u025] Joey Tribbiani: Ah! Huh?"
+s01_e11,s01_e11_c08,Ross Geller,0,0,3,0,4,3,s01_e11_c08_u001,s01_e11_c08_u009,"[s01_e11_c08_u001] Chandler Bing: Oh my God.
+[s01_e11_c08_u002] Ross Geller: You're my friend. I-I had to tell you.
+[s01_e11_c08_u003] Chandler Bing: I can't believe it. Paolo kissed my mom?
+[s01_e11_c08_u004] Ross Geller: Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... I can't do this, I did it, it was me, I'm sorry, I kissed your mom.
+[s01_e11_c08_u005] Chandler Bing: What?
+[s01_e11_c08_u006] Ross Geller: I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-
+[s01_e11_c08_u007] Chandler Bing: You knew about this?
+[s01_e11_c08_u008] Joey Tribbiani: Uh... y'know, knowledge is a tricky thing.
+[s01_e11_c08_u009] Chandler Bing: I spent the entire day with you, why didn't you tell me?!"
+s01_e11,s01_e11_c08,Ross Geller,1,8,14,7,15,3,s01_e11_c08_u008,s01_e11_c08_u020,"[s01_e11_c08_u008] Joey Tribbiani: Uh... y'know, knowledge is a tricky thing.
+[s01_e11_c08_u009] Chandler Bing: I spent the entire day with you, why didn't you tell me?!
+[s01_e11_c08_u010] Joey Tribbiani: Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.
+[s01_e11_c08_u011] Ross Geller: Thanks, man, big help.
+[s01_e11_c08_u012] Chandler Bing: I can't believe this! What the hell were you thinking?
+[s01_e11_c08_u013] Ross Geller: I wasn't- I mean, I-
+[s01_e11_c08_u014] Chandler Bing: Y'know, of all my friends, no-one knows the crap I go through with my mom more than you.
+[s01_e11_c08_u015] Ross Geller: I know-
+[s01_e11_c08_u016] Chandler Bing: I can't believe you did this.
+[s01_e11_c08_u017] Ross Geller: Chandler-
+[s01_e11_c08_u018] Joey Tribbiani: Me neither, y'know what-
+[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!"
+s01_e11,s01_e11_c08,Ross Geller,2,16,16,15,17,2,s01_e11_c08_u016,s01_e11_c08_u022,"[s01_e11_c08_u016] Chandler Bing: I can't believe you did this.
+[s01_e11_c08_u017] Ross Geller: Chandler-
+[s01_e11_c08_u018] Joey Tribbiani: Me neither, y'know what-
+[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!
+[s01_e11_c08_u021] Ross Geller: Chandler-
+[s01_e11_c08_u022] Chandler Bing: You gotta let me slam the door!"
+s01_e11,s01_e11_c08,Ross Geller,3,19,20,18,20,2,s01_e11_c08_u019,s01_e11_c08_u025,"[s01_e11_c08_u019] Chandler Bing: I'm still mad at you for not telling me.
+[s01_e11_c08_u020] Joey Tribbiani: What are you mad at me for?!
+[s01_e11_c08_u021] Ross Geller: Chandler-
+[s01_e11_c08_u022] Chandler Bing: You gotta let me slam the door!
+[s01_e11_c08_u023] Joey Tribbiani: Chandler, I didn't kiss her, he did! See what happens when you break the code?
+[s01_e11_c08_u024] Ross Geller: Joey-
+[s01_e11_c08_u025] Joey Tribbiani: Ah! Huh?"
+s01_e11,s01_e11_c09,Chandler Bing,0,21,31,20,31,3,s01_e11_c09_u021,s01_e11_c09_u038,"[s01_e11_c09_u021] Phoebe Buffay: You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say...
+[s01_e11_c09_u022] Phoebe Buffay: Okay, thank you very much, I'm gonna take a short break!
+[s01_e11_c09_u023] Rachel Green: Okay, that was Phoebe Buffay, everybody. Woo!
+[s01_e11_c09_u024] Unknown Speaker: 
+[s01_e11_c09_u025] Chandler Bing: What was that?
+[s01_e11_c09_u026] Ross Geller: Oh, uh, Phoebe just started a...
+[s01_e11_c09_u027] Chandler Bing: Yeah, I believe I was talking to Joey, alright there, Mother-Kisser?
+[s01_e11_c09_u028] Joey Tribbiani: Mother-Kisser... I'll shut up.
+[s01_e11_c09_u029] Ross Geller: Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.
+[s01_e11_c09_u030] Chandler Bing: Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare.
+[s01_e11_c09_u031] Ross Geller: Okay, well, if she always behaves like this, why don't you say something?
+[s01_e11_c09_u032] Chandler Bing: Because it's complicated, it's complex- Hey, you kissed my mom!
+[s01_e11_c09_u033] Unknown Speaker: 
+[s01_e11_c09_u034] Ross Geller: We're rehearsing a Greek play.
+[s01_e11_c09_u035] Chandler Bing: That's very funny. We done now?
+[s01_e11_c09_u036] Ross Geller: No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?
+[s01_e11_c09_u037] Chandler Bing: That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her.
+[s01_e11_c09_u038] Ross Geller: Okay, 'you' can't, or you can't? Okay, that's my finger. That's, that's my knee. Still doing the play. Aaah!"
+s01_e11,s01_e11_c09,Joey Tribbiani,0,13,15,12,16,2,s01_e11_c09_u013,s01_e11_c09_u021,"[s01_e11_c09_u013] Monica Geller: You just asked me.
+[s01_e11_c09_u014] Phoebe Buffay: Okay, maybe it was a trick question. Um, Rachel can we do this now?
+[s01_e11_c09_u015] Rachel Green: Okay. I am so hot!
+[s01_e11_c09_u016] Joey Tribbiani: Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.
+[s01_e11_c09_u017] Ross Geller: I cannot believe we're having this conversation.
+[s01_e11_c09_u018] Joey Tribbiani: C'mon! Just try to picture her not pregnant, that's all.
+[s01_e11_c09_u019] Rachel Green: Central Perk is proud to present Miss Phoebe Buffay.
+[s01_e11_c09_u020] Phoebe Buffay: Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. 'Kay.
+[s01_e11_c09_u021] Phoebe Buffay: You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say..."
+s01_e11,s01_e11_c09,Monica Geller,0,0,2,0,3,3,s01_e11_c09_u001,s01_e11_c09_u008,"[s01_e11_c09_u001] Monica Geller: Hey.
+[s01_e11_c09_u002] Rachel Green: Hey.
+[s01_e11_c09_u003] Monica Geller: 'A Woman Undone, by Rachel Karen Green'.
+[s01_e11_c09_u004] Rachel Green: Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?
+[s01_e11_c09_u005] Monica Geller: Yeah, I'd say so. And there's no 'j' in 'engorged'.
+[s01_e11_c09_u006] Phoebe Buffay: Hey Rach.
+[s01_e11_c09_u007] Rachel Green: Hey.
+[s01_e11_c09_u008] Phoebe Buffay: Hello."
+s01_e11,s01_e11_c09,Monica Geller,1,4,4,3,5,2,s01_e11_c09_u004,s01_e11_c09_u010,"[s01_e11_c09_u004] Rachel Green: Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?
+[s01_e11_c09_u005] Monica Geller: Yeah, I'd say so. And there's no 'j' in 'engorged'.
+[s01_e11_c09_u006] Phoebe Buffay: Hey Rach.
+[s01_e11_c09_u007] Rachel Green: Hey.
+[s01_e11_c09_u008] Phoebe Buffay: Hello.
+[s01_e11_c09_u009] Monica Geller: Hello.
+[s01_e11_c09_u010] Phoebe Buffay: Going to the hospital tonight?"
+s01_e11,s01_e11_c09,Monica Geller,2,6,10,5,11,3,s01_e11_c09_u006,s01_e11_c09_u016,"[s01_e11_c09_u006] Phoebe Buffay: Hey Rach.
+[s01_e11_c09_u007] Rachel Green: Hey.
+[s01_e11_c09_u008] Phoebe Buffay: Hello.
+[s01_e11_c09_u009] Monica Geller: Hello.
+[s01_e11_c09_u010] Phoebe Buffay: Going to the hospital tonight?
+[s01_e11_c09_u011] Monica Geller: No, you?
+[s01_e11_c09_u012] Phoebe Buffay: No, you?
+[s01_e11_c09_u013] Monica Geller: You just asked me.
+[s01_e11_c09_u014] Phoebe Buffay: Okay, maybe it was a trick question. Um, Rachel can we do this now?
+[s01_e11_c09_u015] Rachel Green: Okay. I am so hot!
+[s01_e11_c09_u016] Joey Tribbiani: Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout."
+s01_e11,s01_e11_c09,Phoebe Buffay,0,3,11,2,12,3,s01_e11_c09_u003,s01_e11_c09_u017,"[s01_e11_c09_u003] Monica Geller: 'A Woman Undone, by Rachel Karen Green'.
+[s01_e11_c09_u004] Rachel Green: Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?
+[s01_e11_c09_u005] Monica Geller: Yeah, I'd say so. And there's no 'j' in 'engorged'.
+[s01_e11_c09_u006] Phoebe Buffay: Hey Rach.
+[s01_e11_c09_u007] Rachel Green: Hey.
+[s01_e11_c09_u008] Phoebe Buffay: Hello.
+[s01_e11_c09_u009] Monica Geller: Hello.
+[s01_e11_c09_u010] Phoebe Buffay: Going to the hospital tonight?
+[s01_e11_c09_u011] Monica Geller: No, you?
+[s01_e11_c09_u012] Phoebe Buffay: No, you?
+[s01_e11_c09_u013] Monica Geller: You just asked me.
+[s01_e11_c09_u014] Phoebe Buffay: Okay, maybe it was a trick question. Um, Rachel can we do this now?
+[s01_e11_c09_u015] Rachel Green: Okay. I am so hot!
+[s01_e11_c09_u016] Joey Tribbiani: Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.
+[s01_e11_c09_u017] Ross Geller: I cannot believe we're having this conversation."
+s01_e11,s01_e11_c09,Phoebe Buffay,1,16,20,15,21,3,s01_e11_c09_u016,s01_e11_c09_u027,"[s01_e11_c09_u016] Joey Tribbiani: Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.
+[s01_e11_c09_u017] Ross Geller: I cannot believe we're having this conversation.
+[s01_e11_c09_u018] Joey Tribbiani: C'mon! Just try to picture her not pregnant, that's all.
+[s01_e11_c09_u019] Rachel Green: Central Perk is proud to present Miss Phoebe Buffay.
+[s01_e11_c09_u020] Phoebe Buffay: Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. 'Kay.
+[s01_e11_c09_u021] Phoebe Buffay: You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say...
+[s01_e11_c09_u022] Phoebe Buffay: Okay, thank you very much, I'm gonna take a short break!
+[s01_e11_c09_u023] Rachel Green: Okay, that was Phoebe Buffay, everybody. Woo!
+[s01_e11_c09_u024] Unknown Speaker: 
+[s01_e11_c09_u025] Chandler Bing: What was that?
+[s01_e11_c09_u026] Ross Geller: Oh, uh, Phoebe just started a...
+[s01_e11_c09_u027] Chandler Bing: Yeah, I believe I was talking to Joey, alright there, Mother-Kisser?"
+s01_e11,s01_e11_c09,Rachel Green,0,0,3,0,4,2,s01_e11_c09_u001,s01_e11_c09_u009,"[s01_e11_c09_u001] Monica Geller: Hey.
+[s01_e11_c09_u002] Rachel Green: Hey.
+[s01_e11_c09_u003] Monica Geller: 'A Woman Undone, by Rachel Karen Green'.
+[s01_e11_c09_u004] Rachel Green: Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?
+[s01_e11_c09_u005] Monica Geller: Yeah, I'd say so. And there's no 'j' in 'engorged'.
+[s01_e11_c09_u006] Phoebe Buffay: Hey Rach.
+[s01_e11_c09_u007] Rachel Green: Hey.
+[s01_e11_c09_u008] Phoebe Buffay: Hello.
+[s01_e11_c09_u009] Monica Geller: Hello."
+s01_e11,s01_e11_c09,Rachel Green,1,14,14,13,15,2,s01_e11_c09_u014,s01_e11_c09_u020,"[s01_e11_c09_u014] Phoebe Buffay: Okay, maybe it was a trick question. Um, Rachel can we do this now?
+[s01_e11_c09_u015] Rachel Green: Okay. I am so hot!
+[s01_e11_c09_u016] Joey Tribbiani: Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.
+[s01_e11_c09_u017] Ross Geller: I cannot believe we're having this conversation.
+[s01_e11_c09_u018] Joey Tribbiani: C'mon! Just try to picture her not pregnant, that's all.
+[s01_e11_c09_u019] Rachel Green: Central Perk is proud to present Miss Phoebe Buffay.
+[s01_e11_c09_u020] Phoebe Buffay: Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. 'Kay."
+s01_e11,s01_e11_c09,Rachel Green,2,18,18,17,19,2,s01_e11_c09_u018,s01_e11_c09_u025,"[s01_e11_c09_u018] Joey Tribbiani: C'mon! Just try to picture her not pregnant, that's all.
+[s01_e11_c09_u019] Rachel Green: Central Perk is proud to present Miss Phoebe Buffay.
+[s01_e11_c09_u020] Phoebe Buffay: Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. 'Kay.
+[s01_e11_c09_u021] Phoebe Buffay: You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say...
+[s01_e11_c09_u022] Phoebe Buffay: Okay, thank you very much, I'm gonna take a short break!
+[s01_e11_c09_u023] Rachel Green: Okay, that was Phoebe Buffay, everybody. Woo!
+[s01_e11_c09_u024] Unknown Speaker: 
+[s01_e11_c09_u025] Chandler Bing: What was that?"
+s01_e11,s01_e11_c09,Ross Geller,0,23,31,22,31,3,s01_e11_c09_u023,s01_e11_c09_u038,"[s01_e11_c09_u023] Rachel Green: Okay, that was Phoebe Buffay, everybody. Woo!
+[s01_e11_c09_u024] Unknown Speaker: 
+[s01_e11_c09_u025] Chandler Bing: What was that?
+[s01_e11_c09_u026] Ross Geller: Oh, uh, Phoebe just started a...
+[s01_e11_c09_u027] Chandler Bing: Yeah, I believe I was talking to Joey, alright there, Mother-Kisser?
+[s01_e11_c09_u028] Joey Tribbiani: Mother-Kisser... I'll shut up.
+[s01_e11_c09_u029] Ross Geller: Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.
+[s01_e11_c09_u030] Chandler Bing: Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare.
+[s01_e11_c09_u031] Ross Geller: Okay, well, if she always behaves like this, why don't you say something?
+[s01_e11_c09_u032] Chandler Bing: Because it's complicated, it's complex- Hey, you kissed my mom!
+[s01_e11_c09_u033] Unknown Speaker: 
+[s01_e11_c09_u034] Ross Geller: We're rehearsing a Greek play.
+[s01_e11_c09_u035] Chandler Bing: That's very funny. We done now?
+[s01_e11_c09_u036] Ross Geller: No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?
+[s01_e11_c09_u037] Chandler Bing: That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her.
+[s01_e11_c09_u038] Ross Geller: Okay, 'you' can't, or you can't? Okay, that's my finger. That's, that's my knee. Still doing the play. Aaah!"
+s01_e11,s01_e11_c10,Coma Guy,0,1,3,0,4,2,s01_e11_c10_u001,s01_e11_c10_u010,"[s01_e11_c10_u001] Phoebe Buffay: Alright, whadyou do with him?
+[s01_e11_c10_u002] Unknown Speaker: 
+[s01_e11_c10_u003] Monica Geller: Oh! You're awake!
+[s01_e11_c10_u004] Phoebe Buffay: Look at you! How, how do you feel?
+[s01_e11_c10_u005] Coma Guy: Uh, a little woozy, but basically okay.
+[s01_e11_c10_u006] Monica Geller: You look good!
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?
+[s01_e11_c10_u008] Monica Geller: Oh, sorry.
+[s01_e11_c10_u009] Phoebe Buffay: I'm Phoebe Buffay.
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you."
+s01_e11,s01_e11_c10,Coma Guy,1,15,16,14,17,2,s01_e11_c10_u016,s01_e11_c10_u023,"[s01_e11_c10_u016] Monica Geller: I read to you.
+[s01_e11_c10_u017] Phoebe Buffay: I sang. Hah!
+[s01_e11_c10_u018] Coma Guy: Well,... thanks.
+[s01_e11_c10_u019] Monica Geller: Oh, my pleasure.
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+[s01_e11_c10_u023] Monica Geller: ""See you around?"""
+s01_e11,s01_e11_c10,Coma Guy,2,18,22,17,23,2,s01_e11_c10_u019,s01_e11_c10_u029,"[s01_e11_c10_u019] Monica Geller: Oh, my pleasure.
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+[s01_e11_c10_u023] Monica Geller: ""See you around?""
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, ""That was nice?"" Admit something to me? ""I'll call you?""
+[s01_e11_c10_u026] Coma Guy: Alright, I'll call you.
+[s01_e11_c10_u027] Phoebe Buffay: I don't think you mean that.
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and ""See you around!"" Let's go, Phoebe.
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma."
+s01_e11,s01_e11_c10,Monica Geller,0,0,6,0,7,3,s01_e11_c10_u001,s01_e11_c10_u013,"[s01_e11_c10_u001] Phoebe Buffay: Alright, whadyou do with him?
+[s01_e11_c10_u002] Unknown Speaker: 
+[s01_e11_c10_u003] Monica Geller: Oh! You're awake!
+[s01_e11_c10_u004] Phoebe Buffay: Look at you! How, how do you feel?
+[s01_e11_c10_u005] Coma Guy: Uh, a little woozy, but basically okay.
+[s01_e11_c10_u006] Monica Geller: You look good!
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?
+[s01_e11_c10_u008] Monica Geller: Oh, sorry.
+[s01_e11_c10_u009] Phoebe Buffay: I'm Phoebe Buffay.
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you.
+[s01_e11_c10_u011] Phoebe Buffay: Well, we both have.
+[s01_e11_c10_u012] Coma Guy: So, the Etch-a-Sketch is from you guys?
+[s01_e11_c10_u013] Phoebe Buffay: Well, actually it's just from me."
+s01_e11,s01_e11_c10,Monica Geller,1,8,8,7,9,2,s01_e11_c10_u009,s01_e11_c10_u015,"[s01_e11_c10_u009] Phoebe Buffay: I'm Phoebe Buffay.
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you.
+[s01_e11_c10_u011] Phoebe Buffay: Well, we both have.
+[s01_e11_c10_u012] Coma Guy: So, the Etch-a-Sketch is from you guys?
+[s01_e11_c10_u013] Phoebe Buffay: Well, actually it's just from me.
+[s01_e11_c10_u014] Monica Geller: I got you the foot massager.
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me."
+s01_e11,s01_e11_c10,Monica Geller,2,10,14,9,15,2,s01_e11_c10_u011,s01_e11_c10_u021,"[s01_e11_c10_u011] Phoebe Buffay: Well, we both have.
+[s01_e11_c10_u012] Coma Guy: So, the Etch-a-Sketch is from you guys?
+[s01_e11_c10_u013] Phoebe Buffay: Well, actually it's just from me.
+[s01_e11_c10_u014] Monica Geller: I got you the foot massager.
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me.
+[s01_e11_c10_u016] Monica Geller: I read to you.
+[s01_e11_c10_u017] Phoebe Buffay: I sang. Hah!
+[s01_e11_c10_u018] Coma Guy: Well,... thanks.
+[s01_e11_c10_u019] Monica Geller: Oh, my pleasure.
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around."
+s01_e11,s01_e11_c10,Monica Geller,3,17,17,16,18,2,s01_e11_c10_u018,s01_e11_c10_u024,"[s01_e11_c10_u018] Coma Guy: Well,... thanks.
+[s01_e11_c10_u019] Monica Geller: Oh, my pleasure.
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+[s01_e11_c10_u023] Monica Geller: ""See you around?""
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?"
+s01_e11,s01_e11_c10,Monica Geller,4,19,23,18,23,2,s01_e11_c10_u020,s01_e11_c10_u029,"[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+[s01_e11_c10_u023] Monica Geller: ""See you around?""
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, ""That was nice?"" Admit something to me? ""I'll call you?""
+[s01_e11_c10_u026] Coma Guy: Alright, I'll call you.
+[s01_e11_c10_u027] Phoebe Buffay: I don't think you mean that.
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and ""See you around!"" Let's go, Phoebe.
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma."
+s01_e11,s01_e11_c10,Phoebe Buffay,0,0,0,0,1,2,s01_e11_c10_u001,s01_e11_c10_u007,"[s01_e11_c10_u001] Phoebe Buffay: Alright, whadyou do with him?
+[s01_e11_c10_u002] Unknown Speaker: 
+[s01_e11_c10_u003] Monica Geller: Oh! You're awake!
+[s01_e11_c10_u004] Phoebe Buffay: Look at you! How, how do you feel?
+[s01_e11_c10_u005] Coma Guy: Uh, a little woozy, but basically okay.
+[s01_e11_c10_u006] Monica Geller: You look good!
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?"
+s01_e11,s01_e11_c10,Phoebe Buffay,1,5,18,4,19,3,s01_e11_c10_u006,s01_e11_c10_u025,"[s01_e11_c10_u006] Monica Geller: You look good!
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?
+[s01_e11_c10_u008] Monica Geller: Oh, sorry.
+[s01_e11_c10_u009] Phoebe Buffay: I'm Phoebe Buffay.
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you.
+[s01_e11_c10_u011] Phoebe Buffay: Well, we both have.
+[s01_e11_c10_u012] Coma Guy: So, the Etch-a-Sketch is from you guys?
+[s01_e11_c10_u013] Phoebe Buffay: Well, actually it's just from me.
+[s01_e11_c10_u014] Monica Geller: I got you the foot massager.
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me.
+[s01_e11_c10_u016] Monica Geller: I read to you.
+[s01_e11_c10_u017] Phoebe Buffay: I sang. Hah!
+[s01_e11_c10_u018] Coma Guy: Well,... thanks.
+[s01_e11_c10_u019] Monica Geller: Oh, my pleasure.
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+[s01_e11_c10_u023] Monica Geller: ""See you around?""
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, ""That was nice?"" Admit something to me? ""I'll call you?"""
+s01_e11,s01_e11_c10,Phoebe Buffay,2,23,23,22,23,2,s01_e11_c10_u024,s01_e11_c10_u029,"[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, ""That was nice?"" Admit something to me? ""I'll call you?""
+[s01_e11_c10_u026] Coma Guy: Alright, I'll call you.
+[s01_e11_c10_u027] Phoebe Buffay: I don't think you mean that.
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and ""See you around!"" Let's go, Phoebe.
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma."
+s01_e11,s01_e11_c11,Chandler Bing,0,0,5,0,6,3,s01_e11_c11_u001,s01_e11_c11_u012,"[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+[s01_e11_c11_u002] Chandler Bing: No, just knowing you're gonna be there is enough.
+[s01_e11_c11_u003] Nora Tyler Bing: Alright, well, be good, I love you.
+[s01_e11_c11_u004] Chandler Bing: You kissed my best Ross! ...Or something to that effect.
+[s01_e11_c11_u005] Nora Tyler Bing: O-kay. Look, it, it was stupid.
+[s01_e11_c11_u006] Chandler Bing: Really stupid.
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+[s01_e11_c11_u008] Chandler Bing: Yeah. No. No...
+[s01_e11_c11_u009] Unknown Speaker: 
+[s01_e11_c11_u010] Ross Geller: Ah, the forbidden love of a man and his door.
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+[s01_e11_c11_u012] Ross Geller: You're kidding."
+s01_e11,s01_e11_c11,Chandler Bing,1,19,29,18,29,3,s01_e11_c11_u020,s01_e11_c11_u039,"[s01_e11_c11_u020] Ross Geller: Whaddya see?
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+[s01_e11_c11_u022] Unknown Speaker: 
+[s01_e11_c11_u023] Nora Tyler Bing: You okay, kiddo?
+[s01_e11_c11_u024] Chandler Bing: Yeah, okay.
+[s01_e11_c11_u025] Nora Tyler Bing: Alright.
+[s01_e11_c11_u026] Chandler Bing: Nice save.
+[s01_e11_c11_u027] Unknown Speaker: 
+[s01_e11_c11_u028] Ross Geller: Mrs. Bing.
+[s01_e11_c11_u029] Nora Tyler Bing: Mr. Geller.
+[s01_e11_c11_u030] Unknown Speaker: 
+[s01_e11_c11_u031] Unknown Speaker: 
+[s01_e11_c11_u032] Chandler Bing: Hey.
+[s01_e11_c11_u033] Ross Geller: You mean that?
+[s01_e11_c11_u034] Chandler Bing: Yeah, why not. So I told her.
+[s01_e11_c11_u035] Ross Geller: Yeah? How'd it go?
+[s01_e11_c11_u036] Chandler Bing: Awful. Awful. Couldn'ta gone worse.
+[s01_e11_c11_u037] Ross Geller: Well, howdya feel?
+[s01_e11_c11_u038] Chandler Bing: Pretty good! I told her.
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road."
+s01_e11,s01_e11_c11,Joey Tribbiani,0,7,17,6,18,3,s01_e11_c11_u007,s01_e11_c11_u025,"[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+[s01_e11_c11_u008] Chandler Bing: Yeah. No. No...
+[s01_e11_c11_u009] Unknown Speaker: 
+[s01_e11_c11_u010] Ross Geller: Ah, the forbidden love of a man and his door.
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+[s01_e11_c11_u012] Ross Geller: You're kidding.
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said ""When are you gonna grow up and start being a mom?""
+[s01_e11_c11_u014] Ross Geller: Wow!
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with ""The question is, when are you gonna grow up and realise I have a bomb?""
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say ""When are you gonna grow up and realise I am your mom?""
+[s01_e11_c11_u017] Joey Tribbiani: That makes more sense.
+[s01_e11_c11_u018] Ross Geller: So, what's going on now?
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+[s01_e11_c11_u020] Ross Geller: Whaddya see?
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+[s01_e11_c11_u022] Unknown Speaker: 
+[s01_e11_c11_u023] Nora Tyler Bing: You okay, kiddo?
+[s01_e11_c11_u024] Chandler Bing: Yeah, okay.
+[s01_e11_c11_u025] Nora Tyler Bing: Alright."
+s01_e11,s01_e11_c11,Nora Tyler Bing,0,0,4,0,5,3,s01_e11_c11_u001,s01_e11_c11_u011,"[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+[s01_e11_c11_u002] Chandler Bing: No, just knowing you're gonna be there is enough.
+[s01_e11_c11_u003] Nora Tyler Bing: Alright, well, be good, I love you.
+[s01_e11_c11_u004] Chandler Bing: You kissed my best Ross! ...Or something to that effect.
+[s01_e11_c11_u005] Nora Tyler Bing: O-kay. Look, it, it was stupid.
+[s01_e11_c11_u006] Chandler Bing: Really stupid.
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+[s01_e11_c11_u008] Chandler Bing: Yeah. No. No...
+[s01_e11_c11_u009] Unknown Speaker: 
+[s01_e11_c11_u010] Ross Geller: Ah, the forbidden love of a man and his door.
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything."
+s01_e11,s01_e11_c11,Nora Tyler Bing,1,18,22,17,23,2,s01_e11_c11_u019,s01_e11_c11_u033,"[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+[s01_e11_c11_u020] Ross Geller: Whaddya see?
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+[s01_e11_c11_u022] Unknown Speaker: 
+[s01_e11_c11_u023] Nora Tyler Bing: You okay, kiddo?
+[s01_e11_c11_u024] Chandler Bing: Yeah, okay.
+[s01_e11_c11_u025] Nora Tyler Bing: Alright.
+[s01_e11_c11_u026] Chandler Bing: Nice save.
+[s01_e11_c11_u027] Unknown Speaker: 
+[s01_e11_c11_u028] Ross Geller: Mrs. Bing.
+[s01_e11_c11_u029] Nora Tyler Bing: Mr. Geller.
+[s01_e11_c11_u030] Unknown Speaker: 
+[s01_e11_c11_u031] Unknown Speaker: 
+[s01_e11_c11_u032] Chandler Bing: Hey.
+[s01_e11_c11_u033] Ross Geller: You mean that?"
+s01_e11,s01_e11_c11,Ross Geller,0,6,16,5,17,3,s01_e11_c11_u006,s01_e11_c11_u024,"[s01_e11_c11_u006] Chandler Bing: Really stupid.
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+[s01_e11_c11_u008] Chandler Bing: Yeah. No. No...
+[s01_e11_c11_u009] Unknown Speaker: 
+[s01_e11_c11_u010] Ross Geller: Ah, the forbidden love of a man and his door.
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+[s01_e11_c11_u012] Ross Geller: You're kidding.
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said ""When are you gonna grow up and start being a mom?""
+[s01_e11_c11_u014] Ross Geller: Wow!
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with ""The question is, when are you gonna grow up and realise I have a bomb?""
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say ""When are you gonna grow up and realise I am your mom?""
+[s01_e11_c11_u017] Joey Tribbiani: That makes more sense.
+[s01_e11_c11_u018] Ross Geller: So, what's going on now?
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+[s01_e11_c11_u020] Ross Geller: Whaddya see?
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+[s01_e11_c11_u022] Unknown Speaker: 
+[s01_e11_c11_u023] Nora Tyler Bing: You okay, kiddo?
+[s01_e11_c11_u024] Chandler Bing: Yeah, okay."
+s01_e11,s01_e11_c11,Ross Geller,1,23,29,22,29,3,s01_e11_c11_u025,s01_e11_c11_u039,"[s01_e11_c11_u025] Nora Tyler Bing: Alright.
+[s01_e11_c11_u026] Chandler Bing: Nice save.
+[s01_e11_c11_u027] Unknown Speaker: 
+[s01_e11_c11_u028] Ross Geller: Mrs. Bing.
+[s01_e11_c11_u029] Nora Tyler Bing: Mr. Geller.
+[s01_e11_c11_u030] Unknown Speaker: 
+[s01_e11_c11_u031] Unknown Speaker: 
+[s01_e11_c11_u032] Chandler Bing: Hey.
+[s01_e11_c11_u033] Ross Geller: You mean that?
+[s01_e11_c11_u034] Chandler Bing: Yeah, why not. So I told her.
+[s01_e11_c11_u035] Ross Geller: Yeah? How'd it go?
+[s01_e11_c11_u036] Chandler Bing: Awful. Awful. Couldn'ta gone worse.
+[s01_e11_c11_u037] Ross Geller: Well, howdya feel?
+[s01_e11_c11_u038] Chandler Bing: Pretty good! I told her.
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road."
+s01_e11,s01_e11_c12,Rachel Green,0,0,1,0,1,2,s01_e11_c12_u001,s01_e11_c12_u006,"[s01_e11_c12_u001] Rachel Green: Okay. Now this is just the first chapter, and I want your absolute honest opinion. Oh, oh, and on page two, he's not 'reaching for her heaving beasts'.
+[s01_e11_c12_u002] Monica Geller: What's a 'niffle'?
+[s01_e11_c12_u003] Joey Tribbiani: You usually find them on the 'heaving beasts'.
+[s01_e11_c12_u004] Rachel Green: Alright, alright, so I'm not a great typist...
+[s01_e11_c12_u005] Ross Geller: Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!
+[s01_e11_c12_u006] Rachel Green: Alright, that's it! Give it back! That's it!"

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He is vocal and animated about the game, making play-by-play remarks and directives like saying the players should pass the puck."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He shows a taunting, unsympathetic tone (e.g., noting someone is 'not laughing now' and that the players are 'getting' Speaker_01), suggesting low warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; he simply reacts to the game in the moment."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "His remarks are confident and mocking, giving commands without any signs of worry or sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He is narrowly focused on the hockey game; another speaker notes that a rough hockey match is 'all he needs,' indicating a limited, conventional interest rather than curiosity."
+  }
+}

@@ -1,0 +1,90 @@
+('tell', 'I/Joey Tribbiani', 'you', 's01_e14_c01_u001')
+[s01_e14_c01_u001] Joey Tribbiani: I'm tellin' you Ross, she wants you.
+
+('want', 'she/Woman', 'you', 's01_e14_c01_u001')
+[s01_e14_c01_u001] Joey Tribbiani: I'm tellin' you Ross, she wants you.
+
+('know', 'she/Woman', 'me', 's01_e14_c01_u002')
+[s01_e14_c01_u002] Ross Geller: She barely knows me. We just live in the same building.
+
+('live', 'we/Ross Geller+Woman', 'in the same building', 's01_e14_c01_u002')
+[s01_e14_c01_u002] Ross Geller: She barely knows me. We just live in the same building.
+
+('lend', 'she/Woman', 'me an egg', 's01_e14_c01_u004')
+[s01_e14_c01_u004] Ross Geller: She lent me an egg once.
+
+('be', 'you/Ross Geller', 'in', 's01_e14_c01_u005')
+[s01_e14_c01_u005] Joey Tribbiani: You're in!
+
+('come', 'you/Ross Geller', 'on', 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('get', 'you/Ross Geller', 'back in the game', 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('happen', 'the Rachel thing', None, 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('be', 'your ex-wife', 'a lesbian', 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('think', 'I/Chandler Bing', 'we need a third', 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('need', 'we/Chandler Bing+Joey Tribbiani+Ross Geller', 'a third', 's01_e14_c01_u009')
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+
+('excuse', 'you/Server', 'me', 's01_e14_c01_u010')
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+
+('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'an egg', 's01_e14_c01_u010')
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+
+('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'over here', 's01_e14_c01_u010')
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+
+('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'in the shell', 's01_e14_c01_u010')
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+
+('go up', 'you/Ross Geller', 'to her', 's01_e14_c01_u012')
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, "Here's your egg back, I'm returning your egg."
+
+('say', 'you/Ross Geller', '"Here\'s your egg back, I\'m returning your egg."', 's01_e14_c01_u012')
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, "Here's your egg back, I'm returning your egg."
+
+('be', 'your egg', 'back', 's01_e14_c01_u012')
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, "Here's your egg back, I'm returning your egg."
+
+('return', 'I/Ross Geller', 'your egg', 's01_e14_c01_u012')
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, "Here's your egg back, I'm returning your egg."
+
+('think', 'I/Chandler Bing', "it's winning", 's01_e14_c01_u013')
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+
+('be', 'it/the plan', 'winning', 's01_e14_c01_u013')
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+
+('think', 'I/Ross Geller', "it's insane", 's01_e14_c01_u014')
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+
+('be', 'it/the plan', 'insane', 's01_e14_c01_u014')
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+
+('love', 'she/Woman', 'it', 's01_e14_c01_u015')
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend.
+
+('go', 'you/Ross Geller', 'with the egg', 's01_e14_c01_u015')
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend.
+
+('think', 'you/Chandler Bing', "it'll work", 's01_e14_c01_u017')
+[s01_e14_c01_u017] Joey Tribbiani: Think it'll work?
+
+('work', 'it/the plan', None, 's01_e14_c01_u017')
+[s01_e14_c01_u017] Joey Tribbiani: Think it'll work?
+
+('be', 'it/the plan', 'suicide', 's01_e14_c01_u018')
+[s01_e14_c01_u018] Chandler Bing: No, it's suicide. The man's got an egg.
+
+('have', 'the man', 'an egg', 's01_e14_c01_u018')
+[s01_e14_c01_u018] Chandler Bing: No, it's suicide. The man's got an egg.
+

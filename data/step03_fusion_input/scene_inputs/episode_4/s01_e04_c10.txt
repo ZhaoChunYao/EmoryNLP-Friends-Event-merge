@@ -1,0 +1,129 @@
+('be', 'I/Rachel Green', 'so sorry', 's01_e04_c10_u001')
+[s01_e04_c10_u001] Rachel Green: I'm so sorry, you guys. I didn't mean to bring you down.
+
+('mean', 'I/Rachel Green', 'bring you down', 's01_e04_c10_u001')
+[s01_e04_c10_u001] Rachel Green: I'm so sorry, you guys. I didn't mean to bring you down.
+
+('bring', 'I/Rachel Green', 'you down', 's01_e04_c10_u001')
+[s01_e04_c10_u001] Rachel Green: I'm so sorry, you guys. I didn't mean to bring you down.
+
+('be', 'you/Rachel Green', 'right', 's01_e04_c10_u002')
+[s01_e04_c10_u002] Monica Geller: No, you were right. I don't have a plan.
+
+('have', 'I/Monica Geller', 'a plan', 's01_e04_c10_u002')
+[s01_e04_c10_u002] Monica Geller: No, you were right. I don't have a plan.
+
+('thank', 'I/Rachel Green', 'God', 's01_e04_c10_u004')
+[s01_e04_c10_u004] Rachel Green: Thank God. Food.
+
+('have', 'you/Phoebe Buffay', 'a plan', 's01_e04_c10_u007')
+[s01_e04_c10_u007] Monica Geller: Do you have a plan?
+
+('have', 'I/Phoebe Buffay', "a 'pl'", 's01_e04_c10_u008')
+[s01_e04_c10_u008] Phoebe Buffay: I don't even have a 'pl'.
+
+('be', 'that/pizza delivered', 'what we ordered', 's01_e04_c10_u010')
+[s01_e04_c10_u010] Rachel Green: No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.
+
+('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'what', 's01_e04_c10_u010')
+[s01_e04_c10_u010] Rachel Green: No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.
+
+('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'a fat-free crust', 's01_e04_c10_u010')
+[s01_e04_c10_u010] Rachel Green: No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.
+
+('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'with extra cheese', 's01_e04_c10_u010')
+[s01_e04_c10_u010] Rachel Green: No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.
+
+('wait', 'you/Monica Geller+Rachel Green+Phoebe Buffay', None, 's01_e04_c10_u011')
+[s01_e04_c10_u011] Pizza Guy: Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!
+
+('be', 'you/Rachel Green', 'G.Stephanopoulos', 's01_e04_c10_u011')
+[s01_e04_c10_u011] Pizza Guy: Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!
+
+('kill', 'my dad/Pizza Guy', 'me/Pizza Guy', 's01_e04_c10_u011')
+[s01_e04_c10_u011] Pizza Guy: Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!
+
+('wait', 'you/Pizza Guy', None, 's01_e04_c10_u012')
+[s01_e04_c10_u012] Monica Geller: Wait! Did you say 'G.Stephanopoulos?'
+
+('say', 'you/Pizza Guy', 'G.Stephanopoulos', 's01_e04_c10_u012')
+[s01_e04_c10_u012] Monica Geller: Wait! Did you say 'G.Stephanopoulos?'
+
+('go', 'this one/pizza', 'across the street', 's01_e04_c10_u013')
+[s01_e04_c10_u013] Pizza Guy: Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!
+
+('give', 'I/Pizza Guy', 'him', 's01_e04_c10_u013')
+[s01_e04_c10_u013] Pizza Guy: Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!
+
+('give', 'I/Pizza Guy', 'yours', 's01_e04_c10_u013')
+[s01_e04_c10_u013] Pizza Guy: Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!
+
+('be', 'this/George Stephanopoulos', 'a small mediterranean guy', 's01_e04_c10_u014')
+[s01_e04_c10_u014] Monica Geller: Wait, was this a-a small mediterranean guy with curiously intelligent good looks?
+
+('be', 'this/George Stephanopoulos', 'with curiously intelligent good looks', 's01_e04_c10_u014')
+[s01_e04_c10_u014] Monica Geller: Wait, was this a-a small mediterranean guy with curiously intelligent good looks?
+
+('sound', 'that/description', 'right', 's01_e04_c10_u015')
+[s01_e04_c10_u015] Pizza Guy: Yeah, that sounds about right.
+
+('wear', 'he/George Stephanopoulos', 'a stunning blue suit', 's01_e04_c10_u016')
+[s01_e04_c10_u016] Monica Geller: Was he wearing a stunning blue suit?
+
+('want', 'you guys/Monica Geller+Rachel Green+Phoebe Buffay', 'me to take this back', 's01_e04_c10_u020')
+[s01_e04_c10_u020] Pizza Guy: So you guys want me to take this back?
+
+('take', 'me/Pizza Guy', 'this back', 's01_e04_c10_u020')
+[s01_e04_c10_u020] Pizza Guy: So you guys want me to take this back?
+
+('be', 'you/Pizza Guy', 'nuts', 's01_e04_c10_u021')
+[s01_e04_c10_u021] Monica Geller: Are you nuts?! We've got George Stephanopoulos' pizza!
+
+('have', 'we/Monica Geller+Rachel Green+Phoebe Buffay', "George Stephanopoulos' pizza", 's01_e04_c10_u021')
+[s01_e04_c10_u021] Monica Geller: Are you nuts?! We've got George Stephanopoulos' pizza!
+
+('be', 'who/unknown', 'George Snuffalopagus', 's01_e04_c10_u022')
+[s01_e04_c10_u022] Rachel Green: Uh, Pheebs? Who's George Snuffalopagus?
+
+('see', 'I/Monica Geller', 'pizza', 's01_e04_c10_u024')
+[s01_e04_c10_u024] Monica Geller: I see pizza!
+
+('want', 'I/Phoebe Buffay', 'see', 's01_e04_c10_u025')
+[s01_e04_c10_u025] Phoebe Buffay: Oh, I wanna see! Lemme see! Lemme see!
+
+('see', 'I/Phoebe Buffay', None, 's01_e04_c10_u025')
+[s01_e04_c10_u025] Phoebe Buffay: Oh, I wanna see! Lemme see! Lemme see!
+
+('let', 'you/Monica Geller', 'me', 's01_e04_c10_u025')
+[s01_e04_c10_u025] Phoebe Buffay: Oh, I wanna see! Lemme see! Lemme see!
+
+('see', 'me/Phoebe Buffay', None, 's01_e04_c10_u025')
+[s01_e04_c10_u025] Phoebe Buffay: Oh, I wanna see! Lemme see! Lemme see!
+
+('spy', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'on who', 's01_e04_c10_u026')
+[s01_e04_c10_u026] Rachel Green: Hello? Who are we spying on?
+
+('love', 'I/Rachel Green', 'him', 's01_e04_c10_u028')
+[s01_e04_c10_u028] Rachel Green: Oh, him, the little guy? Oh, I love him!
+
+('wait', 'you/Monica Geller+Rachel Green', None, 's01_e04_c10_u029')
+[s01_e04_c10_u029] Phoebe Buffay: Ooh, wait.. wait, I see a woman.
+
+('see', 'I/Phoebe Buffay', 'a woman', 's01_e04_c10_u029')
+[s01_e04_c10_u029] Phoebe Buffay: Ooh, wait.. wait, I see a woman.
+
+('tell', 'you/Phoebe Buffay', 'me', 's01_e04_c10_u030')
+[s01_e04_c10_u030] Monica Geller: Please tell me it's his mother.
+
+('be', 'it/the woman', 'his mother', 's01_e04_c10_u030')
+[s01_e04_c10_u030] Monica Geller: Please tell me it's his mother.
+
+('walk', 'she/the woman', 'across the floor', 's01_e04_c10_u033')
+[s01_e04_c10_u033] Phoebe Buffay: Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- Hey, that's not for you, bitch!
+
+('go', 'she/the woman', 'for the pizza', 's01_e04_c10_u033')
+[s01_e04_c10_u033] Phoebe Buffay: Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- Hey, that's not for you, bitch!
+
+('be', 'that/pizza', 'for you', 's01_e04_c10_u033')
+[s01_e04_c10_u033] Phoebe Buffay: Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- Hey, that's not for you, bitch!
+

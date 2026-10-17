@@ -1,0 +1,55 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c06_u001_e1",
+          "tuples": [
+            "('guess', 'I/(Joey Tribbiani)', 'you all saw it', 's01_e09_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c06_u001_e2",
+          "tuples": [
+            "('see', 'you all/(Rachel Green and Phoebe Buffay)', 'it', 's01_e09_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c06_u002_e1",
+          "tuples": [
+            "('see', 'you/(Joey Tribbiani)', 'what', 's01_e09_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c06_u003_e1",
+          "tuples": [
+            "('laugh', 'we/(Rachel Green and Phoebe Buffay)', None, 's01_e09_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c06_u003_e2",
+          "tuples": [
+            "('know', 'you/(Joey Tribbiani)', 'how laughter can be infectious', 's01_e09_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c06_u003_e3",
+          "tuples": [
+            "('be', 'laughter', 'infectious', 's01_e09_c06_u003')"
+          ]
+        }
+      ]
+    }
+  ]
+}

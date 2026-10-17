@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enthusiastically pushes a bold social move—urges Speaker_02 to approach Speaker_03 with an egg and deliver a line, calling it a 'winning idea' and saying Speaker_03 will love it (u013, u015)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Pressures Speaker_02 into a risky/embarrassing stunt and later calls it 'suicide,' showing low concern and inconsistency (u015, u018)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Quickly champions the plan as a 'winning idea' then reverses to 'suicide,' indicating impulsiveness/poor judgment (u013, u018)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mixed signals: initially confident about the plan, later dramatic ('suicide'); no clear sustained anxiety (u013, u018)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Backs an unusual, creative plan of returning someone’s egg with a scripted line, praising it as a 'winning idea' (u013, u015)."
+  }
+}

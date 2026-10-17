@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enthusiastically shares a small achievement with others: “Isn't this amazing?” and speaks energetically about it."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes a boastful claim: “if I can make coffee, there isn't anything I can't do.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; simply notes making coffee for the first time."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Expresses strong confidence: “there isn't anything I can't do,” with no sign of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Tries something new (making coffee for the first time) and treats it as exciting and empowering."
+  }
+}

@@ -1,0 +1,30 @@
+Episode: s01_e07
+Scene: s01_e07_c14
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e07_c14_u001 → s01_e07_c14_u011
+Peak window: 0 → 6
+
+Dialogue:
+  [s01_e07_c14_u001]
+  1. Speaker_01 says the Mendels hate all living things.
+  [s01_e07_c14_u002]
+  1. Speaker_02 says Speaker_03, Speaker_04, Speaker_01, Speaker_02, Speaker_05, and Speaker_06 have just found the cat.
+  2. Speaker_02 says Speaker_03, Speaker_04, Speaker_01, Speaker_02, Speaker_05, and Speaker_06 are looking for the cat's owner.
+  [s01_e07_c14_u003] TargetSpeaker: Er, yeah, it's mine.
+  [s01_e07_c14_u004]
+  1. Speaker_01 says the cat seems to hate TargetSpeaker.
+  2. Speaker_01 asks whether TargetSpeaker is sure.
+  [s01_e07_c14_u005]
+  1. TargetSpeaker says the cat is TargetSpeaker's cat.
+  2. TargetSpeaker says Speaker_02 and Speaker_01 should give TargetSpeaker his cat.
+  [s01_e07_c14_u006]
+  1. Speaker_01 says TargetSpeaker should wait a minute.
+  2. Speaker_01 says TargetSpeaker should tell the cat's name.
+  [s01_e07_c14_u007] TargetSpeaker: Ehhhh... B-Buttons.
+  [s01_e07_c14_u008] Speaker_02: Bob Buttons?
+  [s01_e07_c14_u009] TargetSpeaker: Mmm. Bob Buttons. Here, Bob Buttons.
+  [s01_e07_c14_u010]
+  1. Speaker_01 says TargetSpeaker is a very bad man.
+  [s01_e07_c14_u011]
+  1. TargetSpeaker says Speaker_02 and Speaker_01 owe TargetSpeaker a cat.

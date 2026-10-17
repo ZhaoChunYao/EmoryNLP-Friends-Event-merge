@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enthusiastically engages with the moment (“this is so nice”), exclaims “Ohhh!!!!,” and energetically directs attention to a cat, showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks warmly about the shared moment (“so nice”) and responds cooperatively (“OK”), indicating friendliness and positivity toward the other person."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Derails the other speaker’s attempt to share something by interrupting to point out a cat, suggesting distractibility and lack of focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears relaxed and cheerful (“so nice”) with playful excitement and no signs of anxiety or tension."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or unconventional thinking beyond casually pointing out a cat."
+  }
+}

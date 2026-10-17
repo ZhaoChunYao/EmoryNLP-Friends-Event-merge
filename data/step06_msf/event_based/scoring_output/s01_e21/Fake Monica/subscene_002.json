@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages in lively banter, volunteers details (“blue is my color”) and asks questions about how they were found out (u004); openly shares a humiliating jail detail with ease (u012)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Used Speaker_01’s credit card leading to trouble (u005–u006), undercuts Speaker_01’s achievement (“only got to ‘Memo-’,” u010), and dismisses their concerns (“nothing to wonder about,” u014)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Irresponsible behavior implied by using someone else’s credit card and ending up in jail (u005–u006)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "While in jail, says they’re “not too bad” and jokes (“blue is my color,” u004); describes a degrading experience matter-of-factly (u012), indicating composure and confidence."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dogmatic stance about Speaker_01’s nature (“you’re going to go back to being exactly who you were,” u014) and resorts to a simplistic ‘Amish’ explanation (u016–u018) rather than exploring possibilities."
+  }
+}

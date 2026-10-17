@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Says only “Hi” and a brief “Wonderful!”; limited talkativeness or outgoing behavior shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a friendly greeting and a positive, straightforward reply about the movie."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to planning, organization, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Calm, upbeat, and confident response (“Wonderful!”) with no signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity, unconventional views, or cautious/dogmatic stance."
+  }
+}

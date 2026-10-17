@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Reserved and minimally talkative: gives brief, hesitant replies (“Sorry—”, “Okay.” “Yeah, maybe…”, “Goodnight.”) and doesn’t initiate conversation even when asked out."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and cooperative: apologizes, tries to let the other have the item (“No, you have it, really, I don’t want it”), agrees to split, and is described as putting someone else’s watch back where it was—trustworthy and considerate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating efficiency/organization or sloppiness/carelessness in this exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit signs of nervousness or emotional volatility; responds calmly to the situation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Tentative “Yeah, maybe…” to being asked out shows mild openness but also caution; no strong indications of curiosity or novelty-seeking."
+  }
+}

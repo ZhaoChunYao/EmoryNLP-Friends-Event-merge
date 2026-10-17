@@ -1,0 +1,541 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c12_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani', 'with that', 's01_e09_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'I/Joey Tribbiani', 'one keyhole and about a zillion keys', 's01_e09_c12_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'the math', 's01_e09_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'you guys/(Chandler Bing & Joey Tribbiani)', 'so many keys', 's01_e09_c12_u004')",
+            "('have', 'you guys/(Chandler Bing & Joey Tribbiani)', 'in there', 's01_e09_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/Chandler Bing', None, 's01_e09_c12_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it', 'for you and your stupid balloon', 's01_e09_c12_u006')",
+            "('be', 'I/Rachel Green', 'on a plane', 's01_e09_c12_u006')",
+            "('watch', 'I/Rachel Green', 'a woman do this', 's01_e09_c12_u006')",
+            "('do', 'a woman', 'this', 's01_e09_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('swear', 'I/Monica Geller', 'you said you had the keys', 's01_e09_c12_u007')",
+            "('say', 'you/Rachel Green', 'you had the keys', 's01_e09_c12_u007')",
+            "('have', 'you/Rachel Green', 'the keys', 's01_e09_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'I/Rachel Green', 'I had the keys', 's01_e09_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'the keys', 's01_e09_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that', 'it', 's01_e09_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('say', 'No one', 'keys', 's01_e09_c12_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'the keys', 's01_e09_c12_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'you/Monica Geller', 'you had them', 's01_e09_c12_u012')",
+            "('have', 'you/Monica Geller', 'them', 's01_e09_c12_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'everything', 'my responsibility', 's01_e09_c12_u019')",
+            "('be', 'it', 'enough', 's01_e09_c12_u019')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('make', 'I/Monica Geller', 'for everyone', 's01_e09_c12_u019')",
+            "('want', 'everyone', 'a different kind of potatoes', 's01_e09_c12_u019')",
+            "('make', 'I/Monica Geller', 'different kinds of potatoes', 's01_e09_c12_u019')",
+            "('get', 'Phoebe Buffay', 'her peas and onions', 's01_e09_c12_u019')",
+            "('get', 'Mario', 'his tots', 's01_e09_c12_u019')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('care', 'anybody', 'what kind of potatoes I want', 's01_e09_c12_u019')",
+            "('want', 'I/Monica Geller', 'what kind of potatoes', 's01_e09_c12_u019')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'it', 'my first Thanksgiving', 's01_e09_c12_u019')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('be', 'it', 'all burned', 's01_e09_c12_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('hear', 'dogs', 'you', 's01_e09_c12_u020')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('look', 'you/Monica Geller', None, 's01_e09_c12_u020')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'the door', 'open', 's01_e09_c12_u020')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('go', 'we/(group)', None, 's01_e09_c12_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u022",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'the turkey', 'burnt', 's01_e09_c12_u022')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'potatoes', 'ruined', 's01_e09_c12_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u024",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'we/(Ross Geller and friends)', None, 's01_e09_c12_u024')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('smell', 'this', \"like Mom's\", 's01_e09_c12_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u025",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'lumps', 's01_e09_c12_u025')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('get', 'you/Ross Geller', 'one', 's01_e09_c12_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u026",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'the plane', 'gone', 's01_e09_c12_u026')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('look', 'it', \"like I'm stuck here with you guys\", 's01_e09_c12_u026')",
+            "('be', 'I/Rachel Green', 'stuck', 's01_e09_c12_u026')",
+            "('be', 'I/Rachel Green', 'with you guys', 's01_e09_c12_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u027",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'we all/(group)', 'better plans', 's01_e09_c12_u027')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'this', \"nobody's first choice\", 's01_e09_c12_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u028",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('bust', 'I/Monica Geller', 'my ass', 's01_e09_c12_u028')",
+            "('make', 'I/Monica Geller', 'this delicious Thanksgiving dinner', 's01_e09_c12_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u029",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('call', 'you/Monica Geller', 'that delicious', 's01_e09_c12_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u031",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('stop', 'you/(group)', 'it', 's01_e09_c12_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u032",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('feel', 'this', 'like Thanksgiving', 's01_e09_c12_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u036",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('take', 'Ugly Naked Guy', 'his turkey', 's01_e09_c12_u036')",
+            "('take', 'Ugly Naked Guy', 'out of the oven', 's01_e09_c12_u036')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'He/Ugly Naked Guy', 'not alone', 's01_e09_c12_u036')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('have', 'Ugly Naked Guy', 'Thanksgiving dinner', 's01_e09_c12_u036')",
+            "('have', 'Ugly Naked Guy', 'with Ugly Naked Gal', 's01_e09_c12_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u038",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'I/Joey Tribbiani', 'this', 's01_e09_c12_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u040",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'nice', 's01_e09_c12_u040')",
+            "('have', 'he/Ugly Naked Guy', 'someone', 's01_e09_c12_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u042",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('carve', 'I/Chandler Bing', None, 's01_e09_c12_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u044",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'who/(unknown)', 'light cheese', 's01_e09_c12_u044')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('want', 'who/(unknown)', 'dark cheese', 's01_e09_c12_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u045",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'to know', 's01_e09_c12_u045')",
+            "('know', 'I/Ross Geller', 'about the dark cheese', 's01_e09_c12_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u046",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('split', 'anybody', 'with me', 's01_e09_c12_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u048",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('make', 'you guys/(Monica Geller & Joey Tribbiani)', 'a wish', 's01_e09_c12_u048')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u049",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('make', 'you/Monica Geller', 'a wish', 's01_e09_c12_u049')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u050",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'the bigger half', 's01_e09_c12_u050')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('wish', 'you/Joey Tribbiani', 'for what', 's01_e09_c12_u050')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u052",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('like', 'I/Chandler Bing', 'to propose a toast', 's01_e09_c12_u052')",
+            "('propose', 'I/Chandler Bing', 'a toast', 's01_e09_c12_u052')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('know', 'I/Chandler Bing', \"this isn't the kind of Thanksgiving that all of you all planned\", 's01_e09_c12_u052')",
+            "('be', 'this', 'not the kind of Thanksgiving that all of you all planned', 's01_e09_c12_u052')",
+            "('plan', 'all of you all', 'the kind of Thanksgiving', 's01_e09_c12_u052')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'this', 'really great', 's01_e09_c12_u052')",
+            "('involve', 'it', 'divorce or projectile vomiting', 's01_e09_c12_u052')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('go', 'you/Rachel Green', 'to Vail', 's01_e09_c12_u052')",
+            "('be', 'you guys/(Monica Geller & Ross Geller)', 'with your family', 's01_e09_c12_u052')",
+            "('have', 'you/Joey Tribbiani', 'syphilis', 's01_e09_c12_u052')",
+            "('be', 'we/(group)', 'all together', 's01_e09_c12_u052')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('try', 'I/Chandler Bing', 'to say', 's01_e09_c12_u052')",
+            "('be', \"what I'm trying to say\", \"that I'm very thankful that all of your Thanksgivings sucked\", 's01_e09_c12_u052')",
+            "('be', 'I/Chandler Bing', 'very thankful that all of your Thanksgivings sucked', 's01_e09_c12_u052')",
+            "('suck', 'all of your Thanksgivings', None, 's01_e09_c12_u052')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u053",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'That', 'so sweet', 's01_e09_c12_u053')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c12_u054",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'here', 'to a lousy Christmas', 's01_e09_c12_u054')"
+          ]
+        }
+      ]
+    }
+  ]
+}

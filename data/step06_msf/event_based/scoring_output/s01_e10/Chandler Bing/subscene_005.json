@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Volunteers an enthusiastic story about hanging out with Speaker_03 (“had such a blast”), and energetically describes activities they did together (played, watched TV)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks straightforwardly and offers positive, generous praise of Speaker_03’s juggling (“amazing”) and even assumes Speaker_01 taught it, giving credit."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about being organized or careful vs. sloppy or careless."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of anxiety; speaks casually and cheerfully about the events and downplays any issue, indicating comfort and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Enjoys playful activities and appreciates a novel juggling trick, showing curiosity and openness to new experiences."
+  }
+}

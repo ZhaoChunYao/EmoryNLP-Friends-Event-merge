@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages the group conversation, pointing out, \"everyone is looking at the guy with the telescope,\" then adds updates (\"he is waving back\") and asks, \"What kinda stuff?\"—showing sociable, talkative participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When Speaker_04 expresses being creeped out and restricted at home, TargetSpeaker responds with \"What kinda stuff?\" prompting a rebuke to \"grow up,\" suggesting a teasing/insensitive reaction rather than supportive or empathetic."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of planning, organization, or carelessness from TargetSpeaker in this exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display anxiety or insecurity; remarks are neutral/observational."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows curiosity by probing \"What kinda stuff?\" and comfortably engages in possibly taboo/edgy topics within the group discussion."
+  }
+}

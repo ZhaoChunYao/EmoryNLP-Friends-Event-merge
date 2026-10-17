@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads and energizes the group conversation—prompts Speaker_01 to tell his patient story to everyone and jokes that after he leaves, they will all talk about him—showing sociable, talkative engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks warmly about Speaker_01 (“[he] is great”) and offers a friendly compliment (“for a shrink, not too shrinky”), maintaining a positive, non-confrontational tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization/efficiency or of carelessness/sloppiness in this short exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence (“I know [he] likes me”) and answers a sexual question without visible anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages sharing an unusual patient story and comfortably discusses an unconventional sexual scenario (sex on the therapist’s couch), showing curiosity and openness despite noting it might be “a little weird.”"
+  }
+}

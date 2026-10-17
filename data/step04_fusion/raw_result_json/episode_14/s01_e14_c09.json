@@ -1,0 +1,151 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u001_e1",
+          "tuples": [
+            "('say', 'I/Ross Geller', 'if dogs do experience jet lag', 's01_e14_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u001_e2",
+          "tuples": [
+            "('experience', 'dogs', 'jet lag', 's01_e14_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u001_e3",
+          "tuples": [
+            "('fly', 'a dog', None, 's01_e14_c09_u001')",
+            "('fly', 'a dog', 'from New York', 's01_e14_c09_u001')",
+            "('fly', 'a dog', 'to Los Angeles', 's01_e14_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u001_e4",
+          "tuples": [
+            "('lose', 'he/a dog', 'three hours', 's01_e14_c09_u001')",
+            "('lose', 'he/a dog', 'like a week and a half', 's01_e14_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u003_e1",
+          "tuples": [
+            "('be', \"that/Ross's comment\", 'funny', 's01_e14_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u003_e2",
+          "tuples": [
+            "('be', 'they/the two women', 'who', 's01_e14_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u004_e1",
+          "tuples": [
+            "('be', 'The blond woman', 'my ex-wife', 's01_e14_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u004_e2",
+          "tuples": [
+            "('touch', 'the woman', 'her', 's01_e14_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u004_e3",
+          "tuples": [
+            "('be', 'the woman touching her', 'her close, personal friend', 's01_e14_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u005_e1",
+          "tuples": [
+            "('mean', 'you/Ross Geller', \"they're lovers\", 's01_e14_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u005_e2",
+          "tuples": [
+            "('be', 'they/the two women', 'lovers', 's01_e14_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u006_e1",
+          "tuples": [
+            "('want', 'you/Kristin', 'to put a label on it', 's01_e14_c09_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u006_e2",
+          "tuples": [
+            "('put', 'you/Kristin', 'a label', 's01_e14_c09_u006')",
+            "('put', 'you/Kristin', 'on it', 's01_e14_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u007",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u007_e1",
+          "tuples": [
+            "('know', 'I/Kristin', 'anything else', 's01_e14_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u008",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u008_e1",
+          "tuples": [
+            "('be', 'that/everything', 'it', 's01_e14_c09_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c09_u010",
+      "events": [
+        {
+          "event_id": "s01_e14_c09_u010_e1",
+          "tuples": [
+            "('be', 'she/my ex-wife', 'pregnant', 's01_e14_c09_u010')",
+            "('be pregnant', 'she/my ex-wife', 'with my baby', 's01_e14_c09_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c09_u010_e2",
+          "tuples": [
+            "('forget', 'I/Ross Geller', 'that part', 's01_e14_c09_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

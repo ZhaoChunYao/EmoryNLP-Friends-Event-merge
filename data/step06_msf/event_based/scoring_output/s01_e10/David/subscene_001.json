@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "After being asked to speak up, TargetSpeaker openly shared detailed compliments and opinions about others’ beauty and films in front of the group (u036–u040)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker gave a generous compliment to Speaker_02 (“most beautiful woman TargetSpeaker has ever seen”) and straightforwardly reported the private exchange, also agreeing with Speaker_01’s view (u036–u038)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker was engaged in a side conversation while Speaker_02 was playing, prompting a reprimand and disrupting the activity (u032–u036)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker showed no nervousness; confidently disclosed personal opinions publicly even after being called out (u036–u040)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker offered nuanced aesthetic judgments about films and qualities (“liked her in Splash, not in Wall Street,” “hard quality,” “luminous with a delicate grace”) (u038–u040)."
+  }
+}

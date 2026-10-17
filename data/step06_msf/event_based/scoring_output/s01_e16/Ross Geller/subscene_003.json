@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively introduces himself and others, explains the ultrasound, adds comments and jokes (e.g., “Like buddies,” “having twins is like having two births”), showing talkative participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Downplays Speaker_04 and Speaker_05’s relationship by calling Speaker_05 a friend and “like buddies,” and makes a pointed remark about how close women can get, indicating a lack of straightforwardness and warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear task-related organization or reliability shown; minor misstatements corrected (“Err, right”) but not enough to indicate either carefulness or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows discomfort and awkwardness about the relationship dynamics (“Err, right,” agreeing it’s complicated, deflecting with jokes), suggesting nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Resists acknowledging the same-sex partnership (labels as friend/buddies, minimizes it), indicating caution/dogmatism rather than openness."
+  }
+}

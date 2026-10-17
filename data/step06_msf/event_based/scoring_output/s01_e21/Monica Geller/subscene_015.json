@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Asks how Speaker_01 is doing and talks about shared social adventures, asking who will crash embassy parties and take them to the Big Apple Circus with them."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Clarifies they did not turn Speaker_01 in to the authorities and expresses gratitude, thanking them and crediting them for helping them sing on stage."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "References crashing embassy parties, suggesting carefree, rule-breaking behavior rather than dutifulness or orderliness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Says they are not worried, just wondering, showing calmness despite the situation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Pushes back on returning to being exactly who they were (“Not necessarily…”) and embraces unconventional experiences like party crashing and going to the circus."
+  }
+}

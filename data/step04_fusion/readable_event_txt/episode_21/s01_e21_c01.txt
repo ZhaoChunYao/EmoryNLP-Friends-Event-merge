@@ -1,0 +1,104 @@
+event_id: s01_e21_c01_u001_e1
+utterance_id: s01_e21_c01_u001
+  tuple: ('get', 'someone', 'a hold of your credit card number', 's01_e21_c01_u001')
+
+event_id: s01_e21_c01_u002_e1
+utterance_id: s01_e21_c01_u002
+  tuple: ('have', 'I/(Monica Geller)', 'no idea', 's01_e21_c01_u002')
+
+event_id: s01_e21_c01_u002_e2
+utterance_id: s01_e21_c01_u002
+  tuple: ('look', 'you/(everyone)', 'how much they spent', 's01_e21_c01_u002')
+  tuple: ('spend', 'they/(thief)', 'how much', 's01_e21_c01_u002')
+
+event_id: s01_e21_c01_u003_e1
+utterance_id: s01_e21_c01_u003
+  tuple: ('calm', 'you/(Monica Geller)', 'down', 's01_e21_c01_u003')
+
+event_id: s01_e21_c01_u003_e2
+utterance_id: s01_e21_c01_u003
+  tuple: ('say', 'The credit card people', 'that you only have to pay for the stuff that you bought', 's01_e21_c01_u003')
+  tuple: ('pay', 'you/(Monica Geller)', 'for the stuff that you bought', 's01_e21_c01_u003')
+  tuple: ('buy', 'you/(Monica Geller)', 'the stuff', 's01_e21_c01_u003')
+
+event_id: s01_e21_c01_u004_e1
+utterance_id: s01_e21_c01_u004
+  tuple: ('know', 'I/(Monica Geller)', None, 's01_e21_c01_u004')
+
+event_id: s01_e21_c01_u004_e2
+utterance_id: s01_e21_c01_u004
+  tuple: ('be', 'It/(the spending)', 'just such reckless spending', 's01_e21_c01_u004')
+
+event_id: s01_e21_c01_u005_e1
+utterance_id: s01_e21_c01_u005
+  tuple: ('think', 'I/(Ross Geller)', "when someone steals your credit card, they've kind of already thrown caution to the wind", 's01_e21_c01_u005')
+
+event_id: s01_e21_c01_u005_e2
+utterance_id: s01_e21_c01_u005
+  tuple: ('steal', 'someone', 'your credit card', 's01_e21_c01_u005')
+
+event_id: s01_e21_c01_u005_e3
+utterance_id: s01_e21_c01_u005
+  tuple: ('throw', 'they/(thief)', 'caution', 's01_e21_c01_u005')
+  tuple: ('throw', 'they/(thief)', 'to the wind', 's01_e21_c01_u005')
+
+event_id: s01_e21_c01_u006_e1
+utterance_id: s01_e21_c01_u006
+  tuple: ('spend', 'they/(thief)', '$69.95', 's01_e21_c01_u006')
+  tuple: ('spend', 'they/(thief)', 'on a Wonder Mop', 's01_e21_c01_u006')
+
+event_id: s01_e21_c01_u007_e1
+utterance_id: s01_e21_c01_u007
+  tuple: ('be', 'That/(the Wonder Mop purchase)', 'me', 's01_e21_c01_u007')
+
+event_id: s01_e21_c01_u008_e1
+utterance_id: s01_e21_c01_u008
+  tuple: ('do', 'he/(Marcel)', 'it', 's01_e21_c01_u008')
+
+event_id: s01_e21_c01_u009_e1
+utterance_id: s01_e21_c01_u009
+  tuple: ('stop', 'Marcel', 'humping the lamp', 's01_e21_c01_u009')
+
+event_id: s01_e21_c01_u009_e2
+utterance_id: s01_e21_c01_u009
+  tuple: ('hump', 'Marcel', 'the lamp', 's01_e21_c01_u009')
+
+event_id: s01_e21_c01_u009_e3
+utterance_id: s01_e21_c01_u009
+  tuple: ('come', 'Marcel', 'back', 's01_e21_c01_u009')
+
+event_id: s01_e21_c01_u010_e1
+utterance_id: s01_e21_c01_u010
+  tuple: ('get', 'I/(Rachel Green)', 'him', 's01_e21_c01_u010')
+
+event_id: s01_e21_c01_u011_e1
+utterance_id: s01_e21_c01_u011
+  tuple: ('do', 'you/(Ross Geller)', 'something about the humping', 's01_e21_c01_u011')
+
+event_id: s01_e21_c01_u012_e1
+utterance_id: s01_e21_c01_u012
+  tuple: ('be', 'It/(the humping)', 'just a phase', 's01_e21_c01_u012')
+
+event_id: s01_e21_c01_u013_e1
+utterance_id: s01_e21_c01_u013
+  tuple: ('be', 'that/(it is just a phase)', 'what we said about Joey', 's01_e21_c01_u013')
+
+event_id: s01_e21_c01_u013_e2
+utterance_id: s01_e21_c01_u013
+  tuple: ('say', 'we/(friends)', 'what', 's01_e21_c01_u013')
+  tuple: ('say', 'we/(friends)', 'about Joey', 's01_e21_c01_u013')
+
+event_id: s01_e21_c01_u014_e1
+utterance_id: s01_e21_c01_u014
+  tuple: ('relax', 'you all', None, 's01_e21_c01_u014')
+
+event_id: s01_e21_c01_u014_e2
+utterance_id: s01_e21_c01_u014
+  tuple: ('be', 'It/(the humping)', 'not that big a deal', 's01_e21_c01_u014')
+
+event_id: s01_e21_c01_u017_e1
+utterance_id: s01_e21_c01_u017
+  tuple: ('let', 'we/(friends)', 'say my Curious George doll is no longer curious', 's01_e21_c01_u017')
+  tuple: ('say', 'we/(friends)', 'my Curious George doll is no longer curious', 's01_e21_c01_u017')
+  tuple: ('be', 'my Curious George doll', 'no longer curious', 's01_e21_c01_u017')
+

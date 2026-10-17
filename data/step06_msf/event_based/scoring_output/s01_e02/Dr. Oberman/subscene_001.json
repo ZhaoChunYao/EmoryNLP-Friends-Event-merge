@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and professionally, asking standard medical questions and giving instructions, without clear signs of being either especially talkative/energetic or particularly withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They check on how the mother-to-be is feeling, politely thank others for sharing, and gently refocus attention on the patient, showing tact and consideration."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They efficiently steer the visit—asking focused questions and instructing the patient to lie back for the examination—showing organization and task focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite a tense dispute among others and someone wanting to leave, they remain calm and composed, continuing the exam without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicates unusual inventiveness or dogmatism; they follow standard medical procedure without expressing novel or rigid views."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and asks a clarifying question (“…Jack from downstairs?”) with no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is candid and straightforward about their feelings: “TargetSpeaker knows that TargetSpeaker did not love the orthodontist TargetSpeaker gave up.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicate organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker states with certainty that they did not love the orthodontist, showing calm confidence rather than nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages with and extends the metaphor (cow vs. orthodontist), mapping it to their situation, indicating abstract, open-minded thinking."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "event_id": "s01_e21_c15_u001_e1",
+      "description": "Actor says Person 1 is planning to be a glove upon the addressee's hand."
+    },
+    {
+      "event_id": "s01_e21_c15_u001_e2",
+      "description": "Actor says Person 1 is planning to touch the addressee's cheek."
+    },
+    {
+      "event_id": "s01_e21_c15_u002_e1",
+      "description": "Casting Director No. 1 says Person 1 has just given an audition reading that is fine."
+    },
+    {
+      "event_id": "s01_e21_c15_u002_e2",
+      "description": "Casting Director No. 1 says Casting Director No. 1 is thanking Person 1."
+    },
+    {
+      "event_id": "s01_e21_c15_u004_e1",
+      "description": "Joey Tribbiani says Joey Tribbiani is planning to read for the role of Mercutio."
+    }
+  ]
+}

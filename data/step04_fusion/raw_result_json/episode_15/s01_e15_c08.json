@@ -1,0 +1,497 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u002_e1",
+          "tuples": [
+            "('panic', 'I/Ross Geller', None, 's01_e15_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u002_e2",
+          "tuples": [
+            "('take', \"she/(Ross's date)\", 'me', 's01_e15_c08_u002')",
+            "('take', \"she/(Ross's date)\", 'by surprise', 's01_e15_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u002_e3",
+          "tuples": [
+            "('be', 'it/(encounter)', 'a total loss', 's01_e15_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u002_e4",
+          "tuples": [
+            "('end', 'we/(Ross Geller + his date)', 'up cuddling', 's01_e15_c08_u002')",
+            "('cuddle', 'we/(Ross Geller + his date)', None, 's01_e15_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u003_e1",
+          "tuples": [
+            "('cuddle', 'you/Ross Geller', None, 's01_e15_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u004",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u004_e1",
+          "tuples": [
+            "('shut', 'you/Joey Tribbiani', 'up', 's01_e15_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u004_e2",
+          "tuples": [
+            "('be', 'it/(encounter)', 'nice', 's01_e15_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u004_e3",
+          "tuples": [
+            "('think', 'I/Ross Geller', \"I'm the dirty-talking kind of guy\", 's01_e15_c08_u004')",
+            "('be', 'I/Ross Geller', 'the dirty-talking kind of guy', 's01_e15_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u005",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u005_e1",
+          "tuples": [
+            "('be', 'what/(topic)', 'the big deal', 's01_e15_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u005_e2",
+          "tuples": [
+            "('say', 'you/Ross Geller', 'what you want to do to her', 's01_e15_c08_u005')",
+            "('want', 'you/Ross Geller', 'to do to her', 's01_e15_c08_u005')",
+            "('do', 'you/Ross Geller', 'to her', 's01_e15_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u005_e3",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'her to do to you', 's01_e15_c08_u005')",
+            "('do', \"her/(Ross's date)\", 'to you', 's01_e15_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u005_e4",
+          "tuples": [
+            "('think', 'you/Ross Geller', 'other people might be doing to each other', 's01_e15_c08_u005')",
+            "('do', 'other people', None, 's01_e15_c08_u005')",
+            "('do', 'other people', 'to each other', 's01_e15_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u005_e5",
+          "tuples": [
+            "('tell', 'I/Joey Tribbiani', 'you', 's01_e15_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u005_e6",
+          "tuples": [
+            "('try', 'you/Ross Geller', 'something', 's01_e15_c08_u005')",
+            "('try', 'you/Ross Geller', 'on me', 's01_e15_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u006_e1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'kidding', 's01_e15_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u007",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u007_e1",
+          "tuples": [
+            "('close', 'you/Ross Geller', 'your eyes', 's01_e15_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u007_e2",
+          "tuples": [
+            "('tell', 'you/Ross Geller', \"me what you'd like to be doing right now\", 's01_e15_c08_u007')",
+            "('like', 'you/Ross Geller', 'to be doing right now', 's01_e15_c08_u007')",
+            "('do', 'you/Ross Geller', None, 's01_e15_c08_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u008",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u008_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'in my apartment', 's01_e15_c08_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u010",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u010_e1",
+          "tuples": [
+            "('be', 'that/(all)', 'it', 's01_e15_c08_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u010_e2",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'there', 's01_e15_c08_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u010_e3",
+          "tuples": [
+            "('have', 'we/(Ross Geller + Joey Tribbiani)', 'this conversation', 's01_e15_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u011",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u011_e1",
+          "tuples": [
+            "('start', 'I/Joey Tribbiani', None, 's01_e15_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u013",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u013_e1",
+          "tuples": [
+            "('get', 'you/Ross Geller', 'me', 's01_e15_c08_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u013_e2",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'your lips on me now', 's01_e15_c08_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u015",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u015_e1",
+          "tuples": [
+            "('say', 'you/Ross Geller', 'something', 's01_e15_c08_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u016",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u016_e1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'so', 's01_e15_c08_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u017",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u017_e1",
+          "tuples": [
+            "('like', 'you/Ross Geller', 'this woman', 's01_e15_c08_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u019",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u019_e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'to see her again', 's01_e15_c08_u019')",
+            "('see', 'you/Ross Geller', 'her', 's01_e15_c08_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u021",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u021_e1",
+          "tuples": [
+            "('talk', 'you/Ross Geller', 'dirty to me', 's01_e15_c08_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u021_e2",
+          "tuples": [
+            "('talk', 'you/Ross Geller', 'dirty to her', 's01_e15_c08_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u021_e3",
+          "tuples": [
+            "('tell', 'you/Ross Geller', 'me you want to caress my butt', 's01_e15_c08_u021')",
+            "('want', 'you/Ross Geller', 'to caress my butt', 's01_e15_c08_u021')",
+            "('caress', 'you/Ross Geller', 'my butt', 's01_e15_c08_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u022",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u022_e1",
+          "tuples": [
+            "('turn', 'you/Joey Tribbiani', 'around', 's01_e15_c08_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u022_e2",
+          "tuples": [
+            "('want', 'I/Ross Geller', \"you staring at me when I'm doing this\", 's01_e15_c08_u022')",
+            "('stare', 'you/Joey Tribbiani', 'at me', 's01_e15_c08_u022')",
+            "('do', 'I/Ross Geller', 'this', 's01_e15_c08_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u023",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u023_e1",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', 'around', 's01_e15_c08_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u024",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u024_e1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'to feel your hot, soft skin with my lips', 's01_e15_c08_u024')",
+            "('feel', 'I/Ross Geller', 'your hot, soft skin', 's01_e15_c08_u024')",
+            "('feel', 'I/Ross Geller', 'with my lips', 's01_e15_c08_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u028",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u028_e1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'to take my tongue', 's01_e15_c08_u028')",
+            "('take', 'I/Ross Geller', 'my tongue', 's01_e15_c08_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u031",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u031_e1",
+          "tuples": [
+            "('say', 'you/Ross Geller', 'it', 's01_e15_c08_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u032",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u032_e1",
+          "tuples": [
+            "('run', 'I/Ross Geller', 'it', 's01_e15_c08_u032')",
+            "('run', 'I/Ross Geller', 'over your body', 's01_e15_c08_u032')",
+            "('tremble', 'you/Joey Tribbiani', None, 's01_e15_c08_u032')",
+            "('tremble', 'you/Joey Tribbiani', 'with', 's01_e15_c08_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u036",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u036_e1",
+          "tuples": [
+            "('believe', 'you/Chandler Bing', 'this', 's01_e15_c08_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u037",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u037_e1",
+          "tuples": [
+            "('be', 'it/(situation)', 'OK', 's01_e15_c08_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u037_e2",
+          "tuples": [
+            "('root', 'I/Chandler Bing', 'for you two kids', 's01_e15_c08_u037')",
+            "('get', 'you two kids', 'together', 's01_e15_c08_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u038",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u038_e1",
+          "tuples": [
+            "('sleep', 'you/Chandler Bing', None, 's01_e15_c08_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u038_e2",
+          "tuples": [
+            "('call', 'that guy/(from your old job)', None, 's01_e15_c08_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c08_u041",
+      "events": [
+        {
+          "event_id": "s01_e15_c08_u041_e1",
+          "tuples": [
+            "('be', 'life', 'on the fifteenth floor', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e2",
+          "tuples": [
+            "('miss', 'I/Chandler Bing', 'you', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e3",
+          "tuples": [
+            "('be', 'it/(situation)', 'a lot less satisfying to steal pens from your own home', 's01_e15_c08_u041')",
+            "('steal', 'you/Al Kostelic', 'pens', 's01_e15_c08_u041')",
+            "('steal', 'you/Al Kostelic', 'from your own home', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e4",
+          "tuples": [
+            "('be', 'that/(offer)', 'very generous', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e5",
+          "tuples": [
+            "('be', 'this/(call)', 'about the money', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e6",
+          "tuples": [
+            "('need', 'I/Chandler Bing', \"something that's more than a job\", 's01_e15_c08_u041')",
+            "('be', 'something', 'more than a job', 's01_e15_c08_u041')",
+            "('need', 'I/Chandler Bing', 'something I can really care about', 's01_e15_c08_u041')",
+            "('care', 'I/Chandler Bing', 'about something', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e7",
+          "tuples": [
+            "('be', 'that/(offer)', 'on top of the yearly bonus structure', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e8",
+          "tuples": [
+            "('mention', 'you/Al Kostelic', 'the yearly bonus structure', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e9",
+          "tuples": [
+            "('play', 'I/Chandler Bing', 'hardball', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e10",
+          "tuples": [
+            "('be', 'this/(discussion)', 'a negotiation', 's01_e15_c08_u041')",
+            "('be', 'this/(discussion)', 'a rejection', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e11",
+          "tuples": [
+            "('stop', 'you/Al Kostelic', 'saying numbers', 's01_e15_c08_u041')",
+            "('say', 'you/Al Kostelic', 'numbers', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e12",
+          "tuples": [
+            "('tell', 'I/Chandler Bing', 'you', 's01_e15_c08_u041')",
+            "('have', 'you/Al Kostelic', 'the wrong guy', 's01_e15_c08_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c08_u041_e13",
+          "tuples": [
+            "('see', 'I/Chandler Bing', 'you', 's01_e15_c08_u041')",
+            "('see', 'I/Chandler Bing', 'on Monday', 's01_e15_c08_u041')"
+          ]
+        }
+      ]
+    }
+  ]
+}

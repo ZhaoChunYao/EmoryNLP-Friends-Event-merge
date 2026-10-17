@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates conversation (“Phoebe. Hi.”), shares big news with the group, and engages multiple people; another speaker notes he knows everybody present."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite greeting and straightforward, matter-of-fact updates (got the grant, going to Minsk) without boastfulness or conflict."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows planning and organization—tells to pack bags and provides a specific departure date (“January first”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and confidently about a major move and states firm plans without visible anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Eagerly accepts a new experience/opportunity—moving to Minsk for a grant—indicating curiosity and openness to change."
+  }
+}

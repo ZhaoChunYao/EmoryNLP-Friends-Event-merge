@@ -1,0 +1,188 @@
+event_id: s01_e14_c06_u001_e1
+utterance_id: s01_e14_c06_u001
+  tuple: ('know', 'you/(group)', None, 's01_e14_c06_u001')
+
+event_id: s01_e14_c06_u001_e2
+utterance_id: s01_e14_c06_u001
+  tuple: ('be', 'I/(Lorraine)', 'little', 's01_e14_c06_u001')
+
+event_id: s01_e14_c06_u001_e3
+utterance_id: s01_e14_c06_u001
+  tuple: ('pick up', 'I/(Lorraine)', 'quarters with my toes', 's01_e14_c06_u001')
+
+event_id: s01_e14_c06_u003_e1
+utterance_id: s01_e14_c06_u003
+  tuple: ('cut', 'I/(Janice Litman Goralnik)', 'you/(Chandler Bing)', 's01_e14_c06_u003')
+  tuple: ('cut', 'I/(Janice Litman Goralnik)', 'out of all my pictures', 's01_e14_c06_u003')
+
+event_id: s01_e14_c06_u003_e2
+utterance_id: s01_e14_c06_u003
+  tuple: ('want', 'you/(Chandler Bing)', None, 's01_e14_c06_u003')
+
+event_id: s01_e14_c06_u003_e3
+utterance_id: s01_e14_c06_u003
+  tuple: ('have', 'I/(Janice Litman Goralnik)', 'a bag', 's01_e14_c06_u003')
+  tuple: ('have', 'I/(Janice Litman Goralnik)', 'with just your heads', 's01_e14_c06_u003')
+
+event_id: s01_e14_c06_u004_e1
+utterance_id: s01_e14_c06_u004
+  tuple: ('be', 'that', 'OK', 's01_e14_c06_u004')
+
+event_id: s01_e14_c06_u005_e1
+utterance_id: s01_e14_c06_u005
+  tuple: ('be', 'you/(Chandler Bing)', 'sure', 's01_e14_c06_u005')
+
+event_id: s01_e14_c06_u005_e2
+utterance_id: s01_e14_c06_u005
+  tuple: ('know', 'you/(Chandler Bing)', None, 's01_e14_c06_u005')
+
+event_id: s01_e14_c06_u005_e3
+utterance_id: s01_e14_c06_u005
+  tuple: ('make', 'you/(Chandler Bing)', 'little puppets', 's01_e14_c06_u005')
+  tuple: ('make', 'you/(Chandler Bing)', 'out of them', 's01_e14_c06_u005')
+
+event_id: s01_e14_c06_u005_e4
+utterance_id: s01_e14_c06_u005
+  tuple: ('use', 'you/(Chandler Bing)', 'them', 's01_e14_c06_u005')
+  tuple: ('use', 'you/(Chandler Bing)', 'in your theater of cruelty', 's01_e14_c06_u005')
+
+event_id: s01_e14_c06_u007_e1
+utterance_id: s01_e14_c06_u007
+  tuple: ('do', 'we/(Joey Tribbiani+Chandler Bing)', 'that', 's01_e14_c06_u007')
+
+event_id: s01_e14_c06_u008_e1
+utterance_id: s01_e14_c06_u008
+  tuple: ('do', 'you/(Joey Tribbiani)', None, 's01_e14_c06_u008')
+
+event_id: s01_e14_c06_u009_e1
+utterance_id: s01_e14_c06_u009
+  tuple: ('talk', 'I/(Joey Tribbiani)', None, 's01_e14_c06_u009')
+  tuple: ('talk', 'I/(Joey Tribbiani)', 'to you/(Chandler Bing)', 's01_e14_c06_u009')
+  tuple: ('talk', 'I/(Joey Tribbiani)', 'for a second', 's01_e14_c06_u009')
+  tuple: ('talk', 'I/(Joey Tribbiani)', 'over there', 's01_e14_c06_u009')
+
+event_id: s01_e14_c06_u011_e1
+utterance_id: s01_e14_c06_u011
+  tuple: ('leave', 'we/(Joey Tribbiani+Lorraine)', None, 's01_e14_c06_u011')
+
+event_id: s01_e14_c06_u012_e1
+utterance_id: s01_e14_c06_u012
+  tuple: ('tell', 'you/(Joey Tribbiani)', 'me/(Chandler Bing)', 's01_e14_c06_u012')
+  tuple: ('be', 'it', 'you and me we', 's01_e14_c06_u012')
+
+event_id: s01_e14_c06_u013_e1
+utterance_id: s01_e14_c06_u013
+  tuple: ('say', 'she/(Lorraine)', 'she wants to slather my body with stuff and then lick it off', 's01_e14_c06_u013')
+
+event_id: s01_e14_c06_u013_e2
+utterance_id: s01_e14_c06_u013
+  tuple: ('want', 'she/(Lorraine)', 'to slather my body with stuff and then lick it off', 's01_e14_c06_u013')
+  tuple: ('slather', 'she/(Lorraine)', 'my body', 's01_e14_c06_u013')
+  tuple: ('slather', 'she/(Lorraine)', 'with stuff', 's01_e14_c06_u013')
+  tuple: ('lick', 'she/(Lorraine)', 'it', 's01_e14_c06_u013')
+  tuple: ('lick', 'she/(Lorraine)', 'off it', 's01_e14_c06_u013')
+
+event_id: s01_e14_c06_u013_e3
+utterance_id: s01_e14_c06_u013
+  tuple: ('be', 'I/(Joey Tribbiani)', 'not even sure', 's01_e14_c06_u013')
+  tuple: ('be', 'slathering', 'what', 's01_e14_c06_u013')
+
+event_id: s01_e14_c06_u013_e4
+utterance_id: s01_e14_c06_u013
+  tuple: ('want', 'I/(Joey Tribbiani)', 'to be a part of it', 's01_e14_c06_u013')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'a part', 's01_e14_c06_u013')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'of it', 's01_e14_c06_u013')
+
+event_id: s01_e14_c06_u014_e1
+utterance_id: s01_e14_c06_u014
+  tuple: ('do', 'you/(Joey Tribbiani)', 'this', 's01_e14_c06_u014')
+  tuple: ('do', 'you/(Joey Tribbiani)', 'to me/(Chandler Bing)', 's01_e14_c06_u014')
+
+event_id: s01_e14_c06_u015_e1
+utterance_id: s01_e14_c06_u015
+  tuple: ('be', 'you/(Chandler Bing)', 'right', 's01_e14_c06_u015')
+
+event_id: s01_e14_c06_u015_e2
+utterance_id: s01_e14_c06_u015
+  tuple: ('be', 'I/(Joey Tribbiani)', 'sorry', 's01_e14_c06_u015')
+
+event_id: s01_e14_c06_u016_e1
+utterance_id: s01_e14_c06_u016
+  tuple: ('have', 'we/(Lorraine+Joey Tribbiani)', 'three chocolate mousses', 's01_e14_c06_u016')
+
+event_id: s01_e14_c06_u017_e1
+utterance_id: s01_e14_c06_u017
+  tuple: ('be', 'I/(Joey Tribbiani)', 'outta here', 's01_e14_c06_u017')
+
+event_id: s01_e14_c06_u017_e2
+utterance_id: s01_e14_c06_u017
+  tuple: ('be', 'my credit card', 'here', 's01_e14_c06_u017')
+
+event_id: s01_e14_c06_u017_e3
+utterance_id: s01_e14_c06_u017
+  tuple: ('be', 'dinner', 'on me/(Joey Tribbiani)', 's01_e14_c06_u017')
+
+event_id: s01_e14_c06_u017_e4
+utterance_id: s01_e14_c06_u017
+  tuple: ('be', 'I/(Joey Tribbiani)', 'sorry', 's01_e14_c06_u017')
+
+event_id: s01_e14_c06_u018_e1
+utterance_id: s01_e14_c06_u018
+  tuple: ('hope', 'I/(Chandler Bing)', 'she throws up on you/(Joey Tribbiani)', 's01_e14_c06_u018')
+  tuple: ('throw up', 'she/(Lorraine)', 'on you/(Joey Tribbiani)', 's01_e14_c06_u018')
+
+event_id: s01_e14_c06_u023_e1
+utterance_id: s01_e14_c06_u023
+  tuple: ('enjoy', 'I/(Janice Litman Goralnik)', "the fact that your shirt's been stickin' outta your zipper ever since you came back from the bathroom", 's01_e14_c06_u023')
+  tuple: ('stick', 'your shirt', 'out of your zipper', 's01_e14_c06_u023')
+
+event_id: s01_e14_c06_u023_e2
+utterance_id: s01_e14_c06_u023
+  tuple: ('come back', 'you/(Chandler Bing)', 'from the bathroom', 's01_e14_c06_u023')
+
+event_id: s01_e14_c06_u024_e1
+utterance_id: s01_e14_c06_u024
+  tuple: ('excuse', 'you/(Janice Litman Goralnik)', 'me/(Chandler Bing)', 's01_e14_c06_u024')
+
+event_id: s01_e14_c06_u024_e2
+utterance_id: s01_e14_c06_u024
+  tuple: ('do', 'you/(Janice Litman Goralnik)', None, 's01_e14_c06_u024')
+
+event_id: s01_e14_c06_u025_e1
+utterance_id: s01_e14_c06_u025
+  tuple: ('have', 'we/(Janice Litman Goralnik+Chandler Bing)', 'the best friends', 's01_e14_c06_u025')
+
+event_id: s01_e14_c06_u026_e1
+utterance_id: s01_e14_c06_u026
+  tuple: ('be', 'Joey Tribbiani', 'not a friend', 's01_e14_c06_u026')
+
+event_id: s01_e14_c06_u026_e2
+utterance_id: s01_e14_c06_u026
+  tuple: ('be', 'he/(Joey Tribbiani)', 'a stupid man', 's01_e14_c06_u026')
+
+event_id: s01_e14_c06_u026_e3
+utterance_id: s01_e14_c06_u026
+  tuple: ('leave', 'he/(Joey Tribbiani)', 'his credit card', 's01_e14_c06_u026')
+
+event_id: s01_e14_c06_u027_e1
+utterance_id: s01_e14_c06_u027
+  tuple: ('go', 'I/(Janice Litman Goralnik)', 'for that drink', 's01_e14_c06_u027')
+
+event_id: s01_e14_c06_u028_e1
+utterance_id: s01_e14_c06_u028
+  tuple: ('get', 'you/(Janice Litman Goralnik)', 'it', 's01_e14_c06_u028')
+
+event_id: s01_e14_c06_u028_e2
+utterance_id: s01_e14_c06_u028
+  tuple: ('get', 'we/(Chandler Bing+Janice Litman Goralnik)', 'a bottle', 's01_e14_c06_u028')
+  tuple: ('get', 'we/(Chandler Bing+Janice Litman Goralnik)', 'of your most overpriced champagne', 's01_e14_c06_u028')
+
+event_id: s01_e14_c06_u030_e1
+utterance_id: s01_e14_c06_u030
+  tuple: ('be', 'that', 'right', 's01_e14_c06_u030')
+
+event_id: s01_e14_c06_u030_e2
+utterance_id: s01_e14_c06_u030
+  tuple: ('want', 'I/(Chandler Bing)', 'to know', 's01_e14_c06_u030')
+  tuple: ('know', 'I/(Chandler Bing)', None, 's01_e14_c06_u030')
+

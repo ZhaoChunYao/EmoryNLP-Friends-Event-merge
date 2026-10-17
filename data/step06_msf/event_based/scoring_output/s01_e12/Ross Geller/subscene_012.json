@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly and enthusiastically announces the news—repeats “I’m having a boy!”—showing energetic, expressive behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating either cooperativeness/generosity or unreliability/boastfulness in this brief exchange."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence related to organization or carelessness; it’s simply a spontaneous announcement."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Emotion shown is positive excitement; no clear signs of anxiety, distress, or unusual calm."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity/creativity or dogmatism; only sharing straightforward news."
+  }
+}

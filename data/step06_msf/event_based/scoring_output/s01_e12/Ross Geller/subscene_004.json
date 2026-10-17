@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief factual remarks ('Speaker_04 currently knows... I do not know'; 'Speaker_05 currently knows...') without clear signs of either outgoing engagement or marked reserve beyond minimal participation."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear cooperative warmth or hostility is shown; TargetSpeaker simply notes who knows and that they do not, without trust/distrust or generosity/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization/efficiency or carelessness/sloppiness are present in the exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display anxiety, irritability, or emotional reactivity—only neutral statements about who knows the baby’s sex."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Speaker_01 reports TargetSpeaker currently does not want to know the sex of the baby, and TargetSpeaker affirms they do not know while noting others do—indicating low curiosity and a preference to avoid new information."
+  }
+}

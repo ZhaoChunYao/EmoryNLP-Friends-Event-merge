@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates but gives brief, cryptic replies; there’s no clear sign of being outgoing or reserved beyond this short exchange."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He knew about Speaker_02 kissing Speaker_04 but did not tell Speaker_01 despite spending the whole day together (u009) and responds evasively with “knowledge is a tricky thing” (u008), showing a lack of straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicates organization/efficiency or sloppiness/carelessness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks calmly and confidently, even saying Speaker_01 is lucky he caught them (u010), showing no anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Makes an abstract, reflective comment—“knowledge is a tricky thing” (u008)—indicating comfort with nuance and ambiguity."
+  }
+}

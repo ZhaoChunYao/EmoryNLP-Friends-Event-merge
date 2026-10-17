@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly asks a couple of questions but shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After probing with personal questions, TargetSpeaker deflects Speaker_01’s “why?” with “No reason,” indicating a lack of straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or reliability is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, insecurity, or emotional reactivity are present."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows curiosity by probing about Speaker_01’s issue with doctors and asking if the father was a doctor."
+  }
+}

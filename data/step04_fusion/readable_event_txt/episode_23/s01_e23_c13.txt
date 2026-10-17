@@ -1,0 +1,42 @@
+event_id: s01_e23_c13_u001_e1
+utterance_id: s01_e23_c13_u001
+  tuple: ('go', 'everything', 'fine', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e2
+utterance_id: s01_e23_c13_u001
+  tuple: ('be', 'Ross', 'great', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e3
+utterance_id: s01_e23_c13_u001
+  tuple: ('be', 'he/Ross', 'in a whole other place', 's01_e23_c13_u001')
+  tuple: ('be', 'he/Ross', 'gone', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e4
+utterance_id: s01_e23_c13_u001
+  tuple: ('fly', 'you/(Mom)', 'back', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e5
+utterance_id: s01_e23_c13_u001
+  tuple: ('mean', 'you/(Mom)', 'this might be your only chance', 's01_e23_c13_u001')
+  tuple: ('be', 'this', 'your only chance', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e6
+utterance_id: s01_e23_c13_u001
+  tuple: ('stop', 'you/(Mom)', None, 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e7
+utterance_id: s01_e23_c13_u001
+  tuple: ('be', 'I/(Monica Geller)', 'only 26', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u001_e8
+utterance_id: s01_e23_c13_u001
+  tuple: ('think', 'I/(Monica Geller)', 'about babies', 's01_e23_c13_u001')
+
+event_id: s01_e23_c13_u003_e1
+utterance_id: s01_e23_c13_u003
+  tuple: ('be', 'you/(Joey Tribbiani)', 'where', 's01_e23_c13_u003')
+
+event_id: s01_e23_c13_u004_e1
+utterance_id: s01_e23_c13_u004
+  tuple: ('have', 'I/(Joey Tribbiani)', 'a baby', 's01_e23_c13_u004')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, neutral replies and a clarifying question, without clear signs of either energetic sociability or marked withdrawal."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker questions the situation but is not rude or hostile; no clear signs of either cooperativeness or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker doubts the supposed benefits and says they 'gave up everything,' indicating worry/negativity and insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker is skeptical about what is 'so amazing' and responds literally ('Jack from downstairs?') to a metaphorical/story reference, suggesting a cautious, less imaginative stance."
+  }
+}

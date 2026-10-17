@@ -1,0 +1,302 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c10_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'so sorry', 's01_e04_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'bring you down', 's01_e04_c10_u001')",
+            "('bring', 'I/Rachel Green', 'you down', 's01_e04_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'right', 's01_e04_c10_u002')",
+            "('have', 'I/Monica Geller', 'a plan', 's01_e04_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('thank', 'I/Rachel Green', 'God', 's01_e04_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Phoebe Buffay', 'a plan', 's01_e04_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', \"a 'pl'\", 's01_e04_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/pizza delivered', 'what we ordered', 's01_e04_c10_u010')",
+            "('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'what', 's01_e04_c10_u010')",
+            "('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'a fat-free crust', 's01_e04_c10_u010')",
+            "('order', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'with extra cheese', 's01_e04_c10_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'you/Monica Geller+Rachel Green+Phoebe Buffay', None, 's01_e04_c10_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'G.Stephanopoulos', 's01_e04_c10_u011')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('kill', 'my dad/Pizza Guy', 'me/Pizza Guy', 's01_e04_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'you/Pizza Guy', None, 's01_e04_c10_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('say', 'you/Pizza Guy', 'G.Stephanopoulos', 's01_e04_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'this one/pizza', 'across the street', 's01_e04_c10_u013')",
+            "('give', 'I/Pizza Guy', 'him', 's01_e04_c10_u013')",
+            "('give', 'I/Pizza Guy', 'yours', 's01_e04_c10_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this/George Stephanopoulos', 'a small mediterranean guy', 's01_e04_c10_u014')",
+            "('be', 'this/George Stephanopoulos', 'with curiously intelligent good looks', 's01_e04_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('sound', 'that/description', 'right', 's01_e04_c10_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wear', 'he/George Stephanopoulos', 'a stunning blue suit', 's01_e04_c10_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want', 'you guys/Monica Geller+Rachel Green+Phoebe Buffay', 'me to take this back', 's01_e04_c10_u020')",
+            "('take', 'me/Pizza Guy', 'this back', 's01_e04_c10_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Pizza Guy', 'nuts', 's01_e04_c10_u021')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'we/Monica Geller+Rachel Green+Phoebe Buffay', \"George Stephanopoulos' pizza\", 's01_e04_c10_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'who/unknown', 'George Snuffalopagus', 's01_e04_c10_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'I/Monica Geller', 'pizza', 's01_e04_c10_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u025",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'see', 's01_e04_c10_u025')",
+            "('see', 'I/Phoebe Buffay', None, 's01_e04_c10_u025')",
+            "('let', 'you/Monica Geller', 'me', 's01_e04_c10_u025')",
+            "('see', 'me/Phoebe Buffay', None, 's01_e04_c10_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u026",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('spy', 'we/Rachel Green+Monica Geller+Phoebe Buffay', 'on who', 's01_e04_c10_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u028",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('love', 'I/Rachel Green', 'him', 's01_e04_c10_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u029",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'you/Monica Geller+Rachel Green', None, 's01_e04_c10_u029')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('see', 'I/Phoebe Buffay', 'a woman', 's01_e04_c10_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u030",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('tell', 'you/Phoebe Buffay', 'me', 's01_e04_c10_u030')",
+            "('be', 'it/the woman', 'his mother', 's01_e04_c10_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c10_u033",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('walk', 'she/the woman', 'across the floor', 's01_e04_c10_u033')",
+            "('go', 'she/the woman', 'for the pizza', 's01_e04_c10_u033')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'that/pizza', 'for you', 's01_e04_c10_u033')"
+          ]
+        }
+      ]
+    }
+  ]
+}

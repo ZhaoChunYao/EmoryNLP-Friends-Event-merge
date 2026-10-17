@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead in speaking for both: states the order for the pair ('we want to order two Caffe Lattes') and responds promptly to a follow-up ('Definitely her')."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Collaborates smoothly on the joint order and gives clear, non-confrontational attribution ('Definitely her') without contesting the partner’s addition."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They already know what they want, and the speaker delivers the order clearly and efficiently."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and no hesitation while ordering and in the decisive reply 'Definitely her.'"
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indication of curiosity or unconventional choices; simply orders standard items."
+  }
+}

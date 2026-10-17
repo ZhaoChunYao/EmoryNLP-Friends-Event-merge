@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker assertively tells Speaker_02 and Speaker_03 to shut up and then speaks again to respond with thanks, showing outspoken, forceful behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Ordering others to \"shut up\" is rude and uncooperative, indicating low agreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In this moment, TargetSpeaker acts confidently and controlling by telling others to be quiet; no signs of nervousness. The mention that they cried last night is reported by someone else and not their current behavior."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements show curiosity/inventiveness or dogmatism/caution in this brief exchange."
+  }
+}

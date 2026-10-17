@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Participates actively and offers a social connection (“I know a person named Fun Bob”) in a discussion about dates, showing social initiative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds to the idea of asking an ex with concern (“Your ex-boyfriend Speaker_03?”) and helpfully brings up someone they know as an alternative, indicating cooperative, considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or reliability is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or insecurity; reactions are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from mentioning another option, there is no strong indication of curiosity, creativity, or rigidity."
+  }
+}

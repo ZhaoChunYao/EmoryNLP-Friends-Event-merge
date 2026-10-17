@@ -1,0 +1,200 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c07_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(Chandler Bing)', None, 's01_e08_c07_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'I/(Shelley)', 'sorry about yesterday', 's01_e08_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('worry', 'you/(Shelley)', 'about it', 's01_e08_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('believe', 'you/(Shelley)', 'me', 's01_e08_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('make', 'other people', 'the same mistake', 's01_e08_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'you/(Shelley)', 'what it is about me', 's01_e08_c07_u005')",
+            "('be', 'it/(quality)', 'about me', 's01_e08_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/(Shelley)', None, 's01_e08_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'you/(Chandler Bing)', None, 's01_e08_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/(Chandler Bing)', None, 's01_e08_c07_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it/(situation)', 'a shame', 's01_e08_c07_u008')",
+            "('make', 'you/(Chandler Bing) and Lowell', 'a great couple', 's01_e08_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', \"that/(Financial Services' Lowell)\", 'who you saw me with', 's01_e08_c07_u009')",
+            "('see', 'you/(Shelley)', 'me', 's01_e08_c07_u009')",
+            "('see', 'you/(Shelley)', 'with who', 's01_e08_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/(Lowell)', 'cute', 's01_e08_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/(Lowell)', 'no Brian', 's01_e08_c07_u011')",
+            "('be', 'he/(Lowell)', 'in Payroll', 's01_e08_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'Brian', None, 's01_e08_c07_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', None, 's01_e08_c07_u013')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'the point', None, 's01_e08_c07_u013')",
+            "('set up', 'you/(Shelley)', 'me', 's01_e08_c07_u013')",
+            "('set up', 'you/(Shelley)', 'with someone like him', 's01_e08_c07_u013')",
+            "('like', 'I/(Chandler Bing)', 'to think', 's01_e08_c07_u013')",
+            "('think', 'I/(Chandler Bing)', \"you'd set me up with someone like him\", 's01_e08_c07_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/(Shelley)', \"Brian's a little out of your league\", 's01_e08_c07_u014')",
+            "('be', 'Brian', 'a little out of your league', 's01_e08_c07_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c07_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('excuse', 'you/(Shelley)', 'me', 's01_e08_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('think', 'you/(Shelley)', 'I could get a Brian', 's01_e08_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('get', 'I/(Chandler Bing)', 'a Brian', 's01_e08_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', None, 's01_e08_c07_u015')"
+          ]
+        }
+      ]
+    }
+  ]
+}

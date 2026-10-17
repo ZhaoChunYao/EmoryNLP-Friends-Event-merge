@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly, only adding to the order and confirming, which does not clearly indicate either outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of warmth or conflict; a simple agreement (“Yeah”) is too minimal to judge agreeableness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They promptly and clearly add “And some biscottie cookies” to the order while the group already knows what they want, indicating decisiveness and efficient ordering."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of stress, worry, or insecurity in the brief exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Ordering common items (latte and biscotti) provides no indication of curiosity or unconventional choices."
+  }
+}

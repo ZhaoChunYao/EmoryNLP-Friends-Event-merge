@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Says the hallway gathering with several people is 'very fun' and like 'a reunion,' engaging socially and interacting on a call."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses friendly, positive language about the group and cooperatively confirms identity to the caller, facilitating a pleasant interaction."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization/efficiency or carelessness/sloppiness are shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears relaxed and cheerful in a social situation and confidently states the caller already knew it was them."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, inventiveness, or unconventional thinking beyond a simple 'like a reunion' remark."
+  }
+}

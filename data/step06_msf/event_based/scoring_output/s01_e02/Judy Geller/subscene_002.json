@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and socially engaged: volunteers stories and gossip (u006, u009, u014), mentions running into people at the club (u017.2)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Critical and dismissive: criticizes what someone did with their life (u017.1), makes a cutting remark about leaving someone at the altar (u019), then brushes it off as “just an expression” (u021); also promotes a deception about Speaker_02 owning a restaurant (u009.4, u011)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless/unreliable with facts: told others Speaker_02 has a restaurant and says the Ludwins don’t have to know the truth (u009.4, u011)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; speaks confidently and dismisses pushback (“just an expression,” u021) and insists on keeping up appearances (u011)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Judgmental and image-focused rather than open-minded: criticizes others’ life choices (u017.1, u019) and prefers maintaining a façade over honest nuance (u011)."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is actively dating and invites her date (Carl) to come up right away (u014–u015), showing social engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "She bluntly tells Speaker_01 she exchanged the blouse they gave her (u004) and calls them overly pushy (u010), which is straightforward but also somewhat brusque; no clear pattern of generosity or hostility overall."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from deciding whether to date Speaker_02 (u006), there is no concrete behavior showing organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She anticipates and worries about group pressure if she dated Speaker_02 and does not want to deal with it (u008), and notes pushiness even before anything has happened (u010), indicating sensitivity to stress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "She decides not to explore a potential relationship with Speaker_02 due to anticipated social pressure (u006, u008), reflecting cautious avoidance rather than openness to a new experience."
+  }
+}

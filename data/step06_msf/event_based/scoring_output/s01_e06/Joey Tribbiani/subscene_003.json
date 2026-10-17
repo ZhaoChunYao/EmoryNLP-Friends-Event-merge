@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly states dating preferences but shows no clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Says he needs to be dating more people than the woman is, showing a competitive/boastful stance rather than generous or cooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about being organized or careless; comments are about relationship preferences, not task behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Refuses to date someone who is also dating others, suggesting jealousy/insecurity about exclusivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Rejects non-monogamy and insists on an unequal dating dynamic, indicating low openness to alternative relationship arrangements."
+  }
+}

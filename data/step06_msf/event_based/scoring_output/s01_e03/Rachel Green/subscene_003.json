@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes initiative in the group, telling them not to say their drink orders and then enthusiastically says “Good for me!”, showing outgoing, assertive engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Aside from taking the group’s drink orders, there’s no clear behavior showing generosity/straightforwardness or the opposite."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker is practicing and improving at taking the group’s drink orders and asks them not to tell the orders to test memory, indicating diligence and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently celebrates (“Good for me!”) and shows no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete behavior indicates curiosity/inventiveness or rigidity/caution in this brief exchange."
+  }
+}

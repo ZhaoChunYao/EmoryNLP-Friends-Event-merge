@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker excitedly announces to the group that the New Year’s Eve ball is dropping and repeats it loudly, showing outgoing, energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of cooperation, generosity, or conflict; they simply make an announcement."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization or carelessness in the brief interaction."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or distress, but also no strong display of calm confidence beyond a routine celebratory remark."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, creativity, or caution/dogmatism."
+  }
+}

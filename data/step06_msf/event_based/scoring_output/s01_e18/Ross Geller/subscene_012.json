@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and vocal at the table, telling others to stop talking about losing and directing Speaker_02 to deal the cards, and engages in mocking banter ('Mee mee, mee-mee mee')."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows competitive, combative behavior—cannot stand to lose, tells everyone not to talk about losing, and mocks another player—indicating low cooperativeness and warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness; a comment about mismatched clothes is insufficient to judge conscientiousness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Reacting strongly to losing—face getting red, veins popping, defensive denial ('I am not losing') and trying to shut down talk about losing—shows sensitivity and agitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete signs of curiosity or creativity versus dogmatism; behavior centers on competitiveness in the game."
+  }
+}

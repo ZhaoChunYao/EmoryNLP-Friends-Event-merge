@@ -1,0 +1,34 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e01_c03_u001_e1",
+          "tuples": [
+            "('be', 'Love', 'sweet as summer showers', 's01_e01_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c03_u001_e2",
+          "tuples": [
+            "('be', 'love', 'a wondrous work of art', 's01_e01_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c03_u001_e3",
+          "tuples": [
+            "('be', 'your love', 'like a giant pigeon crapping on my heart', 's01_e01_c03_u001')",
+            "('crap', 'a giant pigeon', 'on my heart', 's01_e01_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c03_u001_e4",
+          "tuples": [
+            "('thank', 'I/Phoebe Buffay', 'you', 's01_e01_c03_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

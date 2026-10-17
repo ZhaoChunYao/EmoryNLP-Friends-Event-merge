@@ -1,0 +1,856 @@
+{
+  "tuples": [
+    {
+      "verb": "believe",
+      "subject": "I/(Ross Geller)",
+      "object": "this",
+      "uid": "s01_e19_c06_u001"
+    },
+    {
+      "verb": "ask",
+      "subject": "I/(Ross Geller)",
+      "object": "you",
+      "uid": "s01_e19_c06_u001"
+    },
+    {
+      "verb": "keep",
+      "subject": "you/(Rachel Green)",
+      "object": "him",
+      "uid": "s01_e19_c06_u001"
+    },
+    {
+      "verb": "keep",
+      "subject": "you/(Rachel Green)",
+      "object": "in the apartment",
+      "uid": "s01_e19_c06_u001"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e19_c06_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "sorry",
+      "uid": "s01_e19_c06_u002"
+    },
+    {
+      "verb": "guess",
+      "subject": "I/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e19_c06_u003"
+    },
+    {
+      "verb": "ask",
+      "subject": "I/(Ross Geller)",
+      "object": "you",
+      "uid": "s01_e19_c06_u003"
+    },
+    {
+      "verb": "start",
+      "subject": "you/(Rachel Green)",
+      "object": "off with a monkey",
+      "uid": "s01_e19_c06_u003"
+    },
+    {
+      "verb": "start",
+      "subject": "I/(Ross Geller)",
+      "object": "you",
+      "uid": "s01_e19_c06_u003"
+    },
+    {
+      "verb": "start",
+      "subject": "I/(Ross Geller)",
+      "object": "off with a pen or a pencil",
+      "uid": "s01_e19_c06_u003"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "everything that I can",
+      "uid": "s01_e19_c06_u004"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Rachel Green)",
+      "object": "everybody",
+      "uid": "s01_e19_c06_u004"
+    },
+    {
+      "verb": "look",
+      "subject": "everybody",
+      "object": "for him",
+      "uid": "s01_e19_c06_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(visitor)",
+      "object": "who",
+      "uid": "s01_e19_c06_u004"
+    },
+    {
+      "verb": "call",
+      "subject": "I/(Rachel Green)",
+      "object": "Animal Control",
+      "uid": "s01_e19_c06_u006"
+    },
+    {
+      "verb": "call",
+      "subject": "you/(Rachel Green)",
+      "object": "Animal Control",
+      "uid": "s01_e19_c06_u007"
+    },
+    {
+      "verb": "like",
+      "subject": "you/(Ross Geller)",
+      "object": "them",
+      "uid": "s01_e19_c06_u008"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "him",
+      "uid": "s01_e19_c06_u009"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "in the city",
+      "uid": "s01_e19_c06_u009"
+    },
+    {
+      "verb": "find",
+      "subject": "they/(Animal Control)",
+      "object": "him",
+      "uid": "s01_e19_c06_u009"
+    },
+    {
+      "verb": "take",
+      "subject": "they/(Animal Control)",
+      "object": "him",
+      "uid": "s01_e19_c06_u009"
+    },
+    {
+      "verb": "take",
+      "subject": "they/(Animal Control)",
+      "object": "away from me",
+      "uid": "s01_e19_c06_u009"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/(Ross Geller)",
+      "object": "us",
+      "uid": "s01_e19_c06_u010"
+    },
+    {
+      "verb": "expect",
+      "subject": "I/(Ross Geller)",
+      "object": "you",
+      "uid": "s01_e19_c06_u011"
+    },
+    {
+      "verb": "invite",
+      "subject": "you/(Rachel Green)",
+      "object": "them",
+      "uid": "s01_e19_c06_u011"
+    },
+    {
+      "verb": "invite",
+      "subject": "you/(Rachel Green)",
+      "object": "to the apartment",
+      "uid": "s01_e19_c06_u011"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Animal Control)",
+      "object": null,
+      "uid": "s01_e19_c06_u013"
+    },
+    {
+      "verb": "call",
+      "subject": "somebody",
+      "object": null,
+      "uid": "s01_e19_c06_u014"
+    },
+    {
+      "verb": "call",
+      "subject": "somebody",
+      "object": "about a monkey",
+      "uid": "s01_e19_c06_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(the call)",
+      "object": "a complete misunderstanding",
+      "uid": "s01_e19_c06_u015"
+    },
+    {
+      "verb": "think",
+      "subject": "we/(Ross and Rachel)",
+      "object": null,
+      "uid": "s01_e19_c06_u016"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Ross and Rachel)",
+      "object": "a monkey",
+      "uid": "s01_e19_c06_u016"
+    },
+    {
+      "verb": "turn",
+      "subject": "it/(the thing)",
+      "object": "out",
+      "uid": "s01_e19_c06_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the thing)",
+      "object": "a hat",
+      "uid": "s01_e19_c06_u017"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e19_c06_u019"
+    },
+    {
+      "verb": "check",
+      "subject": "we/(Monica and Phoebe)",
+      "object": "the third and fourth floor",
+      "uid": "s01_e19_c06_u021"
+    },
+    {
+      "verb": "see",
+      "subject": "no-one",
+      "object": "Marcel",
+      "uid": "s01_e19_c06_u021"
+    },
+    {
+      "verb": "name",
+      "subject": "the monkey",
+      "object": "after who",
+      "uid": "s01_e19_c06_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Ross, Monica, Rachel, Phoebe)",
+      "object": "aware",
+      "uid": "s01_e19_c06_u025"
+    },
+    {
+      "verb": "punish",
+      "subject": "possession of an illegal exotic",
+      "object": "by up to two years in prison and confiscation of the animal",
+      "uid": "s01_e19_c06_u025"
+    },
+    {
+      "verb": "put",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "that poor little creature",
+      "uid": "s01_e19_c06_u026"
+    },
+    {
+      "verb": "put",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "in jail",
+      "uid": "s01_e19_c06_u026"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e19_c06_u027"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/(Monica and Phoebe)",
+      "object": "about saying things quietly to yourself first",
+      "uid": "s01_e19_c06_u027"
+    },
+    {
+      "verb": "say",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "things",
+      "uid": "s01_e19_c06_u027"
+    },
+    {
+      "verb": "say",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "to yourself",
+      "uid": "s01_e19_c06_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "always time",
+      "uid": "s01_e19_c06_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "sure",
+      "uid": "s01_e19_c06_u029"
+    },
+    {
+      "verb": "reconcile",
+      "subject": "we/(Monica and group)",
+      "object": "this",
+      "uid": "s01_e19_c06_u029"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "a seat",
+      "uid": "s01_e19_c06_u029"
+    },
+    {
+      "verb": "introduce",
+      "subject": "we/(Monica group)",
+      "object": null,
+      "uid": "s01_e19_c06_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "Monica Geller",
+      "uid": "s01_e19_c06_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "Rachel Green",
+      "uid": "s01_e19_c06_u030"
+    },
+    {
+      "verb": "sit",
+      "subject": "I/(Luisa Gianetti)",
+      "object": null,
+      "uid": "s01_e19_c06_u032"
+    },
+    {
+      "verb": "sit",
+      "subject": "I/(Luisa Gianetti)",
+      "object": "behind you guys",
+      "uid": "s01_e19_c06_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(visitor)",
+      "object": "Luisa",
+      "uid": "s01_e19_c06_u033"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(Monica Geller and Rachel Green)",
+      "object": "no idea who I am",
+      "uid": "s01_e19_c06_u036"
+    },
+    {
+      "verb": "spend",
+      "subject": "you/(Monica Geller and Rachel Green)",
+      "object": "four years",
+      "uid": "s01_e19_c06_u039"
+    },
+    {
+      "verb": "ignore",
+      "subject": "you/(Monica Geller and Rachel Green)",
+      "object": "me",
+      "uid": "s01_e19_c06_u039"
+    },
+    {
+      "verb": "say",
+      "subject": "you/(Monica Geller and Rachel Green)",
+      "object": "'Morning, Luisa'",
+      "uid": "s01_e19_c06_u039"
+    },
+    {
+      "verb": "say",
+      "subject": "you/(Monica Geller and Rachel Green)",
+      "object": "'Nice overalls'",
+      "uid": "s01_e19_c06_u039"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "sorry",
+      "uid": "s01_e19_c06_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "fat",
+      "uid": "s01_e19_c06_u041"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(Monica Geller)",
+      "object": "your own problems",
+      "uid": "s01_e19_c06_u041"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(Luisa Gianetti)",
+      "object": null,
+      "uid": "s01_e19_c06_u043"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "out us",
+      "uid": "s01_e19_c06_u043"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "on that monkey thing",
+      "uid": "s01_e19_c06_u043"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "for old times' sake",
+      "uid": "s01_e19_c06_u043"
+    },
+    {
+      "verb": "go",
+      "subject": "you/(Luisa Gianetti)",
+      "object": "Bobcats",
+      "uid": "s01_e19_c06_u043"
+    },
+    {
+      "verb": "find",
+      "subject": "I/(Luisa Gianetti)",
+      "object": "that monkey",
+      "uid": "s01_e19_c06_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(Marcel)",
+      "object": "mine",
+      "uid": "s01_e19_c06_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "sorry",
+      "uid": "s01_e19_c06_u045"
+    },
+    {
+      "verb": "help",
+      "subject": "I/(Woman No. 1)",
+      "object": "you",
+      "uid": "s01_e19_c06_u052"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "an emergency",
+      "uid": "s01_e19_c06_u054"
+    },
+    {
+      "verb": "look",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "for something",
+      "uid": "s01_e19_c06_u054"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Woman No. 1)",
+      "object": "any",
+      "uid": "s01_e19_c06_u056"
+    },
+    {
+      "verb": "see",
+      "subject": "I/(Woman No. 1)",
+      "object": "a monkey",
+      "uid": "s01_e19_c06_u057"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Chandler Bing and Joey Tribbiani)",
+      "object": "anything",
+      "uid": "s01_e19_c06_u057"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Chandler Bing and Joey Tribbiani)",
+      "object": "about fixing radiators",
+      "uid": "s01_e19_c06_u057"
+    },
+    {
+      "verb": "fix",
+      "subject": "you/(Chandler Bing and Joey Tribbiani)",
+      "object": "radiators",
+      "uid": "s01_e19_c06_u057"
+    },
+    {
+      "verb": "try",
+      "subject": "you/(Woman No. 1)",
+      "object": "turning the knob back the other way",
+      "uid": "s01_e19_c06_u058"
+    },
+    {
+      "verb": "turn",
+      "subject": "you/(Woman No. 1)",
+      "object": "back the knob",
+      "uid": "s01_e19_c06_u058"
+    },
+    {
+      "verb": "put",
+      "subject": "I/(Woman No. 2)",
+      "object": "too much rum",
+      "uid": "s01_e19_c06_u062"
+    },
+    {
+      "verb": "put",
+      "subject": "I/(Woman No. 2)",
+      "object": "in here",
+      "uid": "s01_e19_c06_u062"
+    },
+    {
+      "verb": "hope",
+      "subject": "I/(Woman No. 1)",
+      "object": "you find your monkey",
+      "uid": "s01_e19_c06_u064"
+    },
+    {
+      "verb": "find",
+      "subject": "you/(Chandler Bing and Joey Tribbiani)",
+      "object": "your monkey",
+      "uid": "s01_e19_c06_u064"
+    },
+    {
+      "verb": "know",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "anything",
+      "uid": "s01_e19_c06_u065"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "a certain amount of expertise",
+      "uid": "s01_e19_c06_u065"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "in the heating and cooling milieu",
+      "uid": "s01_e19_c06_u065"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "in the middle of something here",
+      "uid": "s01_e19_c06_u066"
+    },
+    {
+      "verb": "be",
+      "subject": "these women",
+      "object": "very hot",
+      "uid": "s01_e19_c06_u067"
+    },
+    {
+      "verb": "need",
+      "subject": "they/(these women)",
+      "object": "our help",
+      "uid": "s01_e19_c06_u067"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "sorry",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(these women)",
+      "object": "no idea",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "promise",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "find",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "this monkey",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(these women)",
+      "object": "him",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(Marcel)",
+      "object": "about yea high",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "answer",
+      "subject": "he/(Marcel)",
+      "object": "to the name Marcel",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "get",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "some pictures",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "get",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "of you",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(these women)",
+      "object": "out us",
+      "uid": "s01_e19_c06_u068"
+    },
+    {
+      "verb": "talk",
+      "subject": "you/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e19_c06_u070"
+    },
+    {
+      "verb": "talk",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "to other people",
+      "uid": "s01_e19_c06_u070"
+    },
+    {
+      "verb": "brush",
+      "subject": "something",
+      "object": "up against my right leg",
+      "uid": "s01_e19_c06_u080"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the thing against leg)",
+      "object": "okay",
+      "uid": "s01_e19_c06_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the thing against leg)",
+      "object": "just my left leg",
+      "uid": "s01_e19_c06_u082"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e19_c06_u084"
+    },
+    {
+      "verb": "come",
+      "subject": "Marcel",
+      "object": "here",
+      "uid": "s01_e19_c06_u085"
+    },
+    {
+      "verb": "step",
+      "subject": "ladies",
+      "object": "aside",
+      "uid": "s01_e19_c06_u087"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Luisa Gianetti)",
+      "object": null,
+      "uid": "s01_e19_c06_u088"
+    },
+    {
+      "verb": "run",
+      "subject": "Marcel",
+      "object": null,
+      "uid": "s01_e19_c06_u091"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "okay",
+      "uid": "s01_e19_c06_u091"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "so",
+      "uid": "s01_e19_c06_u092"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(situation)",
+      "object": "ridiculous",
+      "uid": "s01_e19_c06_u097"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Ross and Rachel)",
+      "object": "over the neighbourhood",
+      "uid": "s01_e19_c06_u097"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(Marcel)",
+      "object": "gone",
+      "uid": "s01_e19_c06_u097"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Rachel Green)",
+      "object": "that",
+      "uid": "s01_e19_c06_u098"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(outside)",
+      "object": "cold",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(outside)",
+      "object": "dark",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "know",
+      "subject": "he/(Marcel)",
+      "object": "the Village",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "a broken foot",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "no monkey",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/(Ross Geller)",
+      "object": "you",
+      "uid": "s01_e19_c06_u099"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": "I'm sorry like a million times",
+      "uid": "s01_e19_c06_u100"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(Ross Geller)",
+      "object": "me",
+      "uid": "s01_e19_c06_u100"
+    },
+    {
+      "verb": "break",
+      "subject": "I/(Rachel Green)",
+      "object": "my foot",
+      "uid": "s01_e19_c06_u100"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Ross Geller)",
+      "object": "happy now",
+      "uid": "s01_e19_c06_u100"
+    },
+    {
+      "verb": "kick",
+      "subject": "you/(Rachel Green)",
+      "object": "the sign",
+      "uid": "s01_e19_c06_u101"
+    },
+    {
+      "verb": "miss",
+      "subject": "I/(Ross Geller)",
+      "object": "Marcel",
+      "uid": "s01_e19_c06_u101"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "this",
+      "uid": "s01_e19_c06_u102"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "on purpose",
+      "uid": "s01_e19_c06_u102"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(situation)",
+      "object": "vintage Rachel",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "happen",
+      "subject": "things",
+      "object": "around you/(Rachel Green)",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "off in Rachel-land",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Rachel Green)",
+      "object": "your Rachel-thing",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "oblivious to people's monkeys",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "oblivious to people's feelings",
+      "uid": "s01_e19_c06_u103"
+    },
+    {
+      "verb": "hear",
+      "subject": "I/(Ross Geller)",
+      "object": "it",
+      "uid": "s01_e19_c06_u105"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e19_c06_u105"
+    },
+    {
+      "verb": "forget",
+      "subject": "you/(Rachel Green)",
+      "object": "it",
+      "uid": "s01_e19_c06_u107"
+    }
+  ]
+}

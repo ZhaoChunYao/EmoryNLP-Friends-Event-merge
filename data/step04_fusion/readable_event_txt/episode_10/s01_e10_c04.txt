@@ -1,0 +1,110 @@
+event_id: s01_e10_c04_u001_e1
+utterance_id: s01_e10_c04_u001
+  tuple: ('be', "today's particle accelerators", 'nowhere near powerful enough to simulate these conditions', 's01_e10_c04_u001')
+  tuple: ('simulate', "today's particle accelerators", 'these conditions', 's01_e10_c04_u001')
+
+event_id: s01_e10_c04_u001_e2
+utterance_id: s01_e10_c04_u001
+  tuple: ('test', 'you/Phoebe Buffay', 'this theory', 's01_e10_c04_u001')
+
+event_id: s01_e10_c04_u002_e1
+utterance_id: s01_e10_c04_u002
+  tuple: ('have', 'I/Phoebe Buffay', 'a question', 's01_e10_c04_u002')
+
+event_id: s01_e10_c04_u004_e1
+utterance_id: s01_e10_c04_u004
+  tuple: ('plan', 'you/David', 'on kissing me ever', 's01_e10_c04_u004')
+  tuple: ('kiss', 'you/David', 'me', 's01_e10_c04_u004')
+
+event_id: s01_e10_c04_u005_e1
+utterance_id: s01_e10_c04_u005
+  tuple: ('be', "that/(Phoebe Buffay's question)", 'a valid question', 's01_e10_c04_u005')
+
+event_id: s01_e10_c04_u005_e2
+utterance_id: s01_e10_c04_u005
+  tuple: ('be', 'the answer', 'yes', 's01_e10_c04_u005')
+  tuple: ('be', 'I/David', None, 's01_e10_c04_u005')
+
+event_id: s01_e10_c04_u005_e3
+utterance_id: s01_e10_c04_u005
+  tuple: ('want', 'I/David', 'it to be this phenomenal kiss that happened at this phenomenal moment', 's01_e10_c04_u005')
+  tuple: ('be', 'it/(the kiss)', 'this phenomenal kiss that happened at this phenomenal moment', 's01_e10_c04_u005')
+  tuple: ('happen', 'that/(the kiss)', 'at this phenomenal moment', 's01_e10_c04_u005')
+
+event_id: s01_e10_c04_u005_e4
+utterance_id: s01_e10_c04_u005
+  tuple: ('be', 'it/(the reason)', 'you', 's01_e10_c04_u005')
+
+event_id: s01_e10_c04_u007_e1
+utterance_id: s01_e10_c04_u007
+  tuple: ('wait', 'I/David', None, 's01_e10_c04_u007')
+
+event_id: s01_e10_c04_u007_e2
+utterance_id: s01_e10_c04_u007
+  tuple: ('be', 'the kiss', 'more phenomenal', 's01_e10_c04_u007')
+
+event_id: s01_e10_c04_u007_e3
+utterance_id: s01_e10_c04_u007
+  tuple: ('reach', 'we/(David and Phoebe Buffay)', "a place where it's just gotta be one of those things where I just like sweep everything off the table and throw you down on it", 's01_e10_c04_u007')
+  tuple: ('be', 'it/(the situation)', 'one of those things where I just like sweep everything off the table and throw you down on it', 's01_e10_c04_u007')
+  tuple: ('like', 'I/David', 'sweep everything off the table and throw you down on it', 's01_e10_c04_u007')
+  tuple: ('sweep', 'I/David', 'everything', 's01_e10_c04_u007')
+  tuple: ('sweep', 'I/David', 'off the table', 's01_e10_c04_u007')
+  tuple: ('throw', 'I/David', 'you', 's01_e10_c04_u007')
+  tuple: ('throw', 'I/David', 'down on it', 's01_e10_c04_u007')
+
+event_id: s01_e10_c04_u007_e4
+utterance_id: s01_e10_c04_u007
+  tuple: ('be', 'I/David', 'not really a sweeping sorta fella', 's01_e10_c04_u007')
+
+event_id: s01_e10_c04_u008_e1
+utterance_id: s01_e10_c04_u008
+  tuple: ('think', 'I/Phoebe Buffay', 'you are a sweeping sorta fella', 's01_e10_c04_u008')
+  tuple: ('be', 'you/David', 'a sweeping sorta fella', 's01_e10_c04_u008')
+  tuple: ('be', 'you/David', 'a sweeper', 's01_e10_c04_u008')
+  tuple: ('trap', 'you/David', "inside a physicist's body", 's01_e10_c04_u008')
+
+event_id: s01_e10_c04_u010_e1
+utterance_id: s01_e10_c04_u010
+  tuple: ('be', 'I/Phoebe Buffay', 'sure of it', 's01_e10_c04_u010')
+
+event_id: s01_e10_c04_u010_e2
+utterance_id: s01_e10_c04_u010
+  tuple: ('do', 'you/David', 'it', 's01_e10_c04_u010')
+  tuple: ('sweep', 'you/David', None, 's01_e10_c04_u010')
+  tuple: ('throw', 'you/David', 'me', 's01_e10_c04_u010')
+
+event_id: s01_e10_c04_u013_e1
+utterance_id: s01_e10_c04_u013
+  tuple: ('know', 'you/Phoebe Buffay', 'what', 's01_e10_c04_u013')
+
+event_id: s01_e10_c04_u013_e2
+utterance_id: s01_e10_c04_u013
+  tuple: ('be', 'this/(an item on the table)', 'really expensive', 's01_e10_c04_u013')
+
+event_id: s01_e10_c04_u013_e3
+utterance_id: s01_e10_c04_u013
+  tuple: ('take', 'I/David', None, 's01_e10_c04_u013')
+
+event_id: s01_e10_c04_u013_e4
+utterance_id: s01_e10_c04_u013
+  tuple: ('be', 'this/(an item on the table)', 'a gift', 's01_e10_c04_u013')
+
+event_id: s01_e10_c04_u014_e1
+utterance_id: s01_e10_c04_u014
+  tuple: ('tidy', 'you/David', None, 's01_e10_c04_u014')
+
+event_id: s01_e10_c04_u015_e1
+utterance_id: s01_e10_c04_u015
+  tuple: ('want', 'you/Phoebe Buffay', 'me to actually throw you', 's01_e10_c04_u015')
+  tuple: ('throw', 'me/David', 'you', 's01_e10_c04_u015')
+
+event_id: s01_e10_c04_u015_e2
+utterance_id: s01_e10_c04_u015
+  tuple: ('want', 'you/Phoebe Buffay', 'to hop', 's01_e10_c04_u015')
+  tuple: ('hop', 'you/Phoebe Buffay', None, 's01_e10_c04_u015')
+
+event_id: s01_e10_c04_u016_e1
+utterance_id: s01_e10_c04_u016
+  tuple: ('hop', 'I/Phoebe Buffay', None, 's01_e10_c04_u016')
+

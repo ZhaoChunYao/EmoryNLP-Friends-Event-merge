@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Greets with a brief “Hey,” asks about someone’s arrival, and gives a short reply “Yeah, why?”—no clear signs of being especially outgoing or especially reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for others by noting Speaker_05 might need Speaker_04 and is polite/straightforward in interaction."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Treats the day as important, ensured appearance by going home to change and wanting to look nice, and tracks punctuality (“supposed to be here now”), indicating organization and responsibility."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Asking where someone is and noting timing does not show clear nervousness or insecurity; no emotional distress is expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity/inventiveness or dogmatic/cautious views; content is logistical and social."
+  }
+}

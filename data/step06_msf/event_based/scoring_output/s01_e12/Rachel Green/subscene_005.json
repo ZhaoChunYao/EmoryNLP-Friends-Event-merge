@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker mainly expresses embarrassment and regret and responds to Speaker_01’s prompts; there is no clear sign of either outgoing sociability or reserved withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly apologizes (u008), takes some blame for the situation (u007), aligns with Speaker_01 in condemning Speaker_02 (“pig…pig man,” u010–u016), and emphasizes trust and honesty (“trust me… much better that I know,” u024)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors indicate organization or efficiency; the exchange focuses on emotions and relationship processing rather than planning or task follow‑through."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says they feel very stupid and very embarrassed (u004) and shows distress (“Oh, God…,” u022) and self-reproach about not seeing Speaker_02’s behavior (u018), indicating sensitivity and anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "While TargetSpeaker accepts the uncomfortable truth that it’s better to know (u024), there is no strong evidence of curiosity or imaginative thinking beyond a brief shared label (“pig man”), so neither side is clearly supported."
+  }
+}

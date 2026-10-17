@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets warmly and initiates small talk (“Hey, welcome back! How was Florida?”) and openly discusses sexual matters (“You know Speaker_02?... mean you know Speaker_02 like I know Speaker_02?”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Friendly, welcoming tone (“Hey… welcome back!”) and cooperative, playful exchanges without hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or carelessness appears in this brief casual chat."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks casually and confidently about personal topics without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortably discusses intimate experiences and shows curiosity about the other’s connection (“You know Speaker_02?... like I know Speaker_02?”)."
+  }
+}

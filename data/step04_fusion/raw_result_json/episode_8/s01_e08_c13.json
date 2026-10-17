@@ -1,0 +1,149 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c13_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'it/(things)', 'in Financial Services', 's01_e08_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it/(Financial Services)', 'like Mardi Gras', 's01_e08_c13_u004')",
+            "('be', 'it/(Financial Services)', 'without the paper mache heads', 's01_e08_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/Lowell', None, 's01_e08_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'what Shelley told you about me', 's01_e08_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('tell', 'Shelley', 'you', 's01_e08_c13_u005')",
+            "('tell', 'Shelley', 'about me', 's01_e08_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'I/Chandler Bing', None, 's01_e08_c13_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Lowell', None, 's01_e08_c13_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'that/(previous statement)', 'what I told her', 's01_e08_c13_u006')",
+            "('tell', 'I/Lowell', 'her', 's01_e08_c13_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('tell', 'you/Lowell', None, 's01_e08_c13_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'we/(gay people)', 'a kind of radar', 's01_e08_c13_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'you/Lowell', 'I have a quality', 's01_e08_c13_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'I/Chandler Bing', 'a quality', 's01_e08_c13_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('speak', 'I/Lowell', 'for my people', 's01_e08_c13_u012')",
+            "('say', 'I/Lowell', 'no', 's01_e08_c13_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'he/Brian from Payroll', None, 's01_e08_c13_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c13_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'a Brian', 's01_e08_c13_u015')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Chandler Bing', 'to get a Brian', 's01_e08_c13_u015')"
+          ]
+        }
+      ]
+    }
+  ]
+}

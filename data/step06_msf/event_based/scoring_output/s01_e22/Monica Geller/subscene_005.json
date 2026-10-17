@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively invites Speaker_01 to stay over (u010) and engages in open, playful banter (e.g., the goat joke in u014), indicating outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She is supportive and kind, reassuring him \"No-no. Nothing wrong about that\" when he worries about doing sex wrong (u030), and chooses to be honest because he was honest (u028)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She admits she misrepresented her age—\"I’m not 22… I’m 25 and thirteen months\" (u032)—showing unreliability despite later honesty."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She remains calm and confident throughout: initiates the stay-over (u010), is unfazed by his virginity (u018–u021), and reassures him (u030), showing low anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She is open to new experiences and unconventional situations (inviting him to stay over in u010, playful imaginative humor in u014, and candid personal disclosures in u032–u034)."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c04_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this/Monica Geller', 'Monica Geller', 's01_e21_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('believe', 'I/Monica Geller', \"I'm taking some classes with you\", 's01_e21_c04_u003')",
+            "('take', 'I/Monica Geller', 'some classes', 's01_e21_c04_u003')",
+            "('take', 'I/Monica Geller', 'with you/(class provider)', 's01_e21_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('wonder', 'I/Monica Geller', 'what they were', 's01_e21_c04_u003')",
+            "('be', 'they/(classes)', 'what', 's01_e21_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'what', 's01_e21_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'I/Monica Geller', 'to tap class', 's01_e21_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('dance', 'you/Monica Geller', 'with the woman', 's01_e21_c04_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('steal', 'the woman', 'your credit card', 's01_e21_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'this woman', 'my life', 's01_e21_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('get', 'I/Monica Geller', 'to see who she is', 's01_e21_c04_u007')",
+            "('see', 'I/Monica Geller', 'who she is', 's01_e21_c04_u007')",
+            "('be', 'she/(the woman)', 'who', 's01_e21_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/Monica Geller', 'to the post office', 's01_e21_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', \"her picture is up\", 's01_e21_c04_u008')",
+            "('be', 'her picture', 'up', 's01_e21_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('lose', 'you/Monica Geller', 'it', 's01_e21_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'this is really becoming like a weird obsession thing', 's01_e21_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('be', \"this/(Monica's behavior)\", 'really becoming like a weird obsession thing', 's01_e21_c04_u008')",
+            "('become', \"this/(Monica's behavior)\", 'like a weird obsession thing', 's01_e21_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c04_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', \"this/(Monica's plan)\", 'madness', 's01_e21_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('tell', 'I/Phoebe Buffay', 'you/Monica Geller', 's01_e21_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'it', 's01_e21_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('thank', 'I/Phoebe Buffay', 'you/Monica Geller', 's01_e21_c04_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

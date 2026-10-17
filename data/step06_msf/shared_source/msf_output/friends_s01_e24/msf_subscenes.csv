@@ -1,0 +1,823 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e24,s01_e24_c01,Chandler Bing,0,4,8,3,9,3,s01_e24_c01_u004,s01_e24_c01_u017,"[s01_e24_c01_u004] Rachel Green: Oh, let me see! Oh, God, is he just the sweetest thing? You must just want to kiss him all over!
+[s01_e24_c01_u005] Unknown Speaker: 
+[s01_e24_c01_u006] Ross Geller: That would be nice.
+[s01_e24_c01_u007] Unknown Speaker: 
+[s01_e24_c01_u008] Rachel Green: Pardon?
+[s01_e24_c01_u009] Chandler Bing: Nothing, just a little extra air in my mouth. Pffft. Pffffffft.
+[s01_e24_c01_u010] Unknown Speaker: 
+[s01_e24_c01_u011] Joey Tribbiani: Hey, Chan, can you help me out here? I promise I'll pay you back.
+[s01_e24_c01_u012] Chandler Bing: Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars.
+[s01_e24_c01_u013] Joey Tribbiani: I will, really. I'll pay you back this time.
+[s01_e24_c01_u014] Chandler Bing: ... And where's this money coming from?
+[s01_e24_c01_u015] Joey Tribbiani: Well... I'm helping out down at the N.Y.U. Med School with some... research.
+[s01_e24_c01_u016] Ross Geller: What kind of research?
+[s01_e24_c01_u017] Joey Tribbiani: Oh, just, y'know.... science."
+s01_e24,s01_e24_c01,Joey Tribbiani,0,5,15,4,15,3,s01_e24_c01_u006,s01_e24_c01_u024,"[s01_e24_c01_u006] Ross Geller: That would be nice.
+[s01_e24_c01_u007] Unknown Speaker: 
+[s01_e24_c01_u008] Rachel Green: Pardon?
+[s01_e24_c01_u009] Chandler Bing: Nothing, just a little extra air in my mouth. Pffft. Pffffffft.
+[s01_e24_c01_u010] Unknown Speaker: 
+[s01_e24_c01_u011] Joey Tribbiani: Hey, Chan, can you help me out here? I promise I'll pay you back.
+[s01_e24_c01_u012] Chandler Bing: Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars.
+[s01_e24_c01_u013] Joey Tribbiani: I will, really. I'll pay you back this time.
+[s01_e24_c01_u014] Chandler Bing: ... And where's this money coming from?
+[s01_e24_c01_u015] Joey Tribbiani: Well... I'm helping out down at the N.Y.U. Med School with some... research.
+[s01_e24_c01_u016] Ross Geller: What kind of research?
+[s01_e24_c01_u017] Joey Tribbiani: Oh, just, y'know.... science.
+[s01_e24_c01_u018] Ross Geller: Science. Yeah, I think I've heard of that.
+[s01_e24_c01_u019] Joey Tribbiani: ... It's a fertility study.
+[s01_e24_c01_u020] Unknown Speaker: 
+[s01_e24_c01_u021] Monica Geller: Oh, Joey, please tell me you're only donating your time.
+[s01_e24_c01_u022] Joey Tribbiani: Alright, come on you guys, it's not that big a deal. Really... I mean, I just go down there every other day and... make my contribution to the project. Hey, hey, but at the end of two weeks, I get seven hundred dollars.
+[s01_e24_c01_u023] Ross Geller: Hey.
+[s01_e24_c01_u024] Phoebe Buffay: Wow, ooh, you're gonna be making money hand over fist!"
+s01_e24,s01_e24_c01,Rachel Green,0,1,3,0,4,2,s01_e24_c01_u001,s01_e24_c01_u012,"[s01_e24_c01_u001] Ross Geller: And here's little Ben nodding off...
+[s01_e24_c01_u002] Monica Geller: Awww, look at Aunt Monica's little boy!
+[s01_e24_c01_u003] Phoebe Buffay: Oh, look, he's got Ross's haircut!
+[s01_e24_c01_u004] Rachel Green: Oh, let me see! Oh, God, is he just the sweetest thing? You must just want to kiss him all over!
+[s01_e24_c01_u005] Unknown Speaker: 
+[s01_e24_c01_u006] Ross Geller: That would be nice.
+[s01_e24_c01_u007] Unknown Speaker: 
+[s01_e24_c01_u008] Rachel Green: Pardon?
+[s01_e24_c01_u009] Chandler Bing: Nothing, just a little extra air in my mouth. Pffft. Pffffffft.
+[s01_e24_c01_u010] Unknown Speaker: 
+[s01_e24_c01_u011] Joey Tribbiani: Hey, Chan, can you help me out here? I promise I'll pay you back.
+[s01_e24_c01_u012] Chandler Bing: Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars."
+s01_e24,s01_e24_c01,Ross Geller,0,0,0,0,1,2,s01_e24_c01_u001,s01_e24_c01_u008,"[s01_e24_c01_u001] Ross Geller: And here's little Ben nodding off...
+[s01_e24_c01_u002] Monica Geller: Awww, look at Aunt Monica's little boy!
+[s01_e24_c01_u003] Phoebe Buffay: Oh, look, he's got Ross's haircut!
+[s01_e24_c01_u004] Rachel Green: Oh, let me see! Oh, God, is he just the sweetest thing? You must just want to kiss him all over!
+[s01_e24_c01_u005] Unknown Speaker: 
+[s01_e24_c01_u006] Ross Geller: That would be nice.
+[s01_e24_c01_u007] Unknown Speaker: 
+[s01_e24_c01_u008] Rachel Green: Pardon?"
+s01_e24,s01_e24_c01,Ross Geller,1,10,12,9,13,2,s01_e24_c01_u013,s01_e24_c01_u022,"[s01_e24_c01_u013] Joey Tribbiani: I will, really. I'll pay you back this time.
+[s01_e24_c01_u014] Chandler Bing: ... And where's this money coming from?
+[s01_e24_c01_u015] Joey Tribbiani: Well... I'm helping out down at the N.Y.U. Med School with some... research.
+[s01_e24_c01_u016] Ross Geller: What kind of research?
+[s01_e24_c01_u017] Joey Tribbiani: Oh, just, y'know.... science.
+[s01_e24_c01_u018] Ross Geller: Science. Yeah, I think I've heard of that.
+[s01_e24_c01_u019] Joey Tribbiani: ... It's a fertility study.
+[s01_e24_c01_u020] Unknown Speaker: 
+[s01_e24_c01_u021] Monica Geller: Oh, Joey, please tell me you're only donating your time.
+[s01_e24_c01_u022] Joey Tribbiani: Alright, come on you guys, it's not that big a deal. Really... I mean, I just go down there every other day and... make my contribution to the project. Hey, hey, but at the end of two weeks, I get seven hundred dollars."
+s01_e24,s01_e24_c01,Ross Geller,2,14,14,13,15,2,s01_e24_c01_u017,s01_e24_c01_u024,"[s01_e24_c01_u017] Joey Tribbiani: Oh, just, y'know.... science.
+[s01_e24_c01_u018] Ross Geller: Science. Yeah, I think I've heard of that.
+[s01_e24_c01_u019] Joey Tribbiani: ... It's a fertility study.
+[s01_e24_c01_u020] Unknown Speaker: 
+[s01_e24_c01_u021] Monica Geller: Oh, Joey, please tell me you're only donating your time.
+[s01_e24_c01_u022] Joey Tribbiani: Alright, come on you guys, it's not that big a deal. Really... I mean, I just go down there every other day and... make my contribution to the project. Hey, hey, but at the end of two weeks, I get seven hundred dollars.
+[s01_e24_c01_u023] Ross Geller: Hey.
+[s01_e24_c01_u024] Phoebe Buffay: Wow, ooh, you're gonna be making money hand over fist!"
+s01_e24,s01_e24_c02,Chandler Bing,0,0,2,0,3,2,s01_e24_c02_u001,s01_e24_c02_u009,"[s01_e24_c02_u001] Monica Geller: OK, we got the cole slaw, we got the buns...
+[s01_e24_c02_u002] Phoebe Buffay: We've got the ground-up flesh of formerly cute cows and turkeys, ew...
+[s01_e24_c02_u003] Unknown Speaker: 
+[s01_e24_c02_u004] Chandler Bing: Men are here.
+[s01_e24_c02_u005] Joey Tribbiani: We make fire. Cook meat.
+[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+[s01_e24_c02_u007] Monica Geller, Phoebe Buffay: Ewww!
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+[s01_e24_c02_u009] Joey Tribbiani: Oh, OK."
+s01_e24,s01_e24_c02,Chandler Bing,1,41,41,40,42,2,s01_e24_c02_u045,s01_e24_c02_u051,"[s01_e24_c02_u045] Joey Tribbiani: Hey!
+[s01_e24_c02_u046] Chandler Bing: Hey!
+[s01_e24_c02_u047] Ross Geller: ....I have to go to China.
+[s01_e24_c02_u048] Joey Tribbiani: The country?
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no.
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight."
+s01_e24,s01_e24_c02,Chandler Bing,2,44,48,43,49,2,s01_e24_c02_u048,s01_e24_c02_u058,"[s01_e24_c02_u048] Joey Tribbiani: The country?
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no.
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+[s01_e24_c02_u053] Chandler Bing: Forget about her.
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+[s01_e24_c02_u055] Chandler Bing: Course there, they just call it food.
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+[s01_e24_c02_u057] Joey Tribbiani: Listen, buddy, we're just looking out for you.
+[s01_e24_c02_u058] Ross Geller: I know."
+s01_e24,s01_e24_c02,Chandler Bing,3,54,55,53,56,2,s01_e24_c02_u058,s01_e24_c02_u066,"[s01_e24_c02_u058] Ross Geller: I know.
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+[s01_e24_c02_u061] Unknown Speaker: 
+[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'
+[s01_e24_c02_u063] Joey Tribbiani: Like the three musketeers, only with fruit.
+[s01_e24_c02_u064] Chandler Bing: Ooooh.
+[s01_e24_c02_u065] Monica Geller: OK, how does everybody like their burgers?
+[s01_e24_c02_u066] Rachel Green: Oh, no, no, no. Presents first. Food later."
+s01_e24,s01_e24_c02,Chandler Bing,4,75,77,74,78,2,s01_e24_c02_u086,s01_e24_c02_u095,"[s01_e24_c02_u086] Phoebe Buffay: Oh, it's Dr. Seuss!
+[s01_e24_c02_u087] Joey Tribbiani: : That book got me through some tough times.
+[s01_e24_c02_u088] Melanie: There is a little child inside this man!
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die.
+[s01_e24_c02_u090] Unknown Speaker: 
+[s01_e24_c02_u091] Rachel Green: Who's this from?
+[s01_e24_c02_u092] Chandler Bing: Oh, that's Ross's.
+[s01_e24_c02_u093] Rachel Green: Oh... ... Oh my God. He remembered.
+[s01_e24_c02_u094] Phoebe Buffay: Remembered what?
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!"
+s01_e24,s01_e24_c02,Chandler Bing,5,79,79,78,80,2,s01_e24_c02_u091,s01_e24_c02_u097,"[s01_e24_c02_u091] Rachel Green: Who's this from?
+[s01_e24_c02_u092] Chandler Bing: Oh, that's Ross's.
+[s01_e24_c02_u093] Rachel Green: Oh... ... Oh my God. He remembered.
+[s01_e24_c02_u094] Phoebe Buffay: Remembered what?
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune."
+s01_e24,s01_e24_c02,Chandler Bing,6,82,89,81,89,3,s01_e24_c02_u094,s01_e24_c02_u107,"[s01_e24_c02_u094] Phoebe Buffay: Remembered what?
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this.
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+[s01_e24_c02_u100] Unknown Speaker: 
+[s01_e24_c02_u101] Rachel Green: What did you just say?
+[s01_e24_c02_u102] Chandler Bing: ahem... um... Crystal duck.
+[s01_e24_c02_u103] Rachel Green: No, no, no.... the, um, the... 'love' part?
+[s01_e24_c02_u104] Chandler Bing: F-hah.... flennin....
+[s01_e24_c02_u105] Rachel Green: Oh.... my God.
+[s01_e24_c02_u106] Chandler Bing: Oh, no-no-no-no-no....
+[s01_e24_c02_u107] Joey Tribbiani: That's good, just keep rubbing your head. That'll turn back time."
+s01_e24,s01_e24_c02,Joey Tribbiani,0,3,3,2,4,2,s01_e24_c02_u004,s01_e24_c02_u010,"[s01_e24_c02_u004] Chandler Bing: Men are here.
+[s01_e24_c02_u005] Joey Tribbiani: We make fire. Cook meat.
+[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+[s01_e24_c02_u007] Monica Geller, Phoebe Buffay: Ewww!
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+[s01_e24_c02_u009] Joey Tribbiani: Oh, OK.
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?"
+s01_e24,s01_e24_c02,Joey Tribbiani,1,5,13,4,14,3,s01_e24_c02_u006,s01_e24_c02_u021,"[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+[s01_e24_c02_u007] Monica Geller, Phoebe Buffay: Ewww!
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+[s01_e24_c02_u009] Joey Tribbiani: Oh, OK.
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+[s01_e24_c02_u011] Joey Tribbiani: I don't know, she's, uh.... she's pretty great.
+[s01_e24_c02_u012] Monica Geller: Yeah? What does she think of your little science project?
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+[s01_e24_c02_u014] Monica Geller: Man's got a point.
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+[s01_e24_c02_u016] Chandler Bing: Crazy bitch.
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+[s01_e24_c02_u019] Unknown Speaker: 
+[s01_e24_c02_u020] Phoebe Buffay: Hey.
+[s01_e24_c02_u021] Monica Geller: Hey."
+s01_e24,s01_e24_c02,Joey Tribbiani,2,39,40,38,41,2,s01_e24_c02_u042,s01_e24_c02_u050,"[s01_e24_c02_u042] Phoebe Buffay: Oh, hey, y'know what? Tell them that bone story.
+[s01_e24_c02_u043] Unknown Speaker: 
+[s01_e24_c02_u044] Ross Geller: Hi.
+[s01_e24_c02_u045] Joey Tribbiani: Hey!
+[s01_e24_c02_u046] Chandler Bing: Hey!
+[s01_e24_c02_u047] Ross Geller: ....I have to go to China.
+[s01_e24_c02_u048] Joey Tribbiani: The country?
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no."
+s01_e24,s01_e24_c02,Joey Tribbiani,3,43,43,42,44,2,s01_e24_c02_u047,s01_e24_c02_u053,"[s01_e24_c02_u047] Ross Geller: ....I have to go to China.
+[s01_e24_c02_u048] Joey Tribbiani: The country?
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no.
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+[s01_e24_c02_u053] Chandler Bing: Forget about her."
+s01_e24,s01_e24_c02,Joey Tribbiani,4,45,54,44,55,2,s01_e24_c02_u049,s01_e24_c02_u065,"[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no.
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+[s01_e24_c02_u053] Chandler Bing: Forget about her.
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+[s01_e24_c02_u055] Chandler Bing: Course there, they just call it food.
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+[s01_e24_c02_u057] Joey Tribbiani: Listen, buddy, we're just looking out for you.
+[s01_e24_c02_u058] Ross Geller: I know.
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+[s01_e24_c02_u061] Unknown Speaker: 
+[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'
+[s01_e24_c02_u063] Joey Tribbiani: Like the three musketeers, only with fruit.
+[s01_e24_c02_u064] Chandler Bing: Ooooh.
+[s01_e24_c02_u065] Monica Geller: OK, how does everybody like their burgers?"
+s01_e24,s01_e24_c02,Joey Tribbiani,5,59,65,58,66,3,s01_e24_c02_u064,s01_e24_c02_u081,"[s01_e24_c02_u064] Chandler Bing: Ooooh.
+[s01_e24_c02_u065] Monica Geller: OK, how does everybody like their burgers?
+[s01_e24_c02_u066] Rachel Green: Oh, no, no, no. Presents first. Food later.
+[s01_e24_c02_u067] Unknown Speaker: 
+[s01_e24_c02_u068] Monica Geller: Hey, hold on there, tiger. How's it going? How you holding up?
+[s01_e24_c02_u069] Joey Tribbiani: Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I...
+[s01_e24_c02_u070] Unknown Speaker: 
+[s01_e24_c02_u071] Joey Tribbiani: Then you do. Heh, heh.
+[s01_e24_c02_u072] Monica Geller: So, uh, have you ever thought about being there for her?
+[s01_e24_c02_u073] Joey Tribbiani: What do you mean?
+[s01_e24_c02_u074] Monica Geller: Y'know, just be there for her.
+[s01_e24_c02_u075] Unknown Speaker: 
+[s01_e24_c02_u076] Joey Tribbiani: Not following you.
+[s01_e24_c02_u077] Monica Geller: Think about it.
+[s01_e24_c02_u078] Unknown Speaker: 
+[s01_e24_c02_u079] Rachel Green: OK, I'm guessing this is from...
+[s01_e24_c02_u080] Unknown Speaker: 
+[s01_e24_c02_u081] Rachel Green: Well, thank you, Melanie."
+s01_e24,s01_e24_c02,Monica Geller,0,6,6,5,7,2,s01_e24_c02_u007,s01_e24_c02_u013,"[s01_e24_c02_u007] Monica Geller, Phoebe Buffay: Ewww!
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+[s01_e24_c02_u009] Joey Tribbiani: Oh, OK.
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+[s01_e24_c02_u011] Joey Tribbiani: I don't know, she's, uh.... she's pretty great.
+[s01_e24_c02_u012] Monica Geller: Yeah? What does she think of your little science project?
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?"
+s01_e24,s01_e24_c02,Monica Geller,1,8,10,7,11,2,s01_e24_c02_u009,s01_e24_c02_u017,"[s01_e24_c02_u009] Joey Tribbiani: Oh, OK.
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+[s01_e24_c02_u011] Joey Tribbiani: I don't know, she's, uh.... she's pretty great.
+[s01_e24_c02_u012] Monica Geller: Yeah? What does she think of your little science project?
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+[s01_e24_c02_u014] Monica Geller: Man's got a point.
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+[s01_e24_c02_u016] Chandler Bing: Crazy bitch.
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean."
+s01_e24,s01_e24_c02,Monica Geller,2,12,12,11,13,2,s01_e24_c02_u013,s01_e24_c02_u020,"[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+[s01_e24_c02_u014] Monica Geller: Man's got a point.
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+[s01_e24_c02_u016] Chandler Bing: Crazy bitch.
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+[s01_e24_c02_u019] Unknown Speaker: 
+[s01_e24_c02_u020] Phoebe Buffay: Hey."
+s01_e24,s01_e24_c02,Monica Geller,3,14,16,13,17,2,s01_e24_c02_u015,s01_e24_c02_u024,"[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+[s01_e24_c02_u016] Chandler Bing: Crazy bitch.
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+[s01_e24_c02_u019] Unknown Speaker: 
+[s01_e24_c02_u020] Phoebe Buffay: Hey.
+[s01_e24_c02_u021] Monica Geller: Hey.
+[s01_e24_c02_u022] Ross Geller: Hey.
+[s01_e24_c02_u023] Phoebe Buffay: How long did you think this barbecue was gonna last?
+[s01_e24_c02_u024] Ross Geller: I'm going to China."
+s01_e24,s01_e24_c02,Monica Geller,4,23,23,22,24,2,s01_e24_c02_u025,s01_e24_c02_u032,"[s01_e24_c02_u025] Phoebe Buffay: Jeez, you say one thing, and...
+[s01_e24_c02_u026] Monica Geller: You're going to China?
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+[s01_e24_c02_u028] Phoebe Buffay: Oh, let me see!
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+[s01_e24_c02_u030] Monica Geller: Yeah.
+[s01_e24_c02_u031] Unknown Speaker: 
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun."
+s01_e24,s01_e24_c02,Monica Geller,5,26,30,25,31,2,s01_e24_c02_u028,s01_e24_c02_u039,"[s01_e24_c02_u028] Phoebe Buffay: Oh, let me see!
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+[s01_e24_c02_u030] Monica Geller: Yeah.
+[s01_e24_c02_u031] Unknown Speaker: 
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl.
+[s01_e24_c02_u035] Ross Geller: Oh. Hey, who's Carl?
+[s01_e24_c02_u036] Monica Geller: You know, that guy she met at the coffeehouse.
+[s01_e24_c02_u037] Ross Geller: No.
+[s01_e24_c02_u038] Phoebe Buffay: Oh, well, see, there's this guy she met at the...
+[s01_e24_c02_u039] Ross Geller: At the coffeehouse, right."
+s01_e24,s01_e24_c02,Monica Geller,6,57,66,56,67,3,s01_e24_c02_u062,s01_e24_c02_u082,"[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'
+[s01_e24_c02_u063] Joey Tribbiani: Like the three musketeers, only with fruit.
+[s01_e24_c02_u064] Chandler Bing: Ooooh.
+[s01_e24_c02_u065] Monica Geller: OK, how does everybody like their burgers?
+[s01_e24_c02_u066] Rachel Green: Oh, no, no, no. Presents first. Food later.
+[s01_e24_c02_u067] Unknown Speaker: 
+[s01_e24_c02_u068] Monica Geller: Hey, hold on there, tiger. How's it going? How you holding up?
+[s01_e24_c02_u069] Joey Tribbiani: Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I...
+[s01_e24_c02_u070] Unknown Speaker: 
+[s01_e24_c02_u071] Joey Tribbiani: Then you do. Heh, heh.
+[s01_e24_c02_u072] Monica Geller: So, uh, have you ever thought about being there for her?
+[s01_e24_c02_u073] Joey Tribbiani: What do you mean?
+[s01_e24_c02_u074] Monica Geller: Y'know, just be there for her.
+[s01_e24_c02_u075] Unknown Speaker: 
+[s01_e24_c02_u076] Joey Tribbiani: Not following you.
+[s01_e24_c02_u077] Monica Geller: Think about it.
+[s01_e24_c02_u078] Unknown Speaker: 
+[s01_e24_c02_u079] Rachel Green: OK, I'm guessing this is from...
+[s01_e24_c02_u080] Unknown Speaker: 
+[s01_e24_c02_u081] Rachel Green: Well, thank you, Melanie.
+[s01_e24_c02_u082] Chandler Bing: OK, this one right here is from me."
+s01_e24,s01_e24_c02,Phoebe Buffay,0,16,22,15,23,2,s01_e24_c02_u017,s01_e24_c02_u030,"[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+[s01_e24_c02_u019] Unknown Speaker: 
+[s01_e24_c02_u020] Phoebe Buffay: Hey.
+[s01_e24_c02_u021] Monica Geller: Hey.
+[s01_e24_c02_u022] Ross Geller: Hey.
+[s01_e24_c02_u023] Phoebe Buffay: How long did you think this barbecue was gonna last?
+[s01_e24_c02_u024] Ross Geller: I'm going to China.
+[s01_e24_c02_u025] Phoebe Buffay: Jeez, you say one thing, and...
+[s01_e24_c02_u026] Monica Geller: You're going to China?
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+[s01_e24_c02_u028] Phoebe Buffay: Oh, let me see!
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+[s01_e24_c02_u030] Monica Geller: Yeah."
+s01_e24,s01_e24_c02,Phoebe Buffay,1,24,25,23,26,2,s01_e24_c02_u026,s01_e24_c02_u034,"[s01_e24_c02_u026] Monica Geller: You're going to China?
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+[s01_e24_c02_u028] Phoebe Buffay: Oh, let me see!
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+[s01_e24_c02_u030] Monica Geller: Yeah.
+[s01_e24_c02_u031] Unknown Speaker: 
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl."
+s01_e24,s01_e24_c02,Phoebe Buffay,2,32,36,31,37,3,s01_e24_c02_u035,s01_e24_c02_u046,"[s01_e24_c02_u035] Ross Geller: Oh. Hey, who's Carl?
+[s01_e24_c02_u036] Monica Geller: You know, that guy she met at the coffeehouse.
+[s01_e24_c02_u037] Ross Geller: No.
+[s01_e24_c02_u038] Phoebe Buffay: Oh, well, see, there's this guy she met at the...
+[s01_e24_c02_u039] Ross Geller: At the coffeehouse, right.
+[s01_e24_c02_u040] Phoebe Buffay: So you do know who he is! Sorry.
+[s01_e24_c02_u041] Ross Geller: OK, I'm gonna go say goodbye to the guys.
+[s01_e24_c02_u042] Phoebe Buffay: Oh, hey, y'know what? Tell them that bone story.
+[s01_e24_c02_u043] Unknown Speaker: 
+[s01_e24_c02_u044] Ross Geller: Hi.
+[s01_e24_c02_u045] Joey Tribbiani: Hey!
+[s01_e24_c02_u046] Chandler Bing: Hey!"
+s01_e24,s01_e24_c02,Phoebe Buffay,3,80,81,79,82,2,s01_e24_c02_u092,s01_e24_c02_u099,"[s01_e24_c02_u092] Chandler Bing: Oh, that's Ross's.
+[s01_e24_c02_u093] Rachel Green: Oh... ... Oh my God. He remembered.
+[s01_e24_c02_u094] Phoebe Buffay: Remembered what?
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this.
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?"
+s01_e24,s01_e24_c02,Rachel Green,0,66,72,65,73,4,s01_e24_c02_u073,s01_e24_c02_u089,"[s01_e24_c02_u073] Joey Tribbiani: What do you mean?
+[s01_e24_c02_u074] Monica Geller: Y'know, just be there for her.
+[s01_e24_c02_u075] Unknown Speaker: 
+[s01_e24_c02_u076] Joey Tribbiani: Not following you.
+[s01_e24_c02_u077] Monica Geller: Think about it.
+[s01_e24_c02_u078] Unknown Speaker: 
+[s01_e24_c02_u079] Rachel Green: OK, I'm guessing this is from...
+[s01_e24_c02_u080] Unknown Speaker: 
+[s01_e24_c02_u081] Rachel Green: Well, thank you, Melanie.
+[s01_e24_c02_u082] Chandler Bing: OK, this one right here is from me.
+[s01_e24_c02_u083] Rachel Green: OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+[s01_e24_c02_u084] Unknown Speaker: 
+[s01_e24_c02_u085] Rachel Green: This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And... ...it's a book!
+[s01_e24_c02_u086] Phoebe Buffay: Oh, it's Dr. Seuss!
+[s01_e24_c02_u087] Joey Tribbiani: : That book got me through some tough times.
+[s01_e24_c02_u088] Melanie: There is a little child inside this man!
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die."
+s01_e24,s01_e24_c02,Rachel Green,1,76,80,75,81,3,s01_e24_c02_u087,s01_e24_c02_u098,"[s01_e24_c02_u087] Joey Tribbiani: : That book got me through some tough times.
+[s01_e24_c02_u088] Melanie: There is a little child inside this man!
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die.
+[s01_e24_c02_u090] Unknown Speaker: 
+[s01_e24_c02_u091] Rachel Green: Who's this from?
+[s01_e24_c02_u092] Chandler Bing: Oh, that's Ross's.
+[s01_e24_c02_u093] Rachel Green: Oh... ... Oh my God. He remembered.
+[s01_e24_c02_u094] Phoebe Buffay: Remembered what?
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this."
+s01_e24,s01_e24_c02,Rachel Green,2,85,89,84,89,3,s01_e24_c02_u097,s01_e24_c02_u107,"[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this.
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+[s01_e24_c02_u100] Unknown Speaker: 
+[s01_e24_c02_u101] Rachel Green: What did you just say?
+[s01_e24_c02_u102] Chandler Bing: ahem... um... Crystal duck.
+[s01_e24_c02_u103] Rachel Green: No, no, no.... the, um, the... 'love' part?
+[s01_e24_c02_u104] Chandler Bing: F-hah.... flennin....
+[s01_e24_c02_u105] Rachel Green: Oh.... my God.
+[s01_e24_c02_u106] Chandler Bing: Oh, no-no-no-no-no....
+[s01_e24_c02_u107] Joey Tribbiani: That's good, just keep rubbing your head. That'll turn back time."
+s01_e24,s01_e24_c02,Ross Geller,0,17,44,16,45,3,s01_e24_c02_u018,s01_e24_c02_u054,"[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+[s01_e24_c02_u019] Unknown Speaker: 
+[s01_e24_c02_u020] Phoebe Buffay: Hey.
+[s01_e24_c02_u021] Monica Geller: Hey.
+[s01_e24_c02_u022] Ross Geller: Hey.
+[s01_e24_c02_u023] Phoebe Buffay: How long did you think this barbecue was gonna last?
+[s01_e24_c02_u024] Ross Geller: I'm going to China.
+[s01_e24_c02_u025] Phoebe Buffay: Jeez, you say one thing, and...
+[s01_e24_c02_u026] Monica Geller: You're going to China?
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+[s01_e24_c02_u028] Phoebe Buffay: Oh, let me see!
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+[s01_e24_c02_u030] Monica Geller: Yeah.
+[s01_e24_c02_u031] Unknown Speaker: 
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl.
+[s01_e24_c02_u035] Ross Geller: Oh. Hey, who's Carl?
+[s01_e24_c02_u036] Monica Geller: You know, that guy she met at the coffeehouse.
+[s01_e24_c02_u037] Ross Geller: No.
+[s01_e24_c02_u038] Phoebe Buffay: Oh, well, see, there's this guy she met at the...
+[s01_e24_c02_u039] Ross Geller: At the coffeehouse, right.
+[s01_e24_c02_u040] Phoebe Buffay: So you do know who he is! Sorry.
+[s01_e24_c02_u041] Ross Geller: OK, I'm gonna go say goodbye to the guys.
+[s01_e24_c02_u042] Phoebe Buffay: Oh, hey, y'know what? Tell them that bone story.
+[s01_e24_c02_u043] Unknown Speaker: 
+[s01_e24_c02_u044] Ross Geller: Hi.
+[s01_e24_c02_u045] Joey Tribbiani: Hey!
+[s01_e24_c02_u046] Chandler Bing: Hey!
+[s01_e24_c02_u047] Ross Geller: ....I have to go to China.
+[s01_e24_c02_u048] Joey Tribbiani: The country?
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+[s01_e24_c02_u050] Chandler Bing: Uh, let's see... Alvin... Simon... Theodore.... no.
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+[s01_e24_c02_u053] Chandler Bing: Forget about her.
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food."
+s01_e24,s01_e24_c02,Ross Geller,1,49,51,48,52,2,s01_e24_c02_u053,s01_e24_c02_u062,"[s01_e24_c02_u053] Chandler Bing: Forget about her.
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+[s01_e24_c02_u055] Chandler Bing: Course there, they just call it food.
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+[s01_e24_c02_u057] Joey Tribbiani: Listen, buddy, we're just looking out for you.
+[s01_e24_c02_u058] Ross Geller: I know.
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+[s01_e24_c02_u061] Unknown Speaker: 
+[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'"
+s01_e24,s01_e24_c03,Chandler Bing,0,0,2,0,3,2,s01_e24_c03_u001,s01_e24_c03_u008,"[s01_e24_c03_u001] Rachel Green: I mean, this is unbelievable.
+[s01_e24_c03_u002] Phoebe Buffay: I know. This is really, really huge.
+[s01_e24_c03_u003] Chandler Bing: No it's not. It's small. It's tiny. It's petite. It's wee.
+[s01_e24_c03_u004] Phoebe Buffay: Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+[s01_e24_c03_u005] Chandler Bing: OK, is there a mute button on this woman?
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something."
+s01_e24,s01_e24_c03,Chandler Bing,1,8,14,7,15,2,s01_e24_c03_u008,s01_e24_c03_u020,"[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+[s01_e24_c03_u009] Rachel Green: Ross? All this time? Well, I've got to talk to him.
+[s01_e24_c03_u010] Chandler Bing: H-He's in China!
+[s01_e24_c03_u011] Joey Tribbiani: The country.
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+[s01_e24_c03_u013] Chandler Bing: What about the time difference?
+[s01_e24_c03_u014] Monica Geller: From here to the airport?
+[s01_e24_c03_u015] Chandler Bing: Yes! You're never gonna make it!
+[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+[s01_e24_c03_u017] Rachel Green: I-I-I don't know.
+[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now."
+s01_e24,s01_e24_c03,Joey Tribbiani,0,6,7,5,8,2,s01_e24_c03_u006,s01_e24_c03_u013,"[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+[s01_e24_c03_u009] Rachel Green: Ross? All this time? Well, I've got to talk to him.
+[s01_e24_c03_u010] Chandler Bing: H-He's in China!
+[s01_e24_c03_u011] Joey Tribbiani: The country.
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+[s01_e24_c03_u013] Chandler Bing: What about the time difference?"
+s01_e24,s01_e24_c03,Monica Geller,0,9,13,8,14,3,s01_e24_c03_u009,s01_e24_c03_u019,"[s01_e24_c03_u009] Rachel Green: Ross? All this time? Well, I've got to talk to him.
+[s01_e24_c03_u010] Chandler Bing: H-He's in China!
+[s01_e24_c03_u011] Joey Tribbiani: The country.
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+[s01_e24_c03_u013] Chandler Bing: What about the time difference?
+[s01_e24_c03_u014] Monica Geller: From here to the airport?
+[s01_e24_c03_u015] Chandler Bing: Yes! You're never gonna make it!
+[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+[s01_e24_c03_u017] Rachel Green: I-I-I don't know.
+[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait."
+s01_e24,s01_e24_c03,Monica Geller,1,15,15,14,16,2,s01_e24_c03_u015,s01_e24_c03_u021,"[s01_e24_c03_u015] Chandler Bing: Yes! You're never gonna make it!
+[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+[s01_e24_c03_u017] Rachel Green: I-I-I don't know.
+[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now.
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him."
+s01_e24,s01_e24_c03,Phoebe Buffay,0,0,1,0,2,2,s01_e24_c03_u001,s01_e24_c03_u007,"[s01_e24_c03_u001] Rachel Green: I mean, this is unbelievable.
+[s01_e24_c03_u002] Phoebe Buffay: I know. This is really, really huge.
+[s01_e24_c03_u003] Chandler Bing: No it's not. It's small. It's tiny. It's petite. It's wee.
+[s01_e24_c03_u004] Phoebe Buffay: Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+[s01_e24_c03_u005] Chandler Bing: OK, is there a mute button on this woman?
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?"
+s01_e24,s01_e24_c03,Rachel Green,0,4,6,3,7,2,s01_e24_c03_u004,s01_e24_c03_u012,"[s01_e24_c03_u004] Phoebe Buffay: Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+[s01_e24_c03_u005] Chandler Bing: OK, is there a mute button on this woman?
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+[s01_e24_c03_u009] Rachel Green: Ross? All this time? Well, I've got to talk to him.
+[s01_e24_c03_u010] Chandler Bing: H-He's in China!
+[s01_e24_c03_u011] Joey Tribbiani: The country.
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes."
+s01_e24,s01_e24_c03,Rachel Green,1,16,16,15,17,2,s01_e24_c03_u016,s01_e24_c03_u022,"[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+[s01_e24_c03_u017] Rachel Green: I-I-I don't know.
+[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now.
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him.
+[s01_e24_c03_u022] Phoebe Buffay: Here, look, alright, does this help?"
+s01_e24,s01_e24_c03,Rachel Green,2,18,19,17,19,2,s01_e24_c03_u018,s01_e24_c03_u025,"[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now.
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him.
+[s01_e24_c03_u022] Phoebe Buffay: Here, look, alright, does this help?
+[s01_e24_c03_u023] Unknown Speaker: 
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+[s01_e24_c03_u025] Chandler Bing: Rachel, I love you! Deal with me first!"
+s01_e24,s01_e24_c04,Flight Attendant,0,0,13,0,13,3,s01_e24_c04_u001,s01_e24_c04_u021,"[s01_e24_c04_u001] Ross Geller: 
+[s01_e24_c04_u002] Flight Attendant: Alright!
+[s01_e24_c04_u003] Ross Geller: Ni-chou chi-ma!
+[s01_e24_c04_u004] Unknown Speaker: 
+[s01_e24_c04_u005] Rachel Green: Ross! Excuse me, pardon me, excuse me....
+[s01_e24_c04_u006] Unknown Speaker: 
+[s01_e24_c04_u007] Flight Attendant: Hi!
+[s01_e24_c04_u008] Rachel Green: Hi.
+[s01_e24_c04_u009] Flight Attendant: May I see your boarding pass?
+[s01_e24_c04_u010] Rachel Green: Oh, no, no, I don't have one. I just need to talk to my friend.
+[s01_e24_c04_u011] Flight Attendant: Oh, oooh. I'm sorry. You are not allowed on the jetway unless you have a boarding pass.
+[s01_e24_c04_u012] Rachel Green: No, I know, but Ihe just went on. He's right there, he's got the blue jacket on, I... can I j-just...
+[s01_e24_c04_u013] Flight Attendant: No no no! Federal regulations!
+[s01_e24_c04_u014] Rachel Green: OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is very important.
+[s01_e24_c04_u015] Flight Attendant: Alright. What's the message?
+[s01_e24_c04_u016] Rachel Green: Uh... I don't know.
+[s01_e24_c04_u017] Unknown Speaker: 
+[s01_e24_c04_u018] Flight Attendant: Sir? Sir? Excuse me, sir? Uh... I have a message for you.
+[s01_e24_c04_u019] Man: What?
+[s01_e24_c04_u020] Flight Attendant: It's from Rachel. She said that she loved the present, and she will see you when you get back.
+[s01_e24_c04_u021] Man: : Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze."
+s01_e24,s01_e24_c04,Man,0,13,13,12,13,2,s01_e24_c04_u015,s01_e24_c04_u021,"[s01_e24_c04_u015] Flight Attendant: Alright. What's the message?
+[s01_e24_c04_u016] Rachel Green: Uh... I don't know.
+[s01_e24_c04_u017] Unknown Speaker: 
+[s01_e24_c04_u018] Flight Attendant: Sir? Sir? Excuse me, sir? Uh... I have a message for you.
+[s01_e24_c04_u019] Man: What?
+[s01_e24_c04_u020] Flight Attendant: It's from Rachel. She said that she loved the present, and she will see you when you get back.
+[s01_e24_c04_u021] Man: : Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze."
+s01_e24,s01_e24_c04,Rachel Green,0,1,11,0,12,3,s01_e24_c04_u001,s01_e24_c04_u020,"[s01_e24_c04_u001] Ross Geller: 
+[s01_e24_c04_u002] Flight Attendant: Alright!
+[s01_e24_c04_u003] Ross Geller: Ni-chou chi-ma!
+[s01_e24_c04_u004] Unknown Speaker: 
+[s01_e24_c04_u005] Rachel Green: Ross! Excuse me, pardon me, excuse me....
+[s01_e24_c04_u006] Unknown Speaker: 
+[s01_e24_c04_u007] Flight Attendant: Hi!
+[s01_e24_c04_u008] Rachel Green: Hi.
+[s01_e24_c04_u009] Flight Attendant: May I see your boarding pass?
+[s01_e24_c04_u010] Rachel Green: Oh, no, no, I don't have one. I just need to talk to my friend.
+[s01_e24_c04_u011] Flight Attendant: Oh, oooh. I'm sorry. You are not allowed on the jetway unless you have a boarding pass.
+[s01_e24_c04_u012] Rachel Green: No, I know, but Ihe just went on. He's right there, he's got the blue jacket on, I... can I j-just...
+[s01_e24_c04_u013] Flight Attendant: No no no! Federal regulations!
+[s01_e24_c04_u014] Rachel Green: OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is very important.
+[s01_e24_c04_u015] Flight Attendant: Alright. What's the message?
+[s01_e24_c04_u016] Rachel Green: Uh... I don't know.
+[s01_e24_c04_u017] Unknown Speaker: 
+[s01_e24_c04_u018] Flight Attendant: Sir? Sir? Excuse me, sir? Uh... I have a message for you.
+[s01_e24_c04_u019] Man: What?
+[s01_e24_c04_u020] Flight Attendant: It's from Rachel. She said that she loved the present, and she will see you when you get back."
+s01_e24,s01_e24_c04,Ross Geller,0,0,0,0,1,2,s01_e24_c04_u001,s01_e24_c04_u008,"[s01_e24_c04_u001] Ross Geller: 
+[s01_e24_c04_u002] Flight Attendant: Alright!
+[s01_e24_c04_u003] Ross Geller: Ni-chou chi-ma!
+[s01_e24_c04_u004] Unknown Speaker: 
+[s01_e24_c04_u005] Rachel Green: Ross! Excuse me, pardon me, excuse me....
+[s01_e24_c04_u006] Unknown Speaker: 
+[s01_e24_c04_u007] Flight Attendant: Hi!
+[s01_e24_c04_u008] Rachel Green: Hi."
+s01_e24,s01_e24_c05,Joey Tribbiani,0,0,5,0,5,3,s01_e24_c05_u001,s01_e24_c05_u011,"[s01_e24_c05_u001] Melanie: Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a minute!
+[s01_e24_c05_u002] Joey Tribbiani: Heh, heh. It was nothin'.
+[s01_e24_c05_u003] Melanie: Well, now we've gotta find something fun for you!
+[s01_e24_c05_u004] Joey Tribbiani: Uhhh.. y'know what? Forget about me. Let's, uh... let's give you another turn.
+[s01_e24_c05_u005] Melanie: M-Me again?
+[s01_e24_c05_u006] Joey Tribbiani: Sure! Why not?
+[s01_e24_c05_u007] Melanie: Boy, somebody's gonna get a big fruit basket tomorrow.
+[s01_e24_c05_u008] Unknown Speaker: 
+[s01_e24_c05_u009] Melanie: Oooh, I gotta tell you... you are nothing like I thought you would be.
+[s01_e24_c05_u010] Joey Tribbiani: How do you mean?
+[s01_e24_c05_u011] Melanie: I don't know, I-I guess I just had you pegged as one of those guys who're always 'me, me, me.' But you... you're a giver. You're like the most generous man I ever met. I mean... you're practically a woman."
+s01_e24,s01_e24_c05,Melanie,0,0,5,0,5,3,s01_e24_c05_u001,s01_e24_c05_u011,"[s01_e24_c05_u001] Melanie: Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a minute!
+[s01_e24_c05_u002] Joey Tribbiani: Heh, heh. It was nothin'.
+[s01_e24_c05_u003] Melanie: Well, now we've gotta find something fun for you!
+[s01_e24_c05_u004] Joey Tribbiani: Uhhh.. y'know what? Forget about me. Let's, uh... let's give you another turn.
+[s01_e24_c05_u005] Melanie: M-Me again?
+[s01_e24_c05_u006] Joey Tribbiani: Sure! Why not?
+[s01_e24_c05_u007] Melanie: Boy, somebody's gonna get a big fruit basket tomorrow.
+[s01_e24_c05_u008] Unknown Speaker: 
+[s01_e24_c05_u009] Melanie: Oooh, I gotta tell you... you are nothing like I thought you would be.
+[s01_e24_c05_u010] Joey Tribbiani: How do you mean?
+[s01_e24_c05_u011] Melanie: I don't know, I-I guess I just had you pegged as one of those guys who're always 'me, me, me.' But you... you're a giver. You're like the most generous man I ever met. I mean... you're practically a woman."
+s01_e24,s01_e24_c06,Monica Geller,0,0,0,0,1,2,s01_e24_c06_u001,s01_e24_c06_u006,"[s01_e24_c06_u001] Monica Geller: Uh, so, uh, Rach, uh... do you wanna save this wrapping paper, I mean, it's only a little bit torn... so are you gonna go for it with Ross or should I just throw it out?
+[s01_e24_c06_u002] Rachel Green: I don't know. I don't know... I thought about it all the way there, and I thought about it all the way back... and, uh, oh, you guys, y'know, it's Ross. Y'know what I mean? I mean, it's Ross.
+[s01_e24_c06_u003] Monica Geller, Phoebe Buffay: Sure.
+[s01_e24_c06_u004] Rachel Green: I don't know, I mean, this is just my initial gut feeling... but I'm thinking... oh, I'm thinking it'd be really great.
+[s01_e24_c06_u005] Monica Geller: Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!
+[s01_e24_c06_u006] Phoebe Buffay: Yeah, but, y'know, it's... it would be like starting on the fifteenth date."
+s01_e24,s01_e24_c06,Monica Geller,1,2,4,1,5,2,s01_e24_c06_u002,s01_e24_c06_u010,"[s01_e24_c06_u002] Rachel Green: I don't know. I don't know... I thought about it all the way there, and I thought about it all the way back... and, uh, oh, you guys, y'know, it's Ross. Y'know what I mean? I mean, it's Ross.
+[s01_e24_c06_u003] Monica Geller, Phoebe Buffay: Sure.
+[s01_e24_c06_u004] Rachel Green: I don't know, I mean, this is just my initial gut feeling... but I'm thinking... oh, I'm thinking it'd be really great.
+[s01_e24_c06_u005] Monica Geller: Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!
+[s01_e24_c06_u006] Phoebe Buffay: Yeah, but, y'know, it's... it would be like starting on the fifteenth date.
+[s01_e24_c06_u007] Monica Geller: Another good point.
+[s01_e24_c06_u008] Phoebe Buffay: No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.
+[s01_e24_c06_u009] Rachel Green: Huh?
+[s01_e24_c06_u010] Phoebe Buffay: Well, I mean, then what happens if it doesn't work out?"
+s01_e24,s01_e24_c06,Monica Geller,2,6,6,5,7,2,s01_e24_c06_u006,s01_e24_c06_u012,"[s01_e24_c06_u006] Phoebe Buffay: Yeah, but, y'know, it's... it would be like starting on the fifteenth date.
+[s01_e24_c06_u007] Monica Geller: Another good point.
+[s01_e24_c06_u008] Phoebe Buffay: No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.
+[s01_e24_c06_u009] Rachel Green: Huh?
+[s01_e24_c06_u010] Phoebe Buffay: Well, I mean, then what happens if it doesn't work out?
+[s01_e24_c06_u011] Monica Geller: Why isn't it working out?
+[s01_e24_c06_u012] Rachel Green: I don't know... sometimes it doesn't."
+s01_e24,s01_e24_c06,Monica Geller,3,8,12,7,13,3,s01_e24_c06_u008,s01_e24_c06_u018,"[s01_e24_c06_u008] Phoebe Buffay: No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.
+[s01_e24_c06_u009] Rachel Green: Huh?
+[s01_e24_c06_u010] Phoebe Buffay: Well, I mean, then what happens if it doesn't work out?
+[s01_e24_c06_u011] Monica Geller: Why isn't it working out?
+[s01_e24_c06_u012] Rachel Green: I don't know... sometimes it doesn't.
+[s01_e24_c06_u013] Monica Geller: Is he not cute enough for you?
+[s01_e24_c06_u014] Rachel Green: No!
+[s01_e24_c06_u015] Monica Geller: Does he not make enough money?
+[s01_e24_c06_u016] Rachel Green: No, I'm just....
+[s01_e24_c06_u017] Phoebe Buffay: Maybe there's someone else.
+[s01_e24_c06_u018] Rachel Green: Wha..."
+s01_e24,s01_e24_c06,Monica Geller,4,14,14,13,15,2,s01_e24_c06_u014,s01_e24_c06_u020,"[s01_e24_c06_u014] Rachel Green: No!
+[s01_e24_c06_u015] Monica Geller: Does he not make enough money?
+[s01_e24_c06_u016] Rachel Green: No, I'm just....
+[s01_e24_c06_u017] Phoebe Buffay: Maybe there's someone else.
+[s01_e24_c06_u018] Rachel Green: Wha...
+[s01_e24_c06_u019] Monica Geller: Is there? Is there someone else?
+[s01_e24_c06_u020] Rachel Green: No! There is.. there is noone else!"
+s01_e24,s01_e24_c06,Monica Geller,5,16,16,15,16,2,s01_e24_c06_u016,s01_e24_c06_u021,"[s01_e24_c06_u016] Rachel Green: No, I'm just....
+[s01_e24_c06_u017] Phoebe Buffay: Maybe there's someone else.
+[s01_e24_c06_u018] Rachel Green: Wha...
+[s01_e24_c06_u019] Monica Geller: Is there? Is there someone else?
+[s01_e24_c06_u020] Rachel Green: No! There is.. there is noone else!
+[s01_e24_c06_u021] Monica Geller: Then why the hell are you dumping my brother?!?"
+s01_e24,s01_e24_c06,Phoebe Buffay,0,3,7,2,8,3,s01_e24_c06_u003,s01_e24_c06_u013,"[s01_e24_c06_u003] Monica Geller, Phoebe Buffay: Sure.
+[s01_e24_c06_u004] Rachel Green: I don't know, I mean, this is just my initial gut feeling... but I'm thinking... oh, I'm thinking it'd be really great.
+[s01_e24_c06_u005] Monica Geller: Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!
+[s01_e24_c06_u006] Phoebe Buffay: Yeah, but, y'know, it's... it would be like starting on the fifteenth date.
+[s01_e24_c06_u007] Monica Geller: Another good point.
+[s01_e24_c06_u008] Phoebe Buffay: No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.
+[s01_e24_c06_u009] Rachel Green: Huh?
+[s01_e24_c06_u010] Phoebe Buffay: Well, I mean, then what happens if it doesn't work out?
+[s01_e24_c06_u011] Monica Geller: Why isn't it working out?
+[s01_e24_c06_u012] Rachel Green: I don't know... sometimes it doesn't.
+[s01_e24_c06_u013] Monica Geller: Is he not cute enough for you?"
+s01_e24,s01_e24_c06,Rachel Green,0,0,1,0,2,2,s01_e24_c06_u001,s01_e24_c06_u007,"[s01_e24_c06_u001] Monica Geller: Uh, so, uh, Rach, uh... do you wanna save this wrapping paper, I mean, it's only a little bit torn... so are you gonna go for it with Ross or should I just throw it out?
+[s01_e24_c06_u002] Rachel Green: I don't know. I don't know... I thought about it all the way there, and I thought about it all the way back... and, uh, oh, you guys, y'know, it's Ross. Y'know what I mean? I mean, it's Ross.
+[s01_e24_c06_u003] Monica Geller, Phoebe Buffay: Sure.
+[s01_e24_c06_u004] Rachel Green: I don't know, I mean, this is just my initial gut feeling... but I'm thinking... oh, I'm thinking it'd be really great.
+[s01_e24_c06_u005] Monica Geller: Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!
+[s01_e24_c06_u006] Phoebe Buffay: Yeah, but, y'know, it's... it would be like starting on the fifteenth date.
+[s01_e24_c06_u007] Monica Geller: Another good point."
+s01_e24,s01_e24_c06,Rachel Green,1,7,16,6,16,3,s01_e24_c06_u007,s01_e24_c06_u021,"[s01_e24_c06_u007] Monica Geller: Another good point.
+[s01_e24_c06_u008] Phoebe Buffay: No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.
+[s01_e24_c06_u009] Rachel Green: Huh?
+[s01_e24_c06_u010] Phoebe Buffay: Well, I mean, then what happens if it doesn't work out?
+[s01_e24_c06_u011] Monica Geller: Why isn't it working out?
+[s01_e24_c06_u012] Rachel Green: I don't know... sometimes it doesn't.
+[s01_e24_c06_u013] Monica Geller: Is he not cute enough for you?
+[s01_e24_c06_u014] Rachel Green: No!
+[s01_e24_c06_u015] Monica Geller: Does he not make enough money?
+[s01_e24_c06_u016] Rachel Green: No, I'm just....
+[s01_e24_c06_u017] Phoebe Buffay: Maybe there's someone else.
+[s01_e24_c06_u018] Rachel Green: Wha...
+[s01_e24_c06_u019] Monica Geller: Is there? Is there someone else?
+[s01_e24_c06_u020] Rachel Green: No! There is.. there is noone else!
+[s01_e24_c06_u021] Monica Geller: Then why the hell are you dumping my brother?!?"
+s01_e24,s01_e24_c07,Chandler Bing,0,0,7,0,7,3,s01_e24_c07_u001,s01_e24_c07_u012,"[s01_e24_c07_u001] Chandler Bing: Hey, big...
+[s01_e24_c07_u002] Joey Tribbiani: Shhhh!
+[s01_e24_c07_u003] Chandler Bing: ...spender.
+[s01_e24_c07_u004] Joey Tribbiani: She's still asleep.
+[s01_e24_c07_u005] Chandler Bing: So how'd it go?
+[s01_e24_c07_u006] Joey Tribbiani: Oh, it was amazing. You know how you always think you're great in bed?
+[s01_e24_c07_u007] Chandler Bing: The fact that you'd even ask that question shows how little you know me.
+[s01_e24_c07_u008] Joey Tribbiani: Well, it's like, last night, I couldn't do the thing that usually makes me great. So I had to do all this other stuff. And the response I got... man, oh man, it was like a ticker tape parade!
+[s01_e24_c07_u009] Chandler Bing: Yes, I know, as it happens my room is very very close to the parade route.
+[s01_e24_c07_u010] Joey Tribbiani: It was amazing! And not just for her... uh-uh. For me, too. It's like, all of a sudden, I'm blind. But all my other senses are heightened, y'know? It's like... I was able to appreciate it on another level.
+[s01_e24_c07_u011] Chandler Bing: I didn't know you had another level.
+[s01_e24_c07_u012] Joey Tribbiani: I know! Neither did I!"
+s01_e24,s01_e24_c07,Joey Tribbiani,0,0,7,0,7,3,s01_e24_c07_u001,s01_e24_c07_u012,"[s01_e24_c07_u001] Chandler Bing: Hey, big...
+[s01_e24_c07_u002] Joey Tribbiani: Shhhh!
+[s01_e24_c07_u003] Chandler Bing: ...spender.
+[s01_e24_c07_u004] Joey Tribbiani: She's still asleep.
+[s01_e24_c07_u005] Chandler Bing: So how'd it go?
+[s01_e24_c07_u006] Joey Tribbiani: Oh, it was amazing. You know how you always think you're great in bed?
+[s01_e24_c07_u007] Chandler Bing: The fact that you'd even ask that question shows how little you know me.
+[s01_e24_c07_u008] Joey Tribbiani: Well, it's like, last night, I couldn't do the thing that usually makes me great. So I had to do all this other stuff. And the response I got... man, oh man, it was like a ticker tape parade!
+[s01_e24_c07_u009] Chandler Bing: Yes, I know, as it happens my room is very very close to the parade route.
+[s01_e24_c07_u010] Joey Tribbiani: It was amazing! And not just for her... uh-uh. For me, too. It's like, all of a sudden, I'm blind. But all my other senses are heightened, y'know? It's like... I was able to appreciate it on another level.
+[s01_e24_c07_u011] Chandler Bing: I didn't know you had another level.
+[s01_e24_c07_u012] Joey Tribbiani: I know! Neither did I!"
+s01_e24,s01_e24_c08,Monica Geller,0,0,8,0,9,3,s01_e24_c08_u001,s01_e24_c08_u015,"[s01_e24_c08_u001] Monica Geller: Hey, great skirt! Birthday present?
+[s01_e24_c08_u002] Rachel Green: Yeah.
+[s01_e24_c08_u003] Monica Geller: Oh, from who?
+[s01_e24_c08_u004] Rachel Green: From you. I exchanged the blouse you got me.
+[s01_e24_c08_u005] Monica Geller: Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?
+[s01_e24_c08_u006] Rachel Green: Uh, yeah. Uh, Monica, y'know, honey, I've been thinking about it and I've decided thisthis whole Ross thing, it's just not a good idea.
+[s01_e24_c08_u007] Monica Geller: Oh, why?
+[s01_e24_c08_u008] Rachel Green: Because, I feel like I wouldn't just be going out with him. I would be going out with all of you. Oh, and there would just be all this pressure, and I don't wanna...
+[s01_e24_c08_u009] Monica Geller: No, no, no, no, no, no pressure, no pressure!
+[s01_e24_c08_u010] Rachel Green: Monica, nothing has even happened yet, and you're already so...
+[s01_e24_c08_u011] Monica Geller: I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise.
+[s01_e24_c08_u012] Unknown Speaker: 
+[s01_e24_c08_u013] Rachel Green: Who is it?
+[s01_e24_c08_u014] Intercom: It's me, Carl.
+[s01_e24_c08_u015] Rachel Green: C'mon up."
+s01_e24,s01_e24_c08,Monica Geller,1,10,10,9,10,2,s01_e24_c08_u010,s01_e24_c08_u016,"[s01_e24_c08_u010] Rachel Green: Monica, nothing has even happened yet, and you're already so...
+[s01_e24_c08_u011] Monica Geller: I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise.
+[s01_e24_c08_u012] Unknown Speaker: 
+[s01_e24_c08_u013] Rachel Green: Who is it?
+[s01_e24_c08_u014] Intercom: It's me, Carl.
+[s01_e24_c08_u015] Rachel Green: C'mon up.
+[s01_e24_c08_u016] Monica Geller: Behind my brother's back? ... is exactly the kind of crazy thing you won't be hearing from me."
+s01_e24,s01_e24_c08,Rachel Green,0,0,10,0,10,3,s01_e24_c08_u001,s01_e24_c08_u016,"[s01_e24_c08_u001] Monica Geller: Hey, great skirt! Birthday present?
+[s01_e24_c08_u002] Rachel Green: Yeah.
+[s01_e24_c08_u003] Monica Geller: Oh, from who?
+[s01_e24_c08_u004] Rachel Green: From you. I exchanged the blouse you got me.
+[s01_e24_c08_u005] Monica Geller: Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?
+[s01_e24_c08_u006] Rachel Green: Uh, yeah. Uh, Monica, y'know, honey, I've been thinking about it and I've decided thisthis whole Ross thing, it's just not a good idea.
+[s01_e24_c08_u007] Monica Geller: Oh, why?
+[s01_e24_c08_u008] Rachel Green: Because, I feel like I wouldn't just be going out with him. I would be going out with all of you. Oh, and there would just be all this pressure, and I don't wanna...
+[s01_e24_c08_u009] Monica Geller: No, no, no, no, no, no pressure, no pressure!
+[s01_e24_c08_u010] Rachel Green: Monica, nothing has even happened yet, and you're already so...
+[s01_e24_c08_u011] Monica Geller: I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise.
+[s01_e24_c08_u012] Unknown Speaker: 
+[s01_e24_c08_u013] Rachel Green: Who is it?
+[s01_e24_c08_u014] Intercom: It's me, Carl.
+[s01_e24_c08_u015] Rachel Green: C'mon up.
+[s01_e24_c08_u016] Monica Geller: Behind my brother's back? ... is exactly the kind of crazy thing you won't be hearing from me."
+s01_e24,s01_e24_c09,Chandler Bing,0,0,0,0,0,2,s01_e24_c09_u001,s01_e24_c09_u005,"[s01_e24_c09_u001] Joey Tribbiani: Seven hundred bucks!
+[s01_e24_c09_u002] Chandler Bing: Alright, you did it! Do we have any fruit?
+[s01_e24_c09_u003] Joey Tribbiani: Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.
+[s01_e24_c09_u004] Chandler Bing: Really? So, you're gonna stick with this 'it's all for her' thing?
+[s01_e24_c09_u005] Joey Tribbiani: What, are you crazy? When a blind man gets his sight back, does he walk around like this?"
+s01_e24,s01_e24_c09,Joey Tribbiani,0,0,0,0,0,3,s01_e24_c09_u001,s01_e24_c09_u005,"[s01_e24_c09_u001] Joey Tribbiani: Seven hundred bucks!
+[s01_e24_c09_u002] Chandler Bing: Alright, you did it! Do we have any fruit?
+[s01_e24_c09_u003] Joey Tribbiani: Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.
+[s01_e24_c09_u004] Chandler Bing: Really? So, you're gonna stick with this 'it's all for her' thing?
+[s01_e24_c09_u005] Joey Tribbiani: What, are you crazy? When a blind man gets his sight back, does he walk around like this?"
+s01_e24,s01_e24_c10,Carl (Rachel's date),0,19,23,18,23,3,s01_e24_c10_u021,s01_e24_c10_u032,"[s01_e24_c10_u021] Rachel Green: I don't know... I mean, I've never looked at you that way before.
+[s01_e24_c10_u022] Ross Geller: Well, start looking.
+[s01_e24_c10_u023] Unknown Speaker: 
+[s01_e24_c10_u024] Rachel Green: Wow.
+[s01_e24_c10_u025] Carl (Rachel's date): Exactly! And you just know I'm gonna be the guy caught behind this hammerhead in traffic!
+[s01_e24_c10_u026] Rachel Green: Right! You're right!
+[s01_e24_c10_u027] Carl (Rachel's date): Heh... y'know?
+[s01_e24_c10_u028] Rachel Green: You know what?
+[s01_e24_c10_u029] Carl (Rachel's date): What?
+[s01_e24_c10_u030] Rachel Green: I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I meanI'm sorry. I-I-I gotta go. I'm sorry.
+[s01_e24_c10_u031] Unknown Speaker: 
+[s01_e24_c10_u032] Carl (Rachel's date): But..."
+s01_e24,s01_e24_c10,Rachel Green,0,1,23,0,23,3,s01_e24_c10_u001,s01_e24_c10_u032,"[s01_e24_c10_u001] Carl (Rachel's date): I'm just sayin', if I see one more picture of Ed Begley, Jr. in that stupid electric car, I'm gonna shoot myself! I mean, don't get me wrong... I'm not against environmental issues per se.... it's just that guy!
+[s01_e24_c10_u002] Unknown Speaker: 
+[s01_e24_c10_u003] Ross Geller: I can't believe you'd rather go out with him than me.
+[s01_e24_c10_u004] Rachel Green: Would you excuse me, please? I'm trying to have a date here.
+[s01_e24_c10_u005] Ross Geller: Fine, just stop thinking about me.
+[s01_e24_c10_u006] Unknown Speaker: 
+[s01_e24_c10_u007] Ross Geller: Can't do it, can you?
+[s01_e24_c10_u008] Rachel Green: So I'm thinking about you. So what?
+[s01_e24_c10_u009] Ross Geller: I don't get it. What do you see in this guy, anyway?
+[s01_e24_c10_u010] Rachel Green: Well... he happens to be a very nice... guy....
+[s01_e24_c10_u011] Carl (Rachel's date): I mean, come on, buddy, get a real car!
+[s01_e24_c10_u012] Ross Geller: Rachel, come on. Give us a chance.
+[s01_e24_c10_u013] Rachel Green: Ross, it's too hard.
+[s01_e24_c10_u014] Ross Geller: No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us. Look, I-I've been in love with you since, like, the ninth grade.
+[s01_e24_c10_u015] Rachel Green: Ross, you're like my best friend.
+[s01_e24_c10_u016] Ross Geller: I know.
+[s01_e24_c10_u017] Rachel Green: If we broke up, and I lost you...
+[s01_e24_c10_u018] Ross Geller: Whoa, whoa, whoa. What makes you think we're gonna break up?
+[s01_e24_c10_u019] Rachel Green: Well, have you been involved with someone where you haven't broken up?
+[s01_e24_c10_u020] Ross Geller: No. But... it only has to happen once. Look, you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?
+[s01_e24_c10_u021] Rachel Green: I don't know... I mean, I've never looked at you that way before.
+[s01_e24_c10_u022] Ross Geller: Well, start looking.
+[s01_e24_c10_u023] Unknown Speaker: 
+[s01_e24_c10_u024] Rachel Green: Wow.
+[s01_e24_c10_u025] Carl (Rachel's date): Exactly! And you just know I'm gonna be the guy caught behind this hammerhead in traffic!
+[s01_e24_c10_u026] Rachel Green: Right! You're right!
+[s01_e24_c10_u027] Carl (Rachel's date): Heh... y'know?
+[s01_e24_c10_u028] Rachel Green: You know what?
+[s01_e24_c10_u029] Carl (Rachel's date): What?
+[s01_e24_c10_u030] Rachel Green: I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I meanI'm sorry. I-I-I gotta go. I'm sorry.
+[s01_e24_c10_u031] Unknown Speaker: 
+[s01_e24_c10_u032] Carl (Rachel's date): But..."
+s01_e24,s01_e24_c10,Ross Geller,0,0,17,0,18,3,s01_e24_c10_u001,s01_e24_c10_u026,"[s01_e24_c10_u001] Carl (Rachel's date): I'm just sayin', if I see one more picture of Ed Begley, Jr. in that stupid electric car, I'm gonna shoot myself! I mean, don't get me wrong... I'm not against environmental issues per se.... it's just that guy!
+[s01_e24_c10_u002] Unknown Speaker: 
+[s01_e24_c10_u003] Ross Geller: I can't believe you'd rather go out with him than me.
+[s01_e24_c10_u004] Rachel Green: Would you excuse me, please? I'm trying to have a date here.
+[s01_e24_c10_u005] Ross Geller: Fine, just stop thinking about me.
+[s01_e24_c10_u006] Unknown Speaker: 
+[s01_e24_c10_u007] Ross Geller: Can't do it, can you?
+[s01_e24_c10_u008] Rachel Green: So I'm thinking about you. So what?
+[s01_e24_c10_u009] Ross Geller: I don't get it. What do you see in this guy, anyway?
+[s01_e24_c10_u010] Rachel Green: Well... he happens to be a very nice... guy....
+[s01_e24_c10_u011] Carl (Rachel's date): I mean, come on, buddy, get a real car!
+[s01_e24_c10_u012] Ross Geller: Rachel, come on. Give us a chance.
+[s01_e24_c10_u013] Rachel Green: Ross, it's too hard.
+[s01_e24_c10_u014] Ross Geller: No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us. Look, I-I've been in love with you since, like, the ninth grade.
+[s01_e24_c10_u015] Rachel Green: Ross, you're like my best friend.
+[s01_e24_c10_u016] Ross Geller: I know.
+[s01_e24_c10_u017] Rachel Green: If we broke up, and I lost you...
+[s01_e24_c10_u018] Ross Geller: Whoa, whoa, whoa. What makes you think we're gonna break up?
+[s01_e24_c10_u019] Rachel Green: Well, have you been involved with someone where you haven't broken up?
+[s01_e24_c10_u020] Ross Geller: No. But... it only has to happen once. Look, you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?
+[s01_e24_c10_u021] Rachel Green: I don't know... I mean, I've never looked at you that way before.
+[s01_e24_c10_u022] Ross Geller: Well, start looking.
+[s01_e24_c10_u023] Unknown Speaker: 
+[s01_e24_c10_u024] Rachel Green: Wow.
+[s01_e24_c10_u025] Carl (Rachel's date): Exactly! And you just know I'm gonna be the guy caught behind this hammerhead in traffic!
+[s01_e24_c10_u026] Rachel Green: Right! You're right!"
+s01_e24,s01_e24_c11,Julie,0,1,5,0,6,3,s01_e24_c11_u001,s01_e24_c11_u014,"[s01_e24_c11_u001] Rachel Green: Excuse me, pardon me, excuse me, excuse me, sorry. Hi.
+[s01_e24_c11_u002] Unknown Speaker: 
+[s01_e24_c11_u003] Man: For God's sake, will you let it go? There's no Rachel!
+[s01_e24_c11_u004] Unknown Speaker: 
+[s01_e24_c11_u005] Ross Geller: Oh, hey, hey, I got that.
+[s01_e24_c11_u006] Unknown Speaker: 
+[s01_e24_c11_u007] Julie: Oh, thanks, sweetie.
+[s01_e24_c11_u008] Ross Geller: No problem. I cannot wait for you to meet my friends.
+[s01_e24_c11_u009] Julie: Really?
+[s01_e24_c11_u010] Ross Geller: Yeah.
+[s01_e24_c11_u011] Julie: You don't think they'll judge and ridicule me?
+[s01_e24_c11_u012] Ross Geller: No, no, they will. I just... uh...
+[s01_e24_c11_u013] Julie, Ross Geller: Can't wait.
+[s01_e24_c11_u014] Ross Geller: Come on, they're gonna love you."
+s01_e24,s01_e24_c11,Ross Geller,0,0,6,0,6,3,s01_e24_c11_u001,s01_e24_c11_u014,"[s01_e24_c11_u001] Rachel Green: Excuse me, pardon me, excuse me, excuse me, sorry. Hi.
+[s01_e24_c11_u002] Unknown Speaker: 
+[s01_e24_c11_u003] Man: For God's sake, will you let it go? There's no Rachel!
+[s01_e24_c11_u004] Unknown Speaker: 
+[s01_e24_c11_u005] Ross Geller: Oh, hey, hey, I got that.
+[s01_e24_c11_u006] Unknown Speaker: 
+[s01_e24_c11_u007] Julie: Oh, thanks, sweetie.
+[s01_e24_c11_u008] Ross Geller: No problem. I cannot wait for you to meet my friends.
+[s01_e24_c11_u009] Julie: Really?
+[s01_e24_c11_u010] Ross Geller: Yeah.
+[s01_e24_c11_u011] Julie: You don't think they'll judge and ridicule me?
+[s01_e24_c11_u012] Ross Geller: No, no, they will. I just... uh...
+[s01_e24_c11_u013] Julie, Ross Geller: Can't wait.
+[s01_e24_c11_u014] Ross Geller: Come on, they're gonna love you."

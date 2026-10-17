@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Catches the monkey and states a course of action, but there is no clear sign of outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Acts as a neutral arbiter and does not show warmth or hostility; no clear evidence of generosity or uncooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Secures the monkey and directs the disputants to resolve ownership through a judge, showing orderliness and rule-following."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and assertive in handling the dispute and prescribing a legal resolution, showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Defaults to a conventional, authority-based solution (“take it to a judge”) rather than exploring creative alternatives."
+  }
+}

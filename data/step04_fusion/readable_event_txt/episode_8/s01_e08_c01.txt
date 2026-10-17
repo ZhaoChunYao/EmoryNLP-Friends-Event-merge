@@ -1,0 +1,60 @@
+event_id: s01_e08_c01_u001_e1
+utterance_id: s01_e08_c01_u001
+  tuple: ('get', 'it/(this situation)', 'better', 's01_e08_c01_u001')
+  tuple: ('get', 'it/(this situation)', 'than this', 's01_e08_c01_u001')
+
+event_id: s01_e08_c01_u002_e1
+utterance_id: s01_e08_c01_u002
+  tuple: ('date', 'you/(Chandler Bing)', 'anybody', 's01_e08_c01_u002')
+
+event_id: s01_e08_c01_u002_e2
+utterance_id: s01_e08_c01_u002
+  tuple: ('meet', 'I/(Shelley)', 'somebody', 's01_e08_c01_u002')
+
+event_id: s01_e08_c01_u002_e3
+utterance_id: s01_e08_c01_u002
+  tuple: ('be', 'who/(guy Shelley met)', 'perfect', 's01_e08_c01_u002')
+  tuple: ('be', 'who/(guy Shelley met)', 'for you', 's01_e08_c01_u002')
+
+event_id: s01_e08_c01_u003_e1
+utterance_id: s01_e08_c01_u003
+  tuple: ('see', 'you/(Shelley)', None, 's01_e08_c01_u003')
+
+event_id: s01_e08_c01_u003_e2
+utterance_id: s01_e08_c01_u003
+  tuple: ('be', 'perfect', 'a problem', 's01_e08_c01_u003')
+
+event_id: s01_e08_c01_u003_e3
+utterance_id: s01_e08_c01_u003
+  tuple: ('say', 'you/(Shelley)', 'co-dependent', 's01_e08_c01_u003')
+
+event_id: s01_e08_c01_u003_e4
+utterance_id: s01_e08_c01_u003
+  tuple: ('say', 'you/(Shelley)', 'self-destructive', 's01_e08_c01_u003')
+
+event_id: s01_e08_c01_u004_e1
+utterance_id: s01_e08_c01_u004
+  tuple: ('want', 'you/(Chandler Bing)', 'a date', 's01_e08_c01_u004')
+
+event_id: s01_e08_c01_u006_e1
+utterance_id: s01_e08_c01_u006
+  tuple: ('be', 'he/(guy Shelley met)', 'cute', 's01_e08_c01_u006')
+
+event_id: s01_e08_c01_u006_e2
+utterance_id: s01_e08_c01_u006
+  tuple: ('be', 'he/(guy Shelley met)', 'funny', 's01_e08_c01_u006')
+
+event_id: s01_e08_c01_u007_e1
+utterance_id: s01_e08_c01_u007
+  tuple: ('be', 'he/(guy Shelley met)', 'a he', 's01_e08_c01_u007')
+
+event_id: s01_e08_c01_u008_e1
+utterance_id: s01_e08_c01_u008
+  tuple: ('think', 'I/(Shelley)', None, 's01_e08_c01_u008')
+
+event_id: s01_e08_c01_u008_e2
+utterance_id: s01_e08_c01_u008
+  tuple: ('go', 'I/(Shelley)', 'flush myself down the toilet now', 's01_e08_c01_u008')
+  tuple: ('flush', 'I/(Shelley)', 'myself', 's01_e08_c01_u008')
+  tuple: ('flush', 'I/(Shelley)', 'down the toilet', 's01_e08_c01_u008')
+

@@ -1,0 +1,77 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c16_u002",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u002_e1",
+          "tuples": [
+            "('play', 'I/Monica Geller', 'Monopoly', 's01_e04_c16_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c16_u007",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u007_e1",
+          "tuples": [
+            "('be', 'it/(phone call)', 'the Visa card people', 's01_e04_c16_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c16_u008",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u008_e1",
+          "tuples": [
+            "('take', 'you/Chandler Bing', 'my place', 's01_e04_c16_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c16_u009",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u009_e1",
+          "tuples": [
+            "('be', 'this/Chandler Bing', 'Rachel', 's01_e04_c16_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c16_u010",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u010_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e04_c16_u010')",
+            "('use', 'I/Rachel Green', 'it', 's01_e04_c16_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c16_u010_e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'okay', 's01_e04_c16_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c16_u012",
+      "events": [
+        {
+          "event_id": "s01_e04_c16_u012_e1",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'magic beans', 's01_e04_c16_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

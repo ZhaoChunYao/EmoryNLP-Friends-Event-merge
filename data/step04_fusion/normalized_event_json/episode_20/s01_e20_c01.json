@@ -1,0 +1,151 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u001_e1",
+          "tuples": [
+            "('believe', 'I/Chandler Bing', 'you would actually say that', 's01_e20_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u001_e2",
+          "tuples": [
+            "('say', 'you/Joey Tribbiani', 'that', 's01_e20_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u001_e3",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'Mr. Peanut', 's01_e20_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u002",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u002_e1",
+          "tuples": [
+            "('be', 'Mr.Salty', 'a sailor', 's01_e20_c01_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u002_e2",
+          "tuples": [
+            "('be', 'he/Mr.Salty', 'thetoughest snack there is', 's01_e20_c01_u002')",
+            "('be', 'there', None, 's01_e20_c01_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u003_e1",
+          "tuples": [
+            "('know', 'I/Ross Geller', None, 's01_e20_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u003_e2",
+          "tuples": [
+            "('want', 'you/everyone', 'mess with corn nuts', 's01_e20_c01_u003')",
+            "('mess', 'you/everyone', 'with corn nuts', 's01_e20_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u003_e3",
+          "tuples": [
+            "('be', 'They/corn nuts', 'craaazy', 's01_e20_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u004",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u004_e1",
+          "tuples": [
+            "('come', 'you/guys', 'see this', 's01_e20_c01_u004')",
+            "('see', 'you/guys', 'this', 's01_e20_c01_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u004_e2",
+          "tuples": [
+            "('be', 'There', 'some creep out there with a telescope', 's01_e20_c01_u004')",
+            "('be', 'some creep', 'out there', 's01_e20_c01_u004')",
+            "('be', 'some creep', 'with a telescope', 's01_e20_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u005_e1",
+          "tuples": [
+            "('believe', 'I/Ross Geller', 'it', 's01_e20_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u005_e2",
+          "tuples": [
+            "('look', 'he/some creep', 'at us', 's01_e20_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u006_e1",
+          "tuples": [
+            "('be', 'that/(some creep looking at us)', 'so sick', 's01_e20_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u007_e1",
+          "tuples": [
+            "('feel', 'I/Chandler Bing', 'violated', 's01_e20_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e20_c01_u008_e1",
+          "tuples": [
+            "('do', 'people', 'that', 's01_e20_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u008_e2",
+          "tuples": [
+            "('look', 'you guys/(everyone)', None, 's01_e20_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c01_u008_e3",
+          "tuples": [
+            "('get', 'Ugly Naked Guy', 'gravity boots', 's01_e20_c01_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

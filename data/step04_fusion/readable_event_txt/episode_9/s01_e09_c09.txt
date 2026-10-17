@@ -1,0 +1,55 @@
+event_id: s01_e09_c09_u001_e1
+utterance_id: s01_e09_c09_u001
+  tuple: ('be', 'you/Ross Geller', 'ready', 's01_e09_c09_u001')
+
+event_id: s01_e09_c09_u002_e1
+utterance_id: s01_e09_c09_u002
+  tuple: ('go', 'we/Ross Geller and Carol Willick', None, 's01_e09_c09_u002')
+
+event_id: s01_e09_c09_u002_e2
+utterance_id: s01_e09_c09_u002
+  tuple: ('talk', 'I/Ross Geller', 'to where', 's01_e09_c09_u002')
+
+event_id: s01_e09_c09_u002_e3
+utterance_id: s01_e09_c09_u002
+  tuple: ('mean', 'I/Ross Geller', None, 's01_e09_c09_u002')
+
+event_id: s01_e09_c09_u002_e4
+utterance_id: s01_e09_c09_u002
+  tuple: ('be', 'there', 'one way', 's01_e09_c09_u002')
+  tuple: ('seem', 'that/one way', 'offer a certain acoustical advantage', 's01_e09_c09_u002')
+  tuple: ('offer', 'that/one way', 'a certain acoustical advantage', 's01_e09_c09_u002')
+
+event_id: s01_e09_c09_u003_e1
+utterance_id: s01_e09_c09_u003
+  tuple: ('aim', 'you/Ross Geller', 'for the bump', 's01_e09_c09_u003')
+
+event_id: s01_e09_c09_u004_e1
+utterance_id: s01_e09_c09_u004
+  tuple: ('go', 'here', None, 's01_e09_c09_u004')
+
+event_id: s01_e09_c09_u004_e2
+utterance_id: s01_e09_c09_u004
+  tuple: ('know', 'you/Carol Willick', None, 's01_e09_c09_u004')
+
+event_id: s01_e09_c09_u004_e3
+utterance_id: s01_e09_c09_u004
+  tuple: ('do', 'I/Ross Geller', 'this', 's01_e09_c09_u004')
+  tuple: ('be', 'this', 'too weird', 's01_e09_c09_u004')
+
+event_id: s01_e09_c09_u004_e4
+utterance_id: s01_e09_c09_u004
+  tuple: ('feel', 'I/Ross Geller', 'stupid', 's01_e09_c09_u004')
+
+event_id: s01_e09_c09_u005_e1
+utterance_id: s01_e09_c09_u005
+  tuple: ('be', 'it', 'fine', 's01_e09_c09_u005')
+
+event_id: s01_e09_c09_u005_e2
+utterance_id: s01_e09_c09_u005
+  tuple: ('do', 'you/Ross Geller', 'it just because Susan does it', 's01_e09_c09_u005')
+
+event_id: s01_e09_c09_u005_e3
+utterance_id: s01_e09_c09_u005
+  tuple: ('do', 'Susan', 'it', 's01_e09_c09_u005')
+

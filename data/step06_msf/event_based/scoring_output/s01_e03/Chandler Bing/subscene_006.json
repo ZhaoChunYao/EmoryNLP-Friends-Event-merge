@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker volunteers imaginative comments about a sock puppet and then openly tells the group he killed someone and asks for feedback, showing talkative, socially assertive behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He says he killed Speaker_03 for eating his last stick of gum, indicating hostility and lack of cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "An impulsive, extreme response (claiming to kill someone over a stick of gum) reflects poor self-control and carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He reacts intensely to a minor frustration (gum eaten) and seeks reassurance ('was that wrong?'), suggesting emotional volatility and insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He invents a hypothetical about wearing a sock for thirty years and imagines the puppet would talk, showing playful imagination and curiosity."
+  }
+}

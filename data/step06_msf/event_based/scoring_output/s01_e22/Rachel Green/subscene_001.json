@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only a terse refusal ('No') and is described as refusing to look at Speaker_02, showing withdrawal rather than talkativeness."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uncooperative and hostile—refuses to share information and tells Speaker_01 to shut up."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown in this brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Avoids eye contact and responds defensively by telling someone to shut up, suggesting stress or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Refusal to speak does not clearly indicate attitudes toward new ideas or experiences."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively steers the interaction (\"listen\"), makes energetic suggestions about cooking (a Western omelet), and engages in social greetings (\"Morning, Paul\"), showing sociable, assertive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker compliments Speaker_01 (\"you're on a roll\"), makes a friendly suggestion rather than criticizing, and exchanges polite greetings, with no signs of hostility or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or diligence; TargetSpeaker only makes casual suggestions about cooking."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Direct, calm, and confident tone (e.g., \"listen\" and relaxed small talk) with no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Beyond a routine suggestion of a Western omelet, there is no clear sign of curiosity or imaginative, unconventional thinking."
+  }
+}

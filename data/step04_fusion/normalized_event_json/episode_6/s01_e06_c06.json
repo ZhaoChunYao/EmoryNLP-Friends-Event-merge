@@ -1,0 +1,209 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e06_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u001_e1",
+          "tuples": [
+            "('hire', 'you/(crew)', 'the girl', 's01_e06_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u001_e2",
+          "tuples": [
+            "('be', 'everybody', 'ready', 's01_e06_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u002_e1",
+          "tuples": [
+            "('listen', 'you/(Director)', None, 's01_e06_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u002_e2",
+          "tuples": [
+            "('thank', 'I/(Joey Tribbiani)', 'you for this great opportunity', 's01_e06_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u003_e1",
+          "tuples": [
+            "('lose', 'you/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u005",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u005_e1",
+          "tuples": [
+            "('work', 'that', None, 's01_e06_c06_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u006_e1",
+          "tuples": [
+            "('lose', 'I/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u006')",
+            "('be', 'the robe', 'lost', 's01_e06_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u007_e1",
+          "tuples": [
+            "('like', 'we/(Director and crew)', 'get this in one take', 's01_e06_c06_u007')",
+            "('get', 'we/(Director and crew)', 'in one take', 's01_e06_c06_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u007_e2",
+          "tuples": [
+            "('roll', 'we/(Director and crew)', 'it', 's01_e06_c06_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u007_e3",
+          "tuples": [
+            "('work', 'water', None, 's01_e06_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u009_e1",
+          "tuples": [
+            "('cut', 'you/(crew)', None, 's01_e06_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u009_e2",
+          "tuples": [
+            "('do', 'you/(Joey Tribbiani)', 'what', 's01_e06_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u010_e1",
+          "tuples": [
+            "('shower', 'I/(Joey Tribbiani)', None, 's01_e06_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u011_e1",
+          "tuples": [
+            "('clench', 'that', None, 's01_e06_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u012",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u012_e1",
+          "tuples": [
+            "('see', 'I/(Joey Tribbiani)', 'it', 's01_e06_c06_u012')",
+            "('be', 'the guy', 'upset here', 's01_e06_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u012_e2",
+          "tuples": [
+            "('know', 'you/(Director)', None, 's01_e06_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u012_e3",
+          "tuples": [
+            "('be', 'his wife', 'dead', 's01_e06_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u012_e4",
+          "tuples": [
+            "('be', 'his brother', 'missing', 's01_e06_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u012_e5",
+          "tuples": [
+            "('think', 'I/(Joey Tribbiani)', 'his butt would be angry here', 's01_e06_c06_u012')",
+            "('be', 'his butt', 'angry here', 's01_e06_c06_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u013_e1",
+          "tuples": [
+            "('think', 'I/(Director)', 'his butt would like to get this shot before lunch', 's01_e06_c06_u013')",
+            "('like', 'his butt', 'get this shot before lunch', 's01_e06_c06_u013')",
+            "('get', 'his butt', 'this shot', 's01_e06_c06_u013')",
+            "('get', 'his butt', 'before lunch', 's01_e06_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u013_e2",
+          "tuples": [
+            "('be', 'that', 'what', 's01_e06_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e06_c06_u014_e1",
+          "tuples": [
+            "('go', 'I/(Joey Tribbiani)', 'for quiet desperation', 's01_e06_c06_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c06_u014_e2",
+          "tuples": [
+            "('ask', 'you/(Director)', None, 's01_e06_c06_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

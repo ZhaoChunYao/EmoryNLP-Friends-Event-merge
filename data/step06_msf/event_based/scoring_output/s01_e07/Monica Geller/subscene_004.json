@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He energetically blurts, “My surprise party!” (u025), confronts Speaker_03 about “pretending” (u027), and openly says he loves Speaker_01 (u022), showing talkative, outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After being asked to keep it secret/act surprised (u019, u023), he immediately tells Speaker_03 about the party and accuses him of pretending (u025, u027), indicating unreliability and low cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He carelessly reveals the surprise plan right after being warned to keep it quiet (u019, u023) and blurts it out to others (u025, u027), showing poor self-control."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He displays excitement and affection without signs of anxiety—“I love [Speaker_01]” (u022) and an enthusiastic “My surprise party!” (u025)—and isn’t fazed when challenged about going outside (u014), indicating confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He questions and seeks explanations—“Why not?” (u014), asks what is happening (u018), and “About what?” (u020)—showing curiosity."
+  }
+}

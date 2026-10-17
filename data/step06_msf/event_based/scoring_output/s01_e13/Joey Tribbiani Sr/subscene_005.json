@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly, asks what change is needed, and starts to explain but is cut off—no clear signs of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is involved in an affair with Speaker_02, has not come clean to the mother, and refuses to end it (“TargetSpeaker cannot break off the relationship”), indicating untrustworthy/complicated behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete actions show organization or carelessness beyond the moral issue of the affair; nothing about planning, diligence, or reliability is displayed."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "He shows no visible anxiety or emotional volatility; he responds matter-of-factly and tries to explain."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicates curiosity, inventiveness, or rigid dogmatism; the exchange centers on a relationship decision."
+  }
+}

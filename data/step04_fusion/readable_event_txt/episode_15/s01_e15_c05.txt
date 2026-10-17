@@ -1,0 +1,21 @@
+event_id: s01_e15_c05_u001_e1
+utterance_id: s01_e15_c05_u001
+  tuple: ('worry', 'Celia', None, 's01_e15_c05_u001')
+
+event_id: s01_e15_c05_u001_e2
+utterance_id: s01_e15_c05_u001
+  tuple: ('scream', 'Celia', None, 's01_e15_c05_u001')
+
+event_id: s01_e15_c05_u001_e3
+utterance_id: s01_e15_c05_u001
+  tuple: ('hurt', 'He/Marcel', 'you', 's01_e15_c05_u001')
+
+event_id: s01_e15_c05_u002_e1
+utterance_id: s01_e15_c05_u002
+  tuple: ('stand', 'I/Celia', 'this', 's01_e15_c05_u002')
+
+event_id: s01_e15_c05_u002_e2
+utterance_id: s01_e15_c05_u002
+  tuple: ('get', 'He/Marcel', 'his claws', 's01_e15_c05_u002')
+  tuple: ('get', 'He/Marcel', 'in my...', 's01_e15_c05_u002')
+

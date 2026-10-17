@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker states they are here to observe the dance class and does not join when urged to dance now."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker responds matter-of-factly about their purpose without clear signs of cooperation or conflict."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker keeps the group focused on their stated objective—to observe and identify someone—despite the invitation to participate."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or insecurity; statements are neutral and task-focused."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker resists trying the new experience of dancing immediately, preferring cautious observation."
+  }
+}

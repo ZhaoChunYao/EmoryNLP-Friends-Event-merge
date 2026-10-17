@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker interrupts forcefully and then delivers a long, energetic, joke-filled monologue: \"Speaker_01 must stop!\" followed by the extended relationship riff in u005."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is blunt and unsympathetic, using a command and sarcasm rather than comfort: \"Speaker_01 must stop!\" and joking that heartbreak is \"why Speaker_02 and TargetSpeaker don't do it.\""
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about being organized, careful, or reliable is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses avoidance and insecurity about relationships due to pain: \"that is why Speaker_02 and TargetSpeaker don't do it!\""
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or dogmatism about ideas is present in these lines."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge and speaks to the group (“asking everyone to listen”), proactively goes across the street to talk to the doorman, and directly asks to use another’s phone—outgoing, assertive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shares useful information (got the peeper’s name) and politely asks to use Speaker_03’s phone; behavior is cooperative and straightforward, not hostile."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Follows through by trying to call from the coffee shop and then personally investigates by talking to the doorman to obtain the peeper’s name—organized, goal‑directed action."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and composure—matter‑of‑fact about the phone not working, takes control of the situation, no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Curiously investigates the situation by seeking new information (goes across the street, talks to the doorman) rather than sticking to routine."
+  }
+}

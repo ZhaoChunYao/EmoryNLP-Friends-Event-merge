@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "The speaker only gives a brief acknowledgment and a single question, showing engagement but not outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They validate the other person's view with 'Another good point,' indicating a cooperative, agreeable stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or emotional volatility are shown."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "They show curiosity and openness by asking 'Why isn't it working out?' and acknowledging others' points."
+  }
+}

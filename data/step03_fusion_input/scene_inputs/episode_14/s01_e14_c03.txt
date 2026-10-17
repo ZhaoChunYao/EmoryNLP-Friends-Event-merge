@@ -1,0 +1,42 @@
+('look', 'I/Joey Tribbiani', None, 's01_e14_c03_u001')
+[s01_e14_c03_u001] Joey Tribbiani: How do I look?
+
+('care', 'I/Chandler Bing', None, 's01_e14_c03_u002')
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+
+('remember', 'you/Joey Tribbiani', 'no trading', 's01_e14_c03_u002')
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+
+('get', 'you/Joey Tribbiani', 'the pretty one', 's01_e14_c03_u002')
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+
+('get', 'I/Chandler Bing', 'the mess', 's01_e14_c03_u002')
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+
+('look', 'you/Joey Tribbiani', 'what you brought', 's01_e14_c03_u003')
+[s01_e14_c03_u003] Lorraine: Hi, Joey. Well well, look what you brought. Very nice.
+
+('bring', 'you/Joey Tribbiani', 'what', 's01_e14_c03_u003')
+[s01_e14_c03_u003] Lorraine: Hi, Joey. Well well, look what you brought. Very nice.
+
+('bring', 'you/Lorraine', 'what', 's01_e14_c03_u004')
+[s01_e14_c03_u004] Chandler Bing: ...And what did you bring?
+
+('check', 'she/Janice Litman Goralnik', 'the coats', 's01_e14_c03_u005')
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+
+('go', 'I/Lorraine', 'wash the cab smell off my hands', 's01_e14_c03_u005')
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+
+('wash', 'I/Lorraine', 'the cab smell off my hands', 's01_e14_c03_u005')
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+
+('get', 'you/Joey Tribbiani', 'a white Zinfandel', 's01_e14_c03_u005')
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+
+('get', 'you/Joey Tribbiani', 'a glass of red for Janice', 's01_e14_c03_u005')
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+
+('be', 'it/Janice Litman Goralnik', 'Janice', 's01_e14_c03_u009')
+[s01_e14_c03_u009] Chandler Bing: Hey, it's Janice.
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief comments and does not show marked talkativeness or energetic sociability."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows empathy by saying they understand Speaker_03’s feelings and is straightforward/helpful by pointing out a potentially embarrassing issue (nipples visible)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, diligence, or carelessness is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably brings up an awkward topic without signs of nervousness or sensitivity, suggesting confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or preference for novelty are present."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and only in response to prompts, with a single corrective remark; no clear sign of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Affirms the doctor is \"very supportive\" and responds politely with \"Thanks,\" indicating cooperative and appreciative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Provides a factual correction (\"That opens my cervix\"), but there is insufficient evidence of organization or carelessness overall."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Statements are calm and matter-of-fact; no clear signs of anxiety or of pronounced confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/imagination or dogmatism/caution in the brief exchanges."
+  }
+}

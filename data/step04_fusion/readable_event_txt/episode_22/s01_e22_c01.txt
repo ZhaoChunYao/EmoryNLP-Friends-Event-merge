@@ -1,0 +1,101 @@
+event_id: s01_e22_c01_u001_e1
+utterance_id: s01_e22_c01_u001
+  tuple: ('tell', 'you/(Rachel Green)', 'him', 's01_e22_c01_u001')
+
+event_id: s01_e22_c01_u005_e1
+utterance_id: s01_e22_c01_u005
+  tuple: ('shut', 'you/(Monica Geller)', 'up', 's01_e22_c01_u005')
+
+event_id: s01_e22_c01_u006_e1
+utterance_id: s01_e22_c01_u006
+  tuple: ('tell', 'you/(Monica Geller)', 'me', 's01_e22_c01_u006')
+
+event_id: s01_e22_c01_u007_e1
+utterance_id: s01_e22_c01_u007
+  tuple: ('look', 'you/(Rachel Green)', 'at you', 's01_e22_c01_u007')
+
+event_id: s01_e22_c01_u007_e2
+utterance_id: s01_e22_c01_u007
+  tuple: ('look', 'you/(Rachel Green)', None, 's01_e22_c01_u007')
+  tuple: ('look', 'you/(Rachel Green)', 'at him', 's01_e22_c01_u007')
+
+event_id: s01_e22_c01_u008_e1
+utterance_id: s01_e22_c01_u008
+  tuple: ('come', 'you/(Rachel Green)', 'on', 's01_e22_c01_u008')
+
+event_id: s01_e22_c01_u008_e2
+utterance_id: s01_e22_c01_u008
+  tuple: ('use', 'I/(Chandler Bing)', 'another reason', 's01_e22_c01_u008')
+
+event_id: s01_e22_c01_u008_e3
+utterance_id: s01_e22_c01_u008
+  tuple: ('look', 'women', None, 's01_e22_c01_u008')
+  tuple: ('look', 'women', 'at me', 's01_e22_c01_u008')
+
+event_id: s01_e22_c01_u009_e1
+utterance_id: s01_e22_c01_u009
+  tuple: ('have', 'I/(Rachel Green)', 'a dream', 's01_e22_c01_u009')
+  tuple: ('be', 'you/(Chandler Bing) and I/(Rachel Green)', None, 's01_e22_c01_u009')
+
+event_id: s01_e22_c01_u010_e1
+utterance_id: s01_e22_c01_u010
+  tuple: ('do', 'you/(Chandler Bing) and I/(Rachel Green)', 'it', 's01_e22_c01_u010')
+  tuple: ('do', 'you/(Chandler Bing) and I/(Rachel Green)', 'on this table', 's01_e22_c01_u010')
+
+event_id: s01_e22_c01_u013_e1
+utterance_id: s01_e22_c01_u013
+  tuple: ('dream', 'you/(Rachel Green)', 'that', 's01_e22_c01_u013')
+
+event_id: s01_e22_c01_u014_e1
+utterance_id: s01_e22_c01_u014
+  tuple: ('be', 'I/(Chandler Bing)', 'any good', 's01_e22_c01_u014')
+
+event_id: s01_e22_c01_u015_e1
+utterance_id: s01_e22_c01_u015
+  tuple: ('be', 'you/(Chandler Bing)', 'pretty damn good', 's01_e22_c01_u015')
+
+event_id: s01_e22_c01_u016_e1
+utterance_id: s01_e22_c01_u016
+  tuple: ('be', 'I/(Chandler Bing)', 'surprisingly inadequate', 's01_e22_c01_u016')
+  tuple: ('be', 'I/(Chandler Bing)', 'in my dreams', 's01_e22_c01_u016')
+
+event_id: s01_e22_c01_u017_e1
+utterance_id: s01_e22_c01_u017
+  tuple: ('know', 'you/(Chandler Bing)', 'your way around the table', 's01_e22_c01_u017')
+
+event_id: s01_e22_c01_u018_e1
+utterance_id: s01_e22_c01_u018
+  tuple: ('love', 'I/(Ross Geller)', 'it', 's01_e22_c01_u018')
+
+event_id: s01_e22_c01_u018_e2
+utterance_id: s01_e22_c01_u018
+  tuple: ('share', 'we/(Ross Geller and friends)', None, 's01_e22_c01_u018')
+
+event_id: s01_e22_c01_u020_e1
+utterance_id: s01_e22_c01_u020
+  tuple: ('be', 'you/(Ross Geller)', 'okay', 's01_e22_c01_u020')
+
+event_id: s01_e22_c01_u021_e1
+utterance_id: s01_e22_c01_u021
+  tuple: ('believe', 'I/(Ross Geller)', 'you two had sex in her dream', 's01_e22_c01_u021')
+
+event_id: s01_e22_c01_u021_e2
+utterance_id: s01_e22_c01_u021
+  tuple: ('have', 'you two/(Chandler Bing and Rachel Green)', 'sex in her dream', 's01_e22_c01_u021')
+
+event_id: s01_e22_c01_u022_e1
+utterance_id: s01_e22_c01_u022
+  tuple: ('be', 'I/(Chandler Bing)', 'sorry', 's01_e22_c01_u022')
+
+event_id: s01_e22_c01_u022_e2
+utterance_id: s01_e22_c01_u022
+  tuple: ('be', "it/(sex in Rachel's dream)", 'a one-time-thing', 's01_e22_c01_u022')
+
+event_id: s01_e22_c01_u022_e3
+utterance_id: s01_e22_c01_u022
+  tuple: ('be', 'I/(Chandler Bing)', 'very drunk', 's01_e22_c01_u022')
+
+event_id: s01_e22_c01_u022_e4
+utterance_id: s01_e22_c01_u022
+  tuple: ('be', 'I/(Chandler Bing)', "somebody else's subconscious", 's01_e22_c01_u022')
+

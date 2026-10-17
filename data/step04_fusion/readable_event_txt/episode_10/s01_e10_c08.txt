@@ -1,0 +1,30 @@
+event_id: s01_e10_c08_u001_e1
+utterance_id: s01_e10_c08_u001
+  tuple: ('want', 'I/Ross Geller', 'this to work so much', 's01_e10_c08_u001')
+  tuple: ('work', 'this', None, 's01_e10_c08_u001')
+
+event_id: s01_e10_c08_u001_e2
+utterance_id: s01_e10_c08_u001
+  tuple: ('mean', 'I/Ross Geller', "I'm still in there, changing his diapers, pickin' his fleas", 's01_e10_c08_u001')
+
+event_id: s01_e10_c08_u001_e3
+utterance_id: s01_e10_c08_u001
+  tuple: ('be', 'I/Ross Geller', 'in there', 's01_e10_c08_u001')
+  tuple: ('change', 'I/Ross Geller', 'his diapers', 's01_e10_c08_u001')
+  tuple: ('pick', 'I/Ross Geller', 'his fleas', 's01_e10_c08_u001')
+
+event_id: s01_e10_c08_u001_e4
+utterance_id: s01_e10_c08_u001
+  tuple: ('phone', 'he', 'it in', 's01_e10_c08_u001')
+
+event_id: s01_e10_c08_u001_e5
+utterance_id: s01_e10_c08_u001
+  tuple: ('accept', 'I/Ross Geller', "the fact that something you love so much doesn't love you back", 's01_e10_c08_u001')
+  tuple: ('love', 'you/Rachel Green', 'something', 's01_e10_c08_u001')
+  tuple: ('love', 'something', 'you', 's01_e10_c08_u001')
+
+event_id: s01_e10_c08_u002_e1
+utterance_id: s01_e10_c08_u002
+  tuple: ('think', 'I/Rachel Green', 'that bitch cracked my tooth', 's01_e10_c08_u002')
+  tuple: ('crack', 'that bitch', 'my tooth', 's01_e10_c08_u002')
+

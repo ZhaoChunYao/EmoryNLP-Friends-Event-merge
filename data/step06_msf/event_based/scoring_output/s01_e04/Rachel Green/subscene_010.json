@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only raises an anxious question; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They question optimism but are not hostile or boastful; no clear prosocial or antagonistic behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses worry and pessimism: “what if it doesn’t come together?” and suggests they might end up with only ordinary beans."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Considers hypothetical outcomes and uses an imaginative metaphor about ‘magic beans’ vs. ‘ordinary beans.’"
+  }
+}

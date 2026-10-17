@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Participates and leads a serious topic at the funeral and asks a direct question, but shows no marked outgoing, energetic, or highly social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows empathy and support (acknowledges the grandmother’s traits, validates Speaker_04, and says it’s a wonder they turned out positive) and favors straightforward honesty (“you should tell my grandmother the truth”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization, planning, or carelessness; discussion centers on interpersonal honesty, not tasks or orderliness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident while discussing sensitive family criticism and advocating honesty; no signs of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Open to confronting difficult truths and rethinking family dynamics (“things would have been better if you had told her the truth”) and shows perspective-taking (“I can imagine what it was like”)."
+  }
+}

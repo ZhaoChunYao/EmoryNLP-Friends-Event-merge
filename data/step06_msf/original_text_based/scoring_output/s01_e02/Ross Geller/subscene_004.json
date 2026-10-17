@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker neutrally relays information about being invited to be involved and to attend a sonogram, without showing outgoing enthusiasm or clear reservation beyond stating the option."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward and non-confrontational, plainly reporting that they want him involved but it’s up to him, and later that they want him to go to the sonogram."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating planning, organization, or carelessness; he simply reports the invitation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "He does not express anxiety or distress, only states the situation and the optional nature of involvement."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "He neither shows curiosity/eagerness to try something new nor dogmatic refusal; he just presents the option to attend the sonogram."
+  }
+}

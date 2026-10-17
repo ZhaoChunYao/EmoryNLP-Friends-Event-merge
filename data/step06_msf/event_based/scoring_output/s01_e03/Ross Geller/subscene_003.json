@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only offers a brief greeting (“Hey, Pheebs,” u010) and otherwise shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When asked if they all promise to be good, TargetSpeaker joins in promising to be good (u004), showing cooperation. The earlier correction (“you didn’t know Chi Chi in the past,” u002) is straightforward rather than hostile."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization, diligence, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or insecurity appear in the exchanges."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, inventiveness, or dogmatism are present."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tuples": [
+    {
+      "verb": "thank",
+      "subject": "Monica Geller",
+      "object": "you",
+      "uid": "s01_e05_c05_u001"
+    },
+    {
+      "verb": "look",
+      "subject": "this Bob guy",
+      "object": "like what",
+      "uid": "s01_e05_c05_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Bob",
+      "object": "tall",
+      "uid": "s01_e05_c05_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Bob",
+      "object": "short",
+      "uid": "s01_e05_c05_u001"
+    },
+    {
+      "verb": "meet",
+      "subject": "you/Joey Tribbiani",
+      "object": "Bob",
+      "uid": "s01_e05_c05_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Bob",
+      "object": null,
+      "uid": "s01_e05_c05_u006"
+    },
+    {
+      "verb": "know",
+      "subject": "we/Monica Geller+Joey Tribbiani",
+      "object": "this guy could be horribly...",
+      "uid": "s01_e05_c05_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "this guy",
+      "object": null,
+      "uid": "s01_e05_c05_u007"
+    },
+    {
+      "verb": "shut",
+      "subject": "I/Monica Geller",
+      "object": "up",
+      "uid": "s01_e05_c05_u010"
+    }
+  ]
+}

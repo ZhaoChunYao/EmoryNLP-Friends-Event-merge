@@ -1,0 +1,454 @@
+event_id: s01_e10_c07_u001_e1
+utterance_id: s01_e10_c07_u001
+  tuple: ('love', 'I/Janice Litman Goralnik', 'this artichoke thing', 's01_e10_c07_u001')
+
+event_id: s01_e10_c07_u001_e2
+utterance_id: s01_e10_c07_u001
+  tuple: ('tell', 'you/Monica Geller', 'me', 's01_e10_c07_u001')
+  tuple: ('be', 'what', 'in it', 's01_e10_c07_u001')
+
+event_id: s01_e10_c07_u001_e3
+utterance_id: s01_e10_c07_u001
+  tuple: ('start', 'the diet', None, 's01_e10_c07_u001')
+
+event_id: s01_e10_c07_u002_e1
+utterance_id: s01_e10_c07_u002
+  tuple: ('remember', 'you/Monica Geller', 'Janice', 's01_e10_c07_u002')
+
+event_id: s01_e10_c07_u006_e1
+utterance_id: s01_e10_c07_u006
+  tuple: ('be', 'I/Sandy', 'Sandy', 's01_e10_c07_u006')
+
+event_id: s01_e10_c07_u007_e1
+utterance_id: s01_e10_c07_u007
+  tuple: ('come', 'you/Sandy', 'in', 's01_e10_c07_u007')
+
+event_id: s01_e10_c07_u007_e2
+utterance_id: s01_e10_c07_u007
+  tuple: ('bring', 'you/Sandy', 'your kids', 's01_e10_c07_u007')
+
+event_id: s01_e10_c07_u008_e1
+utterance_id: s01_e10_c07_u008
+  tuple: ('be', 'that', 'okay', 's01_e10_c07_u008')
+
+event_id: s01_e10_c07_u011_e1
+utterance_id: s01_e10_c07_u011
+  tuple: ('come', 'That thing', 'in here', 's01_e10_c07_u011')
+
+event_id: s01_e10_c07_u012_e1
+utterance_id: s01_e10_c07_u012
+  tuple: ('be', 'this', 'how you greet guests at a party', 's01_e10_c07_u012')
+  tuple: ('greet', 'you/Monica Geller', 'guests', 's01_e10_c07_u012')
+  tuple: ('greet', 'you/Monica Geller', 'at a party', 's01_e10_c07_u012')
+
+event_id: s01_e10_c07_u012_e2
+utterance_id: s01_e10_c07_u012
+  tuple: ('let', 'you/Monica Geller', 'me', 's01_e10_c07_u012')
+  tuple: ('ask', 'I/Ross Geller', 'you something', 's01_e10_c07_u012')
+  tuple: ('show up', 'I/Ross Geller', None, 's01_e10_c07_u012')
+  tuple: ('show up', 'I/Ross Geller', 'with my new girlfriend', 's01_e10_c07_u012')
+  tuple: ('be welcome', 'she/(new girlfriend)', 'in your home', 's01_e10_c07_u012')
+
+event_id: s01_e10_c07_u013_e1
+utterance_id: s01_e10_c07_u013
+  tuple: ('guess', 'I/Monica Geller', "your new girlfriend wouldn't urinate on my coffee table", 's01_e10_c07_u013')
+  tuple: ('urinate', 'your new girlfriend', 'on my coffee table', 's01_e10_c07_u013')
+
+event_id: s01_e10_c07_u014_e1
+utterance_id: s01_e10_c07_u014
+  tuple: ('be embarrassed', 'he/Marcel', 'about that', 's01_e10_c07_u014')
+
+event_id: s01_e10_c07_u014_e2
+utterance_id: s01_e10_c07_u014
+  tuple: ('have', 'him/Marcel', 'the courage', 's01_e10_c07_u014')
+  tuple: ('walk', 'him/Marcel', 'back in here', 's01_e10_c07_u014')
+  tuple: ('happen', 'nothing', None, 's01_e10_c07_u014')
+
+event_id: s01_e10_c07_u015_e1
+utterance_id: s01_e10_c07_u015
+  tuple: ('keep', 'you/Ross Geller', 'him', 's01_e10_c07_u015')
+  tuple: ('keep', 'you/Ross Geller', 'away from me', 's01_e10_c07_u015')
+
+event_id: s01_e10_c07_u016_e1
+utterance_id: s01_e10_c07_u016
+  tuple: ('say', 'you/Marcel', 'you and I do a little mingling', 's01_e10_c07_u016')
+  tuple: ('do', 'you and I', 'a little mingling', 's01_e10_c07_u016')
+
+event_id: s01_e10_c07_u016_e2
+utterance_id: s01_e10_c07_u016
+  tuple: ('catch up', 'I/Ross Geller', 'with you', 's01_e10_c07_u016')
+
+event_id: s01_e10_c07_u018_e1
+utterance_id: s01_e10_c07_u018
+  tuple: ('be', 'you/Rachel Green', 'okay', 's01_e10_c07_u018')
+
+event_id: s01_e10_c07_u018_e2
+utterance_id: s01_e10_c07_u018
+  tuple: ('be', 'Paolo', None, 's01_e10_c07_u018')
+
+event_id: s01_e10_c07_u019_e1
+utterance_id: s01_e10_c07_u019
+  tuple: ('miss', 'Jerk', 'his flight', 's01_e10_c07_u019')
+
+event_id: s01_e10_c07_u020_e1
+utterance_id: s01_e10_c07_u020
+  tuple: ('be', 'your face', 'bloated', 's01_e10_c07_u020')
+
+event_id: s01_e10_c07_u021_e1
+utterance_id: s01_e10_c07_u021
+  tuple: ('be', 'I/Rachel Green', 'at the airport', 's01_e10_c07_u021')
+  tuple: ('get', 'I/Rachel Green', 'into a cab', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e2
+utterance_id: s01_e10_c07_u021
+  tuple: ('start', 'this woman', 'yelling at me', 's01_e10_c07_u021')
+  tuple: ('yell', 'this woman', 'at me', 's01_e10_c07_u021')
+  tuple: ('be', 'it/(cab)', 'her cab first', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e3
+utterance_id: s01_e10_c07_u021
+  tuple: ('know', 'I/Rachel Green', 'the next thing', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e4
+utterance_id: s01_e10_c07_u021
+  tuple: ('start', 'she/(blonde woman)', 'pulling me out by my hair', 's01_e10_c07_u021')
+  tuple: ('pull', 'she/(blonde woman)', 'me', 's01_e10_c07_u021')
+  tuple: ('pull', 'she/(blonde woman)', 'by my hair', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e5
+utterance_id: s01_e10_c07_u021
+  tuple: ('blow', 'I/Rachel Green', 'my attack whistle thingy', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e6
+utterance_id: s01_e10_c07_u021
+  tuple: ('show up', 'three more cabs', None, 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e7
+utterance_id: s01_e10_c07_u021
+  tuple: ('go', 'I/Rachel Green', 'to get into a cab', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e8
+utterance_id: s01_e10_c07_u021
+  tuple: ('tackle', 'she/(blonde woman)', 'me', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e9
+utterance_id: s01_e10_c07_u021
+  tuple: ('hit', 'I/Rachel Green', 'my head', 's01_e10_c07_u021')
+  tuple: ('hit', 'I/Rachel Green', 'on the kerb', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e10
+utterance_id: s01_e10_c07_u021
+  tuple: ('cut', 'I/Rachel Green', 'my lip', 's01_e10_c07_u021')
+  tuple: ('cut', 'I/Rachel Green', 'on my whistle', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e11
+utterance_id: s01_e10_c07_u021
+  tuple: ('have', 'everybody', 'fun', 's01_e10_c07_u021')
+  tuple: ('have', 'everybody', 'at the party', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u021_e12
+utterance_id: s01_e10_c07_u021
+  tuple: ('eat', 'people', 'my dip', 's01_e10_c07_u021')
+
+event_id: s01_e10_c07_u023_e1
+utterance_id: s01_e10_c07_u023
+  tuple: ('see', 'I/Sandy', 'you', 's01_e10_c07_u023')
+  tuple: ('see', 'I/Sandy', 'at the store', 's01_e10_c07_u023')
+  tuple: ('be', 'it', 'the first time I ever mentally undressed an elf', 's01_e10_c07_u023')
+  tuple: ('undress', 'I/Sandy', 'an elf', 's01_e10_c07_u023')
+
+event_id: s01_e10_c07_u024_e1
+utterance_id: s01_e10_c07_u024
+  tuple: ('be', 'that', 'dirty', 's01_e10_c07_u024')
+
+event_id: s01_e10_c07_u028_e1
+utterance_id: s01_e10_c07_u028
+  tuple: ('look', 'you/(everyone)', 'at him', 's01_e10_c07_u028')
+
+event_id: s01_e10_c07_u028_e2
+utterance_id: s01_e10_c07_u028
+  tuple: ('say', 'I/Ross Geller', 'he has to spend the whole evening with me', 's01_e10_c07_u028')
+  tuple: ('spend', 'he/Marcel', 'the whole evening', 's01_e10_c07_u028')
+  tuple: ('spend', 'he/Marcel', 'with me', 's01_e10_c07_u028')
+  tuple: ('check in', 'you/Marcel', None, 's01_e10_c07_u028')
+
+event_id: s01_e10_c07_u029_e1
+utterance_id: s01_e10_c07_u029
+  tuple: ('be', 'you/Chandler Bing', 'there', 's01_e10_c07_u029')
+
+event_id: s01_e10_c07_u029_e2
+utterance_id: s01_e10_c07_u029
+  tuple: ('get away from', 'you/Chandler Bing', 'me', 's01_e10_c07_u029')
+
+event_id: s01_e10_c07_u030_e1
+utterance_id: s01_e10_c07_u030
+  tuple: ('find', 'you/Janice Litman Goralnik', 'me', 's01_e10_c07_u030')
+
+event_id: s01_e10_c07_u031_e1
+utterance_id: s01_e10_c07_u031
+  tuple: ('take', 'you/Ross Geller', 'our picture', 's01_e10_c07_u031')
+  tuple: ('smile', 'you/(everyone)', None, 's01_e10_c07_u031')
+  tuple: ('be', 'you/(everyone)', 'on Janice Camera', 's01_e10_c07_u031')
+
+event_id: s01_e10_c07_u032_e1
+utterance_id: s01_e10_c07_u032
+  tuple: ('kill', 'you/(anyone)', 'me', 's01_e10_c07_u032')
+
+event_id: s01_e10_c07_u034_e1
+utterance_id: s01_e10_c07_u034
+  tuple: ('be', 'it/(situation)', 'Fun Bobby', 's01_e10_c07_u034')
+
+event_id: s01_e10_c07_u036_e1
+utterance_id: s01_e10_c07_u036
+  tuple: ('be', 'I/Bobby Rush', 'late', 's01_e10_c07_u036')
+
+event_id: s01_e10_c07_u036_e2
+utterance_id: s01_e10_c07_u036
+  tuple: ('die', 'my grandfather', None, 's01_e10_c07_u036')
+
+event_id: s01_e10_c07_u036_e3
+utterance_id: s01_e10_c07_u036
+  tuple: ('get', 'I/Bobby Rush', 'a flight', 's01_e10_c07_u036')
+
+event_id: s01_e10_c07_u036_e4
+utterance_id: s01_e10_c07_u036
+  tuple: ('be', 'I/Bobby Rush', 'here', 's01_e10_c07_u036')
+
+event_id: s01_e10_c07_u037_e1
+utterance_id: s01_e10_c07_u037
+  tuple: ('die', 'who', None, 's01_e10_c07_u037')
+
+event_id: s01_e10_c07_u040_e1
+utterance_id: s01_e10_c07_u040
+  tuple: ('be', 'it/(funeral)', 'an open casket', 's01_e10_c07_u040')
+  tuple: ('get', 'I/Bobby Rush', 'to see him again', 's01_e10_c07_u040')
+  tuple: ('see', 'I/Bobby Rush', 'him', 's01_e10_c07_u040')
+
+event_id: s01_e10_c07_u041_e1
+utterance_id: s01_e10_c07_u041
+  tuple: ('blow up', 'I/Janice Litman Goralnik', 'this one', 's01_e10_c07_u041')
+  tuple: ('write', 'I/Janice Litman Goralnik', "'Reunited'", 's01_e10_c07_u041')
+  tuple: ('write', 'I/Janice Litman Goralnik', 'in glitter', 's01_e10_c07_u041')
+
+event_id: s01_e10_c07_u042_e1
+utterance_id: s01_e10_c07_u042
+  tuple: ('be', 'that', 'it', 's01_e10_c07_u042')
+  tuple: ('invite', 'I/Chandler Bing', 'you', 's01_e10_c07_u042')
+  tuple: ('invite', 'I/Chandler Bing', 'to this party', 's01_e10_c07_u042')
+  tuple: ('think', 'I/Chandler Bing', 'that it meant that we', 's01_e10_c07_u042')
+  tuple: ('mean', 'it', None, 's01_e10_c07_u042')
+
+event_id: s01_e10_c07_u044_e1
+utterance_id: s01_e10_c07_u044
+  tuple: ('be', 'I/Chandler Bing', 'sorry', 's01_e10_c07_u044')
+  tuple: ('misunderstand', 'you/Janice Litman Goralnik', None, 's01_e10_c07_u044')
+
+event_id: s01_e10_c07_u045_e1
+utterance_id: s01_e10_c07_u045
+  tuple: ('listen to', 'you/Chandler Bing', 'me', 's01_e10_c07_u045')
+
+event_id: s01_e10_c07_u045_e2
+utterance_id: s01_e10_c07_u045
+  tuple: ('be', 'one of these times', 'your last chance with me', 's01_e10_c07_u045')
+
+event_id: s01_e10_c07_u047_e1
+utterance_id: s01_e10_c07_u047
+  tuple: ('give', 'you/Janice Litman Goralnik', 'the thing', 's01_e10_c07_u047')
+
+event_id: s01_e10_c07_u050_e1
+utterance_id: s01_e10_c07_u050
+  tuple: ('decide', 'I/Max', 'to go to Minsk without you', 's01_e10_c07_u050')
+  tuple: ('go', 'I/Max', 'to Minsk', 's01_e10_c07_u050')
+  tuple: ('go', 'I/Max', 'without you', 's01_e10_c07_u050')
+
+event_id: s01_e10_c07_u052_e1
+utterance_id: s01_e10_c07_u052
+  tuple: ('be', 'it/(the trip)', 'the same', 's01_e10_c07_u052')
+  tuple: ('be', 'it/(the trip)', 'Minsk', 's01_e10_c07_u052')
+
+event_id: s01_e10_c07_u053_e1
+utterance_id: s01_e10_c07_u053
+  tuple: ('be', 'you/David', 'alright', 's01_e10_c07_u053')
+
+event_id: s01_e10_c07_u054_e1
+utterance_id: s01_e10_c07_u054
+  tuple: ('be', 'I/David', 'fine', 's01_e10_c07_u054')
+
+event_id: s01_e10_c07_u056_e1
+utterance_id: s01_e10_c07_u056
+  tuple: ('go', 'you/David', 'to Minsk', 's01_e10_c07_u056')
+
+event_id: s01_e10_c07_u057_e1
+utterance_id: s01_e10_c07_u057
+  tuple: ('go', 'I/David', 'to Minsk', 's01_e10_c07_u057')
+
+event_id: s01_e10_c07_u058_e1
+utterance_id: s01_e10_c07_u058
+  tuple: ('belong', 'you/David', 'in Minsk', 's01_e10_c07_u058')
+
+event_id: s01_e10_c07_u058_e2
+utterance_id: s01_e10_c07_u058
+  tuple: ('stay', 'you/David', 'here', 's01_e10_c07_u058')
+  tuple: ('stay', 'you/David', 'because of me', 's01_e10_c07_u058')
+
+event_id: s01_e10_c07_u059_e1
+utterance_id: s01_e10_c07_u059
+  tuple: ('go', 'I/David', None, 's01_e10_c07_u059')
+  tuple: ('mean', 'it', None, 's01_e10_c07_u059')
+  tuple: ('break up with', 'I/David', 'you', 's01_e10_c07_u059')
+
+event_id: s01_e10_c07_u060_e1
+utterance_id: s01_e10_c07_u060
+  tuple: ('say', 'you/David', "'Phoebe, my work is my life and that's what I have to do right now'", 's01_e10_c07_u060')
+  tuple: ('be', 'my work', 'my life', 's01_e10_c07_u060')
+  tuple: ('be', 'that', 'what I have to do right now', 's01_e10_c07_u060')
+  tuple: ('do', 'I/David', None, 's01_e10_c07_u060')
+
+event_id: s01_e10_c07_u060_e2
+utterance_id: s01_e10_c07_u060
+  tuple: ('say', 'I/Phoebe Buffay', "'your work?!'", 's01_e10_c07_u060')
+
+event_id: s01_e10_c07_u060_e3
+utterance_id: s01_e10_c07_u060
+  tuple: ('say', 'you/David', 'that', 's01_e10_c07_u060')
+  tuple: ('say', 'you/David', "'it's tearing me apart, but I have no choice. Can't you understand that?'", 's01_e10_c07_u060')
+  tuple: ('tear apart', 'it', 'me', 's01_e10_c07_u060')
+  tuple: ('have', 'I/David', 'no choice', 's01_e10_c07_u060')
+
+event_id: s01_e10_c07_u060_e4
+utterance_id: s01_e10_c07_u060
+  tuple: ('understand', 'you/Phoebe Buffay', 'that', 's01_e10_c07_u060')
+  tuple: ('say', 'I/Phoebe Buffay', "'no! No! I can't understand that!'", 's01_e10_c07_u060')
+  tuple: ('understand', 'I/Phoebe Buffay', 'that', 's01_e10_c07_u060')
+
+event_id: s01_e10_c07_u062_e1
+utterance_id: s01_e10_c07_u062
+  tuple: ('put', 'you/David', 'your arms', 's01_e10_c07_u062')
+  tuple: ('put', 'you/David', 'around me', 's01_e10_c07_u062')
+
+event_id: s01_e10_c07_u062_e2
+utterance_id: s01_e10_c07_u062
+  tuple: ('tell', 'you/David', 'me', 's01_e10_c07_u062')
+  tuple: ('love', 'you/David', 'me', 's01_e10_c07_u062')
+  tuple: ('forget', 'you/David', 'me', 's01_e10_c07_u062')
+
+event_id: s01_e10_c07_u063_e1
+utterance_id: s01_e10_c07_u063
+  tuple: ('forget', 'I/David', 'you', 's01_e10_c07_u063')
+
+event_id: s01_e10_c07_u064_e1
+utterance_id: s01_e10_c07_u064
+  tuple: ('say', 'you/David', "that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it", 's01_e10_c07_u064')
+  tuple: ('be', 'it/(time)', 'almost midnight', 's01_e10_c07_u064')
+  tuple: ('go', 'you/David', None, 's01_e10_c07_u064')
+  tuple: ('want', 'you/David', 'to start the new year with me', 's01_e10_c07_u064')
+  tuple: ('start', 'you/David', 'the new year', 's01_e10_c07_u064')
+  tuple: ('start', 'you/David', 'with me', 's01_e10_c07_u064')
+  tuple: ('finish', 'you/David', 'it', 's01_e10_c07_u064')
+
+event_id: s01_e10_c07_u064_e2
+utterance_id: s01_e10_c07_u064
+  tuple: ('miss', 'I/Phoebe Buffay', 'you', 's01_e10_c07_u064')
+
+event_id: s01_e10_c07_u065_e1
+utterance_id: s01_e10_c07_u065
+  tuple: ('be', 'this', 'Dick Clark', 's01_e10_c07_u065')
+  tuple: ('be', 'we/(Times Square)', 'in a virtual snowstorm of confetti', 's01_e10_c07_u065')
+  tuple: ('be', 'we/(Times Square)', 'in Times Square', 's01_e10_c07_u065')
+
+event_id: s01_e10_c07_u067_e1
+utterance_id: s01_e10_c07_u067
+  tuple: ('go', 'you/(kids)', None, 's01_e10_c07_u067')
+
+event_id: s01_e10_c07_u068_e1
+utterance_id: s01_e10_c07_u068
+  tuple: ('bite', 'the peacock', 'me', 's01_e10_c07_u068')
+
+event_id: s01_e10_c07_u068_e2
+utterance_id: s01_e10_c07_u068
+  tuple: ('kiss', 'you/(anyone)', 'me', 's01_e10_c07_u068')
+  tuple: ('kiss', 'you/(anyone)', 'at midnight', 's01_e10_c07_u068')
+
+event_id: s01_e10_c07_u069_e1
+utterance_id: s01_e10_c07_u069
+  tuple: ('see', 'you/Chandler Bing', 'Sandy', 's01_e10_c07_u069')
+
+event_id: s01_e10_c07_u070_e1
+utterance_id: s01_e10_c07_u070
+  tuple: ('know', 'I/Chandler Bing', 'how to tell you this', 's01_e10_c07_u070')
+
+event_id: s01_e10_c07_u070_e2
+utterance_id: s01_e10_c07_u070
+  tuple: ('tell', 'I/Chandler Bing', 'you this', 's01_e10_c07_u070')
+  tuple: ('be', 'she/Sandy', "in Monica's bedroom", 's01_e10_c07_u070')
+  tuple: ('get it on', 'she/Sandy', 'with Max', 's01_e10_c07_u070')
+
+event_id: s01_e10_c07_u070_e3
+utterance_id: s01_e10_c07_u070
+  tuple: ('look', 'you/Chandler Bing', 'at that', 's01_e10_c07_u070')
+  tuple: ('know', 'I/Chandler Bing', 'how to tell you', 's01_e10_c07_u070')
+
+event_id: s01_e10_c07_u071_e1
+utterance_id: s01_e10_c07_u071
+  tuple: ('drop', 'the ball', None, 's01_e10_c07_u071')
+
+event_id: s01_e10_c07_u074_e1
+utterance_id: s01_e10_c07_u074
+  tuple: ('be', 'it/(time)', 'midnight', 's01_e10_c07_u074')
+
+event_id: s01_e10_c07_u075_e1
+utterance_id: s01_e10_c07_u075
+  tuple: ('be', 'the moment of joy', 'upon us', 's01_e10_c07_u075')
+
+event_id: s01_e10_c07_u076_e1
+utterance_id: s01_e10_c07_u076
+  tuple: ('look', 'it/(situation)', 'like that no date pact thing worked out', 's01_e10_c07_u076')
+  tuple: ('work out', 'that no date pact thing', None, 's01_e10_c07_u076')
+
+event_id: s01_e10_c07_u077_e1
+utterance_id: s01_e10_c07_u077
+  tuple: ('look', 'everybody', 'so happy', 's01_e10_c07_u077')
+
+event_id: s01_e10_c07_u077_e2
+utterance_id: s01_e10_c07_u077
+  tuple: ('hate', 'I/Phoebe Buffay', 'that', 's01_e10_c07_u077')
+
+event_id: s01_e10_c07_u078_e1
+utterance_id: s01_e10_c07_u078
+  tuple: ('be', 'everybody', 'happy', 's01_e10_c07_u078')
+
+event_id: s01_e10_c07_u080_e1
+utterance_id: s01_e10_c07_u080
+  tuple: ('think', 'I/Chandler Bing', "I'd throw this out here", 's01_e10_c07_u080')
+  tuple: ('throw', 'I/Chandler Bing', 'this', 's01_e10_c07_u080')
+  tuple: ('be', 'I/Chandler Bing', 'no math whiz', 's01_e10_c07_u080')
+  tuple: ('believe', 'I/Chandler Bing', 'there are three girls and three guys right here', 's01_e10_c07_u080')
+  tuple: ('be', 'there', 'three girls and three guys right here', 's01_e10_c07_u080')
+
+event_id: s01_e10_c07_u081_e1
+utterance_id: s01_e10_c07_u081
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e10_c07_u081')
+  tuple: ('feel', 'I/Phoebe Buffay', 'like kissing anyone tonight', 's01_e10_c07_u081')
+  tuple: ('kiss', 'I/Phoebe Buffay', 'anyone', 's01_e10_c07_u081')
+
+event_id: s01_e10_c07_u082_e1
+utterance_id: s01_e10_c07_u082
+  tuple: ('kiss', 'I/Rachel Green', 'anyone', 's01_e10_c07_u082')
+
+event_id: s01_e10_c07_u083_e1
+utterance_id: s01_e10_c07_u083
+  tuple: ('kiss', 'I/Monica Geller', 'everyone', 's01_e10_c07_u083')
+
+event_id: s01_e10_c07_u084_e1
+utterance_id: s01_e10_c07_u084
+  tuple: ('kiss', 'you/Monica Geller', 'Ross', 's01_e10_c07_u084')
+  tuple: ('be', 'that', 'your brother', 's01_e10_c07_u084')
+
+event_id: s01_e10_c07_u085_e1
+utterance_id: s01_e10_c07_u085
+  tuple: ('kiss', 'everybody', None, 's01_e10_c07_u085')
+
+event_id: s01_e10_c07_u086_e1
+utterance_id: s01_e10_c07_u086
+  tuple: ('kiss', 'somebody', 'me', 's01_e10_c07_u086')
+

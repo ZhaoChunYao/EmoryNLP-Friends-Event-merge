@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and confrontational in public, ordering the other to move and get out of the way and to let go of the cart."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is pushy and unaccommodating, telling the other to move and give up the cart, showing little empathy or cooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker points out the cart has no clothes and insists on proper use and order (pressing the other to let go), reflecting rule/efficiency focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In a conflict, TargetSpeaker shows confidence and control rather than anxiety or sensitivity, making firm demands."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker is rigid and rule-enforcing about the cart’s use, dismissing alternative views rather than exploring or adapting."
+  }
+}

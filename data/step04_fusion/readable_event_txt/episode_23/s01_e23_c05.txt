@@ -1,0 +1,118 @@
+event_id: s01_e23_c05_u001_e1
+utterance_id: s01_e23_c05_u001
+  tuple: ('go', 'we/Lydia+Mom', 'through this', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e2
+utterance_id: s01_e23_c05_u001
+  tuple: ('call', 'I/Lydia', 'him', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e3
+utterance_id: s01_e23_c05_u001
+  tuple: ('care', 'I/Lydia', 'if it is his kid', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e4
+utterance_id: s01_e23_c05_u001
+  tuple: ('be', 'it/(baby)', 'his kid', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e5
+utterance_id: s01_e23_c05_u001
+  tuple: ('be', 'the guy', 'a jerk', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e6
+utterance_id: s01_e23_c05_u001
+  tuple: ('be', 'I/Lydia', 'alone', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e7
+utterance_id: s01_e23_c05_u001
+  tuple: ('be', 'Joey Tribbiani', 'here', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u001_e8
+utterance_id: s01_e23_c05_u001
+  tuple: ('mean', "you/Lydia's mom", 'what', 's01_e23_c05_u001')
+
+event_id: s01_e23_c05_u003_e1
+utterance_id: s01_e23_c05_u003
+  tuple: ('hold on', "you/Lydia's mom", None, 's01_e23_c05_u003')
+
+event_id: s01_e23_c05_u003_e2
+utterance_id: s01_e23_c05_u003
+  tuple: ('want', "she/Lydia's mom", 'to talk to you', 's01_e23_c05_u003')
+  tuple: ('talk', "she/Lydia's mom", 'to you', 's01_e23_c05_u003')
+
+event_id: s01_e23_c05_u003_e3
+utterance_id: s01_e23_c05_u003
+  tuple: ('take', 'you/Joey Tribbiani', 'the phone', 's01_e23_c05_u003')
+
+event_id: s01_e23_c05_u004_e1
+utterance_id: s01_e23_c05_u004
+  tuple: ('be', 'it', 'me', 's01_e23_c05_u004')
+
+event_id: s01_e23_c05_u004_e2
+utterance_id: s01_e23_c05_u004
+  tuple: ('be', 'we/Joey Tribbiani+Lydia', 'just friends', 's01_e23_c05_u004')
+
+event_id: s01_e23_c05_u004_e3
+utterance_id: s01_e23_c05_u004
+  tuple: ('be', 'I/Joey Tribbiani', 'single', 's01_e23_c05_u004')
+
+event_id: s01_e23_c05_u005_e1
+utterance_id: s01_e23_c05_u005
+  tuple: ('be', "she/Lydia's mom", 'much of a phone person', 's01_e23_c05_u005')
+
+event_id: s01_e23_c05_u006_e1
+utterance_id: s01_e23_c05_u006
+  tuple: ('be', 'what', 'the deal with this father guy', 's01_e23_c05_u006')
+  tuple: ('be', 'the deal', 'with this father guy', 's01_e23_c05_u006')
+
+event_id: s01_e23_c05_u006_e2
+utterance_id: s01_e23_c05_u006
+  tuple: ('mean', 'I/Joey Tribbiani', None, 's01_e23_c05_u006')
+
+event_id: s01_e23_c05_u006_e3
+utterance_id: s01_e23_c05_u006
+  tuple: ('have', 'someone', 'my baby somewhere', 's01_e23_c05_u006')
+
+event_id: s01_e23_c05_u006_e4
+utterance_id: s01_e23_c05_u006
+  tuple: ('want', 'I/Joey Tribbiani', 'to know about it', 's01_e23_c05_u006')
+  tuple: ('know', 'I/Joey Tribbiani', 'it', 's01_e23_c05_u006')
+  tuple: ('know', 'I/Joey Tribbiani', 'about it', 's01_e23_c05_u006')
+
+event_id: s01_e23_c05_u006_e5
+utterance_id: s01_e23_c05_u006
+  tuple: ('know', 'you/Lydia', None, 's01_e23_c05_u006')
+
+event_id: s01_e23_c05_u007_e1
+utterance_id: s01_e23_c05_u007
+  tuple: ('be', 'I/Lydia', 'interested in your views on fatherhood', 's01_e23_c05_u007')
+
+event_id: s01_e23_c05_u008_e1
+utterance_id: s01_e23_c05_u008
+  tuple: ('look', 'you/Lydia', None, 's01_e23_c05_u008')
+
+event_id: s01_e23_c05_u008_e2
+utterance_id: s01_e23_c05_u008
+  tuple: ('go', 'I/Joey Tribbiani', None, 's01_e23_c05_u008')
+
+event_id: s01_e23_c05_u010_e1
+utterance_id: s01_e23_c05_u010
+  tuple: ('take care', 'you/Lydia', None, 's01_e23_c05_u010')
+
+event_id: s01_e23_c05_u012_e1
+utterance_id: s01_e23_c05_u012
+  tuple: ('know', 'you/Lydia', 'what the Celtics problem is', 's01_e23_c05_u012')
+  tuple: ('be', 'the Celtics problem', 'what', 's01_e23_c05_u012')
+
+event_id: s01_e23_c05_u012_e2
+utterance_id: s01_e23_c05_u012
+  tuple: ('let', 'they/The Celtics', 'the players run the team', 's01_e23_c05_u012')
+  tuple: ('run', 'the players', 'the team', 's01_e23_c05_u012')
+
+event_id: s01_e23_c05_u013_e1
+utterance_id: s01_e23_c05_u013
+  tuple: ('be', 'that', 'so not true', 's01_e23_c05_u013')
+
+event_id: s01_e23_c05_u014_e1
+utterance_id: s01_e23_c05_u014
+  tuple: ('be', 'it', None, 's01_e23_c05_u014')
+

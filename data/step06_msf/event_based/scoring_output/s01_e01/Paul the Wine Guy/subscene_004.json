@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly engages others socially and publicly gushes about last night (u014 thanking several people; u016 elaborate praise), showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker thanks multiple people (u014) and remains polite even when told to stop, replying \"Yeah. Thank you.\" (u018)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence about organization, reliability, or task focus in the dialogue."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Openly and exuberantly expresses positive feelings in front of others (u016) with no signs of anxiety or hesitation, indicating comfort and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses imaginative, metaphorical language and a specific film reference (“barn-raising scene in Witness”) to describe feelings (u016)."
+  }
+}

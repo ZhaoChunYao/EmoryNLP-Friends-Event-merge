@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "She makes brief, task-focused remarks (“Ow…”, asking about costs, forms) with no clear signs of outgoing sociability beyond a single “I love you.”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She proposes using Speaker_01’s insurance for her treatment and leverages having listed him as her emergency contact—dishonest/manipulative rather than straightforward or trustworthy."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She asks to check the insurance box despite having no insurance, suggests using someone else’s insurance, and then says she might as well go home with a possibly broken foot—careless and irresponsible actions."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She repeatedly expresses pain (“Ow ow ow”), worries about the cost, and says “we don’t know what we’re going to do,” indicating anxiety and distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking; her suggestions focus on avoiding costs rather than exploring new ideas or experiences."
+  }
+}

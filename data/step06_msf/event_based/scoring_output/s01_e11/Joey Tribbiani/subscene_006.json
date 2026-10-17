@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives a running commentary of what is happening and directs the other person (“wait,” “run”), saying they’ve been “spelling out the situation” and narrating what they see (u019–u021)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Provides information and a warning, but shows neither clear warmth/generosity nor hostility; no strong cues either way."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Misreports a key quote (“I have a bomb” vs. “I am your mom,” u015–u017) and admits not knowing what’s going on (u019), suggesting carelessness with details."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses uncertainty and alarm—doesn’t know what’s happening, can’t hear anything, then urgently says to run as others approach (u019–u021)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Accepts a correction that makes more sense (u017), but overall shows no strong curiosity or imaginative exploration; the misquote indicates confusion rather than openness."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they do not feel like kissing anyone tonight, showing reluctance to engage socially when others are pairing off."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they hate that everybody looks so happy, showing unsympathetic/resentful attitude toward others' happiness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, diligence, or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses strong negative affect: says they hate that everybody looks so happy and withdraws from kissing, suggesting irritability/moodiness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, openness to new experiences, or dogmatism."
+  }
+}

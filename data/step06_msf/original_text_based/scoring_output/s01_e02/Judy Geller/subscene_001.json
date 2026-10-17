@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and engages actively with the group, making expressive remarks like “Mmm!” and sharing info/gossip (“[X] is gonna call [Y]”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a flattering, supportive comment to Speaker_04 (“Speaker_07 and Speaker_02 all had a thing for Speaker_04”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization or carelessness; the talk is casual and social."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or of notable confidence; emotional tone is neutral/positive but not strongly indicative."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity about sensory experience by asking, “What’s that curry taste?”"
+  }
+}

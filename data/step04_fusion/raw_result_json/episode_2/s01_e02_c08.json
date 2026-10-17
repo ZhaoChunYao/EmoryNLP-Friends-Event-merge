@@ -1,0 +1,110 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u001_e1",
+          "tuples": [
+            "('work', 'this', 'with us', 's01_e02_c08_u001')",
+            "('make', 'important decisions', None, 's01_e02_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u002_e1",
+          "tuples": [
+            "('give', 'you/Ross Geller', \"a 'for instance'\", 's01_e02_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u003_e1",
+          "tuples": [
+            "('know', 'I/Ross Geller', None, 's01_e02_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u006_e1",
+          "tuples": [
+            "('be', 'it', 'a boy', 's01_e02_c08_u006')",
+            "('be', 'it', 'a girl', 's01_e02_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u009",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u009_e1",
+          "tuples": [
+            "('say', 'you/Carol Willick', 'Minnie', 's01_e02_c08_u009')",
+            "('hear', 'you/Carol Willick', 'Mouse', 's01_e02_c08_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u011",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u011_e1",
+          "tuples": [
+            "('agree', 'we/Susan Bunch+Carol Willick', 'on Minnie', 's01_e02_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c08_u012",
+      "events": [
+        {
+          "event_id": "s01_e02_c08_u012_e1",
+          "tuples": [
+            "('agree', 'we/Ross Geller+Carol Willick', \"we'd spend the rest of our lives together\", 's01_e02_c08_u012')",
+            "('spend', 'we/Ross Geller+Carol Willick', 'the rest of our lives', 's01_e02_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c08_u012_e2",
+          "tuples": [
+            "('be', 'it', 'funny', 's01_e02_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c08_u012_e3",
+          "tuples": [
+            "('change', 'Things', None, 's01_e02_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c08_u012_e4",
+          "tuples": [
+            "('roll', 'you/Susan Bunch+Carol Willick', 'with the punches', 's01_e02_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c08_u012_e5",
+          "tuples": [
+            "('believe', 'I/Ross Geller', \"Julia's on the table\", 's01_e02_c08_u012')",
+            "('be', 'Julia', 'on the table', 's01_e02_c08_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives brief, closed responses (“Mm-hmm,” “No,” “Am not!”) and shuts the exchange down with “Oh shut up!,” showing low talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Responds argumentatively (“Am not!”) and tells the other to “Oh shut up!,” indicating confrontational, less cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or reliability is shown in this brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker is accused of “welling up,” denies it, then reacts sharply (“Oh shut up!”), suggesting emotional sensitivity and reactivity in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, imagination, or openness to new ideas appear in the dialogue."
+  }
+}

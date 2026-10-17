@@ -1,0 +1,70 @@
+{
+  "tuples": [
+    {
+      "verb": "estar",
+      "subject": "it/(el pollo General Tso)",
+      "object": null,
+      "uid": "s01_e17_c14_u001"
+    },
+    {
+      "verb": "pedir",
+      "subject": "who/(unknown)",
+      "object": "el pollo General Tso",
+      "uid": "s01_e17_c14_u002"
+    },
+    {
+      "verb": "pedir",
+      "subject": "someone/(unknown)",
+      "object": "a quién",
+      "uid": "s01_e17_c14_u002"
+    },
+    {
+      "verb": "ser",
+      "subject": "it/(the orderer)",
+      "object": "General Tso",
+      "uid": "s01_e17_c14_u003"
+    },
+    {
+      "verb": "mirar",
+      "subject": "you/(everyone)",
+      "object": null,
+      "uid": "s01_e17_c14_u005"
+    },
+    {
+      "verb": "hacer",
+      "subject": "el viejo desnudo",
+      "object": "el hula hoop",
+      "uid": "s01_e17_c14_u005"
+    },
+    {
+      "verb": "mirar",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e17_c14_u012"
+    },
+    {
+      "verb": "llevar",
+      "subject": "Marcel",
+      "object": "el control remoto",
+      "uid": "s01_e17_c14_u012"
+    },
+    {
+      "verb": "suceder",
+      "subject": "what/(happened)",
+      "object": null,
+      "uid": "s01_e17_c14_u013"
+    },
+    {
+      "verb": "ser",
+      "subject": "lo que sucedio",
+      "object": "que no le gusta la tele",
+      "uid": "s01_e17_c14_u013"
+    },
+    {
+      "verb": "gustar",
+      "subject": "Marcel",
+      "object": "la tele",
+      "uid": "s01_e17_c14_u013"
+    }
+  ]
+}

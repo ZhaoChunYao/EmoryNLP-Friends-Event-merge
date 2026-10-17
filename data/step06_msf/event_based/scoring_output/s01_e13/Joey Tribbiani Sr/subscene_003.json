@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly (greets, asks why Speaker_02 is there) without showing strong outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Greets politely, thanks Speaker_02 for bringing the item, and expresses concern about her taking the last train, showing care and consideration."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Speaker_02 says TargetSpeaker left his 'good hair' at her apartment, indicating forgetfulness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says he does not want Speaker_02 taking the last train, showing worry about her safety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of creativity/curiosity or of dogmatism/caution beyond situational concern."
+  }
+}

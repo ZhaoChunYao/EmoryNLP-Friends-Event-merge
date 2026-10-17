@@ -1,0 +1,105 @@
+('be', 'Carol', 'here', 's01_e09_c03_u001')
+[s01_e09_c03_u001] Ross Geller: Hi, is uh, is Carol here?
+
+('be', 'she/Carol', 'at a faculty meeting', 's01_e09_c03_u002')
+[s01_e09_c03_u002] Susan Bunch: No, she's at a faculty meeting.
+
+('come', 'I/Ross Geller', 'by to pick up my skull', 's01_e09_c03_u003')
+[s01_e09_c03_u003] Ross Geller: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+
+('pick', 'I/Ross Geller', 'up my skull', 's01_e09_c03_u003')
+[s01_e09_c03_u003] Ross Geller: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+
+('come', 'you/Ross Geller', 'in', 's01_e09_c03_u003')
+[s01_e09_c03_u003] Ross Geller: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+
+('borrow', 'Carol', 'it', 's01_e09_c03_u004')
+[s01_e09_c03_u004] Ross Geller: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+
+('borrow', 'Carol', 'for a class', 's01_e09_c03_u004')
+[s01_e09_c03_u004] Ross Geller: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+
+('get', 'I/Ross Geller', 'it back to the museum', 's01_e09_c03_u004')
+[s01_e09_c03_u004] Ross Geller: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+
+('look', 'it/the skull', 'like what', 's01_e09_c03_u005')
+[s01_e09_c03_u005] Susan Bunch: What's it look like?
+
+('be', 'I/Susan Bunch', 'familiar', 's01_e09_c03_u007')
+[s01_e09_c03_u007] Susan Bunch: Yes, I'm familiar with the concept. We can just look for it.
+
+('be', 'I/Susan Bunch', 'with the concept', 's01_e09_c03_u007')
+[s01_e09_c03_u007] Susan Bunch: Yes, I'm familiar with the concept. We can just look for it.
+
+('look', 'we/Susan Bunch and Ross Geller', 'for it', 's01_e09_c03_u007')
+[s01_e09_c03_u007] Susan Bunch: Yes, I'm familiar with the concept. We can just look for it.
+
+('have', 'you guys/Susan and Carol', 'a lot of books', 's01_e09_c03_u008')
+[s01_e09_c03_u008] Ross Geller: Ok. Wow, you guys sure have a lot of books about bein' a lesbian.
+
+('have', 'you guys/Susan and Carol', "about bein' a lesbian", 's01_e09_c03_u008')
+[s01_e09_c03_u008] Ross Geller: Ok. Wow, you guys sure have a lot of books about bein' a lesbian.
+
+('know', 'you/Ross Geller', None, 's01_e09_c03_u009')
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+
+('take', 'you/Ross Geller', 'a course', 's01_e09_c03_u009')
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+
+('let', 'they/authorities', 'you', 's01_e09_c03_u009')
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+
+('do', 'you/Ross Geller', 'it', 's01_e09_c03_u009')
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+
+('read', 'I/Susan Bunch', 'it', 's01_e09_c03_u011')
+[s01_e09_c03_u011] Susan Bunch: Actually, I'm reading it to the baby.
+
+('read', 'I/Susan Bunch', 'to the baby', 's01_e09_c03_u011')
+[s01_e09_c03_u011] Susan Bunch: Actually, I'm reading it to the baby.
+
+('be born', 'the baby', None, 's01_e09_c03_u012')
+[s01_e09_c03_u012] Ross Geller: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+
+('mean', 'that', 'you are crazy', 's01_e09_c03_u012')
+[s01_e09_c03_u012] Ross Geller: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+
+('be', 'you/Susan Bunch', 'crazy', 's01_e09_c03_u012')
+[s01_e09_c03_u012] Ross Geller: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+
+('think', 'you/Ross Geller', 'they can hear sounds in there', 's01_e09_c03_u013')
+[s01_e09_c03_u013] Susan Bunch: What, you don't think they can hear sounds in there?
+
+('hear', 'they/unborn babies', 'sounds', 's01_e09_c03_u013')
+[s01_e09_c03_u013] Susan Bunch: What, you don't think they can hear sounds in there?
+
+('hear', 'they/unborn babies', 'in there', 's01_e09_c03_u013')
+[s01_e09_c03_u013] Susan Bunch: What, you don't think they can hear sounds in there?
+
+('be', 'you/Susan Bunch', 'not serious', 's01_e09_c03_u014')
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+
+('mean', 'I/Ross Geller', None, 's01_e09_c03_u014')
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+
+('talk', 'you/Susan Bunch', None, 's01_e09_c03_u014')
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+
+('talk', 'you/Susan Bunch', 'to it', 's01_e09_c03_u014')
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+
+('want', 'I/Susan Bunch', 'the baby to know my voice', 's01_e09_c03_u015')
+[s01_e09_c03_u015] Susan Bunch: Yeah, all the time. I want the baby to know my voice.
+
+('know', 'the baby', 'my voice', 's01_e09_c03_u015')
+[s01_e09_c03_u015] Susan Bunch: Yeah, all the time. I want the baby to know my voice.
+
+('talk', 'you/Susan Bunch', 'about me', 's01_e09_c03_u016')
+[s01_e09_c03_u016] Ross Geller: Do you uh, do you talk about me?
+
+('refer', 'we/Susan Bunch and Carol', 'to you', 's01_e09_c03_u019')
+[s01_e09_c03_u019] Susan Bunch: But um, we just refer to you as Bobo the Sperm Guy.
+
+('refer', 'we/Susan Bunch and Carol', 'as Bobo the Sperm Guy', 's01_e09_c03_u019')
+[s01_e09_c03_u019] Susan Bunch: But um, we just refer to you as Bobo the Sperm Guy.
+

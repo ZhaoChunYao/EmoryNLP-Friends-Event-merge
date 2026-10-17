@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only two brief remarks; there is no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly says spending Thanksgiving together was nobody’s first choice and snidely remarks that Speaker_02 is calling this dinner delicious, adding to the bickering rather than showing warmth or support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior from TargetSpeaker indicates organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The remarks are blunt and critical but show no clear signs of nervousness or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflect curiosity, imagination, or dogmatism/caution; the comments are about the immediate situation only."
+  }
+}

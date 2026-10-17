@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He readily takes the phone, introduces himself, openly clarifies his relationship and that he is single, asks follow-up questions, and later initiates a new debate about the Boston Celtics, showing talkative, assertive engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He pushes his views (on fatherhood and then the Celtics), contradicts the other speaker and persists with a blunt “It is” in an argument, indicating a confrontational, low-agreeableness stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; the exchange is casual and argumentative without evidence of planning or reliability issues."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He appears confident and unfazed—asserting opinions, proposing to leave without distress, and ending with a calm “take care,” showing low nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He takes a rigid, dogmatic stance on the Celtics issue, repeating his claim as true despite pushback rather than exploring alternatives or showing curiosity."
+  }
+}

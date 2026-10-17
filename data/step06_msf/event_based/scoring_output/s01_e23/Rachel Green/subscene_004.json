@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively engages and leads the interaction—reassures Speaker_01, checks in with “Ok?”, and initiates a new topic by bringing up Paris and commenting on it, showing sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers support and reassurance: tells Speaker_01 not to worry, says they will find Ross and Susan, and emphasizes “we are here for you right now,” indicating caring, cooperative intent."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mentions a plan to find Ross and Susan, but provides no concrete signs of organization or diligence beyond general reassurance."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and comforting under potential stress, reassuring others and showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Expresses interest and positive curiosity about Paris, calling it “fascinating,” signaling openness to new experiences."
+  }
+}

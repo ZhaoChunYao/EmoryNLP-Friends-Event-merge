@@ -1,0 +1,153 @@
+('be', 'Your folks', 'that bad', 's01_e02_c05_u001')
+[s01_e02_c05_u001] Joey Tribbiani: Your folks are really that bad, huh?
+
+('be', 'these people', 'pros', 's01_e02_c05_u002')
+[s01_e02_c05_u002] Ross Geller: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+
+('know', 'they/(these people)', "what they're doing", 's01_e02_c05_u002')
+[s01_e02_c05_u002] Ross Geller: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+
+('do', 'they/(these people)', 'what', 's01_e02_c05_u002')
+[s01_e02_c05_u002] Ross Geller: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+
+('take', 'they/(these people)', 'their time', 's01_e02_c05_u002')
+[s01_e02_c05_u002] Ross Geller: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+
+('get', 'they/(these people)', 'the job done', 's01_e02_c05_u002')
+[s01_e02_c05_u002] Ross Geller: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+
+('know', 'I/(Monica Geller)', "they say you can't change your parents", 's01_e02_c05_u003')
+[s01_e02_c05_u003] Monica Geller: Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.
+
+('say', 'they/(unspecified people)', "you can't change your parents", 's01_e02_c05_u003')
+[s01_e02_c05_u003] Monica Geller: Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.
+
+('change', 'you/(generic)', 'your parents', 's01_e02_c05_u003')
+[s01_e02_c05_u003] Monica Geller: Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.
+
+('want', 'I/(Monica Geller)', 'yours', 's01_e02_c05_u003')
+[s01_e02_c05_u003] Monica Geller: Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.
+
+('pee', 'I/(Ross Geller)', None, 's01_e02_c05_u004')
+[s01_e02_c05_u004] Ross Geller: Must pee.
+
+('be', 'it/(situation)', 'even worse', 's01_e02_c05_u005')
+[s01_e02_c05_u005] Phoebe Buffay: Y'know, it's even worse when you're twins.
+
+('be', 'you/(generic)', 'twins', 's01_e02_c05_u005')
+[s01_e02_c05_u005] Phoebe Buffay: Y'know, it's even worse when you're twins.
+
+('be', 'you/(Phoebe Buffay)', 'twins', 's01_e02_c05_u006')
+[s01_e02_c05_u006] Rachel Green: You're twins?
+
+('speak', 'we/(Phoebe Buffay & her twin sister)', None, 's01_e02_c05_u007')
+[s01_e02_c05_u007] Phoebe Buffay: Yeah. We don't speak. She's like this high-powered, driven career type.
+
+('be', "she/(Phoebe's twin sister)", 'this high-powered, driven career type', 's01_e02_c05_u007')
+[s01_e02_c05_u007] Phoebe Buffay: Yeah. We don't speak. She's like this high-powered, driven career type.
+
+('do', "she/(Phoebe's twin sister)", 'what', 's01_e02_c05_u008')
+[s01_e02_c05_u008] Chandler Bing: What does she do?
+
+('be', "she/(Phoebe's twin sister)", 'a waitress', 's01_e02_c05_u009')
+[s01_e02_c05_u009] Phoebe Buffay: She's a waitress.
+
+('be', 'you/(Chandler Bing)', 'an only child', 's01_e02_c05_u011')
+[s01_e02_c05_u011] Monica Geller: Chandler, you're an only child, right? You don't have any of this.
+
+('have', 'you/(Chandler Bing)', 'any of this', 's01_e02_c05_u011')
+[s01_e02_c05_u011] Monica Geller: Chandler, you're an only child, right? You don't have any of this.
+
+('have', 'I/(Chandler Bing)', 'an imaginary friend', 's01_e02_c05_u012')
+[s01_e02_c05_u012] Chandler Bing: Well, no, although I did have an imaginary friend, who... my parents actually preferred.
+
+('prefer', 'my parents', 'who', 's01_e02_c05_u012')
+[s01_e02_c05_u012] Chandler Bing: Well, no, although I did have an imaginary friend, who... my parents actually preferred.
+
+('be', 'I/(Ross Geller)', 'in there', 's01_e02_c05_u015')
+[s01_e02_c05_u015] Ross Geller: ...How long was I in there?
+
+('clean up', 'I/(Rachel Green)', None, 's01_e02_c05_u016')
+[s01_e02_c05_u016] Rachel Green: I'm just cleaning up.
+
+('need', 'you/(Rachel Green)', 'any help', 's01_e02_c05_u017')
+[s01_e02_c05_u017] Ross Geller: D'ya.. uh.. d'ya need any help?
+
+('be', 'you/(Rachel Green)', 'nervous about Barry', 's01_e02_c05_u019')
+[s01_e02_c05_u019] Ross Geller: Anyway.. um.. So, you- uh- you nervous about Barry tomorrow?
+
+('have', 'you/(Ross Geller)', 'any advice', 's01_e02_c05_u024')
+[s01_e02_c05_u024] Rachel Green: So, got any advice? Y'know, as someone who's recently been- dumped?
+
+('dump', 'someone', None, 's01_e02_c05_u024')
+[s01_e02_c05_u024] Rachel Green: So, got any advice? Y'know, as someone who's recently been- dumped?
+
+('steer clear', 'you/(Rachel Green)', "of the word 'dumped'", 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('be', 'chances', None, 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('be', 'he/(Barry)', 'this broken shell of a man', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('try', 'you/(Rachel Green)', 'not to look too terrific', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('look', 'you/(Rachel Green)', 'too terrific', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('know', 'I/(Ross Geller)', 'it will be hard', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('be', 'it/(not looking too terrific)', 'hard', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('go', 'I/(Ross Geller)', None, 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('give back', 'I/(Ross Geller)', 'his ring', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('go', 'you/(Rachel Green)', None, 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('go', 'you/(Rachel Green)', 'with Carol and Susan', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('go', 'you/(Rachel Green)', 'to the OB/GYN', 's01_e02_c05_u025')
+[s01_e02_c05_u025] Ross Geller: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+
+('have', 'you/(Ross Geller)', 'Carol', 's01_e02_c05_u026')
+[s01_e02_c05_u026] Rachel Green: Oh, you've got Carol tomorrow.. When did it get so complicated?
+
+('get', 'it/(things)', 'so complicated', 's01_e02_c05_u026')
+[s01_e02_c05_u026] Rachel Green: Oh, you've got Carol tomorrow.. When did it get so complicated?
+
+('get', 'you/(Rachel Green)', 'me/(Ross Geller)', 's01_e02_c05_u027')
+[s01_e02_c05_u027] Ross Geller: Got me.
+
+('remember', 'you/(Ross Geller)', 'when we were in high school together', 's01_e02_c05_u028')
+[s01_e02_c05_u028] Rachel Green: Remember when we were in high school together?
+
+('be', 'we/(Rachel Green & Ross Geller)', 'in high school', 's01_e02_c05_u028')
+[s01_e02_c05_u028] Rachel Green: Remember when we were in high school together?
+
+('think', 'you/(Ross Geller)', "you were just gonna meet someone, fall in love- and that'd be it", 's01_e02_c05_u030')
+[s01_e02_c05_u030] Rachel Green: I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? ..Ross?
+
+('meet', 'you/(Ross Geller)', 'someone', 's01_e02_c05_u030')
+[s01_e02_c05_u030] Rachel Green: I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? ..Ross?
+
+('fall', 'you/(Ross Geller)', 'in love', 's01_e02_c05_u030')
+[s01_e02_c05_u030] Rachel Green: I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? ..Ross?
+
+('be', "that/(meeting someone, falling in love, and that'd be it)", 'it', 's01_e02_c05_u030')
+[s01_e02_c05_u030] Rachel Green: I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? ..Ross?
+
+('think', 'I/(Rachel Green)', 'I would be here', 's01_e02_c05_u032')
+[s01_e02_c05_u032] Rachel Green: Oh! Man, I never thought I'd be here..
+
+('be', 'I/(Rachel Green)', 'here', 's01_e02_c05_u032')
+[s01_e02_c05_u032] Rachel Green: Oh! Man, I never thought I'd be here..
+

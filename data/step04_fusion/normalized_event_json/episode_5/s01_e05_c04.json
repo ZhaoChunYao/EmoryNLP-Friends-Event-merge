@@ -1,0 +1,165 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u001_e1",
+          "tuples": [
+            "('come', 'Monica', None, 's01_e05_c04_u001')",
+            "('be', 'it/laundry', 'me and Rachel', 's01_e05_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u002_e1",
+          "tuples": [
+            "('hold', 'you/Ross Geller', 'on', 's01_e05_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u002_e2",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'sure', 's01_e05_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u002_e3",
+          "tuples": [
+            "('think', 'you/Ross Geller', 'through this thing', 's01_e05_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u003_e1",
+          "tuples": [
+            "('be', 'it/plan', 'laundry', 's01_e05_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u003_e2",
+          "tuples": [
+            "('be', 'The thinking through', 'minimal', 's01_e05_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u004_e1",
+          "tuples": [
+            "('be', 'it/plan', 'you and Rachel', 's01_e05_c04_u004')",
+            "('be', 'This/situation', 'a date', 's01_e05_c04_u004')",
+            "('go', 'you/Ross Geller', 'on a date', 's01_e05_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u007_e1",
+          "tuples": [
+            "('say', 'you/Chandler Bing', 'what', 's01_e05_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u007_e2",
+          "tuples": [
+            "('shave', 'I/Ross Geller', None, 's01_e05_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u007_e3",
+          "tuples": [
+            "('pick up', 'I/Ross Geller', 'some wine', 's01_e05_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u008",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u008_e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'to rethink the dirty underwear', 's01_e05_c04_u008')",
+            "('rethink', 'you/Ross Geller', 'the dirty underwear', 's01_e05_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u008_e2",
+          "tuples": [
+            "('be', 'This/situation', \"the first time she's gonna see your underwear\", 's01_e05_c04_u008')",
+            "('see', 'she/Rachel', 'your underwear', 's01_e05_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u008_e3",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'it to be dirty', 's01_e05_c04_u008')",
+            "('be', 'it/underwear', 'dirty', 's01_e05_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u011_e1",
+          "tuples": [
+            "('be', 'what', 'wrong with my Snuggles', 's01_e05_c04_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u011_e2",
+          "tuples": [
+            "('say', 'it/Snuggles', \"I'm a sensitive, warm kinda guy\", 's01_e05_c04_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u011_e3",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'a sensitive, warm kinda guy', 's01_e05_c04_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u011_e4",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e05_c04_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c04_u011_e5",
+          "tuples": [
+            "('pick up', 'I/Ross Geller', 'something else', 's01_e05_c04_u011')",
+            "('pick up', 'I/Ross Geller', 'on the way', 's01_e05_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c04_u012",
+      "events": [
+        {
+          "event_id": "s01_e05_c04_u012_e1",
+          "tuples": [
+            "('go', 'you/Ross Geller', 'there', 's01_e05_c04_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

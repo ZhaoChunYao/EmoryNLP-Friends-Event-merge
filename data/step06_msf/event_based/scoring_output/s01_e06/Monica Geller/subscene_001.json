@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates and asks questions but there is no clear sign of outgoing, energetic behavior beyond a few comments."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After a brief polite apology, TargetSpeaker calls the situation \"twisted\" and challenges Speaker_01 with \"how could you get involved with a woman like that,\" showing blunt, critical, confrontational behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior about organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker shows no signs of anxiety or insecurity; the tone is confident and judgmental rather than nervous."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "By labeling the non-monogamous arrangement as \"twisted\" and questioning how one could be involved, TargetSpeaker shows a dismissive, dogmatic stance toward unconventional relationships."
+  }
+}

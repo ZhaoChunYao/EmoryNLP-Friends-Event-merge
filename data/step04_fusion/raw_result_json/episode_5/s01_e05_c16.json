@@ -1,0 +1,136 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c16_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'sure', 's01_e05_c16_u001')",
+            "('be', 'you/Ross Geller', 'ok', 's01_e05_c16_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('hurt', \"it/(Ross Geller's injury)\", None, 's01_e05_c16_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('match', 'your clothes', None, 's01_e05_c16_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('do', 'I/Phoebe Buffay', 'this', 's01_e05_c16_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', \"it/(Monica Geller and Joey Tribbiani's plan)\", None, 's01_e05_c16_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('rip', 'we/(Monica Geller and Joey Tribbiani)', 'that couple', 's01_e05_c16_u010')",
+            "('keep', 'we/(Monica Geller and Joey Tribbiani)', 'the pieces', 's01_e05_c16_u010')",
+            "('keep', 'we/(Monica Geller and Joey Tribbiani)', 'for ourselves', 's01_e05_c16_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'fine', 's01_e05_c16_u011')",
+            "('be', 'I/Ross Geller', 'by the way', 's01_e05_c16_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'sorry', 's01_e05_c16_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'Chandler Bing', None, 's01_e05_c16_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('need', 'he/Chandler Bing', 'some time to grieve', 's01_e05_c16_u014')",
+            "('grieve', 'he/Chandler Bing', None, 's01_e05_c16_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u016",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'free', 's01_e05_c16_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c16_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', \"that/(Chandler Bing's declaration)\", 'it', 's01_e05_c16_u017')"
+          ]
+        }
+      ]
+    }
+  ]
+}

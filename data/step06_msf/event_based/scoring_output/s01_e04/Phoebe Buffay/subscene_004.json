@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief remarks without showing clear outgoing energy or marked reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are direct and straightforward, correcting the term 'un-floopy' and plainly stating they don't like the question."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Correcting 'un-floopy' as not a real word shows attention to accuracy and rule-following."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They express discomfort with discussing the possibility that things won’t come together, indicating sensitivity to negative scenarios."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "They dismiss the invented word 'un-floopy' as not real, showing low tolerance for unconventional language."
+  }
+}

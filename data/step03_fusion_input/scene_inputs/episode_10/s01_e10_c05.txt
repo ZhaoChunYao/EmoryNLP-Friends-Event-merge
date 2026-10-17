@@ -1,0 +1,180 @@
+('tell', 'Ross Geller', 'something', 's01_e10_c05_u001')
+[s01_e10_c05_u001] Ross Geller: So tell me something. What does the phrase 'no date pact' mean to you?
+
+('mean', "the phrase 'no date pact'", 'what', 's01_e10_c05_u001')
+[s01_e10_c05_u001] Ross Geller: So tell me something. What does the phrase 'no date pact' mean to you?
+
+('mean', "the phrase 'no date pact'", 'to you', 's01_e10_c05_u001')
+[s01_e10_c05_u001] Ross Geller: So tell me something. What does the phrase 'no date pact' mean to you?
+
+('be', 'Monica Geller', 'sorry', 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('be', 'it', 'just that Chandler has somebody', 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('have', 'Chandler', 'somebody', 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('have', 'Phoebe', 'somebody', 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('think', 'Monica Geller', "I'd ask Fun Bobby", 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('ask', 'Monica Geller', 'Fun Bobby', 's01_e10_c05_u002')
+[s01_e10_c05_u002] Monica Geller: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+
+('know', 'you/Monica Geller', 'more than one Fun Bobby', 's01_e10_c05_u005')
+[s01_e10_c05_u005] Joey Tribbiani: You know more than one Fun Bobby?
+
+('know', 'I/Chandler Bing', 'a Fun Bob', 's01_e10_c05_u006')
+[s01_e10_c05_u006] Chandler Bing: I happen to know a Fun Bob.
+
+('go', 'we/(all present)', None, 's01_e10_c05_u007')
+[s01_e10_c05_u007] Rachel Green: Okay, here we go...
+
+('be', 'there', 'no room', 's01_e10_c05_u008')
+[s01_e10_c05_u008] Joey Tribbiani: Ooh ooh ooh ooh, there's no room for milk!
+
+('be', 'there', 'for milk', 's01_e10_c05_u008')
+[s01_e10_c05_u008] Joey Tribbiani: Ooh ooh ooh ooh, there's no room for milk!
+
+('be', 'there', None, 's01_e10_c05_u009')
+[s01_e10_c05_u009] Rachel Green: There. Now there is.
+
+('have', 'three of you', 'dates', 's01_e10_c05_u010')
+[s01_e10_c05_u010] Ross Geller: Okay, so on our no-date evening, three of you now have dates.
+
+('have', 'three of you', 'on our no-date evening', 's01_e10_c05_u010')
+[s01_e10_c05_u010] Ross Geller: Okay, so on our no-date evening, three of you now have dates.
+
+('catch', 'Paolo', 'an earlier flight', 's01_e10_c05_u015')
+[s01_e10_c05_u015] Rachel Green: Sorry. Paolo's catching an earlier flight.
+
+('meet', 'I/Joey Tribbiani', 'this really hot single mom', 's01_e10_c05_u016')
+[s01_e10_c05_u016] Joey Tribbiani: Yeah, and I met this really hot single mom at the store. What's an elf to do?
+
+('meet', 'I/Joey Tribbiani', 'at the store', 's01_e10_c05_u016')
+[s01_e10_c05_u016] Joey Tribbiani: Yeah, and I met this really hot single mom at the store. What's an elf to do?
+
+('be', 'an elf', 'what', 's01_e10_c05_u016')
+[s01_e10_c05_u016] Joey Tribbiani: Yeah, and I met this really hot single mom at the store. What's an elf to do?
+
+('do', 'an elf', None, 's01_e10_c05_u016')
+[s01_e10_c05_u016] Joey Tribbiani: Yeah, and I met this really hot single mom at the store. What's an elf to do?
+
+('be', 'I/Ross Geller', 'the only one', 's01_e10_c05_u017')
+[s01_e10_c05_u017] Ross Geller: Okay, so I'm gonna be the only one standing there alone when the ball drops?
+
+('stand', 'I/Ross Geller', None, 's01_e10_c05_u017')
+[s01_e10_c05_u017] Ross Geller: Okay, so I'm gonna be the only one standing there alone when the ball drops?
+
+('drop', 'the ball', None, 's01_e10_c05_u017')
+[s01_e10_c05_u017] Ross Geller: Okay, so I'm gonna be the only one standing there alone when the ball drops?
+
+('have', 'we/(Rachel and friends)', 'a big party', 's01_e10_c05_u018')
+[s01_e10_c05_u018] Rachel Green: Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.
+
+('know', 'no-one', 'who is with who', 's01_e10_c05_u018')
+[s01_e10_c05_u018] Rachel Green: Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.
+
+('be', 'who', None, 's01_e10_c05_u018')
+[s01_e10_c05_u018] Rachel Green: Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.
+
+('be', 'who', 'with who', 's01_e10_c05_u018')
+[s01_e10_c05_u018] Rachel Green: Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.
+
+('be', 'this', 'not what I needed right now', 's01_e10_c05_u019')
+[s01_e10_c05_u019] Ross Geller: Hey, y'know, this is so not what I needed right now.
+
+('need', 'I/Ross Geller', 'this', 's01_e10_c05_u019')
+[s01_e10_c05_u019] Ross Geller: Hey, y'know, this is so not what I needed right now.
+
+('be', 'what', 'the matter', 's01_e10_c05_u020')
+[s01_e10_c05_u020] Monica Geller: What's the matter?
+
+('be', 'it', 'Marcel', 's01_e10_c05_u021')
+[s01_e10_c05_u021] Ross Geller: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+
+('keep', 'he/Marcel', 'shutting me out', 's01_e10_c05_u021')
+[s01_e10_c05_u021] Ross Geller: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+
+('shut', 'he/Marcel', 'out me', 's01_e10_c05_u021')
+[s01_e10_c05_u021] Ross Geller: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+
+('walk', 'he/Marcel', 'around', 's01_e10_c05_u021')
+[s01_e10_c05_u021] Ross Geller: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+
+('drag', 'he/Marcel', 'his hands', 's01_e10_c05_u021')
+[s01_e10_c05_u021] Ross Geller: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+
+('be', 'that', 'so weird', 's01_e10_c05_u022')
+[s01_e10_c05_u022] Chandler Bing: That's so weird, I had such a blast with him the other night.
+
+('have', 'I/Chandler Bing', 'such a blast', 's01_e10_c05_u022')
+[s01_e10_c05_u022] Chandler Bing: That's so weird, I had such a blast with him the other night.
+
+('have', 'I/Chandler Bing', 'with him', 's01_e10_c05_u022')
+[s01_e10_c05_u022] Chandler Bing: That's so weird, I had such a blast with him the other night.
+
+('play', 'we/(Chandler Bing and Marcel)', None, 's01_e10_c05_u024')
+[s01_e10_c05_u024] Chandler Bing: Yeah, we played, we watched TV.. that juggling thing is amazing.
+
+('watch', 'we/(Chandler Bing and Marcel)', 'TV', 's01_e10_c05_u024')
+[s01_e10_c05_u024] Chandler Bing: Yeah, we played, we watched TV.. that juggling thing is amazing.
+
+('be', 'that juggling thing', 'amazing', 's01_e10_c05_u024')
+[s01_e10_c05_u024] Chandler Bing: Yeah, we played, we watched TV.. that juggling thing is amazing.
+
+('figure', 'I/Chandler Bing', 'you taught him that', 's01_e10_c05_u026')
+[s01_e10_c05_u026] Chandler Bing: With the balled-up socks? I figured you taught him that.
+
+('teach', 'you/Ross Geller', 'that', 's01_e10_c05_u026')
+[s01_e10_c05_u026] Chandler Bing: With the balled-up socks? I figured you taught him that.
+
+('be', 'it', 'not that big a deal', 's01_e10_c05_u028')
+[s01_e10_c05_u028] Chandler Bing: Y'know, it wasn't that big a deal. He just balled up socks... and a melon...
+
+('ball', 'he/Marcel', 'up socks and a melon', 's01_e10_c05_u028')
+[s01_e10_c05_u028] Chandler Bing: Y'know, it wasn't that big a deal. He just balled up socks... and a melon...
+
+('know', 'you/Max', 'everybody', 's01_e10_c05_u031')
+[s01_e10_c05_u031] Phoebe Buffay: Oh, hi Max! Hey, do you know everybody?
+
+('see', 'you/Phoebe Buffay', 'David', 's01_e10_c05_u032')
+[s01_e10_c05_u032] Max: No. Have you seen David?
+
+('be', 'he/David', 'around', 's01_e10_c05_u033')
+[s01_e10_c05_u033] Phoebe Buffay: No, no, he hasn't been around.
+
+('see', 'you/Phoebe Buffay', 'him', 's01_e10_c05_u034')
+[s01_e10_c05_u034] Max: Well, if you see him, tell him to pack his bags. We are going to Minsk.
+
+('tell', 'you/Phoebe Buffay', 'to pack his bags', 's01_e10_c05_u034')
+[s01_e10_c05_u034] Max: Well, if you see him, tell him to pack his bags. We are going to Minsk.
+
+('pack', 'him/David', 'his bags', 's01_e10_c05_u034')
+[s01_e10_c05_u034] Max: Well, if you see him, tell him to pack his bags. We are going to Minsk.
+
+('go', 'we/(Max and David)', 'to Minsk', 's01_e10_c05_u034')
+[s01_e10_c05_u034] Max: Well, if you see him, tell him to pack his bags. We are going to Minsk.
+
+('be', 'it/Minsk', None, 's01_e10_c05_u036')
+[s01_e10_c05_u036] Max: Minsk. It's in Russia.
+
+('be', 'it/Minsk', 'in Russia', 's01_e10_c05_u036')
+[s01_e10_c05_u036] Max: Minsk. It's in Russia.
+
+('know', 'I/Phoebe Buffay', 'where Minsk is', 's01_e10_c05_u037')
+[s01_e10_c05_u037] Phoebe Buffay: I know where Minsk is.
+
+('be', 'Minsk', None, 's01_e10_c05_u037')
+[s01_e10_c05_u037] Phoebe Buffay: I know where Minsk is.
+
+('get', 'we/(Max and David)', 'the grant', 's01_e10_c05_u038')
+[s01_e10_c05_u038] Max: We got the grant. Three years, all expenses paid.
+
+('leave', 'you/Max', None, 's01_e10_c05_u039')
+[s01_e10_c05_u039] Phoebe Buffay: So when, when do you leave?
+

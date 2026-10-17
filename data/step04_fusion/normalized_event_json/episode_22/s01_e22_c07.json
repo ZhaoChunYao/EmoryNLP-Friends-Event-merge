@@ -1,0 +1,178 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c07_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u001_e1",
+          "tuples": [
+            "('do', 'we/Monica Geller+Ethan', 'what', 's01_e22_c07_u001')",
+            "('be', 'what we did', 'wrong', 's01_e22_c07_u001')",
+            "('have', 'I/Monica Geller', 'sex', 's01_e22_c07_u001')",
+            "('have sex', 'I/Monica Geller', 'with somebody', 's01_e22_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u001_e2",
+          "tuples": [
+            "('be', 'somebody', 'alive', 's01_e22_c07_u001')",
+            "('be', 'somebody', 'during the Bicentennial', 's01_e22_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u002",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u002_e1",
+          "tuples": [
+            "('have', 'I/Ethan', 'sex', 's01_e22_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u003_e1",
+          "tuples": [
+            "('focus', 'Ethan', None, 's01_e22_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u003_e2",
+          "tuples": [
+            "('tell', 'you/Ethan', 'me', 's01_e22_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u004_e1",
+          "tuples": [
+            "('tell', 'you/Monica Geller', 'me', 's01_e22_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u004_e2",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'old', 's01_e22_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u005_e1",
+          "tuples": [
+            "('be', 'that', 'different', 's01_e22_c07_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u005_e2",
+          "tuples": [
+            "('make', 'My lie', 'one of us a felon', 's01_e22_c07_u005')",
+            "('make', 'My lie', 'in 48 states', 's01_e22_c07_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u005_e3",
+          "tuples": [
+            "('think', 'you/Ethan', 'what', 's01_e22_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u006",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u006_e1",
+          "tuples": [
+            "('think', 'I/Ethan', None, 's01_e22_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u006_e2",
+          "tuples": [
+            "('be', 'I/Ethan', \"too busy fallin'\", 's01_e22_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u007_e1",
+          "tuples": [
+            "('say', 'you/Ethan', 'it', 's01_e22_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u008",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u008_e1",
+          "tuples": [
+            "('fall', 'I/Ethan', 'in love', 's01_e22_c07_u008')",
+            "('fall', 'I/Ethan', 'with you', 's01_e22_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c07_u011",
+      "events": [
+        {
+          "event_id": "s01_e22_c07_u011_e1",
+          "tuples": [
+            "('fall', 'you/Ethan', 'out of it', 's01_e22_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u011_e2",
+          "tuples": [
+            "('know', 'you/Ethan', None, 's01_e22_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u011_e3",
+          "tuples": [
+            "('be', 'you/Ethan', 'here', 's01_e22_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u011_e4",
+          "tuples": [
+            "('be', 'it', 'a school night', 's01_e22_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u011_e5",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'like those women that you see with shiny guys named Chad', 's01_e22_c07_u011')",
+            "('see', 'you/Ethan', 'those women', 's01_e22_c07_u011')",
+            "('see', 'you/Ethan', 'with shiny guys named Chad', 's01_e22_c07_u011')",
+            "('name', 'shiny guys', 'Chad', 's01_e22_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c07_u011_e6",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'Joan Collins', 's01_e22_c07_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

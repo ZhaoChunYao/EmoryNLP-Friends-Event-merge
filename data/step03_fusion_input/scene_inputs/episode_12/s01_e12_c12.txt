@@ -1,0 +1,111 @@
+('be', 'you/Rachel Green', 'okay', 's01_e12_c12_u001')
+[s01_e12_c12_u001] Phoebe Buffay: Are you okay?
+
+('need', 'I/Rachel Green', 'some milk', 's01_e12_c12_u002')
+[s01_e12_c12_u002] Rachel Green: I need some milk.
+
+('get', 'I/Phoebe Buffay', 'milk', 's01_e12_c12_u003')
+[s01_e12_c12_u003] Phoebe Buffay: Ok, I've got milk Here you go... Oh! Better?
+
+('go', 'you/Rachel Green', 'here', 's01_e12_c12_u003')
+[s01_e12_c12_u003] Phoebe Buffay: Ok, I've got milk Here you go... Oh! Better?
+
+('feel', 'I/Rachel Green', 'so stupid', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('think', 'I/Rachel Green', 'about the other day with you guys', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('be', 'I/Rachel Green', "all 'Oh, Paolo, he's so great, he makes me feel so...'", 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('be', 'he/Paolo', 'so great', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('make', 'he/Paolo', 'me feel so...', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('feel', 'me/Rachel Green', 'so...', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('be', 'I/Rachel Green', 'so embarrassed', 's01_e12_c12_u004')
+[s01_e12_c12_u004] Rachel Green: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all "Oh, Paolo, he's so great, he makes me feel so..." Oh, God, I'm so embarrassed!
+
+('be', 'I/Phoebe Buffay', 'so embarrassed', 's01_e12_c12_u005')
+[s01_e12_c12_u005] Phoebe Buffay: I'm so embarrassed, I'm the one he hit on!
+
+('be', 'I/Phoebe Buffay', 'the one he hit on', 's01_e12_c12_u005')
+[s01_e12_c12_u005] Phoebe Buffay: I'm so embarrassed, I'm the one he hit on!
+
+('hit', 'he/Paolo', 'on me', 's01_e12_c12_u005')
+[s01_e12_c12_u005] Phoebe Buffay: I'm so embarrassed, I'm the one he hit on!
+
+('meet', 'I/Rachel Green', 'him', 's01_e12_c12_u007')
+[s01_e12_c12_u007] Rachel Green: Pheebs, if I had never met him this never would have happened!
+
+('happen', 'this', None, 's01_e12_c12_u007')
+[s01_e12_c12_u007] Rachel Green: Pheebs, if I had never met him this never would have happened!
+
+('be', 'I/Phoebe Buffay', 'so sorry', 's01_e12_c12_u008')
+[s01_e12_c12_u008] Phoebe Buffay, Rachel Green: I'm so sorry! No I'm sorry! No I'm sorry! No I'm sorry!
+
+('be', 'I/Rachel Green', 'so sorry', 's01_e12_c12_u008')
+[s01_e12_c12_u008] Phoebe Buffay, Rachel Green: I'm so sorry! No I'm sorry! No I'm sorry! No I'm sorry!
+
+('wait', 'you/Rachel Green', None, 's01_e12_c12_u009')
+[s01_e12_c12_u009] Phoebe Buffay: No, wait, oh, what are we sorry about?
+
+('be', 'we/Phoebe Buffay and Rachel Green', 'sorry', 's01_e12_c12_u009')
+[s01_e12_c12_u009] Phoebe Buffay: No, wait, oh, what are we sorry about?
+
+('be', 'he/Paolo', 'the pig', 's01_e12_c12_u010')
+[s01_e12_c12_u010] Rachel Green: I don't know...right, he's the pig!
+
+('be', 'he/Paolo', 'such a pig', 's01_e12_c12_u012')
+[s01_e12_c12_u012] Rachel Green: Oh, God, he's such a pig,
+
+('be', 'he/Paolo', 'like a...', 's01_e12_c12_u013')
+[s01_e12_c12_u013] Phoebe Buffay: Oh he's like a...
+
+('be', 'he/Paolo', 'like a big disgusting...', 's01_e12_c12_u014')
+[s01_e12_c12_u014] Rachel Green: He's like a big disgusting...
+
+('be', 'he/Paolo', 'my pig man', 's01_e12_c12_u018')
+[s01_e12_c12_u018] Rachel Green: Oh, but he was my pig man...how did I not see this?
+
+('see', 'I/Rachel Green', 'this', 's01_e12_c12_u018')
+[s01_e12_c12_u018] Rachel Green: Oh, but he was my pig man...how did I not see this?
+
+('know', 'I/Phoebe Buffay', None, 's01_e12_c12_u019')
+[s01_e12_c12_u019] Phoebe Buffay: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
+
+('be', 'it', 'because...', 's01_e12_c12_u019')
+[s01_e12_c12_u019] Phoebe Buffay: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
+
+('be', 'he/Paolo', 'gorgeous', 's01_e12_c12_u019')
+[s01_e12_c12_u019] Phoebe Buffay: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
+
+('be', 'he/Paolo', 'charming', 's01_e12_c12_u019')
+[s01_e12_c12_u019] Phoebe Buffay: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
+
+('look', 'he/Paolo', 'at you', 's01_e12_c12_u019')
+[s01_e12_c12_u019] Phoebe Buffay: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...
+
+('tell', 'I/Phoebe Buffay', 'you', 's01_e12_c12_u023')
+[s01_e12_c12_u023] Phoebe Buffay: Should I not have told you?
+
+('trust', 'you/Phoebe Buffay', 'me', 's01_e12_c12_u024')
+[s01_e12_c12_u024] Rachel Green: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...
+
+('be', 'it', 'much better that I know', 's01_e12_c12_u024')
+[s01_e12_c12_u024] Rachel Green: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...
+
+('know', 'I/Rachel Green', None, 's01_e12_c12_u024')
+[s01_e12_c12_u024] Rachel Green: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...
+
+('like', 'I/Rachel Green', 'it better', 's01_e12_c12_u024')
+[s01_e12_c12_u024] Rachel Green: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...
+
+('be', 'it', 'better', 's01_e12_c12_u024')
+[s01_e12_c12_u024] Rachel Green: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...
+

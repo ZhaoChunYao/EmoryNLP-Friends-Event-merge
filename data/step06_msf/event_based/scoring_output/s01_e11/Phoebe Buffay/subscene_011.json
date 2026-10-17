@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and assertive: introduces self, volunteers details (“I shaved you,” “I sang to you”), and challenges the minimal thanks (“that’s all you intend to say”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helpful and considerate: says both he and Speaker_01 took care of Speaker_02, gives a gift (Etch-a-Sketch), provides care (shaving, singing), and responds politely (“you’re welcome”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Demonstrates responsibility and follow-through by actively caring for Speaker_02, including specific, attentive tasks like shaving and consistently noting what was done."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and composure—states actions matter-of-factly and directly presses for a fuller response without signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays creative, expressive behavior by singing and choosing a playful, creative gift (Etch-a-Sketch)."
+  }
+}

@@ -1,0 +1,42 @@
+('go', "it/Mr. Douglas's situation", None, 's01_e16_c07_u001')
+[s01_e16_c07_u001] Chandler Bing: Mr. D, hows it going, sir?
+
+('be', "it/Mr. Douglas's situation", 'better', 's01_e16_c07_u002')
+[s01_e16_c07_u002] Mr. Douglas: Ohh, its been better. The Annual Net Usage Statistics are in.
+
+('be', 'The Annual Net Usage Statistics', 'in', 's01_e16_c07_u002')
+[s01_e16_c07_u002] Mr. Douglas: Ohh, its been better. The Annual Net Usage Statistics are in.
+
+('be', 'it/ANUS report', 'pretty ugly', 's01_e16_c07_u004')
+[s01_e16_c07_u004] Mr. Douglas: Its pretty ugly. We havent seen an ANUS this bad since the seventies.
+
+('see', 'we/Mr. Douglas', 'an ANUS this bad since the seventies', 's01_e16_c07_u004')
+[s01_e16_c07_u004] Mr. Douglas: Its pretty ugly. We havent seen an ANUS this bad since the seventies.
+
+('mean', 'this/ANUS report', 'what', 's01_e16_c07_u005')
+[s01_e16_c07_u005] Chandler Bing: So what does this mean?
+
+('lay off', 'we/Mr. Douglas', 'people in every department', 's01_e16_c07_u006')
+[s01_e16_c07_u006] Mr. Douglas: Well, were gonna be layin off people in every department.
+
+('listen', 'you/Mr. Douglas', None, 's01_e16_c07_u007')
+[s01_e16_c07_u007] Chandler Bing: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;
+
+('know', 'I/Chandler Bing', 'I came in late last week', 's01_e16_c07_u007')
+[s01_e16_c07_u007] Chandler Bing: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;
+
+('come in', 'I/Chandler Bing', None, 's01_e16_c07_u007')
+[s01_e16_c07_u007] Chandler Bing: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;
+
+('sleep', 'I/Chandler Bing', 'funny', 's01_e16_c07_u007')
+[s01_e16_c07_u007] Chandler Bing: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;
+
+('be', 'my hair', 'very very', 's01_e16_c07_u007')
+[s01_e16_c07_u007] Chandler Bing: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;
+
+('relax', 'you/Chandler Bing', None, 's01_e16_c07_u008')
+[s01_e16_c07_u008] Mr. Douglas: Not you. Relax. Ever have to fire anyone?
+
+('fire', 'you/Chandler Bing', 'anyone', 's01_e16_c07_u008')
+[s01_e16_c07_u008] Mr. Douglas: Not you. Relax. Ever have to fire anyone?
+

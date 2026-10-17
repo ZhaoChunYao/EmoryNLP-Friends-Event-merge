@@ -1,0 +1,105 @@
+event_id: s01_e19_c08_u001_e1
+utterance_id: s01_e19_c08_u001
+  tuple: ('be', 'it/(expletive)', 'nice to get this off finally', 's01_e19_c08_u001')
+  tuple: ('get', 'we/(Ross Geller and Rachel Green)', 'off this', 's01_e19_c08_u001')
+
+event_id: s01_e19_c08_u001_e2
+utterance_id: s01_e19_c08_u001
+  tuple: ('leave', 'we/(Ross Geller and Rachel Green)', 'it', 's01_e19_c08_u001')
+  tuple: ('leave', 'we/(Ross Geller and Rachel Green)', 'for now', 's01_e19_c08_u001')
+  tuple: ('be', 'that/(leaving it on for now)', 'fine', 's01_e19_c08_u001')
+
+event_id: s01_e19_c08_u002_e1
+utterance_id: s01_e19_c08_u002
+  tuple: ('know', 'you/(Ross Geller)', None, 's01_e19_c08_u002')
+
+event_id: s01_e19_c08_u002_e2
+utterance_id: s01_e19_c08_u002
+  tuple: ('be', "that/(what you're wearing)", 'a great little outfit', 's01_e19_c08_u002')
+  tuple: ('be', "that/(what you're wearing)", 'with the right pair of pumps', 's01_e19_c08_u002')
+
+event_id: s01_e19_c08_u003_e1
+utterance_id: s01_e19_c08_u003
+  tuple: ('listen', 'you/(Rachel Green)', None, 's01_e19_c08_u003')
+
+event_id: s01_e19_c08_u003_e2
+utterance_id: s01_e19_c08_u003
+  tuple: ('be', 'I/(Ross Geller)', 'sorry', 's01_e19_c08_u003')
+
+event_id: s01_e19_c08_u003_e3
+utterance_id: s01_e19_c08_u003
+  tuple: ('be', 'I/(Ross Geller)', 'so hard', 's01_e19_c08_u003')
+  tuple: ('be', 'I/(Ross Geller)', 'on you', 's01_e19_c08_u003')
+
+event_id: s01_e19_c08_u003_e4
+utterance_id: s01_e19_c08_u003
+  tuple: ('be', 'it/(expletive)', 'I', 's01_e19_c08_u003')
+
+event_id: s01_e19_c08_u004_e1
+utterance_id: s01_e19_c08_u004
+  tuple: ('come', 'you/(Ross Geller)', 'on', 's01_e19_c08_u004')
+
+event_id: s01_e19_c08_u004_e2
+utterance_id: s01_e19_c08_u004
+  tuple: ('be', 'it/(expletive)', 'my fault', 's01_e19_c08_u004')
+  tuple: ('lose', 'I/(Rachel Green)', 'your...', 's01_e19_c08_u004')
+
+event_id: s01_e19_c08_u005_e1
+utterance_id: s01_e19_c08_u005
+  tuple: ('be', 'you/(Rachel Green)', 'the one', 's01_e19_c08_u005')
+  tuple: ('get', 'you/(Rachel Green)', 'him', 's01_e19_c08_u005')
+  tuple: ('be', 'you/(Rachel Green)', 'great', 's01_e19_c08_u005')
+
+event_id: s01_e19_c08_u005_e2
+utterance_id: s01_e19_c08_u005
+  tuple: ('know', 'you/(Rachel Green)', None, 's01_e19_c08_u005')
+
+event_id: s01_e19_c08_u005_e3
+utterance_id: s01_e19_c08_u005
+  tuple: ('have', 'we/(Ross Geller and Rachel Green)', 'that bottle of wine', 's01_e19_c08_u005')
+
+event_id: s01_e19_c08_u005_e4
+utterance_id: s01_e19_c08_u005
+  tuple: ('be', 'you/(Rachel Green)', 'in the mood', 's01_e19_c08_u005')
+  tuple: ('be', 'you/(Rachel Green)', 'for something grape', 's01_e19_c08_u005')
+
+event_id: s01_e19_c08_u006_e1
+utterance_id: s01_e19_c08_u006
+  tuple: ('be', 'that/(wine)', 'good', 's01_e19_c08_u006')
+
+event_id: s01_e19_c08_u007_e1
+utterance_id: s01_e19_c08_u007
+  tuple: ('vacuum', 'the neighbours', None, 's01_e19_c08_u007')
+
+event_id: s01_e19_c08_u007_e2
+utterance_id: s01_e19_c08_u007
+  tuple: ('be', 'we/(Ross Geller and Rachel Green)', 'here', 's01_e19_c08_u007')
+  tuple: ('be', 'we/(Ross Geller and Rachel Green)', 'on the subject', 's01_e19_c08_u007')
+
+event_id: s01_e19_c08_u007_e3
+utterance_id: s01_e19_c08_u007
+  tuple: ('think', 'I/(Ross Geller)', 'about how mad we got at each other before', 's01_e19_c08_u007')
+  tuple: ('think', 'I/(Ross Geller)', 'maybe it was partially because of how we', 's01_e19_c08_u007')
+  tuple: ('be', 'it/(expletive)', 'partially because of how we', 's01_e19_c08_u007')
+
+event_id: s01_e19_c08_u007_e4
+utterance_id: s01_e19_c08_u007
+  tuple: ('get', 'we/(Ross Geller and Rachel Green)', 'mad', 's01_e19_c08_u007')
+  tuple: ('get', 'we/(Ross Geller and Rachel Green)', 'at each other', 's01_e19_c08_u007')
+
+event_id: s01_e19_c08_u011_e1
+utterance_id: s01_e19_c08_u011
+  tuple: ('do', 'I/(Barry Farber)', 'it', 's01_e19_c08_u011')
+  tuple: ('marry', 'I/(Barry Farber)', 'Mindy', 's01_e19_c08_u011')
+
+event_id: s01_e19_c08_u011_e2
+utterance_id: s01_e19_c08_u011
+  tuple: ('think', 'I/(Barry Farber)', "I'm still in love with you", 's01_e19_c08_u011')
+  tuple: ('be', 'I/(Barry Farber)', 'still in love', 's01_e19_c08_u011')
+  tuple: ('be', 'I/(Barry Farber)', 'with you', 's01_e19_c08_u011')
+
+event_id: s01_e19_c08_u013_e1
+utterance_id: s01_e19_c08_u013
+  tuple: ('start', 'we/(Ross Geller and Rachel Green)', 'locking that door', 's01_e19_c08_u013')
+  tuple: ('lock', 'we/(Ross Geller and Rachel Green)', 'that door', 's01_e19_c08_u013')
+

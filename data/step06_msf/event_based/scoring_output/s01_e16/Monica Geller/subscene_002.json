@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly confronts Speaker_01 about not telling Speaker_02 about her job and delivers a blunt critique ('world's thinnest argument'), showing assertive, outspoken behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Mocks and dismisses Speaker_01's excuse as 'the world's thinnest argument' and criticizes her, indicating low warmth and cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Speaker_01 notes TargetSpeaker still hasn't taken down the Christmas lights, suggesting procrastination/disorganization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Expresses disbelief and criticism confidently with no signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear behavior indicating curiosity/imagination or rigid dogmatism beyond a single dismissal; insufficient evidence for either side."
+  }
+}

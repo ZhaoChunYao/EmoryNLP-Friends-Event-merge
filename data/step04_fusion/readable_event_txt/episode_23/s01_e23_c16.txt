@@ -1,0 +1,168 @@
+event_id: s01_e23_c16_u001_e1
+utterance_id: s01_e23_c16_u001
+  tuple: ('be', 'This/(being stuck in a closet with you)', 'all your fault', 's01_e23_c16_u001')
+  tuple: ('stick', 'I/Ross Geller', 'in a closet', 's01_e23_c16_u001')
+  tuple: ('stick', 'I/Ross Geller', 'with you', 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u001_e2
+utterance_id: s01_e23_c16_u001
+  tuple: ('suppose', 'This/(this day)', 'to be the greatest day of my life', 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u001_e3
+utterance_id: s01_e23_c16_u001
+  tuple: ('be born', 'My son', None, 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u001_e4
+utterance_id: s01_e23_c16_u001
+  tuple: ('be', 'I/Ross Geller', None, 's01_e23_c16_u001')
+  tuple: ('be', 'I/Ross Geller', 'in there', 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u001_e5
+utterance_id: s01_e23_c16_u001
+  tuple: ('come', 'you/Susan Bunch', None, 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u001_e6
+utterance_id: s01_e23_c16_u001
+  tuple: ('know', 'you/Susan Bunch', None, 's01_e23_c16_u001')
+
+event_id: s01_e23_c16_u002_e1
+utterance_id: s01_e23_c16_u002
+  tuple: ('have', 'The woman I love', 'a baby', 's01_e23_c16_u002')
+
+event_id: s01_e23_c16_u002_e2
+utterance_id: s01_e23_c16_u002
+  tuple: ('love', 'I/Susan Bunch', 'The woman', 's01_e23_c16_u002')
+
+event_id: s01_e23_c16_u002_e3
+utterance_id: s01_e23_c16_u002
+  tuple: ('wait', 'I/Susan Bunch', 'for this', 's01_e23_c16_u002')
+
+event_id: s01_e23_c16_u003_e1
+utterance_id: s01_e23_c16_u003
+  tuple: ('believe', 'you/Susan Bunch', 'me', 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u003_e2
+utterance_id: s01_e23_c16_u003
+  tuple: ('wait', 'No one', 'for this', 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u003_e3
+utterance_id: s01_e23_c16_u003
+  tuple: ('be over', 'this day', None, 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u003_e4
+utterance_id: s01_e23_c16_u003
+  tuple: ('get', 'you/Susan Bunch', 'to go home with the baby', 's01_e23_c16_u003')
+  tuple: ('go', 'you/Susan Bunch', 'home', 's01_e23_c16_u003')
+  tuple: ('go', 'you/Susan Bunch', 'with the baby', 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u003_e5
+utterance_id: s01_e23_c16_u003
+  tuple: ('leave', 'that/(you go home with the baby)', 'me', 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u003_e6
+utterance_id: s01_e23_c16_u003
+  tuple: ('be', 'the funny thing', None, 's01_e23_c16_u003')
+
+event_id: s01_e23_c16_u004_e1
+utterance_id: s01_e23_c16_u004
+  tuple: ('get', 'you/Ross Geller', "to be the baby's father", 's01_e23_c16_u004')
+  tuple: ('be', 'you/Ross Geller', "the baby's father", 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u004_e2
+utterance_id: s01_e23_c16_u004
+  tuple: ('know', 'Everyone', 'who you are', 's01_e23_c16_u004')
+  tuple: ('be', 'you/Ross Geller', 'who', 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u004_e3
+utterance_id: s01_e23_c16_u004
+  tuple: ('be', 'I/Susan Bunch', 'who', 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u004_e4
+utterance_id: s01_e23_c16_u004
+  tuple: ('be', 'There', "Mother's Day", 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u004_e5
+utterance_id: s01_e23_c16_u004
+  tuple: ('be', 'There', "Father's Day", 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u004_e6
+utterance_id: s01_e23_c16_u004
+  tuple: ('be', 'There', 'no Lesbian Lover Day', 's01_e23_c16_u004')
+
+event_id: s01_e23_c16_u005_e1
+utterance_id: s01_e23_c16_u005
+  tuple: ('be', 'Every day', 'Lesbian Lover Day', 's01_e23_c16_u005')
+
+event_id: s01_e23_c16_u006_e1
+utterance_id: s01_e23_c16_u006
+  tuple: ('be', 'This/(situation)', 'so great', 's01_e23_c16_u006')
+
+event_id: s01_e23_c16_u007_e1
+utterance_id: s01_e23_c16_u007
+  tuple: ('want', 'you/Phoebe Buffay', 'to explain that', 's01_e23_c16_u007')
+  tuple: ('explain', 'you/Phoebe Buffay', 'that', 's01_e23_c16_u007')
+
+event_id: s01_e23_c16_u008_e1
+utterance_id: s01_e23_c16_u008
+  tuple: ('mean', 'I/Phoebe Buffay', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e2
+utterance_id: s01_e23_c16_u008
+  tuple: ('grow up', 'I/Phoebe Buffay', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e3
+utterance_id: s01_e23_c16_u008
+  tuple: ('know', 'you/(Ross Geller and Susan Bunch)', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e4
+utterance_id: s01_e23_c16_u008
+  tuple: ('leave', 'my dad', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e5
+utterance_id: s01_e23_c16_u008
+  tuple: ('die', 'my mother', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e6
+utterance_id: s01_e23_c16_u008
+  tuple: ('go', 'my stepfather', 'to jail', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e7
+utterance_id: s01_e23_c16_u008
+  tuple: ('have', 'I/Phoebe Buffay', 'enough pieces of parents to make one whole one', 's01_e23_c16_u008')
+  tuple: ('make', 'I/Phoebe Buffay', 'one whole one', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e8
+utterance_id: s01_e23_c16_u008
+  tuple: ('be', 'Here', 'this little baby', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e9
+utterance_id: s01_e23_c16_u008
+  tuple: ('have', 'who/this little baby', 'like three whole parents', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e10
+utterance_id: s01_e23_c16_u008
+  tuple: ('care', 'who/three whole parents', 'about it', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e11
+utterance_id: s01_e23_c16_u008
+  tuple: ('fight', 'they/three whole parents', 'over who gets to love it the most', 's01_e23_c16_u008')
+  tuple: ('get', 'who/which parent', 'to love it the most', 's01_e23_c16_u008')
+  tuple: ('love', 'who/which parent', 'it', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e12
+utterance_id: s01_e23_c16_u008
+  tuple: ('be born', 'It/(the baby)', None, 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e13
+utterance_id: s01_e23_c16_u008
+  tuple: ('be', 'It/(the baby)', 'the luckiest baby in the whole world', 's01_e23_c16_u008')
+  tuple: ('be', 'It/(the baby)', 'in the whole world', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e14
+utterance_id: s01_e23_c16_u008
+  tuple: ('be', 'I/Phoebe Buffay', 'sorry', 's01_e23_c16_u008')
+
+event_id: s01_e23_c16_u008_e15
+utterance_id: s01_e23_c16_u008
+  tuple: ('fight', 'you/(Ross Geller and Susan Bunch)', None, 's01_e23_c16_u008')
+

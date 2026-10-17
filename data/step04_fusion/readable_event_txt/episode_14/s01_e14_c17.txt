@@ -1,0 +1,20 @@
+event_id: s01_e14_c17_u001_e1
+utterance_id: s01_e14_c17_u001
+  tuple: ('tell', 'you guys/(Fireman No. 2 & Fireman No. 3)', 'them that you were married', 's01_e14_c17_u001')
+
+event_id: s01_e14_c17_u001_e2
+utterance_id: s01_e14_c17_u001
+  tuple: ('marry', 'you/(Fireman No. 2 & Fireman No. 3)', None, 's01_e14_c17_u001')
+
+event_id: s01_e14_c17_u003_e1
+utterance_id: s01_e14_c17_u003
+  tuple: ('kid', 'you/(Fireman No. 1)', None, 's01_e14_c17_u003')
+
+event_id: s01_e14_c17_u003_e2
+utterance_id: s01_e14_c17_u003
+  tuple: ('know', "my girlfriend/(Fireman No. 3's girlfriend)", None, 's01_e14_c17_u003')
+
+event_id: s01_e14_c17_u003_e3
+utterance_id: s01_e14_c17_u003
+  tuple: ('tell', 'I/(Fireman No. 3)', 'them', 's01_e14_c17_u003')
+

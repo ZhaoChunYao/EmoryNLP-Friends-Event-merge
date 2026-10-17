@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker explicitly says they are \"a little shy,\" indicating a reserved demeanor."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Apart from politely requesting help (\"needs more money\" / \"Fifteen\"), there is no clear behavior showing either generosity/straightforwardness or the opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete signs of being organized or careless; stating the needed amount (\"Fifteen\") is minimal and not strongly indicative."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "By describing themselves as \"a little shy,\" TargetSpeaker shows some lack of confidence or social nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity/inventiveness or dogmatism/caution is shown in this exchange."
+  }
+}

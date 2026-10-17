@@ -1,0 +1,66 @@
+('help', 'you/Nurse Sizemore', 'me', 's01_e17_c11_u001')
+[s01_e17_c11_u001] Ross Geller: You've got to help me my monkey swallowed a 'K'!
+
+('swallow', 'my monkey', "a 'K'", 's01_e17_c11_u001')
+[s01_e17_c11_u001] Ross Geller: You've got to help me my monkey swallowed a 'K'!
+
+('go', 'you/Ross Geller', 'get that animal outta here', 's01_e17_c11_u003')
+[s01_e17_c11_u003] Nurse Sizemore: You go get that animal outta here.
+
+('get', 'you/Ross Geller', 'that animal', 's01_e17_c11_u003')
+[s01_e17_c11_u003] Nurse Sizemore: You go get that animal outta here.
+
+('get', 'you/Ross Geller', 'outta here', 's01_e17_c11_u003')
+[s01_e17_c11_u003] Nurse Sizemore: You go get that animal outta here.
+
+('understand', 'you/Nurse Sizemore', None, 's01_e17_c11_u004')
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+
+('be', 'the animal hospital', 'way across town', 's01_e17_c11_u004')
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+
+('choke', 'he/Marcel', None, 's01_e17_c11_u004')
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+
+('know', 'I/Ross Geller', 'what else to do', 's01_e17_c11_u004')
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+
+('do', 'I/Ross Geller', 'what else', 's01_e17_c11_u004')
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+
+('go on', 'what', None, 's01_e17_c11_u005')
+[s01_e17_c11_u005] Monica Geller: What's goin' on?
+
+('swallow', 'Marcel', 'a Scrabble tile', 's01_e17_c11_u007')
+[s01_e17_c11_u007] Chandler Bing: Marcel swallowed a Scrabble tile.
+
+('excuse', 'you/Ross Geller', 'me', 's01_e17_c11_u010')
+[s01_e17_c11_u010] Nurse Sizemore: Excuse me... This hospital is for people!
+
+('be', 'This hospital', 'for people', 's01_e17_c11_u010')
+[s01_e17_c11_u010] Nurse Sizemore: Excuse me... This hospital is for people!
+
+('be', 'he/Marcel', 'people', 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('have', 'he/Marcel', 'a name', 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('watch', 'he/Marcel', 'Jeopardy!', 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('touch', 'he/Marcel', 'himself', 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('watch', 'nobody', None, 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('have', 'you/Nurse Sizemore', 'a heart', 's01_e17_c11_u011')
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+
+('take', 'I/Dr. Mitchell', 'a look at him', 's01_e17_c11_u013')
+[s01_e17_c11_u013] Dr. Mitchell: I'll take a look at him.
+
+('thank', 'Monica Geller, Rachel Green', 'you', 's01_e17_c11_u015')
+[s01_e17_c11_u015] Monica Geller, Rachel Green: Oh, thank you.
+

@@ -1,0 +1,78 @@
+event_id: s01_e16_c14_u001_e1
+utterance_id: s01_e16_c14_u001
+  tuple: ('have', 'you/Chandler Bing', 'a sec', 's01_e16_c14_u001')
+
+event_id: s01_e16_c14_u002_e1
+utterance_id: s01_e16_c14_u002
+  tuple: ('be', 'what', 'up', 's01_e16_c14_u002')
+
+event_id: s01_e16_c14_u003_e1
+utterance_id: s01_e16_c14_u003
+  tuple: ('know', 'I/Nina Bookbinder', None, 's01_e16_c14_u003')
+
+event_id: s01_e16_c14_u003_e2
+utterance_id: s01_e16_c14_u003
+  tuple: ('avoid', 'people', 'me', 's01_e16_c14_u003')
+  tuple: ('avoid', 'people', 'for the past couple days', 's01_e16_c14_u003')
+
+event_id: s01_e16_c14_u003_e3
+utterance_id: s01_e16_c14_u003
+  tuple: ('give', 'people', 'me these really strange looks', 's01_e16_c14_u003')
+
+event_id: s01_e16_c14_u004_e1
+utterance_id: s01_e16_c14_u004
+  tuple: ('be', 'that', 'because theyre jealous', 's01_e16_c14_u004')
+  tuple: ('be', 'they/people', 'jealous', 's01_e16_c14_u004')
+  tuple: ('be', 'they/people', 'of us', 's01_e16_c14_u004')
+
+event_id: s01_e16_c14_u005_e1
+utterance_id: s01_e16_c14_u005
+  tuple: ('explain', 'that', 'why they keep taking my scissors', 's01_e16_c14_u005')
+
+event_id: s01_e16_c14_u005_e2
+utterance_id: s01_e16_c14_u005
+  tuple: ('take', 'they/people', 'my scissors', 's01_e16_c14_u005')
+
+event_id: s01_e16_c14_u006_e1
+utterance_id: s01_e16_c14_u006
+  tuple: ('be', 'that', 'because youre getting a big raise', 's01_e16_c14_u006')
+  tuple: ('get', 'you/Nina Bookbinder', 'a big raise', 's01_e16_c14_u006')
+
+event_id: s01_e16_c14_u007_e1
+utterance_id: s01_e16_c14_u007
+  tuple: ('be', 'I/Nina Bookbinder', None, 's01_e16_c14_u007')
+
+event_id: s01_e16_c14_u009_e1
+utterance_id: s01_e16_c14_u009
+  tuple: ('be', 'you/Chandler Bing', 'amazing', 's01_e16_c14_u009')
+
+event_id: s01_e16_c14_u010_e1
+utterance_id: s01_e16_c14_u010
+  tuple: ('know', 'you/Nina Bookbinder', None, 's01_e16_c14_u010')
+
+event_id: s01_e16_c14_u010_e2
+utterance_id: s01_e16_c14_u010
+  tuple: ('make sure', 'you/Helen', 'we put through the paperwork on Miss Bookbinders raise', 's01_e16_c14_u010')
+
+event_id: s01_e16_c14_u010_e3
+utterance_id: s01_e16_c14_u010
+  tuple: ('put', 'we/Chandler Bing and Helen', 'through the paperwork', 's01_e16_c14_u010')
+  tuple: ('put', 'we/Chandler Bing and Helen', 'on Miss Bookbinders raise', 's01_e16_c14_u010')
+
+event_id: s01_e16_c14_u011_e1
+utterance_id: s01_e16_c14_u011
+  tuple: ('want', 'you/Chandler Bing', 'me to send her psychological profile to Personnel', 's01_e16_c14_u011')
+
+event_id: s01_e16_c14_u011_e2
+utterance_id: s01_e16_c14_u011
+  tuple: ('send', 'me/Helen', 'her psychological profile', 's01_e16_c14_u011')
+  tuple: ('send', 'me/Helen', 'to Personnel', 's01_e16_c14_u011')
+
+event_id: s01_e16_c14_u013_e1
+utterance_id: s01_e16_c14_u013
+  tuple: ('drink', 'Helen', None, 's01_e16_c14_u013')
+
+event_id: s01_e16_c14_u013_e2
+utterance_id: s01_e16_c14_u013
+  tuple: ('marry', 'you/Nina Bookbinder', 'me', 's01_e16_c14_u013')
+

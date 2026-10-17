@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Directly confronts Speaker_01 during the breakup and bluntly states harsh opinions face-to-face."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Calls Speaker_01 a horrible human being and says bad things should happen to them."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; only emotional confrontation is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows strong negative affect (anger/vengefulness) by insulting and wishing harm on Speaker_01."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or rigidity in this brief exchange."
+  }
+}

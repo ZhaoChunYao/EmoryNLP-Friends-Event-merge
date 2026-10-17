@@ -1,0 +1,176 @@
+event_id: s01_e18_c02_u001_e1
+utterance_id: s01_e18_c02_u001
+  tuple: ('draw', 'we/(Chandler Bing+Monica Geller+Rachel Green+Phoebe Buffay+Ross Geller+Joey Tribbiani)', 'cards', 's01_e18_c02_u001')
+
+event_id: s01_e18_c02_u002_e1
+utterance_id: s01_e18_c02_u002
+  tuple: ('need', 'I/(Monica Geller)', 'any', 's01_e18_c02_u002')
+  tuple: ('have', 'I/(Monica Geller)', 'a straight', 's01_e18_c02_u002')
+
+event_id: s01_e18_c02_u006_e1
+utterance_id: s01_e18_c02_u006
+  tuple: ('want', 'you/(Phoebe Buffay)', 'how many', 's01_e18_c02_u006')
+
+event_id: s01_e18_c02_u007_e1
+utterance_id: s01_e18_c02_u007
+  tuple: ('need', 'I/(Phoebe Buffay)', 'two — the ten of spades and the six of clubs', 's01_e18_c02_u007')
+
+event_id: s01_e18_c02_u008_e1
+utterance_id: s01_e18_c02_u008
+  tuple: ('do', 'you/(Phoebe Buffay)', None, 's01_e18_c02_u008')
+
+event_id: s01_e18_c02_u009_e1
+utterance_id: s01_e18_c02_u009
+  tuple: ('have', 'I/(Rachel Green)', 'the ten of spades', 's01_e18_c02_u009')
+
+event_id: s01_e18_c02_u010_e1
+utterance_id: s01_e18_c02_u010
+  tuple: ('do', 'you/(Rachel Green)', 'that', 's01_e18_c02_u010')
+
+event_id: s01_e18_c02_u011_e1
+utterance_id: s01_e18_c02_u011
+  tuple: ('be', 'that', 'OK', 's01_e18_c02_u011')
+  tuple: ('need', 'I/(Rachel Green)', 'them', 's01_e18_c02_u011')
+  tuple: ('go', 'I/(Rachel Green)', 'for fours', 's01_e18_c02_u011')
+
+event_id: s01_e18_c02_u014_e1
+utterance_id: s01_e18_c02_u014
+  tuple: ('go', 'we/(Monica Geller+Rachel Green+Phoebe Buffay+Ross Geller+Chandler Bing+Joey Tribbiani)', None, 's01_e18_c02_u014')
+  tuple: ('get', 'we/(Monica Geller+Rachel Green)', 'salmon roulettes and assorted crudites', 's01_e18_c02_u014')
+
+event_id: s01_e18_c02_u016_e1
+utterance_id: s01_e18_c02_u016
+  tuple: ('do', 'you/(Monica Geller)', 'what', 's01_e18_c02_u016')
+  tuple: ('be', 'this', 'a poker game', 's01_e18_c02_u016')
+  tuple: ('serve', 'you/(Monica Geller)', 'food', 's01_e18_c02_u016')
+  tuple: ('serve', 'you/(Monica Geller)', 'with more than one syllable', 's01_e18_c02_u016')
+  tuple: ('be', 'it', 'like chips, or dip, or pretz', 's01_e18_c02_u016')
+
+event_id: s01_e18_c02_u018_e1
+utterance_id: s01_e18_c02_u018
+  tuple: ('know', 'you/(Chandler Bing)', None, 's01_e18_c02_u018')
+  tuple: ('get', 'we/(Monica Geller+Rachel Green+Phoebe Buffay+Ross Geller+Chandler Bing+Joey Tribbiani)', 'it', 's01_e18_c02_u018')
+  tuple: ('play', 'we/(Monica Geller+Rachel Green+Phoebe Buffay+Ross Geller+Chandler Bing+Joey Tribbiani)', None, 's01_e18_c02_u018')
+  tuple: ('play', 'we/(Monica Geller+Rachel Green+Phoebe Buffay+Ross Geller+Chandler Bing+Joey Tribbiani)', 'for real', 's01_e18_c02_u018')
+
+event_id: s01_e18_c02_u019_e1
+utterance_id: s01_e18_c02_u019
+  tuple: ('be', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'sure', 's01_e18_c02_u019')
+
+event_id: s01_e18_c02_u019_e2
+utterance_id: s01_e18_c02_u019
+  tuple: ('throw away', 'Phoebe Buffay', 'two jacks', 's01_e18_c02_u019')
+  tuple: ('look', 'they', 'happy', 's01_e18_c02_u019')
+
+event_id: s01_e18_c02_u020_e1
+utterance_id: s01_e18_c02_u020
+  tuple: ('be', 'I/(Phoebe Buffay)', 'ready', 's01_e18_c02_u020')
+
+event_id: s01_e18_c02_u020_e2
+utterance_id: s01_e18_c02_u020
+  tuple: ('deal', 'you/(Chandler Bing)', None, 's01_e18_c02_u020')
+
+event_id: s01_e18_c02_u021_e1
+utterance_id: s01_e18_c02_u021
+  tuple: ('deal', 'you/(Monica Geller)', 'the cards', 's01_e18_c02_u021')
+
+event_id: s01_e18_c02_u024_e1
+utterance_id: s01_e18_c02_u024
+  tuple: ('see', 'I/(Phoebe Buffay)', None, 's01_e18_c02_u024')
+  tuple: ('lie', 'you/(Joey Tribbiani)', None, 's01_e18_c02_u024')
+
+event_id: s01_e18_c02_u026_e1
+utterance_id: s01_e18_c02_u026
+  tuple: ('be', 'your cards', 'good', 's01_e18_c02_u026')
+
+event_id: s01_e18_c02_u027_e1
+utterance_id: s01_e18_c02_u027
+  tuple: ('bluff', 'I/(Joey Tribbiani)', None, 's01_e18_c02_u027')
+
+event_id: s01_e18_c02_u028_e1
+utterance_id: s01_e18_c02_u028
+  tuple: ('be', 'what', 'bluffing', 's01_e18_c02_u028')
+  tuple: ('be', 'it', 'another word for lying', 's01_e18_c02_u028')
+
+event_id: s01_e18_c02_u029_e1
+utterance_id: s01_e18_c02_u029
+  tuple: ('break up', 'I/(Rachel Green)', 'this party', 's01_e18_c02_u029')
+
+event_id: s01_e18_c02_u029_e2
+utterance_id: s01_e18_c02_u029
+  tuple: ('get', 'I/(Rachel Green)', 'resumes to fax', 's01_e18_c02_u029')
+  tuple: ('fax', 'I/(Rachel Green)', 'resumes', 's01_e18_c02_u029')
+  tuple: ('fax', 'I/(Rachel Green)', 'before work tomorrow', 's01_e18_c02_u029')
+
+event_id: s01_e18_c02_u031_e1
+utterance_id: s01_e18_c02_u031
+  tuple: ('settle', 'we/(Chandler Bing+Ross Geller+Joey Tribbiani+Monica Geller+Rachel Green+Phoebe Buffay)', None, 's01_e18_c02_u031')
+
+event_id: s01_e18_c02_u032_e1
+utterance_id: s01_e18_c02_u032
+  tuple: ('settle', 'we/(Chandler Bing+Ross Geller+Joey Tribbiani+Monica Geller+Rachel Green+Phoebe Buffay)', 'what', 's01_e18_c02_u032')
+
+event_id: s01_e18_c02_u033_e1
+utterance_id: s01_e18_c02_u033
+  tuple: ('see', 'you/(Rachel Green)', None, 's01_e18_c02_u033')
+  tuple: ('give', 'King George', 'us the land', 's01_e18_c02_u033')
+
+event_id: s01_e18_c02_u034_e1
+utterance_id: s01_e18_c02_u034
+  tuple: ('owe', 'you/(Rachel Green)', 'us money', 's01_e18_c02_u034')
+  tuple: ('owe', 'you/(Rachel Green)', 'for the game', 's01_e18_c02_u034')
+
+event_id: s01_e18_c02_u036_e1
+utterance_id: s01_e18_c02_u036
+  tuple: ('know', 'you/(guys)', 'what', 's01_e18_c02_u036')
+  tuple: ('be', 'it', 'their first time', 's01_e18_c02_u036')
+  tuple: ('forget', 'we/(Chandler Bing+Ross Geller+Joey Tribbiani+Monica Geller+Rachel Green+Phoebe Buffay)', 'about the money', 's01_e18_c02_u036')
+
+event_id: s01_e18_c02_u037_e1
+utterance_id: s01_e18_c02_u037
+  tuple: ('pay', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', None, 's01_e18_c02_u037')
+
+event_id: s01_e18_c02_u038_e1
+utterance_id: s01_e18_c02_u038
+  tuple: ('have', 'I/(Phoebe Buffay)', 'another answer all ready', 's01_e18_c02_u038')
+
+event_id: s01_e18_c02_u039_e1
+utterance_id: s01_e18_c02_u039
+  tuple: ('know', 'you/(everyone)', 'what', 's01_e18_c02_u039')
+  tuple: ('want', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', 'a rematch', 's01_e18_c02_u039')
+
+event_id: s01_e18_c02_u040_e1
+utterance_id: s01_e18_c02_u040
+  tuple: ('be', 'that', 'fine', 's01_e18_c02_u040')
+  tuple: ('be', 'that', 'with me', 's01_e18_c02_u040')
+  tuple: ('use', 'I/(Ross Geller)', 'the money', 's01_e18_c02_u040')
+
+event_id: s01_e18_c02_u041_e1
+utterance_id: s01_e18_c02_u041
+  tuple: ('get', 'you/(Ross Geller)', 'your ya-yas', 's01_e18_c02_u041')
+  tuple: ('get', 'you/(Ross Geller)', 'by taking money from all of your friends', 's01_e18_c02_u041')
+  tuple: ('take', 'you/(Ross Geller)', 'money', 's01_e18_c02_u041')
+  tuple: ('take', 'you/(Ross Geller)', 'from all of your friends', 's01_e18_c02_u041')
+
+event_id: s01_e18_c02_u043_e1
+utterance_id: s01_e18_c02_u043
+  tuple: ('get', 'I/(Chandler Bing)', 'my ya-yas', 's01_e18_c02_u043')
+  tuple: ('get', 'I/(Chandler Bing)', 'from Ikea', 's01_e18_c02_u043')
+  tuple: ('put', 'you/(generic)', 'them together yourself', 's01_e18_c02_u043')
+  tuple: ('cost', 'they', 'a little less', 's01_e18_c02_u043')
+
+event_id: s01_e18_c02_u044_e1
+utterance_id: s01_e18_c02_u044
+  tuple: ('be', 'this', 'poker', 's01_e18_c02_u044')
+  tuple: ('play', 'I/(Ross Geller)', 'to win', 's01_e18_c02_u044')
+  tuple: ('win', 'I/(Ross Geller)', None, 's01_e18_c02_u044')
+  tuple: ('lose', 'other people', None, 's01_e18_c02_u044')
+  tuple: ('play', 'you/(Rachel Green)', 'poker with me', 's01_e18_c02_u044')
+  tuple: ('expect', 'you/(Rachel Green)', "me to be a 'nice guy'", 's01_e18_c02_u044')
+  tuple: ('be', 'me/(Ross Geller)', "a 'nice guy'", 's01_e18_c02_u044')
+  tuple: ('deal', 'those cards', None, 's01_e18_c02_u044')
+
+event_id: s01_e18_c02_u046_e1
+utterance_id: s01_e18_c02_u046
+  tuple: ('be', 'I/(Ross Geller)', 'a nice guy', 's01_e18_c02_u046')
+

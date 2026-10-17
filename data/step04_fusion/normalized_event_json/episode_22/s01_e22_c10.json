@@ -1,0 +1,332 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u002_e1",
+          "tuples": [
+            "('have', 'Carol and I', 'a new system', 's01_e22_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u002_e2",
+          "tuples": [
+            "('punch', 'she/(Carol)', 'in 911', 's01_e22_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u002_e3",
+          "tuples": [
+            "('mean', 'it/(911)', \"she's having a baby\", 's01_e22_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u002_e4",
+          "tuples": [
+            "('have', 'she/(Carol)', 'a baby', 's01_e22_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u002_e5",
+          "tuples": [
+            "('ignore', 'I/(Ross Geller)', 'it', 's01_e22_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u004_e1",
+          "tuples": [
+            "('get', 'he/(Andre)', 'a call', 's01_e22_c10_u004')",
+            "('get', 'he/(Andre)', 'from who I think was our cousin Nathan', 's01_e22_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u004_e2",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', 'who was our cousin Nathan', 's01_e22_c10_u004')",
+            "('be', 'who', 'our cousin Nathan', 's01_e22_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u004_e3",
+          "tuples": [
+            "('be', 'it', 'a little more than I needed to know', 's01_e22_c10_u004')",
+            "('need', 'I/(Ross Geller)', 'to know', 's01_e22_c10_u004')",
+            "('know', 'I/(Ross Geller)', None, 's01_e22_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u007_e1",
+          "tuples": [
+            "('be', 'that/(hey)', 'my opener', 's01_e22_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u008_e1",
+          "tuples": [
+            "('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'those new hand-dryers', 's01_e22_c10_u008')",
+            "('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'in the bathroom', 's01_e22_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u009_e1",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', 'that was just a rumour', 's01_e22_c10_u009')",
+            "('be', 'that', 'just a rumour', 's01_e22_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u011_e1",
+          "tuples": [
+            "('be', 'they/(hand-dryers)', 'here already', 's01_e22_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u013",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u013_e1",
+          "tuples": [
+            "('look', 'you/(Monica Geller)', None, 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e2",
+          "tuples": [
+            "('tell', 'I/(Ethan)', 'you something', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e3",
+          "tuples": [
+            "('be', 'I/(Ethan)', 'not 17', 's01_e22_c10_u013')",
+            "('be', 'I/(Ethan)', 'actually 30', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e4",
+          "tuples": [
+            "('say', 'I/(Ethan)', \"so that you'd think I was cute and vunerable\", 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e5",
+          "tuples": [
+            "('think', 'you/(Monica Geller)', 'I was cute and vunerable', 's01_e22_c10_u013')",
+            "('be', 'I/(Ethan)', 'cute and vunerable', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e6",
+          "tuples": [
+            "('have', 'I/(Ethan)', 'a wife', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e7",
+          "tuples": [
+            "('have', 'I/(Ethan)', 'a job', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e8",
+          "tuples": [
+            "('be', 'I/(Ethan)', 'your Congressman', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e9",
+          "tuples": [
+            "('be', 'this', 'ridiculous', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e10",
+          "tuples": [
+            "('be', 'we/(Ethan and Monica Geller)', 'great together', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e11",
+          "tuples": [
+            "('talk', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e12",
+          "tuples": [
+            "('make', 'we/(Ethan and Monica Geller)', 'each other laugh', 's01_e22_c10_u013')",
+            "('laugh', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e13",
+          "tuples": [
+            "('have', 'I/(Ethan)', 'no frame of graft', 's01_e22_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u013_e14",
+          "tuples": [
+            "('think', 'I/(Ethan)', 'that was great', 's01_e22_c10_u013')",
+            "('be', 'that/(sex)', 'great', 's01_e22_c10_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u014",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u014_e1",
+          "tuples": [
+            "('be', 'it/(sex)', None, 's01_e22_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u015",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u015_e1",
+          "tuples": [
+            "('be', 'what', 'the problem', 's01_e22_c10_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u016",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u016_e1",
+          "tuples": [
+            "('be', 'it/(relationship with Ethan)', 'icky', 's01_e22_c10_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u017",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u017_e1",
+          "tuples": [
+            "('throw', 'you/(Monica Geller)', \"this away because it's icky\", 's01_e22_c10_u017')",
+            "('throw away', 'you/(Monica Geller)', 'this', 's01_e22_c10_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u018",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u018_e1",
+          "tuples": [
+            "('be', 'this', 'easy for me either', 's01_e22_c10_u018')",
+            "('be', 'this', 'for me', 's01_e22_c10_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u018_e2",
+          "tuples": [
+            "('wish', 'I/(Monica Geller)', 'things were different', 's01_e22_c10_u018')",
+            "('be', 'things', 'different', 's01_e22_c10_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u018_e3",
+          "tuples": [
+            "('be', 'you/(Ethan)', 'a few years older', 's01_e22_c10_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u018_e4",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'a few years younger', 's01_e22_c10_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c10_u018_e5",
+          "tuples": [
+            "('live', 'we/(Monica Geller and Ethan)', None, 's01_e22_c10_u018')",
+            "('live', 'we/(Monica Geller and Ethan)', 'in biblical times', 's01_e22_c10_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u019",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u019_e1",
+          "tuples": [
+            "('say', 'you/(Monica Geller)', 'it', 's01_e22_c10_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u020",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u020_e1",
+          "tuples": [
+            "('love', 'I/(Monica Geller)', 'you', 's01_e22_c10_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u022",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u022_e1",
+          "tuples": [
+            "('be', 'your hands/(Joey Tribbiani)', 'still wet', 's01_e22_c10_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c10_u024",
+      "events": [
+        {
+          "event_id": "s01_e22_c10_u024_e1",
+          "tuples": [
+            "('dry', 'us/(Rachel Green and Joey Tribbiani)', \"'em again\", 's01_e22_c10_u024')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u001_e1",
+          "tuples": [
+            "('miss', 'I/Janice Litman Goralnik', 'you', 's01_e14_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u001_e2",
+          "tuples": [
+            "('believe', 'you/Chandler Bing', 'this happened', 's01_e14_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u001_e3",
+          "tuples": [
+            "('happen', 'this', None, 's01_e14_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u002_e1",
+          "tuples": [
+            "('do', 'it', None, 's01_e14_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u003_e1",
+          "tuples": [
+            "('kiss', 'you/Chandler Bing', 'me', 's01_e14_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u009",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u009_e1",
+          "tuples": [
+            "('be', 'this', 'very special', 's01_e14_c08_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u010",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u010_e1",
+          "tuples": [
+            "('come', 'you/Rachel Green', \"see who's out here\", 's01_e14_c08_u010')",
+            "('see', 'you/Rachel Green', 'who is out here', 's01_e14_c08_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u010_e2",
+          "tuples": [
+            "('be', 'who', 'out here', 's01_e14_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u013",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u013_e1",
+          "tuples": [
+            "('go away', 'Janice', None, 's01_e14_c08_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u014",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u014_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'right back', 's01_e14_c08_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u016",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u016_e1",
+          "tuples": [
+            "('look', 'you/Joey Tribbiani', 'who it is', 's01_e14_c08_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u016_e2",
+          "tuples": [
+            "('be', 'it', 'who', 's01_e14_c08_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u018",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u018_e1",
+          "tuples": [
+            "('be', 'Joey', 'home now', 's01_e14_c08_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u019",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u019_e1",
+          "tuples": [
+            "('be', 'This', 'so fun', 's01_e14_c08_u019')",
+            "('be', 'This', 'like a reunion in the hall', 's01_e14_c08_u019')",
+            "('be', 'This', 'in the hall', 's01_e14_c08_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u021",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u021_e1",
+          "tuples": [
+            "('be', 'there', 'someone I want you to say hi to', 's01_e14_c08_u021')",
+            "('want', 'I/Monica Geller', 'you to say hi', 's01_e14_c08_u021')",
+            "('say', 'you/Ross Geller', 'hi', 's01_e14_c08_u021')",
+            "('say', 'you/Ross Geller', 'to someone', 's01_e14_c08_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u021_e2",
+          "tuples": [
+            "('happen', 'He/Ross Geller', 'to call', 's01_e14_c08_u021')",
+            "('call', 'He/Ross Geller', None, 's01_e14_c08_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c08_u022",
+      "events": [
+        {
+          "event_id": "s01_e14_c08_u022_e1",
+          "tuples": [
+            "('be', 'it', 'me', 's01_e14_c08_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c08_u022_e2",
+          "tuples": [
+            "('know', 'you/Ross Geller', None, 's01_e14_c08_u022')"
+          ]
+        }
+      ]
+    }
+  ]
+}

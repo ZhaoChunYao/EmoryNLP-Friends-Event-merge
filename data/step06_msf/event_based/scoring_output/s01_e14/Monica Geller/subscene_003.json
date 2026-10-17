@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks if there is more beer and then asks a clarifying question; no clear outgoing or energetic behavior shown."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interactions are neutral and cooperative but provide no strong signs of generosity or conflict; no clear agreeableness or disagreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from asking what kind of ritual it is, there is no organizing, planning, or carelessness evident."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; questions are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "When a cleansing ritual is proposed, TargetSpeaker responds, “Ok, well, what kind of ritual?”, showing curiosity and willingness to consider the idea."
+  }
+}

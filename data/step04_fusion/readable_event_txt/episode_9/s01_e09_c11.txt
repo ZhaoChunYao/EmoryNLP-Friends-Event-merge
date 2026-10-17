@@ -1,0 +1,100 @@
+event_id: s01_e09_c11_u001_e1
+utterance_id: s01_e09_c11_u001
+  tuple: ('tell', 'everyone', 'me', 's01_e09_c11_u001')
+  tuple: ('pick', 'you/Ross Geller', 'a major', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e2
+utterance_id: s01_e09_c11_u001
+  tuple: ('pick', 'I/Ross Geller', 'paleontology', 's01_e09_c11_u001')
+  tuple: ('pick', 'I/Ross Geller', 'on a dare', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e3
+utterance_id: s01_e09_c11_u001
+  tuple: ('have', 'you/Fetus', 'no idea', 's01_e09_c11_u001')
+  tuple: ('say', 'I/Ross Geller', 'what', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e4
+utterance_id: s01_e09_c11_u001
+  tuple: ('let', 'us/Ross Geller and Fetus', 'face it', 's01_e09_c11_u001')
+  tuple: ('face', 'us/Ross Geller and Fetus', 'it', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e5
+utterance_id: s01_e09_c11_u001
+  tuple: ('be', 'you/Fetus', 'a fetus', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e6
+utterance_id: s01_e09_c11_u001
+  tuple: ('be', 'you/Fetus', 'happy', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u001_e7
+utterance_id: s01_e09_c11_u001
+  tuple: ('have', 'you/Fetus', 'gills', 's01_e09_c11_u001')
+
+event_id: s01_e09_c11_u002_e1
+utterance_id: s01_e09_c11_u002
+  tuple: ('look', 'you/Ross Geller', None, 's01_e09_c11_u002')
+
+event_id: s01_e09_c11_u002_e2
+utterance_id: s01_e09_c11_u002
+  tuple: ('talk', 'you/Ross Geller', 'to it', 's01_e09_c11_u002')
+
+event_id: s01_e09_c11_u002_e3
+utterance_id: s01_e09_c11_u002
+  tuple: ('sing', 'you/Ross Geller', 'to it', 's01_e09_c11_u002')
+  tuple: ('want', 'you/Ross Geller', 'to sing to it', 's01_e09_c11_u002')
+
+event_id: s01_e09_c11_u003_e1
+utterance_id: s01_e09_c11_u003
+  tuple: ('sing', 'I/Ross Geller', 'to your stomach', 's01_e09_c11_u003')
+
+event_id: s01_e09_c11_u005_e1
+utterance_id: s01_e09_c11_u005
+  tuple: ('go', 'it/(situation)', None, 's01_e09_c11_u005')
+
+event_id: s01_e09_c11_u006_e1
+utterance_id: s01_e09_c11_u006
+  tuple: ('come', 'we/Ross Geller', None, 's01_e09_c11_u006')
+  tuple: ('walk', 'we/Ross Geller', 'down the street', 's01_e09_c11_u006')
+  tuple: ('get', 'we/Ross Geller', 'the funniest looks', 's01_e09_c11_u006')
+  tuple: ('get', 'we/Ross Geller', 'from everyone we meet', 's01_e09_c11_u006')
+  tuple: ('meet', 'we/Ross Geller', 'everyone', 's01_e09_c11_u006')
+
+event_id: s01_e09_c11_u006_e2
+utterance_id: s01_e09_c11_u006
+  tuple: ('feel', 'you/Carol Willick', 'that', 's01_e09_c11_u006')
+
+event_id: s01_e09_c11_u007_e1
+utterance_id: s01_e09_c11_u007
+  tuple: ('do', 'I/Carol Willick', None, 's01_e09_c11_u007')
+
+event_id: s01_e09_c11_u008_e1
+utterance_id: s01_e09_c11_u008
+  tuple: ('do', 'it/(the fetus)', None, 's01_e09_c11_u008')
+
+event_id: s01_e09_c11_u009_e1
+utterance_id: s01_e09_c11_u009
+  tuple: ('be', 'that/(movement)', 'the first', 's01_e09_c11_u009')
+
+event_id: s01_e09_c11_u010_e1
+utterance_id: s01_e09_c11_u010
+  tuple: ('keep', 'you/Ross Geller', 'singing', 's01_e09_c11_u010')
+  tuple: ('sing', 'you/Ross Geller', None, 's01_e09_c11_u010')
+
+event_id: s01_e09_c11_u011_e1
+utterance_id: s01_e09_c11_u011
+  tuple: ('be', 'you/Fetus', 'my baby', 's01_e09_c11_u011')
+  tuple: ('wait', 'I/Ross Geller', 'to meet you', 's01_e09_c11_u011')
+  tuple: ('meet', 'I/Ross Geller', 'you', 's01_e09_c11_u011')
+  tuple: ('come', 'you/Fetus', 'out', 's01_e09_c11_u011')
+  tuple: ('buy', 'I/Ross Geller', 'a bagel', 's01_e09_c11_u011')
+  tuple: ('go', 'we/Ross Geller+Fetus', 'to the zoo', 's01_e09_c11_u011')
+
+event_id: s01_e09_c11_u012_e1
+utterance_id: s01_e09_c11_u012
+  tuple: ('feel', 'I/Susan Bunch', 'it', 's01_e09_c11_u012')
+
+event_id: s01_e09_c11_u013_e1
+utterance_id: s01_e09_c11_u013
+  tuple: ('be', 'I/Ross Geller', 'your daddy', 's01_e09_c11_u013')
+  tuple: ('be', 'I/Ross Geller', 'the one without any breasts', 's01_e09_c11_u013')
+

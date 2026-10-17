@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes charge and talks actively: tells the delivery person to wait (u012), presses about the name (u012), reacts with energy (“Oh God,” u019), and excitedly reports seeing pizza in the neighbor’s apartment (u024)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is brusque and insulting toward the delivery person (“You’re nuts,” u021) rather than polite or accommodating."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker quickly pieces together the mix-up (“we have his pizza,” u021) and directs actions (telling the delivery person to wait, u012), showing attentiveness and problem-solving."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "An exclamation (“Oh God,” u019) shows momentary excitement but no sustained anxiety, insecurity, or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and vivid description (“small Mediterranean man with curiously intelligent good looks,” u014; “stunning blue suit,” u016) and actively observes the neighbor’s apartment (u024)."
+  }
+}

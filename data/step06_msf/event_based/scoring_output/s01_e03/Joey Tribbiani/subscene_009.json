@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only speaks briefly (a blunt statement and a quick “Okay!”), not showing clear outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When Speaker_01 suggested they could go on pretending, TargetSpeaker immediately replied “Okay!”, endorsing deception rather than being straightforward or honest."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior shows organization or reliability versus carelessness; agreeing to pretend speaks more to honesty than to planning/efficiency."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker matter-of-factly states the relationship is over and responds without visible distress, indicating composure and confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or inventiveness, nor of rigid dogmatism or caution, are shown in the brief remarks."
+  }
+}

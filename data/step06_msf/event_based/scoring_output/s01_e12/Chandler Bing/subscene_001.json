@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively argues the point, makes vivid remarks about butter impressions, and volunteers a detailed past story about a roommate and a shared hibachi, showing talkativeness and engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Disputes responsibility, claims Speaker_01 owes a table, resists splitting the cost, and tells Speaker_01 not to ask a comparison question—more confrontational than cooperative."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Thinks ahead about the commitment of co-buying a table, considers potential future moves, and cites a prior shared-purchase that turned ugly, showing planning and prudence."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Labels co-buying a table as a 'pretty big commitment,' worries one might move out, and references an ugly past conflict, indicating sensitivity and caution driven by prior stress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Avoids the new joint-purchase arrangement due to caution and a negative past experience, favoring a risk-averse, guarded approach over trying something new."
+  }
+}

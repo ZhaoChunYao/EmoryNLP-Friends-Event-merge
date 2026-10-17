@@ -1,0 +1,23 @@
+Episode: s01_e02
+Scene: s01_e02_c04
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e02_c04_u001 → s01_e02_c04_u008
+Peak window: 0 → 2
+
+Dialogue:
+  [s01_e02_c04_u001]
+  1. TargetSpeaker says Speaker_01's daughter is going to call Speaker_02.
+  2. TargetSpeaker asks what the curry taste in the food is.
+  [s01_e02_c04_u002] Speaker_02: Curry.
+  [s01_e02_c04_u003] TargetSpeaker: Mmmm!
+  [s01_e02_c04_u004]
+  1. Speaker_03 says Speaker_03 thinks the food Speaker_02 cooked is great.
+  [s01_e02_c04_u005]
+  1. Speaker_03 asks Speaker_02 whether Speaker_02 remembers the Speaker_04.
+  2. Speaker_03 says Speaker_01's older daughter had a crush on Speaker_03.
+  [s01_e02_c04_u006]
+  1. TargetSpeaker says Speaker_01's daughters all had a crush on Speaker_03.
+  [s01_e02_c04_u007] Speaker_03: Aw, Mom...
+  [s01_e02_c04_u008]
+  1. Speaker_02 says Speaker_02 is sorry.

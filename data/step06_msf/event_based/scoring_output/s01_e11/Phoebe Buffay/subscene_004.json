@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Tells Speaker_02 to wake up and get up (u002), suggests yelling to wake him (u004), and makes a bold, jokey, sexually charged comment about men’s thoughts (u008), showing outgoing, assertive talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses a wish to help Speaker_02 (u002) and agrees with Speaker_01’s sentiment about him (u010), indicating cooperative, considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or careful planning; suggestions are ad hoc (u002, u004)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and playfully without signs of anxiety while taking charge (u002, u008)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Makes imaginative inferences (knuckle dents mean he’s artistic, u006) and elaborates a thoughtful character sketch (u008)."
+  }
+}

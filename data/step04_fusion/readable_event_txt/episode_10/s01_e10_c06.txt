@@ -1,0 +1,94 @@
+event_id: s01_e10_c06_u004_e1
+utterance_id: s01_e10_c06_u004
+  tuple: ('do', 'you/Phoebe Buffay', None, 's01_e10_c06_u004')
+
+event_id: s01_e10_c06_u005_e1
+utterance_id: s01_e10_c06_u005
+  tuple: ('tell', 'Max', 'me', 's01_e10_c06_u005')
+  tuple: ('tell', 'Max', 'about Minsk', 's01_e10_c06_u005')
+
+event_id: s01_e10_c06_u005_e2
+utterance_id: s01_e10_c06_u005
+  tuple: ('be', 'this/(Minsk news)', 'so exciting', 's01_e10_c06_u005')
+
+event_id: s01_e10_c06_u006_e1
+utterance_id: s01_e10_c06_u006
+  tuple: ('be', 'it/(going to Minsk)', 'even more exciting', 's01_e10_c06_u006')
+
+event_id: s01_e10_c06_u006_e2
+utterance_id: s01_e10_c06_u006
+  tuple: ('go', 'we/Max and David', None, 's01_e10_c06_u006')
+
+event_id: s01_e10_c06_u007_e1
+utterance_id: s01_e10_c06_u007
+  tuple: ('go', 'you/Max and David', None, 's01_e10_c06_u007')
+
+event_id: s01_e10_c06_u008_e1
+utterance_id: s01_e10_c06_u008
+  tuple: ('tell', 'you/David', 'her', 's01_e10_c06_u008')
+
+event_id: s01_e10_c06_u008_e2
+utterance_id: s01_e10_c06_u008
+  tuple: ('want', 'I/David', 'go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono', 's01_e10_c06_u008')
+  tuple: ('go', 'I/David', 'to Minsk', 's01_e10_c06_u008')
+  tuple: ('work', 'I/David', 'with Lifson', 's01_e10_c06_u008')
+  tuple: ('work', 'I/David', 'with Yamaguchi', 's01_e10_c06_u008')
+  tuple: ('work', 'I/David', 'with Flench', 's01_e10_c06_u008')
+  tuple: ('work', 'I/David', 'on nonononononono', 's01_e10_c06_u008')
+
+event_id: s01_e10_c06_u008_e3
+utterance_id: s01_e10_c06_u008
+  tuple: ('want', 'I/David', 'stay here and make out with my girlfriend', 's01_e10_c06_u008')
+  tuple: ('stay', 'I/David', None, 's01_e10_c06_u008')
+  tuple: ('make out', 'I/David', 'with my girlfriend', 's01_e10_c06_u008')
+
+event_id: s01_e10_c06_u009_e1
+utterance_id: s01_e10_c06_u009
+  tuple: ('thank', 'David', 'you', 's01_e10_c06_u009')
+
+event_id: s01_e10_c06_u010_e1
+utterance_id: s01_e10_c06_u010
+  tuple: ('go', 'you/David', None, 's01_e10_c06_u010')
+
+event_id: s01_e10_c06_u011_e1
+utterance_id: s01_e10_c06_u011
+  tuple: ('know', 'I/David', None, 's01_e10_c06_u011')
+  tuple: ('know', 'I/David', "what I'm gonna do", 's01_e10_c06_u011')
+  tuple: ('do', 'I/David', None, 's01_e10_c06_u011')
+
+event_id: s01_e10_c06_u011_e2
+utterance_id: s01_e10_c06_u011
+  tuple: ('decide', 'you/Phoebe Buffay', None, 's01_e10_c06_u011')
+
+event_id: s01_e10_c06_u012_e1
+utterance_id: s01_e10_c06_u012
+  tuple: ('do', 'you/David', 'that', 's01_e10_c06_u012')
+
+event_id: s01_e10_c06_u015_e1
+utterance_id: s01_e10_c06_u015
+  tuple: ('ask', 'I/David', None, 's01_e10_c06_u015')
+
+event_id: s01_e10_c06_u016_e1
+utterance_id: s01_e10_c06_u016
+  tuple: ('do', 'I/Phoebe Buffay', 'that', 's01_e10_c06_u016')
+
+event_id: s01_e10_c06_u018_e1
+utterance_id: s01_e10_c06_u018
+  tuple: ('be', 'it/(the decision)', 'your thing', 's01_e10_c06_u018')
+
+event_id: s01_e10_c06_u019_e1
+utterance_id: s01_e10_c06_u019
+  tuple: ('make', 'you/Phoebe Buffay', 'the decision', 's01_e10_c06_u019')
+
+event_id: s01_e10_c06_u020_e1
+utterance_id: s01_e10_c06_u020
+  tuple: ('stay', 'you/David', None, 's01_e10_c06_u020')
+
+event_id: s01_e10_c06_u024_e1
+utterance_id: s01_e10_c06_u024
+  tuple: ('get', 'you/David', 'so good at that', 's01_e10_c06_u024')
+
+event_id: s01_e10_c06_u025_e1
+utterance_id: s01_e10_c06_u025
+  tuple: ('be', 'it/(the stuff)', "Max's stuff", 's01_e10_c06_u025')
+

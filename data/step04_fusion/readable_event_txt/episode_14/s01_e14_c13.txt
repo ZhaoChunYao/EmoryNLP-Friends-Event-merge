@@ -1,0 +1,54 @@
+event_id: s01_e14_c13_u001_e1
+utterance_id: s01_e14_c13_u001
+  tuple: ('get', 'we/Firemen', 'what', 's01_e14_c13_u001')
+
+event_id: s01_e14_c13_u002_e1
+utterance_id: s01_e14_c13_u002
+  tuple: ('look', 'what', 'like a half-charred picture', 's01_e14_c13_u002')
+
+event_id: s01_e14_c13_u002_e2
+utterance_id: s01_e14_c13_u002
+  tuple: ('be', 'that guy', 'hairier than the Chief', 's01_e14_c13_u002')
+
+event_id: s01_e14_c13_u003_e1
+utterance_id: s01_e14_c13_u003
+  tuple: ('know', 'you/Firemen', None, 's01_e14_c13_u003')
+
+event_id: s01_e14_c13_u003_e2
+utterance_id: s01_e14_c13_u003
+  tuple: ('be', 'it/this situation', 'a really funny story', 's01_e14_c13_u003')
+
+event_id: s01_e14_c13_u003_e3
+utterance_id: s01_e14_c13_u003
+  tuple: ('happen', 'this/this situation', None, 's01_e14_c13_u003')
+
+event_id: s01_e14_c13_u004_e1
+utterance_id: s01_e14_c13_u004
+  tuple: ('be', 'it/this situation', 'all right', 's01_e14_c13_u004')
+
+event_id: s01_e14_c13_u004_e2
+utterance_id: s01_e14_c13_u004
+  tuple: ('explain', 'you/Monica Geller and friends', None, 's01_e14_c13_u004')
+
+event_id: s01_e14_c13_u004_e3
+utterance_id: s01_e14_c13_u004
+  tuple: ('be', 'this/this boyfriend bonfire', 'the first boyfriend bonfire', 's01_e14_c13_u004')
+
+event_id: s01_e14_c13_u004_e4
+utterance_id: s01_e14_c13_u004
+  tuple: ('see', 'we/Firemen', 'that/the boyfriend bonfire', 's01_e14_c13_u004')
+
+event_id: s01_e14_c13_u004_e5
+utterance_id: s01_e14_c13_u004
+  tuple: ('get', 'that/the boyfriend bonfire', None, 's01_e14_c13_u004')
+  tuple: ('get', 'that/the boyfriend bonfire', 'out of control', 's01_e14_c13_u004')
+
+event_id: s01_e14_c13_u005_e1
+utterance_id: s01_e14_c13_u005
+  tuple: ('be', 'you/Monica Geller and friends', 'our third call', 's01_e14_c13_u005')
+
+event_id: s01_e14_c13_u007_e1
+utterance_id: s01_e14_c13_u007
+  tuple: ('be', "Valentine's", 'our busiest night', 's01_e14_c13_u007')
+  tuple: ('be', "Valentine's", 'of the year', 's01_e14_c13_u007')
+

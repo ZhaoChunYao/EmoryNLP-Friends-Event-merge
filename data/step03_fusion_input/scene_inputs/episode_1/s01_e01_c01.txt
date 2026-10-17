@@ -1,0 +1,411 @@
+('tell', 'I/Monica Geller', 'nothing', 's01_e01_c01_u001')
+[s01_e01_c01_u001] Monica Geller: There's nothing to tell! He's just some guy I work with!
+
+('be', 'he', 'some guy', 's01_e01_c01_u001')
+[s01_e01_c01_u001] Monica Geller: There's nothing to tell! He's just some guy I work with!
+
+('work', 'I/Monica Geller', 'with some guy', 's01_e01_c01_u001')
+[s01_e01_c01_u001] Monica Geller: There's nothing to tell! He's just some guy I work with!
+
+('go out', 'you/Monica Geller', 'with the guy', 's01_e01_c01_u002')
+[s01_e01_c01_u002] Joey Tribbiani: C'mon, you're going out with the guy! There's gotta be something wrong with him!
+
+('be', 'there', 'something wrong', 's01_e01_c01_u002')
+[s01_e01_c01_u002] Joey Tribbiani: C'mon, you're going out with the guy! There's gotta be something wrong with him!
+
+('be', 'Joey Tribbiani', 'nice', 's01_e01_c01_u003')
+[s01_e01_c01_u003] Chandler Bing: All right Joey, be nice. So does he have a hump? A hump and a hairpiece?
+
+('have', 'he', 'a hump', 's01_e01_c01_u003')
+[s01_e01_c01_u003] Chandler Bing: All right Joey, be nice. So does he have a hump? A hump and a hairpiece?
+
+('have', 'he', 'a hairpiece', 's01_e01_c01_u003')
+[s01_e01_c01_u003] Chandler Bing: All right Joey, be nice. So does he have a hump? A hump and a hairpiece?
+
+('eat', 'he', 'chalk', 's01_e01_c01_u004')
+[s01_e01_c01_u004] Phoebe Buffay: Wait, does he eat chalk?
+
+('want', 'I/Phoebe Buffay', 'her to go through what I went through with Carl', 's01_e01_c01_u006')
+[s01_e01_c01_u006] Phoebe Buffay: Just, 'cause, I don't want her to go through what I went through with Carl- oh!
+
+('go through', 'she/Monica Geller', 'what I went through', 's01_e01_c01_u006')
+[s01_e01_c01_u006] Phoebe Buffay: Just, 'cause, I don't want her to go through what I went through with Carl- oh!
+
+('go through', 'I/Phoebe Buffay', None, 's01_e01_c01_u006')
+[s01_e01_c01_u006] Phoebe Buffay: Just, 'cause, I don't want her to go through what I went through with Carl- oh!
+
+('go through', 'I/Phoebe Buffay', 'with Carl', 's01_e01_c01_u006')
+[s01_e01_c01_u006] Phoebe Buffay: Just, 'cause, I don't want her to go through what I went through with Carl- oh!
+
+('relax', 'everybody', None, 's01_e01_c01_u007')
+[s01_e01_c01_u007] Monica Geller: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+
+('be', 'this', 'not even a date', 's01_e01_c01_u007')
+[s01_e01_c01_u007] Monica Geller: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+
+('be', 'it', 'two people going out to dinner', 's01_e01_c01_u007')
+[s01_e01_c01_u007] Monica Geller: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+
+('go out', 'two people', 'to dinner', 's01_e01_c01_u007')
+[s01_e01_c01_u007] Monica Geller: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+
+('have', 'two people', 'sex', 's01_e01_c01_u007')
+[s01_e01_c01_u007] Monica Geller: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+
+('sound', 'it', 'like a date', 's01_e01_c01_u008')
+[s01_e01_c01_u008] Chandler Bing: Sounds like a date to me.
+
+('sound', 'it', 'to me', 's01_e01_c01_u008')
+[s01_e01_c01_u008] Chandler Bing: Sounds like a date to me.
+
+('be back', 'I/Chandler Bing', 'in high school', 's01_e01_c01_u010')
+[s01_e01_c01_u010] Chandler Bing: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.
+
+('stand', 'I/Chandler Bing', 'in the middle of the cafeteria', 's01_e01_c01_u010')
+[s01_e01_c01_u010] Chandler Bing: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.
+
+('realize', 'I/Chandler Bing', 'I am totally naked', 's01_e01_c01_u010')
+[s01_e01_c01_u010] Chandler Bing: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.
+
+('be', 'I/Chandler Bing', 'totally naked', 's01_e01_c01_u010')
+[s01_e01_c01_u010] Chandler Bing: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.
+
+('have', 'we/(ALL)', 'that dream', 's01_e01_c01_u011')
+[s01_e01_c01_u011] #ALL#: Oh, yeah. Had that dream.
+
+('look down', 'I/Chandler Bing', None, 's01_e01_c01_u012')
+[s01_e01_c01_u012] Chandler Bing: Then I look down, and I realize there's a phone... there.
+
+('realize', 'I/Chandler Bing', 'there is a phone there', 's01_e01_c01_u012')
+[s01_e01_c01_u012] Chandler Bing: Then I look down, and I realize there's a phone... there.
+
+('be', 'there', 'a phone', 's01_e01_c01_u012')
+[s01_e01_c01_u012] Chandler Bing: Then I look down, and I realize there's a phone... there.
+
+('be', 'that', 'right', 's01_e01_c01_u014')
+[s01_e01_c01_u014] Chandler Bing: That's right.
+
+('have', 'I/Joey Tribbiani', 'that dream', 's01_e01_c01_u015')
+[s01_e01_c01_u015] Joey Tribbiani: Never had that dream.
+
+('ring', 'the phone', None, 's01_e01_c01_u017')
+[s01_e01_c01_u017] Chandler Bing: All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+
+('know', 'I/Chandler Bing', 'what to do', 's01_e01_c01_u017')
+[s01_e01_c01_u017] Chandler Bing: All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+
+('do', 'I/Chandler Bing', 'what', 's01_e01_c01_u017')
+[s01_e01_c01_u017] Chandler Bing: All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+
+('start', 'everybody', 'looking at me', 's01_e01_c01_u017')
+[s01_e01_c01_u017] Chandler Bing: All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+
+('look at', 'everybody', 'me', 's01_e01_c01_u017')
+[s01_e01_c01_u017] Chandler Bing: All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+
+('look at', 'they/(everybody in cafeteria)', 'you/Chandler Bing', 's01_e01_c01_u018')
+[s01_e01_c01_u018] Monica Geller: And they weren't looking at you before?!
+
+('figure', 'I/Chandler Bing', "I'd better answer it", 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('answer', 'I/Chandler Bing', 'it', 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('turn out', 'it', "it's my mother", 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('be', 'it', 'my mother', 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('be', 'which', 'very-very weird', 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('call', "she/(Chandler's mother)", 'me', 's01_e01_c01_u019')
+[s01_e01_c01_u019] Chandler Bing: Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!
+
+('say', 'this guy', 'hello', 's01_e01_c01_u022')
+[s01_e01_c01_u022] Joey Tribbiani: This guy says hello, I wanna kill myself.
+
+('want', 'I/Joey Tribbiani', 'to kill myself', 's01_e01_c01_u022')
+[s01_e01_c01_u022] Joey Tribbiani: This guy says hello, I wanna kill myself.
+
+('kill', 'I/Joey Tribbiani', 'myself', 's01_e01_c01_u022')
+[s01_e01_c01_u022] Joey Tribbiani: This guy says hello, I wanna kill myself.
+
+('be', 'you/Ross Geller', 'okay', 's01_e01_c01_u023')
+[s01_e01_c01_u023] Monica Geller: Are you okay, sweetie?
+
+('feel like', 'I/Ross Geller', 'someone reached down my throat', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('reach', 'someone', 'down my throat', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('grab', 'someone', 'my small intestine', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('pull', 'someone', 'it', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('pull', 'someone', 'out of my mouth', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('tie', 'someone', 'it', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('tie', 'someone', 'around my neck', 's01_e01_c01_u024')
+[s01_e01_c01_u024] Ross Geller: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+
+('move out', 'Carol', 'her stuff', 's01_e01_c01_u026')
+[s01_e01_c01_u026] Monica Geller: Carol moved her stuff out today.
+
+('let', 'me/Monica Geller', 'get you some coffee', 's01_e01_c01_u028')
+[s01_e01_c01_u028] Monica Geller: Let me get you some coffee.
+
+('get', 'I/Monica Geller', 'you some coffee', 's01_e01_c01_u028')
+[s01_e01_c01_u028] Monica Geller: Let me get you some coffee.
+
+('stop', 'you/Phoebe Buffay', 'cleansing my aura', 's01_e01_c01_u031')
+[s01_e01_c01_u031] Ross Geller: No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?
+
+('cleanse', 'you/Phoebe Buffay', 'my aura', 's01_e01_c01_u031')
+[s01_e01_c01_u031] Ross Geller: No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?
+
+('leave', 'you/Phoebe Buffay', 'my aura', 's01_e01_c01_u031')
+[s01_e01_c01_u031] Ross Geller: No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?
+
+('be', 'you/Ross Geller', 'murky', 's01_e01_c01_u032')
+[s01_e01_c01_u032] Phoebe Buffay: Fine! Be murky!
+
+('be', 'I/Ross Geller', 'fine', 's01_e01_c01_u033')
+[s01_e01_c01_u033] Ross Geller: I'll be fine, alright? Really, everyone. I hope she'll be very happy.
+
+('hope', 'I/Ross Geller', "she'll be very happy", 's01_e01_c01_u033')
+[s01_e01_c01_u033] Ross Geller: I'll be fine, alright? Really, everyone. I hope she'll be very happy.
+
+('be', 'she/Carol', 'very happy', 's01_e01_c01_u033')
+[s01_e01_c01_u033] Ross Geller: I'll be fine, alright? Really, everyone. I hope she'll be very happy.
+
+('do not', 'you/Ross Geller', None, 's01_e01_c01_u034')
+[s01_e01_c01_u034] Monica Geller: No you don't.
+
+('do not', 'I/Ross Geller', None, 's01_e01_c01_u035')
+[s01_e01_c01_u035] Ross Geller: No I don't, to hell with her, she left me!
+
+('leave', 'she/Carol', 'me', 's01_e01_c01_u035')
+[s01_e01_c01_u035] Ross Geller: No I don't, to hell with her, she left me!
+
+('know', 'you/Ross Geller', 'she was a lesbian', 's01_e01_c01_u036')
+[s01_e01_c01_u036] Joey Tribbiani: And you never knew she was a lesbian...
+
+('be', 'she/Carol', 'a lesbian', 's01_e01_c01_u036')
+[s01_e01_c01_u036] Joey Tribbiani: And you never knew she was a lesbian...
+
+('fixate', 'everyone', 'on that', 's01_e01_c01_u037')
+[s01_e01_c01_u037] Ross Geller: No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?
+
+('know', 'she/Carol', None, 's01_e01_c01_u037')
+[s01_e01_c01_u037] Ross Geller: No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?
+
+('know', 'I/Ross Geller', None, 's01_e01_c01_u037')
+[s01_e01_c01_u037] Ross Geller: No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?
+
+('wish', 'I/Chandler Bing', 'I was a lesbian', 's01_e01_c01_u038')
+[s01_e01_c01_u038] Chandler Bing: Sometimes I wish I was a lesbian... Did I say that out loud?
+
+('be', 'I/Chandler Bing', 'a lesbian', 's01_e01_c01_u038')
+[s01_e01_c01_u038] Chandler Bing: Sometimes I wish I was a lesbian... Did I say that out loud?
+
+('say', 'I/Chandler Bing', 'that', 's01_e01_c01_u038')
+[s01_e01_c01_u038] Chandler Bing: Sometimes I wish I was a lesbian... Did I say that out loud?
+
+('say out loud', 'I/Chandler Bing', 'that', 's01_e01_c01_u038')
+[s01_e01_c01_u038] Chandler Bing: Sometimes I wish I was a lesbian... Did I say that out loud?
+
+('tell', 'I/Ross Geller', 'mom and dad', 's01_e01_c01_u039')
+[s01_e01_c01_u039] Ross Geller: I told mom and dad last night, they seemed to take it pretty well.
+
+('seem', "they/(Ross and Monica's parents)", 'to take it pretty well', 's01_e01_c01_u039')
+[s01_e01_c01_u039] Ross Geller: I told mom and dad last night, they seemed to take it pretty well.
+
+('take', "they/(Ross and Monica's parents)", 'it', 's01_e01_c01_u039')
+[s01_e01_c01_u039] Ross Geller: I told mom and dad last night, they seemed to take it pretty well.
+
+('get', 'I/Monica Geller', 'that hysterical phone call', 's01_e01_c01_u040')
+[s01_e01_c01_u040] Monica Geller: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what? A wrong number?
+
+('get', 'I/Monica Geller', 'from a woman', 's01_e01_c01_u040')
+[s01_e01_c01_u040] Monica Geller: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what? A wrong number?
+
+('have', "I/(Monica and Ross's mother)", 'grandchildren', 's01_e01_c01_u040')
+[s01_e01_c01_u040] Monica Geller: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what? A wrong number?
+
+('be', 'that hysterical phone call', 'what', 's01_e01_c01_u040')
+[s01_e01_c01_u040] Monica Geller: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what? A wrong number?
+
+('be', 'it', 'a wrong number', 's01_e01_c01_u040')
+[s01_e01_c01_u040] Monica Geller: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what? A wrong number?
+
+('look', 'Ross Geller', None, 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('feel', 'you/Ross Geller', 'a lot of pain', 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('be', 'you/Ross Geller', 'angry', 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('hurt', 'you/Ross Geller', None, 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('tell', 'I/Joey Tribbiani', 'you/Ross Geller', 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('be', 'the answer', None, 's01_e01_c01_u042')
+[s01_e01_c01_u042] Joey Tribbiani: Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?
+
+('be', 'you/Ross Geller', 'single', 's01_e01_c01_u044')
+[s01_e01_c01_u044] Joey Tribbiani: Strip joint! C'mon, you're single! Have some hormones!
+
+('have', 'you/Ross Geller', 'some hormones', 's01_e01_c01_u044')
+[s01_e01_c01_u044] Joey Tribbiani: Strip joint! C'mon, you're single! Have some hormones!
+
+('want', 'I/Ross Geller', 'to be single', 's01_e01_c01_u045')
+[s01_e01_c01_u045] Ross Geller: I don't want to be single, okay? I just... I just- I just wanna be married again!
+
+('be', 'I/Ross Geller', 'single', 's01_e01_c01_u045')
+[s01_e01_c01_u045] Ross Geller: I don't want to be single, okay? I just... I just- I just wanna be married again!
+
+('want', 'I/Ross Geller', 'to be married again', 's01_e01_c01_u045')
+[s01_e01_c01_u045] Ross Geller: I don't want to be single, okay? I just... I just- I just wanna be married again!
+
+('be', 'I/Ross Geller', 'married again', 's01_e01_c01_u045')
+[s01_e01_c01_u045] Ross Geller: I don't want to be single, okay? I just... I just- I just wanna be married again!
+
+('want', 'I/Chandler Bing', 'a million dollars', 's01_e01_c01_u047')
+[s01_e01_c01_u047] Chandler Bing: And I just want a million dollars!
+
+('go', 'I/Rachel Green', 'to your building', 's01_e01_c01_u049')
+[s01_e01_c01_u049] Rachel Green: Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!
+
+('be', 'you/Monica Geller', 'there', 's01_e01_c01_u049')
+[s01_e01_c01_u049] Rachel Green: Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!
+
+('say', 'this guy with a big hammer', 'you might be here', 's01_e01_c01_u049')
+[s01_e01_c01_u049] Rachel Green: Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!
+
+('be', 'you/Monica Geller', 'here', 's01_e01_c01_u049')
+[s01_e01_c01_u049] Rachel Green: Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!
+
+('get', 'I/Waitress', 'you some coffee', 's01_e01_c01_u050')
+[s01_e01_c01_u050] Waitress: Can I get you some coffee?
+
+('be', 'this', 'Rachel', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('be', 'this', 'everybody', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('be', 'this', 'Chandler', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('be', 'this', 'Phoebe', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('be', 'this', 'Joey', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('remember', 'you/Rachel Green', 'my brother Ross', 's01_e01_c01_u051')
+[s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+
+('want', 'you/Rachel Green', 'to tell us now', 's01_e01_c01_u055')
+[s01_e01_c01_u055] Monica Geller: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+
+('tell', 'you/Rachel Green', 'us', 's01_e01_c01_u055')
+[s01_e01_c01_u055] Monica Geller: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+
+('wait', 'we/(group at Central Perk)', 'for four wet bridesmaids', 's01_e01_c01_u055')
+[s01_e01_c01_u055] Monica Geller: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+
+('wait', 'we/(group at Central Perk)', None, 's01_e01_c01_u055')
+[s01_e01_c01_u055] Monica Geller: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+
+('start', 'it', None, 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('be', 'I/Rachel Green', 'in the room', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('keep', 'we/(wedding party)', 'all the presents', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('look at', 'I/Rachel Green', 'this gravy boat', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('realize', 'I/Rachel Green', 'that I was more turned on by this gravy boat than by Barry', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('turn on', 'I/Rachel Green', 'by this gravy boat', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('get', 'I/Rachel Green', 'really freaked out', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('hit', 'it', 'me', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('look like', 'Barry', 'Mr. Potato Head', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('know', 'I/Rachel Green', 'he looked familiar', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('look', 'he/Barry', 'familiar', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('get out', 'I/Rachel Green', 'of there', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('start', 'I/Rachel Green', 'wondering why am I doing this', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('wonder', 'I/Rachel Green', 'why am I doing this and who am I doing this for', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('do', 'I/Rachel Green', 'this', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('do', 'I/Rachel Green', 'for who', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('know', 'I/Rachel Green', 'where to go', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('go', 'I/Rachel Green', 'where', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('know', 'I/Rachel Green', 'that you and I have kinda drifted apart', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('drift apart', 'you and I/Monica Geller & Rachel Green', None, 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('be', 'you/Monica Geller', 'the only person I knew who lived here in the city', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('know', 'I/Rachel Green', 'who lived here in the city', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('live', 'you/Monica Geller', 'here in the city', 's01_e01_c01_u056')
+[s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+
+('invite', 'you/Monica Geller', 'to the wedding', 's01_e01_c01_u057')
+[s01_e01_c01_u057] Monica Geller: Who wasn't invited to the wedding.
+
+('hope', 'I/Rachel Green', "that wouldn't be an issue", 's01_e01_c01_u058')
+[s01_e01_c01_u058] Rachel Green: Ooh, I was kinda hoping that wouldn't be an issue...
+
+('be', 'that', 'an issue', 's01_e01_c01_u058')
+[s01_e01_c01_u058] Rachel Green: Ooh, I was kinda hoping that wouldn't be an issue...
+

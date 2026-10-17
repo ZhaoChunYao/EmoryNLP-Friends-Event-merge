@@ -1,0 +1,31 @@
+event_id: s01_e14_c16_u001_e1
+utterance_id: s01_e14_c16_u001
+  tuple: ('get off', 'we/(firemen)', 'around midnight', 's01_e14_c16_u001')
+
+event_id: s01_e14_c16_u001_e2
+utterance_id: s01_e14_c16_u001
+  tuple: ('pick up', 'we/(firemen)', 'you', 's01_e14_c16_u001')
+
+event_id: s01_e14_c16_u002_e1
+utterance_id: s01_e14_c16_u002
+  tuple: ('bring', 'you/(Fireman No. 3)', 'the truck', 's01_e14_c16_u002')
+
+event_id: s01_e14_c16_u003_e1
+utterance_id: s01_e14_c16_u003
+  tuple: ('let', 'I/(Fireman No. 3)', 'you ring the bell', 's01_e14_c16_u003')
+  tuple: ('ring', 'you/(Rachel Green)', 'the bell', 's01_e14_c16_u003')
+
+event_id: s01_e14_c16_u005_e1
+utterance_id: s01_e14_c16_u005
+  tuple: ('see', 'you/(Rachel Green)', None, 's01_e14_c16_u005')
+  tuple: ('go', 'you/(Rachel Green)', None, 's01_e14_c16_u005')
+  tuple: ('work', 'the cleansing', None, 's01_e14_c16_u005')
+
+event_id: s01_e14_c16_u006_e1
+utterance_id: s01_e14_c16_u006
+  tuple: ('be', 'they/(firemen)', 'nice guys', 's01_e14_c16_u006')
+
+event_id: s01_e14_c16_u007_e1
+utterance_id: s01_e14_c16_u007
+  tuple: ('be', 'they/(firemen)', 'firemen guys', 's01_e14_c16_u007')
+

@@ -1,0 +1,68 @@
+event_id: s01_e23_c17_u001_e1
+utterance_id: s01_e23_c17_u001
+  tuple: ('be', 'they/(Ross Geller and Susan Bunch)', None, 's01_e23_c17_u001')
+
+event_id: s01_e23_c17_u002_e1
+utterance_id: s01_e23_c17_u002
+  tuple: ('be sure', 'I/Monica Geller', "they'll be here soon", 's01_e23_c17_u002')
+  tuple: ('be', 'they/(Ross Geller and Susan Bunch)', 'here', 's01_e23_c17_u002')
+
+event_id: s01_e23_c17_u003_e1
+utterance_id: s01_e23_c17_u003
+  tuple: ('miss', 'they/(Ross Geller and Susan Bunch)', 'this', 's01_e23_c17_u003')
+
+event_id: s01_e23_c17_u004_e1
+utterance_id: s01_e23_c17_u004
+  tuple: ('relax', 'you/Carol Willick', None, 's01_e23_c17_u004')
+
+event_id: s01_e23_c17_u004_e2
+utterance_id: s01_e23_c17_u004
+  tuple: ('be', 'you/Carol Willick', None, 's01_e23_c17_u004')
+  tuple: ('be', 'you/Carol Willick', 'at nine centimeters', 's01_e23_c17_u004')
+
+event_id: s01_e23_c17_u004_e3
+utterance_id: s01_e23_c17_u004
+  tuple: ('be', 'the baby', None, 's01_e23_c17_u004')
+  tuple: ('be', 'the baby', 'at zero station', 's01_e23_c17_u004')
+
+event_id: s01_e23_c17_u005_e1
+utterance_id: s01_e23_c17_u005
+  tuple: ('frighten', 'you/Joey Tribbiani', 'me', 's01_e23_c17_u005')
+
+event_id: s01_e23_c17_u007_e1
+utterance_id: s01_e23_c17_u007
+  tuple: ('want', 'Somebody', 'help me', 's01_e23_c17_u007')
+  tuple: ('help', 'Somebody', 'me', 's01_e23_c17_u007')
+
+event_id: s01_e23_c17_u007_e2
+utterance_id: s01_e23_c17_u007
+  tuple: ('try', 'Somebody', 'rip out my heart', 's01_e23_c17_u007')
+  tuple: ('rip', 'Somebody', 'out my heart', 's01_e23_c17_u007')
+
+event_id: s01_e23_c17_u007_e3
+utterance_id: s01_e23_c17_u007
+  tuple: ('be', 'that', 'great', 's01_e23_c17_u007')
+
+event_id: s01_e23_c17_u007_e4
+utterance_id: s01_e23_c17_u007
+  tuple: ('see', 'Anybody', 'a nipple', 's01_e23_c17_u007')
+
+event_id: s01_e23_c17_u008_e1
+utterance_id: s01_e23_c17_u008
+  tuple: ('go', 'we/Dr. Franzblau+staff', 'here', 's01_e23_c17_u008')
+
+event_id: s01_e23_c17_u009_e1
+utterance_id: s01_e23_c17_u009
+  tuple: ('start', 'you/Carol Willick', 'pushing', 's01_e23_c17_u009')
+  tuple: ('push', 'you/Carol Willick', None, 's01_e23_c17_u009')
+
+event_id: s01_e23_c17_u011_e1
+utterance_id: s01_e23_c17_u011
+  tuple: ('be sorry', 'I/Dr. Franzblau', None, 's01_e23_c17_u011')
+
+event_id: s01_e23_c17_u011_e2
+utterance_id: s01_e23_c17_u011
+  tuple: ('tell', 'I/Dr. Franzblau', 'the baby to wait for them', 's01_e23_c17_u011')
+  tuple: ('wait', 'the baby', None, 's01_e23_c17_u011')
+  tuple: ('wait', 'the baby', 'for them', 's01_e23_c17_u011')
+

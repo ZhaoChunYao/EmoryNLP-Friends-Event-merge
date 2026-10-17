@@ -1,0 +1,42 @@
+event_id: s01_e13_c01_u001_e1
+utterance_id: s01_e13_c01_u001
+  tuple: ('be', 'That', 'it', 's01_e13_c01_u001')
+
+event_id: s01_e13_c01_u001_e2
+utterance_id: s01_e13_c01_u001
+  tuple: ('barge', 'you/Chandler Bing', 'in here', 's01_e13_c01_u001')
+  tuple: ('knock', 'you/Chandler Bing', None, 's01_e13_c01_u001')
+
+event_id: s01_e13_c01_u002_e1
+utterance_id: s01_e13_c01_u002
+  tuple: ('be', 'I/Chandler Bing', 'sorry', 's01_e13_c01_u002')
+
+event_id: s01_e13_c01_u003_e1
+utterance_id: s01_e13_c01_u003
+  tuple: ('have', 'you/Chandler Bing', 'no respect', 's01_e13_c01_u003')
+  tuple: ('have', 'you/Chandler Bing', "for anybody's privacy", 's01_e13_c01_u003')
+
+event_id: s01_e13_c01_u004_e1
+utterance_id: s01_e13_c01_u004
+  tuple: ('wait', 'you/Rachel Green', None, 's01_e13_c01_u004')
+
+event_id: s01_e13_c01_u005_e1
+utterance_id: s01_e13_c01_u005
+  tuple: ('wait', 'you/Chandler Bing', None, 's01_e13_c01_u005')
+
+event_id: s01_e13_c01_u005_e2
+utterance_id: s01_e13_c01_u005
+  tuple: ('be', 'This', 'ridiculous', 's01_e13_c01_u005')
+
+event_id: s01_e13_c01_u006_e1
+utterance_id: s01_e13_c01_u006
+  tuple: ('say', 'I/Chandler Bing', 'one thing', 's01_e13_c01_u006')
+
+event_id: s01_e13_c01_u008_e1
+utterance_id: s01_e13_c01_u008
+  tuple: ('be', 'That', 'a relatively open weave', 's01_e13_c01_u008')
+
+event_id: s01_e13_c01_u008_e2
+utterance_id: s01_e13_c01_u008
+  tuple: ('see', 'I/Chandler Bing', 'your nipular areas', 's01_e13_c01_u008')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Acts socially engaged and expressive—asks others questions and reacts enthusiastically with “Score.”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows consideration for a friend’s feelings by advising Speaker_04 to clear it with Speaker_05 before asking out her sister."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Calls out the lingering Christmas lights and warns against impulsive action, urging planning (run it by Speaker_05 first)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and assertively while guiding others; no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Promotes a cautious, approval-seeking approach (avoid impulsiveness, check with Speaker_05 first) rather than exploring freely."
+  }
+}

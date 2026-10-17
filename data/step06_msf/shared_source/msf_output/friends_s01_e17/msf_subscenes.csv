@@ -1,0 +1,887 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e17,s01_e17_c01,Monica Geller,0,1,1,0,2,2,s01_e17_c01_u001,s01_e17_c01_u011,"[s01_e17_c01_u001] Rachel Green: Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow.
+[s01_e17_c01_u002] Unknown Speaker: 
+[s01_e17_c01_u003] Monica Geller: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
+[s01_e17_c01_u004] Nurse Sizemore: My god. You still have your Christmas lights up?
+[s01_e17_c01_u005] Unknown Speaker: 
+[s01_e17_c01_u006] Nurse Sizemore: Fill this out and bring it back to me.
+[s01_e17_c01_u007] Unknown Speaker: 
+[s01_e17_c01_u008] Rachel Green: Ow ow ow. Ow ow ow. Ow ow ow.
+[s01_e17_c01_u009] Unknown Speaker: 
+[s01_e17_c01_u010] Monica Geller: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?
+[s01_e17_c01_u011] Rachel Green: You."
+s01_e17,s01_e17_c01,Monica Geller,1,3,23,2,23,3,s01_e17_c01_u004,s01_e17_c01_u032,"[s01_e17_c01_u004] Nurse Sizemore: My god. You still have your Christmas lights up?
+[s01_e17_c01_u005] Unknown Speaker: 
+[s01_e17_c01_u006] Nurse Sizemore: Fill this out and bring it back to me.
+[s01_e17_c01_u007] Unknown Speaker: 
+[s01_e17_c01_u008] Rachel Green: Ow ow ow. Ow ow ow. Ow ow ow.
+[s01_e17_c01_u009] Unknown Speaker: 
+[s01_e17_c01_u010] Monica Geller: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?
+[s01_e17_c01_u011] Rachel Green: You.
+[s01_e17_c01_u012] Monica Geller: Really?
+[s01_e17_c01_u013] Rachel Green: Yeah.
+[s01_e17_c01_u014] Monica Geller: Oh, that is so sweet. Oh gosh, love you. Insurance?
+[s01_e17_c01_u015] Rachel Green: Oh, yeah, check it. Definitely, I want some of that.
+[s01_e17_c01_u016] Monica Geller: you don't have insurance?
+[s01_e17_c01_u017] Rachel Green: Why, how much is this gonna cost?
+[s01_e17_c01_u018] Monica Geller: I have no idea, but X-rays alone could be a couple hundred dollars.
+[s01_e17_c01_u019] Rachel Green: Wel-wel-well what are we gonna do?
+[s01_e17_c01_u020] Monica Geller: Well there's not much we can do.
+[s01_e17_c01_u021] Rachel Green: Um... unless, unless I use yours.
+[s01_e17_c01_u022] Monica Geller: Hah, no no no no no no no no no no.
+[s01_e17_c01_u023] Rachel Green: well, now, wait a second, who did I just put as my ""In case of emergency"" person?
+[s01_e17_c01_u024] Monica Geller: That's insurance fraud.
+[s01_e17_c01_u025] Rachel Green: Well, alright, then, forget it. Might as well just go home. Ow ow ow ow!
+[s01_e17_c01_u026] Monica Geller: Okay, okay. I hate this.
+[s01_e17_c01_u027] Rachel Green: Thank you. Thank you. I love you.
+[s01_e17_c01_u028] Monica Geller: Hi, um, I'm gonna need a new set of these forms .
+[s01_e17_c01_u029] Nurse Sizemore: Why?
+[s01_e17_c01_u030] Monica Geller: I am really an idiot. you see, I was filling out my friend's form, and instead of putting her information, I put mine.
+[s01_e17_c01_u031] Nurse Sizemore: You are an idiot. .
+[s01_e17_c01_u032] Monica Geller: yep, that's me, I am that stupid ."
+s01_e17,s01_e17_c01,Nurse Sizemore,0,0,2,0,3,2,s01_e17_c01_u001,s01_e17_c01_u012,"[s01_e17_c01_u001] Rachel Green: Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow.
+[s01_e17_c01_u002] Unknown Speaker: 
+[s01_e17_c01_u003] Monica Geller: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
+[s01_e17_c01_u004] Nurse Sizemore: My god. You still have your Christmas lights up?
+[s01_e17_c01_u005] Unknown Speaker: 
+[s01_e17_c01_u006] Nurse Sizemore: Fill this out and bring it back to me.
+[s01_e17_c01_u007] Unknown Speaker: 
+[s01_e17_c01_u008] Rachel Green: Ow ow ow. Ow ow ow. Ow ow ow.
+[s01_e17_c01_u009] Unknown Speaker: 
+[s01_e17_c01_u010] Monica Geller: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?
+[s01_e17_c01_u011] Rachel Green: You.
+[s01_e17_c01_u012] Monica Geller: Really?"
+s01_e17,s01_e17_c01,Nurse Sizemore,1,22,23,21,23,2,s01_e17_c01_u026,s01_e17_c01_u032,"[s01_e17_c01_u026] Monica Geller: Okay, okay. I hate this.
+[s01_e17_c01_u027] Rachel Green: Thank you. Thank you. I love you.
+[s01_e17_c01_u028] Monica Geller: Hi, um, I'm gonna need a new set of these forms .
+[s01_e17_c01_u029] Nurse Sizemore: Why?
+[s01_e17_c01_u030] Monica Geller: I am really an idiot. you see, I was filling out my friend's form, and instead of putting her information, I put mine.
+[s01_e17_c01_u031] Nurse Sizemore: You are an idiot. .
+[s01_e17_c01_u032] Monica Geller: yep, that's me, I am that stupid ."
+s01_e17,s01_e17_c01,Rachel Green,0,0,0,0,1,2,s01_e17_c01_u001,s01_e17_c01_u010,"[s01_e17_c01_u001] Rachel Green: Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow.
+[s01_e17_c01_u002] Unknown Speaker: 
+[s01_e17_c01_u003] Monica Geller: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
+[s01_e17_c01_u004] Nurse Sizemore: My god. You still have your Christmas lights up?
+[s01_e17_c01_u005] Unknown Speaker: 
+[s01_e17_c01_u006] Nurse Sizemore: Fill this out and bring it back to me.
+[s01_e17_c01_u007] Unknown Speaker: 
+[s01_e17_c01_u008] Rachel Green: Ow ow ow. Ow ow ow. Ow ow ow.
+[s01_e17_c01_u009] Unknown Speaker: 
+[s01_e17_c01_u010] Monica Geller: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?"
+s01_e17,s01_e17_c01,Rachel Green,1,2,20,1,21,3,s01_e17_c01_u003,s01_e17_c01_u030,"[s01_e17_c01_u003] Monica Geller: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
+[s01_e17_c01_u004] Nurse Sizemore: My god. You still have your Christmas lights up?
+[s01_e17_c01_u005] Unknown Speaker: 
+[s01_e17_c01_u006] Nurse Sizemore: Fill this out and bring it back to me.
+[s01_e17_c01_u007] Unknown Speaker: 
+[s01_e17_c01_u008] Rachel Green: Ow ow ow. Ow ow ow. Ow ow ow.
+[s01_e17_c01_u009] Unknown Speaker: 
+[s01_e17_c01_u010] Monica Geller: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?
+[s01_e17_c01_u011] Rachel Green: You.
+[s01_e17_c01_u012] Monica Geller: Really?
+[s01_e17_c01_u013] Rachel Green: Yeah.
+[s01_e17_c01_u014] Monica Geller: Oh, that is so sweet. Oh gosh, love you. Insurance?
+[s01_e17_c01_u015] Rachel Green: Oh, yeah, check it. Definitely, I want some of that.
+[s01_e17_c01_u016] Monica Geller: you don't have insurance?
+[s01_e17_c01_u017] Rachel Green: Why, how much is this gonna cost?
+[s01_e17_c01_u018] Monica Geller: I have no idea, but X-rays alone could be a couple hundred dollars.
+[s01_e17_c01_u019] Rachel Green: Wel-wel-well what are we gonna do?
+[s01_e17_c01_u020] Monica Geller: Well there's not much we can do.
+[s01_e17_c01_u021] Rachel Green: Um... unless, unless I use yours.
+[s01_e17_c01_u022] Monica Geller: Hah, no no no no no no no no no no.
+[s01_e17_c01_u023] Rachel Green: well, now, wait a second, who did I just put as my ""In case of emergency"" person?
+[s01_e17_c01_u024] Monica Geller: That's insurance fraud.
+[s01_e17_c01_u025] Rachel Green: Well, alright, then, forget it. Might as well just go home. Ow ow ow ow!
+[s01_e17_c01_u026] Monica Geller: Okay, okay. I hate this.
+[s01_e17_c01_u027] Rachel Green: Thank you. Thank you. I love you.
+[s01_e17_c01_u028] Monica Geller: Hi, um, I'm gonna need a new set of these forms .
+[s01_e17_c01_u029] Nurse Sizemore: Why?
+[s01_e17_c01_u030] Monica Geller: I am really an idiot. you see, I was filling out my friend's form, and instead of putting her information, I put mine."
+s01_e17,s01_e17_c02,Chandler Bing,0,4,5,3,6,2,s01_e17_c02_u004,s01_e17_c02_u012,"[s01_e17_c02_u004] Joey Tribbiani: Tampa Bay's got a terrible team.
+[s01_e17_c02_u005] Ross Geller: Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.
+[s01_e17_c02_u006] Chandler Bing: What are you crazy? That's a baby!
+[s01_e17_c02_u007] Joey Tribbiani: He should take the sack?
+[s01_e17_c02_u008] Ross Geller: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+[s01_e17_c02_u009] Chandler Bing: Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad.
+[s01_e17_c02_u010] Joey Tribbiani: Yeah, Ross. You and the baby just need better blocking.
+[s01_e17_c02_u011] Unknown Speaker: 
+[s01_e17_c02_u012] Joey Tribbiani: Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?"
+s01_e17,s01_e17_c02,Chandler Bing,1,7,8,6,9,2,s01_e17_c02_u007,s01_e17_c02_u015,"[s01_e17_c02_u007] Joey Tribbiani: He should take the sack?
+[s01_e17_c02_u008] Ross Geller: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+[s01_e17_c02_u009] Chandler Bing: Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad.
+[s01_e17_c02_u010] Joey Tribbiani: Yeah, Ross. You and the baby just need better blocking.
+[s01_e17_c02_u011] Unknown Speaker: 
+[s01_e17_c02_u012] Joey Tribbiani: Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?
+[s01_e17_c02_u013] Chandler Bing: Well, only if you order stuff.
+[s01_e17_c02_u014] Joey Tribbiani: I'm takin' Ursula tonight. It's her birthday.
+[s01_e17_c02_u015] Ross Geller: Wo-wo-whoa. What about Phoebe's birthday?"
+s01_e17,s01_e17_c02,Chandler Bing,2,16,18,15,18,3,s01_e17_c02_u017,s01_e17_c02_u026,"[s01_e17_c02_u017] Ross Geller: Tonight.
+[s01_e17_c02_u018] Joey Tribbiani: Oh, man. What're the odds of that happening?
+[s01_e17_c02_u019] Unknown Speaker: 
+[s01_e17_c02_u020] Ross Geller: You take your time.
+[s01_e17_c02_u021] Unknown Speaker: 
+[s01_e17_c02_u022] Chandler Bing: There it is! So what're you gonna do?
+[s01_e17_c02_u023] Joey Tribbiani: What can I do? Look, I don't want to do anything to screw it up with Ursula.
+[s01_e17_c02_u024] Chandler Bing: And your friend Phoebe?
+[s01_e17_c02_u025] Joey Tribbiani: Well, if she's my friend, hopefully she'll understand. I mean, wouldn't you guys?
+[s01_e17_c02_u026] Chandler Bing: Man, if you tried something like that on my birthday, you'd be starin' at the business end of a hissy fit."
+s01_e17,s01_e17_c02,Joey Tribbiani,0,2,3,1,4,2,s01_e17_c02_u002,s01_e17_c02_u009,"[s01_e17_c02_u002] Chandler Bing, Joey Tribbiani: That's nice.
+[s01_e17_c02_u003] Ross Geller: No, no, with him. I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me.
+[s01_e17_c02_u004] Joey Tribbiani: Tampa Bay's got a terrible team.
+[s01_e17_c02_u005] Ross Geller: Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.
+[s01_e17_c02_u006] Chandler Bing: What are you crazy? That's a baby!
+[s01_e17_c02_u007] Joey Tribbiani: He should take the sack?
+[s01_e17_c02_u008] Ross Geller: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+[s01_e17_c02_u009] Chandler Bing: Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad."
+s01_e17,s01_e17_c02,Joey Tribbiani,1,5,18,4,18,3,s01_e17_c02_u005,s01_e17_c02_u026,"[s01_e17_c02_u005] Ross Geller: Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.
+[s01_e17_c02_u006] Chandler Bing: What are you crazy? That's a baby!
+[s01_e17_c02_u007] Joey Tribbiani: He should take the sack?
+[s01_e17_c02_u008] Ross Geller: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+[s01_e17_c02_u009] Chandler Bing: Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad.
+[s01_e17_c02_u010] Joey Tribbiani: Yeah, Ross. You and the baby just need better blocking.
+[s01_e17_c02_u011] Unknown Speaker: 
+[s01_e17_c02_u012] Joey Tribbiani: Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?
+[s01_e17_c02_u013] Chandler Bing: Well, only if you order stuff.
+[s01_e17_c02_u014] Joey Tribbiani: I'm takin' Ursula tonight. It's her birthday.
+[s01_e17_c02_u015] Ross Geller: Wo-wo-whoa. What about Phoebe's birthday?
+[s01_e17_c02_u016] Joey Tribbiani: When's that?
+[s01_e17_c02_u017] Ross Geller: Tonight.
+[s01_e17_c02_u018] Joey Tribbiani: Oh, man. What're the odds of that happening?
+[s01_e17_c02_u019] Unknown Speaker: 
+[s01_e17_c02_u020] Ross Geller: You take your time.
+[s01_e17_c02_u021] Unknown Speaker: 
+[s01_e17_c02_u022] Chandler Bing: There it is! So what're you gonna do?
+[s01_e17_c02_u023] Joey Tribbiani: What can I do? Look, I don't want to do anything to screw it up with Ursula.
+[s01_e17_c02_u024] Chandler Bing: And your friend Phoebe?
+[s01_e17_c02_u025] Joey Tribbiani: Well, if she's my friend, hopefully she'll understand. I mean, wouldn't you guys?
+[s01_e17_c02_u026] Chandler Bing: Man, if you tried something like that on my birthday, you'd be starin' at the business end of a hissy fit."
+s01_e17,s01_e17_c02,Ross Geller,0,0,4,0,5,3,s01_e17_c02_u001,s01_e17_c02_u010,"[s01_e17_c02_u001] Ross Geller: I had a dream last night where I was playing football with my kid.
+[s01_e17_c02_u002] Chandler Bing, Joey Tribbiani: That's nice.
+[s01_e17_c02_u003] Ross Geller: No, no, with him. I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me.
+[s01_e17_c02_u004] Joey Tribbiani: Tampa Bay's got a terrible team.
+[s01_e17_c02_u005] Ross Geller: Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.
+[s01_e17_c02_u006] Chandler Bing: What are you crazy? That's a baby!
+[s01_e17_c02_u007] Joey Tribbiani: He should take the sack?
+[s01_e17_c02_u008] Ross Geller: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+[s01_e17_c02_u009] Chandler Bing: Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad.
+[s01_e17_c02_u010] Joey Tribbiani: Yeah, Ross. You and the baby just need better blocking."
+s01_e17,s01_e17_c02,Ross Geller,1,11,15,10,16,3,s01_e17_c02_u012,s01_e17_c02_u024,"[s01_e17_c02_u012] Joey Tribbiani: Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?
+[s01_e17_c02_u013] Chandler Bing: Well, only if you order stuff.
+[s01_e17_c02_u014] Joey Tribbiani: I'm takin' Ursula tonight. It's her birthday.
+[s01_e17_c02_u015] Ross Geller: Wo-wo-whoa. What about Phoebe's birthday?
+[s01_e17_c02_u016] Joey Tribbiani: When's that?
+[s01_e17_c02_u017] Ross Geller: Tonight.
+[s01_e17_c02_u018] Joey Tribbiani: Oh, man. What're the odds of that happening?
+[s01_e17_c02_u019] Unknown Speaker: 
+[s01_e17_c02_u020] Ross Geller: You take your time.
+[s01_e17_c02_u021] Unknown Speaker: 
+[s01_e17_c02_u022] Chandler Bing: There it is! So what're you gonna do?
+[s01_e17_c02_u023] Joey Tribbiani: What can I do? Look, I don't want to do anything to screw it up with Ursula.
+[s01_e17_c02_u024] Chandler Bing: And your friend Phoebe?"
+s01_e17,s01_e17_c03,Dr. Mitchell,0,0,1,0,2,2,s01_e17_c03_u001,s01_e17_c03_u008,"[s01_e17_c03_u001] Dr. Mitchell: ..you add a pinch of saffron, it makes all the difference.
+[s01_e17_c03_u002] Unknown Speaker: 
+[s01_e17_c03_u003] Dr. Mitchell: Okay, errrr, Monica?
+[s01_e17_c03_u004] Monica Geller: Yes? ..yes, she is.
+[s01_e17_c03_u005] Rachel Green: Hi, this is my friend Rachel.
+[s01_e17_c03_u006] Monica Geller: Hi.
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen."
+s01_e17,s01_e17_c03,Dr. Rosen,0,4,6,3,7,2,s01_e17_c03_u005,s01_e17_c03_u014,"[s01_e17_c03_u005] Rachel Green: Hi, this is my friend Rachel.
+[s01_e17_c03_u006] Monica Geller: Hi.
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen.
+[s01_e17_c03_u009] Unknown Speaker: 
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?
+[s01_e17_c03_u011] Dr. Rosen: Excuse me?
+[s01_e17_c03_u012] Rachel Green: I meant er, young, young, I meant young, young to be a doctor. Oh good, Rach.
+[s01_e17_c03_u013] Monica Geller: Thank you.
+[s01_e17_c03_u014] Rachel Green: Right."
+s01_e17,s01_e17_c03,Monica Geller,0,0,2,0,3,2,s01_e17_c03_u001,s01_e17_c03_u010,"[s01_e17_c03_u001] Dr. Mitchell: ..you add a pinch of saffron, it makes all the difference.
+[s01_e17_c03_u002] Unknown Speaker: 
+[s01_e17_c03_u003] Dr. Mitchell: Okay, errrr, Monica?
+[s01_e17_c03_u004] Monica Geller: Yes? ..yes, she is.
+[s01_e17_c03_u005] Rachel Green: Hi, this is my friend Rachel.
+[s01_e17_c03_u006] Monica Geller: Hi.
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen.
+[s01_e17_c03_u009] Unknown Speaker: 
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?"
+s01_e17,s01_e17_c03,Rachel Green,0,3,3,2,4,2,s01_e17_c03_u004,s01_e17_c03_u011,"[s01_e17_c03_u004] Monica Geller: Yes? ..yes, she is.
+[s01_e17_c03_u005] Rachel Green: Hi, this is my friend Rachel.
+[s01_e17_c03_u006] Monica Geller: Hi.
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen.
+[s01_e17_c03_u009] Unknown Speaker: 
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?
+[s01_e17_c03_u011] Dr. Rosen: Excuse me?"
+s01_e17,s01_e17_c03,Rachel Green,1,5,7,4,7,3,s01_e17_c03_u006,s01_e17_c03_u014,"[s01_e17_c03_u006] Monica Geller: Hi.
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen.
+[s01_e17_c03_u009] Unknown Speaker: 
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?
+[s01_e17_c03_u011] Dr. Rosen: Excuse me?
+[s01_e17_c03_u012] Rachel Green: I meant er, young, young, I meant young, young to be a doctor. Oh good, Rach.
+[s01_e17_c03_u013] Monica Geller: Thank you.
+[s01_e17_c03_u014] Rachel Green: Right."
+s01_e17,s01_e17_c04,Monica Geller,0,0,1,0,2,2,s01_e17_c04_u001,s01_e17_c04_u008,"[s01_e17_c04_u001] Rachel Green: ..so, he said it was just a sprain, and that was it.
+[s01_e17_c04_u002] Monica Geller: Uh, you left out the stupid part.
+[s01_e17_c04_u003] Rachel Green: Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said ""yes.""
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+[s01_e17_c04_u006] Chandler Bing: Alright, what have we learned so far?
+[s01_e17_c04_u007] Unknown Speaker: 
+[s01_e17_c04_u008] The Whole Party: SURPRISE!!!"
+s01_e17,s01_e17_c04,Monica Geller,1,8,12,7,13,3,s01_e17_c04_u010,s01_e17_c04_u023,"[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+[s01_e17_c04_u011] Rachel Green: Was that the cake?
+[s01_e17_c04_u012] Ross Geller: Yeah, yeah. I got a lemon schmush.
+[s01_e17_c04_u013] Monica Geller: Come on, she'll be here any minute.
+[s01_e17_c04_u014] Unknown Speaker: 
+[s01_e17_c04_u015] Rachel Green: I hope it's okay.
+[s01_e17_c04_u016] Unknown Speaker: 
+[s01_e17_c04_u017] Monica Geller: Oh...
+[s01_e17_c04_u018] Chandler Bing: ""Happy Birthday Peehe.""
+[s01_e17_c04_u019] Monica Geller: Well maybe we can make a, a, a 'B' out of one of those roses.
+[s01_e17_c04_u020] Unknown Speaker: 
+[s01_e17_c04_u021] Ross Geller: Yeah, we'll just use our special cake tools.
+[s01_e17_c04_u022] Phoebe Buffay: Hey, what's going on?
+[s01_e17_c04_u023] Ross Geller: Oh, we just..."
+s01_e17,s01_e17_c04,Phoebe Buffay,0,15,16,14,16,2,s01_e17_c04_u019,s01_e17_c04_u027,"[s01_e17_c04_u019] Monica Geller: Well maybe we can make a, a, a 'B' out of one of those roses.
+[s01_e17_c04_u020] Unknown Speaker: 
+[s01_e17_c04_u021] Ross Geller: Yeah, we'll just use our special cake tools.
+[s01_e17_c04_u022] Phoebe Buffay: Hey, what's going on?
+[s01_e17_c04_u023] Ross Geller: Oh, we just...
+[s01_e17_c04_u024] Phoebe's Friends: Surprise!
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+[s01_e17_c04_u026] Unknown Speaker: 
+[s01_e17_c04_u027] Chandler Bing: Did you see Betty?"
+s01_e17,s01_e17_c04,Rachel Green,0,0,2,0,3,3,s01_e17_c04_u001,s01_e17_c04_u010,"[s01_e17_c04_u001] Rachel Green: ..so, he said it was just a sprain, and that was it.
+[s01_e17_c04_u002] Monica Geller: Uh, you left out the stupid part.
+[s01_e17_c04_u003] Rachel Green: Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said ""yes.""
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+[s01_e17_c04_u006] Chandler Bing: Alright, what have we learned so far?
+[s01_e17_c04_u007] Unknown Speaker: 
+[s01_e17_c04_u008] The Whole Party: SURPRISE!!!
+[s01_e17_c04_u009] Unknown Speaker: 
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me."
+s01_e17,s01_e17_c04,Rachel Green,1,4,4,3,5,2,s01_e17_c04_u004,s01_e17_c04_u012,"[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+[s01_e17_c04_u006] Chandler Bing: Alright, what have we learned so far?
+[s01_e17_c04_u007] Unknown Speaker: 
+[s01_e17_c04_u008] The Whole Party: SURPRISE!!!
+[s01_e17_c04_u009] Unknown Speaker: 
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+[s01_e17_c04_u011] Rachel Green: Was that the cake?
+[s01_e17_c04_u012] Ross Geller: Yeah, yeah. I got a lemon schmush."
+s01_e17,s01_e17_c04,Rachel Green,2,7,8,6,9,2,s01_e17_c04_u008,s01_e17_c04_u018,"[s01_e17_c04_u008] The Whole Party: SURPRISE!!!
+[s01_e17_c04_u009] Unknown Speaker: 
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+[s01_e17_c04_u011] Rachel Green: Was that the cake?
+[s01_e17_c04_u012] Ross Geller: Yeah, yeah. I got a lemon schmush.
+[s01_e17_c04_u013] Monica Geller: Come on, she'll be here any minute.
+[s01_e17_c04_u014] Unknown Speaker: 
+[s01_e17_c04_u015] Rachel Green: I hope it's okay.
+[s01_e17_c04_u016] Unknown Speaker: 
+[s01_e17_c04_u017] Monica Geller: Oh...
+[s01_e17_c04_u018] Chandler Bing: ""Happy Birthday Peehe."""
+s01_e17,s01_e17_c04,Ross Geller,0,5,7,4,8,2,s01_e17_c04_u005,s01_e17_c04_u017,"[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+[s01_e17_c04_u006] Chandler Bing: Alright, what have we learned so far?
+[s01_e17_c04_u007] Unknown Speaker: 
+[s01_e17_c04_u008] The Whole Party: SURPRISE!!!
+[s01_e17_c04_u009] Unknown Speaker: 
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+[s01_e17_c04_u011] Rachel Green: Was that the cake?
+[s01_e17_c04_u012] Ross Geller: Yeah, yeah. I got a lemon schmush.
+[s01_e17_c04_u013] Monica Geller: Come on, she'll be here any minute.
+[s01_e17_c04_u014] Unknown Speaker: 
+[s01_e17_c04_u015] Rachel Green: I hope it's okay.
+[s01_e17_c04_u016] Unknown Speaker: 
+[s01_e17_c04_u017] Monica Geller: Oh..."
+s01_e17,s01_e17_c04,Ross Geller,1,13,15,12,16,2,s01_e17_c04_u017,s01_e17_c04_u027,"[s01_e17_c04_u017] Monica Geller: Oh...
+[s01_e17_c04_u018] Chandler Bing: ""Happy Birthday Peehe.""
+[s01_e17_c04_u019] Monica Geller: Well maybe we can make a, a, a 'B' out of one of those roses.
+[s01_e17_c04_u020] Unknown Speaker: 
+[s01_e17_c04_u021] Ross Geller: Yeah, we'll just use our special cake tools.
+[s01_e17_c04_u022] Phoebe Buffay: Hey, what's going on?
+[s01_e17_c04_u023] Ross Geller: Oh, we just...
+[s01_e17_c04_u024] Phoebe's Friends: Surprise!
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+[s01_e17_c04_u026] Unknown Speaker: 
+[s01_e17_c04_u027] Chandler Bing: Did you see Betty?"
+s01_e17,s01_e17_c05,Ross Geller,0,0,7,0,7,5,s01_e17_c05_u001,s01_e17_c05_u013,"[s01_e17_c05_u001] Ross Geller: I tell you one thing, I wouldn't mind having a piece of this sun-dried tomato business. Five years ago, if somebody had said to me, here's a tomato that looks like a prune, I'd say ""get out of my office!""
+[s01_e17_c05_u002] Ross Geller: Dad, before I was born, did you freak out at all?
+[s01_e17_c05_u003] Ross Geller: I'm not freaking out, I'm just saying, if somebody had come to me with the idea andndash;
+[s01_e17_c05_u004] Ross Geller: Dad, dad, dad, I'm talkin' about the whole uh, baby thing. Did you uh, ever get this sort of... panicky, ""Oh my god I'm gonna be a father"" kind of a thing?
+[s01_e17_c05_u005] Ross Geller: No. Your mother really did the work. I was busy with the business. I wasn't around that much. Is that what this is about?
+[s01_e17_c05_u006] Ross Geller: No, no, Dad, I was just wondering.
+[s01_e17_c05_u007] Ross Geller: 'Cause there's time to make up for that. We can do stuff together. You always wanted to go to that Colonial Williamsburg. How 'bout we do that?
+[s01_e17_c05_u008] Ross Geller: Thanks, Dad, really, I ju... you know, I just, I just needed to know, um... when did you start to feel like a father?
+[s01_e17_c05_u009] Ross Geller: Oh, well, I, I guess it musta been the day after you were born. We were in the hospital room, your mother was asleep, and they brought you in and gave you to me. You were this ugly little red thing, and all of a sudden you grabbed my finger with your whole fist. And you squeezed it, so tight. And that's when I knew.
+[s01_e17_c05_u010] Unknown Speaker: 
+[s01_e17_c05_u011] Ross Geller: So you don't wanna go to Williamsburg?
+[s01_e17_c05_u012] Ross Geller: No, we can go to Williamsburg.
+[s01_e17_c05_u013] Ross Geller: Eat your fish."
+s01_e17,s01_e17_c06,Dr. Mitchell,0,3,3,2,4,2,s01_e17_c06_u004,s01_e17_c06_u010,"[s01_e17_c06_u004] Monica Geller: Hi, come on in.
+[s01_e17_c06_u005] Dr. Mitchell: Hey.
+[s01_e17_c06_u006] Monica Geller: Hi, Geoffrey.
+[s01_e17_c06_u007] Rachel Green: Hi.
+[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine.
+[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
+[s01_e17_c06_u010] Rachel Green: Oh, that's great. Look at that."
+s01_e17,s01_e17_c06,Dr. Mitchell,1,15,19,14,20,3,s01_e17_c06_u018,s01_e17_c06_u030,"[s01_e17_c06_u018] Monica Geller: It will not be fine. We'll get in trouble.
+[s01_e17_c06_u019] Rachel Green: Oh, Monica! Would you stop being such a wuss?
+[s01_e17_c06_u020] Monica Geller: A wuss? Excuse me for living in the real world, okay?
+[s01_e17_c06_u021] Unknown Speaker: 
+[s01_e17_c06_u022] Dr. Mitchell: So?
+[s01_e17_c06_u023] Dr. Rosen: So... they sss-still seem normal.
+[s01_e17_c06_u024] Dr. Mitchell: That's because they are.
+[s01_e17_c06_u025] Dr. Rosen: okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
+[s01_e17_c06_u026] Dr. Mitchell: Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.
+[s01_e17_c06_u027] Unknown Speaker: 
+[s01_e17_c06_u028] Monica Geller: I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
+[s01_e17_c06_u029] Rachel Green: I am not a baby! You know what? I swear to god, just because you get so uptight every time we...
+[s01_e17_c06_u030] Monica Geller: Sure, every time, you're such a princess..."
+s01_e17,s01_e17_c06,Dr. Rosen,0,5,6,4,7,2,s01_e17_c06_u006,s01_e17_c06_u014,"[s01_e17_c06_u006] Monica Geller: Hi, Geoffrey.
+[s01_e17_c06_u007] Rachel Green: Hi.
+[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine.
+[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
+[s01_e17_c06_u010] Rachel Green: Oh, that's great. Look at that.
+[s01_e17_c06_u011] Dr. Rosen: So, Monica, how's the ankle?
+[s01_e17_c06_u012] Monica Geller: It's uh...
+[s01_e17_c06_u013] Unknown Speaker: 
+[s01_e17_c06_u014] Monica Geller: ..well, why don't you tell them? After all it, is your ankle."
+s01_e17,s01_e17_c06,Dr. Rosen,1,16,18,15,19,2,s01_e17_c06_u019,s01_e17_c06_u029,"[s01_e17_c06_u019] Rachel Green: Oh, Monica! Would you stop being such a wuss?
+[s01_e17_c06_u020] Monica Geller: A wuss? Excuse me for living in the real world, okay?
+[s01_e17_c06_u021] Unknown Speaker: 
+[s01_e17_c06_u022] Dr. Mitchell: So?
+[s01_e17_c06_u023] Dr. Rosen: So... they sss-still seem normal.
+[s01_e17_c06_u024] Dr. Mitchell: That's because they are.
+[s01_e17_c06_u025] Dr. Rosen: okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
+[s01_e17_c06_u026] Dr. Mitchell: Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.
+[s01_e17_c06_u027] Unknown Speaker: 
+[s01_e17_c06_u028] Monica Geller: I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
+[s01_e17_c06_u029] Rachel Green: I am not a baby! You know what? I swear to god, just because you get so uptight every time we..."
+s01_e17,s01_e17_c06,Dr. Rosen,2,36,40,35,41,3,s01_e17_c06_u042,s01_e17_c06_u054,"[s01_e17_c06_u042] Monica Geller: Yeah... ..see, I was supposed to get married, but, um, I left the guy at the altar.
+[s01_e17_c06_u043] Unknown Speaker: 
+[s01_e17_c06_u044] Dr. Mitchell: Really?
+[s01_e17_c06_u045] Monica Geller: Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?
+[s01_e17_c06_u046] Dr. Rosen: So, Monica, what do you do?
+[s01_e17_c06_u047] Rachel Green: Aahh, I'm a... chef at a restaurant uptown.
+[s01_e17_c06_u048] Dr. Rosen: Good for you.
+[s01_e17_c06_u049] Rachel Green: Yeah it is, mostly because I get to boss people around, which I just love to do.
+[s01_e17_c06_u050] Dr. Rosen: This hummus is great.
+[s01_e17_c06_u051] Dr. Mitchell: God bless the chickpea.
+[s01_e17_c06_u052] Monica Geller: Oh, god, I am so spoiled... That's it!
+[s01_e17_c06_u053] Unknown Speaker: 
+[s01_e17_c06_u054] Rachel Green: And by the way, have I mentioned that back in high school, I was a cow?"
+s01_e17,s01_e17_c06,Monica Geller,0,0,2,0,3,3,s01_e17_c06_u001,s01_e17_c06_u009,"[s01_e17_c06_u001] Monica Geller: Rachel, the cute doctors are here.
+[s01_e17_c06_u002] Rachel Green: Okay, coming!
+[s01_e17_c06_u003] Unknown Speaker: 
+[s01_e17_c06_u004] Monica Geller: Hi, come on in.
+[s01_e17_c06_u005] Dr. Mitchell: Hey.
+[s01_e17_c06_u006] Monica Geller: Hi, Geoffrey.
+[s01_e17_c06_u007] Rachel Green: Hi.
+[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine.
+[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?"
+s01_e17,s01_e17_c06,Monica Geller,1,7,14,6,15,3,s01_e17_c06_u008,s01_e17_c06_u024,"[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine.
+[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
+[s01_e17_c06_u010] Rachel Green: Oh, that's great. Look at that.
+[s01_e17_c06_u011] Dr. Rosen: So, Monica, how's the ankle?
+[s01_e17_c06_u012] Monica Geller: It's uh...
+[s01_e17_c06_u013] Unknown Speaker: 
+[s01_e17_c06_u014] Monica Geller: ..well, why don't you tell them? After all it, is your ankle.
+[s01_e17_c06_u015] Rachel Green: You know what, it's feeling a lot better, thank you, um... Well, listen, why don't you two sit down and, and we'll get you some glasses... okay... STAT!
+[s01_e17_c06_u016] Unknown Speaker: 
+[s01_e17_c06_u017] Rachel Green: Okay, listen, I'm thinking, why don't we just tell them who we really are? I mean, it'll be fine, I really think it'll be fine.
+[s01_e17_c06_u018] Monica Geller: It will not be fine. We'll get in trouble.
+[s01_e17_c06_u019] Rachel Green: Oh, Monica! Would you stop being such a wuss?
+[s01_e17_c06_u020] Monica Geller: A wuss? Excuse me for living in the real world, okay?
+[s01_e17_c06_u021] Unknown Speaker: 
+[s01_e17_c06_u022] Dr. Mitchell: So?
+[s01_e17_c06_u023] Dr. Rosen: So... they sss-still seem normal.
+[s01_e17_c06_u024] Dr. Mitchell: That's because they are."
+s01_e17,s01_e17_c06,Monica Geller,2,20,28,19,29,3,s01_e17_c06_u024,s01_e17_c06_u040,"[s01_e17_c06_u024] Dr. Mitchell: That's because they are.
+[s01_e17_c06_u025] Dr. Rosen: okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
+[s01_e17_c06_u026] Dr. Mitchell: Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.
+[s01_e17_c06_u027] Unknown Speaker: 
+[s01_e17_c06_u028] Monica Geller: I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
+[s01_e17_c06_u029] Rachel Green: I am not a baby! You know what? I swear to god, just because you get so uptight every time we...
+[s01_e17_c06_u030] Monica Geller: Sure, every time, you're such a princess...
+[s01_e17_c06_u031] Rachel Green: You know what?
+[s01_e17_c06_u032] Monica Geller: What?
+[s01_e17_c06_u033] Rachel Green: You know what?
+[s01_e17_c06_u034] Monica Geller: What!?
+[s01_e17_c06_u035] Rachel Green: You know what?
+[s01_e17_c06_u036] Monica Geller: What!!?
+[s01_e17_c06_u037] Rachel Green: Every day, you are becoming more and more like your mother.
+[s01_e17_c06_u038] Unknown Speaker: 
+[s01_e17_c06_u039] Rachel Green: Hello! Here we go!
+[s01_e17_c06_u040] Dr. Rosen: This is a great place. How long have you lived here?"
+s01_e17,s01_e17_c06,Monica Geller,3,33,35,32,36,2,s01_e17_c06_u039,s01_e17_c06_u048,"[s01_e17_c06_u039] Rachel Green: Hello! Here we go!
+[s01_e17_c06_u040] Dr. Rosen: This is a great place. How long have you lived here?
+[s01_e17_c06_u041] Rachel Green: Thanks! I've been here about six years, and Rachel moved in a few months ago.
+[s01_e17_c06_u042] Monica Geller: Yeah... ..see, I was supposed to get married, but, um, I left the guy at the altar.
+[s01_e17_c06_u043] Unknown Speaker: 
+[s01_e17_c06_u044] Dr. Mitchell: Really?
+[s01_e17_c06_u045] Monica Geller: Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?
+[s01_e17_c06_u046] Dr. Rosen: So, Monica, what do you do?
+[s01_e17_c06_u047] Rachel Green: Aahh, I'm a... chef at a restaurant uptown.
+[s01_e17_c06_u048] Dr. Rosen: Good for you."
+s01_e17,s01_e17_c06,Monica Geller,4,42,48,41,48,3,s01_e17_c06_u049,s01_e17_c06_u063,"[s01_e17_c06_u049] Rachel Green: Yeah it is, mostly because I get to boss people around, which I just love to do.
+[s01_e17_c06_u050] Dr. Rosen: This hummus is great.
+[s01_e17_c06_u051] Dr. Mitchell: God bless the chickpea.
+[s01_e17_c06_u052] Monica Geller: Oh, god, I am so spoiled... That's it!
+[s01_e17_c06_u053] Unknown Speaker: 
+[s01_e17_c06_u054] Rachel Green: And by the way, have I mentioned that back in high school, I was a cow?
+[s01_e17_c06_u055] Monica Geller: I used to wet my bed.
+[s01_e17_c06_u056] Rachel Green: I use my breasts to get other people's attention.
+[s01_e17_c06_u057] Monica Geller: We both do that!
+[s01_e17_c06_u058] Unknown Speaker: 
+[s01_e17_c06_u059] Dr. Mitchell: Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... ..ah, Rachel, it's your dad.
+[s01_e17_c06_u060] Monica Geller: Hi, Dad. No, no, it's me. li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you...
+[s01_e17_c06_u061] Unknown Speaker: 
+[s01_e17_c06_u062] Rachel Green: Would you excuse me for a second?
+[s01_e17_c06_u063] Monica Geller: Remember back in freshman year? Well, Billy Dreskin and I had sex on your bed."
+s01_e17,s01_e17_c06,Rachel Green,0,1,1,0,2,2,s01_e17_c06_u001,s01_e17_c06_u008,"[s01_e17_c06_u001] Monica Geller: Rachel, the cute doctors are here.
+[s01_e17_c06_u002] Rachel Green: Okay, coming!
+[s01_e17_c06_u003] Unknown Speaker: 
+[s01_e17_c06_u004] Monica Geller: Hi, come on in.
+[s01_e17_c06_u005] Dr. Mitchell: Hey.
+[s01_e17_c06_u006] Monica Geller: Hi, Geoffrey.
+[s01_e17_c06_u007] Rachel Green: Hi.
+[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine."
+s01_e17,s01_e17_c06,Rachel Green,1,4,5,3,6,2,s01_e17_c06_u005,s01_e17_c06_u012,"[s01_e17_c06_u005] Dr. Mitchell: Hey.
+[s01_e17_c06_u006] Monica Geller: Hi, Geoffrey.
+[s01_e17_c06_u007] Rachel Green: Hi.
+[s01_e17_c06_u008] Dr. Rosen: Ah here, we brought wine.
+[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
+[s01_e17_c06_u010] Rachel Green: Oh, that's great. Look at that.
+[s01_e17_c06_u011] Dr. Rosen: So, Monica, how's the ankle?
+[s01_e17_c06_u012] Monica Geller: It's uh..."
+s01_e17,s01_e17_c06,Rachel Green,2,8,13,7,14,3,s01_e17_c06_u009,s01_e17_c06_u023,"[s01_e17_c06_u009] Dr. Mitchell: Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?
+[s01_e17_c06_u010] Rachel Green: Oh, that's great. Look at that.
+[s01_e17_c06_u011] Dr. Rosen: So, Monica, how's the ankle?
+[s01_e17_c06_u012] Monica Geller: It's uh...
+[s01_e17_c06_u013] Unknown Speaker: 
+[s01_e17_c06_u014] Monica Geller: ..well, why don't you tell them? After all it, is your ankle.
+[s01_e17_c06_u015] Rachel Green: You know what, it's feeling a lot better, thank you, um... Well, listen, why don't you two sit down and, and we'll get you some glasses... okay... STAT!
+[s01_e17_c06_u016] Unknown Speaker: 
+[s01_e17_c06_u017] Rachel Green: Okay, listen, I'm thinking, why don't we just tell them who we really are? I mean, it'll be fine, I really think it'll be fine.
+[s01_e17_c06_u018] Monica Geller: It will not be fine. We'll get in trouble.
+[s01_e17_c06_u019] Rachel Green: Oh, Monica! Would you stop being such a wuss?
+[s01_e17_c06_u020] Monica Geller: A wuss? Excuse me for living in the real world, okay?
+[s01_e17_c06_u021] Unknown Speaker: 
+[s01_e17_c06_u022] Dr. Mitchell: So?
+[s01_e17_c06_u023] Dr. Rosen: So... they sss-still seem normal."
+s01_e17,s01_e17_c06,Rachel Green,3,21,32,20,33,3,s01_e17_c06_u025,s01_e17_c06_u045,"[s01_e17_c06_u025] Dr. Rosen: okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into...
+[s01_e17_c06_u026] Dr. Mitchell: Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.
+[s01_e17_c06_u027] Unknown Speaker: 
+[s01_e17_c06_u028] Monica Geller: I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
+[s01_e17_c06_u029] Rachel Green: I am not a baby! You know what? I swear to god, just because you get so uptight every time we...
+[s01_e17_c06_u030] Monica Geller: Sure, every time, you're such a princess...
+[s01_e17_c06_u031] Rachel Green: You know what?
+[s01_e17_c06_u032] Monica Geller: What?
+[s01_e17_c06_u033] Rachel Green: You know what?
+[s01_e17_c06_u034] Monica Geller: What!?
+[s01_e17_c06_u035] Rachel Green: You know what?
+[s01_e17_c06_u036] Monica Geller: What!!?
+[s01_e17_c06_u037] Rachel Green: Every day, you are becoming more and more like your mother.
+[s01_e17_c06_u038] Unknown Speaker: 
+[s01_e17_c06_u039] Rachel Green: Hello! Here we go!
+[s01_e17_c06_u040] Dr. Rosen: This is a great place. How long have you lived here?
+[s01_e17_c06_u041] Rachel Green: Thanks! I've been here about six years, and Rachel moved in a few months ago.
+[s01_e17_c06_u042] Monica Geller: Yeah... ..see, I was supposed to get married, but, um, I left the guy at the altar.
+[s01_e17_c06_u043] Unknown Speaker: 
+[s01_e17_c06_u044] Dr. Mitchell: Really?
+[s01_e17_c06_u045] Monica Geller: Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?"
+s01_e17,s01_e17_c06,Rachel Green,4,37,39,36,40,2,s01_e17_c06_u044,s01_e17_c06_u052,"[s01_e17_c06_u044] Dr. Mitchell: Really?
+[s01_e17_c06_u045] Monica Geller: Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?
+[s01_e17_c06_u046] Dr. Rosen: So, Monica, what do you do?
+[s01_e17_c06_u047] Rachel Green: Aahh, I'm a... chef at a restaurant uptown.
+[s01_e17_c06_u048] Dr. Rosen: Good for you.
+[s01_e17_c06_u049] Rachel Green: Yeah it is, mostly because I get to boss people around, which I just love to do.
+[s01_e17_c06_u050] Dr. Rosen: This hummus is great.
+[s01_e17_c06_u051] Dr. Mitchell: God bless the chickpea.
+[s01_e17_c06_u052] Monica Geller: Oh, god, I am so spoiled... That's it!"
+s01_e17,s01_e17_c06,Rachel Green,5,41,41,40,42,2,s01_e17_c06_u048,s01_e17_c06_u055,"[s01_e17_c06_u048] Dr. Rosen: Good for you.
+[s01_e17_c06_u049] Rachel Green: Yeah it is, mostly because I get to boss people around, which I just love to do.
+[s01_e17_c06_u050] Dr. Rosen: This hummus is great.
+[s01_e17_c06_u051] Dr. Mitchell: God bless the chickpea.
+[s01_e17_c06_u052] Monica Geller: Oh, god, I am so spoiled... That's it!
+[s01_e17_c06_u053] Unknown Speaker: 
+[s01_e17_c06_u054] Rachel Green: And by the way, have I mentioned that back in high school, I was a cow?
+[s01_e17_c06_u055] Monica Geller: I used to wet my bed."
+s01_e17,s01_e17_c06,Rachel Green,6,43,45,42,46,2,s01_e17_c06_u050,s01_e17_c06_u060,"[s01_e17_c06_u050] Dr. Rosen: This hummus is great.
+[s01_e17_c06_u051] Dr. Mitchell: God bless the chickpea.
+[s01_e17_c06_u052] Monica Geller: Oh, god, I am so spoiled... That's it!
+[s01_e17_c06_u053] Unknown Speaker: 
+[s01_e17_c06_u054] Rachel Green: And by the way, have I mentioned that back in high school, I was a cow?
+[s01_e17_c06_u055] Monica Geller: I used to wet my bed.
+[s01_e17_c06_u056] Rachel Green: I use my breasts to get other people's attention.
+[s01_e17_c06_u057] Monica Geller: We both do that!
+[s01_e17_c06_u058] Unknown Speaker: 
+[s01_e17_c06_u059] Dr. Mitchell: Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... ..ah, Rachel, it's your dad.
+[s01_e17_c06_u060] Monica Geller: Hi, Dad. No, no, it's me. li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you..."
+s01_e17,s01_e17_c06,Rachel Green,7,47,47,46,48,2,s01_e17_c06_u055,s01_e17_c06_u063,"[s01_e17_c06_u055] Monica Geller: I used to wet my bed.
+[s01_e17_c06_u056] Rachel Green: I use my breasts to get other people's attention.
+[s01_e17_c06_u057] Monica Geller: We both do that!
+[s01_e17_c06_u058] Unknown Speaker: 
+[s01_e17_c06_u059] Dr. Mitchell: Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... ..ah, Rachel, it's your dad.
+[s01_e17_c06_u060] Monica Geller: Hi, Dad. No, no, it's me. li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you...
+[s01_e17_c06_u061] Unknown Speaker: 
+[s01_e17_c06_u062] Rachel Green: Would you excuse me for a second?
+[s01_e17_c06_u063] Monica Geller: Remember back in freshman year? Well, Billy Dreskin and I had sex on your bed."
+s01_e17,s01_e17_c07,Joey Tribbiani,0,16,16,15,17,2,s01_e17_c07_u020,s01_e17_c07_u027,"[s01_e17_c07_u020] Monica Geller: Yes.
+[s01_e17_c07_u021] Unknown Speaker: 
+[s01_e17_c07_u022] Joey Tribbiani: Hey.
+[s01_e17_c07_u023] Chandler Bing, Ross Geller: Hey!
+[s01_e17_c07_u024] Monica Geller: Hi.
+[s01_e17_c07_u025] Phoebe Buffay: Trouble?
+[s01_e17_c07_u026] Joey Tribbiani: Your sister stood me up the other night.
+[s01_e17_c07_u027] Phoebe Buffay: Oh, no. Don't you hate it when people aren't there for you?"
+s01_e17,s01_e17_c07,Joey Tribbiani,1,19,19,18,19,2,s01_e17_c07_u024,s01_e17_c07_u029,"[s01_e17_c07_u024] Monica Geller: Hi.
+[s01_e17_c07_u025] Phoebe Buffay: Trouble?
+[s01_e17_c07_u026] Joey Tribbiani: Your sister stood me up the other night.
+[s01_e17_c07_u027] Phoebe Buffay: Oh, no. Don't you hate it when people aren't there for you?
+[s01_e17_c07_u028] Ross Geller: Well did you try calling her?
+[s01_e17_c07_u029] Joey Tribbiani: I've been trying for two days. When I called the restaurant, they said she was too busy to talk. I can't believe she's blowin' me off."
+s01_e17,s01_e17_c07,Monica Geller,0,5,15,4,16,3,s01_e17_c07_u008,s01_e17_c07_u026,"[s01_e17_c07_u008] Rachel Green: Hello? Um, yeah, uh, Okay ah, hold on a second, lemme lemme just check and see if see if she's here.
+[s01_e17_c07_u009] Unknown Speaker: 
+[s01_e17_c07_u010] Rachel Green: It's the woman from the hospital admissions office. She says there's a problem with the form. Oh, god, oh god...
+[s01_e17_c07_u011] Monica Geller, Rachel Green: Oh god, waddawe do, waddawe do, waddawe do?
+[s01_e17_c07_u012] Monica Geller: I don't know! Why don't you just explain? What do they want? Find out what they want!
+[s01_e17_c07_u013] Rachel Green: Okay no, you do it.
+[s01_e17_c07_u014] Monica Geller: Hello, this is Monica... Yeah??? Oh... Okay, yes, we'll be right, we'll be right down. Thank you.
+[s01_e17_c07_u015] Rachel Green: What?
+[s01_e17_c07_u016] Monica Geller: We forgot to sign one of the admissions forms.
+[s01_e17_c07_u017] Rachel Green: Ohhh... Okay, you were right. You were right! This was just not worth it.
+[s01_e17_c07_u018] Monica Geller: Thank you.
+[s01_e17_c07_u019] Rachel Green: Okay, let me just change.
+[s01_e17_c07_u020] Monica Geller: Yes.
+[s01_e17_c07_u021] Unknown Speaker: 
+[s01_e17_c07_u022] Joey Tribbiani: Hey.
+[s01_e17_c07_u023] Chandler Bing, Ross Geller: Hey!
+[s01_e17_c07_u024] Monica Geller: Hi.
+[s01_e17_c07_u025] Phoebe Buffay: Trouble?
+[s01_e17_c07_u026] Joey Tribbiani: Your sister stood me up the other night."
+s01_e17,s01_e17_c07,Phoebe Buffay,0,17,19,16,19,2,s01_e17_c07_u022,s01_e17_c07_u029,"[s01_e17_c07_u022] Joey Tribbiani: Hey.
+[s01_e17_c07_u023] Chandler Bing, Ross Geller: Hey!
+[s01_e17_c07_u024] Monica Geller: Hi.
+[s01_e17_c07_u025] Phoebe Buffay: Trouble?
+[s01_e17_c07_u026] Joey Tribbiani: Your sister stood me up the other night.
+[s01_e17_c07_u027] Phoebe Buffay: Oh, no. Don't you hate it when people aren't there for you?
+[s01_e17_c07_u028] Ross Geller: Well did you try calling her?
+[s01_e17_c07_u029] Joey Tribbiani: I've been trying for two days. When I called the restaurant, they said she was too busy to talk. I can't believe she's blowin' me off."
+s01_e17,s01_e17_c07,Rachel Green,0,0,12,0,13,3,s01_e17_c07_u001,s01_e17_c07_u023,"[s01_e17_c07_u001] Rachel Green: Daddy... Daddy... Daddy, why whyyy would I sleep with Billy Dreskin? His father tried to put you out of business! ...dead!
+[s01_e17_c07_u002] Unknown Speaker: 
+[s01_e17_c07_u003] Monica Geller: Ross, he's got the remote again.
+[s01_e17_c07_u004] Ross Geller: Good. Maybe he can switch it back.
+[s01_e17_c07_u005] Unknown Speaker: 
+[s01_e17_c07_u006] Ross Geller: Maybe not.
+[s01_e17_c07_u007] Unknown Speaker: 
+[s01_e17_c07_u008] Rachel Green: Hello? Um, yeah, uh, Okay ah, hold on a second, lemme lemme just check and see if see if she's here.
+[s01_e17_c07_u009] Unknown Speaker: 
+[s01_e17_c07_u010] Rachel Green: It's the woman from the hospital admissions office. She says there's a problem with the form. Oh, god, oh god...
+[s01_e17_c07_u011] Monica Geller, Rachel Green: Oh god, waddawe do, waddawe do, waddawe do?
+[s01_e17_c07_u012] Monica Geller: I don't know! Why don't you just explain? What do they want? Find out what they want!
+[s01_e17_c07_u013] Rachel Green: Okay no, you do it.
+[s01_e17_c07_u014] Monica Geller: Hello, this is Monica... Yeah??? Oh... Okay, yes, we'll be right, we'll be right down. Thank you.
+[s01_e17_c07_u015] Rachel Green: What?
+[s01_e17_c07_u016] Monica Geller: We forgot to sign one of the admissions forms.
+[s01_e17_c07_u017] Rachel Green: Ohhh... Okay, you were right. You were right! This was just not worth it.
+[s01_e17_c07_u018] Monica Geller: Thank you.
+[s01_e17_c07_u019] Rachel Green: Okay, let me just change.
+[s01_e17_c07_u020] Monica Geller: Yes.
+[s01_e17_c07_u021] Unknown Speaker: 
+[s01_e17_c07_u022] Joey Tribbiani: Hey.
+[s01_e17_c07_u023] Chandler Bing, Ross Geller: Hey!"
+s01_e17,s01_e17_c07,Ross Geller,0,0,2,0,3,2,s01_e17_c07_u001,s01_e17_c07_u012,"[s01_e17_c07_u001] Rachel Green: Daddy... Daddy... Daddy, why whyyy would I sleep with Billy Dreskin? His father tried to put you out of business! ...dead!
+[s01_e17_c07_u002] Unknown Speaker: 
+[s01_e17_c07_u003] Monica Geller: Ross, he's got the remote again.
+[s01_e17_c07_u004] Ross Geller: Good. Maybe he can switch it back.
+[s01_e17_c07_u005] Unknown Speaker: 
+[s01_e17_c07_u006] Ross Geller: Maybe not.
+[s01_e17_c07_u007] Unknown Speaker: 
+[s01_e17_c07_u008] Rachel Green: Hello? Um, yeah, uh, Okay ah, hold on a second, lemme lemme just check and see if see if she's here.
+[s01_e17_c07_u009] Unknown Speaker: 
+[s01_e17_c07_u010] Rachel Green: It's the woman from the hospital admissions office. She says there's a problem with the form. Oh, god, oh god...
+[s01_e17_c07_u011] Monica Geller, Rachel Green: Oh god, waddawe do, waddawe do, waddawe do?
+[s01_e17_c07_u012] Monica Geller: I don't know! Why don't you just explain? What do they want? Find out what they want!"
+s01_e17,s01_e17_c08,Phoebe Buffay,0,0,25,0,25,4,s01_e17_c08_u001,s01_e17_c08_u043,"[s01_e17_c08_u001] Phoebe Buffay: Hey.
+[s01_e17_c08_u002] Unknown Speaker: 
+[s01_e17_c08_u003] Ursula: Oh!
+[s01_e17_c08_u004] Phoebe Buffay: Um you, you got a minute?
+[s01_e17_c08_u005] Ursula: Um, yeah, I'm just... ..working.
+[s01_e17_c08_u006] Unknown Speaker: 
+[s01_e17_c08_u007] Phoebe Buffay: So.
+[s01_e17_c08_u008] Ursula: Uh-huh.
+[s01_e17_c08_u009] Unknown Speaker: 
+[s01_e17_c08_u010] Phoebe Buffay: Um, oh, I got you a birthday present.
+[s01_e17_c08_u011] Unknown Speaker: 
+[s01_e17_c08_u012] Ursula: Oh, wow! You remembered! Oh! It's a Judy Jetson thermos!
+[s01_e17_c08_u013] Unknown Speaker: 
+[s01_e17_c08_u014] Phoebe Buffay: Right, like the kind you...
+[s01_e17_c08_u015] Ursula: Right... Oh, I got something for you, too.
+[s01_e17_c08_u016] Unknown Speaker: 
+[s01_e17_c08_u017] Phoebe Buffay: How'd you know I was coming?
+[s01_e17_c08_u018] Ursula: Um, yeah, um, twin thing.
+[s01_e17_c08_u019] Unknown Speaker: 
+[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+[s01_e17_c08_u021] Unknown Speaker: 
+[s01_e17_c08_u022] Phoebe Buffay: I can't believe you... ..did this.
+[s01_e17_c08_u023] Unknown Speaker: 
+[s01_e17_c08_u024] Phoebe Buffay: So... What's the deal with umm, you and Joey?
+[s01_e17_c08_u025] Ursula: Oh, right. He is so great. But that's over.
+[s01_e17_c08_u026] Unknown Speaker: 
+[s01_e17_c08_u027] Phoebe Buffay: Does he know?
+[s01_e17_c08_u028] Ursula: Who?
+[s01_e17_c08_u029] Phoebe Buffay: Joey. You know, um, he's really nutsy about you.
+[s01_e17_c08_u030] Ursula: He is? Why?
+[s01_e17_c08_u031] Phoebe Buffay: You got me.
+[s01_e17_c08_u032] Ursula: Right.
+[s01_e17_c08_u033] Unknown Speaker: 
+[s01_e17_c08_u034] Ursula: Excuse me. Doesn't this come with a side salad?
+[s01_e17_c08_u035] Unknown Speaker: 
+[s01_e17_c08_u036] Phoebe Buffay: So, um, are you gonna call him?
+[s01_e17_c08_u037] Ursula: What? Do you think he likes me?
+[s01_e17_c08_u038] Phoebe Buffay: No, Joey.
+[s01_e17_c08_u039] Ursula: Oh. No, no, he is so smart. He'll figure it out. Do you want some chicken?
+[s01_e17_c08_u040] Phoebe Buffay: No. No food with a face.
+[s01_e17_c08_u041] Ursula: You have not changed!
+[s01_e17_c08_u042] Unknown Speaker: 
+[s01_e17_c08_u043] Phoebe Buffay: Yeah, you too."
+s01_e17,s01_e17_c08,Ursula,0,0,9,0,10,3,s01_e17_c08_u001,s01_e17_c08_u024,"[s01_e17_c08_u001] Phoebe Buffay: Hey.
+[s01_e17_c08_u002] Unknown Speaker: 
+[s01_e17_c08_u003] Ursula: Oh!
+[s01_e17_c08_u004] Phoebe Buffay: Um you, you got a minute?
+[s01_e17_c08_u005] Ursula: Um, yeah, I'm just... ..working.
+[s01_e17_c08_u006] Unknown Speaker: 
+[s01_e17_c08_u007] Phoebe Buffay: So.
+[s01_e17_c08_u008] Ursula: Uh-huh.
+[s01_e17_c08_u009] Unknown Speaker: 
+[s01_e17_c08_u010] Phoebe Buffay: Um, oh, I got you a birthday present.
+[s01_e17_c08_u011] Unknown Speaker: 
+[s01_e17_c08_u012] Ursula: Oh, wow! You remembered! Oh! It's a Judy Jetson thermos!
+[s01_e17_c08_u013] Unknown Speaker: 
+[s01_e17_c08_u014] Phoebe Buffay: Right, like the kind you...
+[s01_e17_c08_u015] Ursula: Right... Oh, I got something for you, too.
+[s01_e17_c08_u016] Unknown Speaker: 
+[s01_e17_c08_u017] Phoebe Buffay: How'd you know I was coming?
+[s01_e17_c08_u018] Ursula: Um, yeah, um, twin thing.
+[s01_e17_c08_u019] Unknown Speaker: 
+[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+[s01_e17_c08_u021] Unknown Speaker: 
+[s01_e17_c08_u022] Phoebe Buffay: I can't believe you... ..did this.
+[s01_e17_c08_u023] Unknown Speaker: 
+[s01_e17_c08_u024] Phoebe Buffay: So... What's the deal with umm, you and Joey?"
+s01_e17,s01_e17_c08,Ursula,1,11,11,10,12,2,s01_e17_c08_u017,s01_e17_c08_u027,"[s01_e17_c08_u017] Phoebe Buffay: How'd you know I was coming?
+[s01_e17_c08_u018] Ursula: Um, yeah, um, twin thing.
+[s01_e17_c08_u019] Unknown Speaker: 
+[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+[s01_e17_c08_u021] Unknown Speaker: 
+[s01_e17_c08_u022] Phoebe Buffay: I can't believe you... ..did this.
+[s01_e17_c08_u023] Unknown Speaker: 
+[s01_e17_c08_u024] Phoebe Buffay: So... What's the deal with umm, you and Joey?
+[s01_e17_c08_u025] Ursula: Oh, right. He is so great. But that's over.
+[s01_e17_c08_u026] Unknown Speaker: 
+[s01_e17_c08_u027] Phoebe Buffay: Does he know?"
+s01_e17,s01_e17_c08,Ursula,2,13,25,12,25,3,s01_e17_c08_u020,s01_e17_c08_u043,"[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+[s01_e17_c08_u021] Unknown Speaker: 
+[s01_e17_c08_u022] Phoebe Buffay: I can't believe you... ..did this.
+[s01_e17_c08_u023] Unknown Speaker: 
+[s01_e17_c08_u024] Phoebe Buffay: So... What's the deal with umm, you and Joey?
+[s01_e17_c08_u025] Ursula: Oh, right. He is so great. But that's over.
+[s01_e17_c08_u026] Unknown Speaker: 
+[s01_e17_c08_u027] Phoebe Buffay: Does he know?
+[s01_e17_c08_u028] Ursula: Who?
+[s01_e17_c08_u029] Phoebe Buffay: Joey. You know, um, he's really nutsy about you.
+[s01_e17_c08_u030] Ursula: He is? Why?
+[s01_e17_c08_u031] Phoebe Buffay: You got me.
+[s01_e17_c08_u032] Ursula: Right.
+[s01_e17_c08_u033] Unknown Speaker: 
+[s01_e17_c08_u034] Ursula: Excuse me. Doesn't this come with a side salad?
+[s01_e17_c08_u035] Unknown Speaker: 
+[s01_e17_c08_u036] Phoebe Buffay: So, um, are you gonna call him?
+[s01_e17_c08_u037] Ursula: What? Do you think he likes me?
+[s01_e17_c08_u038] Phoebe Buffay: No, Joey.
+[s01_e17_c08_u039] Ursula: Oh. No, no, he is so smart. He'll figure it out. Do you want some chicken?
+[s01_e17_c08_u040] Phoebe Buffay: No. No food with a face.
+[s01_e17_c08_u041] Ursula: You have not changed!
+[s01_e17_c08_u042] Unknown Speaker: 
+[s01_e17_c08_u043] Phoebe Buffay: Yeah, you too."
+s01_e17,s01_e17_c09,Monica Geller,0,0,2,0,3,2,s01_e17_c09_u001,s01_e17_c09_u008,"[s01_e17_c09_u001] Rachel Green: Hi, remember us?
+[s01_e17_c09_u002] Nurse Sizemore: Mmm hmmm.
+[s01_e17_c09_u003] Monica Geller: Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a whole new one because uh, you see, I-I, I put the wrong name again. 'cause um...
+[s01_e17_c09_u004] Nurse Sizemore: You're that stupid.
+[s01_e17_c09_u005] Monica Geller: I am. I'm that stupid.
+[s01_e17_c09_u006] Rachel Green: Yeah, and and, I'm just gonna pay for this with a check.
+[s01_e17_c09_u007] Nurse Sizemore: Well, you know your insurance will cover that.
+[s01_e17_c09_u008] Rachel Green: Yeah, I know... ..I'm I'm just not that bright either."
+s01_e17,s01_e17_c09,Nurse Sizemore,0,0,3,0,3,2,s01_e17_c09_u001,s01_e17_c09_u008,"[s01_e17_c09_u001] Rachel Green: Hi, remember us?
+[s01_e17_c09_u002] Nurse Sizemore: Mmm hmmm.
+[s01_e17_c09_u003] Monica Geller: Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a whole new one because uh, you see, I-I, I put the wrong name again. 'cause um...
+[s01_e17_c09_u004] Nurse Sizemore: You're that stupid.
+[s01_e17_c09_u005] Monica Geller: I am. I'm that stupid.
+[s01_e17_c09_u006] Rachel Green: Yeah, and and, I'm just gonna pay for this with a check.
+[s01_e17_c09_u007] Nurse Sizemore: Well, you know your insurance will cover that.
+[s01_e17_c09_u008] Rachel Green: Yeah, I know... ..I'm I'm just not that bright either."
+s01_e17,s01_e17_c09,Rachel Green,0,3,3,2,3,2,s01_e17_c09_u003,s01_e17_c09_u008,"[s01_e17_c09_u003] Monica Geller: Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a whole new one because uh, you see, I-I, I put the wrong name again. 'cause um...
+[s01_e17_c09_u004] Nurse Sizemore: You're that stupid.
+[s01_e17_c09_u005] Monica Geller: I am. I'm that stupid.
+[s01_e17_c09_u006] Rachel Green: Yeah, and and, I'm just gonna pay for this with a check.
+[s01_e17_c09_u007] Nurse Sizemore: Well, you know your insurance will cover that.
+[s01_e17_c09_u008] Rachel Green: Yeah, I know... ..I'm I'm just not that bright either."
+s01_e17,s01_e17_c10,Chandler Bing,0,0,6,0,6,3,s01_e17_c10_u001,s01_e17_c10_u012,"[s01_e17_c10_u001] Chandler Bing: Okay, worst case scenario. Say you never feel like a father.
+[s01_e17_c10_u002] Ross Geller: Uh-huh.
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+[s01_e17_c10_u004] Ross Geller: Do you have a point?
+[s01_e17_c10_u005] Chandler Bing: You know, you think I would.
+[s01_e17_c10_u006] Unknown Speaker: 
+[s01_e17_c10_u007] Chandler Bing: What's up with the simian?
+[s01_e17_c10_u008] Ross Geller: It's just a fur ball.
+[s01_e17_c10_u009] Chandler Bing: Okay... ..whose turn is it?
+[s01_e17_c10_u010] Ross Geller: Yours, I just got 43 points for 'KIDNEY'.
+[s01_e17_c10_u011] Chandler Bing: No, no, you got zero points for 'IDNEY'.
+[s01_e17_c10_u012] Ross Geller: I had a 'K'. Where's where's my 'K'?"
+s01_e17,s01_e17_c10,Ross Geller,0,0,6,0,6,3,s01_e17_c10_u001,s01_e17_c10_u012,"[s01_e17_c10_u001] Chandler Bing: Okay, worst case scenario. Say you never feel like a father.
+[s01_e17_c10_u002] Ross Geller: Uh-huh.
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+[s01_e17_c10_u004] Ross Geller: Do you have a point?
+[s01_e17_c10_u005] Chandler Bing: You know, you think I would.
+[s01_e17_c10_u006] Unknown Speaker: 
+[s01_e17_c10_u007] Chandler Bing: What's up with the simian?
+[s01_e17_c10_u008] Ross Geller: It's just a fur ball.
+[s01_e17_c10_u009] Chandler Bing: Okay... ..whose turn is it?
+[s01_e17_c10_u010] Ross Geller: Yours, I just got 43 points for 'KIDNEY'.
+[s01_e17_c10_u011] Chandler Bing: No, no, you got zero points for 'IDNEY'.
+[s01_e17_c10_u012] Ross Geller: I had a 'K'. Where's where's my 'K'?"
+s01_e17,s01_e17_c11,Dr. Mitchell,0,7,8,6,9,2,s01_e17_c11_u010,s01_e17_c11_u019,"[s01_e17_c11_u010] Nurse Sizemore: Excuse me... This hospital is for people!
+[s01_e17_c11_u011] Ross Geller: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+[s01_e17_c11_u012] Unknown Speaker: 
+[s01_e17_c11_u013] Dr. Mitchell: I'll take a look at him.
+[s01_e17_c11_u014] Unknown Speaker: 
+[s01_e17_c11_u015] Monica Geller, Rachel Green: Oh, thank you.
+[s01_e17_c11_u016] Monica Geller: Michael.
+[s01_e17_c11_u017] Dr. Mitchell: Rachel.
+[s01_e17_c11_u018] Rachel Green: What?
+[s01_e17_c11_u019] Monica Geller: Monica."
+s01_e17,s01_e17_c11,Monica Geller,0,9,12,8,12,2,s01_e17_c11_u013,s01_e17_c11_u022,"[s01_e17_c11_u013] Dr. Mitchell: I'll take a look at him.
+[s01_e17_c11_u014] Unknown Speaker: 
+[s01_e17_c11_u015] Monica Geller, Rachel Green: Oh, thank you.
+[s01_e17_c11_u016] Monica Geller: Michael.
+[s01_e17_c11_u017] Dr. Mitchell: Rachel.
+[s01_e17_c11_u018] Rachel Green: What?
+[s01_e17_c11_u019] Monica Geller: Monica.
+[s01_e17_c11_u020] Rachel Green: Oh.
+[s01_e17_c11_u021] Monica Geller: Hi.
+[s01_e17_c11_u022] Rachel Green: Hi."
+s01_e17,s01_e17_c11,Rachel Green,0,10,12,9,12,3,s01_e17_c11_u015,s01_e17_c11_u022,"[s01_e17_c11_u015] Monica Geller, Rachel Green: Oh, thank you.
+[s01_e17_c11_u016] Monica Geller: Michael.
+[s01_e17_c11_u017] Dr. Mitchell: Rachel.
+[s01_e17_c11_u018] Rachel Green: What?
+[s01_e17_c11_u019] Monica Geller: Monica.
+[s01_e17_c11_u020] Rachel Green: Oh.
+[s01_e17_c11_u021] Monica Geller: Hi.
+[s01_e17_c11_u022] Rachel Green: Hi."
+s01_e17,s01_e17_c11,Ross Geller,0,0,0,0,1,2,s01_e17_c11_u001,s01_e17_c11_u008,"[s01_e17_c11_u001] Ross Geller: You've got to help me my monkey swallowed a 'K'!
+[s01_e17_c11_u002] Unknown Speaker: 
+[s01_e17_c11_u003] Nurse Sizemore: You go get that animal outta here.
+[s01_e17_c11_u004] Ross Geller: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+[s01_e17_c11_u005] Monica Geller: What's goin' on?
+[s01_e17_c11_u006] Unknown Speaker: 
+[s01_e17_c11_u007] Chandler Bing: Marcel swallowed a Scrabble tile.
+[s01_e17_c11_u008] Rachel Green: Oh."
+s01_e17,s01_e17_c12,Joey Tribbiani,0,0,18,0,18,3,s01_e17_c12_u001,s01_e17_c12_u028,"[s01_e17_c12_u001] Phoebe Buffay: Hey.
+[s01_e17_c12_u002] Joey Tribbiani: Urse...
+[s01_e17_c12_u003] Unknown Speaker: 
+[s01_e17_c12_u004] Joey Tribbiani: ..ah, what're you doing here? I've been trying to call you.
+[s01_e17_c12_u005] Phoebe Buffay: Listen, um...
+[s01_e17_c12_u006] Joey Tribbiani: No, no, no, don't say ""listen."" I know that ""listen."" I've said that ""listen.""
+[s01_e17_c12_u007] Phoebe Buffay: I'm sorry.
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+[s01_e17_c12_u009] Unknown Speaker: 
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+[s01_e17_c12_u011] Joey Tribbiani: You don't drink.
+[s01_e17_c12_u012] Phoebe Buffay: That's right, I don't... But I was, I was drunk on you!
+[s01_e17_c12_u013] Joey Tribbiani: Oh, Urse...
+[s01_e17_c12_u014] Phoebe Buffay: Okay, yeah, so it's not gonna work.
+[s01_e17_c12_u015] Joey Tribbiani: Why? Is it because I'm friends with Phoebe?
+[s01_e17_c12_u016] Phoebe Buffay: If it was, would you stop hanging out with her?
+[s01_e17_c12_u017] Joey Tribbiani: no. No, I, I couldn't do that.
+[s01_e17_c12_u018] Phoebe Buffay: Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.
+[s01_e17_c12_u019] Joey Tribbiani: Then, uh, then I'm sorry.
+[s01_e17_c12_u020] Unknown Speaker: 
+[s01_e17_c12_u021] Phoebe Buffay: You know... You're gonna be really, really hard to get over.
+[s01_e17_c12_u022] Joey Tribbiani: I know...
+[s01_e17_c12_u023] Unknown Speaker: 
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+[s01_e17_c12_u025] Phoebe Buffay: Really?
+[s01_e17_c12_u026] Unknown Speaker: 
+[s01_e17_c12_u027] Joey Tribbiani: Pheebs?
+[s01_e17_c12_u028] Phoebe Buffay: Yeah. Oooh..."
+s01_e17,s01_e17_c12,Phoebe Buffay,0,0,18,0,18,3,s01_e17_c12_u001,s01_e17_c12_u028,"[s01_e17_c12_u001] Phoebe Buffay: Hey.
+[s01_e17_c12_u002] Joey Tribbiani: Urse...
+[s01_e17_c12_u003] Unknown Speaker: 
+[s01_e17_c12_u004] Joey Tribbiani: ..ah, what're you doing here? I've been trying to call you.
+[s01_e17_c12_u005] Phoebe Buffay: Listen, um...
+[s01_e17_c12_u006] Joey Tribbiani: No, no, no, don't say ""listen."" I know that ""listen."" I've said that ""listen.""
+[s01_e17_c12_u007] Phoebe Buffay: I'm sorry.
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+[s01_e17_c12_u009] Unknown Speaker: 
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+[s01_e17_c12_u011] Joey Tribbiani: You don't drink.
+[s01_e17_c12_u012] Phoebe Buffay: That's right, I don't... But I was, I was drunk on you!
+[s01_e17_c12_u013] Joey Tribbiani: Oh, Urse...
+[s01_e17_c12_u014] Phoebe Buffay: Okay, yeah, so it's not gonna work.
+[s01_e17_c12_u015] Joey Tribbiani: Why? Is it because I'm friends with Phoebe?
+[s01_e17_c12_u016] Phoebe Buffay: If it was, would you stop hanging out with her?
+[s01_e17_c12_u017] Joey Tribbiani: no. No, I, I couldn't do that.
+[s01_e17_c12_u018] Phoebe Buffay: Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.
+[s01_e17_c12_u019] Joey Tribbiani: Then, uh, then I'm sorry.
+[s01_e17_c12_u020] Unknown Speaker: 
+[s01_e17_c12_u021] Phoebe Buffay: You know... You're gonna be really, really hard to get over.
+[s01_e17_c12_u022] Joey Tribbiani: I know...
+[s01_e17_c12_u023] Unknown Speaker: 
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+[s01_e17_c12_u025] Phoebe Buffay: Really?
+[s01_e17_c12_u026] Unknown Speaker: 
+[s01_e17_c12_u027] Joey Tribbiani: Pheebs?
+[s01_e17_c12_u028] Phoebe Buffay: Yeah. Oooh..."
+s01_e17,s01_e17_c13,Chandler Bing,0,2,6,1,6,3,s01_e17_c13_u003,s01_e17_c13_u014,"[s01_e17_c13_u003] Joey Tribbiani: We just got the message.
+[s01_e17_c13_u004] Phoebe Buffay: Is he alright?
+[s01_e17_c13_u005] Ross Geller: Yeah. The doctor got the 'K' out. He also found an 'M' and an 'O'.
+[s01_e17_c13_u006] Chandler Bing: We think he was trying to spell out 'MONKEY.'
+[s01_e17_c13_u007] Unknown Speaker: 
+[s01_e17_c13_u008] Ross Geller: Well, the doctor says he's gonna be fine, he's just sleeping now.
+[s01_e17_c13_u009] Chandler Bing: So, you feel like a dad yet?
+[s01_e17_c13_u010] Ross Geller: No, why?
+[s01_e17_c13_u011] Chandler Bing: Hey, come on, you came through, you did what you had to do. That is very dad.
+[s01_e17_c13_u012] Unknown Speaker: 
+[s01_e17_c13_u013] Monica Geller: Oh, look, he's waking up!
+[s01_e17_c13_u014] Ross Geller: hey, fella! How you doing?"
+s01_e17,s01_e17_c13,Ross Geller,0,0,6,0,6,3,s01_e17_c13_u001,s01_e17_c13_u014,"[s01_e17_c13_u001] Ross Geller: He looks so tiny.
+[s01_e17_c13_u002] Unknown Speaker: 
+[s01_e17_c13_u003] Joey Tribbiani: We just got the message.
+[s01_e17_c13_u004] Phoebe Buffay: Is he alright?
+[s01_e17_c13_u005] Ross Geller: Yeah. The doctor got the 'K' out. He also found an 'M' and an 'O'.
+[s01_e17_c13_u006] Chandler Bing: We think he was trying to spell out 'MONKEY.'
+[s01_e17_c13_u007] Unknown Speaker: 
+[s01_e17_c13_u008] Ross Geller: Well, the doctor says he's gonna be fine, he's just sleeping now.
+[s01_e17_c13_u009] Chandler Bing: So, you feel like a dad yet?
+[s01_e17_c13_u010] Ross Geller: No, why?
+[s01_e17_c13_u011] Chandler Bing: Hey, come on, you came through, you did what you had to do. That is very dad.
+[s01_e17_c13_u012] Unknown Speaker: 
+[s01_e17_c13_u013] Monica Geller: Oh, look, he's waking up!
+[s01_e17_c13_u014] Ross Geller: hey, fella! How you doing?"
+s01_e17,s01_e17_c14,Monica Geller,0,1,1,0,2,2,s01_e17_c14_u001,s01_e17_c14_u013,"[s01_e17_c14_u001] Ross Geller: Aqui est.
+[s01_e17_c14_u002] Monica Geller: A quin pidio el pollo General Tso?
+[s01_e17_c14_u003] Chandler Bing: Pudo aver sido General Tso!
+[s01_e17_c14_u004] Unknown Speaker: 
+[s01_e17_c14_u005] Rachel Green: Mira, Mira, el viejo desnudo est haciendo el hula hoop!
+[s01_e17_c14_u006] Unknown Speaker: 
+[s01_e17_c14_u007] #ALL#: Ewww!
+[s01_e17_c14_u008] Unknown Speaker: 
+[s01_e17_c14_u009] #ALL#: Hola, Joey!
+[s01_e17_c14_u010] Joey Tribbiani: Hola, amigos!
+[s01_e17_c14_u011] Unknown Speaker: 
+[s01_e17_c14_u012] Monica Geller: Mira, Ross, Marcel se llevo el control remoto.
+[s01_e17_c14_u013] Ross Geller: Lo que sucedio es que no le gusta la tele!"

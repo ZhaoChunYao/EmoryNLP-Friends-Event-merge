@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Says only a brief, hesitant greeting ('Um... hi there') and asks one clarifying question; no clear signs of being particularly outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a polite greeting and engages cooperatively by asking about the client's needs for the restaurant."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Asks specifically what kind of food is wanted, showing a detail-oriented, organized approach to understanding job requirements."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Slight hesitation ('Um...') but no clear signs of anxiety or strong confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking about the type of cuisine/concept for the new restaurant."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "The TargetSpeaker only says a curt 'None.' and a brief reactive 'What?!', showing minimal talkativeness and engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Aside from a surprised 'What?!', there is no clear cooperative or hostile behavior toward others in this exchange."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "'What?!' suggests momentary surprise but no sustained anxiety, irritability, or insecurity is shown."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or closed-mindedness appear in the brief responses."
+  }
+}

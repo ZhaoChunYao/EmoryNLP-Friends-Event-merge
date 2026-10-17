@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enjoys and endorses social connection: says they can talk and laugh together and is seeing multiple people (mentions a new partner and someone waiting) (u010, u014, u016, u028)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and considerate: says thank you (u002), apologizes for leaving because someone is waiting (u010), corrects gently (u018), and ends kindly with an invitation to call if the other changes their mind (u034)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Acknowledges being late and promptly leaves to meet the person waiting, apologizing and prioritizing the commitment (u004, u008, u010)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident during a difficult conversation, sets boundaries about leaving, and concludes decisively ('Call me if you change your mind') (u008, u030, u034)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortable with a casual, non‑obligatory, multi-partner arrangement and open to a new partner (u016, u028)."
+  }
+}

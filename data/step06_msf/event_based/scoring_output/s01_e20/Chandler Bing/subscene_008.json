@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly (offers help, says 'Hello? Hello?') without clear signs of being outgoing or highly talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers to help by sliding over so Speaker_03 can be on the couch, showing willingness to accommodate and cooperate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; the 'Hello? Hello?' appears to be a normal phone check."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/imagination or of dogmatic/cautious behavior in the brief exchange."
+  }
+}

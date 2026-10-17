@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or reserve; TargetSpeaker mostly states concerns about Animal Control and legality."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Another speaker says TargetSpeaker never told the group that keeping the animal was illegal and would lead to confiscation, indicating a lack of straightforwardness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker admits the pet is an illegal exotic animal and not allowed in the city, yet has it there, suggesting careless rule-breaking."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker worries that Animal Control could find the animal and take it away and reacts anxiously to them being invited."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Keeping an exotic animal is unconventional and suggests openness to unusual experiences."
+  }
+}

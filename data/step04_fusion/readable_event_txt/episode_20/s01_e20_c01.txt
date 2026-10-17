@@ -1,0 +1,73 @@
+event_id: s01_e20_c01_u001_e1
+utterance_id: s01_e20_c01_u001
+  tuple: ('believe', 'I/Chandler Bing', 'you would actually say that', 's01_e20_c01_u001')
+
+event_id: s01_e20_c01_u001_e2
+utterance_id: s01_e20_c01_u001
+  tuple: ('say', 'you/Joey Tribbiani', 'that', 's01_e20_c01_u001')
+
+event_id: s01_e20_c01_u001_e3
+utterance_id: s01_e20_c01_u001
+  tuple: ('be', 'I/Chandler Bing', 'Mr. Peanut', 's01_e20_c01_u001')
+
+event_id: s01_e20_c01_u002_e1
+utterance_id: s01_e20_c01_u002
+  tuple: ('be', 'Mr.Salty', 'a sailor', 's01_e20_c01_u002')
+
+event_id: s01_e20_c01_u002_e2
+utterance_id: s01_e20_c01_u002
+  tuple: ('be', 'he/Mr.Salty', 'thetoughest snack there is', 's01_e20_c01_u002')
+  tuple: ('be', 'there', None, 's01_e20_c01_u002')
+
+event_id: s01_e20_c01_u003_e1
+utterance_id: s01_e20_c01_u003
+  tuple: ('know', 'I/Ross Geller', None, 's01_e20_c01_u003')
+
+event_id: s01_e20_c01_u003_e2
+utterance_id: s01_e20_c01_u003
+  tuple: ('want', 'you/everyone', 'mess with corn nuts', 's01_e20_c01_u003')
+  tuple: ('mess', 'you/everyone', 'with corn nuts', 's01_e20_c01_u003')
+
+event_id: s01_e20_c01_u003_e3
+utterance_id: s01_e20_c01_u003
+  tuple: ('be', 'They/corn nuts', 'craaazy', 's01_e20_c01_u003')
+
+event_id: s01_e20_c01_u004_e1
+utterance_id: s01_e20_c01_u004
+  tuple: ('come', 'you/guys', 'see this', 's01_e20_c01_u004')
+  tuple: ('see', 'you/guys', 'this', 's01_e20_c01_u004')
+
+event_id: s01_e20_c01_u004_e2
+utterance_id: s01_e20_c01_u004
+  tuple: ('be', 'There', 'some creep out there with a telescope', 's01_e20_c01_u004')
+  tuple: ('be', 'some creep', 'out there', 's01_e20_c01_u004')
+  tuple: ('be', 'some creep', 'with a telescope', 's01_e20_c01_u004')
+
+event_id: s01_e20_c01_u005_e1
+utterance_id: s01_e20_c01_u005
+  tuple: ('believe', 'I/Ross Geller', 'it', 's01_e20_c01_u005')
+
+event_id: s01_e20_c01_u005_e2
+utterance_id: s01_e20_c01_u005
+  tuple: ('look', 'he/some creep', 'at us', 's01_e20_c01_u005')
+
+event_id: s01_e20_c01_u006_e1
+utterance_id: s01_e20_c01_u006
+  tuple: ('be', 'that/(some creep looking at us)', 'so sick', 's01_e20_c01_u006')
+
+event_id: s01_e20_c01_u007_e1
+utterance_id: s01_e20_c01_u007
+  tuple: ('feel', 'I/Chandler Bing', 'violated', 's01_e20_c01_u007')
+
+event_id: s01_e20_c01_u008_e1
+utterance_id: s01_e20_c01_u008
+  tuple: ('do', 'people', 'that', 's01_e20_c01_u008')
+
+event_id: s01_e20_c01_u008_e2
+utterance_id: s01_e20_c01_u008
+  tuple: ('look', 'you guys/(everyone)', None, 's01_e20_c01_u008')
+
+event_id: s01_e20_c01_u008_e3
+utterance_id: s01_e20_c01_u008
+  tuple: ('get', 'Ugly Naked Guy', 'gravity boots', 's01_e20_c01_u008')
+

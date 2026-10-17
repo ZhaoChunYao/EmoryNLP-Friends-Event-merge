@@ -1,0 +1,93 @@
+('do', 'you/Phoebe Buffay', None, 's01_e10_c06_u004')
+[s01_e10_c06_u004] David: Hi! What-what're you doing here?
+
+('tell', 'Max', 'me', 's01_e10_c06_u005')
+[s01_e10_c06_u005] Phoebe Buffay: Um, well, Max told me about Minsk, so congratulations! This is so exciting!
+
+('tell', 'Max', 'about Minsk', 's01_e10_c06_u005')
+[s01_e10_c06_u005] Phoebe Buffay: Um, well, Max told me about Minsk, so congratulations! This is so exciting!
+
+('be', 'this/(Minsk news)', 'so exciting', 's01_e10_c06_u005')
+[s01_e10_c06_u005] Phoebe Buffay: Um, well, Max told me about Minsk, so congratulations! This is so exciting!
+
+('be', 'it/(going to Minsk)', 'even more exciting', 's01_e10_c06_u006')
+[s01_e10_c06_u006] Max: It'd be even more exciting if we were going.
+
+('go', 'we/Max and David', None, 's01_e10_c06_u006')
+[s01_e10_c06_u006] Max: It'd be even more exciting if we were going.
+
+('go', 'you/Max and David', None, 's01_e10_c06_u007')
+[s01_e10_c06_u007] Phoebe Buffay: Oh, you're not going? Oh, why?
+
+('tell', 'you/David', 'her', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('want', 'I/David', 'go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('go', 'I/David', 'to Minsk', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('work', 'I/David', 'with Lifson', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('work', 'I/David', 'with Yamaguchi', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('work', 'I/David', 'with Flench', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('work', 'I/David', 'on nonononononono', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('want', 'I/David', 'stay here and make out with my girlfriend', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('stay', 'I/David', None, 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('make out', 'I/David', 'with my girlfriend', 's01_e10_c06_u008')
+[s01_e10_c06_u008] Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+
+('thank', 'David', 'you', 's01_e10_c06_u009')
+[s01_e10_c06_u009] David: Thank you, Max. Thank you.
+
+('go', 'you/David', None, 's01_e10_c06_u010')
+[s01_e10_c06_u010] Phoebe Buffay: So-so you're really not going?
+
+('know', 'I/David', None, 's01_e10_c06_u011')
+[s01_e10_c06_u011] David: I don't know. I don't know what I'm gonna do. I just- you decide.
+
+('know', 'I/David', "what I'm gonna do", 's01_e10_c06_u011')
+[s01_e10_c06_u011] David: I don't know. I don't know what I'm gonna do. I just- you decide.
+
+('do', 'I/David', None, 's01_e10_c06_u011')
+[s01_e10_c06_u011] David: I don't know. I don't know what I'm gonna do. I just- you decide.
+
+('decide', 'you/Phoebe Buffay', None, 's01_e10_c06_u011')
+[s01_e10_c06_u011] David: I don't know. I don't know what I'm gonna do. I just- you decide.
+
+('do', 'you/David', 'that', 's01_e10_c06_u012')
+[s01_e10_c06_u012] Phoebe Buffay: Oh don't do that.
+
+('ask', 'I/David', None, 's01_e10_c06_u015')
+[s01_e10_c06_u015] David: No, but I'm asking-
+
+('do', 'I/Phoebe Buffay', 'that', 's01_e10_c06_u016')
+[s01_e10_c06_u016] Phoebe Buffay: Oh, but I can't do that-
+
+('be', 'it/(the decision)', 'your thing', 's01_e10_c06_u018')
+[s01_e10_c06_u018] Phoebe Buffay: It's your thing, and-
+
+('make', 'you/Phoebe Buffay', 'the decision', 's01_e10_c06_u019')
+[s01_e10_c06_u019] David: -make the decision-
+
+('stay', 'you/David', None, 's01_e10_c06_u020')
+[s01_e10_c06_u020] Phoebe Buffay: Okay, um, stay.
+
+('get', 'you/David', 'so good at that', 's01_e10_c06_u024')
+[s01_e10_c06_u024] Phoebe Buffay: Getting so good at that!
+
+('be', 'it/(the stuff)', "Max's stuff", 's01_e10_c06_u025')
+[s01_e10_c06_u025] David: It was Max's stuff.
+

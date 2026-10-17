@@ -1,0 +1,189 @@
+('wait', 'Car', None, 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('want', 'I/(Nora Tyler Bing)', 'drop off these copies of my book for your friends', 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('drop off', 'I/(Nora Tyler Bing)', 'these copies of my book', 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('drop off', 'I/(Nora Tyler Bing)', 'for your friends', 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('want', 'you/(Chandler Bing)', 'anything', 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('want', 'you/(Chandler Bing)', 'from Lisbon', 's01_e11_c11_u001')
+[s01_e11_c11_u001] Nora Tyler Bing: Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+
+('know', 'I/(Chandler Bing)', 'you are gonna be there', 's01_e11_c11_u002')
+[s01_e11_c11_u002] Chandler Bing: No, just knowing you're gonna be there is enough.
+
+('be', 'you/(Nora Tyler Bing)', 'there', 's01_e11_c11_u002')
+[s01_e11_c11_u002] Chandler Bing: No, just knowing you're gonna be there is enough.
+
+('be', 'knowing you are gonna be there', 'enough', 's01_e11_c11_u002')
+[s01_e11_c11_u002] Chandler Bing: No, just knowing you're gonna be there is enough.
+
+('be', 'you/(Chandler Bing)', 'good', 's01_e11_c11_u003')
+[s01_e11_c11_u003] Nora Tyler Bing: Alright, well, be good, I love you.
+
+('love', 'I/(Nora Tyler Bing)', 'you', 's01_e11_c11_u003')
+[s01_e11_c11_u003] Nora Tyler Bing: Alright, well, be good, I love you.
+
+('kiss', 'you/(Nora Tyler Bing)', 'my best Ross', 's01_e11_c11_u004')
+[s01_e11_c11_u004] Chandler Bing: You kissed my best Ross! ...Or something to that effect.
+
+('look', 'you/(Chandler Bing)', None, 's01_e11_c11_u005')
+[s01_e11_c11_u005] Nora Tyler Bing: O-kay. Look, it, it was stupid.
+
+('be', 'it/(the kiss)', 'stupid', 's01_e11_c11_u005')
+[s01_e11_c11_u005] Nora Tyler Bing: O-kay. Look, it, it was stupid.
+
+('know', 'I/(Nora Tyler Bing)', 'how it happened', 's01_e11_c11_u007')
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+
+('happen', 'it/(the kiss)', None, 's01_e11_c11_u007')
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+
+('be', 'I/(Nora Tyler Bing)', 'sorry', 's01_e11_c11_u007')
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+
+('promise', 'I/(Nora Tyler Bing)', 'it will never happen again', 's01_e11_c11_u007')
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+
+('be', 'we/(Nora Tyler Bing+Chandler Bing)', 'okay', 's01_e11_c11_u007')
+[s01_e11_c11_u007] Nora Tyler Bing: Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+
+('do', 'he/(Chandler Bing)', 'it/(tell her off)', 's01_e11_c11_u011')
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+
+('tell off', 'he/(Chandler Bing)', 'her', 's01_e11_c11_u011')
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+
+('tell', 'he/(Chandler Bing)', 'about the kiss', 's01_e11_c11_u011')
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+
+('tell', 'he/(Chandler Bing)', 'about everything', 's01_e11_c11_u011')
+[s01_e11_c11_u011] Joey Tribbiani: Shh. He did it. He told her off, and not just about the kiss, about everything.
+
+('kid', 'you/(Joey Tribbiani)', None, 's01_e11_c11_u012')
+[s01_e11_c11_u012] Ross Geller: You're kidding.
+
+('say', 'he/(Chandler Bing)', '"When are you gonna grow up and start being a mom?"', 's01_e11_c11_u013')
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said "When are you gonna grow up and start being a mom?"
+
+('grow up', 'you/(Nora Tyler Bing)', None, 's01_e11_c11_u013')
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said "When are you gonna grow up and start being a mom?"
+
+('start', 'you/(Nora Tyler Bing)', 'being a mom', 's01_e11_c11_u013')
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said "When are you gonna grow up and start being a mom?"
+
+('be', 'you/(Nora Tyler Bing)', 'a mom', 's01_e11_c11_u013')
+[s01_e11_c11_u013] Joey Tribbiani: No, no. He said "When are you gonna grow up and start being a mom?"
+
+('come back with', 'she/(Nora Tyler Bing)', '"The question is, when are you gonna grow up and realise I have a bomb?"', 's01_e11_c11_u015')
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+
+('be', 'the question', 'when are you gonna grow up and realise I have a bomb', 's01_e11_c11_u015')
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+
+('grow up', 'you/(Chandler Bing)', None, 's01_e11_c11_u015')
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+
+('realise', 'you/(Chandler Bing)', 'I have a bomb', 's01_e11_c11_u015')
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+
+('have', 'I/(Nora Tyler Bing)', 'a bomb', 's01_e11_c11_u015')
+[s01_e11_c11_u015] Joey Tribbiani: Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+
+('wait', 'you/(Joey Tribbiani)', 'a minute', 's01_e11_c11_u016')
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+
+('be', 'you/(Joey Tribbiani)', 'sure', 's01_e11_c11_u016')
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+
+('say', 'she/(Nora Tyler Bing)', '"When are you gonna grow up and realise I am your mom?"', 's01_e11_c11_u016')
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+
+('realise', 'you/(Chandler Bing)', 'I am your mom', 's01_e11_c11_u016')
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+
+('be', 'I/(Nora Tyler Bing)', 'your mom', 's01_e11_c11_u016')
+[s01_e11_c11_u016] Ross Geller: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+
+('make', "that/(the 'I am your mom' version)", 'more sense', 's01_e11_c11_u017')
+[s01_e11_c11_u017] Joey Tribbiani: That makes more sense.
+
+('go on', 'what/(the situation now)', None, 's01_e11_c11_u018')
+[s01_e11_c11_u018] Ross Geller: So, what's going on now?
+
+('know', 'I/(Joey Tribbiani)', None, 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('stand', 'I/(Joey Tribbiani)', None, 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('spell out', 'I/(Joey Tribbiani)', 'it', 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('spell out', 'I/(Joey Tribbiani)', 'for you', 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('hear', 'I/(Joey Tribbiani)', 'anything', 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('wait', 'you/(Ross Geller)', None, 's01_e11_c11_u019')
+[s01_e11_c11_u019] Joey Tribbiani: I dunno, I've been standing here spelling it out for you! I don't hear anything. Oh, wait, wait, wait.
+
+('see', 'you/(Joey Tribbiani)', 'what', 's01_e11_c11_u020')
+[s01_e11_c11_u020] Ross Geller: Whaddya see?
+
+('be', 'they/(Chandler Bing+Nora Tyler Bing)', 'so tiny and upside-down', 's01_e11_c11_u021')
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+
+('walk away', 'they/(Chandler Bing+Nora Tyler Bing)', None, 's01_e11_c11_u021')
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+
+('come', 'they/(Chandler Bing+Nora Tyler Bing)', None, 's01_e11_c11_u021')
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+
+('come', 'they/(Chandler Bing+Nora Tyler Bing)', 'at us', 's01_e11_c11_u021')
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+
+('run', 'you/(Ross Geller)', None, 's01_e11_c11_u021')
+[s01_e11_c11_u021] Joey Tribbiani: Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+
+('be', 'you/(Chandler Bing)', 'okay', 's01_e11_c11_u023')
+[s01_e11_c11_u023] Nora Tyler Bing: You okay, kiddo?
+
+('mean', 'you/(Chandler Bing)', 'that', 's01_e11_c11_u033')
+[s01_e11_c11_u033] Ross Geller: You mean that?
+
+('tell', 'I/(Chandler Bing)', 'her', 's01_e11_c11_u034')
+[s01_e11_c11_u034] Chandler Bing: Yeah, why not. So I told her.
+
+('go', 'it/(the talk)', None, 's01_e11_c11_u035')
+[s01_e11_c11_u035] Ross Geller: Yeah? How'd it go?
+
+('go', 'it/(the talk)', 'worse', 's01_e11_c11_u036')
+[s01_e11_c11_u036] Chandler Bing: Awful. Awful. Couldn'ta gone worse.
+
+('feel', 'you/(Chandler Bing)', None, 's01_e11_c11_u037')
+[s01_e11_c11_u037] Ross Geller: Well, howdya feel?
+
+('see', 'you/(Chandler Bing)', None, 's01_e11_c11_u039')
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road.
+
+('be', 'it/(Ross kissing your mom)', 'such a bad idea', 's01_e11_c11_u039')
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road.
+
+('kiss', 'me/(Ross Geller)', 'your mom', 's01_e11_c11_u039')
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road.
+
+('go', 'we/(Ross Geller+Chandler Bing)', 'down that road', 's01_e11_c11_u039')
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road.
+
+('know', 'you/(Chandler Bing)', None, 's01_e11_c11_u039')
+[s01_e11_c11_u039] Ross Geller: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? But.. we don't have to go down that road.
+

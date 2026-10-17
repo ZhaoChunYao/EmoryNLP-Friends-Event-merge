@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker energetically joins the count of people with dates (u013) and proposes a big group party (u018), showing sociable, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When Speaker_01 feels left out, TargetSpeaker suggests a big party where no one knows who is with whom (u018), a supportive, inclusive attempt to ease Speaker_01’s feelings."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness; TargetSpeaker mainly jokes and proposes a party (u013, u018)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responds calmly and optimistically, offering a playful solution (u018) and showing no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggests an unconventional, flexible plan—turning the evening into a mixed, ambiguous big party (u018)—indicating creativity and openness to new approaches."
+  }
+}

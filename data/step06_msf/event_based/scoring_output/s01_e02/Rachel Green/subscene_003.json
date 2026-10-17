@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and then ends the chat to return to duties; no clear sign of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses polite, inclusive phrasing—“All right, you guys, I kinda gotta clean up now”—to gently redirect the group."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Prioritizes responsibility by stating the need to clean up now, indicating task orientation and diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety, irritation, or emotional volatility; tone appears matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Makes a simple factual remark and focuses on chores; no indication of curiosity or openness to new ideas."
+  }
+}

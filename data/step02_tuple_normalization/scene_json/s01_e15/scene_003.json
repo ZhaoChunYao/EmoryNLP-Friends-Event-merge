@@ -1,0 +1,406 @@
+{
+  "tuples": [
+    {
+      "verb": "come",
+      "subject": "Chandler",
+      "object": null,
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "say",
+      "subject": "he/Chandler",
+      "object": "he has this incredible news",
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "have",
+      "subject": "he/Chandler",
+      "object": "this incredible news",
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "get",
+      "subject": "he/Chandler",
+      "object": "here",
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "act",
+      "subject": "we/#ALL#",
+      "object": "like you know",
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "know",
+      "subject": "you/#ALL#",
+      "object": null,
+      "uid": "s01_e15_c03_u001"
+    },
+    {
+      "verb": "mind",
+      "subject": "you/#ALL#",
+      "object": null,
+      "uid": "s01_e15_c03_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(plan)",
+      "object": "really good",
+      "uid": "s01_e15_c03_u005"
+    },
+    {
+      "verb": "go on",
+      "subject": "what",
+      "object": null,
+      "uid": "s01_e15_c03_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(news)",
+      "object": "what",
+      "uid": "s01_e15_c03_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(day)",
+      "object": "a typical day",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(day)",
+      "object": "at work",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "input",
+      "subject": "I/Chandler",
+      "object": "my numbers",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "call",
+      "subject": "Big Al",
+      "object": "me",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "call",
+      "subject": "Big Al",
+      "object": "into his office",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "tell",
+      "subject": "Big Al",
+      "object": "me",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "tell",
+      "subject": "Big Al",
+      "object": "he wants to make me processing supervisor",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "want",
+      "subject": "he/Big Al",
+      "object": "to make me processing supervisor",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "make",
+      "subject": "he/Big Al",
+      "object": "me processing supervisor",
+      "uid": "s01_e15_c03_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(news)",
+      "object": "great",
+      "uid": "s01_e15_c03_u009"
+    },
+    {
+      "verb": "quit",
+      "subject": "I/Chandler",
+      "object": null,
+      "uid": "s01_e15_c03_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(job)",
+      "object": "a temp job",
+      "uid": "s01_e15_c03_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Chandler",
+      "object": "there",
+      "uid": "s01_e15_c03_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Chandler",
+      "object": "for five years",
+      "uid": "s01_e15_c03_u013"
+    },
+    {
+      "verb": "take",
+      "subject": "I/Chandler",
+      "object": "this promotion",
+      "uid": "s01_e15_c03_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(taking the promotion)",
+      "object": "like admitting that this is what I actually do",
+      "uid": "s01_e15_c03_u014"
+    },
+    {
+      "verb": "admit",
+      "subject": "I/Chandler",
+      "object": "that this is what I actually do",
+      "uid": "s01_e15_c03_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(job)",
+      "object": "what I actually do",
+      "uid": "s01_e15_c03_u014"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Chandler",
+      "object": "what I actually do",
+      "uid": "s01_e15_c03_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(promotion)",
+      "object": "a lot more money",
+      "uid": "s01_e15_c03_u015"
+    },
+    {
+      "verb": "matter",
+      "subject": "it/(money)",
+      "object": null,
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Chandler",
+      "object": "to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS",
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler",
+      "object": "one of those guys that's in his office until twelve o'clock at night worrying about the WENUS",
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "those guys",
+      "object": "in his office",
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "those guys",
+      "object": "until twelve o'clock at night",
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "worry",
+      "subject": "those guys",
+      "object": "about the WENUS",
+      "uid": "s01_e15_c03_u016"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Chandler",
+      "object": "what",
+      "uid": "s01_e15_c03_u021"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Chandler",
+      "object": null,
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(situation)",
+      "object": "the thing",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Chandler",
+      "object": "what I want to do",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Chandler",
+      "object": "to do what",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Chandler",
+      "object": "what",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Chandler",
+      "object": "I'm not going to figure it out working there",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "figure out",
+      "subject": "I/Chandler",
+      "object": "it",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "work",
+      "subject": "I/Chandler",
+      "object": "there",
+      "uid": "s01_e15_c03_u022"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Phoebe",
+      "object": "something you can do",
+      "uid": "s01_e15_c03_u023"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Chandler",
+      "object": "something",
+      "uid": "s01_e15_c03_u023"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Phoebe",
+      "object": "this new massage client",
+      "uid": "s01_e15_c03_u023"
+    },
+    {
+      "verb": "open up",
+      "subject": "he/Steve",
+      "object": "a restaurant",
+      "uid": "s01_e15_c03_u023"
+    },
+    {
+      "verb": "look",
+      "subject": "he/Steve",
+      "object": "for a head chef",
+      "uid": "s01_e15_c03_u023"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Phoebe",
+      "object": null,
+      "uid": "s01_e15_c03_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Monica",
+      "object": "a chef",
+      "uid": "s01_e15_c03_u025"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Phoebe",
+      "object": "of you",
+      "uid": "s01_e15_c03_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "Chandler",
+      "object": "the one who needs a job right now",
+      "uid": "s01_e15_c03_u025"
+    },
+    {
+      "verb": "need",
+      "subject": "Chandler",
+      "object": "a job",
+      "uid": "s01_e15_c03_u025"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler",
+      "object": "that much cheffing experience",
+      "uid": "s01_e15_c03_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(restaurant)",
+      "object": "an all-toast restaurant",
+      "uid": "s01_e15_c03_u026"
+    },
+    {
+      "verb": "look",
+      "subject": "he/Steve",
+      "object": "for what kind of food",
+      "uid": "s01_e15_c03_u028"
+    },
+    {
+      "verb": "want",
+      "subject": "he/Steve",
+      "object": "to do some ecclectic",
+      "uid": "s01_e15_c03_u029"
+    },
+    {
+      "verb": "do",
+      "subject": "he/Steve",
+      "object": "some ecclectic",
+      "uid": "s01_e15_c03_u029"
+    },
+    {
+      "verb": "look",
+      "subject": "he/Steve",
+      "object": "for someone",
+      "uid": "s01_e15_c03_u029"
+    },
+    {
+      "verb": "create",
+      "subject": "someone",
+      "object": "the entire menu",
+      "uid": "s01_e15_c03_u029"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Monica",
+      "object": "what",
+      "uid": "s01_e15_c03_u031"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Chandler",
+      "object": "Phoebe",
+      "uid": "s01_e15_c03_u032"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Chandler",
+      "object": "myself",
+      "uid": "s01_e15_c03_u032"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Chandler",
+      "object": "in a big white hat",
+      "uid": "s01_e15_c03_u032"
+    },
+    {
+      "verb": "guess",
+      "subject": "you/Monica",
+      "object": "what",
+      "uid": "s01_e15_c03_u033"
+    }
+  ]
+}

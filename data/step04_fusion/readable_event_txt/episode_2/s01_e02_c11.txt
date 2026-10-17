@@ -1,0 +1,108 @@
+event_id: s01_e02_c11_u001_e1
+utterance_id: s01_e02_c11_u001
+  tuple: ('be', 'that/(sonogram image)', 'amazing', 's01_e02_c11_u001')
+
+event_id: s01_e02_c11_u002_e1
+utterance_id: s01_e02_c11_u002
+  tuple: ('suppose', 'we/(Joey Tribbiani+group)', 'see here', 's01_e02_c11_u002')
+  tuple: ('see', 'we/(Joey Tribbiani+group)', 'what', 's01_e02_c11_u002')
+
+event_id: s01_e02_c11_u003_e1
+utterance_id: s01_e02_c11_u003
+  tuple: ('know', 'I/(Chandler Bing)', None, 's01_e02_c11_u003')
+
+event_id: s01_e02_c11_u003_e2
+utterance_id: s01_e02_c11_u003
+  tuple: ('think', 'I/(Chandler Bing)', "it's about to attack the Enterprise", 's01_e02_c11_u003')
+  tuple: ('attack', 'it/(sonogram image)', 'the Enterprise', 's01_e02_c11_u003')
+
+event_id: s01_e02_c11_u004_e1
+utterance_id: s01_e02_c11_u004
+  tuple: ('know', 'you/(group)', None, 's01_e02_c11_u004')
+
+event_id: s01_e02_c11_u004_e2
+utterance_id: s01_e02_c11_u004
+  tuple: ('tilt', 'you/(group)', 'your head', 's01_e02_c11_u004')
+  tuple: ('tilt', 'you/(group)', 'to the left', 's01_e02_c11_u004')
+  tuple: ('relax', 'you/(group)', 'your eyes', 's01_e02_c11_u004')
+  tuple: ('look', 'it/(sonogram image)', 'like an old potato', 's01_e02_c11_u004')
+
+event_id: s01_e02_c11_u005_e1
+utterance_id: s01_e02_c11_u005
+  tuple: ('do', 'you/(group)', 'that', 's01_e02_c11_u005')
+
+event_id: s01_e02_c11_u007_e1
+utterance_id: s01_e02_c11_u007
+  tuple: ('think', 'you/(Monica Geller)', 'what', 's01_e02_c11_u007')
+
+event_id: s01_e02_c11_u009_e1
+utterance_id: s01_e02_c11_u009
+  tuple: ('well up', 'you/(Monica Geller)', None, 's01_e02_c11_u009')
+
+event_id: s01_e02_c11_u011_e1
+utterance_id: s01_e02_c11_u011
+  tuple: ('be', 'you/(Monica Geller)', None, 's01_e02_c11_u011')
+
+event_id: s01_e02_c11_u012_e1
+utterance_id: s01_e02_c11_u012
+  tuple: ('be', 'I/(Monica Geller)', None, 's01_e02_c11_u012')
+
+event_id: s01_e02_c11_u013_e1
+utterance_id: s01_e02_c11_u013
+  tuple: ('be', 'you/(Monica Geller)', 'an aunt', 's01_e02_c11_u013')
+
+event_id: s01_e02_c11_u014_e1
+utterance_id: s01_e02_c11_u014
+  tuple: ('shut up', 'you/(Ross Geller)', None, 's01_e02_c11_u014')
+
+event_id: s01_e02_c11_u015_e1
+utterance_id: s01_e02_c11_u015
+  tuple: ('be', 'it/(phone call)', 'Rachel', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e2
+utterance_id: s01_e02_c11_u015
+  tuple: ('be', 'I/(Rachel Green)', 'fine', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e3
+utterance_id: s01_e02_c11_u015
+  tuple: ('see', 'I/(Rachel Green)', 'Barry', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e4
+utterance_id: s01_e02_c11_u015
+  tuple: ('tell', 'he/(Barry)', 'me', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e5
+utterance_id: s01_e02_c11_u015
+  tuple: ('be', 'it/(situation)', 'okay', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e6
+utterance_id: s01_e02_c11_u015
+  tuple: ('hope', 'I/(Rachel Green)', 'you two are very happy', 's01_e02_c11_u015')
+  tuple: ('be', 'you two/(Barry+Mindy)', 'very happy', 's01_e02_c11_u015')
+  tuple: ('do', 'I/(Rachel Green)', None, 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e7
+utterance_id: s01_e02_c11_u015
+  tuple: ('know', 'you/(Mindy)', None, 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e8
+utterance_id: s01_e02_c11_u015
+  tuple: ('work out', 'everything', None, 's01_e02_c11_u015')
+  tuple: ('end up', 'you guys/(Barry+Mindy)', 'getting married and having kids and everything', 's01_e02_c11_u015')
+  tuple: ('get married', 'you guys/(Barry+Mindy)', None, 's01_e02_c11_u015')
+  tuple: ('have', 'you guys/(Barry+Mindy)', 'kids', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e9
+utterance_id: s01_e02_c11_u015
+  tuple: ('hope', 'I/(Rachel Green)', 'they have his old hairline and your old nose', 's01_e02_c11_u015')
+  tuple: ('have', "they/(Barry+Mindy's kids)", 'his old hairline and your old nose', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e10
+utterance_id: s01_e02_c11_u015
+  tuple: ('know', 'I/(Rachel Green)', 'it was a cheap shot', 's01_e02_c11_u015')
+  tuple: ('be', 'it/(comment)', 'a cheap shot', 's01_e02_c11_u015')
+
+event_id: s01_e02_c11_u015_e11
+utterance_id: s01_e02_c11_u015
+  tuple: ('feel', 'I/(Rachel Green)', 'so much better now', 's01_e02_c11_u015')
+

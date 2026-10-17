@@ -1,0 +1,154 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u001_e1",
+          "tuples": [
+            "('think', 'I/(Melanie)', 'I blacked out there for a minute', 's01_e24_c05_u001')",
+            "('black out', 'I/(Melanie)', 'for a minute', 's01_e24_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u002_e1",
+          "tuples": [
+            "('be', 'It', \"nothin'\", 's01_e24_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u003_e1",
+          "tuples": [
+            "('find', 'we/(Melanie+Joey Tribbiani)', 'something fun for you', 's01_e24_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u004_e1",
+          "tuples": [
+            "('know', 'you/(Melanie)', 'what', 's01_e24_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u004_e2",
+          "tuples": [
+            "('forget', 'you/(Melanie)', 'about me', 's01_e24_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u004_e3",
+          "tuples": [
+            "('give', 'we/(Melanie+Joey Tribbiani)', 'you another turn', 's01_e24_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u007_e1",
+          "tuples": [
+            "('get', 'somebody', 'a big fruit basket', 's01_e24_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u009",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u009_e1",
+          "tuples": [
+            "('tell', 'I/(Melanie)', 'you', 's01_e24_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u009_e2",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'nothing', 's01_e24_c05_u009')",
+            "('be', 'you/(Joey Tribbiani)', 'like I thought you would be', 's01_e24_c05_u009')",
+            "('be', 'you/(Joey Tribbiani)', None, 's01_e24_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u009_e3",
+          "tuples": [
+            "('think', 'I/(Melanie)', 'you would be', 's01_e24_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u010",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u010_e1",
+          "tuples": [
+            "('mean', 'you/(Melanie)', None, 's01_e24_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e24_c05_u011_e1",
+          "tuples": [
+            "('know', 'I/(Melanie)', None, 's01_e24_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u011_e2",
+          "tuples": [
+            "('guess', 'I/(Melanie)', \"I just had you pegged as one of those guys who're always 'me, me, me.'\", 's01_e24_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u011_e3",
+          "tuples": [
+            "('have', 'I/(Melanie)', \"you pegged as one of those guys who're always 'me, me, me.'\", 's01_e24_c05_u011')",
+            "('peg', 'I/(Melanie)', 'you', 's01_e24_c05_u011')",
+            "('peg', 'I/(Melanie)', \"as one of those guys who're always 'me, me, me.'\", 's01_e24_c05_u011')",
+            "('be', 'those guys', 'me, me, me', 's01_e24_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u011_e4",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'a giver', 's01_e24_c05_u011')",
+            "('be', 'you/(Joey Tribbiani)', 'like the most generous man I ever met', 's01_e24_c05_u011')",
+            "('be', 'you/(Joey Tribbiani)', 'practically a woman', 's01_e24_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u011_e5",
+          "tuples": [
+            "('meet', 'I/(Melanie)', 'the most generous man', 's01_e24_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c05_u011_e6",
+          "tuples": [
+            "('mean', 'I/(Melanie)', None, 's01_e24_c05_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

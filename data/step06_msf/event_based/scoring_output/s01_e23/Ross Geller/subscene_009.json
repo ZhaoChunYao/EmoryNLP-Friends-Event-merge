@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and talkative throughout—counts aloud during contractions and continues to argue ('No, you started it'; 'But...'; 'Speaker_02 should listen to me')."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker argues and blames others ('No, you started it'; 'Thanks a lot'), resists requests, and keeps bickering during labor, which Speaker_02 says is making the childbirth more difficult."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Instead of staying focused on helping, TargetSpeaker engages in a distracting name dispute and continues arguing even after being asked to leave ('But...'), contributing to disorganization during the delivery."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows confidence and little anxiety, insisting on decisions ('my son's name is Jamie') and demanding to be heeded ('Speaker_02 should listen to me')."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker is dogmatic about the baby’s name, rejecting alternatives and insisting 'we all agreed... my son's name is Jamie' and 'we never settled on [Speaker_04].'"
+  }
+}

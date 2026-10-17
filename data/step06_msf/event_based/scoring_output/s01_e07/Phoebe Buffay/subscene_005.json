@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly to halt and question; not notably talkative or sociable beyond that."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confronts the claimant and calls him “a very bad man,” showing distrust and criticism."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Stops the handover and asks for the cat’s name to verify ownership before complying."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and no visible anxiety while challenging the claimant and making a firm judgment."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Behaves cautiously—“wait a minute” and demands the cat’s name—prioritizing verification over openness."
+  }
+}

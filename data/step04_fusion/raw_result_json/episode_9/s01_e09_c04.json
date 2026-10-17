@@ -1,0 +1,324 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c04_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(all)', None, 's01_e09_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('talk', 'she/(unspecified)', 'to it', 's01_e09_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', 'that I should get some belly time too', 's01_e09_c04_u001')",
+            "('get', 'I/(Ross Geller)', 'some belly time', 's01_e09_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('believe', 'I/(Ross Geller)', 'any of this', 's01_e09_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('believe', 'I/(Phoebe Buffay)', 'it', 's01_e09_c04_u002')",
+            "('think', 'I/(Phoebe Buffay)', 'the baby can hear everything', 's01_e09_c04_u002')",
+            "('hear', 'the baby', 'everything', 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('show', 'I/(Phoebe Buffay)', 'you', 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('look', 'you/(Ross Geller)', None, 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('seem', 'this/(idea)', 'a little weird', 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('put', 'you/(Ross Geller)', 'your head', 's01_e09_c04_u002')",
+            "('put', 'you/(Ross Geller)', 'inside this turkey', 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('talk', 'we all/(group)', None, 's01_e09_c04_u002')",
+            "('say', 'we/(group)', 'everything', 's01_e09_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('hear', 'you/(Ross Geller)', 'everything we say', 's01_e09_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'I/(Chandler Bing)', 'that I am totally behind this experiment', 's01_e09_c04_u003')",
+            "('be', 'I/(Chandler Bing)', 'behind this experiment', 's01_e09_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('butter', 'I/(Chandler Bing)', 'your head', 's01_e09_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('make', 'you/(Rachel Green)', 'your money', 's01_e09_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('forget', 'you/(Rachel Green)', 'Vail', 's01_e09_c04_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('forget', 'you/(Rachel Green)', 'seeing my family', 's01_e09_c04_u006')",
+            "('see', 'I/(Rachel Green)', 'my family', 's01_e09_c04_u006')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('forget', 'you/(Rachel Green)', 'shoop, shoop, shoop', 's01_e09_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'your mail', 'here', 's01_e09_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('put', 'you/(Monica Geller)', 'it', 's01_e09_c04_u008')",
+            "('put', 'you/(Monica Geller)', 'on the table', 's01_e09_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('open', 'you/(Rachel Green)', 'it', 's01_e09_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you guys/(friends)', 'great', 's01_e09_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('chip', 'we all/(group)', 'in', 's01_e09_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('owe', 'you/(Joey Tribbiani)', 'me 20 bucks', 's01_e09_c04_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('thank', 'I/(Rachel Green)', 'you', 's01_e09_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/(Chandler Bing)', None, 's01_e09_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('get', 'I/(Monica Geller)', 'your traditional Thanksgiving feast', 's01_e09_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('get', 'you/(Chandler Bing)', \"your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns\", 's01_e09_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this/(meal)', 'what you are having for Thanksgiving dinner', 's01_e09_c04_u019')",
+            "('have', 'you/(Chandler Bing)', 'for Thanksgiving dinner', 's01_e09_c04_u019')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it/(problem)', 'with you and this holiday', 's01_e09_c04_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'nine years old', 's01_e09_c04_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/(Ross Geller)', 'this story', 's01_e09_c04_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('finish', \"we/(Chandler Bing's family)\", 'this magnificent Thanksgiving dinner', 's01_e09_c04_u022')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'a mouthful of pumpkin pie', 's01_e09_c04_u022')",
+            "('remember', 'I/(Chandler Bing)', 'this part', 's01_e09_c04_u022')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'this/(moment)', 'the moment', 's01_e09_c04_u022')",
+            "('tell', 'my parents', 'me they are getting divorced', 's01_e09_c04_u022')",
+            "('get', 'they/(my parents)', 'divorced', 's01_e09_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c04_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it/(situation)', 'very difficult to appreciate a Thanksgiving dinner once you have seen it in reverse', 's01_e09_c04_u024')",
+            "('appreciate', 'you/(general)', 'a Thanksgiving dinner', 's01_e09_c04_u024')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('see', 'you/(general)', 'it', 's01_e09_c04_u024')",
+            "('see', 'you/(general)', 'in reverse', 's01_e09_c04_u024')"
+          ]
+        }
+      ]
+    }
+  ]
+}

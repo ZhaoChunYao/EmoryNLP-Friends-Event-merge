@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only brief replies like “Alright.” and “Hey.” and does not engage further, showing reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Agrees to change the music when others plan to listen to something else, going along cooperatively and greeting others politely."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says they are \"going to pay for agreeing to change the music tonight,\" expressing worry about negative consequences."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Expresses caution/regret about the music change rather than curiosity or enthusiasm for it."
+  }
+}

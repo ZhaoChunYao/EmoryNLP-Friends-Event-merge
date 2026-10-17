@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being outgoing or reserved; TargetSpeaker speaks briefly and directly about the issue without broader social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is non-demanding (“knowing you will be in Lisbon is enough”) and straightforward in addressing the betrayal (“you kissed Speaker_02”), consistent with honest, direct communication."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization or carefulness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows emotional conflict and sensitivity after the apology (“Really stupid.” and “Yeah. No. No...”), indicating distress and insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/inventiveness or of being closed-minded/dogmatic in this brief exchange."
+  }
+}

@@ -1,0 +1,71 @@
+event_id: s01_e09_c01_u001_e1
+utterance_id: s01_e09_c01_u001
+  tuple: ('know', 'I/Rachel Green', "that I haven't worked here very long", 's01_e09_c01_u001')
+  tuple: ('work', 'I/Rachel Green', None, 's01_e09_c01_u001')
+
+event_id: s01_e09_c01_u001_e2
+utterance_id: s01_e09_c01_u001
+  tuple: ('wonder', 'I/Rachel Green', 'do you think it would be possible if I got a $100 advance in my salary', 's01_e09_c01_u001')
+  tuple: ('think', 'you/Terry', 'it would be possible if I got a $100 advance in my salary', 's01_e09_c01_u001')
+  tuple: ('be', 'it', 'possible', 's01_e09_c01_u001')
+  tuple: ('get', 'I/Rachel Green', 'a $100 advance', 's01_e09_c01_u001')
+  tuple: ('get', 'I/Rachel Green', 'in my salary', 's01_e09_c01_u001')
+
+event_id: s01_e09_c01_u003_e1
+utterance_id: s01_e09_c01_u003
+  tuple: ('be', 'it', 'so that I can spend Thanksgiving with my family', 's01_e09_c01_u003')
+  tuple: ('spend', 'I/Rachel Green', 'Thanksgiving', 's01_e09_c01_u003')
+  tuple: ('spend', 'I/Rachel Green', 'with my family', 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u003_e2
+utterance_id: s01_e09_c01_u003
+  tuple: ('go', 'we/Rachel Green_family', 'skiing', 's01_e09_c01_u003')
+  tuple: ('ski', 'we/Rachel Green_family', 'in Vail', 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u003_e3
+utterance_id: s01_e09_c01_u003
+  tuple: ('pay', 'my father', 'for my ticket', 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u003_e4
+utterance_id: s01_e09_c01_u003
+  tuple: ('start', 'I/Rachel Green', 'the whole independence thing', 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u003_e5
+utterance_id: s01_e09_c01_u003
+  tuple: ('know', 'you/Terry', None, 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u003_e6
+utterance_id: s01_e09_c01_u003
+  tuple: ('be', 'which', 'why I took this job', 's01_e09_c01_u003')
+  tuple: ('take', 'I/Rachel Green', 'this job', 's01_e09_c01_u003')
+
+event_id: s01_e09_c01_u004_e1
+utterance_id: s01_e09_c01_u004
+  tuple: ('be', 'you/Rachel Green', 'a terrible, terrible waitress', 's01_e09_c01_u004')
+
+event_id: s01_e09_c01_u005_e1
+utterance_id: s01_e09_c01_u005
+  tuple: ('hear', 'I/Rachel Green', "what you're sayin'", 's01_e09_c01_u005')
+  tuple: ('say', 'you/Terry', 'what', 's01_e09_c01_u005')
+
+event_id: s01_e09_c01_u005_e2
+utterance_id: s01_e09_c01_u005
+  tuple: ('be', 'I/Rachel Green', 'with you', 's01_e09_c01_u005')
+
+event_id: s01_e09_c01_u005_e3
+utterance_id: s01_e09_c01_u005
+  tuple: ('try', 'I/Rachel Green', None, 's01_e09_c01_u005')
+
+event_id: s01_e09_c01_u005_e4
+utterance_id: s01_e09_c01_u005
+  tuple: ('think', 'I/Rachel Green', "I'm doing better", 's01_e09_c01_u005')
+  tuple: ('do', 'I/Rachel Green', 'better', 's01_e09_c01_u005')
+
+event_id: s01_e09_c01_u005_e5
+utterance_id: s01_e09_c01_u005
+  tuple: ('need', 'anybody', 'coffee', 's01_e09_c01_u005')
+
+event_id: s01_e09_c01_u005_e6
+utterance_id: s01_e09_c01_u005
+  tuple: ('look', 'you/Terry', 'at that', 's01_e09_c01_u005')
+

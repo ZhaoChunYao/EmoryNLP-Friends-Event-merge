@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief responses (“Wow,” “I’m fine,” “I’m not going to Minsk”) but there’s no clear behavior showing either outgoing talkativeness or marked reservedness beyond brevity."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is caring and straightforward: refuses to hurt Speaker_01 by breaking up (“I cannot break up with you”) and offers affection (“I will never forget you”), while clearly stating his decision (“I’m not going to Minsk”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete actions indicate organization, diligence, or carelessness; his choice is about the relationship, not task management or reliability."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows emotional sensitivity to the imagined breakup (“Uh, ow”) and says he cannot go through with a breakup, indicating distress and vulnerability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Refusal to go to Minsk is framed as preserving the relationship, not as avoidance of new experiences or dogmatic thinking; no clear curiosity or closed-mindedness displayed."
+  }
+}

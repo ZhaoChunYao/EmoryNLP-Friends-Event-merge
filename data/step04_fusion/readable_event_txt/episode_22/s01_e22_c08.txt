@@ -1,0 +1,186 @@
+event_id: s01_e22_c08_u001_e1
+utterance_id: s01_e22_c08_u001
+  tuple: ('be', 'Andr', 'there', 's01_e22_c08_u001')
+  tuple: ('be', 'Andr', 'in like 45 minutes', 's01_e22_c08_u001')
+
+event_id: s01_e22_c08_u002_e1
+utterance_id: s01_e22_c08_u002
+  tuple: ('tell', 'you/Rachel Green', 'me', 's01_e22_c08_u002')
+  tuple: ('tell', 'you/Rachel Green', 'about the last dream', 's01_e22_c08_u002')
+
+event_id: s01_e22_c08_u002_e2
+utterance_id: s01_e22_c08_u002
+  tuple: ('come', 'you/Rachel Green', 'on', 's01_e22_c08_u002')
+
+event_id: s01_e22_c08_u003_e1
+utterance_id: s01_e22_c08_u003
+  tuple: ('forget', 'you/Chandler Bing', 'it', 's01_e22_c08_u003')
+
+event_id: s01_e22_c08_u004_e1
+utterance_id: s01_e22_c08_u004
+  tuple: ('do', 'I/Chandler Bing', 'anything', 's01_e22_c08_u004')
+
+event_id: s01_e22_c08_u005_e1
+utterance_id: s01_e22_c08_u005
+  tuple: ('be', 'you/Chandler Bing', 'not the only one there', 's01_e22_c08_u005')
+  tuple: ('be', 'Joey Tribbiani', 'there', 's01_e22_c08_u005')
+
+event_id: s01_e22_c08_u007_e1
+utterance_id: s01_e22_c08_u007
+  tuple: ('be', 'there', 'anybody else', 's01_e22_c08_u007')
+
+event_id: s01_e22_c08_u009_e1
+utterance_id: s01_e22_c08_u009
+  tuple: ('be', 'you/Rachel Green', 'sure', 's01_e22_c08_u009')
+
+event_id: s01_e22_c08_u009_e2
+utterance_id: s01_e22_c08_u009
+  tuple: ('hand out', 'nobody', 'mints or anything', 's01_e22_c08_u009')
+
+event_id: s01_e22_c08_u010_e1
+utterance_id: s01_e22_c08_u010
+  tuple: ('be', 'it/(the dream)', 'just the three of us', 's01_e22_c08_u010')
+
+event_id: s01_e22_c08_u012_e1
+utterance_id: s01_e22_c08_u012
+  tuple: ('be', 'it/(the dream)', 'like you and Chandler', 's01_e22_c08_u012')
+  tuple: ('be', 'it/(the dream)', 'like you and me', 's01_e22_c08_u012')
+  tuple: ('be', 'it/(the dream)', 'like you and me and Chandler', 's01_e22_c08_u012')
+
+event_id: s01_e22_c08_u013_e1
+utterance_id: s01_e22_c08_u013
+  tuple: ('know', 'you/Joey Tribbiani', 'what', 's01_e22_c08_u013')
+
+event_id: s01_e22_c08_u015_e1
+utterance_id: s01_e22_c08_u015
+  tuple: ('be', 'there', 'times', 's01_e22_c08_u015')
+  tuple: ('be', 'it/(the dream)', 'not even me', 's01_e22_c08_u015')
+
+event_id: s01_e22_c08_u017_e1
+utterance_id: s01_e22_c08_u017
+  tuple: ('be', 'that', 'so sweet', 's01_e22_c08_u017')
+
+event_id: s01_e22_c08_u020_e1
+utterance_id: s01_e22_c08_u020
+  tuple: ('call', 'Ethan', None, 's01_e22_c08_u020')
+
+event_id: s01_e22_c08_u026_e1
+utterance_id: s01_e22_c08_u026
+  tuple: ('see', 'you/Monica Geller', 'him', 's01_e22_c08_u026')
+
+event_id: s01_e22_c08_u027_e1
+utterance_id: s01_e22_c08_u027
+  tuple: ('know', 'you/(everyone)', None, 's01_e22_c08_u027')
+
+event_id: s01_e22_c08_u027_e2
+utterance_id: s01_e22_c08_u027
+  tuple: ('work out', 'things', None, 's01_e22_c08_u027')
+
+event_id: s01_e22_c08_u028_e1
+utterance_id: s01_e22_c08_u028
+  tuple: ('have to do with', 'this', 'the fact that he needs a note to get out of gym', 's01_e22_c08_u028')
+  tuple: ('need', 'he/Ethan', 'a note', 's01_e22_c08_u028')
+  tuple: ('get out', 'he/Ethan', 'of gym', 's01_e22_c08_u028')
+
+event_id: s01_e22_c08_u030_e1
+utterance_id: s01_e22_c08_u030
+  tuple: ('say', 'I/Rachel Green', 'anything', 's01_e22_c08_u030')
+  tuple: ('swear', 'I/Rachel Green', None, 's01_e22_c08_u030')
+
+event_id: s01_e22_c08_u030_e2
+utterance_id: s01_e22_c08_u030
+  tuple: ('stop by', 'he/Ethan', None, 's01_e22_c08_u030')
+
+event_id: s01_e22_c08_u031_e1
+utterance_id: s01_e22_c08_u031
+  tuple: ('listen', 'you/Rachel Green', None, 's01_e22_c08_u031')
+
+event_id: s01_e22_c08_u031_e2
+utterance_id: s01_e22_c08_u031
+  tuple: ('talk', 'you/Rachel Green', None, 's01_e22_c08_u031')
+  tuple: ('talk', 'you/Rachel Green', 'to him', 's01_e22_c08_u031')
+  tuple: ('ask', 'you/Rachel Green', 'him', 's01_e22_c08_u031')
+  tuple: ('be', 'which one', 'the strongest Power Ranger', 's01_e22_c08_u031')
+
+event_id: s01_e22_c08_u034_e1
+utterance_id: s01_e22_c08_u034
+  tuple: ('be', 'my life', 'so amusing', 's01_e22_c08_u034')
+
+event_id: s01_e22_c08_u034_e2
+utterance_id: s01_e22_c08_u034
+  tuple: ('drop', 'we/(everyone)', 'it', 's01_e22_c08_u034')
+
+event_id: s01_e22_c08_u036_e1
+utterance_id: s01_e22_c08_u036
+  tuple: ('be', 'it', 'morphin time', 's01_e22_c08_u036')
+
+event_id: s01_e22_c08_u040_e1
+utterance_id: s01_e22_c08_u040
+  tuple: ('go', 'I/Phoebe Buffay', None, 's01_e22_c08_u040')
+
+event_id: s01_e22_c08_u041_e1
+utterance_id: s01_e22_c08_u041
+  tuple: ('go', 'you/Phoebe Buffay', None, 's01_e22_c08_u041')
+
+event_id: s01_e22_c08_u042_e1
+utterance_id: s01_e22_c08_u042
+  tuple: ('have', 'I/Phoebe Buffay', 'a birthday party', 's01_e22_c08_u042')
+  tuple: ('have', 'I/Phoebe Buffay', 'with some work people', 's01_e22_c08_u042')
+
+event_id: s01_e22_c08_u043_e1
+utterance_id: s01_e22_c08_u043
+  tuple: ('tell', 'nobody', 'me', 's01_e22_c08_u043')
+
+event_id: s01_e22_c08_u044_e1
+utterance_id: s01_e22_c08_u044
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e22_c08_u044')
+
+event_id: s01_e22_c08_u044_e2
+utterance_id: s01_e22_c08_u044
+  tuple: ('be', 'that', 'a part of the whole them-not-liking-you-extravaganza', 's01_e22_c08_u044')
+
+event_id: s01_e22_c08_u045_e1
+utterance_id: s01_e22_c08_u045
+  tuple: ('get', 'I/Chandler Bing', 'this', 's01_e22_c08_u045')
+
+event_id: s01_e22_c08_u045_e2
+utterance_id: s01_e22_c08_u045
+  tuple: ('be', 'these people', 'my friends', 's01_e22_c08_u045')
+
+event_id: s01_e22_c08_u045_e3
+utterance_id: s01_e22_c08_u045
+  tuple: ('be', 'I/Chandler Bing', 'in charge', 's01_e22_c08_u045')
+  tuple: ('mean', 'just because I am in charge', 'I am a different person', 's01_e22_c08_u045')
+  tuple: ('be', 'I/Chandler Bing', 'a different person', 's01_e22_c08_u045')
+
+event_id: s01_e22_c08_u046_e1
+utterance_id: s01_e22_c08_u046
+  tuple: ('know', 'you/Chandler Bing', None, 's01_e22_c08_u046')
+
+event_id: s01_e22_c08_u046_e2
+utterance_id: s01_e22_c08_u046
+  tuple: ('come', 'you/Chandler Bing', None, 's01_e22_c08_u046')
+  tuple: ('hang out', 'you/Chandler Bing', None, 's01_e22_c08_u046')
+  tuple: ('hang out', 'you/Chandler Bing', 'with them', 's01_e22_c08_u046')
+  tuple: ('let', 'you/Chandler Bing', 'them', 's01_e22_c08_u046')
+  tuple: ('see', 'them/(work people)', 'what a great guy you still are', 's01_e22_c08_u046')
+  tuple: ('be', 'you/Chandler Bing', 'a great guy', 's01_e22_c08_u046')
+
+event_id: s01_e22_c08_u047_e1
+utterance_id: s01_e22_c08_u047
+  tuple: ('think', 'you/Phoebe Buffay', 'I should', 's01_e22_c08_u047')
+
+event_id: s01_e22_c08_u048_e1
+utterance_id: s01_e22_c08_u048
+  tuple: ('do', 'I/Phoebe Buffay', None, 's01_e22_c08_u048')
+
+event_id: s01_e22_c08_u052_e1
+utterance_id: s01_e22_c08_u052
+  tuple: ('go', 'we/(Phoebe Buffay & Chandler Bing)', None, 's01_e22_c08_u052')
+
+event_id: s01_e22_c08_u052_e2
+utterance_id: s01_e22_c08_u052
+  tuple: ('want', 'I/Phoebe Buffay', 'to be the geek that invited the boss', 's01_e22_c08_u052')
+  tuple: ('be', 'I/Phoebe Buffay', 'the geek that invited the boss', 's01_e22_c08_u052')
+  tuple: ('invite', 'the geek', 'the boss', 's01_e22_c08_u052')
+

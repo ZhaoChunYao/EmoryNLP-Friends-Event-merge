@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up in the group, telling Speaker_03 not to listen to Speaker_01 and openly offering a positive opinion that the knuckle‑cracking is endearing (u019), showing assertive, outgoing participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They defend Speaker_03 and reframe a potentially annoying habit as “endearing” (u019), which is supportive, kind, and conciliatory."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about organization, planning, or carelessness is shown in the dialogue."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They respond calmly and confidently—“there is nothing wrong with [me] speaking correctly” (u022)—and show no signs of anxiety when challenged."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Calling an unusual habit “endearing” (u019) shows tolerance and appreciation of unconventional behavior, indicating openness."
+  }
+}

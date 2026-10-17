@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief statements; nothing indicates being especially outgoing or particularly reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly states “we hate him,” expressing open hostility toward Speaker_02."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicate organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Speaker_06 says Speaker_02’s perceptiveness “freaks” them out, which includes TargetSpeaker, showing nervous/sensitive reaction."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker rejects Speaker_02 outright (“we hate him”) without offering reasons, reflecting a closed, dogmatic stance."
+  }
+}

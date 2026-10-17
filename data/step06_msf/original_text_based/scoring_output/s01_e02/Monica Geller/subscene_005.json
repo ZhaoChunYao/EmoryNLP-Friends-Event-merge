@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and task-focused, with no clear signs of outgoing sociability or marked reserve."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows irritation and blame toward Speaker_01: \"TargetSpeaker gave Speaker_01 one job!\" and \"Speaker_01 didn't.\" rather than responding kindly or cooperatively."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "While TargetSpeaker expects responsibility from others (\"gave one job\"), there’s no clear, direct evidence of their own organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says \"TargetSpeaker just... can't do it,\" indicating being overwhelmed and stressed in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indication of curiosity/creativity or rigidity/caution in the brief exchange."
+  }
+}

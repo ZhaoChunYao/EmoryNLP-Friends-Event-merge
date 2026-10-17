@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly, asking a question and making a quip, but shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Uses mild sarcasm ('I’ve heard of science') but not hostile or untrustworthy; no clear generosity or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; tone seems casual but not enough to infer strong confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Asks, 'What kind of research?' showing curiosity and interest in specifics."
+  }
+}

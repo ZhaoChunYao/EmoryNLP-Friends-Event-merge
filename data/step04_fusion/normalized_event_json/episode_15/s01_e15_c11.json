@@ -1,0 +1,501 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u001_e1",
+          "tuples": [
+            "('welcome', 'I/(Rachel)', \"to Monica's\", 's01_e15_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u001_e2",
+          "tuples": [
+            "('take', 'I/(Rachel)', 'your coat', 's01_e15_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u004_e1",
+          "tuples": [
+            "('be', 'This', 'Rachel', 's01_e15_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u006",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u006_e1",
+          "tuples": [
+            "('smell', 'Everything', 'so delicious', 's01_e15_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u006_e2",
+          "tuples": [
+            "('remember', \"I/(Phoebe)\", 'a time I smelt such a delicious combination of smells', 's01_e15_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u006_e3",
+          "tuples": [
+            "('smell', \"I/(Phoebe)\", 'such a delicious combination of smells', 's01_e15_c11_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u007_e1",
+          "tuples": [
+            "('be', 'It', 'a lovely apartment', 's01_e15_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u008",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u008_e1",
+          "tuples": [
+            "('thank', 'I/(Monica)', 'you', 's01_e15_c11_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u008_e2",
+          "tuples": [
+            "('like', 'you/(Steve (drug addict))', 'a tour', 's01_e15_c11_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u009",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u009_e1",
+          "tuples": [
+            "('be', 'I/(Steve (drug addict))', 'polite', 's01_e15_c11_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u011_e1",
+          "tuples": [
+            "('be', 'What', 'up', 's01_e15_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u012",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u012_e1",
+          "tuples": [
+            "('blaze up', 'Steve (drug addict)', 'a doobie', 's01_e15_c11_u012')",
+            "('blaze up', 'Steve (drug addict)', 'in the cab', 's01_e15_c11_u012')",
+            "('blaze up', 'Steve (drug addict)', 'on the way over', 's01_e15_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u014",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u014_e1",
+          "tuples": [
+            "('smoke', 'he/(Steve (drug addict))', 'a joint', 's01_e15_c11_u014')",
+            "('light', 'he/(Steve (drug addict))', 'a bone', 's01_e15_c11_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u015",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u015_e1",
+          "tuples": [
+            "('be', 'I/(Rachel)', 'with you', 's01_e15_c11_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u016",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u016_e1",
+          "tuples": [
+            "('be', 'it/(here)', 'dry', 's01_e15_c11_u016')",
+            "('be', 'it/(here)', 'in here', 's01_e15_c11_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u017",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u017_e1",
+          "tuples": [
+            "('let', 'you/(Steve (drug addict))', 'me get you some wine', 's01_e15_c11_u017')",
+            "('get', 'I/(Rachel)', 'some wine', 's01_e15_c11_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u018",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u018_e1",
+          "tuples": [
+            "('think', 'I/(Monica)', \"we're ready for our first course\", 's01_e15_c11_u018')",
+            "('be', 'we/(Monica+guests)', 'ready', 's01_e15_c11_u018')",
+            "('be', 'we/(Monica+guests)', 'for our first course', 's01_e15_c11_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u018_e2",
+          "tuples": [
+            "('be', 'these/(dishes)', 'rot-shrimp ravioli and celantro pondou sauce with just a touch of mints and ginger', 's01_e15_c11_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u019",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u019_e1",
+          "tuples": [
+            "('smack', 'you/(anyone)', 'my ass', 's01_e15_c11_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u019_e2",
+          "tuples": [
+            "('call', 'you/(anyone)', 'me Judy', 's01_e15_c11_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u019_e3",
+          "tuples": [
+            "('be', 'These/(dishes)', 'fantastic', 's01_e15_c11_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u020",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u020_e1",
+          "tuples": [
+            "('be', 'I/(Monica)', 'so glad', 's01_e15_c11_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u020_e2",
+          "tuples": [
+            "('like', 'you/(Steve (drug addict))', 'them', 's01_e15_c11_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u021",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u021_e1",
+          "tuples": [
+            "('eat', 'I/(Steve (drug addict))', 'a hundred of them', 's01_e15_c11_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u022",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u022_e1",
+          "tuples": [
+            "('be', 'that/(fact about quantity)', 'all there are of these', 's01_e15_c11_u022')",
+            "('be', 'there/(existential)', 'these', 's01_e15_c11_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u022_e2",
+          "tuples": [
+            "('serve', 'we/(Monica+team)', 'some delicious onion tartlets', 's01_e15_c11_u022')",
+            "('serve', 'we/(Monica+team)', 'in about eight and a half minutes', 's01_e15_c11_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u023",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u023_e1",
+          "tuples": [
+            "('lose', 'The word', 'all meaning', 's01_e15_c11_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u024",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u024_e1",
+          "tuples": [
+            "('excuse', 'you/(Steve (drug addict))', 'me', 's01_e15_c11_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u024_e2",
+          "tuples": [
+            "('help', 'I/(Rachel)', 'you', 's01_e15_c11_u024')",
+            "('help', 'I/(Rachel)', 'with anything', 's01_e15_c11_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u025",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u025_e1",
+          "tuples": [
+            "('know', 'I/(Steve (drug addict))', \"what I'm looking for\", 's01_e15_c11_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u025_e2",
+          "tuples": [
+            "('look', 'I/(Steve (drug addict))', 'for what', 's01_e15_c11_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u027",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u027_e1",
+          "tuples": [
+            "('be', 'they/(taco shells)', 'like a little corn envelope', 's01_e15_c11_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u028",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u028_e1",
+          "tuples": [
+            "('know', 'you/(Steve (drug addict))', 'that', 's01_e15_c11_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u028_e2",
+          "tuples": [
+            "('want', 'you/(Steve (drug addict))', 'to spoil your appetite', 's01_e15_c11_u028')",
+            "('spoil', 'you/(Steve (drug addict))', 'your appetite', 's01_e15_c11_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u030",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u030_e1",
+          "tuples": [
+            "('wait', 'you/(Steve (drug addict))', 'another six and a half minutes', 's01_e15_c11_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u031",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u031_e1",
+          "tuples": [
+            "('make', 'we/(Steve (drug addict)+Monica)', 'this', 's01_e15_c11_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u032",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u032_e1",
+          "tuples": [
+            "('do', 'we/(Monica+team)', None, 's01_e15_c11_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u033",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u033_e1",
+          "tuples": [
+            "('be', 'I/(Steve (drug addict))', 'sorry', 's01_e15_c11_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u034",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u034_e1",
+          "tuples": [
+            "('have', 'you/(Steve (drug addict))', 'a seat', 's01_e15_c11_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u034_e2",
+          "tuples": [
+            "('give', 'you/(Steve (drug addict))', 'the Gummi-bears', 's01_e15_c11_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u036",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u036_e1",
+          "tuples": [
+            "('give', 'you/(Steve (drug addict))', 'to me', 's01_e15_c11_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u037",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u037_e1",
+          "tuples": [
+            "('share', 'we/(Steve (drug addict)+Monica)', None, 's01_e15_c11_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u038",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u038_e1",
+          "tuples": [
+            "('give', 'you/(Steve (drug addict))', 'me the ...', 's01_e15_c11_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u039",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u039_e1",
+          "tuples": [
+            "('have', 'you/(Monica)', 'any', 's01_e15_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u039_e2",
+          "tuples": [
+            "('think', 'I/(Steve (drug addict))', \"he's drowning\", 's01_e15_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u039_e3",
+          "tuples": [
+            "('drown', 'he/(gummi-bear)', None, 's01_e15_c11_u039')",
+            "('drown', 'I/(gummi-bear voice)', None, 's01_e15_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u039_e4",
+          "tuples": [
+            "('grab', 'you/(fellows)', 'a Sugar-O', 's01_e15_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u039_e5",
+          "tuples": [
+            "('save', 'you/(fellows)', 'yourself', 's01_e15_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u039_e6",
+          "tuples": [
+            "('help', 'you/(anyone)', None, 's01_e15_c11_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u040",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u040_e1",
+          "tuples": [
+            "('be', 'Dinner', 'over', 's01_e15_c11_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c11_u044",
+      "events": [
+        {
+          "event_id": "s01_e15_c11_u044_e1",
+          "tuples": [
+            "('be', \"it/(reason)\", \"just that I've waited seven years for an opportunity like this, and you can't even wait four and a half minutes for a stupid onion tartlet\", 's01_e15_c11_u044')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u044_e2",
+          "tuples": [
+            "('wait', 'I/(Monica)', 'seven years', 's01_e15_c11_u044')",
+            "('wait', 'I/(Monica)', 'for an opportunity like this', 's01_e15_c11_u044')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c11_u044_e3",
+          "tuples": [
+            "('wait', 'you/(Steve (drug addict))', 'four and a half minutes', 's01_e15_c11_u044')",
+            "('wait', 'you/(Steve (drug addict))', 'for a stupid onion tartlet', 's01_e15_c11_u044')"
+          ]
+        }
+      ]
+    }
+  ]
+}

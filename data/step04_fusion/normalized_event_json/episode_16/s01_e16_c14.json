@@ -1,0 +1,173 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c14_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u001_e1",
+          "tuples": [
+            "('have', 'you/Chandler Bing', 'a sec', 's01_e16_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u002_e1",
+          "tuples": [
+            "('be', 'what', 'up', 's01_e16_c14_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u003_e1",
+          "tuples": [
+            "('know', 'I/Nina Bookbinder', None, 's01_e16_c14_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u003_e2",
+          "tuples": [
+            "('avoid', 'people', 'me', 's01_e16_c14_u003')",
+            "('avoid', 'people', 'for the past couple days', 's01_e16_c14_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u003_e3",
+          "tuples": [
+            "('give', 'people', 'me these really strange looks', 's01_e16_c14_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u004_e1",
+          "tuples": [
+            "('be', 'that', 'because theyre jealous', 's01_e16_c14_u004')",
+            "('be', 'they/people', 'jealous', 's01_e16_c14_u004')",
+            "('be', 'they/people', 'of us', 's01_e16_c14_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u005_e1",
+          "tuples": [
+            "('explain', 'that', 'why they keep taking my scissors', 's01_e16_c14_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u005_e2",
+          "tuples": [
+            "('take', 'they/people', 'my scissors', 's01_e16_c14_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u006_e1",
+          "tuples": [
+            "('be', 'that', 'because youre getting a big raise', 's01_e16_c14_u006')",
+            "('get', 'you/Nina Bookbinder', 'a big raise', 's01_e16_c14_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u007_e1",
+          "tuples": [
+            "('be', 'I/Nina Bookbinder', None, 's01_e16_c14_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u009_e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'amazing', 's01_e16_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u010",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u010_e1",
+          "tuples": [
+            "('know', 'you/Nina Bookbinder', None, 's01_e16_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u010_e2",
+          "tuples": [
+            "('make sure', 'you/Helen', 'we put through the paperwork on Miss Bookbinders raise', 's01_e16_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u010_e3",
+          "tuples": [
+            "('put', 'we/Chandler Bing and Helen', 'through the paperwork', 's01_e16_c14_u010')",
+            "('put', 'we/Chandler Bing and Helen', 'on Miss Bookbinders raise', 's01_e16_c14_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u011_e1",
+          "tuples": [
+            "('want', 'you/Chandler Bing', 'me to send her psychological profile to Personnel', 's01_e16_c14_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u011_e2",
+          "tuples": [
+            "('send', 'me/Helen', 'her psychological profile', 's01_e16_c14_u011')",
+            "('send', 'me/Helen', 'to Personnel', 's01_e16_c14_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c14_u013",
+      "events": [
+        {
+          "event_id": "s01_e16_c14_u013_e1",
+          "tuples": [
+            "('drink', 'Helen', None, 's01_e16_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c14_u013_e2",
+          "tuples": [
+            "('marry', 'you/Nina Bookbinder', 'me', 's01_e16_c14_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

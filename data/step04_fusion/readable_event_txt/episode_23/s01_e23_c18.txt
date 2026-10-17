@@ -1,0 +1,44 @@
+event_id: s01_e23_c18_u001_e1
+utterance_id: s01_e23_c18_u001
+  tuple: ('get', 'I/Ross Geller', 'the vent open', 's01_e23_c18_u001')
+
+event_id: s01_e23_c18_u002_e1
+utterance_id: s01_e23_c18_u002
+  tuple: ('be', 'I/Phoebe Buffay', 'hospital worker Ben', 's01_e23_c18_u002')
+  tuple: ('be', 'It', 'Ben', 's01_e23_c18_u002')
+  tuple: ('be', 'It', 'to the rescue', 's01_e23_c18_u002')
+
+event_id: s01_e23_c18_u003_e1
+utterance_id: s01_e23_c18_u003
+  tuple: ('be', 'you/Ben', 'ready', 's01_e23_c18_u003')
+  tuple: ('give', 'you/Ben', 'your foot', 's01_e23_c18_u003')
+  tuple: ('be', 'That', 'it', 's01_e23_c18_u003')
+
+event_id: s01_e23_c18_u005_e1
+utterance_id: s01_e23_c18_u005
+  tuple: ('see', 'you/Phoebe Buffay', 'what', 's01_e23_c18_u005')
+
+event_id: s01_e23_c18_u006_e1
+utterance_id: s01_e23_c18_u006
+  tuple: ('see', 'I/Phoebe Buffay', 'what appears to be a dark vent', 's01_e23_c18_u006')
+  tuple: ('appear', 'what', 'to be a dark vent', 's01_e23_c18_u006')
+  tuple: ('be', 'what', 'a dark vent', 's01_e23_c18_u006')
+  tuple: ('be', 'it/the vent', 'a dark vent', 's01_e23_c18_u006')
+  tuple: ('be', 'it/the vent', 'in fact', 's01_e23_c18_u006')
+
+event_id: s01_e23_c18_u006_e2
+utterance_id: s01_e23_c18_u006
+  tuple: ('wait', 'you/Susan Bunch', None, 's01_e23_c18_u006')
+
+event_id: s01_e23_c18_u008_e1
+utterance_id: s01_e23_c18_u008
+  tuple: ('be', 'It/the vent', 'open', 's01_e23_c18_u008')
+
+event_id: s01_e23_c18_u010_e1
+utterance_id: s01_e23_c18_u010
+  tuple: ('wait', 'you/Ross Geller', None, 's01_e23_c18_u010')
+
+event_id: s01_e23_c18_u010_e2
+utterance_id: s01_e23_c18_u010
+  tuple: ('forget', 'you/Ross Geller', 'your legs', 's01_e23_c18_u010')
+

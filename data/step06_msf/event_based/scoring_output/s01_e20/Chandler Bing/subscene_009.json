@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only says “Hello? Hello?” and asks how someone is doing; minimal, brief interaction without clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows consideration by asking how Speaker_05 is doing."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions from TargetSpeaker indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or emotional volatility in TargetSpeaker’s brief remarks."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity about new ideas or willingness to explore; only routine social check-in."
+  }
+}

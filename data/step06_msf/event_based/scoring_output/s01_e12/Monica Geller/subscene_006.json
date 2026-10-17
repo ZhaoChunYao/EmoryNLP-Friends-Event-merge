@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives a running, humorous play-by-play (reports the balcony incident, interprets gestures, announces Speaker_03 is coming) showing talkative, outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Though saying they hate Speaker_03, they still act helpfully by discussing the baked dishes and giving precise heating instructions—concrete generous behavior outweighs the expressed dislike."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps track of having five dishes and provides exact guidance (“375 degrees until the cheese bubbles”), indicating organization and attention to detail."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows some anger (“I hate Speaker_03”) but no clear signs of anxiety or insecurity; overall demeanor remains composed."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Offers a creative, humorous interpretation of gestures (“How could you?” or “Enormous breasts!”), reflecting imaginative thinking."
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e13_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u001_e1",
+          "tuples": [
+            "('see', 'you', None, 's01_e13_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u001_e2",
+          "tuples": [
+            "('pass on', 'their pets', None, 's01_e13_c06_u001')",
+            "('want', 'they/(most people)', '‘em laid out like they’re sleeping', 's01_e13_c06_u001')",
+            "('sleep', 'they/(the pets)', None, 's01_e13_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u001_e3",
+          "tuples": [
+            "('get', 'you', 'your person', 's01_e13_c06_u001')",
+            "('want', 'your person', 'them', 's01_e13_c06_u001')",
+            "('be', 'them/(the pets)', 'in a pose', 's01_e13_c06_u001')",
+            "('chase', 'them/(the pets)', 'their tail', 's01_e13_c06_u001')",
+            "('jump', 'them/(the pets)', None, 's01_e13_c06_u001')",
+            "('catch', 'them/(the pets)', 'a frisbee', 's01_e13_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u002_e1",
+          "tuples": [
+            "('go', 'I/Chandler Bing', None, 's01_e13_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u002_e2",
+          "tuples": [
+            "('want', 'I/Chandler Bing', 'be looking for my keys', 's01_e13_c06_u002')",
+            "('look', 'I/Chandler Bing', 'for my keys', 's01_e13_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u003_e1",
+          "tuples": [
+            "('be', 'that', 'a good one', 's01_e13_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u006_e1",
+          "tuples": [
+            "('be', 'Ronni Rapalono', 'here', 's01_e13_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u009_e1",
+          "tuples": [
+            "('do', 'you/Ronni Rapalono', 'here', 's01_e13_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u010_e1",
+          "tuples": [
+            "('leave', 'you/Joey Tribbiani Sr.', 'your good hair', 's01_e13_c06_u010')",
+            "('leave', 'you/Joey Tribbiani Sr.', 'at my apartment', 's01_e13_c06_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u010_e2",
+          "tuples": [
+            "('figure', 'I/Ronni Rapalono', 'you’d need it tomorrow for your meeting', 's01_e13_c06_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u010_e3",
+          "tuples": [
+            "('need', 'you/Joey Tribbiani Sr.', 'it', 's01_e13_c06_u010')",
+            "('need', 'you/Joey Tribbiani Sr.', 'for your meeting', 's01_e13_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u011_e1",
+          "tuples": [
+            "('thank', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u012",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u012_e1",
+          "tuples": [
+            "('be', 'who', 'up for a big game of Kerplunk', 's01_e13_c06_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u013_e1",
+          "tuples": [
+            "('come', 'I/Ronni Rapalono', None, 's01_e13_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u013_e2",
+          "tuples": [
+            "('get going', 'I/Ronni Rapalono', None, 's01_e13_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u013_e3",
+          "tuples": [
+            "('want', 'I/Ronni Rapalono', 'miss the last train', 's01_e13_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u013_e4",
+          "tuples": [
+            "('miss', 'I/Ronni Rapalono', 'the last train', 's01_e13_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u014_e1",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani Sr.', 'you taking that thing', 's01_e13_c06_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u014_e2",
+          "tuples": [
+            "('take', 'you/Ronni Rapalono', 'that thing', 's01_e13_c06_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u015",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u015_e1",
+          "tuples": [
+            "('stay', 'I/Ronni Rapalono', 'here', 's01_e13_c06_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u017",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u017_e1",
+          "tuples": [
+            "('go', 'we/(Joey Tribbiani Sr. & Ronni Rapalono)', 'to a hotel', 's01_e13_c06_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u021",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u021_e1",
+          "tuples": [
+            "('go', 'you/(Joey Tribbiani Sr. & Ronni Rapalono)', 'to a hotel', 's01_e13_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u021_e2",
+          "tuples": [
+            "('do', 'you/(Joey Tribbiani Sr. & Ronni Rapalono)', 'stuff', 's01_e13_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u021_e3",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'you right here', 's01_e13_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u021_e4",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani Sr. & Ronni Rapalono)', 'here', 's01_e13_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u021_e5",
+          "tuples": [
+            "('keep', 'I/Joey Tribbiani', 'an eye on you', 's01_e13_c06_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u022",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u022_e1",
+          "tuples": [
+            "('keep', 'you/Joey Tribbiani', 'an eye on us', 's01_e13_c06_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u023",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u023_e1",
+          "tuples": [
+            "('be', 'that', 'right', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e2",
+          "tuples": [
+            "('care', 'I/Joey Tribbiani', 'how old you are', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e3",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani Sr.', 'old', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e4",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani Sr.', 'under my roof', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e5",
+          "tuples": [
+            "('live', 'you/Joey Tribbiani Sr.', 'by my rules', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e6",
+          "tuples": [
+            "('mean', 'that', 'no sleeping with your girlfriend', 's01_e13_c06_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u023_e7",
+          "tuples": [
+            "('sleep', 'you/Joey Tribbiani Sr.', 'with your girlfriend', 's01_e13_c06_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u024",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u024_e1",
+          "tuples": [
+            "('be', 'he/Joey Tribbiani', 'strict', 's01_e13_c06_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u025",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u025_e1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani Sr.', 'in my room', 's01_e13_c06_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u025_e2",
+          "tuples": [
+            "('stay', 'Ronni Rapalono', 'in Chandler’s room', 's01_e13_c06_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u026",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u026_e1",
+          "tuples": [
+            "('thank', 'I/Ronni Rapalono', 'you', 's01_e13_c06_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u026_e2",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'a good kid', 's01_e13_c06_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u027",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u027_e1",
+          "tuples": [
+            "('show', 'I/Chandler Bing', 'you', 's01_e13_c06_u027')",
+            "('show', 'I/Chandler Bing', 'to my room', 's01_e13_c06_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u027_e2",
+          "tuples": [
+            "('sound', 'that', 'so weird', 's01_e13_c06_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u027_e3",
+          "tuples": [
+            "('be followed', 'it', 'by No thanks, it’s late', 's01_e13_c06_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u027_e4",
+          "tuples": [
+            "('be', 'it', 'late', 's01_e13_c06_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u028",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u028_e1",
+          "tuples": [
+            "('be', 'this', 'just for tonight', 's01_e13_c06_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u028_e2",
+          "tuples": [
+            "('make', 'you/Joey Tribbiani Sr.', 'a change', 's01_e13_c06_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u028_e3",
+          "tuples": [
+            "('go', 'this', 'on', 's01_e13_c06_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u030",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u030_e1",
+          "tuples": [
+            "('break off', 'you/Joey Tribbiani Sr.', 'it', 's01_e13_c06_u030')",
+            "('break off', 'you/Joey Tribbiani Sr.', 'with Ronni', 's01_e13_c06_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u031",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u031_e1",
+          "tuples": [
+            "('do', 'I/Joey Tribbiani Sr.', 'that', 's01_e13_c06_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u032",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u032_e1",
+          "tuples": [
+            "('come clean', 'you/Joey Tribbiani Sr.', 'with Ma', 's01_e13_c06_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u032_e2",
+          "tuples": [
+            "('be', 'this', 'not right', 's01_e13_c06_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u033",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u033_e1",
+          "tuples": [
+            "('be', 'this', None, 's01_e13_c06_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c06_u034",
+      "events": [
+        {
+          "event_id": "s01_e13_c06_u034_e1",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'hear it', 's01_e13_c06_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u034_e2",
+          "tuples": [
+            "('hear', 'I/Joey Tribbiani', 'it', 's01_e13_c06_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c06_u034_e3",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani Sr.', 'to my room', 's01_e13_c06_u034')"
+          ]
+        }
+      ]
+    }
+  ]
+}

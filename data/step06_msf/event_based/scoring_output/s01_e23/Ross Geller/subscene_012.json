@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge and directs others: opened the vent and told Speaker_01 to be ready and give a foot on the count of three."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperates and is straightforward in coordinating a rescue, giving clear, helpful instructions without hostility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows planning and organization: already opened the vent and structures the action with a countdown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and confidently (“has opened the vent,” “the vent is open”) with no signs of worry or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Focuses on practical action; no clear signs of curiosity or unconventional thinking beyond executing the task."
+  }
+}

@@ -1,0 +1,87 @@
+('get', 'you/Ursula', 'a minute', 's01_e17_c08_u004')
+[s01_e17_c08_u004] Phoebe Buffay: Um you, you got a minute?
+
+('work', 'I/Ursula', None, 's01_e17_c08_u005')
+[s01_e17_c08_u005] Ursula: Um, yeah, I'm just... ..working.
+
+('get', 'I/Phoebe', 'a birthday present', 's01_e17_c08_u010')
+[s01_e17_c08_u010] Phoebe Buffay: Um, oh, I got you a birthday present.
+
+('remember', 'you/Phoebe', None, 's01_e17_c08_u012')
+[s01_e17_c08_u012] Ursula: Oh, wow! You remembered! Oh! It's a Judy Jetson thermos!
+
+('be', 'it/thermos', 'a Judy Jetson thermos', 's01_e17_c08_u012')
+[s01_e17_c08_u012] Ursula: Oh, wow! You remembered! Oh! It's a Judy Jetson thermos!
+
+('get', 'I/Ursula', 'something', 's01_e17_c08_u015')
+[s01_e17_c08_u015] Ursula: Right... Oh, I got something for you, too.
+
+('get', 'I/Ursula', 'for you', 's01_e17_c08_u015')
+[s01_e17_c08_u015] Ursula: Right... Oh, I got something for you, too.
+
+('know', 'you/Ursula', 'I was coming', 's01_e17_c08_u017')
+[s01_e17_c08_u017] Phoebe Buffay: How'd you know I was coming?
+
+('come', 'I/Phoebe', None, 's01_e17_c08_u017')
+[s01_e17_c08_u017] Phoebe Buffay: How'd you know I was coming?
+
+('believe', 'I/Phoebe', 'you did this', 's01_e17_c08_u020')
+[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+
+('do', 'you/Ursula', 'this', 's01_e17_c08_u020')
+[s01_e17_c08_u020] Phoebe Buffay: I can't believe you did this.
+
+('be', 'what', 'the deal with you and Joey', 's01_e17_c08_u024')
+[s01_e17_c08_u024] Phoebe Buffay: So... What's the deal with umm, you and Joey?
+
+('be', 'he/Joey', 'so great', 's01_e17_c08_u025')
+[s01_e17_c08_u025] Ursula: Oh, right. He is so great. But that's over.
+
+('be', 'that/relationship with Joey', 'over', 's01_e17_c08_u025')
+[s01_e17_c08_u025] Ursula: Oh, right. He is so great. But that's over.
+
+('know', 'he/Joey', None, 's01_e17_c08_u027')
+[s01_e17_c08_u027] Phoebe Buffay: Does he know?
+
+('know', 'you/Ursula', None, 's01_e17_c08_u029')
+[s01_e17_c08_u029] Phoebe Buffay: Joey. You know, um, he's really nutsy about you.
+
+('be', 'he/Joey', 'really nutsy', 's01_e17_c08_u029')
+[s01_e17_c08_u029] Phoebe Buffay: Joey. You know, um, he's really nutsy about you.
+
+('be', 'he/Joey', 'about you', 's01_e17_c08_u029')
+[s01_e17_c08_u029] Phoebe Buffay: Joey. You know, um, he's really nutsy about you.
+
+('be', 'he/Joey', None, 's01_e17_c08_u030')
+[s01_e17_c08_u030] Ursula: He is? Why?
+
+('get', 'you/Ursula', 'me', 's01_e17_c08_u031')
+[s01_e17_c08_u031] Phoebe Buffay: You got me.
+
+('excuse', 'you/(waiter)', 'me', 's01_e17_c08_u034')
+[s01_e17_c08_u034] Ursula: Excuse me. Doesn't this come with a side salad?
+
+('come', 'this/dish', 'with a side salad', 's01_e17_c08_u034')
+[s01_e17_c08_u034] Ursula: Excuse me. Doesn't this come with a side salad?
+
+('call', 'you/Ursula', 'him', 's01_e17_c08_u036')
+[s01_e17_c08_u036] Phoebe Buffay: So, um, are you gonna call him?
+
+('think', 'you/Phoebe', 'he likes me', 's01_e17_c08_u037')
+[s01_e17_c08_u037] Ursula: What? Do you think he likes me?
+
+('like', 'he/Joey', 'me', 's01_e17_c08_u037')
+[s01_e17_c08_u037] Ursula: What? Do you think he likes me?
+
+('be', 'he/Joey', 'so smart', 's01_e17_c08_u039')
+[s01_e17_c08_u039] Ursula: Oh. No, no, he is so smart. He'll figure it out. Do you want some chicken?
+
+('figure', 'he/Joey', 'out it', 's01_e17_c08_u039')
+[s01_e17_c08_u039] Ursula: Oh. No, no, he is so smart. He'll figure it out. Do you want some chicken?
+
+('want', 'you/Phoebe', 'some chicken', 's01_e17_c08_u039')
+[s01_e17_c08_u039] Ursula: Oh. No, no, he is so smart. He'll figure it out. Do you want some chicken?
+
+('change', 'you/Phoebe', None, 's01_e17_c08_u041')
+[s01_e17_c08_u041] Ursula: You have not changed!
+

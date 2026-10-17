@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker enthusiastically tells Speaker_01 that Speaker_02 is terrific and says meeting Speaker_02 is great, showing outgoing, energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly praises Speaker_02 as terrific, smart, and funny, offering warm, supportive remarks."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or sloppiness/carelessness in the exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional volatility; the tone is positive but not enough evidence of marked security/confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Apart from general praise, there is no concrete display of curiosity, imagination, or unconventional thinking; the sexual detail is mentioned but not explored by TargetSpeaker."
+  }
+}

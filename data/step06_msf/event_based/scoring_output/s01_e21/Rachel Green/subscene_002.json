@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief replies (“What?”, “Nooo...”) and discourages continuing the comparison because it’s late (u009), showing a reserved, non-socially-expansive stance."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures the other person by saying they do cool things (u007) and responds empathetically (“Nooo...”, u011), indicating supportiveness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Points out it’s too late to start comparing activities now (u009), showing attention to time and practicality. Also tracks what’s happening with the statement (u001)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional volatility; responses are calm but not distinctly confident or insecure."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses the idea that Speaker_01 could be an artist (u005) and avoids exploring comparisons due to caution about the time (u009), suggesting low openness."
+  }
+}

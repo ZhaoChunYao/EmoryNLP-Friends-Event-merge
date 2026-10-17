@@ -1,0 +1,143 @@
+event_id: s01_e18_c04_u001_e1
+utterance_id: s01_e18_c04_u001
+  tuple: ('believe', 'you/Monica Geller', 'what a jerk Ross was being', 's01_e18_c04_u001')
+
+event_id: s01_e18_c04_u001_e2
+utterance_id: s01_e18_c04_u001
+  tuple: ('be', 'Ross', 'a jerk', 's01_e18_c04_u001')
+
+event_id: s01_e18_c04_u002_e1
+utterance_id: s01_e18_c04_u002
+  tuple: ('know', 'I/Monica Geller', None, 's01_e18_c04_u002')
+
+event_id: s01_e18_c04_u002_e2
+utterance_id: s01_e18_c04_u002
+  tuple: ('get', 'he/Ross Geller', 'really competitive', 's01_e18_c04_u002')
+
+event_id: s01_e18_c04_u005_e1
+utterance_id: s01_e18_c04_u005
+  tuple: ('be', 'this/Monica Geller', 'Monica', 's01_e18_c04_u005')
+
+event_id: s01_e18_c04_u005_e2
+utterance_id: s01_e18_c04_u005
+  tuple: ('be', 'you/Monica Geller', 'black', 's01_e18_c04_u005')
+
+event_id: s01_e18_c04_u006_e1
+utterance_id: s01_e18_c04_u006
+  tuple: ('be', 'I/Monica Geller', 'not as bad as Ross', 's01_e18_c04_u006')
+
+event_id: s01_e18_c04_u007_e1
+utterance_id: s01_e18_c04_u007
+  tuple: ('beg', 'I/Rachel Green', 'to differ', 's01_e18_c04_u007')
+
+event_id: s01_e18_c04_u008_e1
+utterance_id: s01_e18_c04_u008
+  tuple: ('be', 'that/Pictionary incident', 'not an incident', 's01_e18_c04_u008')
+  tuple: ('gesture', 'I/Monica Geller', None, 's01_e18_c04_u008')
+  tuple: ('slip', 'the plate', None, 's01_e18_c04_u008')
+  tuple: ('slip', 'the plate', 'out of my hand', 's01_e18_c04_u008')
+
+event_id: s01_e18_c04_u009_e1
+utterance_id: s01_e18_c04_u009
+  tuple: ('get', 'I/Rachel Green', 'an interview', 's01_e18_c04_u009')
+
+event_id: s01_e18_c04_u010_e1
+utterance_id: s01_e18_c04_u010
+  tuple: ('kid', 'you/Rachel Green', None, 's01_e18_c04_u010')
+
+event_id: s01_e18_c04_u013_e1
+utterance_id: s01_e18_c04_u013
+  tuple: ('be', 'it/Saks Fifth Avenue', 'like the mother ship is calling you home', 's01_e18_c04_u013')
+  tuple: ('call', 'the mother ship', 'you/Rachel Green', 's01_e18_c04_u013')
+
+event_id: s01_e18_c04_u014_e1
+utterance_id: s01_e18_c04_u014
+  tuple: ('be', 'what', 'the job', 's01_e18_c04_u014')
+
+event_id: s01_e18_c04_u015_e1
+utterance_id: s01_e18_c04_u015
+  tuple: ('shop', 'I/Rachel Green', None, 's01_e18_c04_u015')
+  tuple: ('shop', 'I/Rachel Green', 'for a living', 's01_e18_c04_u015')
+
+event_id: s01_e18_c04_u017_e1
+utterance_id: s01_e18_c04_u017
+  tuple: ('look', 'you/Rachel Green', None, 's01_e18_c04_u017')
+
+event_id: s01_e18_c04_u017_e2
+utterance_id: s01_e18_c04_u017
+  tuple: ('be', 'that/Aunt Iris', 'Aunt Iris', 's01_e18_c04_u017')
+
+event_id: s01_e18_c04_u017_e3
+utterance_id: s01_e18_c04_u017
+  tuple: ('play', 'this woman/Aunt Iris', 'poker', 's01_e18_c04_u017')
+  tuple: ('play', 'this woman/Aunt Iris', 'since she was five', 's01_e18_c04_u017')
+  tuple: ('be', 'she/Aunt Iris', 'five', 's01_e18_c04_u017')
+
+event_id: s01_e18_c04_u017_e4
+utterance_id: s01_e18_c04_u017
+  tuple: ('listen', 'you/Rachel Green', None, 's01_e18_c04_u017')
+  tuple: ('listen', 'you/Rachel Green', 'to every word she says', 's01_e18_c04_u017')
+  tuple: ('say', 'she/Aunt Iris', 'every word', 's01_e18_c04_u017')
+
+event_id: s01_e18_c04_u018_e1
+utterance_id: s01_e18_c04_u018
+  tuple: ('be', 'Tony Randall', 'dead', 's01_e18_c04_u018')
+
+event_id: s01_e18_c04_u020_e1
+utterance_id: s01_e18_c04_u020
+  tuple: ('think', 'I/Monica Geller', 'so', 's01_e18_c04_u020')
+
+event_id: s01_e18_c04_u022_e1
+utterance_id: s01_e18_c04_u022
+  tuple: ('be', 'he/Tony Randall', None, 's01_e18_c04_u022')
+
+event_id: s01_e18_c04_u022_e2
+utterance_id: s01_e18_c04_u022
+  tuple: ('think', 'I/Aunt Iris', 'I hit him with my car', 's01_e18_c04_u022')
+  tuple: ('hit', 'I/Aunt Iris', 'him', 's01_e18_c04_u022')
+  tuple: ('hit', 'I/Aunt Iris', 'with my car', 's01_e18_c04_u022')
+
+event_id: s01_e18_c04_u026_e1
+utterance_id: s01_e18_c04_u026
+  tuple: ('be', 'that/previous story', 'bluffing', 's01_e18_c04_u026')
+
+event_id: s01_e18_c04_u026_e2
+utterance_id: s01_e18_c04_u026
+  tuple: ('let', 'you/Monica Geller', 'me', 's01_e18_c04_u026')
+  tuple: ('tell', 'me/Aunt Iris', 'you something', 's01_e18_c04_u026')
+
+event_id: s01_e18_c04_u026_e3
+utterance_id: s01_e18_c04_u026
+  tuple: ('be', 'everything you hear at a poker game', 'pure crap', 's01_e18_c04_u026')
+  tuple: ('hear', 'you/(anyone)', 'everything', 's01_e18_c04_u026')
+  tuple: ('hear', 'you/(anyone)', 'at a poker game', 's01_e18_c04_u026')
+
+event_id: s01_e18_c04_u027_e1
+utterance_id: s01_e18_c04_u027
+  tuple: ('thank', 'I/Phoebe Buffay', 'you', 's01_e18_c04_u027')
+
+event_id: s01_e18_c04_u028_e1
+utterance_id: s01_e18_c04_u028
+  tuple: ('sit', 'girls', None, 's01_e18_c04_u028')
+
+event_id: s01_e18_c04_u029_e1
+utterance_id: s01_e18_c04_u029
+  tuple: ('be', 'this/Phoebe Buffay', 'Phoebe', 's01_e18_c04_u029')
+
+event_id: s01_e18_c04_u029_e2
+utterance_id: s01_e18_c04_u029
+  tuple: ('be', 'that/Rachel Green', 'Rachel', 's01_e18_c04_u029')
+
+event_id: s01_e18_c04_u030_e1
+utterance_id: s01_e18_c04_u030
+  tuple: ('listen', 'you/girls', None, 's01_e18_c04_u030')
+
+event_id: s01_e18_c04_u030_e2
+utterance_id: s01_e18_c04_u030
+  tuple: ('park', 'I/Aunt Iris', None, 's01_e18_c04_u030')
+  tuple: ('park', 'I/Aunt Iris', 'at a meter', 's01_e18_c04_u030')
+
+event_id: s01_e18_c04_u030_e3
+utterance_id: s01_e18_c04_u030
+  tuple: ('do', 'we/(Aunt Iris and others)', 'it', 's01_e18_c04_u030')
+

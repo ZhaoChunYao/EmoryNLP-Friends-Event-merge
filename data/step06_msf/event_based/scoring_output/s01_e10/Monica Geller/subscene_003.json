@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks two brief questions about Speaker_03’s job outcome and position; no clear signs of being particularly outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and supportive interest by asking how the Santa job attempt went and what position Speaker_03 will have."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization or carelessness; only conversational questions."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity in the brief exchanges."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking about a friend’s job status doesn’t indicate inventive thinking or closed-mindedness."
+  }
+}

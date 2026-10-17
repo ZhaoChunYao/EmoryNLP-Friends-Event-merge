@@ -1,0 +1,404 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u001_e1",
+          "tuples": [
+            "('do', 'I/Monica Geller', None, 's01_e22_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u002_e1",
+          "tuples": [
+            "('tell', 'I/Ethan', 'you', 's01_e22_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u002_e2",
+          "tuples": [
+            "('be', 'I/Ethan', 'like nine', 's01_e22_c06_u002')",
+            "('think', 'I/Ethan', 'that gunpoint was an actual place where crimes happen', 's01_e22_c06_u002')",
+            "('be', 'gunpoint', 'an actual place', 's01_e22_c06_u002')",
+            "('happen', 'crimes', None, 's01_e22_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u003_e1",
+          "tuples": [
+            "('be', 'that', 'possible', 's01_e22_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u004_e1",
+          "tuples": [
+            "('think', 'you/Monica Geller', 'about it', 's01_e22_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u004_e2",
+          "tuples": [
+            "('be', 'it', 'on the news', 's01_e22_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u004_e3",
+          "tuples": [
+            "('hold up', 'A man', 'at gunpoint', 's01_e22_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u004_e4",
+          "tuples": [
+            "('terrorise', 'Tourists', 'at gunpoint', 's01_e22_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u004_e5",
+          "tuples": [
+            "('think', 'I/Ethan', 'why does people continue to go there', 's01_e22_c06_u004')",
+            "('continue', 'people', 'to go there', 's01_e22_c06_u004')",
+            "('go', 'people', 'there', 's01_e22_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u004_e6",
+          "tuples": [
+            "('go', 'I/Ethan', None, 's01_e22_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u010_e1",
+          "tuples": [
+            "('want', 'you/Ethan', 'to stay over', 's01_e22_c06_u010')",
+            "('stay over', 'you/Ethan', None, 's01_e22_c06_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u010_e2",
+          "tuples": [
+            "('go', 'I/Monica Geller', None, 's01_e22_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u011_e1",
+          "tuples": [
+            "('like', 'I/Ethan', 'that', 's01_e22_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u013_e1",
+          "tuples": [
+            "('be', 'there', 'something you should know', 's01_e22_c06_u013')",
+            "('know', 'you/Monica Geller', 'something', 's01_e22_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u013_e2",
+          "tuples": [
+            "('get', 'we/Ethan+Monica Geller', 'into any staying-over-stuff', 's01_e22_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u014_e1",
+          "tuples": [
+            "('be', 'this', \"like 'I have an early class tomorrow' or 'I'm secretly married to a goat'\", 's01_e22_c06_u014')",
+            "('have', 'I/Monica Geller', 'an early class', 's01_e22_c06_u014')",
+            "('marry', 'I/Monica Geller', 'to a goat', 's01_e22_c06_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u015",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u015_e1",
+          "tuples": [
+            "('be', 'it', 'somewhere in between', 's01_e22_c06_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u015_e2",
+          "tuples": [
+            "('be', 'I/Ethan', None, 's01_e22_c06_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u018",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u018_e1",
+          "tuples": [
+            "('be', 'you/Ethan', 'a virgin', 's01_e22_c06_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u019",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u019_e1",
+          "tuples": [
+            "('be', 'that', 'what you kids are calling it these days', 's01_e22_c06_u019')",
+            "('call', 'you kids', 'it', 's01_e22_c06_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u019_e2",
+          "tuples": [
+            "('be', 'I/Ethan', None, 's01_e22_c06_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u019_e3",
+          "tuples": [
+            "('wait', 'I/Ethan', 'for the right person', 's01_e22_c06_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u021",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u021_e1",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'that I was talking about you', 's01_e22_c06_u021')",
+            "('talk', 'I/Ethan', 'about you', 's01_e22_c06_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u025",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u025_e1",
+          "tuples": [
+            "('say', 'you/Ethan', 'that', 's01_e22_c06_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u026",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u026_e1",
+          "tuples": [
+            "('know', 'you/Ethan', None, 's01_e22_c06_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u026_e2",
+          "tuples": [
+            "('read', 'you/Ethan', 'about it', 's01_e22_c06_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u026_e3",
+          "tuples": [
+            "('see', 'you/Ethan', 'it', 's01_e22_c06_u026')",
+            "('see', 'you/Ethan', 'in the movies', 's01_e22_c06_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u026_e4",
+          "tuples": [
+            "('practice', 'you/Ethan', 'it', 's01_e22_c06_u026')",
+            "('practice', 'you/Ethan', 'at home', 's01_e22_c06_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u026_e5",
+          "tuples": [
+            "('be', 'it', 'nothing like that', 's01_e22_c06_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u028",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u028_e1",
+          "tuples": [
+            "('listen', 'you/Ethan', None, 's01_e22_c06_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u028_e2",
+          "tuples": [
+            "('tell', 'you/Ethan', 'me something', 's01_e22_c06_u028')",
+            "('be', 'that', 'really difficult', 's01_e22_c06_u028')",
+            "('be', 'that', 'for you', 's01_e22_c06_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u028_e3",
+          "tuples": [
+            "('figure', 'I/Monica Geller', 'if you could be honest then I can too', 's01_e22_c06_u028')",
+            "('be', 'you/Ethan', 'honest', 's01_e22_c06_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u029",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u029_e1",
+          "tuples": [
+            "('tell', 'you/Monica Geller', 'me', 's01_e22_c06_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u029_e2",
+          "tuples": [
+            "('do', 'I/Ethan', 'it wrong', 's01_e22_c06_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u032",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u032_e1",
+          "tuples": [
+            "('go', 'it', None, 's01_e22_c06_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u032_e2",
+          "tuples": [
+            "('be', 'I/Monica Geller', '22', 's01_e22_c06_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u032_e3",
+          "tuples": [
+            "('be', 'I/Monica Geller', '25', 's01_e22_c06_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u034",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u034_e1",
+          "tuples": [
+            "('figure', 'I/Monica Geller', \"that shouldn't change anything\", 's01_e22_c06_u034')",
+            "('change', 'that', 'anything', 's01_e22_c06_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u034_e2",
+          "tuples": [
+            "('matter', 'it', 'how old we are', 's01_e22_c06_u034')",
+            "('be', 'we/Ethan+Monica Geller', 'old', 's01_e22_c06_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u036",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u036_e1",
+          "tuples": [
+            "('listen', 'you/Monica Geller', None, 's01_e22_c06_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u036_e2",
+          "tuples": [
+            "('tell', 'we/Ethan+Monica Geller', 'stuff', 's01_e22_c06_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u036_e3",
+          "tuples": [
+            "('have', 'I/Ethan', 'another one', 's01_e22_c06_u036')",
+            "('have', 'I/Ethan', 'for you', 's01_e22_c06_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u036_e4",
+          "tuples": [
+            "('be', 'I/Ethan', 'a little younger than I said', 's01_e22_c06_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c06_u036_e5",
+          "tuples": [
+            "('say', 'I/Ethan', None, 's01_e22_c06_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u037",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u037_e1",
+          "tuples": [
+            "('be', 'you/Ethan', 'a senior', 's01_e22_c06_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c06_u038",
+      "events": [
+        {
+          "event_id": "s01_e22_c06_u038_e1",
+          "tuples": [
+            "('be', 'I/Ethan', 'a senior in High School', 's01_e22_c06_u038')"
+          ]
+        }
+      ]
+    }
+  ]
+}

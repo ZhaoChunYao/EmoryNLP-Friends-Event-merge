@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively leads the response: says she is doing everything to find Speaker_02, has everybody looking, called Animal Control, and directly engages with the visitor/authorities."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Not straightforward with Animal Control—claims the monkey call was a misunderstanding and says it was a hat, then a cat—indicating deceptive, complicated communication."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits Speaker_02 escaped under her watch and apologizes; also called Animal Control without knowing the legal risk, showing poor foresight/carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays composed and action-oriented—organizes a search, contacts authorities, and handles the situation at the door—reflecting confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays improvisation and flexibility (inventing the hat/cat cover story) and tries a non-cautious solution by involving Animal Control."
+  }
+}

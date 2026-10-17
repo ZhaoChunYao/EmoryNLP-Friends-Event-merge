@@ -1,0 +1,64 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Monica Geller,subscene_004.json,AGR,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c01
+Subscene index for speaker: 004
+Main speaker: Monica Geller
+UID span: s01_e01_c01_u049 → s01_e01_c01_u058
+Peak window: 43 → 46
+
+Dialogue:
+  [s01_e01_c01_u049]
+  1. Rachel Green says Rachel Green went to Monica Geller's building.
+  2. Rachel Green says Monica Geller was not there.
+  3. Rachel Green says Man 1 with a big hammer said Monica Geller might be at Central Perk.
+  4. Rachel Green says Monica Geller is here at Central Perk.
+  [s01_e01_c01_u050]
+  1. Waitress asks if Waitress can get Rachel Green and Monica Geller some coffee.
+  [s01_e01_c01_u051]
+  1. Monica Geller says this is Rachel Green.
+  2. Monica Geller says this is everybody.
+  3. Monica Geller says this is Chandler Bing.
+  4. Monica Geller says this is Phoebe Buffay.
+  5. Monica Geller says this is Joey Tribbiani.
+  6. Monica Geller asks Rachel Green if Rachel Green remembers Ross Geller, Monica Geller's brother.
+  [s01_e01_c01_u052] Rachel Green: Hi, sure!
+  [s01_e01_c01_u053] Ross Geller: Hi.
+  [s01_e01_c01_u054] Unknown Speaker: 
+  [s01_e01_c01_u055]
+  1. Monica Geller asks Rachel Green to tell the group now what happened.
+  2. Monica Geller asks whether the group is waiting for four wet bridesmaids.
+  [s01_e01_c01_u056]
+  1. Rachel Green says the story started about a half hour before the wedding.
+  2. Rachel Green says Rachel Green was in the room where the wedding party was keeping all the presents and was looking at a gravy boat.
+  3. Rachel Green says Rachel Green realized Rachel Green was more turned on by the gravy boat than by Barry Farber.
+  4. Rachel Green says Rachel Green got really freaked out.
+  5. Rachel Green says it hit Rachel Green that Barry Farber looks like Mr. Potato Head.
+  6. Rachel Green says Rachel Green had always known Barry Farber looked familiar.
+  7. Rachel Green says Rachel Green had to get out of that room.
+  8. Rachel Green says Rachel Green started wondering why Rachel Green was doing the wedding and for whom Rachel Green was doing it.
+  9. Rachel Green says Rachel Green did not know where to go.
+  10. Rachel Green says Rachel Green knows Rachel Green and Monica Geller have drifted apart.
+  11. Rachel Green says Monica Geller was the only person Rachel Green knew who lived in the city.
+  [s01_e01_c01_u057]
+  1. Monica Geller says Monica Geller was not invited to the wedding.
+  [s01_e01_c01_u058]
+  1. Rachel Green says Rachel Green had hoped Monica Geller not being invited to the wedding would not be an issue.
+","Episode: s01_e01
+Scene: s01_e01_c01
+Subscene index for speaker: 004
+Main speaker: Monica Geller
+UID span: s01_e01_c01_u049 → s01_e01_c01_u058
+Peak window: 43 → 46
+
+Dialogue:
+  [s01_e01_c01_u049] Rachel Green: Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!
+  [s01_e01_c01_u050] Waitress: Can I get you some coffee?
+  [s01_e01_c01_u051] Monica Geller: De-caff. Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+  [s01_e01_c01_u052] Rachel Green: Hi, sure!
+  [s01_e01_c01_u053] Ross Geller: Hi.
+  [s01_e01_c01_u054] Unknown Speaker: 
+  [s01_e01_c01_u055] Monica Geller: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+  [s01_e01_c01_u056] Rachel Green: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+  [s01_e01_c01_u057] Monica Geller: Who wasn't invited to the wedding.
+  [s01_e01_c01_u058] Rachel Green: Ooh, I was kinda hoping that wouldn't be an issue...
+",Behaves inclusively and helpfully by introducing people and inviting the story; is straightforward about the situation ('I was not invited to the wedding').,"Uses blunt, slightly snide remarks—pressures Rachel to explain with “are we waiting for four wet bridesmaids?” (u055) and notes “Who wasn’t invited to the wedding” (u057), showing low warmth/agreeableness.",,,

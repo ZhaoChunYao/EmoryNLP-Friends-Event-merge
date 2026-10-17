@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages in playful banter (“spell it out with noodles?”), actively pursues the fifth-date topic, and keeps the conversation going with questions."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows empathy and support (“Oh God… I’m so sorry”), asks gently “how long?”, expresses support (“I’m glad you smashed her watch”), and agrees to a fifth date despite the sensitive issue."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization or reliability beyond general responsiveness; interaction is conversational rather than task- or plan-oriented."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite the sensitive revelation, she remains composed, asks a practical question, and confidently agrees to continue dating, indicating security rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Curious and nonjudgmental (“how long?”), willing to continue the relationship despite the issue, and uses creative, playful humor."
+  }
+}

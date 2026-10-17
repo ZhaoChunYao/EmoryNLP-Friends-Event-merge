@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only offers a brief reassurance and a single question; no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures Speaker_02 that nodding off is okay, showing kindness and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Simply notes the nodding off; no signs of organization or diligence are shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and reassuring (“it’s okay”), showing no anxiety or nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Asks “Why?” indicating curiosity about the reason for the lack of sleep."
+  }
+}

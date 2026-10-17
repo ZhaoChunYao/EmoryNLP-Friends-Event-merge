@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly discusses an intimate relationship topic and then engages a group by asking how the movie was."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows polite interest in others by asking the group how the movie was; engages respectfully with a friend's perspective."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit anxiety or emotional instability is expressed; questions seem exploratory rather than distressed."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Curiously explores whether a partner can be both a best friend and sexually exciting, showing openness to complex possibilities."
+  }
+}

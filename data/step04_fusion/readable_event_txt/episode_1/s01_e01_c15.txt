@@ -1,0 +1,84 @@
+event_id: s01_e01_c15_u001_e1
+utterance_id: s01_e01_c15_u001
+  tuple: ('believe', 'I/Joey Tribbiani', "what I'm hearing here", 's01_e01_c15_u001')
+  tuple: ('hear', 'I/Joey Tribbiani', 'what', 's01_e01_c15_u001')
+
+event_id: s01_e01_c15_u002_e1
+utterance_id: s01_e01_c15_u002
+  tuple: ('believe', 'I/Phoebe Buffay', "what I'm hearing here", 's01_e01_c15_u002')
+  tuple: ('hear', 'I/Phoebe Buffay', 'what', 's01_e01_c15_u002')
+
+event_id: s01_e01_c15_u005_e1
+utterance_id: s01_e01_c15_u005
+  tuple: ('stop', 'you/Phoebe Buffay', None, 's01_e01_c15_u005')
+
+event_id: s01_e01_c15_u006_e1
+utterance_id: s01_e01_c15_u006
+  tuple: ('do', 'I/Phoebe Buffay', 'it', 's01_e01_c15_u006')
+
+event_id: s01_e01_c15_u008_e1
+utterance_id: s01_e01_c15_u008
+  tuple: ('say', 'I/Monica Geller', 'that you had a nice butt', 's01_e01_c15_u008')
+  tuple: ('have', 'you/Rachel Green', 'a nice butt', 's01_e01_c15_u008')
+
+event_id: s01_e01_c15_u008_e2
+utterance_id: s01_e01_c15_u008
+  tuple: ('be', 'it/(butt)', 'just not a great butt', 's01_e01_c15_u008')
+
+event_id: s01_e01_c15_u009_e1
+utterance_id: s01_e01_c15_u009
+  tuple: ('know', 'you/Monica Geller', 'a great butt', 's01_e01_c15_u009')
+
+event_id: s01_e01_c15_u009_e2
+utterance_id: s01_e01_c15_u009
+  tuple: ('come', 'it/(a great butt)', None, 's01_e01_c15_u009')
+  tuple: ('bite', 'it/(a great butt)', 'ya', 's01_e01_c15_u009')
+
+event_id: s01_e01_c15_u010_e1
+utterance_id: s01_e01_c15_u010
+  tuple: ('be', 'There', 'an image', 's01_e01_c15_u010')
+
+event_id: s01_e01_c15_u011_e1
+utterance_id: s01_e01_c15_u011
+  tuple: ('like', 'anybody', 'more coffee', 's01_e01_c15_u011')
+
+event_id: s01_e01_c15_u012_e1
+utterance_id: s01_e01_c15_u012
+  tuple: ('make', 'you/Rachel Green', 'it', 's01_e01_c15_u012')
+
+event_id: s01_e01_c15_u012_e2
+utterance_id: s01_e01_c15_u012
+  tuple: ('serve', 'you/Rachel Green', 'it', 's01_e01_c15_u012')
+
+event_id: s01_e01_c15_u013_e1
+utterance_id: s01_e01_c15_u013
+  tuple: ('serve', 'I/Rachel Green', 'it', 's01_e01_c15_u013')
+
+event_id: s01_e01_c15_u014_e1
+utterance_id: s01_e01_c15_u014
+  tuple: ('have', 'I/#ALL#', 'a cup of coffee', 's01_e01_c15_u014')
+
+event_id: s01_e01_c15_u015_e1
+utterance_id: s01_e01_c15_u015
+  tuple: ('be', 'I/Chandler Bing', 'in Las Vegas', 's01_e01_c15_u015')
+
+event_id: s01_e01_c15_u017_e1
+utterance_id: s01_e01_c15_u017
+  tuple: ('excuse', 'you/Customer', 'me', 's01_e01_c15_u017')
+
+event_id: s01_e01_c15_u017_e2
+utterance_id: s01_e01_c15_u017
+  tuple: ('give', 'you/Customer', 'this to that guy over there', 's01_e01_c15_u017')
+
+event_id: s01_e01_c15_u017_e3
+utterance_id: s01_e01_c15_u017
+  tuple: ('go', 'you/Customer', None, 's01_e01_c15_u017')
+
+event_id: s01_e01_c15_u017_e4
+utterance_id: s01_e01_c15_u017
+  tuple: ('thank', 'I/Rachel Green', 'you', 's01_e01_c15_u017')
+
+event_id: s01_e01_c15_u018_e1
+utterance_id: s01_e01_c15_u018
+  tuple: ('be', 'I/Chandler Bing', 'Liza Minelli', 's01_e01_c15_u018')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge and speaks up: assigns teams to search different floors and proactively asks a neighbor if they’ve seen the monkey, responding firmly (“No!”) when accused about the waffle."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Cooperates to solve the problem and politely asks for help, but also gives blunt orders and uses a sarcastic jab about spraying Lysol and waiting to be killed—mixed signals."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Creates an organized search plan with clear role assignments and instructs someone to stay by the phone to coordinate."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays composed and directive while others panic about being in trouble, calmly organizing the search and interacting confidently."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Acts pragmatically with a straightforward search plan; no clear signs of imaginative or unconventional thinking."
+  }
+}

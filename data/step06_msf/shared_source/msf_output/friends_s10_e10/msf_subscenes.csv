@@ -1,0 +1,804 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e10,s10_e10_c01,Chandler Bing,0,3,5,2,6,2,s10_e10_c01_u003,s10_e10_c01_u011,"[s10_e10_c01_u003] Monica Geller: I would get a room with this cake. I think I could show this cake a good time!
+[s10_e10_c01_u004] Phoebe Buffay: If you had to, what would you give up, food or sex?
+[s10_e10_c01_u005] Monica Geller: Sex!
+[s10_e10_c01_u006] Chandler Bing: Seriously, answer faster!
+[s10_e10_c01_u007] Monica Geller: Oh, I'm sorry honey, you know, but when she said ""sex"" I wasn't thinking about ""sex with you""!
+[s10_e10_c01_u008] Chandler Bing: It's like a giant hug.
+[s10_e10_c01_u009] Phoebe Buffay: Ross, how about you. What would you give up, sex or food?
+[s10_e10_c01_u010] Ross Geller: Food.
+[s10_e10_c01_u011] Phoebe Buffay: Ok, how about... uhm... sex or dinosaurs?"
+s10_e10,s10_e10_c01,Joey Tribbiani,0,11,11,10,11,2,s10_e10_c01_u011,s10_e10_c01_u016,"[s10_e10_c01_u011] Phoebe Buffay: Ok, how about... uhm... sex or dinosaurs?
+[s10_e10_c01_u012] Ross Geller: Oh my God. It's like Sophie's Choice.
+[s10_e10_c01_u013] Rachel Green: Oh God. What about you, Joe? What would you give up, sex or food?
+[s10_e10_c01_u014] Joey Tribbiani: Uhm... oh... I don't know, it's too hard.
+[s10_e10_c01_u015] Rachel Green: No, you gotta pick one!
+[s10_e10_c01_u016] Joey Tribbiani: Oh... food. No, sex. Food! Sex! Food! Se-I don't know! Good God, I don't know, I want girls on bread!"
+s10_e10,s10_e10_c01,Monica Geller,0,0,4,0,5,3,s10_e10_c01_u001,s10_e10_c01_u010,"[s10_e10_c01_u001] Monica Geller: Mmh... this cake is amazing!
+[s10_e10_c01_u002] Rachel Green: My God, get a room!
+[s10_e10_c01_u003] Monica Geller: I would get a room with this cake. I think I could show this cake a good time!
+[s10_e10_c01_u004] Phoebe Buffay: If you had to, what would you give up, food or sex?
+[s10_e10_c01_u005] Monica Geller: Sex!
+[s10_e10_c01_u006] Chandler Bing: Seriously, answer faster!
+[s10_e10_c01_u007] Monica Geller: Oh, I'm sorry honey, you know, but when she said ""sex"" I wasn't thinking about ""sex with you""!
+[s10_e10_c01_u008] Chandler Bing: It's like a giant hug.
+[s10_e10_c01_u009] Phoebe Buffay: Ross, how about you. What would you give up, sex or food?
+[s10_e10_c01_u010] Ross Geller: Food."
+s10_e10,s10_e10_c01,Phoebe Buffay,0,6,8,5,9,2,s10_e10_c01_u006,s10_e10_c01_u014,"[s10_e10_c01_u006] Chandler Bing: Seriously, answer faster!
+[s10_e10_c01_u007] Monica Geller: Oh, I'm sorry honey, you know, but when she said ""sex"" I wasn't thinking about ""sex with you""!
+[s10_e10_c01_u008] Chandler Bing: It's like a giant hug.
+[s10_e10_c01_u009] Phoebe Buffay: Ross, how about you. What would you give up, sex or food?
+[s10_e10_c01_u010] Ross Geller: Food.
+[s10_e10_c01_u011] Phoebe Buffay: Ok, how about... uhm... sex or dinosaurs?
+[s10_e10_c01_u012] Ross Geller: Oh my God. It's like Sophie's Choice.
+[s10_e10_c01_u013] Rachel Green: Oh God. What about you, Joe? What would you give up, sex or food?
+[s10_e10_c01_u014] Joey Tribbiani: Uhm... oh... I don't know, it's too hard."
+s10_e10,s10_e10_c01,Rachel Green,0,10,11,9,11,2,s10_e10_c01_u010,s10_e10_c01_u016,"[s10_e10_c01_u010] Ross Geller: Food.
+[s10_e10_c01_u011] Phoebe Buffay: Ok, how about... uhm... sex or dinosaurs?
+[s10_e10_c01_u012] Ross Geller: Oh my God. It's like Sophie's Choice.
+[s10_e10_c01_u013] Rachel Green: Oh God. What about you, Joe? What would you give up, sex or food?
+[s10_e10_c01_u014] Joey Tribbiani: Uhm... oh... I don't know, it's too hard.
+[s10_e10_c01_u015] Rachel Green: No, you gotta pick one!
+[s10_e10_c01_u016] Joey Tribbiani: Oh... food. No, sex. Food! Sex! Food! Se-I don't know! Good God, I don't know, I want girls on bread!"
+s10_e10,s10_e10_c01,Ross Geller,0,7,9,6,10,2,s10_e10_c01_u007,s10_e10_c01_u015,"[s10_e10_c01_u007] Monica Geller: Oh, I'm sorry honey, you know, but when she said ""sex"" I wasn't thinking about ""sex with you""!
+[s10_e10_c01_u008] Chandler Bing: It's like a giant hug.
+[s10_e10_c01_u009] Phoebe Buffay: Ross, how about you. What would you give up, sex or food?
+[s10_e10_c01_u010] Ross Geller: Food.
+[s10_e10_c01_u011] Phoebe Buffay: Ok, how about... uhm... sex or dinosaurs?
+[s10_e10_c01_u012] Ross Geller: Oh my God. It's like Sophie's Choice.
+[s10_e10_c01_u013] Rachel Green: Oh God. What about you, Joe? What would you give up, sex or food?
+[s10_e10_c01_u014] Joey Tribbiani: Uhm... oh... I don't know, it's too hard.
+[s10_e10_c01_u015] Rachel Green: No, you gotta pick one!"
+s10_e10,s10_e10_c02,Chandler Bing,0,12,16,11,17,3,s10_e10_c02_u012,s10_e10_c02_u022,"[s10_e10_c02_u012] Phoebe Buffay: Well, I'm sorry but it's hard to believe that anyone would tell a story that dull just to tell it! See, there's something going on with them. Look, he's getting into the car with her!
+[s10_e10_c02_u013] Rachel Green: Oh, that doesn't mean anything.
+[s10_e10_c02_u014] Phoebe Buffay: Oh yeah? Well, let's see. Ok, duck down.
+[s10_e10_c02_u015] Chandler Bing: Hello.
+[s10_e10_c02_u016] Phoebe Buffay: Oh, hi Chandler. It's Phoebe. Uhm... I know that Monica is working today so... ...I was wondering if you want to come to the movies with me and Rachel.
+[s10_e10_c02_u017] Chandler Bing: Oh, uhm... I have to work too. Yeah, I'm stuck at the office all day.
+[s10_e10_c02_u018] Phoebe Buffay: Oh, well, it's a shame that you-that you miss the movie 'cause we were gonna see, you know, either ""Liar, Liar"" or ""Betrayal"", or... ""An Affair To Remember"".
+[s10_e10_c02_u019] Chandler Bing: Those are all really old!
+[s10_e10_c02_u020] Phoebe Buffay: Ok, then maybe it'll be, uhm...
+[s10_e10_c02_u021] Rachel Green: ""Dude, Where's My Car?""
+[s10_e10_c02_u022] Phoebe Buffay: What?"
+s10_e10,s10_e10_c02,Phoebe Buffay,0,0,23,0,23,3,s10_e10_c02_u001,s10_e10_c02_u028,"[s10_e10_c02_u001] Rachel Green: You gotta see these latest pictures of Emma.
+[s10_e10_c02_u002] Phoebe Buffay: Oh, how cute!
+[s10_e10_c02_u003] Rachel Green: Yeah.
+[s10_e10_c02_u004] Phoebe Buffay: Oh, she looks just like a little doll!
+[s10_e10_c02_u005] Rachel Green: Oh, no, no. That is a doll.
+[s10_e10_c02_u006] Phoebe Buffay: Oh, thank God, 'cause that thing's really creepy! Look, there's Chandler.
+[s10_e10_c02_u007] Rachel Green: Oh. Who is the blonde, she's pretty.
+[s10_e10_c02_u008] Phoebe Buffay: OH! He's having an affair.
+[s10_e10_c02_u009] Rachel Green: He's not having an affair!
+[s10_e10_c02_u010] Phoebe Buffay: You know, I'm always right about these things.
+[s10_e10_c02_u011] Rachel Green: No, you're not! Last week you thought Ross was trying to kill you!
+[s10_e10_c02_u012] Phoebe Buffay: Well, I'm sorry but it's hard to believe that anyone would tell a story that dull just to tell it! See, there's something going on with them. Look, he's getting into the car with her!
+[s10_e10_c02_u013] Rachel Green: Oh, that doesn't mean anything.
+[s10_e10_c02_u014] Phoebe Buffay: Oh yeah? Well, let's see. Ok, duck down.
+[s10_e10_c02_u015] Chandler Bing: Hello.
+[s10_e10_c02_u016] Phoebe Buffay: Oh, hi Chandler. It's Phoebe. Uhm... I know that Monica is working today so... ...I was wondering if you want to come to the movies with me and Rachel.
+[s10_e10_c02_u017] Chandler Bing: Oh, uhm... I have to work too. Yeah, I'm stuck at the office all day.
+[s10_e10_c02_u018] Phoebe Buffay: Oh, well, it's a shame that you-that you miss the movie 'cause we were gonna see, you know, either ""Liar, Liar"" or ""Betrayal"", or... ""An Affair To Remember"".
+[s10_e10_c02_u019] Chandler Bing: Those are all really old!
+[s10_e10_c02_u020] Phoebe Buffay: Ok, then maybe it'll be, uhm...
+[s10_e10_c02_u021] Rachel Green: ""Dude, Where's My Car?""
+[s10_e10_c02_u022] Phoebe Buffay: What?
+[s10_e10_c02_u023] Rachel Green: They're in a caaar...
+[s10_e10_c02_u024] Phoebe Buffay: Okay, we-we'll talk to you later. Okay, bye.
+[s10_e10_c02_u025] Rachel Green: Geez!
+[s10_e10_c02_u026] Phoebe Buffay: Ok. Quick. We gotta find a cab and follow them.
+[s10_e10_c02_u027] Rachel Green: Oh, yeah, ok. Let me just grab my night vision goggles and my stun gun.
+[s10_e10_c02_u028] Phoebe Buffay: I got them!"
+s10_e10,s10_e10_c02,Rachel Green,0,0,10,0,11,3,s10_e10_c02_u001,s10_e10_c02_u016,"[s10_e10_c02_u001] Rachel Green: You gotta see these latest pictures of Emma.
+[s10_e10_c02_u002] Phoebe Buffay: Oh, how cute!
+[s10_e10_c02_u003] Rachel Green: Yeah.
+[s10_e10_c02_u004] Phoebe Buffay: Oh, she looks just like a little doll!
+[s10_e10_c02_u005] Rachel Green: Oh, no, no. That is a doll.
+[s10_e10_c02_u006] Phoebe Buffay: Oh, thank God, 'cause that thing's really creepy! Look, there's Chandler.
+[s10_e10_c02_u007] Rachel Green: Oh. Who is the blonde, she's pretty.
+[s10_e10_c02_u008] Phoebe Buffay: OH! He's having an affair.
+[s10_e10_c02_u009] Rachel Green: He's not having an affair!
+[s10_e10_c02_u010] Phoebe Buffay: You know, I'm always right about these things.
+[s10_e10_c02_u011] Rachel Green: No, you're not! Last week you thought Ross was trying to kill you!
+[s10_e10_c02_u012] Phoebe Buffay: Well, I'm sorry but it's hard to believe that anyone would tell a story that dull just to tell it! See, there's something going on with them. Look, he's getting into the car with her!
+[s10_e10_c02_u013] Rachel Green: Oh, that doesn't mean anything.
+[s10_e10_c02_u014] Phoebe Buffay: Oh yeah? Well, let's see. Ok, duck down.
+[s10_e10_c02_u015] Chandler Bing: Hello.
+[s10_e10_c02_u016] Phoebe Buffay: Oh, hi Chandler. It's Phoebe. Uhm... I know that Monica is working today so... ...I was wondering if you want to come to the movies with me and Rachel."
+s10_e10,s10_e10_c02,Rachel Green,1,18,23,17,23,3,s10_e10_c02_u018,s10_e10_c02_u028,"[s10_e10_c02_u018] Phoebe Buffay: Oh, well, it's a shame that you-that you miss the movie 'cause we were gonna see, you know, either ""Liar, Liar"" or ""Betrayal"", or... ""An Affair To Remember"".
+[s10_e10_c02_u019] Chandler Bing: Those are all really old!
+[s10_e10_c02_u020] Phoebe Buffay: Ok, then maybe it'll be, uhm...
+[s10_e10_c02_u021] Rachel Green: ""Dude, Where's My Car?""
+[s10_e10_c02_u022] Phoebe Buffay: What?
+[s10_e10_c02_u023] Rachel Green: They're in a caaar...
+[s10_e10_c02_u024] Phoebe Buffay: Okay, we-we'll talk to you later. Okay, bye.
+[s10_e10_c02_u025] Rachel Green: Geez!
+[s10_e10_c02_u026] Phoebe Buffay: Ok. Quick. We gotta find a cab and follow them.
+[s10_e10_c02_u027] Rachel Green: Oh, yeah, ok. Let me just grab my night vision goggles and my stun gun.
+[s10_e10_c02_u028] Phoebe Buffay: I got them!"
+s10_e10,s10_e10_c03,Chandler Bing,0,0,20,0,20,3,s10_e10_c03_u001,s10_e10_c03_u025,"[s10_e10_c03_u001] Chandler Bing: Hi!
+[s10_e10_c03_u002] Monica Geller: Hey! You smell like perfume and cigarettes.
+[s10_e10_c03_u003] Chandler Bing: I was in the car with Nancy all day.
+[s10_e10_c03_u004] Monica Geller: Nancy doesn't smoke!
+[s10_e10_c03_u005] Chandler Bing: Well, at least the perfume is not mine, be thankful for that!
+[s10_e10_c03_u006] Monica Geller: So? What do you think of the house?
+[s10_e10_c03_u007] Chandler Bing: It's perfect. It's everything we've been looking for.
+[s10_e10_c03_u008] Monica Geller: Isn't it? Then what about the amazing wainscotting and the crown molding and the dormer windows in the attic?
+[s10_e10_c03_u009] Chandler Bing: And the wiggle wharms and the zip zorps? What were the things you said?
+[s10_e10_c03_u010] Monica Geller: Don't you love the huge yard?
+[s10_e10_c03_u011] Chandler Bing: And the fireplace in the bedroom.
+[s10_e10_c03_u012] Monica Geller: And Nancy said that it's really under price, because the guy lost his job and has to move in with his parents!
+[s10_e10_c03_u013] Chandler Bing: This is bringing out a lovely color in you!
+[s10_e10_c03_u014] Monica Geller: So? Do you think we should get it?
+[s10_e10_c03_u015] Chandler Bing: I don't know. What do you think?
+[s10_e10_c03_u016] Monica Geller: I think we should.
+[s10_e10_c03_u017] Chandler Bing: I do too.
+[s10_e10_c03_u018] Monica Geller: This is huge!
+[s10_e10_c03_u019] Chandler Bing: I know.
+[s10_e10_c03_u020] Monica Geller: How bad you wanna smoke, right now.
+[s10_e10_c03_u021] Chandler Bing: I don't know what you mean, giant talking cigarette! Oh, by the way, Phoebe called just as I was getting into Nancy's car, so if she asks you, I was at work all day.
+[s10_e10_c03_u022] Monica Geller: Gotcha. When do we tell them about this?
+[s10_e10_c03_u023] Chandler Bing: We don't. Not until it's a hundred percent. I mean, why upset everybody over nothing.
+[s10_e10_c03_u024] Monica Geller: Okay. Right. Oh my God that is gonna be so hard.
+[s10_e10_c03_u025] Chandler Bing: I know. Gooooood luck with it."
+s10_e10,s10_e10_c03,Monica Geller,0,0,20,0,20,3,s10_e10_c03_u001,s10_e10_c03_u025,"[s10_e10_c03_u001] Chandler Bing: Hi!
+[s10_e10_c03_u002] Monica Geller: Hey! You smell like perfume and cigarettes.
+[s10_e10_c03_u003] Chandler Bing: I was in the car with Nancy all day.
+[s10_e10_c03_u004] Monica Geller: Nancy doesn't smoke!
+[s10_e10_c03_u005] Chandler Bing: Well, at least the perfume is not mine, be thankful for that!
+[s10_e10_c03_u006] Monica Geller: So? What do you think of the house?
+[s10_e10_c03_u007] Chandler Bing: It's perfect. It's everything we've been looking for.
+[s10_e10_c03_u008] Monica Geller: Isn't it? Then what about the amazing wainscotting and the crown molding and the dormer windows in the attic?
+[s10_e10_c03_u009] Chandler Bing: And the wiggle wharms and the zip zorps? What were the things you said?
+[s10_e10_c03_u010] Monica Geller: Don't you love the huge yard?
+[s10_e10_c03_u011] Chandler Bing: And the fireplace in the bedroom.
+[s10_e10_c03_u012] Monica Geller: And Nancy said that it's really under price, because the guy lost his job and has to move in with his parents!
+[s10_e10_c03_u013] Chandler Bing: This is bringing out a lovely color in you!
+[s10_e10_c03_u014] Monica Geller: So? Do you think we should get it?
+[s10_e10_c03_u015] Chandler Bing: I don't know. What do you think?
+[s10_e10_c03_u016] Monica Geller: I think we should.
+[s10_e10_c03_u017] Chandler Bing: I do too.
+[s10_e10_c03_u018] Monica Geller: This is huge!
+[s10_e10_c03_u019] Chandler Bing: I know.
+[s10_e10_c03_u020] Monica Geller: How bad you wanna smoke, right now.
+[s10_e10_c03_u021] Chandler Bing: I don't know what you mean, giant talking cigarette! Oh, by the way, Phoebe called just as I was getting into Nancy's car, so if she asks you, I was at work all day.
+[s10_e10_c03_u022] Monica Geller: Gotcha. When do we tell them about this?
+[s10_e10_c03_u023] Chandler Bing: We don't. Not until it's a hundred percent. I mean, why upset everybody over nothing.
+[s10_e10_c03_u024] Monica Geller: Okay. Right. Oh my God that is gonna be so hard.
+[s10_e10_c03_u025] Chandler Bing: I know. Gooooood luck with it."
+s10_e10,s10_e10_c04,Phoebe Buffay,0,2,8,1,8,3,s10_e10_c04_u002,s10_e10_c04_u013,"[s10_e10_c04_u002] Rachel Green: I'm telling you guys, we followed them out to a house in Westchester, the went in for like forty-five minutes and then they came out looking pretty happy!
+[s10_e10_c04_u003] Joey Tribbiani: Chandler? Forty-five minutes? Well, something is not right. I just can't believe he would do this to Monica!
+[s10_e10_c04_u004] Ross Geller: I know, and with the baby coming?
+[s10_e10_c04_u005] Phoebe Buffay: So, should we tell her?
+[s10_e10_c04_u006] Ross Geller: I don't know. Phoebe, if one of us saw Mike with another woman would you want us to tell you?
+[s10_e10_c04_u007] Phoebe Buffay: Why? Who'd you seen him with?
+[s10_e10_c04_u008] Ross Geller: No one, I'm just saying if...
+[s10_e10_c04_u009] Phoebe Buffay: TELL ME WHAT YOU KNOW!
+[s10_e10_c04_u010] Ross Geller: I know nothing! Mike's a great guy, it was hypothetical!
+[s10_e10_c04_u011] Phoebe Buffay: All right. . He is a good guy. You're right, he wouldn't cheat.
+[s10_e10_c04_u012] Ross Geller: Believe me, if I did see with someone, there's no way I...
+[s10_e10_c04_u013] Phoebe Buffay: WHO DID YOU SEE HIM WITH?"
+s10_e10,s10_e10_c04,Ross Geller,0,0,8,0,8,3,s10_e10_c04_u001,s10_e10_c04_u013,"[s10_e10_c04_u001] Ross Geller: I just can't see Chandler cheating!
+[s10_e10_c04_u002] Rachel Green: I'm telling you guys, we followed them out to a house in Westchester, the went in for like forty-five minutes and then they came out looking pretty happy!
+[s10_e10_c04_u003] Joey Tribbiani: Chandler? Forty-five minutes? Well, something is not right. I just can't believe he would do this to Monica!
+[s10_e10_c04_u004] Ross Geller: I know, and with the baby coming?
+[s10_e10_c04_u005] Phoebe Buffay: So, should we tell her?
+[s10_e10_c04_u006] Ross Geller: I don't know. Phoebe, if one of us saw Mike with another woman would you want us to tell you?
+[s10_e10_c04_u007] Phoebe Buffay: Why? Who'd you seen him with?
+[s10_e10_c04_u008] Ross Geller: No one, I'm just saying if...
+[s10_e10_c04_u009] Phoebe Buffay: TELL ME WHAT YOU KNOW!
+[s10_e10_c04_u010] Ross Geller: I know nothing! Mike's a great guy, it was hypothetical!
+[s10_e10_c04_u011] Phoebe Buffay: All right. . He is a good guy. You're right, he wouldn't cheat.
+[s10_e10_c04_u012] Ross Geller: Believe me, if I did see with someone, there's no way I...
+[s10_e10_c04_u013] Phoebe Buffay: WHO DID YOU SEE HIM WITH?"
+s10_e10,s10_e10_c05,Chandler Bing,0,12,14,11,15,2,s10_e10_c05_u012,s10_e10_c05_u020,"[s10_e10_c05_u012] Phoebe Buffay: What?
+[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?
+[s10_e10_c05_u014] Monica Geller: Yeah, sure... uhm, I'm devastated, obviously... Did you think the neighborhood was homey?
+[s10_e10_c05_u015] Chandler Bing: Hey!
+[s10_e10_c05_u016] Joey Tribbiani: You son of a bitch!
+[s10_e10_c05_u017] Chandler Bing: Is it me, or have the greetings gone downhill around here?
+[s10_e10_c05_u018] Monica Geller: Phoebe and Rachel saw you with Nancy today and... em... they think you're having an affair.
+[s10_e10_c05_u019] Rachel Green: Who's Nancy?
+[s10_e10_c05_u020] Ross Geller: What's going on?"
+s10_e10,s10_e10_c05,Chandler Bing,1,38,39,37,40,2,s10_e10_c05_u038,s10_e10_c05_u045,"[s10_e10_c05_u038] Joey Tribbiani: No, no, it's not, don't listen to him! I'm gonna thump you!
+[s10_e10_c05_u039] Ross Geller: It's ok, because they have to get it out of their system, okay , but you're going to realize, this is the only place, you wanna be.
+[s10_e10_c05_u040] Chandler Bing: Actually, we already found a house we love.
+[s10_e10_c05_u041] Ross Geller: What?
+[s10_e10_c05_u042] Monica Geller: And about an hour ago, we made an offer.
+[s10_e10_c05_u043] Chandler Bing: Bet you wish I was having an affair now, huh? TIME LAPSE.
+[s10_e10_c05_u044] Ross Geller: You put an offer on a house?
+[s10_e10_c05_u045] Monica Geller: It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees..."
+s10_e10,s10_e10_c05,Chandler Bing,2,42,42,41,43,2,s10_e10_c05_u042,s10_e10_c05_u048,"[s10_e10_c05_u042] Monica Geller: And about an hour ago, we made an offer.
+[s10_e10_c05_u043] Chandler Bing: Bet you wish I was having an affair now, huh? TIME LAPSE.
+[s10_e10_c05_u044] Ross Geller: You put an offer on a house?
+[s10_e10_c05_u045] Monica Geller: It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees...
+[s10_e10_c05_u046] Phoebe Buffay: Wha..? Again with the nature, what are you? Beavers?
+[s10_e10_c05_u047] Chandler Bing: I know this is really hard and we're really sorry.
+[s10_e10_c05_u048] Joey Tribbiani: Is this because I come over here without knocking and eat your food? Because I can stop doing that, I really, really think I can!"
+s10_e10,s10_e10_c05,Chandler Bing,3,44,46,43,47,2,s10_e10_c05_u044,s10_e10_c05_u052,"[s10_e10_c05_u044] Ross Geller: You put an offer on a house?
+[s10_e10_c05_u045] Monica Geller: It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees...
+[s10_e10_c05_u046] Phoebe Buffay: Wha..? Again with the nature, what are you? Beavers?
+[s10_e10_c05_u047] Chandler Bing: I know this is really hard and we're really sorry.
+[s10_e10_c05_u048] Joey Tribbiani: Is this because I come over here without knocking and eat your food? Because I can stop doing that, I really, really think I can!
+[s10_e10_c05_u049] Chandler Bing: You know that's not the reason Joe.
+[s10_e10_c05_u050] Monica Geller: We think if you saw it, you'd understand. I mean you guys were there. It is beautiful, isn't it?
+[s10_e10_c05_u051] Rachel Green: Yeah it is.
+[s10_e10_c05_u052] Joey Tribbiani: What the hell are you doin'?"
+s10_e10,s10_e10_c05,Chandler Bing,4,78,80,77,81,2,s10_e10_c05_u078,s10_e10_c05_u086,"[s10_e10_c05_u078] Joey Tribbiani: It's Joey.
+[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?
+[s10_e10_c05_u080] Rachel Green: Oooohh that's interesting.
+[s10_e10_c05_u081] Chandler Bing: If you win, we give up the birds.
+[s10_e10_c05_u082] Joey Tribbiani: Dah!!
+[s10_e10_c05_u083] Chandler Bing: But if we win, we get your apartment.
+[s10_e10_c05_u084] Joey Tribbiani: Oooooh!
+[s10_e10_c05_u085] Monica Geller: Deal! TIME LAPSE.
+[s10_e10_c05_u086] Ross Geller: What was Monica's nickname when she was a field hockey goalie?"
+s10_e10,s10_e10_c05,Chandler Bing,5,91,93,90,94,2,s10_e10_c05_u091,s10_e10_c05_u099,"[s10_e10_c05_u091] Joey Tribbiani: Weekend at Bernie's.
+[s10_e10_c05_u092] Ross Geller: Monica categorizes her towels. How many categories are there?
+[s10_e10_c05_u093] Joey Tribbiani: Everyday use.
+[s10_e10_c05_u094] Chandler Bing: Fancy.
+[s10_e10_c05_u095] Joey Tribbiani: Guest.
+[s10_e10_c05_u096] Chandler Bing: Fancy guest.
+[s10_e10_c05_u097] Ross Geller: Two seconds...
+[s10_e10_c05_u098] Joey Tribbiani: Uhh, 11!
+[s10_e10_c05_u099] Ross Geller: 11, unbelievable, 11 is correct."
+s10_e10,s10_e10_c05,Chandler Bing,6,118,120,117,121,2,s10_e10_c05_u118,s10_e10_c05_u126,"[s10_e10_c05_u118] Monica Geller: Hey, we would still be living here if hadn't gotten the question wrong!
+[s10_e10_c05_u119] Rachel Green: Well it stupid, unfair question!
+[s10_e10_c05_u120] Ross Geller: Don't blame the questions!
+[s10_e10_c05_u121] Chandler Bing: Would you all stop yelling in our apartment! You are ruining moving day for us!
+[s10_e10_c05_u122] Ross Geller: Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!
+[s10_e10_c05_u123] Chandler Bing: Wow! Listen, we had a good run. You know, what was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!
+[s10_e10_c05_u124] Monica Geller: Hey Ross. What's up bro?
+[s10_e10_c05_u125] Ross Geller: What the hell are doing?!!
+[s10_e10_c05_u126] Rachel Green: Hey, what's-what's going on?!"
+s10_e10,s10_e10_c05,Chandler Bing,7,122,122,121,123,2,s10_e10_c05_u122,s10_e10_c05_u128,"[s10_e10_c05_u122] Ross Geller: Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!
+[s10_e10_c05_u123] Chandler Bing: Wow! Listen, we had a good run. You know, what was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!
+[s10_e10_c05_u124] Monica Geller: Hey Ross. What's up bro?
+[s10_e10_c05_u125] Ross Geller: What the hell are doing?!!
+[s10_e10_c05_u126] Rachel Green: Hey, what's-what's going on?!
+[s10_e10_c05_u127] Chandler Bing: Well, I think, I think Ross knows about me and Monica.
+[s10_e10_c05_u128] Joey Tribbiani: Dude! He's right there!"
+s10_e10,s10_e10_c05,Chandler Bing,8,125,126,124,127,2,s10_e10_c05_u125,s10_e10_c05_u132,"[s10_e10_c05_u125] Ross Geller: What the hell are doing?!!
+[s10_e10_c05_u126] Rachel Green: Hey, what's-what's going on?!
+[s10_e10_c05_u127] Chandler Bing: Well, I think, I think Ross knows about me and Monica.
+[s10_e10_c05_u128] Joey Tribbiani: Dude! He's right there!
+[s10_e10_c05_u129] Ross Geller: I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!
+[s10_e10_c05_u130] Chandler Bing: Look, we're not just messing around! I love her. Okay, I'm in love with her.
+[s10_e10_c05_u131] Monica Geller: I'm so sorry that you had to find out this way. I'm sorry, but iit-t's true, I love him too.
+[s10_e10_c05_u132] Ross Geller: My best friend and my sister! I cannot believe this."
+s10_e10,s10_e10_c05,Chandler Bing,9,144,153,143,153,3,s10_e10_c05_u144,s10_e10_c05_u159,"[s10_e10_c05_u144] Monica Geller: When I fall asleep on the couch after reading, she covers me over with a blanket.
+[s10_e10_c05_u145] Rachel Green: Well y'know, I don't want you to be cold.
+[s10_e10_c05_u146] Monica Geller: And when I told her that I was gonna be moving in with Chandler, she was really supportive. You were so great. You made it so easy. And now you have to leave. And I have to live with a boy!! TIME LAPSE.
+[s10_e10_c05_u147] Chandler Bing: Hey.
+[s10_e10_c05_u148] Monica Geller: She really left.
+[s10_e10_c05_u149] Chandler Bing: I know.
+[s10_e10_c05_u150] Monica Geller: Thank you.
+[s10_e10_c05_u151] Chandler Bing: No problem roomie.
+[s10_e10_c05_u152] Monica Geller: Can I ask you a question?
+[s10_e10_c05_u153] Chandler Bing: Sure!
+[s10_e10_c05_u154] Monica Geller: What the hell is that dog doing here?!
+[s10_e10_c05_u155] Chandler Bing: Little toast here. I know this isn't exactly the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.
+[s10_e10_c05_u156] #ALL#: That's so sweet.
+[s10_e10_c05_u157] Ross Geller: And hey, here's to a lousy Christmas.
+[s10_e10_c05_u158] Rachel Green: And a crappy New Year.
+[s10_e10_c05_u159] Chandler Bing: Here, here!"
+s10_e10,s10_e10_c05,Joey Tribbiani,0,11,12,10,13,2,s10_e10_c05_u011,s10_e10_c05_u018,"[s10_e10_c05_u011] Monica Geller: Oh my God! Oh my God that's awful! What did you think of the house?
+[s10_e10_c05_u012] Phoebe Buffay: What?
+[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?
+[s10_e10_c05_u014] Monica Geller: Yeah, sure... uhm, I'm devastated, obviously... Did you think the neighborhood was homey?
+[s10_e10_c05_u015] Chandler Bing: Hey!
+[s10_e10_c05_u016] Joey Tribbiani: You son of a bitch!
+[s10_e10_c05_u017] Chandler Bing: Is it me, or have the greetings gone downhill around here?
+[s10_e10_c05_u018] Monica Geller: Phoebe and Rachel saw you with Nancy today and... em... they think you're having an affair."
+s10_e10,s10_e10_c05,Joey Tribbiani,1,21,22,20,23,2,s10_e10_c05_u021,s10_e10_c05_u028,"[s10_e10_c05_u021] Monica Geller: Ok, alright, you guys, you'd better sit down, this is pretty big.
+[s10_e10_c05_u022] Chandler Bing: Yeah I'm not having an affair. Nancy is our realtor.
+[s10_e10_c05_u023] Joey Tribbiani: I knew he couldn't be with a woman for 45 minutes!!
+[s10_e10_c05_u024] Phoebe Buffay: Why do you have a realtor?
+[s10_e10_c05_u025] Monica Geller: Uhm, she has been showing us houses outside of the city.
+[s10_e10_c05_u026] Joey Tribbiani: What?
+[s10_e10_c05_u027] Rachel Green: Are you serious?
+[s10_e10_c05_u028] Monica Geller: When we found out that we're gonna get this baby, Chandler and I started talking and we decided that we didn't want to raise a kid in the city."
+s10_e10,s10_e10_c05,Joey Tribbiani,2,47,47,46,48,2,s10_e10_c05_u047,s10_e10_c05_u053,"[s10_e10_c05_u047] Chandler Bing: I know this is really hard and we're really sorry.
+[s10_e10_c05_u048] Joey Tribbiani: Is this because I come over here without knocking and eat your food? Because I can stop doing that, I really, really think I can!
+[s10_e10_c05_u049] Chandler Bing: You know that's not the reason Joe.
+[s10_e10_c05_u050] Monica Geller: We think if you saw it, you'd understand. I mean you guys were there. It is beautiful, isn't it?
+[s10_e10_c05_u051] Rachel Green: Yeah it is.
+[s10_e10_c05_u052] Joey Tribbiani: What the hell are you doin'?
+[s10_e10_c05_u053] Rachel Green: Well, it is, all right? When we were out there today, all I kept thinking was: I can't believe Chandler is screwing this woman, but MAN this would be a nice place to live!"
+s10_e10,s10_e10_c05,Joey Tribbiani,3,68,74,67,75,3,s10_e10_c05_u068,s10_e10_c05_u080,"[s10_e10_c05_u068] Monica Geller: Okay, Rachel, you wanna put the marshmallows in concentric circles.
+[s10_e10_c05_u069] Rachel Green: No Mon, you want to put them in concentric circles. I want to do this.
+[s10_e10_c05_u070] Monica Geller: Every year.
+[s10_e10_c05_u071] Joey Tribbiani: It's stuck!!!
+[s10_e10_c05_u072] Phoebe Buffay: Easy. Step. How did it get on?
+[s10_e10_c05_u073] Joey Tribbiani: I put it on to scare Chandler!
+[s10_e10_c05_u074] Phoebe Buffay: Oh my God! Monica's gonna totally freak out!
+[s10_e10_c05_u075] Joey Tribbiani: It smells really bad in here.
+[s10_e10_c05_u076] Phoebe Buffay: Well, of course it smells really bad. You have your head inside a turkey's ass!
+[s10_e10_c05_u077] Monica Geller: Hey, did you get the turkey bast-Oh my God! Oh my God! Who is that?
+[s10_e10_c05_u078] Joey Tribbiani: It's Joey.
+[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?
+[s10_e10_c05_u080] Rachel Green: Oooohh that's interesting."
+s10_e10,s10_e10_c05,Joey Tribbiani,4,77,77,76,78,2,s10_e10_c05_u077,s10_e10_c05_u083,"[s10_e10_c05_u077] Monica Geller: Hey, did you get the turkey bast-Oh my God! Oh my God! Who is that?
+[s10_e10_c05_u078] Joey Tribbiani: It's Joey.
+[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?
+[s10_e10_c05_u080] Rachel Green: Oooohh that's interesting.
+[s10_e10_c05_u081] Chandler Bing: If you win, we give up the birds.
+[s10_e10_c05_u082] Joey Tribbiani: Dah!!
+[s10_e10_c05_u083] Chandler Bing: But if we win, we get your apartment."
+s10_e10,s10_e10_c05,Joey Tribbiani,5,79,83,78,84,2,s10_e10_c05_u079,s10_e10_c05_u089,"[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?
+[s10_e10_c05_u080] Rachel Green: Oooohh that's interesting.
+[s10_e10_c05_u081] Chandler Bing: If you win, we give up the birds.
+[s10_e10_c05_u082] Joey Tribbiani: Dah!!
+[s10_e10_c05_u083] Chandler Bing: But if we win, we get your apartment.
+[s10_e10_c05_u084] Joey Tribbiani: Oooooh!
+[s10_e10_c05_u085] Monica Geller: Deal! TIME LAPSE.
+[s10_e10_c05_u086] Ross Geller: What was Monica's nickname when she was a field hockey goalie?
+[s10_e10_c05_u087] Joey Tribbiani: Big fat goalie.
+[s10_e10_c05_u088] Ross Geller: Correct. Rachel claims this is her favorite movie...
+[s10_e10_c05_u089] Chandler Bing: Dangerous Liaisons."
+s10_e10,s10_e10_c05,Joey Tribbiani,6,86,86,85,87,2,s10_e10_c05_u086,s10_e10_c05_u092,"[s10_e10_c05_u086] Ross Geller: What was Monica's nickname when she was a field hockey goalie?
+[s10_e10_c05_u087] Joey Tribbiani: Big fat goalie.
+[s10_e10_c05_u088] Ross Geller: Correct. Rachel claims this is her favorite movie...
+[s10_e10_c05_u089] Chandler Bing: Dangerous Liaisons.
+[s10_e10_c05_u090] Ross Geller: Correct. Her actual favorite movie is...
+[s10_e10_c05_u091] Joey Tribbiani: Weekend at Bernie's.
+[s10_e10_c05_u092] Ross Geller: Monica categorizes her towels. How many categories are there?"
+s10_e10,s10_e10_c05,Joey Tribbiani,7,88,94,87,95,3,s10_e10_c05_u088,s10_e10_c05_u100,"[s10_e10_c05_u088] Ross Geller: Correct. Rachel claims this is her favorite movie...
+[s10_e10_c05_u089] Chandler Bing: Dangerous Liaisons.
+[s10_e10_c05_u090] Ross Geller: Correct. Her actual favorite movie is...
+[s10_e10_c05_u091] Joey Tribbiani: Weekend at Bernie's.
+[s10_e10_c05_u092] Ross Geller: Monica categorizes her towels. How many categories are there?
+[s10_e10_c05_u093] Joey Tribbiani: Everyday use.
+[s10_e10_c05_u094] Chandler Bing: Fancy.
+[s10_e10_c05_u095] Joey Tribbiani: Guest.
+[s10_e10_c05_u096] Chandler Bing: Fancy guest.
+[s10_e10_c05_u097] Ross Geller: Two seconds...
+[s10_e10_c05_u098] Joey Tribbiani: Uhh, 11!
+[s10_e10_c05_u099] Ross Geller: 11, unbelievable, 11 is correct.
+[s10_e10_c05_u100] Ross Geller: Chandler was how old when he first touched a girl's breast?"
+s10_e10,s10_e10_c05,Monica Geller,0,0,7,0,8,3,s10_e10_c05_u001,s10_e10_c05_u013,"[s10_e10_c05_u001] Rachel Green: Oh, look at her, so happy!
+[s10_e10_c05_u002] Monica Geller: If only there were a smaller one to clean this one!
+[s10_e10_c05_u003] Joey Tribbiani: Hey, is uhm... is Chandler here?
+[s10_e10_c05_u004] Monica Geller: No, he's picking up dinner, why, what's up?
+[s10_e10_c05_u005] Phoebe Buffay: Well, look, whatever happens, we're here for you and we love you.
+[s10_e10_c05_u006] Monica Geller: All right...
+[s10_e10_c05_u007] Ross Geller: We think Chandler might be having an affair.
+[s10_e10_c05_u008] Monica Geller: What?
+[s10_e10_c05_u009] Rachel Green: Phoebe and I saw Chandler with a blonde woman today outside on the street and then we followed them to a house in Westchester.
+[s10_e10_c05_u010] Phoebe Buffay: They went in together. So sorry.
+[s10_e10_c05_u011] Monica Geller: Oh my God! Oh my God that's awful! What did you think of the house?
+[s10_e10_c05_u012] Phoebe Buffay: What?
+[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?"
+s10_e10,s10_e10_c05,Monica Geller,1,9,10,8,11,2,s10_e10_c05_u009,s10_e10_c05_u016,"[s10_e10_c05_u009] Rachel Green: Phoebe and I saw Chandler with a blonde woman today outside on the street and then we followed them to a house in Westchester.
+[s10_e10_c05_u010] Phoebe Buffay: They went in together. So sorry.
+[s10_e10_c05_u011] Monica Geller: Oh my God! Oh my God that's awful! What did you think of the house?
+[s10_e10_c05_u012] Phoebe Buffay: What?
+[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?
+[s10_e10_c05_u014] Monica Geller: Yeah, sure... uhm, I'm devastated, obviously... Did you think the neighborhood was homey?
+[s10_e10_c05_u015] Chandler Bing: Hey!
+[s10_e10_c05_u016] Joey Tribbiani: You son of a bitch!"
+s10_e10,s10_e10_c05,Monica Geller,2,13,13,12,14,2,s10_e10_c05_u013,s10_e10_c05_u019,"[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?
+[s10_e10_c05_u014] Monica Geller: Yeah, sure... uhm, I'm devastated, obviously... Did you think the neighborhood was homey?
+[s10_e10_c05_u015] Chandler Bing: Hey!
+[s10_e10_c05_u016] Joey Tribbiani: You son of a bitch!
+[s10_e10_c05_u017] Chandler Bing: Is it me, or have the greetings gone downhill around here?
+[s10_e10_c05_u018] Monica Geller: Phoebe and Rachel saw you with Nancy today and... em... they think you're having an affair.
+[s10_e10_c05_u019] Rachel Green: Who's Nancy?"
+s10_e10,s10_e10_c05,Monica Geller,3,16,17,15,18,2,s10_e10_c05_u016,s10_e10_c05_u023,"[s10_e10_c05_u016] Joey Tribbiani: You son of a bitch!
+[s10_e10_c05_u017] Chandler Bing: Is it me, or have the greetings gone downhill around here?
+[s10_e10_c05_u018] Monica Geller: Phoebe and Rachel saw you with Nancy today and... em... they think you're having an affair.
+[s10_e10_c05_u019] Rachel Green: Who's Nancy?
+[s10_e10_c05_u020] Ross Geller: What's going on?
+[s10_e10_c05_u021] Monica Geller: Ok, alright, you guys, you'd better sit down, this is pretty big.
+[s10_e10_c05_u022] Chandler Bing: Yeah I'm not having an affair. Nancy is our realtor.
+[s10_e10_c05_u023] Joey Tribbiani: I knew he couldn't be with a woman for 45 minutes!!"
+s10_e10,s10_e10_c05,Monica Geller,4,20,20,19,21,2,s10_e10_c05_u020,s10_e10_c05_u026,"[s10_e10_c05_u020] Ross Geller: What's going on?
+[s10_e10_c05_u021] Monica Geller: Ok, alright, you guys, you'd better sit down, this is pretty big.
+[s10_e10_c05_u022] Chandler Bing: Yeah I'm not having an affair. Nancy is our realtor.
+[s10_e10_c05_u023] Joey Tribbiani: I knew he couldn't be with a woman for 45 minutes!!
+[s10_e10_c05_u024] Phoebe Buffay: Why do you have a realtor?
+[s10_e10_c05_u025] Monica Geller: Uhm, she has been showing us houses outside of the city.
+[s10_e10_c05_u026] Joey Tribbiani: What?"
+s10_e10,s10_e10_c05,Monica Geller,5,23,24,22,25,2,s10_e10_c05_u023,s10_e10_c05_u030,"[s10_e10_c05_u023] Joey Tribbiani: I knew he couldn't be with a woman for 45 minutes!!
+[s10_e10_c05_u024] Phoebe Buffay: Why do you have a realtor?
+[s10_e10_c05_u025] Monica Geller: Uhm, she has been showing us houses outside of the city.
+[s10_e10_c05_u026] Joey Tribbiani: What?
+[s10_e10_c05_u027] Rachel Green: Are you serious?
+[s10_e10_c05_u028] Monica Geller: When we found out that we're gonna get this baby, Chandler and I started talking and we decided that we didn't want to raise a kid in the city.
+[s10_e10_c05_u029] Phoebe Buffay: So you're gonna move?
+[s10_e10_c05_u030] Ross Geller: Oh my God."
+s10_e10,s10_e10_c05,Monica Geller,6,40,41,39,42,2,s10_e10_c05_u040,s10_e10_c05_u047,"[s10_e10_c05_u040] Chandler Bing: Actually, we already found a house we love.
+[s10_e10_c05_u041] Ross Geller: What?
+[s10_e10_c05_u042] Monica Geller: And about an hour ago, we made an offer.
+[s10_e10_c05_u043] Chandler Bing: Bet you wish I was having an affair now, huh? TIME LAPSE.
+[s10_e10_c05_u044] Ross Geller: You put an offer on a house?
+[s10_e10_c05_u045] Monica Geller: It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees...
+[s10_e10_c05_u046] Phoebe Buffay: Wha..? Again with the nature, what are you? Beavers?
+[s10_e10_c05_u047] Chandler Bing: I know this is really hard and we're really sorry."
+s10_e10,s10_e10_c05,Monica Geller,7,65,67,64,68,2,s10_e10_c05_u065,s10_e10_c05_u073,"[s10_e10_c05_u065] Rachel Green: Ow, that had to hurt!
+[s10_e10_c05_u066] Phoebe Buffay: Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.
+[s10_e10_c05_u067] The Guys: We will.
+[s10_e10_c05_u068] Monica Geller: Okay, Rachel, you wanna put the marshmallows in concentric circles.
+[s10_e10_c05_u069] Rachel Green: No Mon, you want to put them in concentric circles. I want to do this.
+[s10_e10_c05_u070] Monica Geller: Every year.
+[s10_e10_c05_u071] Joey Tribbiani: It's stuck!!!
+[s10_e10_c05_u072] Phoebe Buffay: Easy. Step. How did it get on?
+[s10_e10_c05_u073] Joey Tribbiani: I put it on to scare Chandler!"
+s10_e10,s10_e10_c05,Monica Geller,8,74,76,73,77,2,s10_e10_c05_u074,s10_e10_c05_u082,"[s10_e10_c05_u074] Phoebe Buffay: Oh my God! Monica's gonna totally freak out!
+[s10_e10_c05_u075] Joey Tribbiani: It smells really bad in here.
+[s10_e10_c05_u076] Phoebe Buffay: Well, of course it smells really bad. You have your head inside a turkey's ass!
+[s10_e10_c05_u077] Monica Geller: Hey, did you get the turkey bast-Oh my God! Oh my God! Who is that?
+[s10_e10_c05_u078] Joey Tribbiani: It's Joey.
+[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?
+[s10_e10_c05_u080] Rachel Green: Oooohh that's interesting.
+[s10_e10_c05_u081] Chandler Bing: If you win, we give up the birds.
+[s10_e10_c05_u082] Joey Tribbiani: Dah!!"
+s10_e10,s10_e10_c05,Monica Geller,9,108,113,107,114,3,s10_e10_c05_u108,s10_e10_c05_u119,"[s10_e10_c05_u108] Ross Geller: Correct! What is Chandler Bing's job?
+[s10_e10_c05_u109] Rachel Green: Ow...Oh Gosh!
+[s10_e10_c05_u110] Ross Geller: 10 seconds, you need this or you lose the game.
+[s10_e10_c05_u111] Monica Geller: It's umm, it has something to do with transponding.
+[s10_e10_c05_u112] Rachel Green: Oh-oh-oh, he's a transponce-transpondster!
+[s10_e10_c05_u113] Monica Geller: That's not even a word!
+[s10_e10_c05_u114] Monica Geller: NOOOOOOOOO!!!!! TIME LAPSE.
+[s10_e10_c05_u115] Rachel Green: Y'know what, you are mean boys, who are just being mean!
+[s10_e10_c05_u116] Joey Tribbiani: Hey, don't get mad at us! No one forced you to raise the stakes!
+[s10_e10_c05_u117] Rachel Green: That is not true. She did! She forced me!
+[s10_e10_c05_u118] Monica Geller: Hey, we would still be living here if hadn't gotten the question wrong!
+[s10_e10_c05_u119] Rachel Green: Well it stupid, unfair question!"
+s10_e10,s10_e10_c05,Monica Geller,10,128,130,127,131,2,s10_e10_c05_u128,s10_e10_c05_u136,"[s10_e10_c05_u128] Joey Tribbiani: Dude! He's right there!
+[s10_e10_c05_u129] Ross Geller: I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!
+[s10_e10_c05_u130] Chandler Bing: Look, we're not just messing around! I love her. Okay, I'm in love with her.
+[s10_e10_c05_u131] Monica Geller: I'm so sorry that you had to find out this way. I'm sorry, but iit-t's true, I love him too.
+[s10_e10_c05_u132] Ross Geller: My best friend and my sister! I cannot believe this.
+[s10_e10_c05_u133] Monica Geller: Well, this is the last box of your clothes. I'm just gonna label it, ""What were you thinking?""
+[s10_e10_c05_u134] Rachel Green: Funny, because I was just gonna go across the hall and write that on Chandler.
+[s10_e10_c05_u135] Phoebe Buffay: Ok, you guys, I don't mean to make things worse, but umm, I don't want to live with Rachel anymore.
+[s10_e10_c05_u136] Monica Geller, Rachel Green: What?!"
+s10_e10,s10_e10_c05,Monica Geller,11,136,151,135,152,3,s10_e10_c05_u136,s10_e10_c05_u158,"[s10_e10_c05_u136] Monica Geller, Rachel Green: What?!
+[s10_e10_c05_u137] Phoebe Buffay: You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!
+[s10_e10_c05_u138] Rachel Green: Well, Phoebe that's fine because I'm not moving.
+[s10_e10_c05_u139] Monica Geller: Whoa-whoa-whoa, Phoebe you gotta take her! Y'know, I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like.
+[s10_e10_c05_u140] Phoebe Buffay: What else?
+[s10_e10_c05_u141] Monica Geller: When I take a shower, she leaves me little notes on the mirror.
+[s10_e10_c05_u142] Rachel Green: Yeah, I do. I-I do, do that.
+[s10_e10_c05_u143] Phoebe Buffay: That's nice. I like having things to read in the bathroom.
+[s10_e10_c05_u144] Monica Geller: When I fall asleep on the couch after reading, she covers me over with a blanket.
+[s10_e10_c05_u145] Rachel Green: Well y'know, I don't want you to be cold.
+[s10_e10_c05_u146] Monica Geller: And when I told her that I was gonna be moving in with Chandler, she was really supportive. You were so great. You made it so easy. And now you have to leave. And I have to live with a boy!! TIME LAPSE.
+[s10_e10_c05_u147] Chandler Bing: Hey.
+[s10_e10_c05_u148] Monica Geller: She really left.
+[s10_e10_c05_u149] Chandler Bing: I know.
+[s10_e10_c05_u150] Monica Geller: Thank you.
+[s10_e10_c05_u151] Chandler Bing: No problem roomie.
+[s10_e10_c05_u152] Monica Geller: Can I ask you a question?
+[s10_e10_c05_u153] Chandler Bing: Sure!
+[s10_e10_c05_u154] Monica Geller: What the hell is that dog doing here?!
+[s10_e10_c05_u155] Chandler Bing: Little toast here. I know this isn't exactly the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.
+[s10_e10_c05_u156] #ALL#: That's so sweet.
+[s10_e10_c05_u157] Ross Geller: And hey, here's to a lousy Christmas.
+[s10_e10_c05_u158] Rachel Green: And a crappy New Year."
+s10_e10,s10_e10_c05,Phoebe Buffay,0,7,9,6,10,2,s10_e10_c05_u007,s10_e10_c05_u015,"[s10_e10_c05_u007] Ross Geller: We think Chandler might be having an affair.
+[s10_e10_c05_u008] Monica Geller: What?
+[s10_e10_c05_u009] Rachel Green: Phoebe and I saw Chandler with a blonde woman today outside on the street and then we followed them to a house in Westchester.
+[s10_e10_c05_u010] Phoebe Buffay: They went in together. So sorry.
+[s10_e10_c05_u011] Monica Geller: Oh my God! Oh my God that's awful! What did you think of the house?
+[s10_e10_c05_u012] Phoebe Buffay: What?
+[s10_e10_c05_u013] Joey Tribbiani: Monica, you understand what we are saying, right?
+[s10_e10_c05_u014] Monica Geller: Yeah, sure... uhm, I'm devastated, obviously... Did you think the neighborhood was homey?
+[s10_e10_c05_u015] Chandler Bing: Hey!"
+s10_e10,s10_e10_c05,Phoebe Buffay,1,59,63,58,64,3,s10_e10_c05_u059,s10_e10_c05_u069,"[s10_e10_c05_u059] Monica Geller: Well, I guess we've established who's staying here with Monica...
+[s10_e10_c05_u060] Ross Geller: That money is mine, Green!
+[s10_e10_c05_u061] Rachel Green: You're fly is open, Geller!
+[s10_e10_c05_u062] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+[s10_e10_c05_u063] Chandler Bing: Hey, that's...'joincidence' with a 'C'!
+[s10_e10_c05_u064] Phoebe Buffay: Eww, look. Ugly Naked Guy lit a bunch of candles.
+[s10_e10_c05_u065] Rachel Green: Ow, that had to hurt!
+[s10_e10_c05_u066] Phoebe Buffay: Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.
+[s10_e10_c05_u067] The Guys: We will.
+[s10_e10_c05_u068] Monica Geller: Okay, Rachel, you wanna put the marshmallows in concentric circles.
+[s10_e10_c05_u069] Rachel Green: No Mon, you want to put them in concentric circles. I want to do this."
+s10_e10,s10_e10_c05,Phoebe Buffay,2,69,73,68,74,3,s10_e10_c05_u069,s10_e10_c05_u079,"[s10_e10_c05_u069] Rachel Green: No Mon, you want to put them in concentric circles. I want to do this.
+[s10_e10_c05_u070] Monica Geller: Every year.
+[s10_e10_c05_u071] Joey Tribbiani: It's stuck!!!
+[s10_e10_c05_u072] Phoebe Buffay: Easy. Step. How did it get on?
+[s10_e10_c05_u073] Joey Tribbiani: I put it on to scare Chandler!
+[s10_e10_c05_u074] Phoebe Buffay: Oh my God! Monica's gonna totally freak out!
+[s10_e10_c05_u075] Joey Tribbiani: It smells really bad in here.
+[s10_e10_c05_u076] Phoebe Buffay: Well, of course it smells really bad. You have your head inside a turkey's ass!
+[s10_e10_c05_u077] Monica Geller: Hey, did you get the turkey bast-Oh my God! Oh my God! Who is that?
+[s10_e10_c05_u078] Joey Tribbiani: It's Joey.
+[s10_e10_c05_u079] Monica Geller: I got it! How about, if we win, they have to get rid of the rooster?"
+s10_e10,s10_e10_c05,Phoebe Buffay,3,132,136,131,137,2,s10_e10_c05_u132,s10_e10_c05_u142,"[s10_e10_c05_u132] Ross Geller: My best friend and my sister! I cannot believe this.
+[s10_e10_c05_u133] Monica Geller: Well, this is the last box of your clothes. I'm just gonna label it, ""What were you thinking?""
+[s10_e10_c05_u134] Rachel Green: Funny, because I was just gonna go across the hall and write that on Chandler.
+[s10_e10_c05_u135] Phoebe Buffay: Ok, you guys, I don't mean to make things worse, but umm, I don't want to live with Rachel anymore.
+[s10_e10_c05_u136] Monica Geller, Rachel Green: What?!
+[s10_e10_c05_u137] Phoebe Buffay: You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!
+[s10_e10_c05_u138] Rachel Green: Well, Phoebe that's fine because I'm not moving.
+[s10_e10_c05_u139] Monica Geller: Whoa-whoa-whoa, Phoebe you gotta take her! Y'know, I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like.
+[s10_e10_c05_u140] Phoebe Buffay: What else?
+[s10_e10_c05_u141] Monica Geller: When I take a shower, she leaves me little notes on the mirror.
+[s10_e10_c05_u142] Rachel Green: Yeah, I do. I-I do, do that."
+s10_e10,s10_e10_c05,Phoebe Buffay,4,138,139,137,140,2,s10_e10_c05_u138,s10_e10_c05_u145,"[s10_e10_c05_u138] Rachel Green: Well, Phoebe that's fine because I'm not moving.
+[s10_e10_c05_u139] Monica Geller: Whoa-whoa-whoa, Phoebe you gotta take her! Y'know, I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like.
+[s10_e10_c05_u140] Phoebe Buffay: What else?
+[s10_e10_c05_u141] Monica Geller: When I take a shower, she leaves me little notes on the mirror.
+[s10_e10_c05_u142] Rachel Green: Yeah, I do. I-I do, do that.
+[s10_e10_c05_u143] Phoebe Buffay: That's nice. I like having things to read in the bathroom.
+[s10_e10_c05_u144] Monica Geller: When I fall asleep on the couch after reading, she covers me over with a blanket.
+[s10_e10_c05_u145] Rachel Green: Well y'know, I don't want you to be cold."
+s10_e10,s10_e10_c05,Rachel Green,0,48,57,47,58,2,s10_e10_c05_u048,s10_e10_c05_u063,"[s10_e10_c05_u048] Joey Tribbiani: Is this because I come over here without knocking and eat your food? Because I can stop doing that, I really, really think I can!
+[s10_e10_c05_u049] Chandler Bing: You know that's not the reason Joe.
+[s10_e10_c05_u050] Monica Geller: We think if you saw it, you'd understand. I mean you guys were there. It is beautiful, isn't it?
+[s10_e10_c05_u051] Rachel Green: Yeah it is.
+[s10_e10_c05_u052] Joey Tribbiani: What the hell are you doin'?
+[s10_e10_c05_u053] Rachel Green: Well, it is, all right? When we were out there today, all I kept thinking was: I can't believe Chandler is screwing this woman, but MAN this would be a nice place to live!
+[s10_e10_c05_u054] Phoebe Buffay: Yeah, but so is this.
+[s10_e10_c05_u055] Ross Geller: Yeah, I mean, if you moved there, you have to leave here. I mean, how can you leave this place?
+[s10_e10_c05_u056] Rachel Green: C'mon Daddy, listen to me! All of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I don't want you to buy me a hat, I'm saying that I am a ha- It's a metaphor, Daddy!
+[s10_e10_c05_u057] Ross Geller: You can see where he'd have trouble.
+[s10_e10_c05_u058] Rachel Green: Well maybe I'll just stay here with Monica.
+[s10_e10_c05_u059] Monica Geller: Well, I guess we've established who's staying here with Monica...
+[s10_e10_c05_u060] Ross Geller: That money is mine, Green!
+[s10_e10_c05_u061] Rachel Green: You're fly is open, Geller!
+[s10_e10_c05_u062] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+[s10_e10_c05_u063] Chandler Bing: Hey, that's...'joincidence' with a 'C'!"
+s10_e10,s10_e10_c05,Rachel Green,1,60,60,59,61,2,s10_e10_c05_u060,s10_e10_c05_u066,"[s10_e10_c05_u060] Ross Geller: That money is mine, Green!
+[s10_e10_c05_u061] Rachel Green: You're fly is open, Geller!
+[s10_e10_c05_u062] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+[s10_e10_c05_u063] Chandler Bing: Hey, that's...'joincidence' with a 'C'!
+[s10_e10_c05_u064] Phoebe Buffay: Eww, look. Ugly Naked Guy lit a bunch of candles.
+[s10_e10_c05_u065] Rachel Green: Ow, that had to hurt!
+[s10_e10_c05_u066] Phoebe Buffay: Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help."
+s10_e10,s10_e10_c05,Rachel Green,2,64,64,63,65,2,s10_e10_c05_u064,s10_e10_c05_u070,"[s10_e10_c05_u064] Phoebe Buffay: Eww, look. Ugly Naked Guy lit a bunch of candles.
+[s10_e10_c05_u065] Rachel Green: Ow, that had to hurt!
+[s10_e10_c05_u066] Phoebe Buffay: Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.
+[s10_e10_c05_u067] The Guys: We will.
+[s10_e10_c05_u068] Monica Geller: Okay, Rachel, you wanna put the marshmallows in concentric circles.
+[s10_e10_c05_u069] Rachel Green: No Mon, you want to put them in concentric circles. I want to do this.
+[s10_e10_c05_u070] Monica Geller: Every year."
+s10_e10,s10_e10_c05,Rachel Green,3,104,108,103,109,2,s10_e10_c05_u104,s10_e10_c05_u114,"[s10_e10_c05_u104] Ross Geller: Joey had an imaginary childhood friend. His name was?
+[s10_e10_c05_u105] Monica Geller: Maurice.
+[s10_e10_c05_u106] Ross Geller: Correct, his profession was?
+[s10_e10_c05_u107] Rachel Green: Space cowboy!
+[s10_e10_c05_u108] Ross Geller: Correct! What is Chandler Bing's job?
+[s10_e10_c05_u109] Rachel Green: Ow...Oh Gosh!
+[s10_e10_c05_u110] Ross Geller: 10 seconds, you need this or you lose the game.
+[s10_e10_c05_u111] Monica Geller: It's umm, it has something to do with transponding.
+[s10_e10_c05_u112] Rachel Green: Oh-oh-oh, he's a transponce-transpondster!
+[s10_e10_c05_u113] Monica Geller: That's not even a word!
+[s10_e10_c05_u114] Monica Geller: NOOOOOOOOO!!!!! TIME LAPSE."
+s10_e10,s10_e10_c05,Rachel Green,4,110,116,109,117,3,s10_e10_c05_u110,s10_e10_c05_u122,"[s10_e10_c05_u110] Ross Geller: 10 seconds, you need this or you lose the game.
+[s10_e10_c05_u111] Monica Geller: It's umm, it has something to do with transponding.
+[s10_e10_c05_u112] Rachel Green: Oh-oh-oh, he's a transponce-transpondster!
+[s10_e10_c05_u113] Monica Geller: That's not even a word!
+[s10_e10_c05_u114] Monica Geller: NOOOOOOOOO!!!!! TIME LAPSE.
+[s10_e10_c05_u115] Rachel Green: Y'know what, you are mean boys, who are just being mean!
+[s10_e10_c05_u116] Joey Tribbiani: Hey, don't get mad at us! No one forced you to raise the stakes!
+[s10_e10_c05_u117] Rachel Green: That is not true. She did! She forced me!
+[s10_e10_c05_u118] Monica Geller: Hey, we would still be living here if hadn't gotten the question wrong!
+[s10_e10_c05_u119] Rachel Green: Well it stupid, unfair question!
+[s10_e10_c05_u120] Ross Geller: Don't blame the questions!
+[s10_e10_c05_u121] Chandler Bing: Would you all stop yelling in our apartment! You are ruining moving day for us!
+[s10_e10_c05_u122] Ross Geller: Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!"
+s10_e10,s10_e10_c05,Rachel Green,5,133,133,132,134,2,s10_e10_c05_u133,s10_e10_c05_u139,"[s10_e10_c05_u133] Monica Geller: Well, this is the last box of your clothes. I'm just gonna label it, ""What were you thinking?""
+[s10_e10_c05_u134] Rachel Green: Funny, because I was just gonna go across the hall and write that on Chandler.
+[s10_e10_c05_u135] Phoebe Buffay: Ok, you guys, I don't mean to make things worse, but umm, I don't want to live with Rachel anymore.
+[s10_e10_c05_u136] Monica Geller, Rachel Green: What?!
+[s10_e10_c05_u137] Phoebe Buffay: You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!
+[s10_e10_c05_u138] Rachel Green: Well, Phoebe that's fine because I'm not moving.
+[s10_e10_c05_u139] Monica Geller: Whoa-whoa-whoa, Phoebe you gotta take her! Y'know, I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like."
+s10_e10,s10_e10_c05,Rachel Green,6,137,137,136,138,2,s10_e10_c05_u137,s10_e10_c05_u143,"[s10_e10_c05_u137] Phoebe Buffay: You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!
+[s10_e10_c05_u138] Rachel Green: Well, Phoebe that's fine because I'm not moving.
+[s10_e10_c05_u139] Monica Geller: Whoa-whoa-whoa, Phoebe you gotta take her! Y'know, I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like.
+[s10_e10_c05_u140] Phoebe Buffay: What else?
+[s10_e10_c05_u141] Monica Geller: When I take a shower, she leaves me little notes on the mirror.
+[s10_e10_c05_u142] Rachel Green: Yeah, I do. I-I do, do that.
+[s10_e10_c05_u143] Phoebe Buffay: That's nice. I like having things to read in the bathroom."
+s10_e10,s10_e10_c05,Rachel Green,7,140,141,139,142,2,s10_e10_c05_u140,s10_e10_c05_u147,"[s10_e10_c05_u140] Phoebe Buffay: What else?
+[s10_e10_c05_u141] Monica Geller: When I take a shower, she leaves me little notes on the mirror.
+[s10_e10_c05_u142] Rachel Green: Yeah, I do. I-I do, do that.
+[s10_e10_c05_u143] Phoebe Buffay: That's nice. I like having things to read in the bathroom.
+[s10_e10_c05_u144] Monica Geller: When I fall asleep on the couch after reading, she covers me over with a blanket.
+[s10_e10_c05_u145] Rachel Green: Well y'know, I don't want you to be cold.
+[s10_e10_c05_u146] Monica Geller: And when I told her that I was gonna be moving in with Chandler, she was really supportive. You were so great. You made it so easy. And now you have to leave. And I have to live with a boy!! TIME LAPSE.
+[s10_e10_c05_u147] Chandler Bing: Hey."
+s10_e10,s10_e10_c05,Ross Geller,0,32,40,31,41,3,s10_e10_c05_u032,s10_e10_c05_u046,"[s10_e10_c05_u032] Rachel Green: What is wrong with raising a kid in the city? I'm doing it, Ross is doing it, Sarah Jessica Parker is doing it!
+[s10_e10_c05_u033] Monica Geller: And that's great for you guys, but we want a lawn and a swingset...
+[s10_e10_c05_u034] Chandler Bing: ...and a street where our kids can ride their bikes and maybe an ice-cream truck can go by.
+[s10_e10_c05_u035] Ross Geller: So you wanna buy a house in the 50's?
+[s10_e10_c05_u036] Phoebe Buffay: Have you thought about what you would be giving up? You can't move out of the city, what if you want Chinese food at 5am? Or a fake Rolex that breaks as soon as it rains or an Asian hooker sent right to your door?
+[s10_e10_c05_u037] Ross Geller: You know what, if you wanna look for a house, that's okay.
+[s10_e10_c05_u038] Joey Tribbiani: No, no, it's not, don't listen to him! I'm gonna thump you!
+[s10_e10_c05_u039] Ross Geller: It's ok, because they have to get it out of their system, okay , but you're going to realize, this is the only place, you wanna be.
+[s10_e10_c05_u040] Chandler Bing: Actually, we already found a house we love.
+[s10_e10_c05_u041] Ross Geller: What?
+[s10_e10_c05_u042] Monica Geller: And about an hour ago, we made an offer.
+[s10_e10_c05_u043] Chandler Bing: Bet you wish I was having an affair now, huh? TIME LAPSE.
+[s10_e10_c05_u044] Ross Geller: You put an offer on a house?
+[s10_e10_c05_u045] Monica Geller: It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees...
+[s10_e10_c05_u046] Phoebe Buffay: Wha..? Again with the nature, what are you? Beavers?"
+s10_e10,s10_e10_c05,Ross Geller,1,52,56,51,57,2,s10_e10_c05_u052,s10_e10_c05_u062,"[s10_e10_c05_u052] Joey Tribbiani: What the hell are you doin'?
+[s10_e10_c05_u053] Rachel Green: Well, it is, all right? When we were out there today, all I kept thinking was: I can't believe Chandler is screwing this woman, but MAN this would be a nice place to live!
+[s10_e10_c05_u054] Phoebe Buffay: Yeah, but so is this.
+[s10_e10_c05_u055] Ross Geller: Yeah, I mean, if you moved there, you have to leave here. I mean, how can you leave this place?
+[s10_e10_c05_u056] Rachel Green: C'mon Daddy, listen to me! All of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I don't want you to buy me a hat, I'm saying that I am a ha- It's a metaphor, Daddy!
+[s10_e10_c05_u057] Ross Geller: You can see where he'd have trouble.
+[s10_e10_c05_u058] Rachel Green: Well maybe I'll just stay here with Monica.
+[s10_e10_c05_u059] Monica Geller: Well, I guess we've established who's staying here with Monica...
+[s10_e10_c05_u060] Ross Geller: That money is mine, Green!
+[s10_e10_c05_u061] Rachel Green: You're fly is open, Geller!
+[s10_e10_c05_u062] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?"
+s10_e10,s10_e10_c05,Ross Geller,2,83,89,82,90,3,s10_e10_c05_u083,s10_e10_c05_u095,"[s10_e10_c05_u083] Chandler Bing: But if we win, we get your apartment.
+[s10_e10_c05_u084] Joey Tribbiani: Oooooh!
+[s10_e10_c05_u085] Monica Geller: Deal! TIME LAPSE.
+[s10_e10_c05_u086] Ross Geller: What was Monica's nickname when she was a field hockey goalie?
+[s10_e10_c05_u087] Joey Tribbiani: Big fat goalie.
+[s10_e10_c05_u088] Ross Geller: Correct. Rachel claims this is her favorite movie...
+[s10_e10_c05_u089] Chandler Bing: Dangerous Liaisons.
+[s10_e10_c05_u090] Ross Geller: Correct. Her actual favorite movie is...
+[s10_e10_c05_u091] Joey Tribbiani: Weekend at Bernie's.
+[s10_e10_c05_u092] Ross Geller: Monica categorizes her towels. How many categories are there?
+[s10_e10_c05_u093] Joey Tribbiani: Everyday use.
+[s10_e10_c05_u094] Chandler Bing: Fancy.
+[s10_e10_c05_u095] Joey Tribbiani: Guest."
+s10_e10,s10_e10_c05,Ross Geller,3,94,107,93,108,3,s10_e10_c05_u094,s10_e10_c05_u113,"[s10_e10_c05_u094] Chandler Bing: Fancy.
+[s10_e10_c05_u095] Joey Tribbiani: Guest.
+[s10_e10_c05_u096] Chandler Bing: Fancy guest.
+[s10_e10_c05_u097] Ross Geller: Two seconds...
+[s10_e10_c05_u098] Joey Tribbiani: Uhh, 11!
+[s10_e10_c05_u099] Ross Geller: 11, unbelievable, 11 is correct.
+[s10_e10_c05_u100] Ross Geller: Chandler was how old when he first touched a girl's breast?
+[s10_e10_c05_u101] Rachel Green: 14?
+[s10_e10_c05_u102] Ross Geller: No, 19.
+[s10_e10_c05_u103] Chandler Bing: Thanks man.
+[s10_e10_c05_u104] Ross Geller: Joey had an imaginary childhood friend. His name was?
+[s10_e10_c05_u105] Monica Geller: Maurice.
+[s10_e10_c05_u106] Ross Geller: Correct, his profession was?
+[s10_e10_c05_u107] Rachel Green: Space cowboy!
+[s10_e10_c05_u108] Ross Geller: Correct! What is Chandler Bing's job?
+[s10_e10_c05_u109] Rachel Green: Ow...Oh Gosh!
+[s10_e10_c05_u110] Ross Geller: 10 seconds, you need this or you lose the game.
+[s10_e10_c05_u111] Monica Geller: It's umm, it has something to do with transponding.
+[s10_e10_c05_u112] Rachel Green: Oh-oh-oh, he's a transponce-transpondster!
+[s10_e10_c05_u113] Monica Geller: That's not even a word!"
+s10_e10,s10_e10_c05,Ross Geller,4,117,121,116,122,2,s10_e10_c05_u117,s10_e10_c05_u127,"[s10_e10_c05_u117] Rachel Green: That is not true. She did! She forced me!
+[s10_e10_c05_u118] Monica Geller: Hey, we would still be living here if hadn't gotten the question wrong!
+[s10_e10_c05_u119] Rachel Green: Well it stupid, unfair question!
+[s10_e10_c05_u120] Ross Geller: Don't blame the questions!
+[s10_e10_c05_u121] Chandler Bing: Would you all stop yelling in our apartment! You are ruining moving day for us!
+[s10_e10_c05_u122] Ross Geller: Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!
+[s10_e10_c05_u123] Chandler Bing: Wow! Listen, we had a good run. You know, what was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!
+[s10_e10_c05_u124] Monica Geller: Hey Ross. What's up bro?
+[s10_e10_c05_u125] Ross Geller: What the hell are doing?!!
+[s10_e10_c05_u126] Rachel Green: Hey, what's-what's going on?!
+[s10_e10_c05_u127] Chandler Bing: Well, I think, I think Ross knows about me and Monica."
+s10_e10,s10_e10_c05,Ross Geller,5,124,124,123,125,2,s10_e10_c05_u124,s10_e10_c05_u130,"[s10_e10_c05_u124] Monica Geller: Hey Ross. What's up bro?
+[s10_e10_c05_u125] Ross Geller: What the hell are doing?!!
+[s10_e10_c05_u126] Rachel Green: Hey, what's-what's going on?!
+[s10_e10_c05_u127] Chandler Bing: Well, I think, I think Ross knows about me and Monica.
+[s10_e10_c05_u128] Joey Tribbiani: Dude! He's right there!
+[s10_e10_c05_u129] Ross Geller: I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!
+[s10_e10_c05_u130] Chandler Bing: Look, we're not just messing around! I love her. Okay, I'm in love with her."
+s10_e10,s10_e10_c05,Ross Geller,6,127,128,126,129,2,s10_e10_c05_u127,s10_e10_c05_u134,"[s10_e10_c05_u127] Chandler Bing: Well, I think, I think Ross knows about me and Monica.
+[s10_e10_c05_u128] Joey Tribbiani: Dude! He's right there!
+[s10_e10_c05_u129] Ross Geller: I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!
+[s10_e10_c05_u130] Chandler Bing: Look, we're not just messing around! I love her. Okay, I'm in love with her.
+[s10_e10_c05_u131] Monica Geller: I'm so sorry that you had to find out this way. I'm sorry, but iit-t's true, I love him too.
+[s10_e10_c05_u132] Ross Geller: My best friend and my sister! I cannot believe this.
+[s10_e10_c05_u133] Monica Geller: Well, this is the last box of your clothes. I'm just gonna label it, ""What were you thinking?""
+[s10_e10_c05_u134] Rachel Green: Funny, because I was just gonna go across the hall and write that on Chandler."
+s10_e10,s10_e10_c06,Chandler Bing,0,3,7,2,8,3,s10_e10_c06_u003,s10_e10_c06_u013,"[s10_e10_c06_u003] Phoebe Buffay: Yeah, you don't wanna live in Westchester. That's like the worst of the Chesters.
+[s10_e10_c06_u004] Ross Geller: You know, sometimes when I'm alone in my apartment, I look over here and you guys... are just having dinner or... watching TV or something, but... it makes me feel better. And now when I look over, who am I gonna see? The Gottliebs, the Yangs? They don't make me feel so good.
+[s10_e10_c06_u005] Rachel Green: Yeah. So don't move, okay? Just stay here and... maybe close your blinds at night.
+[s10_e10_c06_u006] Chandler Bing: Hello? It's Nancy, they responded to our offer.
+[s10_e10_c06_u007] Monica Geller: And?
+[s10_e10_c06_u008] Chandler Bing: Okay, thanks... They passed. They said they wouldn't go a penny under the asking price.
+[s10_e10_c06_u009] Monica Geller: We can't afford that.
+[s10_e10_c06_u010] Chandler Bing: I know.
+[s10_e10_c06_u011] Monica Geller: Well, there you go.
+[s10_e10_c06_u012] Joey Tribbiani: I'm really sorry you guys.
+[s10_e10_c06_u013] Ross Geller: Yeah. I'm sorry too. I'm even more sorry that that phone call didn't come before I told you about looking through the window."
+s10_e10,s10_e10_c06,Chandler Bing,1,17,29,16,29,3,s10_e10_c06_u017,s10_e10_c06_u034,"[s10_e10_c06_u017] Ross Geller: Love you guys.
+[s10_e10_c06_u018] Joey Tribbiani: You know, I'm really sorry I wasn't more supportive before.
+[s10_e10_c06_u019] Chandler Bing: That's okay, we understand.
+[s10_e10_c06_u020] Joey Tribbiani: And about this Nancy thing... If you're not sleeping with her, should I?
+[s10_e10_c06_u021] Monica Geller: I know there'll be other houses, but it's just so... I love that one so much.
+[s10_e10_c06_u022] Chandler Bing: Yeah... Well, it's a good thing we got it then.
+[s10_e10_c06_u023] Monica Geller: What?
+[s10_e10_c06_u024] Chandler Bing: We got the house.
+[s10_e10_c06_u025] Monica Geller: Oh my God!
+[s10_e10_c06_u026] Chandler Bing: I just didn't want to tell you in front of them.
+[s10_e10_c06_u027] Monica Geller: Oh my God! My God! We've got the house !?
+[s10_e10_c06_u028] Chandler Bing: We're getting the house. We're getting the house.
+[s10_e10_c06_u029] Monica Geller: And a baby...
+[s10_e10_c06_u030] Chandler Bing: We're growing up.
+[s10_e10_c06_u031] Monica Geller: We sure are.
+[s10_e10_c06_u032] Chandler Bing: So who's gonna tell them?
+[s10_e10_c06_u033] Monica Geller: Not it!
+[s10_e10_c06_u034] Chandler Bing: Not it! Damn it!"
+s10_e10,s10_e10_c06,Joey Tribbiani,0,15,17,14,18,2,s10_e10_c06_u015,s10_e10_c06_u023,"[s10_e10_c06_u015] Phoebe Buffay: You're gonna be okay?
+[s10_e10_c06_u016] Monica Geller: Yeah, we'll be okay.
+[s10_e10_c06_u017] Ross Geller: Love you guys.
+[s10_e10_c06_u018] Joey Tribbiani: You know, I'm really sorry I wasn't more supportive before.
+[s10_e10_c06_u019] Chandler Bing: That's okay, we understand.
+[s10_e10_c06_u020] Joey Tribbiani: And about this Nancy thing... If you're not sleeping with her, should I?
+[s10_e10_c06_u021] Monica Geller: I know there'll be other houses, but it's just so... I love that one so much.
+[s10_e10_c06_u022] Chandler Bing: Yeah... Well, it's a good thing we got it then.
+[s10_e10_c06_u023] Monica Geller: What?"
+s10_e10,s10_e10_c06,Monica Geller,0,4,8,3,9,3,s10_e10_c06_u004,s10_e10_c06_u014,"[s10_e10_c06_u004] Ross Geller: You know, sometimes when I'm alone in my apartment, I look over here and you guys... are just having dinner or... watching TV or something, but... it makes me feel better. And now when I look over, who am I gonna see? The Gottliebs, the Yangs? They don't make me feel so good.
+[s10_e10_c06_u005] Rachel Green: Yeah. So don't move, okay? Just stay here and... maybe close your blinds at night.
+[s10_e10_c06_u006] Chandler Bing: Hello? It's Nancy, they responded to our offer.
+[s10_e10_c06_u007] Monica Geller: And?
+[s10_e10_c06_u008] Chandler Bing: Okay, thanks... They passed. They said they wouldn't go a penny under the asking price.
+[s10_e10_c06_u009] Monica Geller: We can't afford that.
+[s10_e10_c06_u010] Chandler Bing: I know.
+[s10_e10_c06_u011] Monica Geller: Well, there you go.
+[s10_e10_c06_u012] Joey Tribbiani: I'm really sorry you guys.
+[s10_e10_c06_u013] Ross Geller: Yeah. I'm sorry too. I'm even more sorry that that phone call didn't come before I told you about looking through the window.
+[s10_e10_c06_u014] Rachel Green: Yeah, we're gonna let you be alone."
+s10_e10,s10_e10_c06,Monica Geller,1,18,29,17,29,3,s10_e10_c06_u018,s10_e10_c06_u034,"[s10_e10_c06_u018] Joey Tribbiani: You know, I'm really sorry I wasn't more supportive before.
+[s10_e10_c06_u019] Chandler Bing: That's okay, we understand.
+[s10_e10_c06_u020] Joey Tribbiani: And about this Nancy thing... If you're not sleeping with her, should I?
+[s10_e10_c06_u021] Monica Geller: I know there'll be other houses, but it's just so... I love that one so much.
+[s10_e10_c06_u022] Chandler Bing: Yeah... Well, it's a good thing we got it then.
+[s10_e10_c06_u023] Monica Geller: What?
+[s10_e10_c06_u024] Chandler Bing: We got the house.
+[s10_e10_c06_u025] Monica Geller: Oh my God!
+[s10_e10_c06_u026] Chandler Bing: I just didn't want to tell you in front of them.
+[s10_e10_c06_u027] Monica Geller: Oh my God! My God! We've got the house !?
+[s10_e10_c06_u028] Chandler Bing: We're getting the house. We're getting the house.
+[s10_e10_c06_u029] Monica Geller: And a baby...
+[s10_e10_c06_u030] Chandler Bing: We're growing up.
+[s10_e10_c06_u031] Monica Geller: We sure are.
+[s10_e10_c06_u032] Chandler Bing: So who's gonna tell them?
+[s10_e10_c06_u033] Monica Geller: Not it!
+[s10_e10_c06_u034] Chandler Bing: Not it! Damn it!"
+s10_e10,s10_e10_c06,Rachel Green,0,0,0,0,1,2,s10_e10_c06_u001,s10_e10_c06_u006,"[s10_e10_c06_u001] Rachel Green: You can't move. You just... you just can't.
+[s10_e10_c06_u002] Joey Tribbiani: Rachel's right. This is where you guys belong.
+[s10_e10_c06_u003] Phoebe Buffay: Yeah, you don't wanna live in Westchester. That's like the worst of the Chesters.
+[s10_e10_c06_u004] Ross Geller: You know, sometimes when I'm alone in my apartment, I look over here and you guys... are just having dinner or... watching TV or something, but... it makes me feel better. And now when I look over, who am I gonna see? The Gottliebs, the Yangs? They don't make me feel so good.
+[s10_e10_c06_u005] Rachel Green: Yeah. So don't move, okay? Just stay here and... maybe close your blinds at night.
+[s10_e10_c06_u006] Chandler Bing: Hello? It's Nancy, they responded to our offer."
+s10_e10,s10_e10_c06,Ross Geller,0,12,12,11,13,2,s10_e10_c06_u012,s10_e10_c06_u018,"[s10_e10_c06_u012] Joey Tribbiani: I'm really sorry you guys.
+[s10_e10_c06_u013] Ross Geller: Yeah. I'm sorry too. I'm even more sorry that that phone call didn't come before I told you about looking through the window.
+[s10_e10_c06_u014] Rachel Green: Yeah, we're gonna let you be alone.
+[s10_e10_c06_u015] Phoebe Buffay: You're gonna be okay?
+[s10_e10_c06_u016] Monica Geller: Yeah, we'll be okay.
+[s10_e10_c06_u017] Ross Geller: Love you guys.
+[s10_e10_c06_u018] Joey Tribbiani: You know, I'm really sorry I wasn't more supportive before."
+s10_e10,s10_e10_c07,Joey Tribbiani,0,8,8,7,8,2,s10_e10_c07_u008,s10_e10_c07_u013,"[s10_e10_c07_u008] Ross Geller: I love this.
+[s10_e10_c07_u009] Joey Tribbiani: A meatball Sub? Thanks!
+[s10_e10_c07_u010] Ross Geller: Seriously you guys, what's going on? What are these for?
+[s10_e10_c07_u011] Chandler Bing: Well, I didn't know how to tell you before, but... We got the house.
+[s10_e10_c07_u012] Monica Geller: Enjoy!
+[s10_e10_c07_u013] Joey Tribbiani: What did they say?"
+s10_e10,s10_e10_c07,Monica Geller,0,0,0,0,1,2,s10_e10_c07_u001,s10_e10_c07_u006,"[s10_e10_c07_u001] Monica Geller: Rachel, this is yours.
+[s10_e10_c07_u002] Rachel Green: Aah! Why? What are these for?
+[s10_e10_c07_u003] Chandler Bing: You'll see.
+[s10_e10_c07_u004] Monica Geller: All right, everybody open them!
+[s10_e10_c07_u005] Rachel Green: Ooh! Oh wow this is so beautiful.
+[s10_e10_c07_u006] Phoebe Buffay: Oh! These are the ones I was looking at in the store."
+s10_e10,s10_e10_c07,Monica Geller,1,2,3,1,4,2,s10_e10_c07_u002,s10_e10_c07_u009,"[s10_e10_c07_u002] Rachel Green: Aah! Why? What are these for?
+[s10_e10_c07_u003] Chandler Bing: You'll see.
+[s10_e10_c07_u004] Monica Geller: All right, everybody open them!
+[s10_e10_c07_u005] Rachel Green: Ooh! Oh wow this is so beautiful.
+[s10_e10_c07_u006] Phoebe Buffay: Oh! These are the ones I was looking at in the store.
+[s10_e10_c07_u007] Monica Geller: I know.
+[s10_e10_c07_u008] Ross Geller: I love this.
+[s10_e10_c07_u009] Joey Tribbiani: A meatball Sub? Thanks!"
+s10_e10,s10_e10_c07,Rachel Green,0,0,1,0,2,2,s10_e10_c07_u001,s10_e10_c07_u007,"[s10_e10_c07_u001] Monica Geller: Rachel, this is yours.
+[s10_e10_c07_u002] Rachel Green: Aah! Why? What are these for?
+[s10_e10_c07_u003] Chandler Bing: You'll see.
+[s10_e10_c07_u004] Monica Geller: All right, everybody open them!
+[s10_e10_c07_u005] Rachel Green: Ooh! Oh wow this is so beautiful.
+[s10_e10_c07_u006] Phoebe Buffay: Oh! These are the ones I was looking at in the store.
+[s10_e10_c07_u007] Monica Geller: I know."
+s10_e10,s10_e10_c07,Ross Geller,0,5,7,4,8,2,s10_e10_c07_u005,s10_e10_c07_u013,"[s10_e10_c07_u005] Rachel Green: Ooh! Oh wow this is so beautiful.
+[s10_e10_c07_u006] Phoebe Buffay: Oh! These are the ones I was looking at in the store.
+[s10_e10_c07_u007] Monica Geller: I know.
+[s10_e10_c07_u008] Ross Geller: I love this.
+[s10_e10_c07_u009] Joey Tribbiani: A meatball Sub? Thanks!
+[s10_e10_c07_u010] Ross Geller: Seriously you guys, what's going on? What are these for?
+[s10_e10_c07_u011] Chandler Bing: Well, I didn't know how to tell you before, but... We got the house.
+[s10_e10_c07_u012] Monica Geller: Enjoy!
+[s10_e10_c07_u013] Joey Tribbiani: What did they say?"

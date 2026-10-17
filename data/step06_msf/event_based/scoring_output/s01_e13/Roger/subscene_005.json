@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages the group and offers warm parting words (“great seeing [everyone] again”), speaking up multiple times in a social setting."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Gives blunt, unsolicited advice to Speaker_01 (“go easy on the cookies… just food, not love”), provoking a hostile reaction (“I hate TargetSpeaker”), suggesting low tact/empathy."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps track of time and urges departure (“we’re going to catch a movie and need to get going”; “we’re going to be late”), showing punctuality and planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and assertively, directing plans and offering firm advice without signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity or openness; remarks are practical/judgmental rather than explorative or imaginative."
+  }
+}

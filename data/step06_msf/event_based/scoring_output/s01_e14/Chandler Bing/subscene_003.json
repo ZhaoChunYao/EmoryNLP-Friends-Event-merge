@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker assertively takes the lead, telling Speaker_05 to listen because TargetSpeaker wants to talk about plans for tonight's double date (u009)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker disparages the potential date, saying the friend sounds very undesirable (u011), showing a critical, less considerate stance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates discussion to organize the evening and states awareness of the double-date arrangement (u009, u011)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks confidently and bluntly—directing others to listen and making firm judgments—without signs of anxiety or sensitivity (u009, u011)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker dismisses the blind date based on description, calling her very undesirable rather than showing curiosity or willingness to try (u011)."
+  }
+}

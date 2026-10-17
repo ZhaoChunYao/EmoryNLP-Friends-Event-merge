@@ -1,0 +1,145 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c14_u001",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u001_e1",
+          "tuples": [
+            "('remember', 'you/Ross Geller', 'when we went to Central Park and rented boats', 's01_e03_c14_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c14_u001_e2",
+          "tuples": [
+            "('go', 'we/Rachel Green+Ross Geller', 'to Central Park', 's01_e03_c14_u001')",
+            "('rent', 'we/Rachel Green+Ross Geller', 'boats', 's01_e03_c14_u001')",
+            "('be', 'That/(the Central Park boats trip)', 'fun', 's01_e03_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u002",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u002_e1",
+          "tuples": [
+            "('row', 'he/(unspecified male)', 'like a viking', 's01_e03_c14_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u005",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u005_e1",
+          "tuples": [
+            "('go', \"it/(Monica Geller's meeting)\", None, 's01_e03_c14_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u006",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u006_e1",
+          "tuples": [
+            "('know', 'you/Ross Geller', None, 's01_e03_c14_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u007",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u007_e1",
+          "tuples": [
+            "('mention', \"he/(Monica Geller's boyfriend)\", 'us', 's01_e03_c14_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u008",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u008_e1",
+          "tuples": [
+            "('say', \"he/(Monica Geller's boyfriend)\", \"he's really gonna miss you guys\", 's01_e03_c14_u008')",
+            "('miss', \"he/(Monica Geller's boyfriend)\", 'you guys', 's01_e03_c14_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u009",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u009_e1",
+          "tuples": [
+            "('have', 'you/Monica Geller', 'a rough day', 's01_e03_c14_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c14_u009_e2",
+          "tuples": [
+            "('come', 'you/Monica Geller', 'here', 's01_e03_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u010",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u010_e1",
+          "tuples": [
+            "('be', \"That/(Chandler Bing's limit)\", 'it', 's01_e03_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c14_u010_e2",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'cigarettes', 's01_e03_c14_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u012",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u012_e1",
+          "tuples": [
+            "('care', 'I/Chandler Bing', None, 's01_e03_c14_u012')",
+            "('be', 'Game', 'over', 's01_e03_c14_u012')",
+            "('be', 'I/Chandler Bing', 'weak', 's01_e03_c14_u012')",
+            "('smoke', 'I/Chandler Bing', None, 's01_e03_c14_u012')",
+            "('have', 'I/Chandler Bing', 'the smoke', 's01_e03_c14_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c14_u013",
+      "events": [
+        {
+          "event_id": "s01_e03_c14_u013_e1",
+          "tuples": [
+            "('smoke', 'you/Chandler Bing', None, 's01_e03_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c14_u013_e2",
+          "tuples": [
+            "('give', 'I/Phoebe Buffay', 'you seven thousand dollars', 's01_e03_c14_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

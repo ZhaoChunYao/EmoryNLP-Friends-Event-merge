@@ -1,0 +1,186 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u003_e1",
+          "tuples": [
+            "('bring', 'I/Phoebe Buffay', 'alphabet soup', 's01_e03_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u004_e1",
+          "tuples": [
+            "('pick out', 'you/Phoebe Buffay', 'the vowels', 's01_e03_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u005_e1",
+          "tuples": [
+            "('leave', 'I/Phoebe Buffay', 'the Ys', 's01_e03_c07_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c07_u005_e2",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', 'something else', 's01_e03_c07_u005')",
+            "('have', 'I/Phoebe Buffay', 'for you', 's01_e03_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u007_e1",
+          "tuples": [
+            "('like', 'you/Phoebe Buffay', 'a thousand dollars and a football phone', 's01_e03_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u008",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u008_e1",
+          "tuples": [
+            "('be', 'there', 'really money', 's01_e03_c07_u008')",
+            "('be', 'money', 'in here', 's01_e03_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u009",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u009_e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e03_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u010",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u010_e1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'what', 's01_e03_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u011",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u011_e1",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'you to have it', 's01_e03_c07_u011')",
+            "('have', 'you/Lizzy', 'it', 's01_e03_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c07_u011_e2",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'it', 's01_e03_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u012",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u012_e1",
+          "tuples": [
+            "('give', 'I/Lizzy', 'you something', 's01_e03_c07_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u013",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u013_e1",
+          "tuples": [
+            "('be', 'that', 'fine', 's01_e03_c07_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u014",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u014_e1",
+          "tuples": [
+            "('like', 'you/Phoebe Buffay', 'my tin-foil hat', 's01_e03_c07_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u015",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u015_e1",
+          "tuples": [
+            "('need', 'you/Lizzy', 'that', 's01_e03_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c07_u015_e2",
+          "tuples": [
+            "('be', 'it/(declining the hat)', 'okay', 's01_e03_c07_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u016",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u016_e1",
+          "tuples": [
+            "('let', 'you/Phoebe Buffay', 'me do something', 's01_e03_c07_u016')",
+            "('do', 'me/Lizzy', 'something', 's01_e03_c07_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c07_u017",
+      "events": [
+        {
+          "event_id": "s01_e03_c07_u017_e1",
+          "tuples": [
+            "('buy', 'you/Lizzy', 'a soda', 's01_e03_c07_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c07_u017_e2",
+          "tuples": [
+            "('be', 'we/(Phoebe Buffay and Lizzy)', 'even', 's01_e03_c07_u017')"
+          ]
+        }
+      ]
+    }
+  ]
+}

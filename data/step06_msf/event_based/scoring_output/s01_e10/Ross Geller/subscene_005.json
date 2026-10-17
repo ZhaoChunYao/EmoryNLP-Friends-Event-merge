@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly shares personal issues with the group about a morning fight and work schedule (u027), and is described as always bringing Speaker_04 along (u026), indicating sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Asks Speaker_02 to make the visit seem like it’s to see Speaker_04 and not as a favor to him (u029), suggesting a willingness to misrepresent motives rather than be straightforward."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Works late (u027) and accepts/arranges for someone to check in on Speaker_04 while he’s busy (u029), showing responsibility and planning."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admits to an emotional fight and saying things he didn’t mean, and didn’t want to leave Speaker_04 alone (u027), indicating stress and worry."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity/creativity or of dogmatism; the dialogue centers on relationship logistics and stress."
+  }
+}

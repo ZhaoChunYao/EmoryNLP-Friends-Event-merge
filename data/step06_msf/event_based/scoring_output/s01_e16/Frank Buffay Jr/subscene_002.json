@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, task-focused remarks (states they know what to order; adds cookies) without overtly outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The speaker simply participates in ordering; there is no clear evidence of generosity, trustworthiness, or conflict to indicate either side."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They state they already know what they want to order and efficiently add \"And some biscottie cookies,\" showing decisiveness and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Orders calmly and decisively with no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Requests common items (lattes and cookies); no concrete behavior indicating curiosity or novelty-seeking versus caution."
+  }
+}

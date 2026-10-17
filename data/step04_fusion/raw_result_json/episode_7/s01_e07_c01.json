@@ -1,0 +1,52 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c01_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('present', 'Central Perk', 'the music of Miss Phoebe Buffay', 's01_e07_c01_u001')",
+            "('be', 'Central Perk', 'proud', 's01_e07_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c01_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('start', 'I/Phoebe Buffay', 'with a song', 's01_e07_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'that/a song', 'about that moment', 's01_e07_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('realize', 'you/(audience)', 'what life is all about', 's01_e07_c01_u003')",
+            "('be', 'life', 'all about what', 's01_e07_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('go', 'we/(Phoebe Buffay & audience)', None, 's01_e07_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('thank', 'I/Phoebe Buffay', 'you', 's01_e07_c01_u003')"
+          ]
+        }
+      ]
+    }
+  ]
+}

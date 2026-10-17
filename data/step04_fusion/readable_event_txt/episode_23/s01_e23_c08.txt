@@ -1,0 +1,95 @@
+event_id: s01_e23_c08_u001_e1
+utterance_id: s01_e23_c08_u001
+  tuple: ('be', 'This', 'your fault', 's01_e23_c08_u001')
+
+event_id: s01_e23_c08_u002_e1
+utterance_id: s01_e23_c08_u002
+  tuple: ('be', 'this', 'my fault', 's01_e23_c08_u002')
+
+event_id: s01_e23_c08_u003_e1
+utterance_id: s01_e23_c08_u003
+  tuple: ('look', 'you/(Susan Bunch)', None, 's01_e23_c08_u003')
+
+event_id: s01_e23_c08_u003_e2
+utterance_id: s01_e23_c08_u003
+  tuple: ('throw', 'Carol', 'me', 's01_e23_c08_u003')
+  tuple: ('throw', 'Carol', 'out of a room', 's01_e23_c08_u003')
+  tuple: ('throw', 'Carol', 'before you came along', 's01_e23_c08_u003')
+
+event_id: s01_e23_c08_u003_e3
+utterance_id: s01_e23_c08_u003
+  tuple: ('come', 'you/(Susan Bunch)', 'along', 's01_e23_c08_u003')
+
+event_id: s01_e23_c08_u004_e1
+utterance_id: s01_e23_c08_u004
+  tuple: ('be', 'there', 'a lot of things Carol never did before I came along', 's01_e23_c08_u004')
+  tuple: ('do', 'Carol', 'a lot of things', 's01_e23_c08_u004')
+  tuple: ('do', 'Carol', 'before I came along', 's01_e23_c08_u004')
+
+event_id: s01_e23_c08_u004_e2
+utterance_id: s01_e23_c08_u004
+  tuple: ('come', 'I/(Susan Bunch)', 'along', 's01_e23_c08_u004')
+
+event_id: s01_e23_c08_u005_e1
+utterance_id: s01_e23_c08_u005
+  tuple: ('try', 'you/(Susan Bunch)', 'be clever', 's01_e23_c08_u005')
+  tuple: ('be', 'you/(Susan Bunch)', 'clever', 's01_e23_c08_u005')
+
+event_id: s01_e23_c08_u006_e1
+utterance_id: s01_e23_c08_u006
+  tuple: ('know', 'you/(Ross Geller)', 'what your problem is', 's01_e23_c08_u006')
+  tuple: ('be', 'your problem', 'what', 's01_e23_c08_u006')
+
+event_id: s01_e23_c08_u006_e2
+utterance_id: s01_e23_c08_u006
+  tuple: ('threaten', 'you/(Ross Geller)', 'by me', 's01_e23_c08_u006')
+
+event_id: s01_e23_c08_u007_e1
+utterance_id: s01_e23_c08_u007
+  tuple: ('threaten', 'I/(Ross Geller)', 'by you', 's01_e23_c08_u007')
+
+event_id: s01_e23_c08_u010_e1
+utterance_id: s01_e23_c08_u010
+  tuple: ('be', 'that', 'it', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e2
+utterance_id: s01_e23_c08_u010
+  tuple: ('get', 'you/(Ross Geller and Susan Bunch)', 'in here', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e3
+utterance_id: s01_e23_c08_u010
+  tuple: ('come', 'you/(Ross Geller and Susan Bunch)', 'on', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e4
+utterance_id: s01_e23_c08_u010
+  tuple: ('believe', 'I/(Phoebe Buffay)', 'you', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e5
+utterance_id: s01_e23_c08_u010
+  tuple: ('be', 'there', 'children coming into the world in this very building', 's01_e23_c08_u010')
+  tuple: ('come', 'children', 'into the world', 's01_e23_c08_u010')
+  tuple: ('come', 'children', 'in this very building', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e6
+utterance_id: s01_e23_c08_u010
+  tuple: ('be', 'your negative fighting noises', 'the first thing they should be hearing', 's01_e23_c08_u010')
+  tuple: ('hear', 'they/(children)', None, 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u010_e7
+utterance_id: s01_e23_c08_u010
+  tuple: ('stop', 'you/(Ross Geller and Susan Bunch)', 'all the yelling', 's01_e23_c08_u010')
+
+event_id: s01_e23_c08_u012_e1
+utterance_id: s01_e23_c08_u012
+  tuple: ('make', 'you/(Ross Geller and Susan Bunch)', 'me do this again', 's01_e23_c08_u012')
+  tuple: ('do', 'me/(Phoebe Buffay)', 'this', 's01_e23_c08_u012')
+
+event_id: s01_e23_c08_u012_e2
+utterance_id: s01_e23_c08_u012
+  tuple: ('like', 'I/(Phoebe Buffay)', 'my voice', 's01_e23_c08_u012')
+
+event_id: s01_e23_c08_u014_e1
+utterance_id: s01_e23_c08_u014
+  tuple: ('want', 'who', 'hear something ironic', 's01_e23_c08_u014')
+  tuple: ('hear', 'who', 'something ironic', 's01_e23_c08_u014')
+

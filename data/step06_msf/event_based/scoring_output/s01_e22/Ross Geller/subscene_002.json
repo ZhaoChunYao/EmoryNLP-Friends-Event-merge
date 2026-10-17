@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly explains the beeper and its purpose without notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker set up a beeper so Speaker_05 can reach him when she goes into labor, showing consideration and willingness to help."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively obtained a beeper for the labor situation and provided a specific number (55-JIMBO), indicating planning and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks matter-of-factly about being reachable for labor and appears calm and prepared rather than anxious."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of creativity or curiosity; statements are practical and straightforward."
+  }
+}

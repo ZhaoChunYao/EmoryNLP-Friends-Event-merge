@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks calmly in a group about the breakup but shows neither energetic, sociable behavior nor clear withdrawal; statements are measured and concise."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and empathy: refuses to keep “pretending” because it wouldn’t be fair to anyone (u035), apologizes (u037), checks if others will be okay (u042), and responds “I understand” (u044)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Chooses honesty and responsibility over convenience: acknowledges could keep pretending (u033) but decides not to because it wouldn’t be fair to anyone (u035), indicating principled, deliberate action."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed and optimistic about the future: “I will meet someone else. There will be other [Speaker_07]s” (u040), without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or imaginative thinking; willingness to move on (u040) isn’t sufficient to infer high openness."
+  }
+}

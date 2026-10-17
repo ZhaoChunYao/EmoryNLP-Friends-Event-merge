@@ -1,0 +1,97 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c15_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u001_e1",
+          "tuples": [
+            "('know', 'you/(Guy)', 'I was even here', 's01_e23_c15_u001')",
+            "('be', 'I/(Lydia)', 'even here', 's01_e23_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u002_e1",
+          "tuples": [
+            "('call', 'Your mom', 'me', 's01_e23_c15_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c15_u002_e2",
+          "tuples": [
+            "('be', 'this/(car)', 'her', 's01_e23_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u003_e1",
+          "tuples": [
+            "('be', 'this/(car)', 'a loaner', 's01_e23_c15_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u004_e1",
+          "tuples": [
+            "('be', 'I/(Guy)', 'sorry you had to do this by yourself', 's01_e23_c15_u004')",
+            "('do', 'you/(Lydia)', 'this by yourself', 's01_e23_c15_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u005_e1",
+          "tuples": [
+            "('be', 'I/(Lydia)', 'by myself', 's01_e23_c15_u005')",
+            "('have', 'I/(Lydia)', 'a doctor, a nurse, and a helper guy', 's01_e23_c15_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c15_u005_e2",
+          "tuples": [
+            "('see', 'you/(Guy)', 'who won the game', 's01_e23_c15_u005')",
+            "('win', 'who/(the Knicks)', 'the game', 's01_e23_c15_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u006_e1",
+          "tuples": [
+            "('suck', 'they/(the Knicks)', None, 's01_e23_c15_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c15_u007",
+      "events": [
+        {
+          "event_id": "s01_e23_c15_u007_e1",
+          "tuples": [
+            "('be', 'they/(the Knicks)', 'not so bad', 's01_e23_c15_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

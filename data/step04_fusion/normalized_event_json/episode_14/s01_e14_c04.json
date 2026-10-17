@@ -1,0 +1,111 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c04_u001_e1",
+          "tuples": [
+            "('make', 'I/Chandler Bing', 'a break', 's01_e14_c04_u001')",
+            "('make', 'I/Chandler Bing', 'for it', 's01_e14_c04_u001')",
+            "('go', 'I/Chandler Bing', 'out the window', 's01_e14_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c04_u002_e1",
+          "tuples": [
+            "('wait', 'I/Joey Tribbiani', 'to go out with Lorraine', 's01_e14_c04_u002')",
+            "('wait', 'I/Joey Tribbiani', 'for like, forever', 's01_e14_c04_u002')",
+            "('go', 'I/Joey Tribbiani', 'out with Lorraine', 's01_e14_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u002_e2",
+          "tuples": [
+            "('calm', 'you/Chandler Bing', 'down', 's01_e14_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c04_u003_e1",
+          "tuples": [
+            "('calm', 'you/Joey Tribbiani', 'down', 's01_e14_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u003_e2",
+          "tuples": [
+            "('set', 'you/Joey Tribbiani', 'me', 's01_e14_c04_u003')",
+            "('set', 'you/Joey Tribbiani', 'up with the woman', 's01_e14_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u003_e3",
+          "tuples": [
+            "('dump', 'I/Chandler Bing', 'the woman', 's01_e14_c04_u003')",
+            "('dump', 'I/Chandler Bing', 'in the last five months', 's01_e14_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e14_c04_u004_e1",
+          "tuples": [
+            "('stop', 'you/Chandler Bing', \"yellin'\", 's01_e14_c04_u004')",
+            "('yell', 'you/Chandler Bing', None, 's01_e14_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u004_e2",
+          "tuples": [
+            "('make', 'you/Chandler Bing', 'me nervous', 's01_e14_c04_u004')",
+            "('be', 'I/Joey Tribbiani', 'nervous', 's01_e14_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u004_e3",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani', None, 's01_e14_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c04_u005_e1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'sorry', 's01_e14_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u005_e2",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'right', 's01_e14_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c04_u005_e3",
+          "tuples": [
+            "('come', 'you/Joey Tribbiani', 'on', 's01_e14_c04_u005')",
+            "('do', 'you/Joey Tribbiani', 'it', 's01_e14_c04_u005')",
+            "('go', 'you/Joey Tribbiani', None, 's01_e14_c04_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

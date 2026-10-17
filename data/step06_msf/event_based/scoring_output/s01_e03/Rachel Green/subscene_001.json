@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief inquiries in a group (“Is that good?” and “Since when?”) without showing notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Their contributions are neutral questions; there is no clear display of warmth, supportiveness, or uncooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or diligence is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or insecurity; the questions are matter-of-fact."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker seeks clarification about the meaning of dating phrases (“Is that good?” and “Since when?”), indicating curiosity and willingness to update understanding."
+  }
+}

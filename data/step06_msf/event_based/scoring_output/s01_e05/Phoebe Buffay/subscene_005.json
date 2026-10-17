@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief factual statements about the breakup; no clear signs of outgoing energy or reserved avoidance in this snippet."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker corrects Speaker_01 by noting he wasn’t present, but there’s no clear display of warmth/generosity or of hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says the breakup attempt was really hard for them, showing emotional sensitivity and distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/inventiveness or of dogmatic/cautious thinking are present."
+  }
+}

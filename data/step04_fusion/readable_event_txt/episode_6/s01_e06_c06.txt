@@ -1,0 +1,99 @@
+event_id: s01_e06_c06_u001_e1
+utterance_id: s01_e06_c06_u001
+  tuple: ('hire', 'you/(crew)', 'the girl', 's01_e06_c06_u001')
+
+event_id: s01_e06_c06_u001_e2
+utterance_id: s01_e06_c06_u001
+  tuple: ('be', 'everybody', 'ready', 's01_e06_c06_u001')
+
+event_id: s01_e06_c06_u002_e1
+utterance_id: s01_e06_c06_u002
+  tuple: ('listen', 'you/(Director)', None, 's01_e06_c06_u002')
+
+event_id: s01_e06_c06_u002_e2
+utterance_id: s01_e06_c06_u002
+  tuple: ('thank', 'I/(Joey Tribbiani)', 'you for this great opportunity', 's01_e06_c06_u002')
+
+event_id: s01_e06_c06_u003_e1
+utterance_id: s01_e06_c06_u003
+  tuple: ('lose', 'you/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u003')
+
+event_id: s01_e06_c06_u005_e1
+utterance_id: s01_e06_c06_u005
+  tuple: ('work', 'that', None, 's01_e06_c06_u005')
+
+event_id: s01_e06_c06_u006_e1
+utterance_id: s01_e06_c06_u006
+  tuple: ('lose', 'I/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u006')
+  tuple: ('be', 'the robe', 'lost', 's01_e06_c06_u006')
+
+event_id: s01_e06_c06_u007_e1
+utterance_id: s01_e06_c06_u007
+  tuple: ('like', 'we/(Director and crew)', 'get this in one take', 's01_e06_c06_u007')
+  tuple: ('get', 'we/(Director and crew)', 'in one take', 's01_e06_c06_u007')
+
+event_id: s01_e06_c06_u007_e2
+utterance_id: s01_e06_c06_u007
+  tuple: ('roll', 'we/(Director and crew)', 'it', 's01_e06_c06_u007')
+
+event_id: s01_e06_c06_u007_e3
+utterance_id: s01_e06_c06_u007
+  tuple: ('work', 'water', None, 's01_e06_c06_u007')
+
+event_id: s01_e06_c06_u009_e1
+utterance_id: s01_e06_c06_u009
+  tuple: ('cut', 'you/(crew)', None, 's01_e06_c06_u009')
+
+event_id: s01_e06_c06_u009_e2
+utterance_id: s01_e06_c06_u009
+  tuple: ('do', 'you/(Joey Tribbiani)', 'what', 's01_e06_c06_u009')
+
+event_id: s01_e06_c06_u010_e1
+utterance_id: s01_e06_c06_u010
+  tuple: ('shower', 'I/(Joey Tribbiani)', None, 's01_e06_c06_u010')
+
+event_id: s01_e06_c06_u011_e1
+utterance_id: s01_e06_c06_u011
+  tuple: ('clench', 'that', None, 's01_e06_c06_u011')
+
+event_id: s01_e06_c06_u012_e1
+utterance_id: s01_e06_c06_u012
+  tuple: ('see', 'I/(Joey Tribbiani)', 'it', 's01_e06_c06_u012')
+  tuple: ('be', 'the guy', 'upset here', 's01_e06_c06_u012')
+
+event_id: s01_e06_c06_u012_e2
+utterance_id: s01_e06_c06_u012
+  tuple: ('know', 'you/(Director)', None, 's01_e06_c06_u012')
+
+event_id: s01_e06_c06_u012_e3
+utterance_id: s01_e06_c06_u012
+  tuple: ('be', 'his wife', 'dead', 's01_e06_c06_u012')
+
+event_id: s01_e06_c06_u012_e4
+utterance_id: s01_e06_c06_u012
+  tuple: ('be', 'his brother', 'missing', 's01_e06_c06_u012')
+
+event_id: s01_e06_c06_u012_e5
+utterance_id: s01_e06_c06_u012
+  tuple: ('think', 'I/(Joey Tribbiani)', 'his butt would be angry here', 's01_e06_c06_u012')
+  tuple: ('be', 'his butt', 'angry here', 's01_e06_c06_u012')
+
+event_id: s01_e06_c06_u013_e1
+utterance_id: s01_e06_c06_u013
+  tuple: ('think', 'I/(Director)', 'his butt would like to get this shot before lunch', 's01_e06_c06_u013')
+  tuple: ('like', 'his butt', 'get this shot before lunch', 's01_e06_c06_u013')
+  tuple: ('get', 'his butt', 'this shot', 's01_e06_c06_u013')
+  tuple: ('get', 'his butt', 'before lunch', 's01_e06_c06_u013')
+
+event_id: s01_e06_c06_u013_e2
+utterance_id: s01_e06_c06_u013
+  tuple: ('be', 'that', 'what', 's01_e06_c06_u013')
+
+event_id: s01_e06_c06_u014_e1
+utterance_id: s01_e06_c06_u014
+  tuple: ('go', 'I/(Joey Tribbiani)', 'for quiet desperation', 's01_e06_c06_u014')
+
+event_id: s01_e06_c06_u014_e2
+utterance_id: s01_e06_c06_u014
+  tuple: ('ask', 'you/(Director)', None, 's01_e06_c06_u014')
+

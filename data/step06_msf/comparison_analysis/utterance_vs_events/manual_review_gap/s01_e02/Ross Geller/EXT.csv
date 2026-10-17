@@ -1,0 +1,189 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e02,Ross Geller,subscene_001.json,EXT,1,-1,2,"Episode: s01_e02
+Scene: s01_e02_c02
+Subscene index for speaker: 001
+Main speaker: Ross Geller
+UID span: s01_e02_c02_u001 → s01_e02_c02_u022
+Peak window: 0 → 15
+
+Dialogue:
+  [s01_e02_c02_u001]
+  1. Ross Geller says the cave-people video on the screen is good right now.
+  2. Ross Geller says the only issue is that Woman 1 seems a little angry right now.
+  3. Ross Geller says Woman 1 seems a little angry right now.
+  [s01_e02_c02_u002]
+  1. Marsha says Woman 1 has issues.
+  [s01_e02_c02_u003] Ross Geller: Does she.
+  [s01_e02_c02_u004]
+  1. Marsha says Man 1 is out hitting other women over the head with a club right now.
+  2. Marsha says Woman 1 is sitting at home trying to get the mastodon smell out of the carpet right now.
+  [s01_e02_c02_u005]
+  1. Ross Geller says the people on the screen are cave people.
+  2. Ross Geller says the cave people have issues.
+  3. Ross Geller says the glacier is getting kind of close to the cave people.
+  4. Ross Geller says Marsha sees his point.
+  [s01_e02_c02_u006]
+  1. Marsha says Carol Willick is Ross Geller's ex-wife.
+  [s01_e02_c02_u007] Unknown Speaker: 
+  [s01_e02_c02_u008] Ross Geller: No. No.
+  [s01_e02_c02_u009]
+  1. Marsha says the woman they are looking at is Carol Willick.
+  [s01_e02_c02_u010]
+  1. Ross Geller says Ross Geller will catch up with Marsha in the Ice Age later.
+  [s01_e02_c02_u011] Unknown Speaker: 
+  [s01_e02_c02_u012] Ross Geller: Hi.
+  [s01_e02_c02_u013] Carol Willick: So.
+  [s01_e02_c02_u014]
+  1. Ross Geller says Carol Willick looks great right now.
+  2. Ross Geller says Ross Geller hates that Carol Willick looks great.
+  [s01_e02_c02_u015]
+  1. Carol Willick says Ross Geller looks good right now.
+  [s01_e02_c02_u016]
+  1. Ross Geller says that in here anyone who stands erect looks good.
+  2. Ross Geller says he is asking what is new with Carol Willick.
+  [s01_e02_c02_u017] Carol Willick: A lesbian?
+  [s01_e02_c02_u018]
+  1. Ross Geller says Carol Willick never knows what might happen.
+  2. Ross Geller says he is asking how Carol Willick's family is doing.
+  [s01_e02_c02_u019]
+  1. Carol Willick says Marty is still totally paranoid.
+  [s01_e02_c02_u020]
+  1. Ross Geller says Carol Willick is here right now.
+  [s01_e02_c02_u021]
+  1. Carol Willick says Carol Willick is pregnant.
+  [s01_e02_c02_u022] Ross Geller: Pregnant?!
+","Episode: s01_e02
+Scene: s01_e02_c02
+Subscene index for speaker: 001
+Main speaker: Ross Geller
+UID span: s01_e02_c02_u001 → s01_e02_c02_u022
+Peak window: 0 → 15
+
+Dialogue:
+  [s01_e02_c02_u001] Ross Geller: No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?
+  [s01_e02_c02_u002] Marsha: Well, she has issues.
+  [s01_e02_c02_u003] Ross Geller: Does she.
+  [s01_e02_c02_u004] Marsha: He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!
+  [s01_e02_c02_u005] Ross Geller: Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?
+  [s01_e02_c02_u006] Marsha: Speaking of issues, isn't that your ex-wife?
+  [s01_e02_c02_u007] Unknown Speaker: 
+  [s01_e02_c02_u008] Ross Geller: No. No.
+  [s01_e02_c02_u009] Marsha: Yes, it is. Carol! Hi!
+  [s01_e02_c02_u010] Ross Geller: Okay, okay, yes, it is. How about I'll, uh, catch up with you in the Ice Age.
+  [s01_e02_c02_u011] Unknown Speaker: 
+  [s01_e02_c02_u012] Ross Geller: Hi.
+  [s01_e02_c02_u013] Carol Willick: So.
+  [s01_e02_c02_u014] Ross Geller: You look great. I, uh... I hate that.
+  [s01_e02_c02_u015] Carol Willick: Sorry. You look good too.
+  [s01_e02_c02_u016] Ross Geller: Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...
+  [s01_e02_c02_u017] Carol Willick: A lesbian?
+  [s01_e02_c02_u018] Ross Geller: Well... you never know. How's, um.. how's the family?
+  [s01_e02_c02_u019] Carol Willick: Marty's still totally paranoid. Oh, and, uh-
+  [s01_e02_c02_u020] Ross Geller: Why- why are you here, Carol?
+  [s01_e02_c02_u021] Carol Willick: I'm pregnant.
+  [s01_e02_c02_u022] Ross Geller: Pregnant?!
+","He greets and engages others (“Hi”), keeps the conversation going with jokes and comments about the video, compliments Speaker_04, and asks follow‑up questions (“what is new,” “how is your family”).","Reserved and hesitant: stammers and hedges (“mm,” “uh,” “Well...”); gives only a brief “Hi.” and initially tries to avoid his ex-wife (“No. No.”) before reluctantly engaging.",,,
+s01_e02,Ross Geller,subscene_013.json,EXT,-1,1,2,"Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 013
+Main speaker: Ross Geller
+UID span: s01_e02_c10_u001 → s01_e02_c10_u025
+Peak window: 0 → 18
+
+Dialogue:
+  [s01_e02_c10_u001]
+  1. Susan Bunch says Ross Geller is acting like there is something wrong with naming the baby Helen.
+  [s01_e02_c10_u002]
+  1. Ross Geller says Ross Geller does not think the baby should be named Helen Geller.
+  [s01_e02_c10_u003]
+  1. Carol Willick says the baby is not going to be named Helen Geller.
+  [s01_e02_c10_u004]
+  1. Ross Geller says Ross Geller is thanking Carol Willick for saying the baby is not going to be named Helen Geller.
+  [s01_e02_c10_u005]
+  1. Carol Willick says Carol Willick means the baby's last name is not going to be Geller.
+  2. Carol Willick says the baby's last name is not Geller.
+  [s01_e02_c10_u006]
+  1. Ross Geller says Carol Willick is planning to name the baby Helen Willick.
+  [s01_e02_c10_u007]
+  1. Carol Willick says Ross Geller, Susan Bunch, and Carol Willick have talked about naming the baby Helen Willick-Bunch.
+  [s01_e02_c10_u008]
+  1. Ross Geller says Carol Willick and Susan Bunch should wait a minute.
+  2. Ross Geller says Susan Bunch is included in the baby's hyphenated name.
+  [s01_e02_c10_u009]
+  1. Susan Bunch says Ben Geller is also Susan Bunch's baby.
+  [s01_e02_c10_u010]
+  1. Ross Geller says the situation about naming the baby is funny.
+  2. Ross Geller says Susan Bunch did not make any sperm, which Ross Geller does not remember happening.
+  [s01_e02_c10_u011]
+  1. Susan Bunch says Ross Geller, Susan Bunch, and Carol Willick all know that making sperm is a challenge.
+  [s01_e02_c10_u012]
+  1. Carol Willick says Ross Geller and Susan Bunch should stop arguing.
+  [s01_e02_c10_u013]
+  1. Ross Geller says Susan Bunch gets a credit in the baby's name.
+  2. Ross Geller says Ross Geller is included in the baby's name too.
+  [s01_e02_c10_u014]
+  1. Carol Willick says Ross Geller is suggesting naming the baby Helen Willick-Bunch-Geller.
+  2. Carol Willick says naming the baby Helen Willick-Bunch-Geller would border on child abuse.
+  [s01_e02_c10_u015]
+  1. Ross Geller says Ross Geller is suggesting the baby's name should be Geller-Willick-Bunch.
+  [s01_e02_c10_u016]
+  1. Susan Bunch says Ross Geller is trying to manipulate the naming by proposing an overly long name.
+  2. Susan Bunch says Ross Geller knows people are not going to say all those names.
+  3. Susan Bunch says people will end up calling the baby Geller.
+  4. Susan Bunch says Ross Geller will get his way if people call the baby Geller.
+  [s01_e02_c10_u017]
+  1. Ross Geller says Susan Bunch thinks the current naming situation is Ross Geller's preferred way.
+  2. Ross Geller says Carol Willick and Susan Bunch should believe Ross Geller.
+  3. Ross Geller says Ross Geller had imagined this moment in Ross Geller's life differently.
+  4. Ross Geller says Carol Willick and Susan Bunch know what Ross Geller means.
+  5. Ross Geller says the situation is too hard for Ross Geller and says Ross Geller cannot continue with this conversation.
+  [s01_e02_c10_u018]
+  1. Dr. Oberman says Dr. Oberman is asking how Carol Willick is feeling today and whether Carol Willick has any nausea.
+  [s01_e02_c10_u019] #ALL#: Yeah. Yeah. A little.
+  [s01_e02_c10_u020]
+  1. Dr. Oberman says Dr. Oberman was wondering about Carol Willick, the mother-to-be.
+  2. Dr. Oberman says Dr. Oberman thanks Ross Geller, Susan Bunch, and Rachel Green for sharing about nausea.
+  3. Dr. Oberman says Carol Willick should lie back for the examination.
+  [s01_e02_c10_u021]
+  1. Ross Geller says Ross Geller is going to leave now.
+  2. Ross Geller says Ross Geller does not think Ross Geller can be involved in this medical examination right now.
+  [s01_e02_c10_u022] Unknown Speaker: 
+  [s01_e02_c10_u023] Ross Geller: Oh my God.
+  [s01_e02_c10_u024]
+  1. Susan Bunch says Ross Geller, Carol Willick, and Dr. Oberman should look at the ultrasound image on the monitor.
+  [s01_e02_c10_u025]
+  1. Carol Willick says Carol Willick knows what Susan Bunch is pointing out on the ultrasound.
+","Episode: s01_e02
+Scene: s01_e02_c10
+Subscene index for speaker: 013
+Main speaker: Ross Geller
+UID span: s01_e02_c10_u001 → s01_e02_c10_u025
+Peak window: 0 → 18
+
+Dialogue:
+  [s01_e02_c10_u001] Susan Bunch: Oh, please! What's wrong with Helen?
+  [s01_e02_c10_u002] Ross Geller: Helen Geller? I don't think so.
+  [s01_e02_c10_u003] Carol Willick: Hello? It's not gonna be Helen Geller.
+  [s01_e02_c10_u004] Ross Geller: Thank you!
+  [s01_e02_c10_u005] Carol Willick: No, I mean it's not Geller.
+  [s01_e02_c10_u006] Ross Geller: What, it's gonna be Helen Willick?
+  [s01_e02_c10_u007] Carol Willick: No, actually, um, we talked about Helen Willick-Bunch.
+  [s01_e02_c10_u008] Ross Geller: Well, wait a minute, wha- why is she in the title?
+  [s01_e02_c10_u009] Susan Bunch: It's my baby too.
+  [s01_e02_c10_u010] Ross Geller: Oh, 's'funny, really? Um, I don't remember you making any sperm.
+  [s01_e02_c10_u011] Susan Bunch: Yeah, and we all know what a challenge that is!
+  [s01_e02_c10_u012] Carol Willick: All right, you two, stop it!
+  [s01_e02_c10_u013] Ross Geller: No no no, she gets a credit, hey, I'm in there too.
+  [s01_e02_c10_u014] Carol Willick: Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.
+  [s01_e02_c10_u015] Ross Geller: Of course not, I'm... suggesting Geller-Willick-Bunch.
+  [s01_e02_c10_u016] Susan Bunch: Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!
+  [s01_e02_c10_u017] Ross Geller: My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-
+  [s01_e02_c10_u018] Dr. Oberman: Knock knock!How are we today? Any nausea?
+  [s01_e02_c10_u019] #ALL#: Yeah. Yeah. A little.
+  [s01_e02_c10_u020] Dr. Oberman: Well, I was just wondering about the mother-to-be, but.. thanks for sharing. Uh, lie back..
+  [s01_e02_c10_u021] Ross Geller: You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.
+  [s01_e02_c10_u022] Unknown Speaker: 
+  [s01_e02_c10_u023] Ross Geller: Oh my God.
+  [s01_e02_c10_u024] Susan Bunch: Look at that.
+  [s01_e02_c10_u025] Carol Willick: I know.
+","He withdraws from the conflict and the exam: says the situation is too hard and he cannot continue (u017), then says he is going to leave now and can’t be involved in the medical examination (u021).","He is outspoken and assertive in the group debate, pushing back on suggestions ('What, it's gon na be Speaker_02?') and insisting on his inclusion ('No no no, Speaker_01 gets a credit, hey, TargetSpeaker'm in there too.').",,,

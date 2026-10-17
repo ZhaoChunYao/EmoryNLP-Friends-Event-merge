@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives only brief one- or two-word responses (“Speaker_03.”, “Hard quality.”) and does not engage in extended conversation."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating cooperativeness, kindness, or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, reliability, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A terse aesthetic remark (“Hard quality.”) is insufficient to indicate curiosity or openness versus dogmatism."
+  }
+}

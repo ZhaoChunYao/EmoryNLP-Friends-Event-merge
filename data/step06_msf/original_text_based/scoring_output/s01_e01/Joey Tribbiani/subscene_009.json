@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes one light request (u006) and gives a simple greeting (u010), showing normal social interaction but not especially outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They ask for an omelet lightly and then back off so as not to impose (“Although actually I’m really not that hungry,” u006) and greet others politely (u010), indicating consideration and friendliness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness appears in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Tone is casual; no signs of anxiety, irritability, or insecurity in u006 or u010."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imaginative ideas, or rigid dogmatism; conversation centers on a simple food request and greetings."
+  }
+}

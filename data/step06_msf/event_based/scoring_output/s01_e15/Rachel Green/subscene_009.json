@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, curt replies (e.g., “No.”, “Done.”) and only asks who Speaker_02 is; not chatty or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses mild sympathy (“too bad”) and ultimately agrees to help (“Done”) after being reminded of the friend’s past support—cooperative/reciprocal behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Refuses the job twice and says she has plans “to walk around,” prioritizing leisure over responsibility until pressured."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no signs of anxiety, irritability, or emotional volatility in the exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or openness to new ideas; mentions only a simple plan to walk around."
+  }
+}

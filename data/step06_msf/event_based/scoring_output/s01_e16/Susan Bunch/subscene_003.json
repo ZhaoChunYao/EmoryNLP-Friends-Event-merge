@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up frequently, challenges the assigned role, proposes a coin flip, and confidently directs Speaker_01 with “On your back... Mom.”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to get the information so Speaker_01 can go, and suggests a fair coin flip instead of arguing, showing cooperation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Takes initiative to handle the class information, stays engaged in the training, and proposes a clear method (coin flip) to resolve the role conflict."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure—asserts fairness and proposes a solution without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Questions gender-based role limits and is flexible about roles by suggesting a coin flip, indicating openness to new arrangements."
+  }
+}

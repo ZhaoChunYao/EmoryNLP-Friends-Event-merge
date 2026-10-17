@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only provides brief identity/context information; no clear sign of being notably outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker communicates directly and matter‑of‑factly about having sat behind them in homeroom and that they might not recognize her, showing straightforward, non-hostile interaction."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety, sensitivity, or overconfidence in the brief exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/inventiveness or dogmatism/caution in the dialogue."
+  }
+}

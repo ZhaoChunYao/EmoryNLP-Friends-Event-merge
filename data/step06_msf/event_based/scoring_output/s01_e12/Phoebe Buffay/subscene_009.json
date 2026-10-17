@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives brief interjections ('Ooh!' and 'Oh, ok bye-bye.'), which does not clearly show outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When told someone is here to say goodbye, TargetSpeaker responds politely and cooperatively: 'Oh, ok bye-bye.'"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety, stress, or pronounced calm/confidence are evident from the brief responses."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, creativity, or dogmatism/caution are present."
+  }
+}

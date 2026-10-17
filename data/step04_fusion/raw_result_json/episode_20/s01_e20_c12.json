@@ -1,0 +1,261 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u001_e1",
+          "tuples": [
+            "('give', 'I/(Joey Tribbiani)', 'this', 's01_e20_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u001_e2",
+          "tuples": [
+            "('be', 'Mr. Peanut', 'a better dresser', 's01_e20_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u001_e3",
+          "tuples": [
+            "('mean', 'I/(Joey Tribbiani)', None, 's01_e20_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u001_e4",
+          "tuples": [
+            "('get', 'he/(Mr. Peanut)', 'the monocle', 's01_e20_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u001_e5",
+          "tuples": [
+            "('get', 'he/(Mr. Peanut)', 'the top hat', 's01_e20_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u002",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u002_e1",
+          "tuples": [
+            "('know', 'you/(Joey Tribbiani)', \"he's gay\", 's01_e20_c12_u002')",
+            "('be', 'he/(Mr. Peanut)', 'gay', 's01_e20_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u003_e1",
+          "tuples": [
+            "('want to clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')",
+            "('clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u003_e2",
+          "tuples": [
+            "('out', 'you/(Phoebe Buffay)', 'Mr. Peanut', 's01_e20_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u005_e1",
+          "tuples": [
+            "('be', 'this/(Danielle)', 'Danielle', 's01_e20_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u007",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u007_e1",
+          "tuples": [
+            "('do', 'you/(Danielle)', None, 's01_e20_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u008",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u008_e1",
+          "tuples": [
+            "('call', 'I/(Danielle)', 'you', 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e2",
+          "tuples": [
+            "('turn out', 'it/(situation)', 'I had your number wrong', 's01_e20_c12_u008')",
+            "('have', 'I/(Danielle)', 'your number wrong', 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e3",
+          "tuples": [
+            "('get', 'I/(Danielle)', 'the right one', 's01_e20_c12_u008')",
+            "('get', 'I/(Danielle)', 'from Information', 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e4",
+          "tuples": [
+            "('be', 'there', 'no answer', 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e5",
+          "tuples": [
+            "('think', 'I/(Danielle)', \"I'd just come down here\", 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e6",
+          "tuples": [
+            "('come down', 'I/(Danielle)', None, 's01_e20_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u008_e7",
+          "tuples": [
+            "('make sure', 'I/(Danielle)', 'you were okay', 's01_e20_c12_u008')",
+            "('be', 'you/(Chandler Bing)', 'okay', 's01_e20_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u009",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u009_e1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'okay', 's01_e20_c12_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u010",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u010_e1",
+          "tuples": [
+            "('listen', 'you/(Chandler Bing)', None, 's01_e20_c12_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u010_e2",
+          "tuples": [
+            "('get together', 'we/(Danielle+Chandler Bing)', None, 's01_e20_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u011",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u011_e1",
+          "tuples": [
+            "('sound', 'that/(plan)', 'good', 's01_e20_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u011_e2",
+          "tuples": [
+            "('call', 'I/(Chandler Bing)', 'you', 's01_e20_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u011_e3",
+          "tuples": [
+            "('call', 'you/(Danielle)', 'me', 's01_e20_c12_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u012",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u012_e1",
+          "tuples": [
+            "('get', 'you/(Danielle)', 'it', 's01_e20_c12_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u017",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u017_e1",
+          "tuples": [
+            "('go', 'you/(Chandler Bing)', None, 's01_e20_c12_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u019",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u019_e1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', None, 's01_e20_c12_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u020",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u020_e1",
+          "tuples": [
+            "('know', 'you/(Chandler Bing)', None, 's01_e20_c12_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c12_u021",
+      "events": [
+        {
+          "event_id": "s01_e20_c12_u021_e1",
+          "tuples": [
+            "('seem', 'she/(Danielle)', 'very nice', 's01_e20_c12_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u021_e2",
+          "tuples": [
+            "('come', 'her/(Danielle)', None, 's01_e20_c12_u021')",
+            "('see', 'her/(Danielle)', 'if I was okay', 's01_e20_c12_u021')",
+            "('be', 'that/(her coming to see if I was okay)', 'needy', 's01_e20_c12_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c12_u021_e3",
+          "tuples": [
+            "('mean', 'I/(Chandler Bing)', None, 's01_e20_c12_u021')"
+          ]
+        }
+      ]
+    }
+  ]
+}

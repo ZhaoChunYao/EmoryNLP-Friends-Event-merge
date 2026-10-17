@@ -1,0 +1,170 @@
+event_id: s01_e22_c10_u002_e1
+utterance_id: s01_e22_c10_u002
+  tuple: ('have', 'Carol and I', 'a new system', 's01_e22_c10_u002')
+
+event_id: s01_e22_c10_u002_e2
+utterance_id: s01_e22_c10_u002
+  tuple: ('punch', 'she/(Carol)', 'in 911', 's01_e22_c10_u002')
+
+event_id: s01_e22_c10_u002_e3
+utterance_id: s01_e22_c10_u002
+  tuple: ('mean', 'it/(911)', "she's having a baby", 's01_e22_c10_u002')
+
+event_id: s01_e22_c10_u002_e4
+utterance_id: s01_e22_c10_u002
+  tuple: ('have', 'she/(Carol)', 'a baby', 's01_e22_c10_u002')
+
+event_id: s01_e22_c10_u002_e5
+utterance_id: s01_e22_c10_u002
+  tuple: ('ignore', 'I/(Ross Geller)', 'it', 's01_e22_c10_u002')
+
+event_id: s01_e22_c10_u004_e1
+utterance_id: s01_e22_c10_u004
+  tuple: ('get', 'he/(Andre)', 'a call', 's01_e22_c10_u004')
+  tuple: ('get', 'he/(Andre)', 'from who I think was our cousin Nathan', 's01_e22_c10_u004')
+
+event_id: s01_e22_c10_u004_e2
+utterance_id: s01_e22_c10_u004
+  tuple: ('think', 'I/(Ross Geller)', 'who was our cousin Nathan', 's01_e22_c10_u004')
+  tuple: ('be', 'who', 'our cousin Nathan', 's01_e22_c10_u004')
+
+event_id: s01_e22_c10_u004_e3
+utterance_id: s01_e22_c10_u004
+  tuple: ('be', 'it', 'a little more than I needed to know', 's01_e22_c10_u004')
+  tuple: ('need', 'I/(Ross Geller)', 'to know', 's01_e22_c10_u004')
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e22_c10_u004')
+
+event_id: s01_e22_c10_u007_e1
+utterance_id: s01_e22_c10_u007
+  tuple: ('be', 'that/(hey)', 'my opener', 's01_e22_c10_u007')
+
+event_id: s01_e22_c10_u008_e1
+utterance_id: s01_e22_c10_u008
+  tuple: ('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'those new hand-dryers', 's01_e22_c10_u008')
+  tuple: ('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'in the bathroom', 's01_e22_c10_u008')
+
+event_id: s01_e22_c10_u009_e1
+utterance_id: s01_e22_c10_u009
+  tuple: ('think', 'I/(Ross Geller)', 'that was just a rumour', 's01_e22_c10_u009')
+  tuple: ('be', 'that', 'just a rumour', 's01_e22_c10_u009')
+
+event_id: s01_e22_c10_u011_e1
+utterance_id: s01_e22_c10_u011
+  tuple: ('be', 'they/(hand-dryers)', 'here already', 's01_e22_c10_u011')
+
+event_id: s01_e22_c10_u013_e1
+utterance_id: s01_e22_c10_u013
+  tuple: ('look', 'you/(Monica Geller)', None, 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e2
+utterance_id: s01_e22_c10_u013
+  tuple: ('tell', 'I/(Ethan)', 'you something', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e3
+utterance_id: s01_e22_c10_u013
+  tuple: ('be', 'I/(Ethan)', 'not 17', 's01_e22_c10_u013')
+  tuple: ('be', 'I/(Ethan)', 'actually 30', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e4
+utterance_id: s01_e22_c10_u013
+  tuple: ('say', 'I/(Ethan)', "so that you'd think I was cute and vunerable", 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e5
+utterance_id: s01_e22_c10_u013
+  tuple: ('think', 'you/(Monica Geller)', 'I was cute and vunerable', 's01_e22_c10_u013')
+  tuple: ('be', 'I/(Ethan)', 'cute and vunerable', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e6
+utterance_id: s01_e22_c10_u013
+  tuple: ('have', 'I/(Ethan)', 'a wife', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e7
+utterance_id: s01_e22_c10_u013
+  tuple: ('have', 'I/(Ethan)', 'a job', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e8
+utterance_id: s01_e22_c10_u013
+  tuple: ('be', 'I/(Ethan)', 'your Congressman', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e9
+utterance_id: s01_e22_c10_u013
+  tuple: ('be', 'this', 'ridiculous', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e10
+utterance_id: s01_e22_c10_u013
+  tuple: ('be', 'we/(Ethan and Monica Geller)', 'great together', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e11
+utterance_id: s01_e22_c10_u013
+  tuple: ('talk', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e12
+utterance_id: s01_e22_c10_u013
+  tuple: ('make', 'we/(Ethan and Monica Geller)', 'each other laugh', 's01_e22_c10_u013')
+  tuple: ('laugh', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e13
+utterance_id: s01_e22_c10_u013
+  tuple: ('have', 'I/(Ethan)', 'no frame of graft', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u013_e14
+utterance_id: s01_e22_c10_u013
+  tuple: ('think', 'I/(Ethan)', 'that was great', 's01_e22_c10_u013')
+  tuple: ('be', 'that/(sex)', 'great', 's01_e22_c10_u013')
+
+event_id: s01_e22_c10_u014_e1
+utterance_id: s01_e22_c10_u014
+  tuple: ('be', 'it/(sex)', None, 's01_e22_c10_u014')
+
+event_id: s01_e22_c10_u015_e1
+utterance_id: s01_e22_c10_u015
+  tuple: ('be', 'what', 'the problem', 's01_e22_c10_u015')
+
+event_id: s01_e22_c10_u016_e1
+utterance_id: s01_e22_c10_u016
+  tuple: ('be', 'it/(relationship with Ethan)', 'icky', 's01_e22_c10_u016')
+
+event_id: s01_e22_c10_u017_e1
+utterance_id: s01_e22_c10_u017
+  tuple: ('throw', 'you/(Monica Geller)', "this away because it's icky", 's01_e22_c10_u017')
+  tuple: ('throw away', 'you/(Monica Geller)', 'this', 's01_e22_c10_u017')
+
+event_id: s01_e22_c10_u018_e1
+utterance_id: s01_e22_c10_u018
+  tuple: ('be', 'this', 'easy for me either', 's01_e22_c10_u018')
+  tuple: ('be', 'this', 'for me', 's01_e22_c10_u018')
+
+event_id: s01_e22_c10_u018_e2
+utterance_id: s01_e22_c10_u018
+  tuple: ('wish', 'I/(Monica Geller)', 'things were different', 's01_e22_c10_u018')
+  tuple: ('be', 'things', 'different', 's01_e22_c10_u018')
+
+event_id: s01_e22_c10_u018_e3
+utterance_id: s01_e22_c10_u018
+  tuple: ('be', 'you/(Ethan)', 'a few years older', 's01_e22_c10_u018')
+
+event_id: s01_e22_c10_u018_e4
+utterance_id: s01_e22_c10_u018
+  tuple: ('be', 'I/(Monica Geller)', 'a few years younger', 's01_e22_c10_u018')
+
+event_id: s01_e22_c10_u018_e5
+utterance_id: s01_e22_c10_u018
+  tuple: ('live', 'we/(Monica Geller and Ethan)', None, 's01_e22_c10_u018')
+  tuple: ('live', 'we/(Monica Geller and Ethan)', 'in biblical times', 's01_e22_c10_u018')
+
+event_id: s01_e22_c10_u019_e1
+utterance_id: s01_e22_c10_u019
+  tuple: ('say', 'you/(Monica Geller)', 'it', 's01_e22_c10_u019')
+
+event_id: s01_e22_c10_u020_e1
+utterance_id: s01_e22_c10_u020
+  tuple: ('love', 'I/(Monica Geller)', 'you', 's01_e22_c10_u020')
+
+event_id: s01_e22_c10_u022_e1
+utterance_id: s01_e22_c10_u022
+  tuple: ('be', 'your hands/(Joey Tribbiani)', 'still wet', 's01_e22_c10_u022')
+
+event_id: s01_e22_c10_u024_e1
+utterance_id: s01_e22_c10_u024
+  tuple: ('dry', 'us/(Rachel Green and Joey Tribbiani)', "'em again", 's01_e22_c10_u024')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly psychoanalyzes someone he just met in a group setting, stating the laughter will stop and that Speaker_01 has intimacy issues, showing assertive, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is blunt and insensitive, telling a near-stranger they have intimacy issues and bringing up their parents’ divorce, which is confrontational rather than gentle or considerate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from saying he means to clarify his comment, there is no clear behavior showing organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks confidently and matter-of-factly about sensitive topics (e.g., \"everyone knows what he means\") with no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He makes analytical, theory-based inferences about intimacy and calls the background \"textbook,\" indicating intellectual curiosity and openness to abstract ideas."
+  }
+}

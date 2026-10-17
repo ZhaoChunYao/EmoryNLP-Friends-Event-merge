@@ -1,0 +1,58 @@
+event_id: s01_e18_c03_u001_e1
+utterance_id: s01_e18_c03_u001
+  tuple: ('eat', 'we/Ross Geller', None, 's01_e18_c03_u001')
+
+event_id: s01_e18_c03_u002_e1
+utterance_id: s01_e18_c03_u002
+  tuple: ('get', 'you/Ross Geller', 'that', 's01_e18_c03_u002')
+  tuple: ('get', 'you/Ross Geller', "from the 'I Love Rachel' pizzeria", 's01_e18_c03_u002')
+
+event_id: s01_e18_c03_u003_e1
+utterance_id: s01_e18_c03_u003
+  tuple: ('be', 'you/Chandler Bing', 'on that', 's01_e18_c03_u003')
+
+event_id: s01_e18_c03_u004_e1
+utterance_id: s01_e18_c03_u004
+  tuple: ('be', 'what', 'with that whole Black Bart speech', 's01_e18_c03_u004')
+
+event_id: s01_e18_c03_u004_e2
+utterance_id: s01_e18_c03_u004
+  tuple: ('play', 'I/Ross Geller', 'poker', 's01_e18_c03_u004')
+  tuple: ('be', 'I/Ross Geller', 'a nice guy', 's01_e18_c03_u004')
+
+event_id: s01_e18_c03_u005_e1
+utterance_id: s01_e18_c03_u005
+  tuple: ('be', 'you/Chandler Bing', 'way off', 's01_e18_c03_u005')
+
+event_id: s01_e18_c03_u006_e1
+utterance_id: s01_e18_c03_u006
+  tuple: ('think', 'I/Joey Tribbiani', 'so', 's01_e18_c03_u006')
+
+event_id: s01_e18_c03_u006_e2
+utterance_id: s01_e18_c03_u006
+  tuple: ('think', 'I/Joey Tribbiani', 'you love her', 's01_e18_c03_u006')
+  tuple: ('love', 'you/Ross Geller', 'her', 's01_e18_c03_u006')
+
+event_id: s01_e18_c03_u007_e1
+utterance_id: s01_e18_c03_u007
+  tuple: ('have', 'I/Ross Geller', 'feelings', 's01_e18_c03_u007')
+  tuple: ('have', 'I/Ross Geller', 'for her', 's01_e18_c03_u007')
+  tuple: ('have', 'I/Ross Geller', 'at one time', 's01_e18_c03_u007')
+
+event_id: s01_e18_c03_u009_e1
+utterance_id: s01_e18_c03_u009
+  tuple: ('go', 'you/Marcel', None, 's01_e18_c03_u009')
+  tuple: ('go', 'you/Marcel', 'with that disc', 's01_e18_c03_u009')
+
+event_id: s01_e18_c03_u011_e1
+utterance_id: s01_e18_c03_u011
+  tuple: ('put', 'you/Marcel', 'that', 's01_e18_c03_u011')
+
+event_id: s01_e18_c03_u011_e2
+utterance_id: s01_e18_c03_u011
+  tuple: ('press', 'you/Marcel', 'that button', 's01_e18_c03_u011')
+
+event_id: s01_e18_c03_u011_e3
+utterance_id: s01_e18_c03_u011
+  tuple: ('be', 'you/Marcel', 'in very, very big trouble', 's01_e18_c03_u011')
+

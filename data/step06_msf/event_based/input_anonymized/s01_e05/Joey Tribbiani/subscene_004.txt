@@ -1,0 +1,24 @@
+Episode: s01_e05
+Scene: s01_e05_c05
+Subscene index for speaker: 004
+Main speaker: TargetSpeaker
+UID span: s01_e05_c05_u001 → s01_e05_c05_u010
+Peak window: 0 → 3
+
+Dialogue:
+  [s01_e05_c05_u001]
+  1. Speaker_01 says Speaker_01 is thanking Speaker_02.
+  2. Speaker_01 says Speaker_01 is asking what Speaker_03 looks like and whether Speaker_03 is tall or short.
+  [s01_e05_c05_u002] TargetSpeaker: Yep.
+  [s01_e05_c05_u003] Speaker_01: Which?
+  [s01_e05_c05_u004] TargetSpeaker: Which what?
+  [s01_e05_c05_u005]
+  1. Speaker_01 says TargetSpeaker has never met Speaker_03.
+  [s01_e05_c05_u006]
+  1. TargetSpeaker says Speaker_03 is something, trailing off before giving details.
+  [s01_e05_c05_u007]
+  1. Speaker_01 says Speaker_04, TargetSpeaker, Speaker_05, Speaker_06, Speaker_07, Speaker_01, and Speaker_02 do not know what Speaker_03 is like and that Speaker_03 could be horribly something.
+  [s01_e05_c05_u008] Unknown Speaker: 
+  [s01_e05_c05_u009] Speaker_05: Hey, Joey.
+  [s01_e05_c05_u010]
+  1. Speaker_01 says Speaker_01 is planning to shut up now.

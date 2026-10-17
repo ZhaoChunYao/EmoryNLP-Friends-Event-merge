@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Assertively says they are ready to play and tells another to deal the cards now; actively confronts someone about bluffing."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Accuses another player of lying and equates bluffing with lying, taking a confrontational stance rather than a cooperative one."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Earlier threw away two jacks because they \"didn't look happy,\" indicating careless, irrational decision-making."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence—ready to play, gives directives, and displays no signs of nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Frames bluffing simply as lying, reflecting a rigid, dogmatic view rather than openness to accepted game norms."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages Speaker_02 to join the group effort about Speaker_04 and tries to rally school spirit (“help us… for old times’ sake,” “Go Bobcats”), showing outgoing, social persuasion."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker apologizes for how Speaker_02 was treated, acknowledging fault and seeking cooperative reconciliation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from asking for help, there is no clear sign of planning, organization, or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or insecurity; statements are calm and matter‑of‑fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity or inventive thinking; appealing to school spirit is conventional but not strongly dogmatic."
+  }
+}

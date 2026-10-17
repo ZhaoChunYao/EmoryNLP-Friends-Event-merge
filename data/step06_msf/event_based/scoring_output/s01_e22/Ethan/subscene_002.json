@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly says he just had sex and twice declares he is falling in love even after being told not to, showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He failed to disclose his real age (creating potential legal risk) and deflects responsibility by saying the other never told their age, indicating unreliability and lack of straightforwardness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He admits, \"I wasn’t thinking\" and engages in the encounter on a school night, showing impulsive, careless behavior rather than planning or responsibility."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He confidently professes love despite pushback and shows little sign of nervousness or anxiety; only a brief \"Sorry\" is offered."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He embraces intense feelings quickly and disregards caution about age and timing, indicating low caution and emotional openness to new experiences."
+  }
+}

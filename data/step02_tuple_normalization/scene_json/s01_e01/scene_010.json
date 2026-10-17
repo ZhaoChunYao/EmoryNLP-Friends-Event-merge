@@ -1,0 +1,100 @@
+{
+  "tuples": [
+    {
+      "verb": "grab",
+      "subject": "you/Joey Tribbiani",
+      "object": "a spoon",
+      "uid": "s01_e01_c10_u001"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Joey Tribbiani",
+      "object": "how long it's been since I've grabbed a spoon",
+      "uid": "s01_e01_c10_u001"
+    },
+    {
+      "verb": "grab",
+      "subject": "I/Ross Geller",
+      "object": "a spoon",
+      "uid": "s01_e01_c10_u001"
+    },
+    {
+      "verb": "mean",
+      "subject": "the words 'Billy, don't be a hero'",
+      "object": "anything",
+      "uid": "s01_e01_c10_u001"
+    },
+    {
+      "verb": "mean",
+      "subject": "the words 'Billy, don't be a hero'",
+      "object": "to you/Joey Tribbiani",
+      "uid": "s01_e01_c10_u001"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e01_c10_u002"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani",
+      "object": "a date",
+      "uid": "s01_e01_c10_u002"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani",
+      "object": "with Andrea",
+      "uid": "s01_e01_c10_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "Angela",
+      "object": "the screamer",
+      "uid": "s01_e01_c10_u003"
+    },
+    {
+      "verb": "have",
+      "subject": "Andrea",
+      "object": "cats",
+      "uid": "s01_e01_c10_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "June",
+      "uid": "s01_e01_c10_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "out of here",
+      "uid": "s01_e01_c10_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "here",
+      "object": "the thing",
+      "uid": "s01_e01_c10_u005"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Ross Geller",
+      "object": "it together enough to ask a woman out",
+      "uid": "s01_e01_c10_u005"
+    },
+    {
+      "verb": "ask",
+      "subject": "I/Ross Geller",
+      "object": "out a woman",
+      "uid": "s01_e01_c10_u005"
+    },
+    {
+      "verb": "ask",
+      "subject": "I/Ross Geller",
+      "object": "who",
+      "uid": "s01_e01_c10_u005"
+    }
+  ]
+}

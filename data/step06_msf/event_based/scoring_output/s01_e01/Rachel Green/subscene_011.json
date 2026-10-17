@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, reluctant responses and avoids engaging in the group action beyond minimal participation; no clear signs of being either outgoing or notably reserved socially."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She resists the group’s request (says she’s not ready and can’t do it), stops others by declaring the cutting merely symbolic, and is deceptive by cutting her library card instead of a credit card."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She refuses to follow through with the planned, responsible action of cutting credit cards, reframes it as symbolic, and substitutes a library card, showing avoidance and poor self-discipline."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She describes cutting the cards as like jumping out of an airplane without a parachute and says she can’t go through with it right now, indicating anxiety and fear."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "She is cautious and resistant to change, equating the new behavior to a dangerous leap and declining to try it."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge of the conversation, gives directions (“Then don’t do that, alright?”), and actively solicits others’ input (“Speaker_03. Speaker_03 think?”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Blunt and teasing toward others—dismisses Speaker_02’s comment and needles Speaker_03 about crying (“are you welling up? … you’re welling up”), prompting “Oh shut up!”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from casually redirecting focus, there’s no clear evidence of planning, diligence, or organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and ease—jokes and leads without signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear curiosity or imaginative thinking shown; merely routine prompting for opinions."
+  }
+}

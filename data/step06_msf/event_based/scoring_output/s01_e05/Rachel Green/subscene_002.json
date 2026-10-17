@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "When asked about plans, responds with humorous, social banter and shares plans to do laundry with Monica, engaging actively in the conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely and accepting (“Sure.”) to the other joining and asks clarifying questions (“Who?”) without hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mentions doing laundry but shows no clear evidence of being organized or efficient beyond that."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks in a calm, joking manner and readily agrees to plans, showing no signs of anxiety or irritability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or unconventional thinking; comments are practical and humorous but not exploratory."
+  }
+}

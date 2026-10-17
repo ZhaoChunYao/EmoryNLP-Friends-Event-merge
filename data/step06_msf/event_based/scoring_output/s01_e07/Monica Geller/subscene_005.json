@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker directly calls out Speaker_01 for pretending not to know about the surprise party and engages assertively in the group discussion (u027), showing social assertiveness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward about what was known and reassures Speaker_01 by saying they are not always the last to know and that others tell them things (u031), indicating directness and supportive intent."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or sloppiness/carelessness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks confidently and without visible anxiety—firmly challenging the pretense (u027) and calmly reassuring Speaker_01 (u031)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or dogmatism/caution about ideas are present."
+  }
+}

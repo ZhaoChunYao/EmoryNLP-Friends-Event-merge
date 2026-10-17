@@ -1,0 +1,34 @@
+event_id: s01_e07_c21_u001_e1
+utterance_id: s01_e07_c21_u001
+  tuple: ('be', 'this', 'fun', 's01_e07_c21_u001')
+
+event_id: s01_e07_c21_u002_e1
+utterance_id: s01_e07_c21_u002
+  tuple: ('let', 'you/Jill Goodacre', 'me use your phone', 's01_e07_c21_u002')
+  tuple: ('use', 'me/Chandler Bing', 'your phone', 's01_e07_c21_u002')
+
+event_id: s01_e07_c21_u002_e2
+utterance_id: s01_e07_c21_u002
+  tuple: ('save', 'you/Jill Goodacre', 'my life', 's01_e07_c21_u002')
+
+event_id: s01_e07_c21_u003_e1
+utterance_id: s01_e07_c21_u003
+  tuple: ('have', 'I/Jill Goodacre', 'a great blackout', 's01_e07_c21_u003')
+
+event_id: s01_e07_c21_u003_e2
+utterance_id: s01_e07_c21_u003
+  tuple: ('see', 'I/Jill Goodacre', 'you', 's01_e07_c21_u003')
+
+event_id: s01_e07_c21_u005_e1
+utterance_id: s01_e07_c21_u005
+  tuple: ('be', 'I/Chandler Bing', 'account number 7143457', 's01_e07_c21_u005')
+
+event_id: s01_e07_c21_u005_e2
+utterance_id: s01_e07_c21_u005
+  tuple: ('know', 'I/Chandler Bing', 'if you got any of that', 's01_e07_c21_u005')
+  tuple: ('get', 'you/(bank)', 'any of that', 's01_e07_c21_u005')
+
+event_id: s01_e07_c21_u005_e3
+utterance_id: s01_e07_c21_u005
+  tuple: ('like', 'I/Chandler Bing', 'a copy of the tape', 's01_e07_c21_u005')
+

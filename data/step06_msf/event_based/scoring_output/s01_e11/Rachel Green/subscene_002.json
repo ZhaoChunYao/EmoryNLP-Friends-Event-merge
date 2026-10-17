@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker assertively tells Speaker_03 to forget changing the channel and then enthusiastically gushes about loving Speaker_02’s books and how seeing her on TV is very cool."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They warmly praise Speaker_02’s work but also dismiss Speaker_03’s idea to switch channels; no clear sign of either strong considerateness or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Saying they can’t get on a plane without one of Speaker_02’s books suggests a preference, but there’s no clear evidence of organization or diligence in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently insists on watching the interview and speaks with excitement, showing no anxiety or nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Expresses strong interest in books and an author, regularly brings the books on flights, and finds the TV appearance very cool—indicating curiosity and appreciation of experiences."
+  }
+}

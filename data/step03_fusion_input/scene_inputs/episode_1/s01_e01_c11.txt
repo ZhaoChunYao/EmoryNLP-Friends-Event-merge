@@ -1,0 +1,237 @@
+('be', 'this', 'amazing', 's01_e01_c11_u001')
+[s01_e01_c11_u001] Rachel Green: Isn't this amazing? I mean, I have never made coffee before in my entire life.
+
+('mean', 'I/Rachel Green', None, 's01_e01_c11_u001')
+[s01_e01_c11_u001] Rachel Green: Isn't this amazing? I mean, I have never made coffee before in my entire life.
+
+('make', 'I/Rachel Green', 'coffee', 's01_e01_c11_u001')
+[s01_e01_c11_u001] Rachel Green: Isn't this amazing? I mean, I have never made coffee before in my entire life.
+
+('make', 'I/Rachel Green', 'in my entire life', 's01_e01_c11_u001')
+[s01_e01_c11_u001] Rachel Green: Isn't this amazing? I mean, I have never made coffee before in my entire life.
+
+('be', 'That', 'amazing', 's01_e01_c11_u002')
+[s01_e01_c11_u002] Chandler Bing: That is amazing.
+
+('figure', 'I/Rachel Green', None, 's01_e01_c11_u004')
+[s01_e01_c11_u004] Rachel Green: Y'know, I figure if I can make coffee, there isn't anything I can't do.
+
+('be', 'there', 'anything', 's01_e01_c11_u004')
+[s01_e01_c11_u004] Rachel Green: Y'know, I figure if I can make coffee, there isn't anything I can't do.
+
+('do', 'I/Rachel Green', 'anything', 's01_e01_c11_u004')
+[s01_e01_c11_u004] Rachel Green: Y'know, I figure if I can make coffee, there isn't anything I can't do.
+
+('invade', 'I/Chandler Bing', 'Poland', 's01_e01_c11_u005')
+[s01_e01_c11_u005] Chandler Bing: If can invade Poland, there isn't anything I can't do.
+
+('do', 'I/Chandler Bing', 'anything', 's01_e01_c11_u005')
+[s01_e01_c11_u005] Chandler Bing: If can invade Poland, there isn't anything I can't do.
+
+('listen', 'you/Rachel Green', None, 's01_e01_c11_u006')
+[s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+
+('be', 'you/Rachel Green', 'on a roll', 's01_e01_c11_u006')
+[s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+
+('feel', 'you/Rachel Green', None, 's01_e01_c11_u006')
+[s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+
+('make', 'you/Rachel Green', 'a Western omelet', 's01_e01_c11_u006')
+[s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+
+('be', 'I/Joey Tribbiani', 'not that hungry', 's01_e01_c11_u006')
+[s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+
+('be', 'Lenny and Squigy', 'here', 's01_e01_c11_u007')
+[s01_e01_c11_u007] Monica Geller: Oh good, Lenny and Squigy are here.
+
+('be', 'it/Paul the Wine Guy', None, 's01_e01_c11_u012')
+[s01_e01_c11_u012] Chandler Bing: Hi, Paul, is it?
+
+('thank', 'I/Paul the Wine Guy', 'you', 's01_e01_c11_u014')
+[s01_e01_c11_u014] Paul the Wine Guy: Thank you! Thank you so much!
+
+('stop', 'you/Paul the Wine Guy', None, 's01_e01_c11_u015')
+[s01_e01_c11_u015] Monica Geller: Stop!
+
+('tell', 'I/Paul the Wine Guy', 'you', 's01_e01_c11_u016')
+[s01_e01_c11_u016] Paul the Wine Guy: No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness.
+
+('be', 'last night', 'like all my birthdays, both graduations, plus the barn raising scene in Witness', 's01_e01_c11_u016')
+[s01_e01_c11_u016] Paul the Wine Guy: No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness.
+
+('talk', 'we/Monica Geller+Paul the Wine Guy', None, 's01_e01_c11_u017')
+[s01_e01_c11_u017] Monica Geller: We'll talk later.
+
+('be', 'that', 'a real date', 's01_e01_c11_u019')
+[s01_e01_c11_u019] Joey Tribbiani: That wasn't a real date?! What the hell do you do on a real date?
+
+('do', 'you/Monica Geller', 'what', 's01_e01_c11_u019')
+[s01_e01_c11_u019] Joey Tribbiani: That wasn't a real date?! What the hell do you do on a real date?
+
+('do', 'you/Monica Geller', 'on a real date', 's01_e01_c11_u019')
+[s01_e01_c11_u019] Joey Tribbiani: That wasn't a real date?! What the hell do you do on a real date?
+
+('shut up', 'you/#ALL#', None, 's01_e01_c11_u020')
+[s01_e01_c11_u020] Monica Geller: Shut up, and put my table back.
+
+('put back', 'you/#ALL#', 'my table', 's01_e01_c11_u020')
+[s01_e01_c11_u020] Monica Geller: Shut up, and put my table back.
+
+('get', 'I/Chandler Bing', 'to work', 's01_e01_c11_u022')
+[s01_e01_c11_u022] Chandler Bing: All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference...
+
+('input', 'I/Chandler Bing', 'those numbers', 's01_e01_c11_u022')
+[s01_e01_c11_u022] Chandler Bing: All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference...
+
+('make', 'it', 'much of a difference', 's01_e01_c11_u022')
+[s01_e01_c11_u022] Chandler Bing: All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference...
+
+('have', 'you guys/#ALL#', 'jobs', 's01_e01_c11_u023')
+[s01_e01_c11_u023] Rachel Green: So, like, you guys all have jobs?
+
+('have', 'we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy', 'jobs', 's01_e01_c11_u024')
+[s01_e01_c11_u024] Monica Geller: Yeah, we all have jobs. See, that's how we buy stuff.
+
+('see', 'you/Rachel Green', None, 's01_e01_c11_u024')
+[s01_e01_c11_u024] Monica Geller: Yeah, we all have jobs. See, that's how we buy stuff.
+
+('be', 'that', 'how we buy stuff', 's01_e01_c11_u024')
+[s01_e01_c11_u024] Monica Geller: Yeah, we all have jobs. See, that's how we buy stuff.
+
+('buy', 'we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy', 'stuff', 's01_e01_c11_u024')
+[s01_e01_c11_u024] Monica Geller: Yeah, we all have jobs. See, that's how we buy stuff.
+
+('be', 'I/Joey Tribbiani', 'an actor', 's01_e01_c11_u025')
+[s01_e01_c11_u025] Joey Tribbiani: Yeah, I'm an actor.
+
+('see', 'I/Rachel Green', 'you', 's01_e01_c11_u026')
+[s01_e01_c11_u026] Rachel Green: Wow! Would I have seen you in anything?
+
+('see', 'I/Rachel Green', 'in anything', 's01_e01_c11_u026')
+[s01_e01_c11_u026] Rachel Green: Wow! Would I have seen you in anything?
+
+('doubt', 'I/Joey Tribbiani', 'it', 's01_e01_c11_u027')
+[s01_e01_c11_u027] Joey Tribbiani: I doubt it. Mostly regional work.
+
+('wait', 'you/Rachel Green', None, 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('happen', 'you/Rachel Green', None, 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('catch', 'you/Rachel Green', "the Reruns' production of Pinocchio", 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('catch', 'you/Rachel Green', 'of Pinocchio', 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('catch', 'you/Rachel Green', 'at the little theater', 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('catch', 'you/Rachel Green', 'in the park', 's01_e01_c11_u028')
+[s01_e01_c11_u028] Monica Geller: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+
+('look', 'you/Monica Geller', None, 's01_e01_c11_u029')
+[s01_e01_c11_u029] Joey Tribbiani: Look, it was a job all right?
+
+('be', 'it', 'a job', 's01_e01_c11_u029')
+[s01_e01_c11_u029] Joey Tribbiani: Look, it was a job all right?
+
+('look', 'you/Joey Tribbiani', None, 's01_e01_c11_u030')
+[s01_e01_c11_u030] Chandler Bing: 'Look, Gippetto, I'm a real live boy.'
+
+('be', 'I/Chandler Bing', 'a real live boy', 's01_e01_c11_u030')
+[s01_e01_c11_u030] Chandler Bing: 'Look, Gippetto, I'm a real live boy.'
+
+('take', 'I/Joey Tribbiani', 'this abuse', 's01_e01_c11_u031')
+[s01_e01_c11_u031] Joey Tribbiani: I will not take this abuse.
+
+('be', 'you/Joey Tribbiani', 'right', 's01_e01_c11_u032')
+[s01_e01_c11_u032] Chandler Bing: You're right, I'm sorry. "Once I was a wooden boy, a little wooden boy..."
+
+('be', 'I/Chandler Bing', 'sorry', 's01_e01_c11_u032')
+[s01_e01_c11_u032] Chandler Bing: You're right, I'm sorry. "Once I was a wooden boy, a little wooden boy..."
+
+('be', 'I/Chandler Bing', 'a wooden boy', 's01_e01_c11_u032')
+[s01_e01_c11_u032] Chandler Bing: You're right, I'm sorry. "Once I was a wooden boy, a little wooden boy..."
+
+('know', 'you/Monica Geller+Chandler Bing', None, 's01_e01_c11_u033')
+[s01_e01_c11_u033] Joey Tribbiani: You should both know, that he's a dead man. Oh, Chandler?
+
+('be', 'he/Chandler Bing', 'a dead man', 's01_e01_c11_u033')
+[s01_e01_c11_u033] Joey Tribbiani: You should both know, that he's a dead man. Oh, Chandler?
+
+('do', 'you/Rachel Green', None, 's01_e01_c11_u034')
+[s01_e01_c11_u034] Monica Geller: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+
+('sleep', 'you/Rachel Green', None, 's01_e01_c11_u034')
+[s01_e01_c11_u034] Monica Geller: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+
+('talk', 'you/Rachel Green', 'to Barry', 's01_e01_c11_u034')
+[s01_e01_c11_u034] Monica Geller: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+
+('stop', 'I/Monica Geller', 'smiling', 's01_e01_c11_u034')
+[s01_e01_c11_u034] Monica Geller: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+
+('smile', 'I/Monica Geller', None, 's01_e01_c11_u034')
+[s01_e01_c11_u034] Monica Geller: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+
+('see', 'I/Rachel Green', 'that', 's01_e01_c11_u035')
+[s01_e01_c11_u035] Rachel Green: I can see that. You look like you slept with a hanger in your mouth.
+
+('look', 'you/Monica Geller', None, 's01_e01_c11_u035')
+[s01_e01_c11_u035] Rachel Green: I can see that. You look like you slept with a hanger in your mouth.
+
+('sleep', 'you/Monica Geller', 'with a hanger', 's01_e01_c11_u035')
+[s01_e01_c11_u035] Rachel Green: I can see that. You look like you slept with a hanger in your mouth.
+
+('sleep', 'you/Monica Geller', 'in your mouth', 's01_e01_c11_u035')
+[s01_e01_c11_u035] Rachel Green: I can see that. You look like you slept with a hanger in your mouth.
+
+('know', 'I/Monica Geller', None, 's01_e01_c11_u036')
+[s01_e01_c11_u036] Monica Geller: I know, he's just so, so... Do you remember you and Tony DeMarco?
+
+('be', 'he/Paul the Wine Guy', None, 's01_e01_c11_u036')
+[s01_e01_c11_u036] Monica Geller: I know, he's just so, so... Do you remember you and Tony DeMarco?
+
+('remember', 'you/Rachel Green', 'you and Tony DeMarco', 's01_e01_c11_u036')
+[s01_e01_c11_u036] Monica Geller: I know, he's just so, so... Do you remember you and Tony DeMarco?
+
+('be', 'it', 'like that', 's01_e01_c11_u038')
+[s01_e01_c11_u038] Monica Geller: Well, it's like that. With feelings.
+
+('be', 'it', 'with feelings', 's01_e01_c11_u038')
+[s01_e01_c11_u038] Monica Geller: Well, it's like that. With feelings.
+
+('be', 'you/Monica Geller', 'in trouble', 's01_e01_c11_u039')
+[s01_e01_c11_u039] Rachel Green: Oh wow. Are you in trouble.
+
+('want', 'you/Monica Geller', 'a wedding dress', 's01_e01_c11_u041')
+[s01_e01_c11_u041] Rachel Green: Want a wedding dress? Hardly used.
+
+('get', 'we/Monica Geller+Rachel Green', 'ahead of selves', 's01_e01_c11_u042')
+[s01_e01_c11_u042] Monica Geller: I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.
+
+('get up', 'I/Monica Geller', None, 's01_e01_c11_u042')
+[s01_e01_c11_u042] Monica Geller: I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.
+
+('go', 'I/Monica Geller', 'to work', 's01_e01_c11_u042')
+[s01_e01_c11_u042] Monica Geller: I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.
+
+('think', 'I/Monica Geller', 'about him', 's01_e01_c11_u042')
+[s01_e01_c11_u042] Monica Geller: I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.
+
+('look', 'you/Monica Geller', None, 's01_e01_c11_u043')
+[s01_e01_c11_u043] Rachel Green: Oh, look, wish me luck!
+
+('wish', 'you/Monica Geller', 'me luck', 's01_e01_c11_u043')
+[s01_e01_c11_u043] Rachel Green: Oh, look, wish me luck!
+
+('go', 'I/Rachel Green', None, 's01_e01_c11_u045')
+[s01_e01_c11_u045] Rachel Green: I'm gonna go get one of those job things.
+
+('get', 'I/Rachel Green', 'one of those job things', 's01_e01_c11_u045')
+[s01_e01_c11_u045] Rachel Green: I'm gonna go get one of those job things.
+

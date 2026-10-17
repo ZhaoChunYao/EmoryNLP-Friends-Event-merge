@@ -1,0 +1,110 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e01_c10_u001_e1",
+          "tuples": [
+            "('grab', 'you/Joey Tribbiani', 'a spoon', 's01_e01_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u001_e2",
+          "tuples": [
+            "('know', 'you/Joey Tribbiani', \"how long it's been since I've grabbed a spoon\", 's01_e01_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u001_e3",
+          "tuples": [
+            "('grab', 'I/Ross Geller', 'a spoon', 's01_e01_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u001_e4",
+          "tuples": [
+            "('mean', \"the words 'Billy, don't be a hero'\", 'anything', 's01_e01_c10_u001')",
+            "('mean', \"the words 'Billy, don't be a hero'\", 'to you/Joey Tribbiani', 's01_e01_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e01_c10_u002_e1",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani', None, 's01_e01_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u002_e2",
+          "tuples": [
+            "('get', 'I/Joey Tribbiani', 'a date', 's01_e01_c10_u002')",
+            "('get', 'I/Joey Tribbiani', 'with Andrea', 's01_e01_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e01_c10_u003_e1",
+          "tuples": [
+            "('be', 'Angela', 'the screamer', 's01_e01_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u003_e2",
+          "tuples": [
+            "('have', 'Andrea', 'cats', 's01_e01_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e01_c10_u004_e1",
+          "tuples": [
+            "('be', 'it', 'June', 's01_e01_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u004_e2",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', 'out of here', 's01_e01_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e01_c10_u005_e1",
+          "tuples": [
+            "('be', 'here', 'the thing', 's01_e01_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u005_e2",
+          "tuples": [
+            "('get', 'I/Ross Geller', 'it together enough to ask a woman out', 's01_e01_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c10_u005_e3",
+          "tuples": [
+            "('ask', 'I/Ross Geller', 'out a woman', 's01_e01_c10_u005')",
+            "('ask', 'I/Ross Geller', 'who', 's01_e01_c10_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief responses but also offers a friendly compliment; no clear sign of either outgoing talkativeness or marked reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is polite and considerate—asks for consent before entering the office and compliments Speaker_01 (“you look great”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Asks if Speaker_01 is sure about letting them in, showing concern and possible nervousness about the situation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Hesitates and seeks reassurance before proceeding, reflecting a cautious stance rather than adventurous openness."
+  }
+}

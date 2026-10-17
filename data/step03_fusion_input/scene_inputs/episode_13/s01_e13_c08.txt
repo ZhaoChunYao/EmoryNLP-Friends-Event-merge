@@ -1,0 +1,66 @@
+('help', 'I/Monica Geller', 'you', 's01_e13_c08_u002')
+[s01_e13_c08_u002] Monica Geller: Hi...May I help you?
+
+('say', 'Joey', 'I could use your shower', 's01_e13_c08_u003')
+[s01_e13_c08_u003] Ronni Rapalono: Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?
+
+('use', 'I/Ronni Rapalono', 'your shower', 's01_e13_c08_u003')
+[s01_e13_c08_u003] Ronni Rapalono: Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?
+
+('be', 'Chandler', 'in ours', 's01_e13_c08_u003')
+[s01_e13_c08_u003] Ronni Rapalono: Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?
+
+('be', 'you/Ronni Rapalono', 'who', 's01_e13_c08_u004')
+[s01_e13_c08_u004] Monica Geller: Okay...who are you?
+
+('be', 'I/Ronni Rapalono', 'Ronni', 's01_e13_c08_u005')
+[s01_e13_c08_u005] Ronni Rapalono: Oh, I'm Ronni. Ronni Rappelano? The mistress?
+
+('come', 'you/Ronni Rapalono', 'in', 's01_e13_c08_u006')
+[s01_e13_c08_u006] Monica Geller: Oh, c'mon in.
+
+('be', 'I/Rachel Green', 'Rachel', 's01_e13_c08_u008')
+[s01_e13_c08_u008] Rachel Green: Hi, I'm Rachel.
+
+('be', 'Bathroom', 'up there', 's01_e13_c08_u010')
+[s01_e13_c08_u010] Rachel Green: Bathroom's up there.
+
+('listen', 'you/Ronni Rapalono', None, 's01_e13_c08_u012')
+[s01_e13_c08_u012] Rachel Green: Hey, listen, Ronni, how long would you say Chandler's been in the shower?
+
+('say', 'you/Ronni Rapalono', "Chandler's been in the shower", 's01_e13_c08_u012')
+[s01_e13_c08_u012] Rachel Green: Hey, listen, Ronni, how long would you say Chandler's been in the shower?
+
+('be', 'Chandler', 'in the shower', 's01_e13_c08_u012')
+[s01_e13_c08_u012] Rachel Green: Hey, listen, Ronni, how long would you say Chandler's been in the shower?
+
+('fasten', 'you/everyone', 'your seatbelts', 's01_e13_c08_u014')
+[s01_e13_c08_u014] Rachel Green: Perfect. Fasten your seatbelts, it's peepee time. Hey, Mr. Trib.
+
+('be', 'it/the time', 'peepee time', 's01_e13_c08_u014')
+[s01_e13_c08_u014] Rachel Green: Perfect. Fasten your seatbelts, it's peepee time. Hey, Mr. Trib.
+
+('be', 'it/the time', 'time to see your thing', 's01_e13_c08_u017')
+[s01_e13_c08_u017] Rachel Green: Chandler Bing? It's time to see your thing.
+
+('be', 'the matter', 'with you', 's01_e13_c08_u019')
+[s01_e13_c08_u019] Joey Tribbiani: What's the matter with you?!
+
+('think', 'I/Rachel Green', 'it was Chandler', 's01_e13_c08_u020')
+[s01_e13_c08_u020] Rachel Green: I thought it was Chandler!
+
+('be', 'it/the person in the shower', 'Chandler', 's01_e13_c08_u020')
+[s01_e13_c08_u020] Rachel Green: I thought it was Chandler!
+
+('be', 'you/Chandler Bing', 'in there', 's01_e13_c08_u022')
+[s01_e13_c08_u022] Rachel Green: You were supposed to be in there so I could see your thing!
+
+('see', 'I/Rachel Green', 'your thing', 's01_e13_c08_u022')
+[s01_e13_c08_u022] Rachel Green: You were supposed to be in there so I could see your thing!
+
+('be', 'my thing', 'in there', 's01_e13_c08_u023')
+[s01_e13_c08_u023] Chandler Bing: Sorry, my my thing was in there with me.
+
+('be', 'my thing', 'with me', 's01_e13_c08_u023')
+[s01_e13_c08_u023] Chandler Bing: Sorry, my my thing was in there with me.
+

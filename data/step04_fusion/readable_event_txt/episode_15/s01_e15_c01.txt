@@ -1,0 +1,20 @@
+event_id: s01_e15_c01_u002_e1
+utterance_id: s01_e15_c01_u002
+  tuple: ('thank', 'I/Joey Tribbiani', 'you', 's01_e15_c01_u002')
+
+event_id: s01_e15_c01_u006_e1
+utterance_id: s01_e15_c01_u006
+  tuple: ('thank', 'I/Monica Geller', 'you', 's01_e15_c01_u006')
+
+event_id: s01_e15_c01_u008_e1
+utterance_id: s01_e15_c01_u008
+  tuple: ('have', 'my cinamon stick', 'an eraser', 's01_e15_c01_u008')
+
+event_id: s01_e15_c01_u009_e1
+utterance_id: s01_e15_c01_u009
+  tuple: ('be', 'That', 'why', 's01_e15_c01_u009')
+
+event_id: s01_e15_c01_u009_e2
+utterance_id: s01_e15_c01_u009
+  tuple: ('be', 'I/Rachel Green', 'sorry', 's01_e15_c01_u009')
+

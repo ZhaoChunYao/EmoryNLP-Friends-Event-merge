@@ -1,0 +1,370 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u003_e1",
+          "tuples": [
+            "('fill', 'Hell', 'with people like you', 's01_e20_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u004_e1",
+          "tuples": [
+            "('be back', 'He/(the peeper)', None, 's01_e20_c07_u004')",
+            "('be back', 'The peeper', None, 's01_e20_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u006",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u006_e1",
+          "tuples": [
+            "('get down', 'you/(Rachel Green)', None, 's01_e20_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u007_e1",
+          "tuples": [
+            "('get down', 'you/(Rachel Green)', None, 's01_e20_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u008",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u008_e1",
+          "tuples": [
+            "('boogie', 'you/(Rachel Green)', None, 's01_e20_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u009",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u009_e1",
+          "tuples": [
+            "('go', 'I/(Rachel Green)', 'to work', 's01_e20_c07_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u009_e2",
+          "tuples": [
+            "('get', 'I/(Rachel Green)', 'my eyes scratched out by Mindy', 's01_e20_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u010",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u010_e1",
+          "tuples": [
+            "('relax', 'you/(Rachel Green)', None, 's01_e20_c07_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u010_e2",
+          "tuples": [
+            "('know', 'she/(Mindy)', None, 's01_e20_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u011",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u011_e1",
+          "tuples": [
+            "('hear', 'I/(Rachel Green)', 'from her', 's01_e20_c07_u011')",
+            "('hear', 'I/(Rachel Green)', 'in seven months', 's01_e20_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u011_e2",
+          "tuples": [
+            "('call', 'she/(Mindy)', 'me', 's01_e20_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u011_e3",
+          "tuples": [
+            "('be', 'it', 'about what else', 's01_e20_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u011_e4",
+          "tuples": [
+            "('be', 'she/(Mindy)', 'my best friend', 's01_e20_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u011_e5",
+          "tuples": [
+            "('go', 'we/(Rachel Green+Mindy)', 'to camp', 's01_e20_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u011_e6",
+          "tuples": [
+            "('teach', 'she/(Mindy)', 'me how to kiss', 's01_e20_c07_u011')",
+            "('kiss', 'I/(Rachel Green)', None, 's01_e20_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u013",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u013_e1",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'like the other woman', 's01_e20_c07_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u013_e2",
+          "tuples": [
+            "('feel', 'I/(Rachel Green)', None, 's01_e20_c07_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u015",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u015_e1",
+          "tuples": [
+            "('see', 'I/(Rachel Green)', 'you guys', 's01_e20_c07_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u016",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u016_e1",
+          "tuples": [
+            "('hold up', 'you/(Rachel Green)', None, 's01_e20_c07_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u016_e2",
+          "tuples": [
+            "('walk out', 'I/(Joey Tribbiani)', 'with you', 's01_e20_c07_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u016_e3",
+          "tuples": [
+            "('kiss', 'you/(Rachel Green)', None, 's01_e20_c07_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u016_e4",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'at camp', 's01_e20_c07_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u016_e5",
+          "tuples": [
+            "('wear', 'you/(Rachel Green)', 'any kinda little uniform', 's01_e20_c07_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u016_e6",
+          "tuples": [
+            "('be', 'that', 'fine', 's01_e20_c07_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u018",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u018_e1",
+          "tuples": [
+            "('go', 'I/(Chandler Bing)', 'to the bathroom', 's01_e20_c07_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u018_e2",
+          "tuples": [
+            "('watch', 'you/(Monica Geller)', 'my phone', 's01_e20_c07_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u019",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u019_e1",
+          "tuples": [
+            "('take', 'you/(Chandler Bing)', 'it with you', 's01_e20_c07_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u020",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u020_e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing+Danielle)', 'on a second date', 's01_e20_c07_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u020_e2",
+          "tuples": [
+            "('need', 'she/(Danielle)', 'to hear me pee', 's01_e20_c07_u020')",
+            "('hear', 'she/(Danielle)', 'me pee', 's01_e20_c07_u020')",
+            "('pee', 'I/(Chandler Bing)', None, 's01_e20_c07_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u022",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u022_e1",
+          "tuples": [
+            "('call', 'I/(Chandler Bing)', 'her', 's01_e20_c07_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u022_e2",
+          "tuples": [
+            "('leave', 'I/(Chandler Bing)', 'a message', 's01_e20_c07_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u022_e3",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'some pride', 's01_e20_c07_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u024",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u024_e1",
+          "tuples": [
+            "('be', 'it', 'Chandler', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e2",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'fine', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e3",
+          "tuples": [
+            "('listen', 'you/(Danielle)', None, 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e4",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', 'if you tried to call me', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e5",
+          "tuples": [
+            "('try', 'you/(Danielle)', 'to call me', 's01_e20_c07_u024')",
+            "('call', 'you/(Danielle)', 'me', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e6",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'idiot', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e7",
+          "tuples": [
+            "('shut off', 'I/(Chandler Bing)', 'my phone', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e8",
+          "tuples": [
+            "('be', 'that', 'fine', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e9",
+          "tuples": [
+            "('be', 'that', 'great', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e10",
+          "tuples": [
+            "('be', 'she/(Danielle)', 'on the other line', 's01_e20_c07_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c07_u024_e11",
+          "tuples": [
+            "('call back', 'she/(Danielle)', 'me', 's01_e20_c07_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u025",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u025_e1",
+          "tuples": [
+            "('pee', 'you/(Chandler Bing)', None, 's01_e20_c07_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c07_u026",
+      "events": [
+        {
+          "event_id": "s01_e20_c07_u026_e1",
+          "tuples": [
+            "('dance', 'I/(Chandler Bing)', None, 's01_e20_c07_u026')"
+          ]
+        }
+      ]
+    }
+  ]
+}

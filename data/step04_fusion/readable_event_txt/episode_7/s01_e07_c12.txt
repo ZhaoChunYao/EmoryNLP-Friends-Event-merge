@@ -1,0 +1,29 @@
+event_id: s01_e07_c12_u001_e1
+utterance_id: s01_e07_c12_u001
+  tuple: ('be', 'this/Bactine', 'just Bactine', 's01_e07_c12_u001')
+
+event_id: s01_e07_c12_u001_e2
+utterance_id: s01_e07_c12_u001
+  tuple: ('hurt', 'it/Bactine', None, 's01_e07_c12_u001')
+
+event_id: s01_e07_c12_u003_e1
+utterance_id: s01_e07_c12_u003
+  tuple: ('be', 'that/wax', 'wax', 's01_e07_c12_u003')
+
+event_id: s01_e07_c12_u004_e1
+utterance_id: s01_e07_c12_u004
+  tuple: ('be', 'poor little Tooty', 'scared to death', 's01_e07_c12_u004')
+
+event_id: s01_e07_c12_u004_e2
+utterance_id: s01_e07_c12_u004
+  tuple: ('find', 'we/Phoebe+Monica+Joey+Ross+Rachel', 'his owner', 's01_e07_c12_u004')
+
+event_id: s01_e07_c12_u005_e1
+utterance_id: s01_e07_c12_u005
+  tuple: ('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'poor little Tooty', 's01_e07_c12_u005')
+  tuple: ('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'in the hall', 's01_e07_c12_u005')
+
+event_id: s01_e07_c12_u006_e1
+utterance_id: s01_e07_c12_u006
+  tuple: ('get', 'he/poor little Tooty', 'trampled', 's01_e07_c12_u006')
+

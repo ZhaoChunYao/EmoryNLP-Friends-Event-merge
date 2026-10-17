@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker loudly calls out \"Joey!\" and assertively tells Speaker_03 to get the key, actively driving the interaction."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker uses a sharp, demanding tone; Speaker_03 remarks that their tone won't make him go faster, indicating impatience and low cooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker notes the oven is on and immediately pushes to retrieve the key, focusing on resolving the urgent task."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The urgent, sharper tone and shouting in response to the oven being on suggest stress and nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or novel ideas; the speech focuses on immediate directives."
+  }
+}

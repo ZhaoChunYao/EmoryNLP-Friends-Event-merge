@@ -1,0 +1,160 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u001_e1",
+          "tuples": [
+            "('look', 'he/Marcel', 'so tiny', 's01_e17_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u003_e1",
+          "tuples": [
+            "('get', 'we/Joey Tribbiani+group', 'the message', 's01_e17_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u004_e1",
+          "tuples": [
+            "('be', 'he/Marcel', 'alright', 's01_e17_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u005_e1",
+          "tuples": [
+            "('get', 'The doctor', \"out the 'K'\", 's01_e17_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u005_e2",
+          "tuples": [
+            "('find', 'he/The doctor', \"an 'M'\", 's01_e17_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u005_e3",
+          "tuples": [
+            "('find', 'he/The doctor', \"an 'O'\", 's01_e17_c13_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u006",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u006_e1",
+          "tuples": [
+            "('think', 'we/Chandler Bing+group', \"he was trying to spell out 'MONKEY'\", 's01_e17_c13_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u006_e2",
+          "tuples": [
+            "('try', 'he/Marcel', \"to spell out 'MONKEY'\", 's01_e17_c13_u006')",
+            "('spell', 'he/Marcel', \"out 'MONKEY'\", 's01_e17_c13_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u008",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u008_e1",
+          "tuples": [
+            "('say', 'the doctor', \"he's gonna be fine\", 's01_e17_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u008_e2",
+          "tuples": [
+            "('be', 'he/Marcel', 'fine', 's01_e17_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u008_e3",
+          "tuples": [
+            "('sleep', 'he/Marcel', None, 's01_e17_c13_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u009",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u009_e1",
+          "tuples": [
+            "('feel', 'you/Ross Geller', 'like a dad', 's01_e17_c13_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u011",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u011_e1",
+          "tuples": [
+            "('come', 'you/Ross Geller', 'on', 's01_e17_c13_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u011_e2",
+          "tuples": [
+            "('come', 'you/Ross Geller', 'through', 's01_e17_c13_u011')",
+            "('do', 'you/Ross Geller', 'what you had to do', 's01_e17_c13_u011')",
+            "('have', 'you/Ross Geller', 'to do', 's01_e17_c13_u011')",
+            "('be', \"that/Ross Geller's action\", 'very dad', 's01_e17_c13_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u013",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u013_e1",
+          "tuples": [
+            "('look', 'you/Everyone present', None, 's01_e17_c13_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c13_u013_e2",
+          "tuples": [
+            "('wake', 'he/Marcel', 'up', 's01_e17_c13_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c13_u014",
+      "events": [
+        {
+          "event_id": "s01_e17_c13_u014_e1",
+          "tuples": [
+            "('do', 'you/Marcel', None, 's01_e17_c13_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

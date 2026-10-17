@@ -1,0 +1,44 @@
+event_id: s01_e06_c01_u001_e1
+utterance_id: s01_e06_c01_u001
+  tuple: ('look', 'you/(everyone)', None, 's01_e06_c01_u001')
+  tuple: ('be', 'there', "Joey's picture", 's01_e06_c01_u001')
+  tuple: ('be', "this/(Joey's picture)", 'so exciting', 's01_e06_c01_u001')
+
+event_id: s01_e06_c01_u002_e1
+utterance_id: s01_e06_c01_u002
+  tuple: ('spot', 'you/(everyone)', 'someone', 's01_e06_c01_u002')
+  tuple: ('see', 'someone', 'one of his plays', 's01_e06_c01_u002')
+  tuple: ('see', 'someone', 'before', 's01_e06_c01_u002')
+  tuple: ('notice', 'you/(everyone)', 'no fear', 's01_e06_c01_u002')
+  tuple: ('notice', 'you/(everyone)', 'no sense of impending doom', 's01_e06_c01_u002')
+
+event_id: s01_e06_c01_u003_e1
+utterance_id: s01_e06_c01_u003
+  tuple: ('scare', 'the exclamation point in the title', 'me', 's01_e06_c01_u003')
+  tuple: ('be', 'it/(title)', 'not just Freud', 's01_e06_c01_u003')
+  tuple: ('be', 'it/(title)', 'Freud', 's01_e06_c01_u003')
+
+event_id: s01_e06_c01_u005_e1
+utterance_id: s01_e06_c01_u005
+  tuple: ('happen', 'magic', None, 's01_e06_c01_u005')
+
+event_id: s01_e06_c01_u007_e1
+utterance_id: s01_e06_c01_u007
+  tuple: ('do', 'we/(Joey and Eva)', 'some excellent work', 's01_e06_c01_u007')
+
+event_id: s01_e06_c01_u007_e2
+utterance_id: s01_e06_c01_u007
+  tuple: ('say', 'I/(Joey)', 'your problem is quite clear', 's01_e06_c01_u007')
+  tuple: ('be', 'your problem', 'quite clear', 's01_e06_c01_u007')
+
+event_id: s01_e06_c01_u008_e1
+utterance_id: s01_e06_c01_u008
+  tuple: ('want', 'you/(Eva)', 'a dingle', 's01_e06_c01_u008')
+  tuple: ('be', 'all you want', 'a dingle', 's01_e06_c01_u008')
+  tuple: ('envy', 'you/(Eva)', 'a schwang', 's01_e06_c01_u008')
+  tuple: ('be', 'what you envy', 'a schwang', 's01_e06_c01_u008')
+  tuple: ('tinkle', 'you/(Eva)', 'through a thing', 's01_e06_c01_u008')
+  tuple: ('play', 'you/(Eva)', 'with', 's01_e06_c01_u008')
+  tuple: ('let', 'you/(Eva)', 'a thing', 's01_e06_c01_u008')
+  tuple: ('hang', 'a thing', None, 's01_e06_c01_u008')
+

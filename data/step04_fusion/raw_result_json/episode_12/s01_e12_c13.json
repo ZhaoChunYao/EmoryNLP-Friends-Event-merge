@@ -1,0 +1,199 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u001_event_1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', 'she took it pretty well', 's01_e12_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u001_event_2",
+          "tuples": [
+            "('take', 'she/Rachel Green', 'it', 's01_e12_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u001_event_3",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'Paolo is over there right now', 's01_e12_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u001_event_4",
+          "tuples": [
+            "('be', 'Paolo', 'over there', 's01_e12_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u002",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u002_event_1",
+          "tuples": [
+            "('get', 'we/Monica Geller and friends', 'over there', 's01_e12_c13_u002')",
+            "('see', 'we/Monica Geller and friends', \"if she's okay\", 's01_e12_c13_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u002_event_2",
+          "tuples": [
+            "('be', 'she/Rachel Green', 'okay', 's01_e12_c13_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u002_event_3",
+          "tuples": [
+            "('come', 'you/everyone', 'on', 's01_e12_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u003_event_1",
+          "tuples": [
+            "('look', 'it/situation', 'like we kicked your butts', 's01_e12_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u003_event_2",
+          "tuples": [
+            "('kick', 'we/Ross Geller and team', 'your butts', 's01_e12_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u004",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u004_event_1",
+          "tuples": [
+            "('kick', 'she/Monica Geller', 'our butts', 's01_e12_c13_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u004_event_2",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'on the Olympic standing-there team', 's01_e12_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u006_event_1",
+          "tuples": [
+            "('do', 'you/Ross Geller', None, 's01_e12_c13_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u006_event_2",
+          "tuples": [
+            "('break', 'she/Rachel Green', 'up with the guy', 's01_e12_c13_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u006_event_3",
+          "tuples": [
+            "('be', 'it/situation', 'time for you to swoop in', 's01_e12_c13_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u006_event_4",
+          "tuples": [
+            "('swoop', 'you/Ross Geller', 'in', 's01_e12_c13_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u008",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u008_event_1",
+          "tuples": [
+            "('be', 'now', 'when you swoop', 's01_e12_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u008_event_2",
+          "tuples": [
+            "('make', 'you/Ross Geller', 'sure that when Paolo walks out of there, the first guy Rachel sees is you', 's01_e12_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u008_event_3",
+          "tuples": [
+            "('walk', 'Paolo', 'out of there', 's01_e12_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u008_event_4",
+          "tuples": [
+            "('see', 'Rachel Green', 'the first guy', 's01_e12_c13_u008')",
+            "('be', 'the first guy Rachel sees', 'you', 's01_e12_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u008_event_5",
+          "tuples": [
+            "('know', 'she/Rachel Green', \"that you're everything he's not\", 's01_e12_c13_u008')",
+            "('be', 'you/Ross Geller', \"everything he's not\", 's01_e12_c13_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u008_event_6",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'like the anti-Paolo', 's01_e12_c13_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c13_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c13_u009_event_1",
+          "tuples": [
+            "('be', 'my Catholic friend', 'right', 's01_e12_c13_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u009_event_2",
+          "tuples": [
+            "('be', 'she/Rachel Green', 'distraught', 's01_e12_c13_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u009_event_3",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'there', 's01_e12_c13_u009')",
+            "('be', 'you/Ross Geller', 'for her', 's01_e12_c13_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u009_event_4",
+          "tuples": [
+            "('pick', 'you/Ross Geller', 'up the pieces', 's01_e12_c13_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c13_u009_event_5",
+          "tuples": [
+            "('usher', 'you/Ross Geller', 'in the age of Ross', 's01_e12_c13_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

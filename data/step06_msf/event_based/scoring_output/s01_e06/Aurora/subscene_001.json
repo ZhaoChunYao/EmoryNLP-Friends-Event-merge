@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks minimally (“…Yes?”, “Chandler?”) and there’s no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She agrees to go out with Speaker_01 and is straightforward in noting he already said his name."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or of pronounced confidence are evident from her brief replies."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She accepts a spontaneous invitation to go out, suggesting willingness to try something new."
+  }
+}

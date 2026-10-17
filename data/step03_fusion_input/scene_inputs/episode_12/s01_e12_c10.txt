@@ -1,0 +1,75 @@
+('move', 'you/Rachel Green', 'out', 's01_e12_c10_u003')
+[s01_e12_c10_u003] Phoebe Buffay: Are you moving out?
+
+('be', 'these/(suitcases)', 'all my suitcases', 's01_e12_c10_u004')
+[s01_e12_c10_u004] Rachel Green: No, these aren't all my suitcases. This one's Paolo's.
+
+('be', 'this one/(suitcase)', "Paolo's", 's01_e12_c10_u004')
+[s01_e12_c10_u004] Rachel Green: No, these aren't all my suitcases. This one's Paolo's.
+
+('talk', 'we/(Phoebe Buffay+Rachel Green)', 'for a sec', 's01_e12_c10_u005')
+[s01_e12_c10_u005] Phoebe Buffay: Um, um, Rachel can we talk for a sec?
+
+('be', 'Paolo', 'on his way over', 's01_e12_c10_u006')
+[s01_e12_c10_u006] Rachel Green: Well, sure...just a sec, though, 'cause Paolo's on his way over.
+
+('know', 'we/(Phoebe Buffay+Rachel Green)', 'each other for that long a time', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('be', 'there', 'three things', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('know', 'you/Rachel Green', 'three things about me', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('be', 'my friends', 'the most important thing', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('be', 'my friends', 'in my life', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('lie', 'I/Phoebe Buffay', None, 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('make', 'I/Phoebe Buffay', 'the best oatmeal raisin cookies', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('make', 'I/Phoebe Buffay', 'in the world', 's01_e12_c10_u009')
+[s01_e12_c10_u009] Phoebe Buffay: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.
+
+('taste', 'I/Rachel Green', 'these before', 's01_e12_c10_u010')
+[s01_e12_c10_u010] Rachel Green: Ok, thanks Pheebs Oh my God, why have I never tasted these before?!
+
+('make', 'I/Rachel Green', 'them a lot', 's01_e12_c10_u011')
+[s01_e12_c10_u011] Phoebe Buffay: Oh, I don't make them a lot because I don't think it's fair to the other cookies
+
+('think', 'I/Rachel Green', 'it is fair to the other cookies', 's01_e12_c10_u011')
+[s01_e12_c10_u011] Phoebe Buffay: Oh, I don't make them a lot because I don't think it's fair to the other cookies
+
+('be', 'it/(making them a lot)', 'fair', 's01_e12_c10_u011')
+[s01_e12_c10_u011] Phoebe Buffay: Oh, I don't make them a lot because I don't think it's fair to the other cookies
+
+('be', 'it/(making them a lot)', 'to the other cookies', 's01_e12_c10_u011')
+[s01_e12_c10_u011] Phoebe Buffay: Oh, I don't make them a lot because I don't think it's fair to the other cookies
+
+('be', 'you/Phoebe Buffay', 'right', 's01_e12_c10_u012')
+[s01_e12_c10_u012] Rachel Green: All right, well, you're right, these are the best oatmeal cookies I've ever had.
+
+('be', 'these/(cookies)', 'the best oatmeal cookies', 's01_e12_c10_u012')
+[s01_e12_c10_u012] Rachel Green: All right, well, you're right, these are the best oatmeal cookies I've ever had.
+
+('have', 'I/Rachel Green', 'these', 's01_e12_c10_u012')
+[s01_e12_c10_u012] Rachel Green: All right, well, you're right, these are the best oatmeal cookies I've ever had.
+
+('prove', "which/(these are the best oatmeal cookies I've ever had)", 'that I never lie', 's01_e12_c10_u013')
+[s01_e12_c10_u013] Phoebe Buffay: Which proves that I never lie.
+
+('guess', 'I/Rachel Green', "you don't", 's01_e12_c10_u014')
+[s01_e12_c10_u014] Rachel Green: I guess you don't.
+
+('make', 'Paolo', 'a pass', 's01_e12_c10_u015')
+[s01_e12_c10_u015] Phoebe Buffay: Paolo made a pass at me.
+
+('make', 'Paolo', 'at me', 's01_e12_c10_u015')
+[s01_e12_c10_u015] Phoebe Buffay: Paolo made a pass at me.
+

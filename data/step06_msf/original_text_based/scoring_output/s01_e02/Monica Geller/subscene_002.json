@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, task-focused comments (“Are you through with that?”) rather than showing outgoing or energetic sociability."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Snaps about mess (“Whose little ball of paper is this?!”) and keeps redoing others’ work (re-fluffing the pillow) to the point another says they’re scared, showing a controlling, less warm tone despite a brief apology."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Strong focus on order and perfectionism—checking if someone is done, calling out trash, repeatedly fluffing a pillow, and aiming to avoid giving others “ammunition,” indicating careful, organized behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses worry about others’ judgment (“don’t wanna give [them] any more ammunition”) and is described as “scaring me… all chaotic and twirly,” showing anxiety and agitation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Cautious and risk-averse stance (avoiding any “ammunition” others could use) and rigid standards about small details (pillow fluffing), suggesting low openness to flexibility."
+  }
+}

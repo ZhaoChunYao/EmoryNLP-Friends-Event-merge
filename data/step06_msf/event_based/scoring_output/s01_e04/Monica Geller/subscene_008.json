@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively engages and makes bold, playful, flirtatious comments about the target (“great hair, sexy smile, really cute butt”) while spying (u027), showing outgoing, talkative energy."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of kindness/helpfulness or hostility/deceit. The remarks are playful/objectifying but not clearly cooperative or antagonistic (u027)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Behavior shows observation and guessing (u024, u027) but no clear evidence of organization/efficiency or of sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with a confident, lighthearted tone when describing the person (u027); no signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity by proposing multiple hypotheses about who the person is and engaging in observation (u027, u024)."
+  }
+}

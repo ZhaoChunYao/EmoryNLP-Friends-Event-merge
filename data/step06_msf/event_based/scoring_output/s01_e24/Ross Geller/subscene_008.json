@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is eager for Speaker_03 to meet TargetSpeaker's friends, can't wait for the meeting, and urges Speaker_03 to come along—showing social energy and initiative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes Speaker_03's bag to help and reassures that TargetSpeaker's friends are going to love Speaker_03—supportive and considerate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of planning or organization; actions are social and supportive rather than task-focused."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently reassures Speaker_03 that friends will love them and expresses eagerness, indicating security despite a brief hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or openness to new ideas; the exchange focuses on meeting friends."
+  }
+}

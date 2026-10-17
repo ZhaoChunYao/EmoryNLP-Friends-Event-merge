@@ -1,0 +1,19 @@
+Episode: s01_e02
+Scene: s01_e02_c07
+Subscene index for speaker: 005
+Main speaker: TargetSpeaker
+UID span: s01_e02_c07_u001 → s01_e02_c07_u006
+Peak window: 0 → 0
+
+Dialogue:
+  [s01_e02_c07_u001] TargetSpeaker: Barry?
+  [s01_e02_c07_u002]
+  1. Speaker_01 says TargetSpeaker should come into Speaker_01's office now.
+  [s01_e02_c07_u003]
+  1. TargetSpeaker asks whether Speaker_01 is sure about letting TargetSpeaker come into Speaker_01's office.
+  [s01_e02_c07_u004]
+  1. Speaker_01 says TargetSpeaker coming into Speaker_01's office is fine right now.
+  2. Speaker_01 says Speaker_02 will be at the office for hours.
+  [s01_e02_c07_u005] Speaker_02: Huh?!
+  [s01_e02_c07_u006]
+  1. Speaker_01 asks how TargetSpeaker is doing right now.

@@ -1,0 +1,56 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c04_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'we/(Monica Geller and Phoebe Buffay)', None, 's01_e11_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('debate', 'Congress', 'a new deficit reduction bill', 's01_e11_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('want', 'the mayor', 'to raise subway fares again', 's01_e11_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('raise', 'the mayor', 'subway fares', 's01_e11_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('be', 'the high today', 'forty-five', 's01_e11_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e6",
+          "tuples": [
+            "('play', 'teams', 'sports', 's01_e11_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c04_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/(unknown male)', 'a Glen', 's01_e11_c04_u003')"
+          ]
+        }
+      ]
+    }
+  ]
+}

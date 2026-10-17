@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker greets playfully (“Hello, funny Valentine”) and boldly says they are going to kiss Speaker_02 all over, showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses warmth and affection by stating they will kiss Speaker_02 all over; tone is friendly and straightforward."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or reliability is shown in the brief interaction."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "The confident, forward declaration of kissing shows comfort and lack of nervousness or sensitivity in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Playful phrasing alone does not clearly indicate curiosity or inventiveness."
+  }
+}

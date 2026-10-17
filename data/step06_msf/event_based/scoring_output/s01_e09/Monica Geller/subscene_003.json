@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge in the group: insists on handing over the mail, tells Speaker_04 to open it, announces the chip-in, and presents a prepared feast—assertive and socially active."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Organizes a group contribution to help Speaker_04 and prepares a personalized Thanksgiving meal for Speaker_05; helpful and straightforward."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Coordinates the chip-in, keeps track of who owes money ($20), manages the mail handoff, and prepares items in advance for the feast—shows planning and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure—corrects others (“No, here’s your mail”), directs actions, and handles logistics without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or novel ideas; follows established traditions rather than proposing new ones."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief status updates about the cooking and directs another person, but there’s no clear sign of being especially outgoing or of being reserved/withdrawn."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Tells Speaker_01 to get out of the way and to stop moping—brusque and unsympathetic."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Notes multiple dishes are underway (cider mulling, turkey and yams cooking) and says the food is looking good, indicating organized meal management."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently about the meal (“food is looking good”) and takes charge without showing worry or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of creativity or curiosity; comments focus on routine meal preparation."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks only to react with brief questions and exclamations; no clear outgoing or sociable behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Expresses surprise but not rudeness or generosity; no clear sign of (dis)agreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization or reliability is shown in these reactions."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows immediate distress and shock: 'Oh no.' and 'Speaker_03?! TargetSpeaker maid of honour, Speaker_03?!'"
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Reaction is purely shocked; no evidence of curiosity, open-mindedness, or inventiveness."
+  }
+}

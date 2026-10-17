@@ -1,0 +1,210 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u001_e1",
+          "tuples": [
+            "('love', 'I/Rachel Green', 'the moment when you first saw the giant dog shadow all over the park', 's01_e09_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u001_e2",
+          "tuples": [
+            "('see', 'you/Phoebe Buffay', 'the giant dog shadow', 's01_e09_c10_u001')",
+            "('see', 'you/Phoebe Buffay', 'all over the park', 's01_e09_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u002_e1",
+          "tuples": [
+            "('shoot', 'they', 'him down', 's01_e09_c10_u002')",
+            "('be', 'that', 'just mean', 's01_e09_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u003_e1",
+          "tuples": [
+            "('be', 'the turkey', 'crispy', 's01_e09_c10_u003')",
+            "('be', 'the turkey', 'juicy', 's01_e09_c10_u003')",
+            "('be', 'the turkey', 'on the outside', 's01_e09_c10_u003')",
+            "('be', 'the turkey', 'on the inside', 's01_e09_c10_u003')",
+            "('be', 'the turkey', 'about now', 's01_e09_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u003_e2",
+          "tuples": [
+            "('stand', 'we/(Monica Geller & Rachel Green & Phoebe Buffay)', None, 's01_e09_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u004_e1",
+          "tuples": [
+            "('wait', 'we/(Rachel Green & Phoebe Buffay)', 'for you to open the door', 's01_e09_c10_u004')",
+            "('wait', 'we/(Rachel Green & Phoebe Buffay)', 'for you', 's01_e09_c10_u004')",
+            "('open', 'you/Monica Geller', 'the door', 's01_e09_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u004_e2",
+          "tuples": [
+            "('get', 'you/Monica Geller', 'the keys', 's01_e09_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u005_e1",
+          "tuples": [
+            "('do', 'I/Monica Geller', None, 's01_e09_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u006_e1",
+          "tuples": [
+            "('do', 'you/Monica Geller', None, 's01_e09_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u006_e2",
+          "tuples": [
+            "('leave', 'we/(Rachel Green & Monica Geller)', None, 's01_e09_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u006_e3",
+          "tuples": [
+            "('say', 'you/Monica Geller', 'got the keys', 's01_e09_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u007_e1",
+          "tuples": [
+            "('do', 'I/Monica Geller', None, 's01_e09_c10_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u007_e2",
+          "tuples": [
+            "('ask', 'I/Monica Geller', 'got the ke-eys?', 's01_e09_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u009_e1",
+          "tuples": [
+            "('have', 'either of you/(Rachel Green or Monica Geller)', 'the keys', 's01_e09_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u010",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u010_e1",
+          "tuples": [
+            "('be', 'the oven', 'on', 's01_e09_c10_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u011_e1",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'my ticket', 's01_e09_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u012",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u012_e1",
+          "tuples": [
+            "('wait', 'you/(Rachel Green & Monica Geller)', None, 's01_e09_c10_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c10_u012_e2",
+          "tuples": [
+            "('have', 'we/(Joey Tribbiani & Chandler Bing)', 'a copy', 's01_e09_c10_u012')",
+            "('have', 'we/(Joey Tribbiani & Chandler Bing)', 'of your key', 's01_e09_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u013",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u013_e1",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'it', 's01_e09_c10_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u014",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u014_e1",
+          "tuples": [
+            "('make', 'that tone', 'me go any faster', 's01_e09_c10_u014')",
+            "('go', 'me/Joey Tribbiani', 'any faster', 's01_e09_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c10_u016",
+      "events": [
+        {
+          "event_id": "s01_e09_c10_u016_e1",
+          "tuples": [
+            "('will', 'that one', None, 's01_e09_c10_u016')"
+          ]
+        }
+      ]
+    }
+  ]
+}

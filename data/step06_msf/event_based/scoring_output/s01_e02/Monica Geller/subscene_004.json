@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes a few complaints in a group, but behavior is driven by anxiety rather than clear outgoing sociability; no strong signs of being talkative or energetic for social engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker complains that Speaker_02 and Speaker_03 favor Speaker_06, but there is no clear rudeness, deception, or uncooperativeness shown."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization or reliability; only emotional reactions are shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Others say TargetSpeaker is acting chaotic and twirly and is scaring them, and another tells TargetSpeaker to calm down; TargetSpeaker voices insecurity about favoritism toward Speaker_06."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, openness to new ideas, or dogmatism in the exchange."
+  }
+}

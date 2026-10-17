@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Besides a brief greeting (“Oh, Chandler, sorry! Hey, Janice.”), there’s no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She quickly apologizes and greets Janice politely, and she warns others about someone coming, showing consideration for others’ feelings and the situation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She anticipates a potential issue and proactively warns that someone is about to see Janice in the hallway, showing attentiveness and planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; her reactions are matter‑of‑fact."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "She behaves cautiously by warning that someone is coming and will see Janice in the hallway, indicating a preference for avoiding unexpected exposure."
+  }
+}

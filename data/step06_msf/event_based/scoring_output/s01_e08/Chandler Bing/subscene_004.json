@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Opens with a bold, friendly greeting (“Hey, gorgeous”) and talks comfortably about dating and being set up."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures Speaker_01 not to worry about yesterday’s incident and says others have made the same mistake, asking them to believe him."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No strong signs of organization or carelessness; aside from correcting that Speaker_02 is not Speaker_03, there’s little indicating this trait."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responds confidently when told someone is out of his league, asserting he could get someone like Speaker_03 and firmly stating he’s not gay."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Neutral—he’s open to being set up with someone like Speaker_03, but there’s no clear display of curiosity or rigidity."
+  }
+}

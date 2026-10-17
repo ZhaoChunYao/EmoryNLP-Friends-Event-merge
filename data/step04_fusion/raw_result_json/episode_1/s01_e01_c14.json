@@ -1,0 +1,539 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c14_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this', 'really necessary', 's01_e01_c14_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', None, 's01_e01_c14_u001')",
+            "('stop', 'I/Rachel Green', 'charging', 's01_e01_c14_u001')",
+            "('charge', 'I/Rachel Green', None, 's01_e01_c14_u001')",
+            "('want', 'I/Rachel Green', None, 's01_e01_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('live', 'you/Rachel Green', 'off your parents', 's01_e01_c14_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Rachel Green', 'that', 's01_e01_c14_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'That', 'why I was getting married', 's01_e01_c14_u003')",
+            "('marry', 'I/Rachel Green', None, 's01_e01_c14_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('give', 'you/Monica Geller', 'her a break', 's01_e01_c14_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it', 'hard being on your own for the first time', 's01_e01_c14_u004')",
+            "('be', 'you/Rachel Green', 'on your own', 's01_e01_c14_u004')",
+            "('be', 'you/Rachel Green', 'for the first time', 's01_e01_c14_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('thank', 'I/Rachel Green', 'you', 's01_e01_c14_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'welcome', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('remember', 'I/Phoebe Buffay', 'when I first came to this city', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('come', 'I/Phoebe Buffay', 'to this city', 's01_e01_c14_u006')",
+            "('be', 'I/Phoebe Buffay', 'fourteen', 's01_e01_c14_u006')",
+            "('get', 'I/Phoebe Buffay', 'here', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('kill', 'my mom', 'herself', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('be', 'my step-dad', 'back in prison', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'anybody', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('end', 'I/Phoebe Buffay', 'up living with this albino guy', 's01_e01_c14_u006')",
+            "('live', 'I/Phoebe Buffay', 'with this albino guy', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_8",
+          "tuples": [
+            "('clean', 'who/this albino guy', 'windshields', 's01_e01_c14_u006')",
+            "('clean', 'who/this albino guy', 'outside port authority', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_9",
+          "tuples": [
+            "('kill', 'he/this albino guy', 'himself', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_10",
+          "tuples": [
+            "('find', 'I/Phoebe Buffay', 'aromatherapy', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_11",
+          "tuples": [
+            "('believe', 'you/Rachel Green', 'me', 's01_e01_c14_u006')"
+          ]
+        },
+        {
+          "event_id": "event_12",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'exactly how you feel', 's01_e01_c14_u006')",
+            "('feel', 'you/Rachel Green', None, 's01_e01_c14_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Phoebe Buffay', 'for the word', 's01_e01_c14_u008')",
+            "('be', 'The word', \"'Anyway'\", 's01_e01_c14_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'ready', 's01_e01_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'not ready', 's01_e01_c14_u010')",
+            "('be', 'I/Rachel Green', 'ready', 's01_e01_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'ready to jump out of the airplane without your parachute', 's01_e01_c14_u010')",
+            "('jump', 'you/Rachel Green', 'out of the airplane', 's01_e01_c14_u010')",
+            "('jump', 'you/Rachel Green', 'without your parachute', 's01_e01_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('do', 'I/Rachel Green', 'this', 's01_e01_c14_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Monica Geller', 'you can', 's01_e01_c14_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Rachel Green', 'so', 's01_e01_c14_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('make', 'you/Rachel Green', 'coffee', 's01_e01_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('do', 'you/Rachel Green', 'anything', 's01_e01_c14_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('cut', 'you all/#ALL#', None, 's01_e01_c14_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/#ALL#', 'what', 's01_e01_c14_u016')",
+            "('think', 'I/Rachel Green', 'we can just leave it at that', 's01_e01_c14_u016')",
+            "('leave', 'we/Rachel Green+Monica Geller+Ross Geller+Phoebe Buffay+Chandler Bing', 'at that', 's01_e01_c14_u016')",
+            "('be', 'it/(the cutting)', 'like a symbolic gesture', 's01_e01_c14_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'That/(the card)', 'a library card', 's01_e01_c14_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/#ALL#', None, 's01_e01_c14_u019')",
+            "('listen', 'you/#ALL#', None, 's01_e01_c14_u019')",
+            "('hear', 'you/#ALL#', 'a thousand retailers scream', 's01_e01_c14_u019')",
+            "('scream', 'a thousand retailers', None, 's01_e01_c14_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('welcome', 'I/Monica Geller', 'you', 's01_e01_c14_u021')",
+            "('welcome', 'I/Monica Geller', 'to the real world', 's01_e01_c14_u021')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('suck', 'it/(the real world)', None, 's01_e01_c14_u021')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('love', 'you/Rachel Green', 'it', 's01_e01_c14_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u023",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'it', 's01_e01_c14_u023')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('crash', 'you/Ross Geller', 'on the couch', 's01_e01_c14_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'I/Ross Geller', 'home', 's01_e01_c14_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u025",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'okay', 's01_e01_c14_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u027",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Monica Geller', 'what I just found on the floor', 's01_e01_c14_u027')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('find', 'I/Rachel Green', 'on the floor', 's01_e01_c14_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u028",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', \"Paul's watch\", 's01_e01_c14_u028')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('put', 'you/Rachel Green', 'it back', 's01_e01_c14_u028')",
+            "('find', 'you/Rachel Green', 'it', 's01_e01_c14_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u033",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/Rachel Green', None, 's01_e01_c14_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u034",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Ross Geller', 'it', 's01_e01_c14_u034')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'it', 's01_e01_c14_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u035",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('split', 'you/Rachel Green', 'it', 's01_e01_c14_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u037",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Rachel Green', 'this', 's01_e01_c14_u037')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a major crush', 's01_e01_c14_u037')",
+            "('have', 'I/Ross Geller', 'on you', 's01_e01_c14_u037')",
+            "('have', 'I/Ross Geller', 'in high school', 's01_e01_c14_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u038",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e01_c14_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u039",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('figure', 'I/Ross Geller', \"you just thought I was Monica's geeky older brother\", 's01_e01_c14_u039')",
+            "('think', 'you/Rachel Green', \"I was Monica's geeky older brother\", 's01_e01_c14_u039')",
+            "('be', 'I/Ross Geller', \"Monica's geeky older brother\", 's01_e01_c14_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u041",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e01_c14_u041')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('try', 'you/Rachel Green', 'not to let my intense vulnerability become any kind of a factor here', 's01_e01_c14_u041')",
+            "('let', 'you/Rachel Green', 'my intense vulnerability', 's01_e01_c14_u041')",
+            "('become', 'my intense vulnerability', 'any kind of a factor', 's01_e01_c14_u041')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('think', 'you/Rachel Green', None, 's01_e01_c14_u041')",
+            "('think', 'you/Rachel Green', 'it would be okay if I asked you out', 's01_e01_c14_u041')",
+            "('be', 'it/(asking you out)', 'okay', 's01_e01_c14_u041')",
+            "('ask', 'I/Ross Geller', 'you out', 's01_e01_c14_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u047",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'I/Monica Geller', 'you', 's01_e01_c14_u047')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'what', 'with you', 's01_e01_c14_u047')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c14_u048",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('grab', 'I/Ross Geller', 'a spoon', 's01_e01_c14_u048')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "tuples": [
+    {
+      "verb": "wait",
+      "subject": "Car",
+      "object": null,
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "drop off these copies of my book for your friends",
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "drop off",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "these copies of my book",
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "drop off",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "for your friends",
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(Chandler Bing)",
+      "object": "anything",
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(Chandler Bing)",
+      "object": "from Lisbon",
+      "uid": "s01_e11_c11_u001"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Chandler Bing)",
+      "object": "you are gonna be there",
+      "uid": "s01_e11_c11_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Nora Tyler Bing)",
+      "object": "there",
+      "uid": "s01_e11_c11_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "knowing you are gonna be there",
+      "object": "enough",
+      "uid": "s01_e11_c11_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Chandler Bing)",
+      "object": "good",
+      "uid": "s01_e11_c11_u003"
+    },
+    {
+      "verb": "love",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "you",
+      "uid": "s01_e11_c11_u003"
+    },
+    {
+      "verb": "kiss",
+      "subject": "you/(Nora Tyler Bing)",
+      "object": "my best Ross",
+      "uid": "s01_e11_c11_u004"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the kiss)",
+      "object": "stupid",
+      "uid": "s01_e11_c11_u005"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "how it happened",
+      "uid": "s01_e11_c11_u007"
+    },
+    {
+      "verb": "happen",
+      "subject": "it/(the kiss)",
+      "object": null,
+      "uid": "s01_e11_c11_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "sorry",
+      "uid": "s01_e11_c11_u007"
+    },
+    {
+      "verb": "promise",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "it will never happen again",
+      "uid": "s01_e11_c11_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Nora Tyler Bing+Chandler Bing)",
+      "object": "okay",
+      "uid": "s01_e11_c11_u007"
+    },
+    {
+      "verb": "do",
+      "subject": "he/(Chandler Bing)",
+      "object": "it/(tell her off)",
+      "uid": "s01_e11_c11_u011"
+    },
+    {
+      "verb": "tell off",
+      "subject": "he/(Chandler Bing)",
+      "object": "her",
+      "uid": "s01_e11_c11_u011"
+    },
+    {
+      "verb": "tell",
+      "subject": "he/(Chandler Bing)",
+      "object": "about the kiss",
+      "uid": "s01_e11_c11_u011"
+    },
+    {
+      "verb": "tell",
+      "subject": "he/(Chandler Bing)",
+      "object": "about everything",
+      "uid": "s01_e11_c11_u011"
+    },
+    {
+      "verb": "kid",
+      "subject": "you/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e11_c11_u012"
+    },
+    {
+      "verb": "say",
+      "subject": "he/(Chandler Bing)",
+      "object": "\"When are you gonna grow up and start being a mom?\"",
+      "uid": "s01_e11_c11_u013"
+    },
+    {
+      "verb": "grow up",
+      "subject": "you/(Nora Tyler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u013"
+    },
+    {
+      "verb": "start",
+      "subject": "you/(Nora Tyler Bing)",
+      "object": "being a mom",
+      "uid": "s01_e11_c11_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Nora Tyler Bing)",
+      "object": "a mom",
+      "uid": "s01_e11_c11_u013"
+    },
+    {
+      "verb": "come back with",
+      "subject": "she/(Nora Tyler Bing)",
+      "object": "\"The question is, when are you gonna grow up and realise I have a bomb?\"",
+      "uid": "s01_e11_c11_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "the question",
+      "object": "when are you gonna grow up and realise I have a bomb",
+      "uid": "s01_e11_c11_u015"
+    },
+    {
+      "verb": "grow up",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u015"
+    },
+    {
+      "verb": "realise",
+      "subject": "you/(Chandler Bing)",
+      "object": "I have a bomb",
+      "uid": "s01_e11_c11_u015"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "a bomb",
+      "uid": "s01_e11_c11_u015"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "a minute",
+      "uid": "s01_e11_c11_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "sure",
+      "uid": "s01_e11_c11_u016"
+    },
+    {
+      "verb": "say",
+      "subject": "she/(Nora Tyler Bing)",
+      "object": "\"When are you gonna grow up and realise I am your mom?\"",
+      "uid": "s01_e11_c11_u016"
+    },
+    {
+      "verb": "realise",
+      "subject": "you/(Chandler Bing)",
+      "object": "I am your mom",
+      "uid": "s01_e11_c11_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Nora Tyler Bing)",
+      "object": "your mom",
+      "uid": "s01_e11_c11_u016"
+    },
+    {
+      "verb": "make",
+      "subject": "that/(the 'I am your mom' version)",
+      "object": "more sense",
+      "uid": "s01_e11_c11_u017"
+    },
+    {
+      "verb": "go on",
+      "subject": "what/(the situation now)",
+      "object": null,
+      "uid": "s01_e11_c11_u018"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "stand",
+      "subject": "I/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "spell out",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "it",
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "spell out",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "for you",
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "hear",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "anything",
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e11_c11_u019"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "what",
+      "uid": "s01_e11_c11_u020"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(Chandler Bing+Nora Tyler Bing)",
+      "object": "so tiny and upside-down",
+      "uid": "s01_e11_c11_u021"
+    },
+    {
+      "verb": "walk away",
+      "subject": "they/(Chandler Bing+Nora Tyler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u021"
+    },
+    {
+      "verb": "come",
+      "subject": "they/(Chandler Bing+Nora Tyler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u021"
+    },
+    {
+      "verb": "come",
+      "subject": "they/(Chandler Bing+Nora Tyler Bing)",
+      "object": "at us",
+      "uid": "s01_e11_c11_u021"
+    },
+    {
+      "verb": "run",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e11_c11_u021"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Chandler Bing)",
+      "object": "okay",
+      "uid": "s01_e11_c11_u023"
+    },
+    {
+      "verb": "mean",
+      "subject": "you/(Chandler Bing)",
+      "object": "that",
+      "uid": "s01_e11_c11_u033"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/(Chandler Bing)",
+      "object": "her",
+      "uid": "s01_e11_c11_u034"
+    },
+    {
+      "verb": "go",
+      "subject": "it/(the talk)",
+      "object": null,
+      "uid": "s01_e11_c11_u035"
+    },
+    {
+      "verb": "go",
+      "subject": "it/(the talk)",
+      "object": "worse",
+      "uid": "s01_e11_c11_u036"
+    },
+    {
+      "verb": "feel",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u037"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u039"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Ross kissing your mom)",
+      "object": "such a bad idea",
+      "uid": "s01_e11_c11_u039"
+    },
+    {
+      "verb": "kiss",
+      "subject": "me/(Ross Geller)",
+      "object": "your mom",
+      "uid": "s01_e11_c11_u039"
+    },
+    {
+      "verb": "go",
+      "subject": "we/(Ross Geller+Chandler Bing)",
+      "object": "down that road",
+      "uid": "s01_e11_c11_u039"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e11_c11_u039"
+    }
+  ]
+}

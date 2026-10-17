@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only brief, minimal replies (“Hi.” and “You too, sir.”) and does not engage further, indicating a reserved demeanor."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite greetings and respectful address (“You too, sir.”) show friendliness and consideration."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or unusual emotionality are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or rigidity are present."
+  }
+}

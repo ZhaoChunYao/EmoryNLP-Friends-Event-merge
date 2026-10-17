@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaker_01 says TargetSpeaker is hitting on Speaker_02; TargetSpeaker responds with a casual joke about a 'rule'—both indicate outgoing, flirtatious behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite it being Speaker_02's wedding day (noted by Speaker_01), TargetSpeaker is hitting on her, showing disregard for her situation and boundaries."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Flirting with someone on her wedding day and making a flippant 'rule or something' comment suggests careless, impulsive behavior rather than restraint or propriety."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently hitting on someone and joking about it shows no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, novelty-seeking, or dogmatism in the brief exchanges."
+  }
+}

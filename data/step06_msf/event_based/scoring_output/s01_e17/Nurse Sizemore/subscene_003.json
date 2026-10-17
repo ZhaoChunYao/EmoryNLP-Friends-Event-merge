@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives only a brief “Mmm hmmm” (u002) and otherwise speaks minimally; no clear sign of outgoing talkativeness or of being notably reserved beyond that."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker directly insults Speaker_02 by saying they are “that stupid” (u004), showing blunt, unkind behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Speaker_02 reports TargetSpeaker called earlier about needing the proper signature for the hospital admissions form (u003), indicating attention to required paperwork; TargetSpeaker also matter-of-factly clarifies insurance coverage (u007)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No concrete signs of anxiety or nervousness; the brief correction about insurance (u007) is calm, but evidence is not strong enough to conclude clear security or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No events indicate curiosity/inventiveness or dogmatism/caution in this exchange."
+  }
+}

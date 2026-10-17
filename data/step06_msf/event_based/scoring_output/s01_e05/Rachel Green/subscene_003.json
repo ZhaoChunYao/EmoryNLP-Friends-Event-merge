@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks up to say she was using the machine and that she saved it with her basket, but otherwise keeps responses brief; no clear sign of being either outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Addresses the other person politely (“excuse me”), explains without hostility, and later aligns with the other’s stance by accepting “no suds, no save.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "She tried to reserve the washer by placing her basket (shows some planning) but had not started the machine and did not secure it; organizational behavior is mixed."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows uncertainty (“What?”) and quickly defers by echoing “no suds, no save” instead of confidently maintaining her claim."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Unquestioningly repeats a rigid rule (“no suds, no save”) when challenged, rather than questioning or considering alternatives."
+  }
+}

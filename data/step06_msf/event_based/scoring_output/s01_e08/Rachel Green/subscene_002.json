@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the caller from Rome with energetic enthusiasm (“Oh my God! Calling from Rome! Bon giorno, caro mio”) and actively juggles multiple phone conversations."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Requests another person keep a call quick but shows no clear signs of warmth or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mentions another call and asks to keep it brief, but there’s no strong evidence of being particularly organized or careless."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of worry or irritability; tone is excited but not anxious."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses Italian phrases and shows excitement about an international call, indicating interest in other cultures/novelty."
+  }
+}

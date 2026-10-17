@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up to offer a card, openly states their strategy ('I'm going for fours'), and joins an enthusiastic 'OOooooo!' about the food—showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They try to give Speaker_02 the ten of spades simply because Speaker_02 needs it and they don't—clear generosity and willingness to help."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Despite being told specific requests/gifts aren't allowed, TargetSpeaker offers the card and then dismisses the rule as 'okay' since they don't need it—careless about rules/structure."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When corrected about the rules, TargetSpeaker stays relaxed and confident ('it's okay because I don't need...'), showing no anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from general enthusiasm for the food, there’s no concrete sign of curiosity or unconventional thinking strong enough to infer openness."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and energetic, urging immediate action: says now is when Speaker_01 should swoop in and actively directs how to proceed."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker makes a sarcastic jab at Speaker_01 (Olympic 'standing-there' team) and encourages a manipulative, opportunistic tactic right after a breakup."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers a clear, step-by-step plan: ensure that when Speaker_05 leaves, the first person Speaker_04 sees is Speaker_01."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks decisively and confidently (e.g., says Speaker_04 must know Speaker_01 is everything Speaker_05 is not) with no signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Provides tactical advice but shows no clear signs of curiosity or imaginative, unconventional thinking beyond pragmatic opportunism."
+  }
+}

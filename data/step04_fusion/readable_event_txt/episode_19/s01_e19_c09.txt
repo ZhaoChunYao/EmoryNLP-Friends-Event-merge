@@ -1,0 +1,57 @@
+event_id: s01_e19_c09_u001_e1
+utterance_id: s01_e19_c09_u001
+  tuple: ('be', 'This', 'me in The Sound of Music', 's01_e19_c09_u001')
+
+event_id: s01_e19_c09_u001_e2
+utterance_id: s01_e19_c09_u001
+  tuple: ('see', 'you/(Phoebe Buffay)', 'the von Trapp kids', 's01_e19_c09_u001')
+
+event_id: s01_e19_c09_u003_e1
+utterance_id: s01_e19_c09_u003
+  tuple: ('be', 'That', "because I'm in front of them", 's01_e19_c09_u003')
+  tuple: ('be', 'I/(Monica Geller)', 'in front of them', 's01_e19_c09_u003')
+
+event_id: s01_e19_c09_u004_e1
+utterance_id: s01_e19_c09_u004
+  tuple: ('think', 'I/(Chandler Bing)', 'that was an alp', 's01_e19_c09_u004')
+  tuple: ('be', 'that', 'an alp', 's01_e19_c09_u004')
+
+event_id: s01_e19_c09_u005_e1
+utterance_id: s01_e19_c09_u005
+  tuple: ('be', 'high school', 'not my favourite time', 's01_e19_c09_u005')
+
+event_id: s01_e19_c09_u006_e1
+utterance_id: s01_e19_c09_u006
+  tuple: ('know', 'I/(Joey Tribbiani)', None, 's01_e19_c09_u006')
+
+event_id: s01_e19_c09_u006_e2
+utterance_id: s01_e19_c09_u006
+  tuple: ('love', 'I/(Joey Tribbiani)', 'high school', 's01_e19_c09_u006')
+
+event_id: s01_e19_c09_u006_e3
+utterance_id: s01_e19_c09_u006
+  tuple: ('know', 'you/(Monica Geller)', None, 's01_e19_c09_u006')
+
+event_id: s01_e19_c09_u006_e4
+utterance_id: s01_e19_c09_u006
+  tuple: ('be', 'It/(high school)', 'just four years of parties and dating and sex', 's01_e19_c09_u006')
+
+event_id: s01_e19_c09_u007_e1
+utterance_id: s01_e19_c09_u007
+  tuple: ('go', 'I/(Chandler Bing)', None, 's01_e19_c09_u007')
+  tuple: ('go', 'I/(Chandler Bing)', 'to boarding school', 's01_e19_c09_u007')
+  tuple: ('go', 'I/(Chandler Bing)', 'with four hundred boys', 's01_e19_c09_u007')
+
+event_id: s01_e19_c09_u007_e2
+utterance_id: s01_e19_c09_u007
+  tuple: ('have', 'I/(Chandler Bing)', 'any sex', 's01_e19_c09_u007')
+  tuple: ('involve', 'Any sex I had', 'a major lifestyle choice', 's01_e19_c09_u007')
+
+event_id: s01_e19_c09_u008_e1
+utterance_id: s01_e19_c09_u008
+  tuple: ('seem', 'It/(high school)', 'like a million years ago', 's01_e19_c09_u008')
+
+event_id: s01_e19_c09_u009_e1
+utterance_id: s01_e19_c09_u009
+  tuple: ('wake up', 'My butt cheek', None, 's01_e19_c09_u009')
+

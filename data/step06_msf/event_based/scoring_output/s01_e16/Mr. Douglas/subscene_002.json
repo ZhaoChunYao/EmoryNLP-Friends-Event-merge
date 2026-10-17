@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and only in short responses (e.g., “Nina,” noting someone is still here), showing neither outgoing energy nor marked reserve."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They challenge the other speaker (“You’re kidding,” “That’s unbelievable”), but later say they understand the decision, indicating mixed agreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness is shown in the exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They downplay the situation (“she seems fine”), call the explanation unbelievable, and then calmly accept the decision—showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Initially dismisses an unusual claim as “unbelievable” (closed), but then reflects abstractly that people don’t really know others’ inner thoughts (open), resulting in mixed signals."
+  }
+}

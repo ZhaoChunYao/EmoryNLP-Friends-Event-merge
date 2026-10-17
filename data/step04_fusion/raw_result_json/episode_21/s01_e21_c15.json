@@ -1,0 +1,51 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c15_u001",
+      "events": [
+        {
+          "event_id": "s01_e21_c15_u001_e1",
+          "tuples": [
+            "('be', 'I/Actor', 'a glove', 's01_e21_c15_u001')",
+            "('be', 'I/Actor', 'upon that hand', 's01_e21_c15_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c15_u001_e2",
+          "tuples": [
+            "('touch', 'I/Actor', 'thy cheek', 's01_e21_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c15_u002",
+      "events": [
+        {
+          "event_id": "s01_e21_c15_u002_e1",
+          "tuples": [
+            "('be', \"That/(Actor's reading)\", 'fine', 's01_e21_c15_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c15_u002_e2",
+          "tuples": [
+            "('thank', 'I/Casting Director No. 1', 'you', 's01_e21_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c15_u004",
+      "events": [
+        {
+          "event_id": "s01_e21_c15_u004_e1",
+          "tuples": [
+            "('read', 'I/Joey Tribbiani', None, 's01_e21_c15_u004')",
+            "('read', 'I/Joey Tribbiani', 'for the role of Mercutio', 's01_e21_c15_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

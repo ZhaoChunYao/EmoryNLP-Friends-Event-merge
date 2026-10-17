@@ -1,0 +1,803 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e18,s01_e18_c01,Chandler Bing,0,10,18,9,19,3,s01_e18_c01_u010,s01_e18_c01_u025,"[s01_e18_c01_u010] Rachel Green: What?
+[s01_e18_c01_u011] Phoebe Buffay: : Your Visa bill is huge!
+[s01_e18_c01_u012] Rachel Green: Give me that!
+[s01_e18_c01_u013] Unknown Speaker: 
+[s01_e18_c01_u014] Chandler Bing: You know, I can't believe you. Linda is so great! Why won't you go out with her again?
+[s01_e18_c01_u015] Ross Geller: I don't know.
+[s01_e18_c01_u016] Chandler Bing: Is this still about her whole 'The Flintstones could've really happened' thing?
+[s01_e18_c01_u017] Ross Geller: No, it's not just that. It's justI want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh...
+[s01_e18_c01_u018] Chandler Bing: ...little playthings with yarn?
+[s01_e18_c01_u019] Ross Geller: What?
+[s01_e18_c01_u020] Chandler Bing: Could you want her more?
+[s01_e18_c01_u021] Ross Geller: Who?
+[s01_e18_c01_u022] Chandler Bing: Dee, the sarcastic sister from Whats Happening.
+[s01_e18_c01_u023] Ross Geller: Look, I am totally, totally over her, OK, I just... : Hiiii!
+[s01_e18_c01_u024] Rachel Green: Hi! How are you?
+[s01_e18_c01_u025] Ross Geller: We're fine, we're fine."
+s01_e18,s01_e18_c01,Chandler Bing,1,26,26,25,27,2,s01_e18_c01_u028,s01_e18_c01_u034,"[s01_e18_c01_u028] Joey Tribbiani: Shut up!
+[s01_e18_c01_u029] Chandler Bing: We're notwe're not saying anything.
+[s01_e18_c01_u030] Phoebe Buffay: What?
+[s01_e18_c01_u031] Ross Geller: Uhhhh... Joey cried last night.
+[s01_e18_c01_u032] Joey Tribbiani: Thank you.
+[s01_e18_c01_u033] Chandler Bing: We were playing poker, alright...
+[s01_e18_c01_u034] Joey Tribbiani: There was chocolate on the three. It looked like an eight, alright?"
+s01_e18,s01_e18_c01,Chandler Bing,2,29,30,28,31,2,s01_e18_c01_u031,s01_e18_c01_u038,"[s01_e18_c01_u031] Ross Geller: Uhhhh... Joey cried last night.
+[s01_e18_c01_u032] Joey Tribbiani: Thank you.
+[s01_e18_c01_u033] Chandler Bing: We were playing poker, alright...
+[s01_e18_c01_u034] Joey Tribbiani: There was chocolate on the three. It looked like an eight, alright?
+[s01_e18_c01_u035] Ross Geller: Oh, guys, you should've seen him. 'Read 'em and weep.'
+[s01_e18_c01_u036] Chandler Bing: And then he did.
+[s01_e18_c01_u037] Rachel Green: Well, now, how come you guys have never played poker with us?
+[s01_e18_c01_u038] Phoebe Buffay: Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?"
+s01_e18,s01_e18_c01,Joey Tribbiani,0,25,25,24,26,2,s01_e18_c01_u026,s01_e18_c01_u033,"[s01_e18_c01_u026] Rachel Green: OK.
+[s01_e18_c01_u027] Unknown Speaker: 
+[s01_e18_c01_u028] Joey Tribbiani: Shut up!
+[s01_e18_c01_u029] Chandler Bing: We're notwe're not saying anything.
+[s01_e18_c01_u030] Phoebe Buffay: What?
+[s01_e18_c01_u031] Ross Geller: Uhhhh... Joey cried last night.
+[s01_e18_c01_u032] Joey Tribbiani: Thank you.
+[s01_e18_c01_u033] Chandler Bing: We were playing poker, alright..."
+s01_e18,s01_e18_c01,Joey Tribbiani,1,27,29,26,30,2,s01_e18_c01_u029,s01_e18_c01_u037,"[s01_e18_c01_u029] Chandler Bing: We're notwe're not saying anything.
+[s01_e18_c01_u030] Phoebe Buffay: What?
+[s01_e18_c01_u031] Ross Geller: Uhhhh... Joey cried last night.
+[s01_e18_c01_u032] Joey Tribbiani: Thank you.
+[s01_e18_c01_u033] Chandler Bing: We were playing poker, alright...
+[s01_e18_c01_u034] Joey Tribbiani: There was chocolate on the three. It looked like an eight, alright?
+[s01_e18_c01_u035] Ross Geller: Oh, guys, you should've seen him. 'Read 'em and weep.'
+[s01_e18_c01_u036] Chandler Bing: And then he did.
+[s01_e18_c01_u037] Rachel Green: Well, now, how come you guys have never played poker with us?"
+s01_e18,s01_e18_c01,Monica Geller,0,0,0,0,1,2,s01_e18_c01_u001,s01_e18_c01_u006,"[s01_e18_c01_u001] Monica Geller: Hey, guys.
+[s01_e18_c01_u002] Chandler Bing, Ross Geller: Hey.
+[s01_e18_c01_u003] Rachel Green: Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?
+[s01_e18_c01_u004] Monica Geller: Lots of responses.
+[s01_e18_c01_u005] Rachel Green: : Really? : Sure, we have scones left! : OK, read them to me.
+[s01_e18_c01_u006] Phoebe Buffay: : Dear Ms. Green, thank you for your inquiry, however... oh..."
+s01_e18,s01_e18_c01,Monica Geller,1,3,3,2,4,2,s01_e18_c01_u003,s01_e18_c01_u009,"[s01_e18_c01_u003] Rachel Green: Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?
+[s01_e18_c01_u004] Monica Geller: Lots of responses.
+[s01_e18_c01_u005] Rachel Green: : Really? : Sure, we have scones left! : OK, read them to me.
+[s01_e18_c01_u006] Phoebe Buffay: : Dear Ms. Green, thank you for your inquiry, however... oh...
+[s01_e18_c01_u007] Rachel Green: : We have apple cinnamon...
+[s01_e18_c01_u008] Monica Geller: : OK... Dear Ms. Green... yeah... yeah... yeah... No.
+[s01_e18_c01_u009] Phoebe Buffay: Wow!"
+s01_e18,s01_e18_c01,Monica Geller,2,39,41,38,42,2,s01_e18_c01_u041,s01_e18_c01_u049,"[s01_e18_c01_u041] Chandler Bing: There just don't happen to be any women in our games.
+[s01_e18_c01_u042] Joey Tribbiani: Yeah, we just don't happen to know any women that know how to play poker.
+[s01_e18_c01_u043] Phoebe Buffay, Rachel Green, Monica Geller: Oh, yeah, right.
+[s01_e18_c01_u044] Monica Geller: Oh, please, that is such a lame excuse!
+[s01_e18_c01_u045] Rachel Green: Really.
+[s01_e18_c01_u046] Monica Geller: I mean, that's a typical guy response.
+[s01_e18_c01_u047] Ross Geller: Excuse me, do any of you know how to play?
+[s01_e18_c01_u048] Phoebe Buffay, Rachel Green, Monica Geller: No.
+[s01_e18_c01_u049] Rachel Green: But you could teach us."
+s01_e18,s01_e18_c01,Phoebe Buffay,0,4,8,3,9,2,s01_e18_c01_u004,s01_e18_c01_u015,"[s01_e18_c01_u004] Monica Geller: Lots of responses.
+[s01_e18_c01_u005] Rachel Green: : Really? : Sure, we have scones left! : OK, read them to me.
+[s01_e18_c01_u006] Phoebe Buffay: : Dear Ms. Green, thank you for your inquiry, however... oh...
+[s01_e18_c01_u007] Rachel Green: : We have apple cinnamon...
+[s01_e18_c01_u008] Monica Geller: : OK... Dear Ms. Green... yeah... yeah... yeah... No.
+[s01_e18_c01_u009] Phoebe Buffay: Wow!
+[s01_e18_c01_u010] Rachel Green: What?
+[s01_e18_c01_u011] Phoebe Buffay: : Your Visa bill is huge!
+[s01_e18_c01_u012] Rachel Green: Give me that!
+[s01_e18_c01_u013] Unknown Speaker: 
+[s01_e18_c01_u014] Chandler Bing: You know, I can't believe you. Linda is so great! Why won't you go out with her again?
+[s01_e18_c01_u015] Ross Geller: I don't know."
+s01_e18,s01_e18_c01,Phoebe Buffay,1,33,35,32,36,2,s01_e18_c01_u035,s01_e18_c01_u043,"[s01_e18_c01_u035] Ross Geller: Oh, guys, you should've seen him. 'Read 'em and weep.'
+[s01_e18_c01_u036] Chandler Bing: And then he did.
+[s01_e18_c01_u037] Rachel Green: Well, now, how come you guys have never played poker with us?
+[s01_e18_c01_u038] Phoebe Buffay: Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?
+[s01_e18_c01_u039] Ross Geller: No, women are welcome to play.
+[s01_e18_c01_u040] Phoebe Buffay: Oh, OK, so then what is it? Some kind of... you know, like, like... some kind of, y'know, like... alright, what is it?
+[s01_e18_c01_u041] Chandler Bing: There just don't happen to be any women in our games.
+[s01_e18_c01_u042] Joey Tribbiani: Yeah, we just don't happen to know any women that know how to play poker.
+[s01_e18_c01_u043] Phoebe Buffay, Rachel Green, Monica Geller: Oh, yeah, right."
+s01_e18,s01_e18_c01,Rachel Green,0,0,9,0,10,3,s01_e18_c01_u001,s01_e18_c01_u016,"[s01_e18_c01_u001] Monica Geller: Hey, guys.
+[s01_e18_c01_u002] Chandler Bing, Ross Geller: Hey.
+[s01_e18_c01_u003] Rachel Green: Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?
+[s01_e18_c01_u004] Monica Geller: Lots of responses.
+[s01_e18_c01_u005] Rachel Green: : Really? : Sure, we have scones left! : OK, read them to me.
+[s01_e18_c01_u006] Phoebe Buffay: : Dear Ms. Green, thank you for your inquiry, however... oh...
+[s01_e18_c01_u007] Rachel Green: : We have apple cinnamon...
+[s01_e18_c01_u008] Monica Geller: : OK... Dear Ms. Green... yeah... yeah... yeah... No.
+[s01_e18_c01_u009] Phoebe Buffay: Wow!
+[s01_e18_c01_u010] Rachel Green: What?
+[s01_e18_c01_u011] Phoebe Buffay: : Your Visa bill is huge!
+[s01_e18_c01_u012] Rachel Green: Give me that!
+[s01_e18_c01_u013] Unknown Speaker: 
+[s01_e18_c01_u014] Chandler Bing: You know, I can't believe you. Linda is so great! Why won't you go out with her again?
+[s01_e18_c01_u015] Ross Geller: I don't know.
+[s01_e18_c01_u016] Chandler Bing: Is this still about her whole 'The Flintstones could've really happened' thing?"
+s01_e18,s01_e18_c01,Rachel Green,1,20,22,19,23,2,s01_e18_c01_u021,s01_e18_c01_u030,"[s01_e18_c01_u021] Ross Geller: Who?
+[s01_e18_c01_u022] Chandler Bing: Dee, the sarcastic sister from Whats Happening.
+[s01_e18_c01_u023] Ross Geller: Look, I am totally, totally over her, OK, I just... : Hiiii!
+[s01_e18_c01_u024] Rachel Green: Hi! How are you?
+[s01_e18_c01_u025] Ross Geller: We're fine, we're fine.
+[s01_e18_c01_u026] Rachel Green: OK.
+[s01_e18_c01_u027] Unknown Speaker: 
+[s01_e18_c01_u028] Joey Tribbiani: Shut up!
+[s01_e18_c01_u029] Chandler Bing: We're notwe're not saying anything.
+[s01_e18_c01_u030] Phoebe Buffay: What?"
+s01_e18,s01_e18_c01,Rachel Green,2,42,42,41,43,2,s01_e18_c01_u044,s01_e18_c01_u050,"[s01_e18_c01_u044] Monica Geller: Oh, please, that is such a lame excuse!
+[s01_e18_c01_u045] Rachel Green: Really.
+[s01_e18_c01_u046] Monica Geller: I mean, that's a typical guy response.
+[s01_e18_c01_u047] Ross Geller: Excuse me, do any of you know how to play?
+[s01_e18_c01_u048] Phoebe Buffay, Rachel Green, Monica Geller: No.
+[s01_e18_c01_u049] Rachel Green: But you could teach us.
+[s01_e18_c01_u050] Guys: No."
+s01_e18,s01_e18_c01,Ross Geller,0,11,21,10,22,3,s01_e18_c01_u011,s01_e18_c01_u029,"[s01_e18_c01_u011] Phoebe Buffay: : Your Visa bill is huge!
+[s01_e18_c01_u012] Rachel Green: Give me that!
+[s01_e18_c01_u013] Unknown Speaker: 
+[s01_e18_c01_u014] Chandler Bing: You know, I can't believe you. Linda is so great! Why won't you go out with her again?
+[s01_e18_c01_u015] Ross Geller: I don't know.
+[s01_e18_c01_u016] Chandler Bing: Is this still about her whole 'The Flintstones could've really happened' thing?
+[s01_e18_c01_u017] Ross Geller: No, it's not just that. It's justI want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh...
+[s01_e18_c01_u018] Chandler Bing: ...little playthings with yarn?
+[s01_e18_c01_u019] Ross Geller: What?
+[s01_e18_c01_u020] Chandler Bing: Could you want her more?
+[s01_e18_c01_u021] Ross Geller: Who?
+[s01_e18_c01_u022] Chandler Bing: Dee, the sarcastic sister from Whats Happening.
+[s01_e18_c01_u023] Ross Geller: Look, I am totally, totally over her, OK, I just... : Hiiii!
+[s01_e18_c01_u024] Rachel Green: Hi! How are you?
+[s01_e18_c01_u025] Ross Geller: We're fine, we're fine.
+[s01_e18_c01_u026] Rachel Green: OK.
+[s01_e18_c01_u027] Unknown Speaker: 
+[s01_e18_c01_u028] Joey Tribbiani: Shut up!
+[s01_e18_c01_u029] Chandler Bing: We're notwe're not saying anything."
+s01_e18,s01_e18_c01,Ross Geller,1,28,28,27,29,2,s01_e18_c01_u030,s01_e18_c01_u036,"[s01_e18_c01_u030] Phoebe Buffay: What?
+[s01_e18_c01_u031] Ross Geller: Uhhhh... Joey cried last night.
+[s01_e18_c01_u032] Joey Tribbiani: Thank you.
+[s01_e18_c01_u033] Chandler Bing: We were playing poker, alright...
+[s01_e18_c01_u034] Joey Tribbiani: There was chocolate on the three. It looked like an eight, alright?
+[s01_e18_c01_u035] Ross Geller: Oh, guys, you should've seen him. 'Read 'em and weep.'
+[s01_e18_c01_u036] Chandler Bing: And then he did."
+s01_e18,s01_e18_c01,Ross Geller,2,32,32,31,33,2,s01_e18_c01_u034,s01_e18_c01_u040,"[s01_e18_c01_u034] Joey Tribbiani: There was chocolate on the three. It looked like an eight, alright?
+[s01_e18_c01_u035] Ross Geller: Oh, guys, you should've seen him. 'Read 'em and weep.'
+[s01_e18_c01_u036] Chandler Bing: And then he did.
+[s01_e18_c01_u037] Rachel Green: Well, now, how come you guys have never played poker with us?
+[s01_e18_c01_u038] Phoebe Buffay: Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?
+[s01_e18_c01_u039] Ross Geller: No, women are welcome to play.
+[s01_e18_c01_u040] Phoebe Buffay: Oh, OK, so then what is it? Some kind of... you know, like, like... some kind of, y'know, like... alright, what is it?"
+s01_e18,s01_e18_c02,Chandler Bing,0,0,0,0,1,2,s01_e18_c02_u001,s01_e18_c02_u007,"[s01_e18_c02_u001] Chandler Bing: OK, so now we draw cards.
+[s01_e18_c02_u002] Monica Geller: So I wouldn't need any, right? Cause I have a straight.
+[s01_e18_c02_u003] Rachel Green: Oh, good for you!
+[s01_e18_c02_u004] Phoebe Buffay: Congratulations!
+[s01_e18_c02_u005] Unknown Speaker: 
+[s01_e18_c02_u006] Chandler Bing: OK Phoebs, how many do you want?
+[s01_e18_c02_u007] Phoebe Buffay: OK, I just need two... the, um, ten of spades and the six of clubs."
+s01_e18,s01_e18_c02,Chandler Bing,1,14,14,13,15,2,s01_e18_c02_u016,s01_e18_c02_u023,"[s01_e18_c02_u016] Joey Tribbiani: Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...
+[s01_e18_c02_u017] Chandler Bing: OK, so at this point, the dealer...
+[s01_e18_c02_u018] Monica Geller: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...
+[s01_e18_c02_u019] Ross Geller: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...
+[s01_e18_c02_u020] Phoebe Buffay: But... I'm ready, so, just deal.
+[s01_e18_c02_u021] Chandler Bing: OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.
+[s01_e18_c02_u022] Unknown Speaker: 
+[s01_e18_c02_u023] Monica Geller: Dammit, dammit, dammit!"
+s01_e18,s01_e18_c02,Chandler Bing,2,25,27,24,28,2,s01_e18_c02_u028,s01_e18_c02_u036,"[s01_e18_c02_u028] Phoebe Buffay: A-ha! And... what is bluffing? Is it not another word for... lying?
+[s01_e18_c02_u029] Rachel Green: OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...
+[s01_e18_c02_u030] Guys: Whoa, whoa, whoa!
+[s01_e18_c02_u031] Chandler Bing: Rach, Rach, we gotta settle.
+[s01_e18_c02_u032] Rachel Green: Settle what?
+[s01_e18_c02_u033] Chandler Bing: The... Jamestown colony of Virginia. You see, King George is giving us the land, so...
+[s01_e18_c02_u034] Ross Geller: The game, Rachel, the game. You owe us money for the game.
+[s01_e18_c02_u035] Rachel Green: Oh. Right.
+[s01_e18_c02_u036] Joey Tribbiani: You know what, you guys? It's their first time, why don't we just forget about the money, alright?"
+s01_e18,s01_e18_c02,Joey Tribbiani,0,19,21,18,22,2,s01_e18_c02_u021,s01_e18_c02_u030,"[s01_e18_c02_u021] Chandler Bing: OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.
+[s01_e18_c02_u022] Unknown Speaker: 
+[s01_e18_c02_u023] Monica Geller: Dammit, dammit, dammit!
+[s01_e18_c02_u024] Phoebe Buffay: : Oh I see, so then, you were lying.
+[s01_e18_c02_u025] Joey Tribbiani: About what?
+[s01_e18_c02_u026] Phoebe Buffay: About how good your cards were.
+[s01_e18_c02_u027] Joey Tribbiani: Heh... I was bluffing.
+[s01_e18_c02_u028] Phoebe Buffay: A-ha! And... what is bluffing? Is it not another word for... lying?
+[s01_e18_c02_u029] Rachel Green: OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...
+[s01_e18_c02_u030] Guys: Whoa, whoa, whoa!"
+s01_e18,s01_e18_c02,Monica Geller,0,11,11,10,12,2,s01_e18_c02_u012,s01_e18_c02_u019,"[s01_e18_c02_u012] Ross Geller: Oh, you're...
+[s01_e18_c02_u013] Unknown Speaker: 
+[s01_e18_c02_u014] Monica Geller: Alright, here we go. We've got salmon roulettes and assorted crudites.
+[s01_e18_c02_u015] Phoebe Buffay, Rachel Green: OOooooo!
+[s01_e18_c02_u016] Joey Tribbiani: Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...
+[s01_e18_c02_u017] Chandler Bing: OK, so at this point, the dealer...
+[s01_e18_c02_u018] Monica Geller: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...
+[s01_e18_c02_u019] Ross Geller: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy..."
+s01_e18,s01_e18_c02,Monica Geller,1,15,15,14,16,2,s01_e18_c02_u017,s01_e18_c02_u024,"[s01_e18_c02_u017] Chandler Bing: OK, so at this point, the dealer...
+[s01_e18_c02_u018] Monica Geller: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...
+[s01_e18_c02_u019] Ross Geller: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...
+[s01_e18_c02_u020] Phoebe Buffay: But... I'm ready, so, just deal.
+[s01_e18_c02_u021] Chandler Bing: OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.
+[s01_e18_c02_u022] Unknown Speaker: 
+[s01_e18_c02_u023] Monica Geller: Dammit, dammit, dammit!
+[s01_e18_c02_u024] Phoebe Buffay: : Oh I see, so then, you were lying."
+s01_e18,s01_e18_c02,Monica Geller,2,31,33,30,34,2,s01_e18_c02_u034,s01_e18_c02_u042,"[s01_e18_c02_u034] Ross Geller: The game, Rachel, the game. You owe us money for the game.
+[s01_e18_c02_u035] Rachel Green: Oh. Right.
+[s01_e18_c02_u036] Joey Tribbiani: You know what, you guys? It's their first time, why don't we just forget about the money, alright?
+[s01_e18_c02_u037] Monica Geller: Hell no, we'll pay!
+[s01_e18_c02_u038] Phoebe Buffay: OK, Monica? I had another answer all ready.
+[s01_e18_c02_u039] Monica Geller: And you know what? We want a rematch.
+[s01_e18_c02_u040] Ross Geller: Well that's fine with me. Could use the money.
+[s01_e18_c02_u041] Rachel Green: : So basically, you get your ya-yas by taking money from all of your friends.
+[s01_e18_c02_u042] Ross Geller: ...Yeah."
+s01_e18,s01_e18_c02,Phoebe Buffay,0,1,3,0,4,2,s01_e18_c02_u001,s01_e18_c02_u010,"[s01_e18_c02_u001] Chandler Bing: OK, so now we draw cards.
+[s01_e18_c02_u002] Monica Geller: So I wouldn't need any, right? Cause I have a straight.
+[s01_e18_c02_u003] Rachel Green: Oh, good for you!
+[s01_e18_c02_u004] Phoebe Buffay: Congratulations!
+[s01_e18_c02_u005] Unknown Speaker: 
+[s01_e18_c02_u006] Chandler Bing: OK Phoebs, how many do you want?
+[s01_e18_c02_u007] Phoebe Buffay: OK, I just need two... the, um, ten of spades and the six of clubs.
+[s01_e18_c02_u008] Ross Geller: No. No, uh, Phoebs? You can'tyou can't do...
+[s01_e18_c02_u009] Rachel Green: Oh wait, I have the ten of spades! Here!
+[s01_e18_c02_u010] Ross Geller: No, no. Uh... no, see, uh, you-you can't do that."
+s01_e18,s01_e18_c02,Phoebe Buffay,1,16,22,15,23,3,s01_e18_c02_u018,s01_e18_c02_u031,"[s01_e18_c02_u018] Monica Geller: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...
+[s01_e18_c02_u019] Ross Geller: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...
+[s01_e18_c02_u020] Phoebe Buffay: But... I'm ready, so, just deal.
+[s01_e18_c02_u021] Chandler Bing: OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.
+[s01_e18_c02_u022] Unknown Speaker: 
+[s01_e18_c02_u023] Monica Geller: Dammit, dammit, dammit!
+[s01_e18_c02_u024] Phoebe Buffay: : Oh I see, so then, you were lying.
+[s01_e18_c02_u025] Joey Tribbiani: About what?
+[s01_e18_c02_u026] Phoebe Buffay: About how good your cards were.
+[s01_e18_c02_u027] Joey Tribbiani: Heh... I was bluffing.
+[s01_e18_c02_u028] Phoebe Buffay: A-ha! And... what is bluffing? Is it not another word for... lying?
+[s01_e18_c02_u029] Rachel Green: OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...
+[s01_e18_c02_u030] Guys: Whoa, whoa, whoa!
+[s01_e18_c02_u031] Chandler Bing: Rach, Rach, we gotta settle."
+s01_e18,s01_e18_c02,Rachel Green,0,5,7,4,8,2,s01_e18_c02_u006,s01_e18_c02_u015,"[s01_e18_c02_u006] Chandler Bing: OK Phoebs, how many do you want?
+[s01_e18_c02_u007] Phoebe Buffay: OK, I just need two... the, um, ten of spades and the six of clubs.
+[s01_e18_c02_u008] Ross Geller: No. No, uh, Phoebs? You can'tyou can't do...
+[s01_e18_c02_u009] Rachel Green: Oh wait, I have the ten of spades! Here!
+[s01_e18_c02_u010] Ross Geller: No, no. Uh... no, see, uh, you-you can't do that.
+[s01_e18_c02_u011] Rachel Green: Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours.
+[s01_e18_c02_u012] Ross Geller: Oh, you're...
+[s01_e18_c02_u013] Unknown Speaker: 
+[s01_e18_c02_u014] Monica Geller: Alright, here we go. We've got salmon roulettes and assorted crudites.
+[s01_e18_c02_u015] Phoebe Buffay, Rachel Green: OOooooo!"
+s01_e18,s01_e18_c02,Rachel Green,1,24,25,23,26,2,s01_e18_c02_u027,s01_e18_c02_u034,"[s01_e18_c02_u027] Joey Tribbiani: Heh... I was bluffing.
+[s01_e18_c02_u028] Phoebe Buffay: A-ha! And... what is bluffing? Is it not another word for... lying?
+[s01_e18_c02_u029] Rachel Green: OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...
+[s01_e18_c02_u030] Guys: Whoa, whoa, whoa!
+[s01_e18_c02_u031] Chandler Bing: Rach, Rach, we gotta settle.
+[s01_e18_c02_u032] Rachel Green: Settle what?
+[s01_e18_c02_u033] Chandler Bing: The... Jamestown colony of Virginia. You see, King George is giving us the land, so...
+[s01_e18_c02_u034] Ross Geller: The game, Rachel, the game. You owe us money for the game."
+s01_e18,s01_e18_c02,Rachel Green,2,27,28,26,29,2,s01_e18_c02_u030,s01_e18_c02_u037,"[s01_e18_c02_u030] Guys: Whoa, whoa, whoa!
+[s01_e18_c02_u031] Chandler Bing: Rach, Rach, we gotta settle.
+[s01_e18_c02_u032] Rachel Green: Settle what?
+[s01_e18_c02_u033] Chandler Bing: The... Jamestown colony of Virginia. You see, King George is giving us the land, so...
+[s01_e18_c02_u034] Ross Geller: The game, Rachel, the game. You owe us money for the game.
+[s01_e18_c02_u035] Rachel Green: Oh. Right.
+[s01_e18_c02_u036] Joey Tribbiani: You know what, you guys? It's their first time, why don't we just forget about the money, alright?
+[s01_e18_c02_u037] Monica Geller: Hell no, we'll pay!"
+s01_e18,s01_e18_c02,Ross Geller,0,4,8,3,9,3,s01_e18_c02_u004,s01_e18_c02_u016,"[s01_e18_c02_u004] Phoebe Buffay: Congratulations!
+[s01_e18_c02_u005] Unknown Speaker: 
+[s01_e18_c02_u006] Chandler Bing: OK Phoebs, how many do you want?
+[s01_e18_c02_u007] Phoebe Buffay: OK, I just need two... the, um, ten of spades and the six of clubs.
+[s01_e18_c02_u008] Ross Geller: No. No, uh, Phoebs? You can'tyou can't do...
+[s01_e18_c02_u009] Rachel Green: Oh wait, I have the ten of spades! Here!
+[s01_e18_c02_u010] Ross Geller: No, no. Uh... no, see, uh, you-you can't do that.
+[s01_e18_c02_u011] Rachel Green: Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours.
+[s01_e18_c02_u012] Ross Geller: Oh, you're...
+[s01_e18_c02_u013] Unknown Speaker: 
+[s01_e18_c02_u014] Monica Geller: Alright, here we go. We've got salmon roulettes and assorted crudites.
+[s01_e18_c02_u015] Phoebe Buffay, Rachel Green: OOooooo!
+[s01_e18_c02_u016] Joey Tribbiani: Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz..."
+s01_e18,s01_e18_c02,Ross Geller,1,34,38,33,38,3,s01_e18_c02_u037,s01_e18_c02_u046,"[s01_e18_c02_u037] Monica Geller: Hell no, we'll pay!
+[s01_e18_c02_u038] Phoebe Buffay: OK, Monica? I had another answer all ready.
+[s01_e18_c02_u039] Monica Geller: And you know what? We want a rematch.
+[s01_e18_c02_u040] Ross Geller: Well that's fine with me. Could use the money.
+[s01_e18_c02_u041] Rachel Green: : So basically, you get your ya-yas by taking money from all of your friends.
+[s01_e18_c02_u042] Ross Geller: ...Yeah.
+[s01_e18_c02_u043] Chandler Bing: Yes, and I get my ya-yas from Ikea. You have to put them together yourself, but they cost a little less.
+[s01_e18_c02_u044] Ross Geller: Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt...
+[s01_e18_c02_u045] Joey Tribbiani: ...Yeah?
+[s01_e18_c02_u046] Ross Geller: I'm not a nice guy."
+s01_e18,s01_e18_c03,Chandler Bing,0,0,1,0,2,2,s01_e18_c03_u001,s01_e18_c03_u007,"[s01_e18_c03_u001] Ross Geller: Alright boys, let's eat.
+[s01_e18_c03_u002] Chandler Bing: Oh, did you get that from the 'I Love Rachel' pizzeria?
+[s01_e18_c03_u003] Ross Geller: You still on that?
+[s01_e18_c03_u004] Chandler Bing: Oh, come on. What was with that whole Black Bart speech? : ""When I play poker, I'm not a nice guy!""
+[s01_e18_c03_u005] Ross Geller: You are way off, pal.
+[s01_e18_c03_u006] Joey Tribbiani: No, I don't think so, see Ross, because I think you love her.
+[s01_e18_c03_u007] Ross Geller: Um.... no. See, I might've had feelings for her at one timenot any more. I justI..."
+s01_e18,s01_e18_c03,Ross Geller,0,0,4,0,4,4,s01_e18_c03_u001,s01_e18_c03_u011,"[s01_e18_c03_u001] Ross Geller: Alright boys, let's eat.
+[s01_e18_c03_u002] Chandler Bing: Oh, did you get that from the 'I Love Rachel' pizzeria?
+[s01_e18_c03_u003] Ross Geller: You still on that?
+[s01_e18_c03_u004] Chandler Bing: Oh, come on. What was with that whole Black Bart speech? : ""When I play poker, I'm not a nice guy!""
+[s01_e18_c03_u005] Ross Geller: You are way off, pal.
+[s01_e18_c03_u006] Joey Tribbiani: No, I don't think so, see Ross, because I think you love her.
+[s01_e18_c03_u007] Ross Geller: Um.... no. See, I might've had feelings for her at one timenot any more. I justI...
+[s01_e18_c03_u008] Unknown Speaker: 
+[s01_e18_c03_u009] Ross Geller: Marcel! Where are you going with that disc?
+[s01_e18_c03_u010] Unknown Speaker: 
+[s01_e18_c03_u011] Ross Geller: You are not putting that on again! Marcel, OKif you press that button, you are in very, very big trouble."
+s01_e18,s01_e18_c04,Aunt Iris,0,16,16,15,17,2,s01_e18_c04_u017,s01_e18_c04_u023,"[s01_e18_c04_u017] Monica Geller: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!
+[s01_e18_c04_u018] Aunt Iris: Is Tony Randall dead?
+[s01_e18_c04_u019] Rachel Green: No.
+[s01_e18_c04_u020] Monica Geller: I don't think so.
+[s01_e18_c04_u021] Rachel Green: Why?
+[s01_e18_c04_u022] Aunt Iris: Well, he may be now, because I think I hit him with my car.
+[s01_e18_c04_u023] Monica Geller: What?"
+s01_e18,s01_e18_c04,Aunt Iris,1,20,20,19,21,2,s01_e18_c04_u021,s01_e18_c04_u027,"[s01_e18_c04_u021] Rachel Green: Why?
+[s01_e18_c04_u022] Aunt Iris: Well, he may be now, because I think I hit him with my car.
+[s01_e18_c04_u023] Monica Geller: What?
+[s01_e18_c04_u024] Rachel Green: Oh my God!
+[s01_e18_c04_u025] Monica Geller: Really?
+[s01_e18_c04_u026] Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.
+[s01_e18_c04_u027] Phoebe Buffay: Thank y..."
+s01_e18,s01_e18_c04,Aunt Iris,2,22,24,21,24,3,s01_e18_c04_u023,s01_e18_c04_u030,"[s01_e18_c04_u023] Monica Geller: What?
+[s01_e18_c04_u024] Rachel Green: Oh my God!
+[s01_e18_c04_u025] Monica Geller: Really?
+[s01_e18_c04_u026] Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.
+[s01_e18_c04_u027] Phoebe Buffay: Thank y...
+[s01_e18_c04_u028] Aunt Iris: Girls, sit down.
+[s01_e18_c04_u029] Monica Geller: Uh, Aunt Iris? This is Phoebe, and that's Rachel...
+[s01_e18_c04_u030] Aunt Iris: Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let's do it."
+s01_e18,s01_e18_c04,Monica Geller,0,0,15,0,16,3,s01_e18_c04_u001,s01_e18_c04_u022,"[s01_e18_c04_u001] Rachel Green: Can you believe what a jerk Ross was being?
+[s01_e18_c04_u002] Monica Geller: Yeah, I know. He can get really competitive.
+[s01_e18_c04_u003] Phoebe Buffay: Ha. Ha, ha.
+[s01_e18_c04_u004] Monica Geller: What?
+[s01_e18_c04_u005] Phoebe Buffay: Oh, hello, kettle? This is Monica. You're black.
+[s01_e18_c04_u006] Monica Geller: Please! I am not as bad as Ross.
+[s01_e18_c04_u007] Rachel Green: Oh, I beg to differ. The Pictionary incident?
+[s01_e18_c04_u008] Monica Geller: That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.
+[s01_e18_c04_u009] Rachel Green: Oooooh. : Oh! I got an interview! I got an interview!
+[s01_e18_c04_u010] Monica Geller: You're kidding! Where? Where?
+[s01_e18_c04_u011] Rachel Green: : Sak's... Fifth... Avenue.
+[s01_e18_c04_u012] Monica Geller: Oh, Rachel!
+[s01_e18_c04_u013] Phoebe Buffay: Oh, it's like the mother ship is calling you home.
+[s01_e18_c04_u014] Monica Geller: Well, what's the job?
+[s01_e18_c04_u015] Rachel Green: Assistant buyer. Oh! I would be shopping... for a living!
+[s01_e18_c04_u016] Unknown Speaker: 
+[s01_e18_c04_u017] Monica Geller: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!
+[s01_e18_c04_u018] Aunt Iris: Is Tony Randall dead?
+[s01_e18_c04_u019] Rachel Green: No.
+[s01_e18_c04_u020] Monica Geller: I don't think so.
+[s01_e18_c04_u021] Rachel Green: Why?
+[s01_e18_c04_u022] Aunt Iris: Well, he may be now, because I think I hit him with my car."
+s01_e18,s01_e18_c04,Monica Geller,1,17,21,16,22,2,s01_e18_c04_u018,s01_e18_c04_u028,"[s01_e18_c04_u018] Aunt Iris: Is Tony Randall dead?
+[s01_e18_c04_u019] Rachel Green: No.
+[s01_e18_c04_u020] Monica Geller: I don't think so.
+[s01_e18_c04_u021] Rachel Green: Why?
+[s01_e18_c04_u022] Aunt Iris: Well, he may be now, because I think I hit him with my car.
+[s01_e18_c04_u023] Monica Geller: What?
+[s01_e18_c04_u024] Rachel Green: Oh my God!
+[s01_e18_c04_u025] Monica Geller: Really?
+[s01_e18_c04_u026] Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.
+[s01_e18_c04_u027] Phoebe Buffay: Thank y...
+[s01_e18_c04_u028] Aunt Iris: Girls, sit down."
+s01_e18,s01_e18_c04,Monica Geller,2,23,23,22,24,2,s01_e18_c04_u024,s01_e18_c04_u030,"[s01_e18_c04_u024] Rachel Green: Oh my God!
+[s01_e18_c04_u025] Monica Geller: Really?
+[s01_e18_c04_u026] Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.
+[s01_e18_c04_u027] Phoebe Buffay: Thank y...
+[s01_e18_c04_u028] Aunt Iris: Girls, sit down.
+[s01_e18_c04_u029] Monica Geller: Uh, Aunt Iris? This is Phoebe, and that's Rachel...
+[s01_e18_c04_u030] Aunt Iris: Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let's do it."
+s01_e18,s01_e18_c04,Phoebe Buffay,0,0,2,0,3,2,s01_e18_c04_u001,s01_e18_c04_u008,"[s01_e18_c04_u001] Rachel Green: Can you believe what a jerk Ross was being?
+[s01_e18_c04_u002] Monica Geller: Yeah, I know. He can get really competitive.
+[s01_e18_c04_u003] Phoebe Buffay: Ha. Ha, ha.
+[s01_e18_c04_u004] Monica Geller: What?
+[s01_e18_c04_u005] Phoebe Buffay: Oh, hello, kettle? This is Monica. You're black.
+[s01_e18_c04_u006] Monica Geller: Please! I am not as bad as Ross.
+[s01_e18_c04_u007] Rachel Green: Oh, I beg to differ. The Pictionary incident?
+[s01_e18_c04_u008] Monica Geller: That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand."
+s01_e18,s01_e18_c04,Rachel Green,0,4,8,3,9,3,s01_e18_c04_u004,s01_e18_c04_u014,"[s01_e18_c04_u004] Monica Geller: What?
+[s01_e18_c04_u005] Phoebe Buffay: Oh, hello, kettle? This is Monica. You're black.
+[s01_e18_c04_u006] Monica Geller: Please! I am not as bad as Ross.
+[s01_e18_c04_u007] Rachel Green: Oh, I beg to differ. The Pictionary incident?
+[s01_e18_c04_u008] Monica Geller: That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.
+[s01_e18_c04_u009] Rachel Green: Oooooh. : Oh! I got an interview! I got an interview!
+[s01_e18_c04_u010] Monica Geller: You're kidding! Where? Where?
+[s01_e18_c04_u011] Rachel Green: : Sak's... Fifth... Avenue.
+[s01_e18_c04_u012] Monica Geller: Oh, Rachel!
+[s01_e18_c04_u013] Phoebe Buffay: Oh, it's like the mother ship is calling you home.
+[s01_e18_c04_u014] Monica Geller: Well, what's the job?"
+s01_e18,s01_e18_c04,Rachel Green,1,10,10,9,11,2,s01_e18_c04_u010,s01_e18_c04_u017,"[s01_e18_c04_u010] Monica Geller: You're kidding! Where? Where?
+[s01_e18_c04_u011] Rachel Green: : Sak's... Fifth... Avenue.
+[s01_e18_c04_u012] Monica Geller: Oh, Rachel!
+[s01_e18_c04_u013] Phoebe Buffay: Oh, it's like the mother ship is calling you home.
+[s01_e18_c04_u014] Monica Geller: Well, what's the job?
+[s01_e18_c04_u015] Rachel Green: Assistant buyer. Oh! I would be shopping... for a living!
+[s01_e18_c04_u016] Unknown Speaker: 
+[s01_e18_c04_u017] Monica Geller: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!"
+s01_e18,s01_e18_c04,Rachel Green,2,13,19,12,20,2,s01_e18_c04_u013,s01_e18_c04_u026,"[s01_e18_c04_u013] Phoebe Buffay: Oh, it's like the mother ship is calling you home.
+[s01_e18_c04_u014] Monica Geller: Well, what's the job?
+[s01_e18_c04_u015] Rachel Green: Assistant buyer. Oh! I would be shopping... for a living!
+[s01_e18_c04_u016] Unknown Speaker: 
+[s01_e18_c04_u017] Monica Geller: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!
+[s01_e18_c04_u018] Aunt Iris: Is Tony Randall dead?
+[s01_e18_c04_u019] Rachel Green: No.
+[s01_e18_c04_u020] Monica Geller: I don't think so.
+[s01_e18_c04_u021] Rachel Green: Why?
+[s01_e18_c04_u022] Aunt Iris: Well, he may be now, because I think I hit him with my car.
+[s01_e18_c04_u023] Monica Geller: What?
+[s01_e18_c04_u024] Rachel Green: Oh my God!
+[s01_e18_c04_u025] Monica Geller: Really?
+[s01_e18_c04_u026] Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings."
+s01_e18,s01_e18_c05,Monica Geller,0,8,9,7,10,2,s01_e18_c05_u010,s01_e18_c05_u019,"[s01_e18_c05_u010] Rachel Green: Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, andoh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!
+[s01_e18_c05_u011] #ALL#: That's great! That's wonderful!
+[s01_e18_c05_u012] Rachel Green: Oh God, oh, and then she told the funniest story...
+[s01_e18_c05_u013] Monica Geller: OK, great. You'll tell us and we'll laugh. Let's play poker.
+[s01_e18_c05_u014] Joey Tribbiani: Alright now listen, you guys, we talked about it, and if you don't want to play, we completely understand.
+[s01_e18_c05_u015] Chandler Bing: Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?
+[s01_e18_c05_u016] Unknown Speaker: 
+[s01_e18_c05_u017] Monica Geller: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?
+[s01_e18_c05_u018] Phoebe Buffay, Rachel Green: Yes, we should. I think we should.
+[s01_e18_c05_u019] Ross Geller: Uh, Rach, do you want me to shuffle those?"
+s01_e18,s01_e18_c05,Rachel Green,0,1,7,0,8,3,s01_e18_c05_u001,s01_e18_c05_u017,"[s01_e18_c05_u001] Phoebe Buffay: Ross, could we please, please, please listen to anything else?
+[s01_e18_c05_u002] Ross Geller: Alright.
+[s01_e18_c05_u003] Unknown Speaker: 
+[s01_e18_c05_u004] Ross Geller: I'm gonna pay for that tonight.
+[s01_e18_c05_u005] Unknown Speaker: 
+[s01_e18_c05_u006] Rachel Green: Hi!
+[s01_e18_c05_u007] Ross Geller: Hey.
+[s01_e18_c05_u008] Rachel Green: Guys! Guess what, guess what, guess what, guess what!
+[s01_e18_c05_u009] Chandler Bing: Um, ok... the... the fifth dentist caved and now they're all recommending Trident?
+[s01_e18_c05_u010] Rachel Green: Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, andoh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!
+[s01_e18_c05_u011] #ALL#: That's great! That's wonderful!
+[s01_e18_c05_u012] Rachel Green: Oh God, oh, and then she told the funniest story...
+[s01_e18_c05_u013] Monica Geller: OK, great. You'll tell us and we'll laugh. Let's play poker.
+[s01_e18_c05_u014] Joey Tribbiani: Alright now listen, you guys, we talked about it, and if you don't want to play, we completely understand.
+[s01_e18_c05_u015] Chandler Bing: Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?
+[s01_e18_c05_u016] Unknown Speaker: 
+[s01_e18_c05_u017] Monica Geller: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?"
+s01_e18,s01_e18_c05,Rachel Green,1,13,13,12,13,2,s01_e18_c05_u017,s01_e18_c05_u022,"[s01_e18_c05_u017] Monica Geller: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?
+[s01_e18_c05_u018] Phoebe Buffay, Rachel Green: Yes, we should. I think we should.
+[s01_e18_c05_u019] Ross Geller: Uh, Rach, do you want me to shuffle those?
+[s01_e18_c05_u020] Rachel Green: No, no, thats OK. Y'know, I think I'm gonna give it a go.
+[s01_e18_c05_u021] Ross Geller: Alright.
+[s01_e18_c05_u022] Rachel Green: Alright..."
+s01_e18,s01_e18_c05,Ross Geller,0,0,2,0,3,3,s01_e18_c05_u001,s01_e18_c05_u010,"[s01_e18_c05_u001] Phoebe Buffay: Ross, could we please, please, please listen to anything else?
+[s01_e18_c05_u002] Ross Geller: Alright.
+[s01_e18_c05_u003] Unknown Speaker: 
+[s01_e18_c05_u004] Ross Geller: I'm gonna pay for that tonight.
+[s01_e18_c05_u005] Unknown Speaker: 
+[s01_e18_c05_u006] Rachel Green: Hi!
+[s01_e18_c05_u007] Ross Geller: Hey.
+[s01_e18_c05_u008] Rachel Green: Guys! Guess what, guess what, guess what, guess what!
+[s01_e18_c05_u009] Chandler Bing: Um, ok... the... the fifth dentist caved and now they're all recommending Trident?
+[s01_e18_c05_u010] Rachel Green: Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, andoh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!"
+s01_e18,s01_e18_c05,Ross Geller,1,12,13,11,13,2,s01_e18_c05_u015,s01_e18_c05_u022,"[s01_e18_c05_u015] Chandler Bing: Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?
+[s01_e18_c05_u016] Unknown Speaker: 
+[s01_e18_c05_u017] Monica Geller: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?
+[s01_e18_c05_u018] Phoebe Buffay, Rachel Green: Yes, we should. I think we should.
+[s01_e18_c05_u019] Ross Geller: Uh, Rach, do you want me to shuffle those?
+[s01_e18_c05_u020] Rachel Green: No, no, thats OK. Y'know, I think I'm gonna give it a go.
+[s01_e18_c05_u021] Ross Geller: Alright.
+[s01_e18_c05_u022] Rachel Green: Alright..."
+s01_e18,s01_e18_c06,Joey Tribbiani,0,0,1,0,2,2,s01_e18_c06_u001,s01_e18_c06_u007,"[s01_e18_c06_u001] Ross Geller: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+[s01_e18_c06_u002] Joey Tribbiani: But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+[s01_e18_c06_u004] Joey Tribbiani: What?
+[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+[s01_e18_c06_u007] Ross Geller: Well, that just leaves the big Green poker machine, who owes fifteen..."
+s01_e18,s01_e18_c06,Phoebe Buffay,0,0,2,0,3,2,s01_e18_c06_u001,s01_e18_c06_u008,"[s01_e18_c06_u001] Ross Geller: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+[s01_e18_c06_u002] Joey Tribbiani: But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+[s01_e18_c06_u004] Joey Tribbiani: What?
+[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+[s01_e18_c06_u007] Ross Geller: Well, that just leaves the big Green poker machine, who owes fifteen...
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women."
+s01_e18,s01_e18_c06,Rachel Green,0,5,5,4,5,2,s01_e18_c06_u005,s01_e18_c06_u010,"[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+[s01_e18_c06_u007] Ross Geller: Well, that just leaves the big Green poker machine, who owes fifteen...
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+[s01_e18_c06_u010] Rachel Green: Hmm. Kinda stepped on my point there, Mon."
+s01_e18,s01_e18_c07,Chandler Bing,0,83,87,82,88,2,s01_e18_c07_u099,s01_e18_c07_u112,"[s01_e18_c07_u099] Phoebe Buffay: ...teen!
+[s01_e18_c07_u100] Unknown Speaker: 
+[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy.
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+[s01_e18_c07_u103] Unknown Speaker: 
+[s01_e18_c07_u104] Chandler Bing: : What do you need, what do you need?
+[s01_e18_c07_u105] Ross Geller: Fifteen.
+[s01_e18_c07_u106] Chandler Bing: Alright, here's ten.
+[s01_e18_c07_u107] Joey Tribbiani: Here, I got five, I got five.
+[s01_e18_c07_u108] Ross Geller: Thank you.
+[s01_e18_c07_u109] Chandler Bing: Good luck.
+[s01_e18_c07_u110] Ross Geller: : OK, I am calling your seventeen. What do you got?
+[s01_e18_c07_u111] Unknown Speaker: 
+[s01_e18_c07_u112] Rachel Green: Full house."
+s01_e18,s01_e18_c07,Joey Tribbiani,0,6,8,5,9,2,s01_e18_c07_u007,s01_e18_c07_u016,"[s01_e18_c07_u007] Ross Geller: Uh... to the bathroom.
+[s01_e18_c07_u008] Monica Geller: Do you want to go to the bathroom, or do you wanna play poker?
+[s01_e18_c07_u009] Ross Geller: I want to go to the bathroom.
+[s01_e18_c07_u010] Joey Tribbiani: Alright, well, I'm gonna order a pizza.
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+[s01_e18_c07_u012] Joey Tribbiani: That's fine. I'll just have a Tic-Tac to hold me over.
+[s01_e18_c07_u013] Monica Geller: Alright, Cincinnati, no blinds, everybody ante.
+[s01_e18_c07_u014] Phoebe Buffay: Yes! .... or no.
+[s01_e18_c07_u015] Unknown Speaker: 
+[s01_e18_c07_u016] Ross Geller: Alright. : Your money's mine, Green."
+s01_e18,s01_e18_c07,Joey Tribbiani,1,17,17,16,18,2,s01_e18_c07_u020,s01_e18_c07_u026,"[s01_e18_c07_u020] Chandler Bing: Hey, that's... that's 'joincidence' with a 'C'!
+[s01_e18_c07_u021] Joey Tribbiani: Uh... Phoebe? Phoebe?
+[s01_e18_c07_u022] Phoebe Buffay: Yeah. Um... I'm out.
+[s01_e18_c07_u023] Rachel Green: I'm in.
+[s01_e18_c07_u024] Monica Geller: Me too.
+[s01_e18_c07_u025] Joey Tribbiani: Me too. Alright, whattaya got.
+[s01_e18_c07_u026] Ross Geller: Well, you better hop outta the shower, cause... I gotta flush."
+s01_e18,s01_e18_c07,Joey Tribbiani,2,56,57,55,58,2,s01_e18_c07_u066,s01_e18_c07_u073,"[s01_e18_c07_u066] Phoebe Buffay: Y'know, there's gonna be lots of other stuff.
+[s01_e18_c07_u067] Rachel Green: Yeah... ....OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante.
+[s01_e18_c07_u068] Joey Tribbiani: Look, Rachel, we don't have to do this.
+[s01_e18_c07_u069] Rachel Green: Yes, we do.
+[s01_e18_c07_u070] Monica Geller: Alright, check.
+[s01_e18_c07_u071] Joey Tribbiani: Check.
+[s01_e18_c07_u072] Ross Geller: I'm in for fifty cents.
+[s01_e18_c07_u073] Chandler Bing: Call."
+s01_e18,s01_e18_c07,Joey Tribbiani,3,84,84,83,85,2,s01_e18_c07_u101,s01_e18_c07_u108,"[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy.
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+[s01_e18_c07_u103] Unknown Speaker: 
+[s01_e18_c07_u104] Chandler Bing: : What do you need, what do you need?
+[s01_e18_c07_u105] Ross Geller: Fifteen.
+[s01_e18_c07_u106] Chandler Bing: Alright, here's ten.
+[s01_e18_c07_u107] Joey Tribbiani: Here, I got five, I got five.
+[s01_e18_c07_u108] Ross Geller: Thank you."
+s01_e18,s01_e18_c07,Monica Geller,0,0,4,0,5,3,s01_e18_c07_u001,s01_e18_c07_u011,"[s01_e18_c07_u001] Ross Geller: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.
+[s01_e18_c07_u002] Rachel Green: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.
+[s01_e18_c07_u003] Monica Geller: OK, we done with the chit-chat? Are we ready to play some serious poker?
+[s01_e18_c07_u004] Phoebe Buffay: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.
+[s01_e18_c07_u005] Unknown Speaker: 
+[s01_e18_c07_u006] Monica Geller: Excuse me, where are you going?
+[s01_e18_c07_u007] Ross Geller: Uh... to the bathroom.
+[s01_e18_c07_u008] Monica Geller: Do you want to go to the bathroom, or do you wanna play poker?
+[s01_e18_c07_u009] Ross Geller: I want to go to the bathroom.
+[s01_e18_c07_u010] Joey Tribbiani: Alright, well, I'm gonna order a pizza.
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then."
+s01_e18,s01_e18_c07,Monica Geller,1,76,78,75,79,2,s01_e18_c07_u089,s01_e18_c07_u101,"[s01_e18_c07_u089] Rachel Green: OK... see your two... and I raise you twenty.
+[s01_e18_c07_u090] Ross Geller: I see your twenty, raise you twenty-five.
+[s01_e18_c07_u091] Unknown Speaker: 
+[s01_e18_c07_u092] Rachel Green: See your twenty-five...and...uh, Monica, get my purse.
+[s01_e18_c07_u093] Unknown Speaker: 
+[s01_e18_c07_u094] Monica Geller: Rachel, there's nothing in it.
+[s01_e18_c07_u095] Rachel Green: OK, then get me your purse.
+[s01_e18_c07_u096] Unknown Speaker: 
+[s01_e18_c07_u097] Monica Geller: OK, here you go. Good luck.
+[s01_e18_c07_u098] Rachel Green: : Thank you. : I saw your twenty-five, and I raise you... seven.
+[s01_e18_c07_u099] Phoebe Buffay: ...teen!
+[s01_e18_c07_u100] Unknown Speaker: 
+[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy."
+s01_e18,s01_e18_c07,Phoebe Buffay,0,11,12,10,13,2,s01_e18_c07_u012,s01_e18_c07_u021,"[s01_e18_c07_u012] Joey Tribbiani: That's fine. I'll just have a Tic-Tac to hold me over.
+[s01_e18_c07_u013] Monica Geller: Alright, Cincinnati, no blinds, everybody ante.
+[s01_e18_c07_u014] Phoebe Buffay: Yes! .... or no.
+[s01_e18_c07_u015] Unknown Speaker: 
+[s01_e18_c07_u016] Ross Geller: Alright. : Your money's mine, Green.
+[s01_e18_c07_u017] Rachel Green: Your fly is open, Geller.
+[s01_e18_c07_u018] Unknown Speaker: 
+[s01_e18_c07_u019] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+[s01_e18_c07_u020] Chandler Bing: Hey, that's... that's 'joincidence' with a 'C'!
+[s01_e18_c07_u021] Joey Tribbiani: Uh... Phoebe? Phoebe?"
+s01_e18,s01_e18_c07,Phoebe Buffay,1,14,15,13,16,2,s01_e18_c07_u016,s01_e18_c07_u024,"[s01_e18_c07_u016] Ross Geller: Alright. : Your money's mine, Green.
+[s01_e18_c07_u017] Rachel Green: Your fly is open, Geller.
+[s01_e18_c07_u018] Unknown Speaker: 
+[s01_e18_c07_u019] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+[s01_e18_c07_u020] Chandler Bing: Hey, that's... that's 'joincidence' with a 'C'!
+[s01_e18_c07_u021] Joey Tribbiani: Uh... Phoebe? Phoebe?
+[s01_e18_c07_u022] Phoebe Buffay: Yeah. Um... I'm out.
+[s01_e18_c07_u023] Rachel Green: I'm in.
+[s01_e18_c07_u024] Monica Geller: Me too."
+s01_e18,s01_e18_c07,Phoebe Buffay,2,25,33,24,34,3,s01_e18_c07_u029,s01_e18_c07_u046,"[s01_e18_c07_u029] Rachel Green: And your fly's still open...
+[s01_e18_c07_u030] Unknown Speaker: 
+[s01_e18_c07_u031] Rachel Green: Ha, I made you look....
+[s01_e18_c07_u032] Unknown Speaker: 
+[s01_e18_c07_u033] Rachel Green: I couldn't be inner. Monica?
+[s01_e18_c07_u034] Phoebe Buffay: Monica, in or out?
+[s01_e18_c07_u035] Monica Geller: I hate this game!
+[s01_e18_c07_u036] Unknown Speaker: 
+[s01_e18_c07_u037] Phoebe Buffay: OK Joey, your bet.
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.
+[s01_e18_c07_u039] Phoebe Buffay: Ross?
+[s01_e18_c07_u040] Ross Geller: Oh, I am very in.
+[s01_e18_c07_u041] Phoebe Buffay: Chandler?
+[s01_e18_c07_u042] Chandler Bing: Couldn't be more out.
+[s01_e18_c07_u043] Phoebe Buffay: Me too. Rachel.
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+[s01_e18_c07_u045] Ross Geller: No, not this time. So... what'd you have?
+[s01_e18_c07_u046] Rachel Green: I'm not telling."
+s01_e18,s01_e18_c07,Rachel Green,0,19,25,18,26,4,s01_e18_c07_u022,s01_e18_c07_u038,"[s01_e18_c07_u022] Phoebe Buffay: Yeah. Um... I'm out.
+[s01_e18_c07_u023] Rachel Green: I'm in.
+[s01_e18_c07_u024] Monica Geller: Me too.
+[s01_e18_c07_u025] Joey Tribbiani: Me too. Alright, whattaya got.
+[s01_e18_c07_u026] Ross Geller: Well, you better hop outta the shower, cause... I gotta flush.
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+[s01_e18_c07_u028] Unknown Speaker: 
+[s01_e18_c07_u029] Rachel Green: And your fly's still open...
+[s01_e18_c07_u030] Unknown Speaker: 
+[s01_e18_c07_u031] Rachel Green: Ha, I made you look....
+[s01_e18_c07_u032] Unknown Speaker: 
+[s01_e18_c07_u033] Rachel Green: I couldn't be inner. Monica?
+[s01_e18_c07_u034] Phoebe Buffay: Monica, in or out?
+[s01_e18_c07_u035] Monica Geller: I hate this game!
+[s01_e18_c07_u036] Unknown Speaker: 
+[s01_e18_c07_u037] Phoebe Buffay: OK Joey, your bet.
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out."
+s01_e18,s01_e18_c07,Rachel Green,1,34,42,33,43,3,s01_e18_c07_u041,s01_e18_c07_u056,"[s01_e18_c07_u041] Phoebe Buffay: Chandler?
+[s01_e18_c07_u042] Chandler Bing: Couldn't be more out.
+[s01_e18_c07_u043] Phoebe Buffay: Me too. Rachel.
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+[s01_e18_c07_u045] Ross Geller: No, not this time. So... what'd you have?
+[s01_e18_c07_u046] Rachel Green: I'm not telling.
+[s01_e18_c07_u047] Ross Geller: Come on, show them to me.
+[s01_e18_c07_u048] Rachel Green: No..!
+[s01_e18_c07_u049] Ross Geller: Show them to me!
+[s01_e18_c07_u050] Rachel Green: Get your hands out of there! No!
+[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants.
+[s01_e18_c07_u055] Unknown Speaker: 
+[s01_e18_c07_u056] Ross Geller: First of all, I'm not losing..."
+s01_e18,s01_e18_c07,Rachel Green,2,44,56,43,57,3,s01_e18_c07_u051,s01_e18_c07_u072,"[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants.
+[s01_e18_c07_u055] Unknown Speaker: 
+[s01_e18_c07_u056] Ross Geller: First of all, I'm not losing...
+[s01_e18_c07_u057] Rachel Green: Oh, you are losing. Definitely losing.
+[s01_e18_c07_u058] Ross Geller: Let's not talk about losing. Just deal the...
+[s01_e18_c07_u059] Rachel Green: Hel-lo, Rachel Green.
+[s01_e18_c07_u060] Ross Geller: Mee mee, mee-mee mee.
+[s01_e18_c07_u061] Rachel Green: Excuse me. It's about the job.
+[s01_e18_c07_u062] Unknown Speaker: 
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+[s01_e18_c07_u064] Unknown Speaker: 
+[s01_e18_c07_u065] Monica Geller: Sorry, Rach.
+[s01_e18_c07_u066] Phoebe Buffay: Y'know, there's gonna be lots of other stuff.
+[s01_e18_c07_u067] Rachel Green: Yeah... ....OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante.
+[s01_e18_c07_u068] Joey Tribbiani: Look, Rachel, we don't have to do this.
+[s01_e18_c07_u069] Rachel Green: Yes, we do.
+[s01_e18_c07_u070] Monica Geller: Alright, check.
+[s01_e18_c07_u071] Joey Tribbiani: Check.
+[s01_e18_c07_u072] Ross Geller: I'm in for fifty cents."
+s01_e18,s01_e18_c07,Rachel Green,3,62,79,61,80,3,s01_e18_c07_u072,s01_e18_c07_u102,"[s01_e18_c07_u072] Ross Geller: I'm in for fifty cents.
+[s01_e18_c07_u073] Chandler Bing: Call.
+[s01_e18_c07_u074] Phoebe Buffay: I'm in.
+[s01_e18_c07_u075] Rachel Green: I see your fifty cents... and I raise you... five dollars.
+[s01_e18_c07_u076] Ross Geller: I thought, uh... it was a fifty cent limit.
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+[s01_e18_c07_u078] Unknown Speaker: 
+[s01_e18_c07_u079] Rachel Green: : Loser?
+[s01_e18_c07_u080] Unknown Speaker: 
+[s01_e18_c07_u081] Ross Geller: No, I fold.
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+[s01_e18_c07_u083] Unknown Speaker: 
+[s01_e18_c07_u084] Ross Geller: I'm in.
+[s01_e18_c07_u085] Rachel Green: How many you want?
+[s01_e18_c07_u086] Ross Geller: One.
+[s01_e18_c07_u087] Rachel Green: Dealer takes two. What do you bet?
+[s01_e18_c07_u088] Ross Geller: I bet two dollars.
+[s01_e18_c07_u089] Rachel Green: OK... see your two... and I raise you twenty.
+[s01_e18_c07_u090] Ross Geller: I see your twenty, raise you twenty-five.
+[s01_e18_c07_u091] Unknown Speaker: 
+[s01_e18_c07_u092] Rachel Green: See your twenty-five...and...uh, Monica, get my purse.
+[s01_e18_c07_u093] Unknown Speaker: 
+[s01_e18_c07_u094] Monica Geller: Rachel, there's nothing in it.
+[s01_e18_c07_u095] Rachel Green: OK, then get me your purse.
+[s01_e18_c07_u096] Unknown Speaker: 
+[s01_e18_c07_u097] Monica Geller: OK, here you go. Good luck.
+[s01_e18_c07_u098] Rachel Green: : Thank you. : I saw your twenty-five, and I raise you... seven.
+[s01_e18_c07_u099] Phoebe Buffay: ...teen!
+[s01_e18_c07_u100] Unknown Speaker: 
+[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy.
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?"
+s01_e18,s01_e18_c07,Ross Geller,0,3,5,2,6,2,s01_e18_c07_u003,s01_e18_c07_u012,"[s01_e18_c07_u003] Monica Geller: OK, we done with the chit-chat? Are we ready to play some serious poker?
+[s01_e18_c07_u004] Phoebe Buffay: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.
+[s01_e18_c07_u005] Unknown Speaker: 
+[s01_e18_c07_u006] Monica Geller: Excuse me, where are you going?
+[s01_e18_c07_u007] Ross Geller: Uh... to the bathroom.
+[s01_e18_c07_u008] Monica Geller: Do you want to go to the bathroom, or do you wanna play poker?
+[s01_e18_c07_u009] Ross Geller: I want to go to the bathroom.
+[s01_e18_c07_u010] Joey Tribbiani: Alright, well, I'm gonna order a pizza.
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+[s01_e18_c07_u012] Joey Tribbiani: That's fine. I'll just have a Tic-Tac to hold me over."
+s01_e18,s01_e18_c07,Ross Geller,1,35,41,34,42,3,s01_e18_c07_u042,s01_e18_c07_u054,"[s01_e18_c07_u042] Chandler Bing: Couldn't be more out.
+[s01_e18_c07_u043] Phoebe Buffay: Me too. Rachel.
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+[s01_e18_c07_u045] Ross Geller: No, not this time. So... what'd you have?
+[s01_e18_c07_u046] Rachel Green: I'm not telling.
+[s01_e18_c07_u047] Ross Geller: Come on, show them to me.
+[s01_e18_c07_u048] Rachel Green: No..!
+[s01_e18_c07_u049] Ross Geller: Show them to me!
+[s01_e18_c07_u050] Rachel Green: Get your hands out of there! No!
+[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants."
+s01_e18,s01_e18_c07,Ross Geller,2,43,43,42,44,2,s01_e18_c07_u050,s01_e18_c07_u057,"[s01_e18_c07_u050] Rachel Green: Get your hands out of there! No!
+[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants.
+[s01_e18_c07_u055] Unknown Speaker: 
+[s01_e18_c07_u056] Ross Geller: First of all, I'm not losing...
+[s01_e18_c07_u057] Rachel Green: Oh, you are losing. Definitely losing."
+s01_e18,s01_e18_c07,Ross Geller,3,45,49,44,50,3,s01_e18_c07_u052,s01_e18_c07_u065,"[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants.
+[s01_e18_c07_u055] Unknown Speaker: 
+[s01_e18_c07_u056] Ross Geller: First of all, I'm not losing...
+[s01_e18_c07_u057] Rachel Green: Oh, you are losing. Definitely losing.
+[s01_e18_c07_u058] Ross Geller: Let's not talk about losing. Just deal the...
+[s01_e18_c07_u059] Rachel Green: Hel-lo, Rachel Green.
+[s01_e18_c07_u060] Ross Geller: Mee mee, mee-mee mee.
+[s01_e18_c07_u061] Rachel Green: Excuse me. It's about the job.
+[s01_e18_c07_u062] Unknown Speaker: 
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+[s01_e18_c07_u064] Unknown Speaker: 
+[s01_e18_c07_u065] Monica Geller: Sorry, Rach."
+s01_e18,s01_e18_c07,Ross Geller,4,61,61,60,62,2,s01_e18_c07_u071,s01_e18_c07_u077,"[s01_e18_c07_u071] Joey Tribbiani: Check.
+[s01_e18_c07_u072] Ross Geller: I'm in for fifty cents.
+[s01_e18_c07_u073] Chandler Bing: Call.
+[s01_e18_c07_u074] Phoebe Buffay: I'm in.
+[s01_e18_c07_u075] Rachel Green: I see your fifty cents... and I raise you... five dollars.
+[s01_e18_c07_u076] Ross Geller: I thought, uh... it was a fifty cent limit.
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?"
+s01_e18,s01_e18_c07,Ross Geller,5,64,74,63,75,3,s01_e18_c07_u074,s01_e18_c07_u095,"[s01_e18_c07_u074] Phoebe Buffay: I'm in.
+[s01_e18_c07_u075] Rachel Green: I see your fifty cents... and I raise you... five dollars.
+[s01_e18_c07_u076] Ross Geller: I thought, uh... it was a fifty cent limit.
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+[s01_e18_c07_u078] Unknown Speaker: 
+[s01_e18_c07_u079] Rachel Green: : Loser?
+[s01_e18_c07_u080] Unknown Speaker: 
+[s01_e18_c07_u081] Ross Geller: No, I fold.
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+[s01_e18_c07_u083] Unknown Speaker: 
+[s01_e18_c07_u084] Ross Geller: I'm in.
+[s01_e18_c07_u085] Rachel Green: How many you want?
+[s01_e18_c07_u086] Ross Geller: One.
+[s01_e18_c07_u087] Rachel Green: Dealer takes two. What do you bet?
+[s01_e18_c07_u088] Ross Geller: I bet two dollars.
+[s01_e18_c07_u089] Rachel Green: OK... see your two... and I raise you twenty.
+[s01_e18_c07_u090] Ross Geller: I see your twenty, raise you twenty-five.
+[s01_e18_c07_u091] Unknown Speaker: 
+[s01_e18_c07_u092] Rachel Green: See your twenty-five...and...uh, Monica, get my purse.
+[s01_e18_c07_u093] Unknown Speaker: 
+[s01_e18_c07_u094] Monica Geller: Rachel, there's nothing in it.
+[s01_e18_c07_u095] Rachel Green: OK, then get me your purse."
+s01_e18,s01_e18_c07,Ross Geller,6,82,83,81,84,2,s01_e18_c07_u098,s01_e18_c07_u107,"[s01_e18_c07_u098] Rachel Green: : Thank you. : I saw your twenty-five, and I raise you... seven.
+[s01_e18_c07_u099] Phoebe Buffay: ...teen!
+[s01_e18_c07_u100] Unknown Speaker: 
+[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy.
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+[s01_e18_c07_u103] Unknown Speaker: 
+[s01_e18_c07_u104] Chandler Bing: : What do you need, what do you need?
+[s01_e18_c07_u105] Ross Geller: Fifteen.
+[s01_e18_c07_u106] Chandler Bing: Alright, here's ten.
+[s01_e18_c07_u107] Joey Tribbiani: Here, I got five, I got five."
+s01_e18,s01_e18_c07,Ross Geller,7,85,92,84,92,3,s01_e18_c07_u102,s01_e18_c07_u118,"[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+[s01_e18_c07_u103] Unknown Speaker: 
+[s01_e18_c07_u104] Chandler Bing: : What do you need, what do you need?
+[s01_e18_c07_u105] Ross Geller: Fifteen.
+[s01_e18_c07_u106] Chandler Bing: Alright, here's ten.
+[s01_e18_c07_u107] Joey Tribbiani: Here, I got five, I got five.
+[s01_e18_c07_u108] Ross Geller: Thank you.
+[s01_e18_c07_u109] Chandler Bing: Good luck.
+[s01_e18_c07_u110] Ross Geller: : OK, I am calling your seventeen. What do you got?
+[s01_e18_c07_u111] Unknown Speaker: 
+[s01_e18_c07_u112] Rachel Green: Full house.
+[s01_e18_c07_u113] Unknown Speaker: 
+[s01_e18_c07_u114] Ross Geller: You got me.
+[s01_e18_c07_u115] Unknown Speaker: 
+[s01_e18_c07_u116] Joey Tribbiani: : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+[s01_e18_c07_u117] Chandler Bing: : I thought we had them!
+[s01_e18_c07_u118] Ross Geller: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is."
+s01_e18,s01_e18_c08,Phoebe Buffay,0,1,4,0,5,2,s01_e18_c08_u001,s01_e18_c08_u015,"[s01_e18_c08_u001] Chandler Bing: Airplane! Airport! Airport '75! Airport '77! Airport '79!
+[s01_e18_c08_u002] Unknown Speaker: 
+[s01_e18_c08_u003] Rachel Green: Oh, time's up.
+[s01_e18_c08_u004] Monica Geller: Bye... bye... BIRDIE.
+[s01_e18_c08_u005] Joey Tribbiani: Oh!
+[s01_e18_c08_u006] Phoebe Buffay: That's a bird?
+[s01_e18_c08_u007] Unknown Speaker: 
+[s01_e18_c08_u008] Phoebe Buffay: That's a bird!
+[s01_e18_c08_u009] Unknown Speaker: 
+[s01_e18_c08_u010] Rachel Green: OK, OK, it's my turn.
+[s01_e18_c08_u011] Chandler Bing: Go.
+[s01_e18_c08_u012] Unknown Speaker: 
+[s01_e18_c08_u013] Ross Geller: Uh.... bean! Bean!
+[s01_e18_c08_u014] Unknown Speaker: 
+[s01_e18_c08_u015] Joey Tribbiani: The Unbearable Likeness of Being!"
+s01_e18,s01_e18_c08,Rachel Green,0,6,6,5,7,2,s01_e18_c08_u008,s01_e18_c08_u017,"[s01_e18_c08_u008] Phoebe Buffay: That's a bird!
+[s01_e18_c08_u009] Unknown Speaker: 
+[s01_e18_c08_u010] Rachel Green: OK, OK, it's my turn.
+[s01_e18_c08_u011] Chandler Bing: Go.
+[s01_e18_c08_u012] Unknown Speaker: 
+[s01_e18_c08_u013] Ross Geller: Uh.... bean! Bean!
+[s01_e18_c08_u014] Unknown Speaker: 
+[s01_e18_c08_u015] Joey Tribbiani: The Unbearable Likeness of Being!
+[s01_e18_c08_u016] Rachel Green: Yes!
+[s01_e18_c08_u017] Monica Geller: That, you get? That, you get?"

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Provides only brief factual updates (that Speaker_04 is on TV now and was arrested), without sociable or energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Communicates information plainly and directly, offering straightforward facts without sarcasm or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating planning, diligence, or organization—just immediate reporting of what is on TV."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no signs of anxiety, worry, or emotional volatility; tone is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No display of curiosity, imagination, or exploration of ideas; statements are purely factual."
+  }
+}

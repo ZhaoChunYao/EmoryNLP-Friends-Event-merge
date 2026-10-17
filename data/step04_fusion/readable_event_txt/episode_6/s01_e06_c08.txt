@@ -1,0 +1,204 @@
+event_id: s01_e06_c08_u001_e1
+utterance_id: s01_e06_c08_u001
+  tuple: ('look', 'you/(Chandler Bing)', 'at it', 's01_e06_c08_u001')
+
+event_id: s01_e06_c08_u001_e2
+utterance_id: s01_e06_c08_u001
+  tuple: ('dump', 'you/(Chandler Bing)', 'her', 's01_e06_c08_u001')
+  tuple: ('do', 'you/(Chandler Bing)', 'this', 's01_e06_c08_u001')
+
+event_id: s01_e06_c08_u001_e3
+utterance_id: s01_e06_c08_u001
+  tuple: ('be', 'this woman', 'unbelievably sexy and beautiful and intelligent and unattainable', 's01_e06_c08_u001')
+
+event_id: s01_e06_c08_u001_e4
+utterance_id: s01_e06_c08_u001
+  tuple: ('tell', 'you/(Chandler Bing)', 'me', 's01_e06_c08_u001')
+
+event_id: s01_e06_c08_u004_e1
+utterance_id: s01_e06_c08_u004
+  tuple: ('wait', 'you/(Joey Tribbiani)', None, 's01_e06_c08_u004')
+
+event_id: s01_e06_c08_u004_e2
+utterance_id: s01_e06_c08_u004
+  tuple: ('be', 'you/(Joey Tribbiani)', 'the guy', 's01_e06_c08_u004')
+  tuple: ('play', 'the guy', 'the butt', 's01_e06_c08_u004')
+  tuple: ('play', 'the guy', 'in the new Al Pacino movie', 's01_e06_c08_u004')
+
+event_id: s01_e06_c08_u006_e1
+utterance_id: s01_e06_c08_u006
+  tuple: ('happen', 'what/(event)', None, 's01_e06_c08_u006')
+
+event_id: s01_e06_c08_u008_e1
+utterance_id: s01_e06_c08_u008
+  tuple: ('feel', 'it/(the moment)', "like a 'big guy' moment", 's01_e06_c08_u008')
+
+event_id: s01_e06_c08_u009_e1
+utterance_id: s01_e06_c08_u009
+  tuple: ('get', 'I/(Joey Tribbiani)', 'fired', 's01_e06_c08_u009')
+
+event_id: s01_e06_c08_u011_e1
+utterance_id: s01_e06_c08_u011
+  tuple: ('say', 'they/(the filmmakers)', 'I acted too much with it', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u011_e2
+utterance_id: s01_e06_c08_u011
+  tuple: ('act', 'I/(Joey Tribbiani)', 'with it', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u011_e3
+utterance_id: s01_e06_c08_u011
+  tuple: ('tell', 'I/(Joey Tribbiani)', 'everybody', 's01_e06_c08_u011')
+  tuple: ('tell', 'I/(Joey Tribbiani)', 'about this', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u011_e4
+utterance_id: s01_e06_c08_u011
+  tuple: ('go', 'everybody', 'to the theatre', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u011_e5
+utterance_id: s01_e06_c08_u011
+  tuple: ('expect', 'everybody', 'to see me', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u011_e6
+utterance_id: s01_e06_c08_u011
+  tuple: ('see', 'everybody', 'me', 's01_e06_c08_u011')
+
+event_id: s01_e06_c08_u012_e1
+utterance_id: s01_e06_c08_u012
+  tuple: ('know', 'you/(Joey Tribbiani)', 'what', 's01_e06_c08_u012')
+
+event_id: s01_e06_c08_u012_e2
+utterance_id: s01_e06_c08_u012
+  tuple: ('be', 'no-one', 'able to tell', 's01_e06_c08_u012')
+  tuple: ('tell', 'no-one', None, 's01_e06_c08_u012')
+
+event_id: s01_e06_c08_u015_e1
+utterance_id: s01_e06_c08_u015
+  tuple: ('know', 'you/(everyone)', None, 's01_e06_c08_u015')
+
+event_id: s01_e06_c08_u015_e2
+utterance_id: s01_e06_c08_u015
+  tuple: ('do', 'I/(Joey Tribbiani)', 'nothing but crappy plays', 's01_e06_c08_u015')
+  tuple: ('do', 'I/(Joey Tribbiani)', 'for six years', 's01_e06_c08_u015')
+
+event_id: s01_e06_c08_u015_e3
+utterance_id: s01_e06_c08_u015
+  tuple: ('get', 'I/(Joey Tribbiani)', 'my shot', 's01_e06_c08_u015')
+
+event_id: s01_e06_c08_u015_e4
+utterance_id: s01_e06_c08_u015
+  tuple: ('blow', 'I/(Joey Tribbiani)', 'it', 's01_e06_c08_u015')
+
+event_id: s01_e06_c08_u016_e1
+utterance_id: s01_e06_c08_u016
+  tuple: ('be', 'this/(this opportunity)', 'your shot', 's01_e06_c08_u016')
+
+event_id: s01_e06_c08_u017_e1
+utterance_id: s01_e06_c08_u017
+  tuple: ('mean', 'I/(Ross Geller)', None, 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u017_e2
+utterance_id: s01_e06_c08_u017
+  tuple: ('think', 'I/(Ross Geller)', None, 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u017_e3
+utterance_id: s01_e06_c08_u017
+  tuple: ('be', 'it/(the experience)', 'your shot', 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u017_e4
+utterance_id: s01_e06_c08_u017
+  tuple: ('know', 'you/(Joey Tribbiani)', None, 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u017_e5
+utterance_id: s01_e06_c08_u017
+  tuple: ('know', 'you/(Joey Tribbiani)', "it's your shot", 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u017_e6
+utterance_id: s01_e06_c08_u017
+  tuple: ('feel', 'it/(the experience)', 'like your shot', 's01_e06_c08_u017')
+
+event_id: s01_e06_c08_u018_e1
+utterance_id: s01_e06_c08_u018
+  tuple: ('tell', 'it/(the situation)', None, 's01_e06_c08_u018')
+
+event_id: s01_e06_c08_u018_e2
+utterance_id: s01_e06_c08_u018
+  tuple: ('be', 'I/(Joey Tribbiani)', 'naked', 's01_e06_c08_u018')
+
+event_id: s01_e06_c08_u019_e1
+utterance_id: s01_e06_c08_u019
+  tuple: ('think', 'I/(Phoebe Buffay)', 'this was your shot', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e2
+utterance_id: s01_e06_c08_u019
+  tuple: ('be', 'this/(this opportunity)', 'your shot', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e3
+utterance_id: s01_e06_c08_u019
+  tuple: ('mean', 'I/(Phoebe Buffay)', None, 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e4
+utterance_id: s01_e06_c08_u019
+  tuple: ('think', 'I/(Phoebe Buffay)', 'you just get one shot', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e5
+utterance_id: s01_e06_c08_u019
+  tuple: ('get', 'you/(Joey Tribbiani)', 'one shot', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e6
+utterance_id: s01_e06_c08_u019
+  tuple: ('believe', 'I/(Phoebe Buffay)', 'big things are gonna happen for you', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e7
+utterance_id: s01_e06_c08_u019
+  tuple: ('happen', 'big things', 'for you', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e8
+utterance_id: s01_e06_c08_u019
+  tuple: ('keep', 'you/(Joey Tribbiani)', 'thinking', 's01_e06_c08_u019')
+  tuple: ('think', 'you/(Joey Tribbiani)', 'about the day', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e9
+utterance_id: s01_e06_c08_u019
+  tuple: ('run', 'some kid', 'up to his friends', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e10
+utterance_id: s01_e06_c08_u019
+  tuple: ('go', 'some kid', None, 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e11
+utterance_id: s01_e06_c08_u019
+  tuple: ('get', 'I/(some kid)', 'the part', 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u019_e12
+utterance_id: s01_e06_c08_u019
+  tuple: ('be', "I/(some kid)", "Joey Tribbiani's ass", 's01_e06_c08_u019')
+
+event_id: s01_e06_c08_u020_e1
+utterance_id: s01_e06_c08_u020
+  tuple: ('be', 'that/(what Phoebe said)', 'so nice', 's01_e06_c08_u020')
+
+event_id: s01_e06_c08_u022_e1
+utterance_id: s01_e06_c08_u022
+  tuple: ('be', 'I/(Monica Geller)', 'sorry', 's01_e06_c08_u022')
+
+event_id: s01_e06_c08_u022_e2
+utterance_id: s01_e06_c08_u022
+  tuple: ('go', 'I/(Monica Geller)', 'to bed', 's01_e06_c08_u022')
+
+event_id: s01_e06_c08_u024_e1
+utterance_id: s01_e06_c08_u024
+  tuple: ('leave', 'you/(Monica Geller)', 'your shoes', 's01_e06_c08_u024')
+  tuple: ('leave', 'you/(Monica Geller)', 'out here', 's01_e06_c08_u024')
+
+event_id: s01_e06_c08_u027_e1
+utterance_id: s01_e06_c08_u027
+  tuple: ('matter', 'it/(this)', None, 's01_e06_c08_u027')
+
+event_id: s01_e06_c08_u027_e2
+utterance_id: s01_e06_c08_u027
+  tuple: ("get", 'I/(Monica Geller)', "'em", 's01_e06_c08_u027')
+
+event_id: s01_e06_c08_u028_e1
+utterance_id: s01_e06_c08_u028
+  tuple: ('be', 'she/(Monica Geller)', 'a kook', 's01_e06_c08_u028')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and repeatedly shares information about others’ Thanksgiving plans in a group setting (u005, u007, u009, u011), staying engaged in the exchange."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He repeatedly contradicts Speaker_05 and insists he is not wrong (u007, u009), maintaining a disagreement rather than yielding."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from claiming he spoke to the people involved (u011), there is no clear behavior showing organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He remains confident and unwavering—stating he just talked to them and not showing anxiety or insecurity (u009, u011)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He is dogmatic in insisting his version is correct despite immediate challenge (u007, u009), showing low openness to alternative information."
+  }
+}

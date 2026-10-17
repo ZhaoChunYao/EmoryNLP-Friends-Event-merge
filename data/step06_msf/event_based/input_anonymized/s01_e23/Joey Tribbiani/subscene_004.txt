@@ -1,0 +1,22 @@
+Episode: s01_e23
+Scene: s01_e23_c07
+Subscene index for speaker: 004
+Main speaker: TargetSpeaker
+UID span: s01_e23_c07_u001 → s01_e23_c07_u007
+Peak window: 0 → 1
+
+Dialogue:
+  [s01_e23_c07_u001]
+  1. Speaker_01 says Speaker_02 is breathing.
+  [s01_e23_c07_u002] Speaker_02: Oh, no.
+  [s01_e23_c07_u003] Unknown Speaker: 
+  [s01_e23_c07_u004]
+  1. TargetSpeaker says Speaker_02’s water is breaking.
+  2. TargetSpeaker says something exploded.
+  [s01_e23_c07_u005]
+  1. Speaker_01 says Speaker_02’s water is breaking.
+  2. Speaker_01 says TargetSpeaker is calming down.
+  [s01_e23_c07_u006]
+  1. TargetSpeaker says Speaker_02’s water is breaking.
+  2. TargetSpeaker says Speaker_01 means that Speaker_02’s water is breaking.
+  [s01_e23_c07_u007] Speaker_01: Breathe, breathe, breathe.

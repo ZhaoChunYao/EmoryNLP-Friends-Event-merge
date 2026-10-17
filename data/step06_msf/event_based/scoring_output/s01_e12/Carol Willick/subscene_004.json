@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly (“It’s a…,” “Well, thanks for the books,” “Hello?”) without clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says, “Well, thanks for the books,” showing politeness and gratitude toward another speaker."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions or statements from TargetSpeaker indicate organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or nervousness; responses are calm and neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or resistance to new ideas are present."
+  }
+}

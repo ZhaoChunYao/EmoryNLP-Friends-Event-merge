@@ -1,0 +1,108 @@
+event_id: s01_e12_c13_u001_e1
+utterance_id: s01_e12_c13_u001
+  tuple: ('think', 'I/Phoebe Buffay', 'she took it pretty well', 's01_e12_c13_u001')
+
+event_id: s01_e12_c13_u001_e2
+utterance_id: s01_e12_c13_u001
+  tuple: ('take', 'she/Rachel Green', 'it', 's01_e12_c13_u001')
+
+event_id: s01_e12_c13_u001_e3
+utterance_id: s01_e12_c13_u001
+  tuple: ('know', 'you/Monica Geller', 'Paolo is over there right now', 's01_e12_c13_u001')
+
+event_id: s01_e12_c13_u001_e4
+utterance_id: s01_e12_c13_u001
+  tuple: ('be', 'Paolo', 'over there', 's01_e12_c13_u001')
+
+event_id: s01_e12_c13_u002_e1
+utterance_id: s01_e12_c13_u002
+  tuple: ('get', 'we/Monica Geller and friends', 'over there', 's01_e12_c13_u002')
+  tuple: ('see', 'we/Monica Geller and friends', "if she's okay", 's01_e12_c13_u002')
+
+event_id: s01_e12_c13_u002_e2
+utterance_id: s01_e12_c13_u002
+  tuple: ('be', 'she/Rachel Green', 'okay', 's01_e12_c13_u002')
+
+event_id: s01_e12_c13_u002_e3
+utterance_id: s01_e12_c13_u002
+  tuple: ('come', 'you/everyone', 'on', 's01_e12_c13_u002')
+
+event_id: s01_e12_c13_u003_e1
+utterance_id: s01_e12_c13_u003
+  tuple: ('look', 'it/situation', 'like we kicked your butts', 's01_e12_c13_u003')
+
+event_id: s01_e12_c13_u003_e2
+utterance_id: s01_e12_c13_u003
+  tuple: ('kick', 'we/Ross Geller and team', 'your butts', 's01_e12_c13_u003')
+
+event_id: s01_e12_c13_u004_e1
+utterance_id: s01_e12_c13_u004
+  tuple: ('kick', 'she/Monica Geller', 'our butts', 's01_e12_c13_u004')
+
+event_id: s01_e12_c13_u004_e2
+utterance_id: s01_e12_c13_u004
+  tuple: ('be', 'you/Ross Geller', 'on the Olympic standing-there team', 's01_e12_c13_u004')
+
+event_id: s01_e12_c13_u006_e1
+utterance_id: s01_e12_c13_u006
+  tuple: ('do', 'you/Ross Geller', None, 's01_e12_c13_u006')
+
+event_id: s01_e12_c13_u006_e2
+utterance_id: s01_e12_c13_u006
+  tuple: ('break', 'she/Rachel Green', 'up with the guy', 's01_e12_c13_u006')
+
+event_id: s01_e12_c13_u006_e3
+utterance_id: s01_e12_c13_u006
+  tuple: ('be', 'it/situation', 'time for you to swoop in', 's01_e12_c13_u006')
+
+event_id: s01_e12_c13_u006_e4
+utterance_id: s01_e12_c13_u006
+  tuple: ('swoop', 'you/Ross Geller', 'in', 's01_e12_c13_u006')
+
+event_id: s01_e12_c13_u008_e1
+utterance_id: s01_e12_c13_u008
+  tuple: ('be', 'now', 'when you swoop', 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u008_e2
+utterance_id: s01_e12_c13_u008
+  tuple: ('make', 'you/Ross Geller', 'sure that when Paolo walks out of there, the first guy Rachel sees is you', 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u008_e3
+utterance_id: s01_e12_c13_u008
+  tuple: ('walk', 'Paolo', 'out of there', 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u008_e4
+utterance_id: s01_e12_c13_u008
+  tuple: ('see', 'Rachel Green', 'the first guy', 's01_e12_c13_u008')
+  tuple: ('be', 'the first guy Rachel sees', 'you', 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u008_e5
+utterance_id: s01_e12_c13_u008
+  tuple: ('know', 'she/Rachel Green', "that you're everything he's not", 's01_e12_c13_u008')
+  tuple: ('be', 'you/Ross Geller', "everything he's not", 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u008_e6
+utterance_id: s01_e12_c13_u008
+  tuple: ('be', 'you/Ross Geller', 'like the anti-Paolo', 's01_e12_c13_u008')
+
+event_id: s01_e12_c13_u009_e1
+utterance_id: s01_e12_c13_u009
+  tuple: ('be', 'my Catholic friend', 'right', 's01_e12_c13_u009')
+
+event_id: s01_e12_c13_u009_e2
+utterance_id: s01_e12_c13_u009
+  tuple: ('be', 'she/Rachel Green', 'distraught', 's01_e12_c13_u009')
+
+event_id: s01_e12_c13_u009_e3
+utterance_id: s01_e12_c13_u009
+  tuple: ('be', 'you/Ross Geller', 'there', 's01_e12_c13_u009')
+  tuple: ('be', 'you/Ross Geller', 'for her', 's01_e12_c13_u009')
+
+event_id: s01_e12_c13_u009_e4
+utterance_id: s01_e12_c13_u009
+  tuple: ('pick', 'you/Ross Geller', 'up the pieces', 's01_e12_c13_u009')
+
+event_id: s01_e12_c13_u009_e5
+utterance_id: s01_e12_c13_u009
+  tuple: ('usher', 'you/Ross Geller', 'in the age of Ross', 's01_e12_c13_u009')
+

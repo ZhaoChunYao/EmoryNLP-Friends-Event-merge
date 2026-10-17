@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of outgoing/energetic behavior or marked reserve; the scene is a private confession."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker says they had to tell their friend and directly admits, “I kissed Speaker_02,” adds that nothing else happened, and invites verification by saying to ask Speaker_04."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker explains they were really upset and had too much tequila, then impulsively kissed Speaker_02—showing poor self-control/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says they were really upset about Rachel and Speaker_03, indicating emotional sensitivity and distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete indications of curiosity, creativity, or cautious dogmatism beyond the situational confession."
+  }
+}

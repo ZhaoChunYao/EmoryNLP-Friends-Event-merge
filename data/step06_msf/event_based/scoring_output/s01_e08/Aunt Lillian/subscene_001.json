@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks brief clarifying questions (“What’s going on?”; “She may have died?”) without showing notably outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interactions are neutral and non-confrontational, but there’s no clear display of trustworthiness, generosity, or uncooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization or carelessness; TargetSpeaker simply reacts to surprising news."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses alarm/confusion in response to possible death (“What’s going on?”; “She may have died?”), suggesting anxiety and sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asks for clarification but does not exhibit inventive ideas or dogmatic resistance; insufficient evidence for either side."
+  }
+}

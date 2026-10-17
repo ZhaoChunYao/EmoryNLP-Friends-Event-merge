@@ -1,0 +1,75 @@
+('think', 'I/(Ross Geller)', None, 's01_e08_c06_u001')
+[s01_e08_c06_u001] Ross Geller: I was just thinking. When my time comes-
+
+('come', 'my time', None, 's01_e08_c06_u003')
+[s01_e08_c06_u003] Ross Geller: Listen to me! When my time comes, I wanna be buried at sea.
+
+('listen', 'you/(Monica Geller)', 'to me', 's01_e08_c06_u003')
+[s01_e08_c06_u003] Ross Geller: Listen to me! When my time comes, I wanna be buried at sea.
+
+('want', 'I/(Ross Geller)', 'be buried at sea', 's01_e08_c06_u005')
+[s01_e08_c06_u005] Ross Geller: I wanna be buried at sea, it looks like fun.
+
+('bury', 'I/(Ross Geller)', 'at sea', 's01_e08_c06_u005')
+[s01_e08_c06_u005] Ross Geller: I wanna be buried at sea, it looks like fun.
+
+('look', 'it/(being buried at sea)', 'like fun', 's01_e08_c06_u005')
+[s01_e08_c06_u005] Ross Geller: I wanna be buried at sea, it looks like fun.
+
+('define', 'you/(Ross Geller)', 'fun', 's01_e08_c06_u006')
+[s01_e08_c06_u006] Monica Geller: Define fun.
+
+('come', 'you/(Monica Geller)', None, 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('come', 'you/(Monica Geller)', 'on', 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('make', 'you/(Monica Geller)', 'a day', 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('make', 'you/(Monica Geller)', 'of it', 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('rent', 'you/(Monica Geller)', 'a boat', 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('pack', 'you/(Monica Geller)', 'a lunch', 's01_e08_c06_u007')
+[s01_e08_c06_u007] Ross Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
+
+('throw', 'we/(Monica Geller)', 'your body', 's01_e08_c06_u008')
+[s01_e08_c06_u008] Monica Geller: ...And then we throw your body in the water... Gee, that does sound fun.
+
+('throw', 'we/(Monica Geller)', 'in the water', 's01_e08_c06_u008')
+[s01_e08_c06_u008] Monica Geller: ...And then we throw your body in the water... Gee, that does sound fun.
+
+('sound', 'that/(throw your body in the water)', 'fun', 's01_e08_c06_u008')
+[s01_e08_c06_u008] Monica Geller: ...And then we throw your body in the water... Gee, that does sound fun.
+
+('think', 'everyone', 'they know me', 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('know', 'they/(everyone)', 'me', 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('say', 'everyone', 'Jack Geller, so predictable', 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('go', 'I/(Ross Geller)', None, 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('say', 'they/(everyone)', 'Buried at sea! Huh!', 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('say', 'they/(everyone)', "after I'm gone", 's01_e08_c06_u009')
+[s01_e08_c06_u009] Ross Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
+
+('be', "that/(what they'll say)", "what they'll say", 's01_e08_c06_u010')
+[s01_e08_c06_u010] Monica Geller: That's probably what they'll say.
+
+('say', 'they/(everyone)', 'what', 's01_e08_c06_u010')
+[s01_e08_c06_u010] Monica Geller: That's probably what they'll say.
+
+('like', 'I/(Ross Geller)', 'that', 's01_e08_c06_u011')
+[s01_e08_c06_u011] Ross Geller: I'd like that.
+

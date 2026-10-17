@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates a group interaction by asking if anybody wants to split the serving, showing sociability."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers to split their serving, indicating willingness to share and cooperate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability are shown."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Participates in the wishbone only after being told; no clear display of curiosity or inventiveness."
+  }
+}

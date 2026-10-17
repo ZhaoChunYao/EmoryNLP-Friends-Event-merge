@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly confronts and questions others, expressing disbelief and demanding explanations (e.g., \"What?\", \"I can't believe you kissed Speaker_02. What were you thinking?\")"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Accusatory and unforgiving toward friends (e.g., \"I can't believe you did this\" and \"I am still mad at [Speaker_04]\")"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete signs of organization or carelessness; interaction centers on emotional confrontation rather than task-related behavior"
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Strong emotional reactivity: shock and anger (\"Oh my God,\" repeated disbelief, and stating he is still mad)"
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses mitigating context (drinking, being upset) and focuses on condemnation, showing little openness to alternative perspectives"
+  }
+}

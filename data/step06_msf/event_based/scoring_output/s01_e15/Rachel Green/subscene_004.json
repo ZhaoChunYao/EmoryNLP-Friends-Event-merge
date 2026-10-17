@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly reports the meeting went great and restates plans; no clear sign of being particularly outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They make neutral, factual comments without showing clear warmth, supportiveness, disagreement, or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, efficiency, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or emotional reactivity; comments are neutral and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or rigid/dogmatic views in the brief statements."
+  }
+}

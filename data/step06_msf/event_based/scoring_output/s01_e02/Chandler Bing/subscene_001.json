@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks openly and at length in a group, using a playful extended analogy about kissing and sex (u006, u008), showing sociable, uninhibited talk."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They bluntly state a preference for sex over kissing and tease others, but there’s no clear sign of either warmth/helpfulness or hostility (u006–u008)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, diligence, or care—only sharing opinions about kissing/sex."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably and humorously discusses intimate topics without signs of worry or sensitivity; tone is confident (u006, u008)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses an imaginative concert/stand-up comedian metaphor to frame kissing vs. sex and extends it creatively (u006, u008)."
+  }
+}

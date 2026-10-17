@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages socially by reacting to humor and asking questions about others (says the comment is funny; asks who Speaker_02 and Speaker_03 are; later asks if there’s anything else to know)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward, explicitly labeling the relationship as “lovers” to clarify the situation without evasiveness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or pronounced confidence; emotional tone appears neutral."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by seeking more information about who the people are and whether there’s anything else to know."
+  }
+}

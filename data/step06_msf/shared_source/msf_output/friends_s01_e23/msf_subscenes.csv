@@ -1,0 +1,756 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e23,s01_e23_c01,Chandler Bing,0,6,6,5,7,2,s01_e23_c01_u007,s01_e23_c01_u015,"[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+[s01_e23_c01_u011] Unknown Speaker: 
+[s01_e23_c01_u012] Rachel Green: What, it's ok when Chandler does it?
+[s01_e23_c01_u013] Chandler Bing: You have to pick your moments.
+[s01_e23_c01_u014] Unknown Speaker: 
+[s01_e23_c01_u015] Phoebe Buffay: Did I miss it, did I miss it?"
+s01_e23,s01_e23_c01,Chandler Bing,1,16,16,15,16,2,s01_e23_c01_u020,s01_e23_c01_u026,"[s01_e23_c01_u020] Ross Geller: Where the hell have you been?
+[s01_e23_c01_u021] Susan Bunch: We stopped at the gift shop.
+[s01_e23_c01_u022] Carol Willick: I was looking at stuffed animals, and Susan wanted a Chunky.
+[s01_e23_c01_u023] Ross Geller: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+[s01_e23_c01_u024] Chandler Bing: I used to have that bumper sticker.
+[s01_e23_c01_u025] Unknown Speaker: 
+[s01_e23_c01_u026] Chandler Bing: You see what I mean."
+s01_e23,s01_e23_c01,Joey Tribbiani,0,1,3,0,4,2,s01_e23_c01_u001,s01_e23_c01_u010,"[s01_e23_c01_u001] Ross Geller: She's not here yet. She's not here. She's having my baby and she's not here.
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+[s01_e23_c01_u004] Unknown Speaker: 
+[s01_e23_c01_u005] Joey Tribbiani: Do we have to know about that?
+[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction."
+s01_e23,s01_e23_c01,Monica Geller,0,0,1,0,2,2,s01_e23_c01_u001,s01_e23_c01_u008,"[s01_e23_c01_u001] Ross Geller: She's not here yet. She's not here. She's having my baby and she's not here.
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+[s01_e23_c01_u004] Unknown Speaker: 
+[s01_e23_c01_u005] Joey Tribbiani: Do we have to know about that?
+[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's."
+s01_e23,s01_e23_c01,Phoebe Buffay,0,10,11,9,12,2,s01_e23_c01_u012,s01_e23_c01_u021,"[s01_e23_c01_u012] Rachel Green: What, it's ok when Chandler does it?
+[s01_e23_c01_u013] Chandler Bing: You have to pick your moments.
+[s01_e23_c01_u014] Unknown Speaker: 
+[s01_e23_c01_u015] Phoebe Buffay: Did I miss it, did I miss it?
+[s01_e23_c01_u016] Ross Geller: She's not even here yet.
+[s01_e23_c01_u017] Monica Geller: What's with the guitar?
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+[s01_e23_c01_u019] Unknown Speaker: 
+[s01_e23_c01_u020] Ross Geller: Where the hell have you been?
+[s01_e23_c01_u021] Susan Bunch: We stopped at the gift shop."
+s01_e23,s01_e23_c01,Rachel Green,0,5,8,4,9,2,s01_e23_c01_u006,s01_e23_c01_u017,"[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+[s01_e23_c01_u011] Unknown Speaker: 
+[s01_e23_c01_u012] Rachel Green: What, it's ok when Chandler does it?
+[s01_e23_c01_u013] Chandler Bing: You have to pick your moments.
+[s01_e23_c01_u014] Unknown Speaker: 
+[s01_e23_c01_u015] Phoebe Buffay: Did I miss it, did I miss it?
+[s01_e23_c01_u016] Ross Geller: She's not even here yet.
+[s01_e23_c01_u017] Monica Geller: What's with the guitar?"
+s01_e23,s01_e23_c01,Ross Geller,0,0,0,0,1,2,s01_e23_c01_u001,s01_e23_c01_u007,"[s01_e23_c01_u001] Ross Geller: She's not here yet. She's not here. She's having my baby and she's not here.
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+[s01_e23_c01_u004] Unknown Speaker: 
+[s01_e23_c01_u005] Joey Tribbiani: Do we have to know about that?
+[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars."
+s01_e23,s01_e23_c01,Ross Geller,1,11,12,10,13,2,s01_e23_c01_u013,s01_e23_c01_u022,"[s01_e23_c01_u013] Chandler Bing: You have to pick your moments.
+[s01_e23_c01_u014] Unknown Speaker: 
+[s01_e23_c01_u015] Phoebe Buffay: Did I miss it, did I miss it?
+[s01_e23_c01_u016] Ross Geller: She's not even here yet.
+[s01_e23_c01_u017] Monica Geller: What's with the guitar?
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+[s01_e23_c01_u019] Unknown Speaker: 
+[s01_e23_c01_u020] Ross Geller: Where the hell have you been?
+[s01_e23_c01_u021] Susan Bunch: We stopped at the gift shop.
+[s01_e23_c01_u022] Carol Willick: I was looking at stuffed animals, and Susan wanted a Chunky."
+s01_e23,s01_e23_c01,Ross Geller,2,14,15,13,16,2,s01_e23_c01_u017,s01_e23_c01_u026,"[s01_e23_c01_u017] Monica Geller: What's with the guitar?
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+[s01_e23_c01_u019] Unknown Speaker: 
+[s01_e23_c01_u020] Ross Geller: Where the hell have you been?
+[s01_e23_c01_u021] Susan Bunch: We stopped at the gift shop.
+[s01_e23_c01_u022] Carol Willick: I was looking at stuffed animals, and Susan wanted a Chunky.
+[s01_e23_c01_u023] Ross Geller: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+[s01_e23_c01_u024] Chandler Bing: I used to have that bumper sticker.
+[s01_e23_c01_u025] Unknown Speaker: 
+[s01_e23_c01_u026] Chandler Bing: You see what I mean."
+s01_e23,s01_e23_c02,Carol Willick,0,7,7,6,8,2,s01_e23_c02_u008,s01_e23_c02_u014,"[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha.
+[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha.
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station."
+s01_e23,s01_e23_c02,Dr. Franzblau,0,2,4,1,5,2,s01_e23_c02_u002,s01_e23_c02_u011,"[s01_e23_c02_u002] Carol Willick: Let it go, Ross.
+[s01_e23_c02_u003] Susan Bunch: I got an extra one. You want this?
+[s01_e23_c02_u004] Ross Geller: No.
+[s01_e23_c02_u005] Unknown Speaker: 
+[s01_e23_c02_u006] Dr. Franzblau: Hey, how's my favorite parenting team doing?
+[s01_e23_c02_u007] Ross Geller: Dr. Franzblau, hi.
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha."
+s01_e23,s01_e23_c02,Rachel Green,0,14,16,13,16,3,s01_e23_c02_u015,s01_e23_c02_u023,"[s01_e23_c02_u015] Ross Geller: I'll get it.
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back.
+[s01_e23_c02_u017] Ross Geller: I got itI'm getting it!
+[s01_e23_c02_u018] Unknown Speaker: 
+[s01_e23_c02_u019] Rachel Green: Hi, I thought you might like some ice chips.
+[s01_e23_c02_u020] Carol Willick: Thanks.
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+[s01_e23_c02_u022] Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+[s01_e23_c02_u023] Rachel Green: Oh, that's funny!"
+s01_e23,s01_e23_c02,Ross Geller,0,0,3,0,4,2,s01_e23_c02_u001,s01_e23_c02_u010,"[s01_e23_c02_u001] Ross Geller: Stopped for a Chunky.
+[s01_e23_c02_u002] Carol Willick: Let it go, Ross.
+[s01_e23_c02_u003] Susan Bunch: I got an extra one. You want this?
+[s01_e23_c02_u004] Ross Geller: No.
+[s01_e23_c02_u005] Unknown Speaker: 
+[s01_e23_c02_u006] Dr. Franzblau: Hey, how's my favorite parenting team doing?
+[s01_e23_c02_u007] Ross Geller: Dr. Franzblau, hi.
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds."
+s01_e23,s01_e23_c02,Ross Geller,1,5,5,4,6,2,s01_e23_c02_u006,s01_e23_c02_u012,"[s01_e23_c02_u006] Dr. Franzblau: Hey, how's my favorite parenting team doing?
+[s01_e23_c02_u007] Ross Geller: Dr. Franzblau, hi.
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha.
+[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha."
+s01_e23,s01_e23_c02,Ross Geller,2,9,9,8,10,2,s01_e23_c02_u010,s01_e23_c02_u016,"[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha.
+[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha.
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.
+[s01_e23_c02_u015] Ross Geller: I'll get it.
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back."
+s01_e23,s01_e23_c02,Ross Geller,3,11,13,10,14,2,s01_e23_c02_u012,s01_e23_c02_u021,"[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha.
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.
+[s01_e23_c02_u015] Ross Geller: I'll get it.
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back.
+[s01_e23_c02_u017] Ross Geller: I got itI'm getting it!
+[s01_e23_c02_u018] Unknown Speaker: 
+[s01_e23_c02_u019] Rachel Green: Hi, I thought you might like some ice chips.
+[s01_e23_c02_u020] Carol Willick: Thanks.
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate."
+s01_e23,s01_e23_c02,Susan Bunch,0,6,8,5,9,2,s01_e23_c02_u007,s01_e23_c02_u015,"[s01_e23_c02_u007] Ross Geller: Dr. Franzblau, hi.
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha.
+[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha.
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.
+[s01_e23_c02_u015] Ross Geller: I'll get it."
+s01_e23,s01_e23_c02,Susan Bunch,1,10,10,9,11,2,s01_e23_c02_u011,s01_e23_c02_u017,"[s01_e23_c02_u011] Ross Geller: 59 seconds. Quartz, ha.
+[s01_e23_c02_u012] Susan Bunch: Swiss quartz, ha, ha.
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.
+[s01_e23_c02_u015] Ross Geller: I'll get it.
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back.
+[s01_e23_c02_u017] Ross Geller: I got itI'm getting it!"
+s01_e23,s01_e23_c03,Chandler Bing,0,0,1,0,2,2,s01_e23_c03_u001,s01_e23_c03_u009,"[s01_e23_c03_u001] Monica Geller: I want a baby.
+[s01_e23_c03_u002] Chandler Bing: Mmmm. Not tonight, honey. I got an early day tomorrow.
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+[s01_e23_c03_u004] Chandler Bing: Oh, ok, 'cause we never do that.
+[s01_e23_c03_u005] Unknown Speaker: 
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+[s01_e23_c03_u007] Unknown Speaker: 
+[s01_e23_c03_u008] Lydia: Knick fan?
+[s01_e23_c03_u009] Joey Tribbiani: Oh, yeah."
+s01_e23,s01_e23_c03,Joey Tribbiani,0,2,15,1,15,3,s01_e23_c03_u002,s01_e23_c03_u022,"[s01_e23_c03_u002] Chandler Bing: Mmmm. Not tonight, honey. I got an early day tomorrow.
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+[s01_e23_c03_u004] Chandler Bing: Oh, ok, 'cause we never do that.
+[s01_e23_c03_u005] Unknown Speaker: 
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+[s01_e23_c03_u007] Unknown Speaker: 
+[s01_e23_c03_u008] Lydia: Knick fan?
+[s01_e23_c03_u009] Joey Tribbiani: Oh, yeah.
+[s01_e23_c03_u010] Lydia: Oh, boy, do they suck.
+[s01_e23_c03_u011] Joey Tribbiani: Hey, listen, lady.... ...whoa.
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+[s01_e23_c03_u013] Joey Tribbiani: Oh yeah? And who do you like?
+[s01_e23_c03_u014] Lydia: The Celtics.
+[s01_e23_c03_u015] Joey Tribbiani: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+[s01_e23_c03_u016] Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+[s01_e23_c03_u018] Lydia: There is no father.
+[s01_e23_c03_u019] Joey Tribbiani: Oh, oh, oh, sorry.
+[s01_e23_c03_u020] Lydia: Ok, that's ok. I'm fine. I'm... oh!
+[s01_e23_c03_u021] Joey Tribbiani: Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.
+[s01_e23_c03_u022] Lydia: Ok."
+s01_e23,s01_e23_c03,Lydia,0,3,15,2,15,3,s01_e23_c03_u003,s01_e23_c03_u022,"[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+[s01_e23_c03_u004] Chandler Bing: Oh, ok, 'cause we never do that.
+[s01_e23_c03_u005] Unknown Speaker: 
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+[s01_e23_c03_u007] Unknown Speaker: 
+[s01_e23_c03_u008] Lydia: Knick fan?
+[s01_e23_c03_u009] Joey Tribbiani: Oh, yeah.
+[s01_e23_c03_u010] Lydia: Oh, boy, do they suck.
+[s01_e23_c03_u011] Joey Tribbiani: Hey, listen, lady.... ...whoa.
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+[s01_e23_c03_u013] Joey Tribbiani: Oh yeah? And who do you like?
+[s01_e23_c03_u014] Lydia: The Celtics.
+[s01_e23_c03_u015] Joey Tribbiani: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+[s01_e23_c03_u016] Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+[s01_e23_c03_u018] Lydia: There is no father.
+[s01_e23_c03_u019] Joey Tribbiani: Oh, oh, oh, sorry.
+[s01_e23_c03_u020] Lydia: Ok, that's ok. I'm fine. I'm... oh!
+[s01_e23_c03_u021] Joey Tribbiani: Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.
+[s01_e23_c03_u022] Lydia: Ok."
+s01_e23,s01_e23_c03,Monica Geller,0,0,0,0,1,2,s01_e23_c03_u001,s01_e23_c03_u008,"[s01_e23_c03_u001] Monica Geller: I want a baby.
+[s01_e23_c03_u002] Chandler Bing: Mmmm. Not tonight, honey. I got an early day tomorrow.
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+[s01_e23_c03_u004] Chandler Bing: Oh, ok, 'cause we never do that.
+[s01_e23_c03_u005] Unknown Speaker: 
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+[s01_e23_c03_u007] Unknown Speaker: 
+[s01_e23_c03_u008] Lydia: Knick fan?"
+s01_e23,s01_e23_c04,Chandler Bing,0,5,15,4,16,3,s01_e23_c04_u006,s01_e23_c04_u024,"[s01_e23_c04_u006] Phoebe Buffay: Ok.
+[s01_e23_c04_u007] Unknown Speaker: 
+[s01_e23_c04_u008] Phoebe Buffay: Oh, look, twins. Hi, guys. Oh, cute, cute.
+[s01_e23_c04_u009] Monica Geller: No fair. I don't even have one. How come they get two?
+[s01_e23_c04_u010] Chandler Bing: You'll get one.
+[s01_e23_c04_u011] Monica Geller: Oh yeah? When?
+[s01_e23_c04_u012] Chandler Bing: All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?
+[s01_e23_c04_u013] Monica Geller: Why won't I be married when I'm 40?
+[s01_e23_c04_u014] Chandler Bing: Oh, no, no. I just meant hypothetically.
+[s01_e23_c04_u015] Monica Geller: Ok, hypothetically, why won't I be married when I'm 40?
+[s01_e23_c04_u016] Chandler Bing: No, no, no.
+[s01_e23_c04_u017] Monica Geller: What is it? Is there something fundamentally unmarriable about me?
+[s01_e23_c04_u018] Chandler Bing: Uh, uh.
+[s01_e23_c04_u019] Monica Geller: Well?
+[s01_e23_c04_u020] Chandler Bing: Dear God! This parachute is a knapsack!
+[s01_e23_c04_u021] Unknown Speaker: 
+[s01_e23_c04_u022] Rachel Green: Hey.
+[s01_e23_c04_u023] Phoebe Buffay: Hey. Ooh, look at you, dressy-dress.
+[s01_e23_c04_u024] Monica Geller: Did you go home and change?"
+s01_e23,s01_e23_c04,Chandler Bing,1,22,22,21,22,2,s01_e23_c04_u025,s01_e23_c04_u030,"[s01_e23_c04_u025] Rachel Green: Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?
+[s01_e23_c04_u026] Monica Geller: No, I haven't seen him.
+[s01_e23_c04_u027] Rachel Green: Well, where is he? He is supposed to be here. What if the baby needs him?
+[s01_e23_c04_u028] Chandler Bing: Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?
+[s01_e23_c04_u029] Rachel Green: Yeah, why?
+[s01_e23_c04_u030] Chandler Bing: No reason."
+s01_e23,s01_e23_c04,Monica Geller,0,4,14,3,15,3,s01_e23_c04_u005,s01_e23_c04_u023,"[s01_e23_c04_u005] Ross Geller: Yeah. I'm paying you to stop.
+[s01_e23_c04_u006] Phoebe Buffay: Ok.
+[s01_e23_c04_u007] Unknown Speaker: 
+[s01_e23_c04_u008] Phoebe Buffay: Oh, look, twins. Hi, guys. Oh, cute, cute.
+[s01_e23_c04_u009] Monica Geller: No fair. I don't even have one. How come they get two?
+[s01_e23_c04_u010] Chandler Bing: You'll get one.
+[s01_e23_c04_u011] Monica Geller: Oh yeah? When?
+[s01_e23_c04_u012] Chandler Bing: All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?
+[s01_e23_c04_u013] Monica Geller: Why won't I be married when I'm 40?
+[s01_e23_c04_u014] Chandler Bing: Oh, no, no. I just meant hypothetically.
+[s01_e23_c04_u015] Monica Geller: Ok, hypothetically, why won't I be married when I'm 40?
+[s01_e23_c04_u016] Chandler Bing: No, no, no.
+[s01_e23_c04_u017] Monica Geller: What is it? Is there something fundamentally unmarriable about me?
+[s01_e23_c04_u018] Chandler Bing: Uh, uh.
+[s01_e23_c04_u019] Monica Geller: Well?
+[s01_e23_c04_u020] Chandler Bing: Dear God! This parachute is a knapsack!
+[s01_e23_c04_u021] Unknown Speaker: 
+[s01_e23_c04_u022] Rachel Green: Hey.
+[s01_e23_c04_u023] Phoebe Buffay: Hey. Ooh, look at you, dressy-dress."
+s01_e23,s01_e23_c04,Monica Geller,1,16,16,15,17,2,s01_e23_c04_u018,s01_e23_c04_u025,"[s01_e23_c04_u018] Chandler Bing: Uh, uh.
+[s01_e23_c04_u019] Monica Geller: Well?
+[s01_e23_c04_u020] Chandler Bing: Dear God! This parachute is a knapsack!
+[s01_e23_c04_u021] Unknown Speaker: 
+[s01_e23_c04_u022] Rachel Green: Hey.
+[s01_e23_c04_u023] Phoebe Buffay: Hey. Ooh, look at you, dressy-dress.
+[s01_e23_c04_u024] Monica Geller: Did you go home and change?
+[s01_e23_c04_u025] Rachel Green: Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?"
+s01_e23,s01_e23_c04,Monica Geller,2,18,20,17,21,2,s01_e23_c04_u020,s01_e23_c04_u029,"[s01_e23_c04_u020] Chandler Bing: Dear God! This parachute is a knapsack!
+[s01_e23_c04_u021] Unknown Speaker: 
+[s01_e23_c04_u022] Rachel Green: Hey.
+[s01_e23_c04_u023] Phoebe Buffay: Hey. Ooh, look at you, dressy-dress.
+[s01_e23_c04_u024] Monica Geller: Did you go home and change?
+[s01_e23_c04_u025] Rachel Green: Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?
+[s01_e23_c04_u026] Monica Geller: No, I haven't seen him.
+[s01_e23_c04_u027] Rachel Green: Well, where is he? He is supposed to be here. What if the baby needs him?
+[s01_e23_c04_u028] Chandler Bing: Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?
+[s01_e23_c04_u029] Rachel Green: Yeah, why?"
+s01_e23,s01_e23_c04,Phoebe Buffay,0,0,4,0,5,4,s01_e23_c04_u001,s01_e23_c04_u012,"[s01_e23_c04_u001] Phoebe Buffay: 
+[s01_e23_c04_u002] Phoebe Buffay: They're tiny and chubby and so sweet to touch, and soon they'll grow up and resent you so much. Now they're yelling at you and you don't know why, you cry and you cry and you cry. And you cry and you cry and you cry...
+[s01_e23_c04_u003] Unknown Speaker: 
+[s01_e23_c04_u004] Phoebe Buffay: Thanks, Ross.
+[s01_e23_c04_u005] Ross Geller: Yeah. I'm paying you to stop.
+[s01_e23_c04_u006] Phoebe Buffay: Ok.
+[s01_e23_c04_u007] Unknown Speaker: 
+[s01_e23_c04_u008] Phoebe Buffay: Oh, look, twins. Hi, guys. Oh, cute, cute.
+[s01_e23_c04_u009] Monica Geller: No fair. I don't even have one. How come they get two?
+[s01_e23_c04_u010] Chandler Bing: You'll get one.
+[s01_e23_c04_u011] Monica Geller: Oh yeah? When?
+[s01_e23_c04_u012] Chandler Bing: All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?"
+s01_e23,s01_e23_c04,Rachel Green,0,17,22,16,22,3,s01_e23_c04_u019,s01_e23_c04_u030,"[s01_e23_c04_u019] Monica Geller: Well?
+[s01_e23_c04_u020] Chandler Bing: Dear God! This parachute is a knapsack!
+[s01_e23_c04_u021] Unknown Speaker: 
+[s01_e23_c04_u022] Rachel Green: Hey.
+[s01_e23_c04_u023] Phoebe Buffay: Hey. Ooh, look at you, dressy-dress.
+[s01_e23_c04_u024] Monica Geller: Did you go home and change?
+[s01_e23_c04_u025] Rachel Green: Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?
+[s01_e23_c04_u026] Monica Geller: No, I haven't seen him.
+[s01_e23_c04_u027] Rachel Green: Well, where is he? He is supposed to be here. What if the baby needs him?
+[s01_e23_c04_u028] Chandler Bing: Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?
+[s01_e23_c04_u029] Rachel Green: Yeah, why?
+[s01_e23_c04_u030] Chandler Bing: No reason."
+s01_e23,s01_e23_c05,Joey Tribbiani,0,0,11,0,11,3,s01_e23_c05_u001,s01_e23_c05_u017,"[s01_e23_c05_u001] Lydia: Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. What do you mean, Joey who? Joey who?
+[s01_e23_c05_u002] Joey Tribbiani: Tribbiani.
+[s01_e23_c05_u003] Lydia: Joey Tribbiani. Yes, ok. Hold on. She wants to talk to you. Take the phone.
+[s01_e23_c05_u004] Joey Tribbiani: Hi, yeah, it's me. Oh, no no no, we're just friends. Yeah, I'm single. 25. An actor. Hello?
+[s01_e23_c05_u005] Lydia: She's not much of a phone person.
+[s01_e23_c05_u006] Joey Tribbiani: Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?
+[s01_e23_c05_u007] Lydia: Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.
+[s01_e23_c05_u008] Joey Tribbiani: Ok, look, maybe I should just go.
+[s01_e23_c05_u009] Lydia: Maybe you should.
+[s01_e23_c05_u010] Joey Tribbiani: Good luck, and uh, take care, huh?
+[s01_e23_c05_u011] Unknown Speaker: 
+[s01_e23_c05_u012] Joey Tribbiani: You know what the Celtics problem is? They let the players run the team.
+[s01_e23_c05_u013] Lydia: Oh, that is so not true.
+[s01_e23_c05_u014] Joey Tribbiani: Oh, it is.
+[s01_e23_c05_u015] Lydia: It isn't.
+[s01_e23_c05_u016] Joey Tribbiani: It is.
+[s01_e23_c05_u017] Lydia: Isn't!"
+s01_e23,s01_e23_c05,Lydia,0,0,11,0,11,3,s01_e23_c05_u001,s01_e23_c05_u017,"[s01_e23_c05_u001] Lydia: Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. What do you mean, Joey who? Joey who?
+[s01_e23_c05_u002] Joey Tribbiani: Tribbiani.
+[s01_e23_c05_u003] Lydia: Joey Tribbiani. Yes, ok. Hold on. She wants to talk to you. Take the phone.
+[s01_e23_c05_u004] Joey Tribbiani: Hi, yeah, it's me. Oh, no no no, we're just friends. Yeah, I'm single. 25. An actor. Hello?
+[s01_e23_c05_u005] Lydia: She's not much of a phone person.
+[s01_e23_c05_u006] Joey Tribbiani: Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?
+[s01_e23_c05_u007] Lydia: Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.
+[s01_e23_c05_u008] Joey Tribbiani: Ok, look, maybe I should just go.
+[s01_e23_c05_u009] Lydia: Maybe you should.
+[s01_e23_c05_u010] Joey Tribbiani: Good luck, and uh, take care, huh?
+[s01_e23_c05_u011] Unknown Speaker: 
+[s01_e23_c05_u012] Joey Tribbiani: You know what the Celtics problem is? They let the players run the team.
+[s01_e23_c05_u013] Lydia: Oh, that is so not true.
+[s01_e23_c05_u014] Joey Tribbiani: Oh, it is.
+[s01_e23_c05_u015] Lydia: It isn't.
+[s01_e23_c05_u016] Joey Tribbiani: It is.
+[s01_e23_c05_u017] Lydia: Isn't!"
+s01_e23,s01_e23_c06,Carol Willick,0,4,6,3,7,2,s01_e23_c06_u004,s01_e23_c06_u012,"[s01_e23_c06_u004] Susan Bunch: Breathe.
+[s01_e23_c06_u005] Ross Geller: Breathe.
+[s01_e23_c06_u006] Susan Bunch: Breathe.
+[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster.
+[s01_e23_c06_u010] Susan Bunch: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.
+[s01_e23_c06_u011] Ross Geller: Who the hell is Jordie?
+[s01_e23_c06_u012] Susan Bunch: Your son."
+s01_e23,s01_e23_c06,Carol Willick,1,11,13,10,14,2,s01_e23_c06_u011,s01_e23_c06_u019,"[s01_e23_c06_u011] Ross Geller: Who the hell is Jordie?
+[s01_e23_c06_u012] Susan Bunch: Your son.
+[s01_e23_c06_u013] Ross Geller: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.
+[s01_e23_c06_u014] Carol Willick: Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie.
+[s01_e23_c06_u015] Ross Geller: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.
+[s01_e23_c06_u016] Carol Willick: Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.
+[s01_e23_c06_u017] Ross Geller: I got it.
+[s01_e23_c06_u018] Susan Bunch: I got it.
+[s01_e23_c06_u019] Ross Geller: I got it! Hey, you get to sleep with her, I get the cramps."
+s01_e23,s01_e23_c06,Carol Willick,2,23,25,22,26,2,s01_e23_c06_u023,s01_e23_c06_u031,"[s01_e23_c06_u023] Susan Bunch: He started it!
+[s01_e23_c06_u024] Ross Geller: No, you started it.
+[s01_e23_c06_u025] Susan Bunch: You did!
+[s01_e23_c06_u026] Carol Willick: I don't care. I am trying to get a person out of my body here, and you're not making it any easier.
+[s01_e23_c06_u027] Ross Geller: But...
+[s01_e23_c06_u028] Carol Willick: Now go!
+[s01_e23_c06_u029] Ross Geller: Thanks a lot.
+[s01_e23_c06_u030] Susan Bunch: See what you did.
+[s01_e23_c06_u031] Ross Geller: Yeah, listen..."
+s01_e23,s01_e23_c06,Carol Willick,3,27,27,26,27,2,s01_e23_c06_u027,s01_e23_c06_u032,"[s01_e23_c06_u027] Ross Geller: But...
+[s01_e23_c06_u028] Carol Willick: Now go!
+[s01_e23_c06_u029] Ross Geller: Thanks a lot.
+[s01_e23_c06_u030] Susan Bunch: See what you did.
+[s01_e23_c06_u031] Ross Geller: Yeah, listen...
+[s01_e23_c06_u032] Carol Willick: Out!"
+s01_e23,s01_e23_c06,Ross Geller,0,0,4,0,5,3,s01_e23_c06_u001,s01_e23_c06_u010,"[s01_e23_c06_u001] Ross Geller: Breathe.
+[s01_e23_c06_u002] Susan Bunch: Breathe.
+[s01_e23_c06_u003] Ross Geller: Breathe.
+[s01_e23_c06_u004] Susan Bunch: Breathe.
+[s01_e23_c06_u005] Ross Geller: Breathe.
+[s01_e23_c06_u006] Susan Bunch: Breathe.
+[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster.
+[s01_e23_c06_u010] Susan Bunch: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie."
+s01_e23,s01_e23_c06,Ross Geller,1,6,27,5,27,3,s01_e23_c06_u006,s01_e23_c06_u032,"[s01_e23_c06_u006] Susan Bunch: Breathe.
+[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster.
+[s01_e23_c06_u010] Susan Bunch: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.
+[s01_e23_c06_u011] Ross Geller: Who the hell is Jordie?
+[s01_e23_c06_u012] Susan Bunch: Your son.
+[s01_e23_c06_u013] Ross Geller: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.
+[s01_e23_c06_u014] Carol Willick: Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie.
+[s01_e23_c06_u015] Ross Geller: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.
+[s01_e23_c06_u016] Carol Willick: Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.
+[s01_e23_c06_u017] Ross Geller: I got it.
+[s01_e23_c06_u018] Susan Bunch: I got it.
+[s01_e23_c06_u019] Ross Geller: I got it! Hey, you get to sleep with her, I get the cramps.
+[s01_e23_c06_u020] Susan Bunch: No, you don't.
+[s01_e23_c06_u021] Carol Willick: All right, that's it. I want both of you out.
+[s01_e23_c06_u022] Ross Geller: Why?
+[s01_e23_c06_u023] Susan Bunch: He started it!
+[s01_e23_c06_u024] Ross Geller: No, you started it.
+[s01_e23_c06_u025] Susan Bunch: You did!
+[s01_e23_c06_u026] Carol Willick: I don't care. I am trying to get a person out of my body here, and you're not making it any easier.
+[s01_e23_c06_u027] Ross Geller: But...
+[s01_e23_c06_u028] Carol Willick: Now go!
+[s01_e23_c06_u029] Ross Geller: Thanks a lot.
+[s01_e23_c06_u030] Susan Bunch: See what you did.
+[s01_e23_c06_u031] Ross Geller: Yeah, listen...
+[s01_e23_c06_u032] Carol Willick: Out!"
+s01_e23,s01_e23_c06,Susan Bunch,0,0,3,0,4,3,s01_e23_c06_u001,s01_e23_c06_u009,"[s01_e23_c06_u001] Ross Geller: Breathe.
+[s01_e23_c06_u002] Susan Bunch: Breathe.
+[s01_e23_c06_u003] Ross Geller: Breathe.
+[s01_e23_c06_u004] Susan Bunch: Breathe.
+[s01_e23_c06_u005] Ross Geller: Breathe.
+[s01_e23_c06_u006] Susan Bunch: Breathe.
+[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster."
+s01_e23,s01_e23_c06,Susan Bunch,1,5,5,4,6,2,s01_e23_c06_u005,s01_e23_c06_u011,"[s01_e23_c06_u005] Ross Geller: Breathe.
+[s01_e23_c06_u006] Susan Bunch: Breathe.
+[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster.
+[s01_e23_c06_u010] Susan Bunch: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.
+[s01_e23_c06_u011] Ross Geller: Who the hell is Jordie?"
+s01_e23,s01_e23_c06,Susan Bunch,2,7,9,6,10,2,s01_e23_c06_u007,s01_e23_c06_u015,"[s01_e23_c06_u007] Carol Willick: You're gonna kill me!
+[s01_e23_c06_u008] Ross Geller: 15 more seconds, 14, 13, 12...
+[s01_e23_c06_u009] Carol Willick: Count faster.
+[s01_e23_c06_u010] Susan Bunch: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.
+[s01_e23_c06_u011] Ross Geller: Who the hell is Jordie?
+[s01_e23_c06_u012] Susan Bunch: Your son.
+[s01_e23_c06_u013] Ross Geller: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.
+[s01_e23_c06_u014] Carol Willick: Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie.
+[s01_e23_c06_u015] Ross Geller: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco."
+s01_e23,s01_e23_c06,Susan Bunch,3,15,22,14,23,2,s01_e23_c06_u015,s01_e23_c06_u028,"[s01_e23_c06_u015] Ross Geller: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.
+[s01_e23_c06_u016] Carol Willick: Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.
+[s01_e23_c06_u017] Ross Geller: I got it.
+[s01_e23_c06_u018] Susan Bunch: I got it.
+[s01_e23_c06_u019] Ross Geller: I got it! Hey, you get to sleep with her, I get the cramps.
+[s01_e23_c06_u020] Susan Bunch: No, you don't.
+[s01_e23_c06_u021] Carol Willick: All right, that's it. I want both of you out.
+[s01_e23_c06_u022] Ross Geller: Why?
+[s01_e23_c06_u023] Susan Bunch: He started it!
+[s01_e23_c06_u024] Ross Geller: No, you started it.
+[s01_e23_c06_u025] Susan Bunch: You did!
+[s01_e23_c06_u026] Carol Willick: I don't care. I am trying to get a person out of my body here, and you're not making it any easier.
+[s01_e23_c06_u027] Ross Geller: But...
+[s01_e23_c06_u028] Carol Willick: Now go!"
+s01_e23,s01_e23_c07,Joey Tribbiani,0,0,1,0,1,2,s01_e23_c07_u001,s01_e23_c07_u007,"[s01_e23_c07_u001] Nurse Sizemore: Breathe, breathe, breathe...
+[s01_e23_c07_u002] Lydia: Oh, no.
+[s01_e23_c07_u003] Unknown Speaker: 
+[s01_e23_c07_u004] Joey Tribbiani: Ew! What is that? Something exploded!
+[s01_e23_c07_u005] Nurse Sizemore: It's just her water breaking. Calm down, will you?
+[s01_e23_c07_u006] Joey Tribbiani: Water breaking, what do you mean? What's that, water breaking?
+[s01_e23_c07_u007] Nurse Sizemore: Breathe, breathe, breathe."
+s01_e23,s01_e23_c07,Nurse Sizemore,0,0,1,0,1,2,s01_e23_c07_u001,s01_e23_c07_u007,"[s01_e23_c07_u001] Nurse Sizemore: Breathe, breathe, breathe...
+[s01_e23_c07_u002] Lydia: Oh, no.
+[s01_e23_c07_u003] Unknown Speaker: 
+[s01_e23_c07_u004] Joey Tribbiani: Ew! What is that? Something exploded!
+[s01_e23_c07_u005] Nurse Sizemore: It's just her water breaking. Calm down, will you?
+[s01_e23_c07_u006] Joey Tribbiani: Water breaking, what do you mean? What's that, water breaking?
+[s01_e23_c07_u007] Nurse Sizemore: Breathe, breathe, breathe."
+s01_e23,s01_e23_c08,Phoebe Buffay,0,6,7,5,7,3,s01_e23_c08_u006,s01_e23_c08_u014,"[s01_e23_c08_u006] Susan Bunch: You know what your problem is? You're threatened by me.
+[s01_e23_c08_u007] Ross Geller: Oh, I'm threatened by you?
+[s01_e23_c08_u008] Susan Bunch: Yes.
+[s01_e23_c08_u009] Unknown Speaker: 
+[s01_e23_c08_u010] Phoebe Buffay: Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!
+[s01_e23_c08_u011] Ross Geller: Yeah, Susan.
+[s01_e23_c08_u012] Phoebe Buffay: Don't make me do this again, I don't like my voice like this.
+[s01_e23_c08_u013] Unknown Speaker: 
+[s01_e23_c08_u014] Phoebe Buffay: Ok, who wants to hear something ironic?"
+s01_e23,s01_e23_c08,Ross Geller,0,0,6,0,7,3,s01_e23_c08_u001,s01_e23_c08_u014,"[s01_e23_c08_u001] Ross Geller: Please. This is so your fault.
+[s01_e23_c08_u002] Susan Bunch: How, how is this my fault?
+[s01_e23_c08_u003] Ross Geller: Look, Carol never threw me out of a room before you came along.
+[s01_e23_c08_u004] Susan Bunch: Yeah? Well, there's a lot of things Carol never did before I came along.
+[s01_e23_c08_u005] Ross Geller: You tryin' to be clever? A funny lady?
+[s01_e23_c08_u006] Susan Bunch: You know what your problem is? You're threatened by me.
+[s01_e23_c08_u007] Ross Geller: Oh, I'm threatened by you?
+[s01_e23_c08_u008] Susan Bunch: Yes.
+[s01_e23_c08_u009] Unknown Speaker: 
+[s01_e23_c08_u010] Phoebe Buffay: Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!
+[s01_e23_c08_u011] Ross Geller: Yeah, Susan.
+[s01_e23_c08_u012] Phoebe Buffay: Don't make me do this again, I don't like my voice like this.
+[s01_e23_c08_u013] Unknown Speaker: 
+[s01_e23_c08_u014] Phoebe Buffay: Ok, who wants to hear something ironic?"
+s01_e23,s01_e23_c08,Susan Bunch,0,0,5,0,6,3,s01_e23_c08_u001,s01_e23_c08_u012,"[s01_e23_c08_u001] Ross Geller: Please. This is so your fault.
+[s01_e23_c08_u002] Susan Bunch: How, how is this my fault?
+[s01_e23_c08_u003] Ross Geller: Look, Carol never threw me out of a room before you came along.
+[s01_e23_c08_u004] Susan Bunch: Yeah? Well, there's a lot of things Carol never did before I came along.
+[s01_e23_c08_u005] Ross Geller: You tryin' to be clever? A funny lady?
+[s01_e23_c08_u006] Susan Bunch: You know what your problem is? You're threatened by me.
+[s01_e23_c08_u007] Ross Geller: Oh, I'm threatened by you?
+[s01_e23_c08_u008] Susan Bunch: Yes.
+[s01_e23_c08_u009] Unknown Speaker: 
+[s01_e23_c08_u010] Phoebe Buffay: Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!
+[s01_e23_c08_u011] Ross Geller: Yeah, Susan.
+[s01_e23_c08_u012] Phoebe Buffay: Don't make me do this again, I don't like my voice like this."
+s01_e23,s01_e23_c10,Carol Willick,0,0,2,0,2,3,s01_e23_c10_u001,s01_e23_c10_u007,"[s01_e23_c10_u001] Carol Willick: Are they here yet?
+[s01_e23_c10_u002] Rachel Green: No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?
+[s01_e23_c10_u003] Carol Willick: Ok.
+[s01_e23_c10_u004] Rachel Green: Ok?
+[s01_e23_c10_u005] Carol Willick: Ok.
+[s01_e23_c10_u006] Rachel Green: Ok, so anyway, you were telling me about Paris, it sounds fascinating.
+[s01_e23_c10_u007] Dr. Franzblau: It really was. There was this great little pastry shop right by my hotel. There you go, dear."
+s01_e23,s01_e23_c10,Rachel Green,0,0,2,0,2,3,s01_e23_c10_u001,s01_e23_c10_u007,"[s01_e23_c10_u001] Carol Willick: Are they here yet?
+[s01_e23_c10_u002] Rachel Green: No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?
+[s01_e23_c10_u003] Carol Willick: Ok.
+[s01_e23_c10_u004] Rachel Green: Ok?
+[s01_e23_c10_u005] Carol Willick: Ok.
+[s01_e23_c10_u006] Rachel Green: Ok, so anyway, you were telling me about Paris, it sounds fascinating.
+[s01_e23_c10_u007] Dr. Franzblau: It really was. There was this great little pastry shop right by my hotel. There you go, dear."
+s01_e23,s01_e23_c14,Dr. Franzblau,0,0,7,0,7,3,s01_e23_c14_u001,s01_e23_c14_u012,"[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+[s01_e23_c14_u002] Rachel Green: No, no, not at the moment, no, I'm not. Are you?
+[s01_e23_c14_u003] Dr. Franzblau: No, it's hard enough to get women to go out with me.
+[s01_e23_c14_u004] Rachel Green: Right, yeah, I've heard that about cute doctors.
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+[s01_e23_c14_u006] Rachel Green: Oh.
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+[s01_e23_c14_u008] Rachel Green: I'm a waitress.
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+[s01_e23_c14_u010] Rachel Green: Yeah. Gotcha.
+[s01_e23_c14_u011] Dr. Franzblau: I'm gonna go check up on your friend.
+[s01_e23_c14_u012] Rachel Green: Ok. That's fine."
+s01_e23,s01_e23_c14,Rachel Green,0,0,7,0,7,3,s01_e23_c14_u001,s01_e23_c14_u012,"[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+[s01_e23_c14_u002] Rachel Green: No, no, not at the moment, no, I'm not. Are you?
+[s01_e23_c14_u003] Dr. Franzblau: No, it's hard enough to get women to go out with me.
+[s01_e23_c14_u004] Rachel Green: Right, yeah, I've heard that about cute doctors.
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+[s01_e23_c14_u006] Rachel Green: Oh.
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+[s01_e23_c14_u008] Rachel Green: I'm a waitress.
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+[s01_e23_c14_u010] Rachel Green: Yeah. Gotcha.
+[s01_e23_c14_u011] Dr. Franzblau: I'm gonna go check up on your friend.
+[s01_e23_c14_u012] Rachel Green: Ok. That's fine."
+s01_e23,s01_e23_c15,Guy,0,0,2,0,2,3,s01_e23_c15_u001,s01_e23_c15_u007,"[s01_e23_c15_u001] Lydia: So how did you know I was even here?
+[s01_e23_c15_u002] Guy: Your mom called me. So is this her?
+[s01_e23_c15_u003] Lydia: No, this is a loaner.
+[s01_e23_c15_u004] Guy: I'm sorry you had to do this by yourself.
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+[s01_e23_c15_u006] Guy: Yeah, the Knicks by 10. They suck.
+[s01_e23_c15_u007] Lydia: Yeah, they're not so bad."
+s01_e23,s01_e23_c15,Lydia,0,0,2,0,2,3,s01_e23_c15_u001,s01_e23_c15_u007,"[s01_e23_c15_u001] Lydia: So how did you know I was even here?
+[s01_e23_c15_u002] Guy: Your mom called me. So is this her?
+[s01_e23_c15_u003] Lydia: No, this is a loaner.
+[s01_e23_c15_u004] Guy: I'm sorry you had to do this by yourself.
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+[s01_e23_c15_u006] Guy: Yeah, the Knicks by 10. They suck.
+[s01_e23_c15_u007] Lydia: Yeah, they're not so bad."
+s01_e23,s01_e23_c16,Phoebe Buffay,0,3,3,2,3,2,s01_e23_c16_u003,s01_e23_c16_u008,"[s01_e23_c16_u003] Ross Geller: No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?
+[s01_e23_c16_u004] Susan Bunch: You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.
+[s01_e23_c16_u005] Ross Geller: Every day is Lesbian Lover Day.
+[s01_e23_c16_u006] Phoebe Buffay: This is so great.
+[s01_e23_c16_u007] Ross Geller: You wanna explain that?
+[s01_e23_c16_u008] Phoebe Buffay: I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one. And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most. And it's not even born yet. It's just, it's just the luckiest baby in the whole world. I'm sorry, you were fighting."
+s01_e23,s01_e23_c16,Ross Geller,0,0,3,0,3,3,s01_e23_c16_u001,s01_e23_c16_u008,"[s01_e23_c16_u001] Ross Geller: Come on, come on. Damnit, damnit, damnit, damnit. This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you.
+[s01_e23_c16_u002] Susan Bunch: The woman I love is having a baby today. I've been waiting for this just as much as you have.
+[s01_e23_c16_u003] Ross Geller: No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?
+[s01_e23_c16_u004] Susan Bunch: You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.
+[s01_e23_c16_u005] Ross Geller: Every day is Lesbian Lover Day.
+[s01_e23_c16_u006] Phoebe Buffay: This is so great.
+[s01_e23_c16_u007] Ross Geller: You wanna explain that?
+[s01_e23_c16_u008] Phoebe Buffay: I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one. And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most. And it's not even born yet. It's just, it's just the luckiest baby in the whole world. I'm sorry, you were fighting."
+s01_e23,s01_e23_c16,Susan Bunch,0,0,1,0,2,2,s01_e23_c16_u001,s01_e23_c16_u007,"[s01_e23_c16_u001] Ross Geller: Come on, come on. Damnit, damnit, damnit, damnit. This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you.
+[s01_e23_c16_u002] Susan Bunch: The woman I love is having a baby today. I've been waiting for this just as much as you have.
+[s01_e23_c16_u003] Ross Geller: No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?
+[s01_e23_c16_u004] Susan Bunch: You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.
+[s01_e23_c16_u005] Ross Geller: Every day is Lesbian Lover Day.
+[s01_e23_c16_u006] Phoebe Buffay: This is so great.
+[s01_e23_c16_u007] Ross Geller: You wanna explain that?"
+s01_e23,s01_e23_c17,Carol Willick,0,6,6,5,6,2,s01_e23_c17_u007,s01_e23_c17_u012,"[s01_e23_c17_u007] Chandler Bing: Somebody wanna help me, tryin' to rip out my heart. Uh, that's great. Anybody seen a nipple?
+[s01_e23_c17_u008] Dr. Franzblau: All right, ten centimeters, here we go.
+[s01_e23_c17_u009] Nurse Sizemore: All right, honey, time to start pushing.
+[s01_e23_c17_u010] Carol Willick: But they're not here yet!
+[s01_e23_c17_u011] Dr. Franzblau: I'm sorry, I can't tell the baby to wait for them.
+[s01_e23_c17_u012] Carol Willick: Oh, god."
+s01_e23,s01_e23_c17,Chandler Bing,0,1,4,0,5,2,s01_e23_c17_u001,s01_e23_c17_u011,"[s01_e23_c17_u001] Carol Willick: Where are they?
+[s01_e23_c17_u002] Monica Geller: I'm sure they'll be here soon.
+[s01_e23_c17_u003] Rachel Green: Yeah, honey, they wouldn't miss this.
+[s01_e23_c17_u004] Joey Tribbiani: Relax. You're only at nine centimeters. And the baby's at zero station.
+[s01_e23_c17_u005] Chandler Bing: You are really frightening me.
+[s01_e23_c17_u006] Unknown Speaker: 
+[s01_e23_c17_u007] Chandler Bing: Somebody wanna help me, tryin' to rip out my heart. Uh, that's great. Anybody seen a nipple?
+[s01_e23_c17_u008] Dr. Franzblau: All right, ten centimeters, here we go.
+[s01_e23_c17_u009] Nurse Sizemore: All right, honey, time to start pushing.
+[s01_e23_c17_u010] Carol Willick: But they're not here yet!
+[s01_e23_c17_u011] Dr. Franzblau: I'm sorry, I can't tell the baby to wait for them."
+s01_e23,s01_e23_c17,Dr. Franzblau,0,5,6,4,6,2,s01_e23_c17_u005,s01_e23_c17_u012,"[s01_e23_c17_u005] Chandler Bing: You are really frightening me.
+[s01_e23_c17_u006] Unknown Speaker: 
+[s01_e23_c17_u007] Chandler Bing: Somebody wanna help me, tryin' to rip out my heart. Uh, that's great. Anybody seen a nipple?
+[s01_e23_c17_u008] Dr. Franzblau: All right, ten centimeters, here we go.
+[s01_e23_c17_u009] Nurse Sizemore: All right, honey, time to start pushing.
+[s01_e23_c17_u010] Carol Willick: But they're not here yet!
+[s01_e23_c17_u011] Dr. Franzblau: I'm sorry, I can't tell the baby to wait for them.
+[s01_e23_c17_u012] Carol Willick: Oh, god."
+s01_e23,s01_e23_c18,Phoebe Buffay,0,0,1,0,2,2,s01_e23_c18_u001,s01_e23_c18_u010,"[s01_e23_c18_u001] Ross Geller: Ok, got the vent open.
+[s01_e23_c18_u002] Phoebe Buffay: Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!
+[s01_e23_c18_u003] Ross Geller: Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.
+[s01_e23_c18_u004] Unknown Speaker: 
+[s01_e23_c18_u005] Susan Bunch: What do you see?
+[s01_e23_c18_u006] Phoebe Buffay: Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.
+[s01_e23_c18_u007] Unknown Speaker: 
+[s01_e23_c18_u008] Ross Geller: Phoebs, It's open! It's open!
+[s01_e23_c18_u009] Unknown Speaker: 
+[s01_e23_c18_u010] Janitor: Wait! You forgot your legs!"
+s01_e23,s01_e23_c18,Ross Geller,0,0,2,0,2,2,s01_e23_c18_u001,s01_e23_c18_u010,"[s01_e23_c18_u001] Ross Geller: Ok, got the vent open.
+[s01_e23_c18_u002] Phoebe Buffay: Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!
+[s01_e23_c18_u003] Ross Geller: Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.
+[s01_e23_c18_u004] Unknown Speaker: 
+[s01_e23_c18_u005] Susan Bunch: What do you see?
+[s01_e23_c18_u006] Phoebe Buffay: Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.
+[s01_e23_c18_u007] Unknown Speaker: 
+[s01_e23_c18_u008] Ross Geller: Phoebs, It's open! It's open!
+[s01_e23_c18_u009] Unknown Speaker: 
+[s01_e23_c18_u010] Janitor: Wait! You forgot your legs!"
+s01_e23,s01_e23_c19,Carol Willick,0,13,15,12,15,2,s01_e23_c19_u016,s01_e23_c19_u023,"[s01_e23_c19_u016] Susan Bunch: What do you see? What do you see?
+[s01_e23_c19_u017] Ross Geller: We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.
+[s01_e23_c19_u018] Susan Bunch: Oh, look at that.
+[s01_e23_c19_u019] Carol Willick: What does he look like?
+[s01_e23_c19_u020] Ross Geller: Kinda like my uncle Ed, covered in Jell-o.
+[s01_e23_c19_u021] Carol Willick: Really?
+[s01_e23_c19_u022] Phoebe Buffay: You guys, he's beautiful!
+[s01_e23_c19_u023] Ross Geller: Oh, thanks, Pheebs!"
+s01_e23,s01_e23_c19,Dr. Franzblau,0,3,3,2,4,2,s01_e23_c19_u004,s01_e23_c19_u012,"[s01_e23_c19_u004] Ross Geller: Long story, honey.
+[s01_e23_c19_u005] Dr. Franzblau: All right, Carol, I need you to keep pushing. I need Excuse me, could I have this?
+[s01_e23_c19_u006] Nurse Sizemore: All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!
+[s01_e23_c19_u007] #ALL#: Good luck!
+[s01_e23_c19_u008] Unknown Speaker: 
+[s01_e23_c19_u009] Chandler Bing: Let me ask you, do you have to be Carol's lesbian life partner?
+[s01_e23_c19_u010] Nurse Sizemore: Out!
+[s01_e23_c19_u011] Dr. Franzblau: All right, he's crowning. Here he comes.
+[s01_e23_c19_u012] Ross Geller: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?"
+s01_e23,s01_e23_c19,Dr. Franzblau,1,6,7,5,8,2,s01_e23_c19_u009,s01_e23_c19_u016,"[s01_e23_c19_u009] Chandler Bing: Let me ask you, do you have to be Carol's lesbian life partner?
+[s01_e23_c19_u010] Nurse Sizemore: Out!
+[s01_e23_c19_u011] Dr. Franzblau: All right, he's crowning. Here he comes.
+[s01_e23_c19_u012] Ross Geller: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?
+[s01_e23_c19_u013] Carol Willick: Not.... helping!
+[s01_e23_c19_u014] Dr. Franzblau: You're doing great, you're doing fine.
+[s01_e23_c19_u015] Ross Geller: Hello! Oh, sorry.
+[s01_e23_c19_u016] Susan Bunch: What do you see? What do you see?"
+s01_e23,s01_e23_c19,Nurse Sizemore,0,2,4,1,5,2,s01_e23_c19_u003,s01_e23_c19_u013,"[s01_e23_c19_u003] Carol Willick: Where have you been?
+[s01_e23_c19_u004] Ross Geller: Long story, honey.
+[s01_e23_c19_u005] Dr. Franzblau: All right, Carol, I need you to keep pushing. I need Excuse me, could I have this?
+[s01_e23_c19_u006] Nurse Sizemore: All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!
+[s01_e23_c19_u007] #ALL#: Good luck!
+[s01_e23_c19_u008] Unknown Speaker: 
+[s01_e23_c19_u009] Chandler Bing: Let me ask you, do you have to be Carol's lesbian life partner?
+[s01_e23_c19_u010] Nurse Sizemore: Out!
+[s01_e23_c19_u011] Dr. Franzblau: All right, he's crowning. Here he comes.
+[s01_e23_c19_u012] Ross Geller: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?
+[s01_e23_c19_u013] Carol Willick: Not.... helping!"
+s01_e23,s01_e23_c19,Ross Geller,0,0,0,0,1,2,s01_e23_c19_u002,s01_e23_c19_u009,"[s01_e23_c19_u002] Ross Geller: We're here!
+[s01_e23_c19_u003] Carol Willick: Where have you been?
+[s01_e23_c19_u004] Ross Geller: Long story, honey.
+[s01_e23_c19_u005] Dr. Franzblau: All right, Carol, I need you to keep pushing. I need Excuse me, could I have this?
+[s01_e23_c19_u006] Nurse Sizemore: All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!
+[s01_e23_c19_u007] #ALL#: Good luck!
+[s01_e23_c19_u008] Unknown Speaker: 
+[s01_e23_c19_u009] Chandler Bing: Let me ask you, do you have to be Carol's lesbian life partner?"
+s01_e23,s01_e23_c19,Ross Geller,1,7,13,6,14,2,s01_e23_c19_u010,s01_e23_c19_u022,"[s01_e23_c19_u010] Nurse Sizemore: Out!
+[s01_e23_c19_u011] Dr. Franzblau: All right, he's crowning. Here he comes.
+[s01_e23_c19_u012] Ross Geller: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?
+[s01_e23_c19_u013] Carol Willick: Not.... helping!
+[s01_e23_c19_u014] Dr. Franzblau: You're doing great, you're doing fine.
+[s01_e23_c19_u015] Ross Geller: Hello! Oh, sorry.
+[s01_e23_c19_u016] Susan Bunch: What do you see? What do you see?
+[s01_e23_c19_u017] Ross Geller: We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.
+[s01_e23_c19_u018] Susan Bunch: Oh, look at that.
+[s01_e23_c19_u019] Carol Willick: What does he look like?
+[s01_e23_c19_u020] Ross Geller: Kinda like my uncle Ed, covered in Jell-o.
+[s01_e23_c19_u021] Carol Willick: Really?
+[s01_e23_c19_u022] Phoebe Buffay: You guys, he's beautiful!"
+s01_e23,s01_e23_c19,Ross Geller,2,15,15,14,15,2,s01_e23_c19_u018,s01_e23_c19_u023,"[s01_e23_c19_u018] Susan Bunch: Oh, look at that.
+[s01_e23_c19_u019] Carol Willick: What does he look like?
+[s01_e23_c19_u020] Ross Geller: Kinda like my uncle Ed, covered in Jell-o.
+[s01_e23_c19_u021] Carol Willick: Really?
+[s01_e23_c19_u022] Phoebe Buffay: You guys, he's beautiful!
+[s01_e23_c19_u023] Ross Geller: Oh, thanks, Pheebs!"
+s01_e23,s01_e23_c19,Susan Bunch,0,10,12,9,13,2,s01_e23_c19_u013,s01_e23_c19_u021,"[s01_e23_c19_u013] Carol Willick: Not.... helping!
+[s01_e23_c19_u014] Dr. Franzblau: You're doing great, you're doing fine.
+[s01_e23_c19_u015] Ross Geller: Hello! Oh, sorry.
+[s01_e23_c19_u016] Susan Bunch: What do you see? What do you see?
+[s01_e23_c19_u017] Ross Geller: We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.
+[s01_e23_c19_u018] Susan Bunch: Oh, look at that.
+[s01_e23_c19_u019] Carol Willick: What does he look like?
+[s01_e23_c19_u020] Ross Geller: Kinda like my uncle Ed, covered in Jell-o.
+[s01_e23_c19_u021] Carol Willick: Really?"
+s01_e23,s01_e23_c20,Monica Geller,0,4,6,3,7,2,s01_e23_c20_u004,s01_e23_c20_u014,"[s01_e23_c20_u004] Carol Willick: Ben. Ben. Ben's good. How come you never mentioned Ben before?
+[s01_e23_c20_u005] Ross Geller: We uh, we just cooked it up.
+[s01_e23_c20_u006] Susan Bunch: That's what we were off doing.
+[s01_e23_c20_u007] Unknown Speaker: 
+[s01_e23_c20_u008] Monica Geller: Hi.
+[s01_e23_c20_u009] Ross Geller: Hey.
+[s01_e23_c20_u010] Monica Geller: Can we come in?
+[s01_e23_c20_u011] Unknown Speaker: 
+[s01_e23_c20_u012] Ross Geller: I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.
+[s01_e23_c20_u013] Phoebe Buffay: Susan, he looks just like you.
+[s01_e23_c20_u014] Susan Bunch: Thanks."
+s01_e23,s01_e23_c20,Monica Geller,1,12,12,11,12,2,s01_e23_c20_u014,s01_e23_c20_u020,"[s01_e23_c20_u014] Susan Bunch: Thanks.
+[s01_e23_c20_u015] Rachel Green: Oh, god, I can't believe one of us actually has one of these.
+[s01_e23_c20_u016] Chandler Bing: I know, I still am one of these.
+[s01_e23_c20_u017] Monica Geller: Ross, can I?
+[s01_e23_c20_u018] Unknown Speaker: 
+[s01_e23_c20_u019] Ross Geller: The head, the head. You gotta...
+[s01_e23_c20_u020] Monica Geller: Hi, Ben. Hi. I'm your Aunt Monica. Yes I am. I'm your Aunt Monica. I...I will always have gum."
+s01_e23,s01_e23_c20,Ross Geller,0,0,1,0,2,2,s01_e23_c20_u001,s01_e23_c20_u008,"[s01_e23_c20_u001] Susan Bunch: No shouting, but we still need a name for this little guy.
+[s01_e23_c20_u002] Ross Geller: How 'bout Ben?
+[s01_e23_c20_u003] Susan Bunch: I like Ben.
+[s01_e23_c20_u004] Carol Willick: Ben. Ben. Ben's good. How come you never mentioned Ben before?
+[s01_e23_c20_u005] Ross Geller: We uh, we just cooked it up.
+[s01_e23_c20_u006] Susan Bunch: That's what we were off doing.
+[s01_e23_c20_u007] Unknown Speaker: 
+[s01_e23_c20_u008] Monica Geller: Hi."
+s01_e23,s01_e23_c20,Ross Geller,1,3,7,2,8,2,s01_e23_c20_u003,s01_e23_c20_u015,"[s01_e23_c20_u003] Susan Bunch: I like Ben.
+[s01_e23_c20_u004] Carol Willick: Ben. Ben. Ben's good. How come you never mentioned Ben before?
+[s01_e23_c20_u005] Ross Geller: We uh, we just cooked it up.
+[s01_e23_c20_u006] Susan Bunch: That's what we were off doing.
+[s01_e23_c20_u007] Unknown Speaker: 
+[s01_e23_c20_u008] Monica Geller: Hi.
+[s01_e23_c20_u009] Ross Geller: Hey.
+[s01_e23_c20_u010] Monica Geller: Can we come in?
+[s01_e23_c20_u011] Unknown Speaker: 
+[s01_e23_c20_u012] Ross Geller: I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.
+[s01_e23_c20_u013] Phoebe Buffay: Susan, he looks just like you.
+[s01_e23_c20_u014] Susan Bunch: Thanks.
+[s01_e23_c20_u015] Rachel Green: Oh, god, I can't believe one of us actually has one of these."
+s01_e23,s01_e23_c20,Susan Bunch,0,0,2,0,3,2,s01_e23_c20_u001,s01_e23_c20_u009,"[s01_e23_c20_u001] Susan Bunch: No shouting, but we still need a name for this little guy.
+[s01_e23_c20_u002] Ross Geller: How 'bout Ben?
+[s01_e23_c20_u003] Susan Bunch: I like Ben.
+[s01_e23_c20_u004] Carol Willick: Ben. Ben. Ben's good. How come you never mentioned Ben before?
+[s01_e23_c20_u005] Ross Geller: We uh, we just cooked it up.
+[s01_e23_c20_u006] Susan Bunch: That's what we were off doing.
+[s01_e23_c20_u007] Unknown Speaker: 
+[s01_e23_c20_u008] Monica Geller: Hi.
+[s01_e23_c20_u009] Ross Geller: Hey."
+s01_e23,s01_e23_c21,Joey Tribbiani,0,2,4,1,5,2,s01_e23_c21_u003,s01_e23_c21_u014,"[s01_e23_c21_u003] Chandler Bing: And sometimes, I'll want you to steal third, and I'll go like this.
+[s01_e23_c21_u004] Unknown Speaker: 
+[s01_e23_c21_u005] Monica Geller: He is so amazing.
+[s01_e23_c21_u006] Rachel Green: Oh, I know. Look at him.
+[s01_e23_c21_u007] Joey Tribbiani: Ben, Ben, hey Ben. Nothing. I don't think that's his name.
+[s01_e23_c21_u008] Phoebe Buffay: Oh, look, look, he's closing his eyes. Look, he's opening his eyes.
+[s01_e23_c21_u009] Joey Tribbiani: He doesn't do much, does he?
+[s01_e23_c21_u010] Ross Geller: No, this is pretty much it.
+[s01_e23_c21_u011] Unknown Speaker: 
+[s01_e23_c21_u012] Rachel Green: You guys wanna get some coffee?
+[s01_e23_c21_u013] #ALL#: Yeah.
+[s01_e23_c21_u014] Ross Geller: All right, I'll see you guys later."
+s01_e23,s01_e23_c21,Ross Geller,0,5,6,4,6,2,s01_e23_c21_u007,s01_e23_c21_u016,"[s01_e23_c21_u007] Joey Tribbiani: Ben, Ben, hey Ben. Nothing. I don't think that's his name.
+[s01_e23_c21_u008] Phoebe Buffay: Oh, look, look, he's closing his eyes. Look, he's opening his eyes.
+[s01_e23_c21_u009] Joey Tribbiani: He doesn't do much, does he?
+[s01_e23_c21_u010] Ross Geller: No, this is pretty much it.
+[s01_e23_c21_u011] Unknown Speaker: 
+[s01_e23_c21_u012] Rachel Green: You guys wanna get some coffee?
+[s01_e23_c21_u013] #ALL#: Yeah.
+[s01_e23_c21_u014] Ross Geller: All right, I'll see you guys later.
+[s01_e23_c21_u015] Unknown Speaker: 
+[s01_e23_c21_u016] Phoebe Buffay: Oh, look, he's closing his eyes again."

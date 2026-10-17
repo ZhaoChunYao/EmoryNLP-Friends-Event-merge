@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker enthusiastically says going to Minsk together would be even more exciting and publicly pushes the conversation forward by urging Speaker_02 to state a decision and by boldly stating Speaker_02 wants to stay and make out."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker encourages Speaker_02 to be honest with Speaker_01 about the Minsk decision and straightforwardly voices what Speaker_02 wants; Speaker_02 thanks TargetSpeaker afterward."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks assertively and with confidence about plans and romantic intentions, showing no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses excitement about the novel experience of going to Minsk, calling it even more exciting."
+  }
+}

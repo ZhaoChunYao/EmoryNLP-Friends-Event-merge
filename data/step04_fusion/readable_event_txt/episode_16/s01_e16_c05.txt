@@ -1,0 +1,163 @@
+event_id: s01_e16_c05_u001_e1
+utterance_id: s01_e16_c05_u001
+  tuple: ('be', 'it/(situation)', "just that she's really really cute", 's01_e16_c05_u001')
+  tuple: ('be', 'she/(unknown)', 'really really cute', 's01_e16_c05_u001')
+
+event_id: s01_e16_c05_u002_e1
+utterance_id: s01_e16_c05_u002
+  tuple: ('matter', 'it/(situation)', None, 's01_e16_c05_u002')
+
+event_id: s01_e16_c05_u002_e2
+utterance_id: s01_e16_c05_u002
+  tuple: ('dip', 'you/(Chandler Bing)', 'your pen', 's01_e16_c05_u002')
+  tuple: ('dip', 'you/(Chandler Bing)', 'in the company ink', 's01_e16_c05_u002')
+
+event_id: s01_e16_c05_u004_e1
+utterance_id: s01_e16_c05_u004
+  tuple: ('get', 'your little creature', 'the remote', 's01_e16_c05_u004')
+
+event_id: s01_e16_c05_u005_e1
+utterance_id: s01_e16_c05_u005
+  tuple: ('give', 'Marcel', 'the remote', 's01_e16_c05_u005')
+  tuple: ('give', 'you/(Marcel)', 'the remote', 's01_e16_c05_u005')
+
+event_id: s01_e16_c05_u008_e1
+utterance_id: s01_e16_c05_u008
+  tuple: ('relax', 'you/(Monica Geller)', None, 's01_e16_c05_u008')
+
+event_id: s01_e16_c05_u008_e2
+utterance_id: s01_e16_c05_u008
+  tuple: ('fix', 'I/(Ross Geller)', 'it/(TV)', 's01_e16_c05_u008')
+
+event_id: s01_e16_c05_u009_e1
+utterance_id: s01_e16_c05_u009
+  tuple: ('be', 'Urkel in Spanish', 'Urkel', 's01_e16_c05_u009')
+  tuple: ('be', 'Urkel', 'in Spanish', 's01_e16_c05_u009')
+
+event_id: s01_e16_c05_u010_e1
+utterance_id: s01_e16_c05_u010
+  tuple: ('do', 'he/(Marcel)', 'this', 's01_e16_c05_u010')
+
+event_id: s01_e16_c05_u011_e1
+utterance_id: s01_e16_c05_u011
+  tuple: ('tell', 'you/(Monica Geller)', 'something', 's01_e16_c05_u011')
+
+event_id: s01_e16_c05_u011_e2
+utterance_id: s01_e16_c05_u011
+  tuple: ('be', 'leaving the Christmas lights up', 'part of your plan to keep us merry all year long', 's01_e16_c05_u011')
+  tuple: ('leave', 'you/(Monica Geller)', 'the Christmas lights up', 's01_e16_c05_u011')
+  tuple: ('keep', 'you/(Monica Geller)', 'us merry all year long', 's01_e16_c05_u011')
+
+event_id: s01_e16_c05_u013_e1
+utterance_id: s01_e16_c05_u013
+  tuple: ('see', 'you/(Chandler Bing)', None, 's01_e16_c05_u013')
+
+event_id: s01_e16_c05_u013_e2
+utterance_id: s01_e16_c05_u013
+  tuple: ('take', 'someone', 'them down around New Years', 's01_e16_c05_u013')
+
+event_id: s01_e16_c05_u013_e3
+utterance_id: s01_e16_c05_u013
+  tuple: ('forget', 'someone', None, 's01_e16_c05_u013')
+
+event_id: s01_e16_c05_u014_e1
+utterance_id: s01_e16_c05_u014
+  tuple: ('write', 'someone', 'Rach, take down the lights', 's01_e16_c05_u014')
+
+event_id: s01_e16_c05_u014_e2
+utterance_id: s01_e16_c05_u014
+  tuple: ('put', 'someone', 'it/(note)', 's01_e16_c05_u014')
+  tuple: ('put', 'someone', 'on the refrigerator', 's01_e16_c05_u014')
+
+event_id: s01_e16_c05_u014_e3
+utterance_id: s01_e16_c05_u014
+  tuple: ('be', 'that/(note)', 'there', 's01_e16_c05_u014')
+
+event_id: s01_e16_c05_u016_e1
+utterance_id: s01_e16_c05_u016
+  tuple: ('be', 'you/(Joey Tribbiani)', 'where', 's01_e16_c05_u016')
+
+event_id: s01_e16_c05_u017_e1
+utterance_id: s01_e16_c05_u017
+  tuple: ('go', 'I/(Joey Tribbiani)', 'back to Riffs', 's01_e16_c05_u017')
+
+event_id: s01_e16_c05_u017_e2
+utterance_id: s01_e16_c05_u017
+  tuple: ('think', 'I/(Joey Tribbiani)', 'Ursula likes me', 's01_e16_c05_u017')
+  tuple: ('like', 'Ursula Buffay', 'me', 's01_e16_c05_u017')
+
+event_id: s01_e16_c05_u017_e3
+utterance_id: s01_e16_c05_u017
+  tuple: ('order', 'I/(Joey Tribbiani)', 'coffee', 's01_e16_c05_u017')
+
+event_id: s01_e16_c05_u017_e4
+utterance_id: s01_e16_c05_u017
+  tuple: ('bring', 'she/(Ursula Buffay)', 'a tuna melt and four plates of curly fries', 's01_e16_c05_u017')
+
+event_id: s01_e16_c05_u019_e1
+utterance_id: s01_e16_c05_u019
+  tuple: ('be', 'she/(Ursula Buffay)', 'so hot', 's01_e16_c05_u019')
+
+event_id: s01_e16_c05_u020_e1
+utterance_id: s01_e16_c05_u020
+  tuple: ('listen', 'you/(Joey Tribbiani)', None, 's01_e16_c05_u020')
+
+event_id: s01_e16_c05_u020_e2
+utterance_id: s01_e16_c05_u020
+  tuple: ('do', 'you/(Joey Tribbiani)', 'anything Joey-like', 's01_e16_c05_u020')
+
+event_id: s01_e16_c05_u020_e3
+utterance_id: s01_e16_c05_u020
+  tuple: ('run', 'you/(Joey Tribbiani)', 'it by', 's01_e16_c05_u020')
+
+event_id: s01_e16_c05_u023_e1
+utterance_id: s01_e16_c05_u023
+  tuple: ('think', 'you/(Phoebe Buffay)', 'it would be okay if I asked out your sister', 's01_e16_c05_u023')
+  tuple: ('be', 'it/(asking out your sister)', 'okay', 's01_e16_c05_u023')
+  tuple: ('ask', 'I/(Joey Tribbiani)', 'out your sister', 's01_e16_c05_u023')
+
+event_id: s01_e16_c05_u024_e1
+utterance_id: s01_e16_c05_u024
+  tuple: ('do', 'you/(Joey Tribbiani)', 'that', 's01_e16_c05_u024')
+
+event_id: s01_e16_c05_u025_e1
+utterance_id: s01_e16_c05_u025
+  tuple: ('go', 'we/(Joey Tribbiani+Ursula Buffay)', 'out on a date', 's01_e16_c05_u025')
+
+event_id: s01_e16_c05_u025_e2
+utterance_id: s01_e16_c05_u025
+  tuple: ('be', 'she/(Ursula Buffay)', 'there', 's01_e16_c05_u025')
+
+event_id: s01_e16_c05_u026_e1
+utterance_id: s01_e16_c05_u026
+  tuple: ('mean', 'I/(Phoebe Buffay)', None, 's01_e16_c05_u026')
+
+event_id: s01_e16_c05_u026_e2
+utterance_id: s01_e16_c05_u026
+  tuple: ('be', 'I/(Phoebe Buffay)', "not my sister's", 's01_e16_c05_u026')
+
+event_id: s01_e16_c05_u026_e3
+utterance_id: s01_e16_c05_u026
+  tuple: ('be', 'it/(fact)', 'true', 's01_e16_c05_u026')
+  tuple: ('be', 'we/(Phoebe Buffay+Ursula Buffay)', 'one egg', 's01_e16_c05_u026')
+
+event_id: s01_e16_c05_u026_e4
+utterance_id: s01_e16_c05_u026
+  tuple: ('grow', 'we/(Phoebe Buffay+Ursula Buffay)', 'apart', 's01_e16_c05_u026')
+
+event_id: s01_e16_c05_u026_e5
+utterance_id: s01_e16_c05_u026
+  tuple: ('know', 'I/(Phoebe Buffay)', None, 's01_e16_c05_u026')
+
+event_id: s01_e16_c05_u029_e1
+utterance_id: s01_e16_c05_u029
+  tuple: ('be', 'you/(Phoebe Buffay)', 'okay', 's01_e16_c05_u029')
+
+event_id: s01_e16_c05_u030_e1
+utterance_id: s01_e16_c05_u030
+  tuple: ('be', 'I/(Phoebe Buffay)', 'fine', 's01_e16_c05_u030')
+
+event_id: s01_e16_c05_u031_e1
+utterance_id: s01_e16_c05_u031
+  tuple: ('watch', 'you/(Phoebe Buffay)', 'Laverne y Shirley', 's01_e16_c05_u031')
+

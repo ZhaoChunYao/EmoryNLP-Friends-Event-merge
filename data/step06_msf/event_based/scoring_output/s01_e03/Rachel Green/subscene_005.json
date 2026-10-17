@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively prepares for a confrontation (taking hair down, putting on gloves), showing bold, socially assertive behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After a coworker’s jab, TargetSpeaker prepares for a confrontation rather than responding cooperatively or letting it go."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Although saying she should get back to work, TargetSpeaker immediately diverts to prepare for a confrontation, neglecting work tasks."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker reacts defensively to criticism and escalates toward confrontation, indicating emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity/novelty-seeking or of rigid dogmatism in the exchange."
+  }
+}

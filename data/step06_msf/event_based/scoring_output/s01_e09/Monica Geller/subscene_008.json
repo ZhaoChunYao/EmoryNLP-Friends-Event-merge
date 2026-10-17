@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives directives and takes charge: tells Speaker_01 to go faster trying the keys and confronts Speaker_03 about previously saying she had the keys."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Critical and pressuring: says Speaker_02 and Speaker_01 have an excessive number of keys and urges Speaker_01 to hurry rather than responding supportively."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Focus on efficiency/organization: urges faster key-trying and points out the inefficiency of carrying an excessive number of keys."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence rather than anxiety—issues firm directives and holds others accountable without signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity/creativity or dogmatism/caution; remarks are limited to practical logistics."
+  }
+}

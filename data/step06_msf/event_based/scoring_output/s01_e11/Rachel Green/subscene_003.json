@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates sharing in the group, saying they have to tell Speaker_01 something and then enthusiastically talks about having read all their work and wanting to become a writer."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers generous, admiring praise to Speaker_01, saying they have read everything written and that the book inspired them."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker admits they and Paolo are late and lost track of time, indicating carelessness/disorganization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently approaches and openly shares personal admiration and aspirations without signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows strong interest in literature and says a novel inspired them to become a writer, indicating curiosity and openness to experience."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "She gives terse, guarded replies (“What about it?”, “Potassium.”) and only speaks to assert ownership or call the monkey; not clearly outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She denies having a monkey (u006), then claims Marcel is her monkey named Patti (u013, u015, u020), then later admits he isn’t hers (u022), showing deceptive and inconsistent behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; her actions center on evasive claims rather than task management or planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite a tense situation, she does not express fear or distress; her responses are brief and controlled, with no clear signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She quickly improvises a cover story—renaming Marcel as “Patti” and offering a clever “Potassium” reason for many bananas (u008, u013)—showing inventive, flexible thinking."
+  }
+}

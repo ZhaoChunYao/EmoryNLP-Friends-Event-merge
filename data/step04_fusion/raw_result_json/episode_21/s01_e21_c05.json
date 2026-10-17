@@ -1,0 +1,384 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c05_u001",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('think', 'you/Phoebe Buffay', 'what', 's01_e21_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u004",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('think', 'you/Monica Geller', 'which one', 's01_e21_c05_u004')",
+            "('be', 'she/(a woman in class)', 'which one', 's01_e21_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u006",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('help', 'I/Teacher', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 's01_e21_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u007",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', 'here', 's01_e21_c05_u007')",
+            "('observe', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', None, 's01_e21_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u008",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('observe', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'a dance class', 's01_e21_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('dance', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'a dance class', 's01_e21_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('be', 'spare shoes', 'over there', 's01_e21_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u009",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('mean', 'she/Teacher', 'what', 's01_e21_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u010",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', \"she means 'You dance a dance class'\", 's01_e21_c05_u010')",
+            "('mean', 'she/Teacher', \"'You dance a dance class'\", 's01_e21_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u011",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('see', 'you/(Rachel Green+Phoebe Buffay)', 'anybody', 's01_e21_c05_u011')",
+            "('think', 'you/(Rachel Green+Phoebe Buffay)', 'anybody', 's01_e21_c05_u011')",
+            "('be', 'anybody/(a person in class)', 'me', 's01_e21_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u012",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'there', 'some empty yoghurt containers', 's01_e21_c05_u012')",
+            "('lie', 'some empty yoghurt containers', 'around', 's01_e21_c05_u012')",
+            "('lie', 'some empty yoghurt containers', 'after class', 's01_e21_c05_u012')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('have', 'us/(class)', 'that happen again', 's01_e21_c05_u012')",
+            "('happen', 'that', None, 's01_e21_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u013",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'she/(a woman in class)', 'you', 's01_e21_c05_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u015",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('start', 'us/(class)', None, 's01_e21_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u017",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('get', 'I/Monica Geller', 'this', 's01_e21_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u018",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('get', 'I/Phoebe Buffay', 'it', 's01_e21_c05_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u019",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('feel', 'you/(Rachel Green+Phoebe Buffay)', 'like sometimes you are just so unbelievably uncoordinated', 's01_e21_c05_u019')",
+            "('be', 'you/(Rachel Green+Phoebe Buffay)', 'so unbelievably uncoordinated', 's01_e21_c05_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u021",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('click', 'you/Monica Geller', None, 's01_e21_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('click', 'they/(other dancers)', None, 's01_e21_c05_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u022",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('grab', 'everyone/(class)', 'a partner', 's01_e21_c05_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u024",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('say', 'my dead mother', 'you are it', 's01_e21_c05_u024')",
+            "('be', 'you/Monica Geller', 'it', 's01_e21_c05_u024')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'with Rachel', 's01_e21_c05_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u025",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'it/(situation)', 'gym class', 's01_e21_c05_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u027",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'that/(situation)', 'all right', 's01_e21_c05_u027')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('come', 'you/Monica Geller', 'up to the front', 's01_e21_c05_u027')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('dance', 'you/Monica Geller', 'with me', 's01_e21_c05_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u028",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('take', 'I/Monica Geller', 'off my clothes', 's01_e21_c05_u028')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'a nightmare', 's01_e21_c05_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u030",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'it/(situation)', 'okay', 's01_e21_c05_u030')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'I/Fake Monica', 'here', 's01_e21_c05_u030')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('be', 'I/Fake Monica', 'late', 's01_e21_c05_u030')"
+          ]
+        },
+        {
+          "event_id": "event4",
+          "tuples": [
+            "('be', 'who/(unknown person)', 'the new tense girl', 's01_e21_c05_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u031",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'she/Monica Geller', 'your partner', 's01_e21_c05_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u032",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'I/Fake Monica', 'Monica', 's01_e21_c05_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u033",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'Monana', 's01_e21_c05_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u035",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'it/(the name \"Monana\")', 'Dutch', 's01_e21_c05_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u036",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('kid', 'you/Monica Geller', None, 's01_e21_c05_u036')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('spend', 'I/Fake Monica', 'three years', 's01_e21_c05_u036')",
+            "('spend', 'I/Fake Monica', 'in Amsterdam', 's01_e21_c05_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c05_u038",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('dance', 'we/(class)', None, 's01_e21_c05_u038')"
+          ]
+        }
+      ]
+    }
+  ]
+}

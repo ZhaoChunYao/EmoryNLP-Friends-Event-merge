@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only brief replies (“No.”) and a minimal greeting; shares one fact about stopping for a candy bar and does not engage further or take up the offered bar."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Neutral interaction—politely greets and simply refuses the offer; no signs of hostility or generosity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or carelessness; stopping for a candy bar and refusing another give no signal."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; responses are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, imagination, or dogmatism in the brief exchanges."
+  }
+}

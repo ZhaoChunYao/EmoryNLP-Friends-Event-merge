@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker repeatedly refuses to whistle in public (“we’re not going to whistle,” “No!” twice) and only complies after persistent urging, indicating reservedness."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They are initially uncooperative (“No!”) but eventually go along (“Woo-woo!”) and say “Thanks,” showing politeness; mixed signals."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about organization, planning, or reliability is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Reluctance and resistance to a public act under peer pressure, then yielding, suggest discomfort and sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Refusal could indicate caution, but eventually trying it after prompting provides no clear tendency toward openness or closed-mindedness."
+  }
+}

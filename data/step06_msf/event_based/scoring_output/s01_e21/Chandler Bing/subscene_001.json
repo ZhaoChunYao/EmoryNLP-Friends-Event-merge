@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He actively and playfully pitches multiple name ideas (u001 'Joey... Pepponi?', u003 'Joey... Switzerland?', u006 'Joe...Stalin?') and keeps the exchange going by suggesting another option (u010)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He cooperatively helps choose a neutral name and offers the considerate suggestion to try 'Joseph' (u010), with a supportive tone throughout."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; tossing out joke names during brainstorming (u001, u006) doesn’t indicate reliability one way or the other."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He appears relaxed and playful, and casually admits not recognizing 'Stalin' (u008) without any sign of worry or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He shows creativity and associative thinking with playful, abstract name ideas (u001, u003, u006) and references to musicals/actors (u013), suggesting curiosity and openness."
+  }
+}

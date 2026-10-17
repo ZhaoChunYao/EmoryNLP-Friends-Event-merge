@@ -1,0 +1,99 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c07_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'here', 's01_e11_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c07_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', \"I'd stop by\", 's01_e11_c07_u004')",
+            "('stop by', 'I/Phoebe Buffay', None, 's01_e11_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'here', 's01_e11_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c07_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'here', 's01_e11_c07_u005')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('think', 'I/Monica Geller', \"I'd drop these off on the way\", 's01_e11_c07_u005')",
+            "('drop off', 'I/Monica Geller', 'these', 's01_e11_c07_u005')",
+            "('drop off', 'I/Monica Geller', 'on the way', 's01_e11_c07_u005')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('come', 'you/Phoebe Buffay', 'here', 's01_e11_c07_u005')",
+            "('come', 'you/Phoebe Buffay', 'without me', 's01_e11_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c07_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/Monica Geller', \"he's doing any better than he was this morning\", 's01_e11_c07_u006')",
+            "('do', 'he', 'better', 's01_e11_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'he', 'this morning', 's01_e11_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c07_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/Monica Geller', None, 's01_e11_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c07_u008",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('change', 'you/Monica Geller', 'his pajamas', 's01_e11_c07_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

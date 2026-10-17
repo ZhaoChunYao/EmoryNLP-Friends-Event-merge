@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In a group setting, TargetSpeaker proactively takes the lead, telling Speaker_02 to look and offering an answer, delivering advice openly ('You're single ... have some hormones')."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker identifies and validates Speaker_02's emotions ('a lot of pain, ... angry, ... hurting') and offers help by proposing an answer."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions reflect planning, organization, or diligence; only brief advice is given."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks with confidence and certainty ('I can tell you what the answer is') and shows no signs of anxiety or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or imaginative thinking; the comments are straightforward advice and a quip."
+  }
+}

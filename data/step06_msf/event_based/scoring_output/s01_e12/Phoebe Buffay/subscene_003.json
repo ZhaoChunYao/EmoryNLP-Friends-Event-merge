@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "When multiple friends greet them, TargetSpeaker replies curtly with “Fine!” and does not engage further beyond an apology (u013–u015), indicating withdrawn, non-talkative behavior in a social setting."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly says they are sorry (u015), showing apologetic and considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicate organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker states they are currently “out of sorts” (u015), indicating negative affect and stress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/creativity or dogmatism/caution is present in the dialogue."
+  }
+}

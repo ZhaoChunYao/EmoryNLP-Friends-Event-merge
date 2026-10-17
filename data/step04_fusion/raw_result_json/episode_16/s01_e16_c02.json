@@ -1,0 +1,456 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c02_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u001_e1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', \"whether he's testing me, or just acting out\", 's01_e16_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u001_e2",
+          "tuples": [
+            "('test', 'he/(Marcel)', 'me', 's01_e16_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u001_e3",
+          "tuples": [
+            "('act out', 'he/(Marcel)', None, 's01_e16_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u001_e4",
+          "tuples": [
+            "('be', 'my monkey', 'out of control', 's01_e16_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u001_e5",
+          "tuples": [
+            "('keep', 'he/(Marcel)', 'erasing the messages on my machine by accident', 's01_e16_c02_u001')",
+            "('erase', 'he/(Marcel)', 'the messages', 's01_e16_c02_u001')",
+            "('erase', 'he/(Marcel)', 'on my machine', 's01_e16_c02_u001')",
+            "('erase', 'he/(Marcel)', 'by accident', 's01_e16_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u002_e1",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', 'that', 's01_e16_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u003_e1",
+          "tuples": [
+            "('get', 'he/(Marcel)', 'to the newspaper', 's01_e16_c02_u003')",
+            "('do', 'I/(Ross Geller)', None, 's01_e16_c02_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u003_e2",
+          "tuples": [
+            "('pee', 'he/(Marcel)', None, 's01_e16_c02_u003')",
+            "('pee', 'he/(Marcel)', 'all over the crossword', 's01_e16_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u004_e1",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', 'that', 's01_e16_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u006_e1",
+          "tuples": [
+            "('look', 'you/(Joey Tribbiani)', 'at her', 's01_e16_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u006_e2",
+          "tuples": [
+            "('tell', 'you/(Joey Tribbiani)', 'me', 's01_e16_c02_u006')",
+            "('look', 'she/(Ursula Buffay)', 'like her sister', 's01_e16_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u007_e1",
+          "tuples": [
+            "('say', 'I/(Joey Tribbiani)', 'I see a difference', 's01_e16_c02_u007')",
+            "('see', 'I/(Joey Tribbiani)', 'a difference', 's01_e16_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u008",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u008_e1",
+          "tuples": [
+            "('be', 'they/(Ursula Buffay and Phoebe Buffay)', 'twins', 's01_e16_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u009_e1",
+          "tuples": [
+            "('care', 'I/(Joey Tribbiani)', None, 's01_e16_c02_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u009_e2",
+          "tuples": [
+            "('be', 'Phoebe Buffay', 'Phoebe', 's01_e16_c02_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u009_e3",
+          "tuples": [
+            "('be', 'Ursula Buffay', 'hot', 's01_e16_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u011_e1",
+          "tuples": [
+            "('know', 'you/(Joey Tribbiani)', 'that thing', 's01_e16_c02_u011')",
+            "('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', None, 's01_e16_c02_u011')",
+            "('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', 'to each other', 's01_e16_c02_u011')",
+            "('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', 'about things', 's01_e16_c02_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u013",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u013_e1",
+          "tuples": [
+            "('let', 'us/(Chandler Bing and Joey Tribbiani)', 'not do that any more', 's01_e16_c02_u013')",
+            "('do', 'we/(Chandler Bing and Joey Tribbiani)', 'that', 's01_e16_c02_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u016",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u016_e1",
+          "tuples": [
+            "('guess', 'you/(Phoebe Buffay)', 'who we saw today', 's01_e16_c02_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u016_e2",
+          "tuples": [
+            "('see', 'we/(Joey Tribbiani and Chandler Bing)', 'who', 's01_e16_c02_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u021",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u021_e1",
+          "tuples": [
+            "('cut', 'the woman', 'my hair', 's01_e16_c02_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u022",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u022_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', None, 's01_e16_c02_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u022_e2",
+          "tuples": [
+            "('be', 'this', 'a really long game', 's01_e16_c02_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u025",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u025_e1",
+          "tuples": [
+            "('work', 'she/(Ursula Buffay)', 'over at that place', 's01_e16_c02_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u026",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u026_e1",
+          "tuples": [
+            "('know', 'I/(Phoebe Buffay)', None, 's01_e16_c02_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u027",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u027_e1",
+          "tuples": [
+            "('say', 'she/(Ursula Buffay)', \"you guys haven't talked in like years\", 's01_e16_c02_u027')",
+            "('talk', 'you guys/(Phoebe Buffay and Ursula Buffay)', 'in like years', 's01_e16_c02_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u028",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u028_e1",
+          "tuples": [
+            "('be', 'she/(Ursula Buffay)', 'fat', 's01_e16_c02_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u029",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u029_e1",
+          "tuples": [
+            "('stand', 'I/(Joey Tribbiani)', None, 's01_e16_c02_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u030",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u030_e1",
+          "tuples": [
+            "('stand', 'you/(Joey Tribbiani)', None, 's01_e16_c02_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u031",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u031_e1",
+          "tuples": [
+            "('get along', 'you guys/(Phoebe Buffay and Ursula Buffay)', None, 's01_e16_c02_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u032",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u032_e1",
+          "tuples": [
+            "('be', 'it', 'mostly just dumb sister stuff', 's01_e16_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u032_e2",
+          "tuples": [
+            "('think', 'everyone', None, 's01_e16_c02_u032')",
+            "('think', 'everyone', 'of her', 's01_e16_c02_u032')",
+            "('think', 'everyone', 'as the pretty one', 's01_e16_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u032_e3",
+          "tuples": [
+            "('be', 'she/(Ursula Buffay)', 'the first one to start walking', 's01_e16_c02_u032')",
+            "('start', 'she/(Ursula Buffay)', 'walking', 's01_e16_c02_u032')",
+            "('walk', 'she/(Ursula Buffay)', None, 's01_e16_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u032_e4",
+          "tuples": [
+            "('do', 'I/(Phoebe Buffay)', 'it', 's01_e16_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u032_e5",
+          "tuples": [
+            "('be', 'it', 'like yeah, right, well what else is new?', 's01_e16_c02_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u033",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u033_e1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'sorry', 's01_e16_c02_u033')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u033_e2",
+          "tuples": [
+            "('go', 'I/(Ross Geller)', None, 's01_e16_c02_u033')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u033_e3",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'Lamaze class', 's01_e16_c02_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u034",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u034_e1",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'Earth Science', 's01_e16_c02_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u034_e2",
+          "tuples": [
+            "('catch', 'I/(Chandler Bing)', 'you', 's01_e16_c02_u034')",
+            "('catch', 'I/(Chandler Bing)', 'in Gym', 's01_e16_c02_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u035",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u035_e1",
+          "tuples": [
+            "('be', 'this', 'you and Carol', 's01_e16_c02_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u036",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u036_e1",
+          "tuples": [
+            "('be', 'Susan', 'there', 's01_e16_c02_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u036_e2",
+          "tuples": [
+            "('have', 'we/(Ross Geller, Carol, and Susan)', 'dads', 's01_e16_c02_u036')",
+            "('have', 'we/(Ross Geller, Carol, and Susan)', 'lesbians', 's01_e16_c02_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u037",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u037_e1",
+          "tuples": [
+            "('be', 'that', 'weird', 's01_e16_c02_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u038",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u038_e1",
+          "tuples": [
+            "('be', 'it', None, 's01_e16_c02_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c02_u038_e2",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', \"I'm pretty comfortable with the whole situation\", 's01_e16_c02_u038')",
+            "('be', 'I/(Ross Geller)', 'pretty comfortable with the whole situation', 's01_e16_c02_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u039",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u039_e1",
+          "tuples": [
+            "('be', 'that', 'my jacket', 's01_e16_c02_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c02_u040",
+      "events": [
+        {
+          "event_id": "s01_e16_c02_u040_e1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e16_c02_u040')"
+          ]
+        }
+      ]
+    }
+  ]
+}

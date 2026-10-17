@@ -1,0 +1,50 @@
+event_id: s01_e13_c09_u003_e1
+utterance_id: s01_e13_c09_u003
+  tuple: ('go', 'it', None, 's01_e13_c09_u003')
+
+event_id: s01_e13_c09_u004_e1
+utterance_id: s01_e13_c09_u004
+  tuple: ('have', 'Roger', 'a dinner thing', 's01_e13_c09_u004')
+
+event_id: s01_e13_c09_u004_e2
+utterance_id: s01_e13_c09_u004
+  tuple: ('want', 'he/Roger', 'me to invite you guys', 's01_e13_c09_u004')
+  tuple: ('invite', 'me/Phoebe Buffay', 'you guys', 's01_e13_c09_u004')
+
+event_id: s01_e13_c09_u006_e1
+utterance_id: s01_e13_c09_u006
+  tuple: ('go', 'what', 'on', 's01_e13_c09_u006')
+
+event_id: s01_e13_c09_u007_e1
+utterance_id: s01_e13_c09_u007
+  tuple: ('be', 'it', 'just', 's01_e13_c09_u007')
+  tuple: ('be', 'it', 'Roger', 's01_e13_c09_u007')
+
+event_id: s01_e13_c09_u008_e1
+utterance_id: s01_e13_c09_u008
+  tuple: ('know', 'I/Ross Geller', None, 's01_e13_c09_u008')
+
+event_id: s01_e13_c09_u008_e2
+utterance_id: s01_e13_c09_u008
+  tuple: ('be', 'there', 'just something about', 's01_e13_c09_u008')
+
+event_id: s01_e13_c09_u009_e1
+utterance_id: s01_e13_c09_u009
+  tuple: ('feel', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', "that he's...", 's01_e13_c09_u009')
+  tuple: ('be', 'he/Roger', None, 's01_e13_c09_u009')
+
+event_id: s01_e13_c09_u010_e1
+utterance_id: s01_e13_c09_u010
+  tuple: ('hate', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', 'that guy', 's01_e13_c09_u010')
+
+event_id: s01_e13_c09_u012_e1
+utterance_id: s01_e13_c09_u012
+  tuple: ('be', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', 'sorry', 's01_e13_c09_u012')
+
+event_id: s01_e13_c09_u013_e1
+utterance_id: s01_e13_c09_u013
+  tuple: ('think', 'you/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', "it's just that he's so perceptive that it freaks you out", 's01_e13_c09_u013')
+  tuple: ('be', 'it', "just that he's so perceptive that it freaks you out", 's01_e13_c09_u013')
+  tuple: ('be', 'he/Roger', 'so perceptive', 's01_e13_c09_u013')
+  tuple: ('freak', 'it/(that he is so perceptive)', 'you out', 's01_e13_c09_u013')
+

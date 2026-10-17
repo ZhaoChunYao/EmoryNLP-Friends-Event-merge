@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes initiative in the group by prompting Speaker_02 with a question about what they see and narrates that everyone is looking at the baby, showing active, outward engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Comments are neutral and informational; no clear signs of warmth/helpfulness or of conflict/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization or carelessness in the brief exchanges."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and matter-of-factly during a high-intensity event (a birth) without showing nervousness or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity by asking what Speaker_02 sees during the birth."
+  }
+}

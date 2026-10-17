@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in the group spying and openly declares affection for Speaker_03 (\"TargetSpeaker loves Speaker_03\"), showing expressive, sociable behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses warmth and positive regard toward Speaker_03 (\"TargetSpeaker loves Speaker_03\"), with no signs of hostility or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or sloppiness/carelessness; TargetSpeaker only asks a question and expresses affection while spying."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows no nervousness; instead confidently blurts out affection (\"TargetSpeaker loves Speaker_03\")."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker displays curiosity by asking who they are spying on, engaging in exploratory behavior."
+  }
+}

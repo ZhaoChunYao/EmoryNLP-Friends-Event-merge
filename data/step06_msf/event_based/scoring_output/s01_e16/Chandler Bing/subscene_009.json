@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of outgoingness or withdrawal; TargetSpeaker gives brief, practical replies."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker has not told Speaker_02 that she does not have a job and deflects by criticizing Speaker_01’s Christmas lights, showing a lack of straightforwardness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker delays an important disclosure, saying she is trying to find the right moment, indicating procrastination on a responsibility."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Hesitation and seeking the 'right moment' to tell Speaker_02 suggest anxiety about the conversation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker behaves cautiously and avoids directly addressing the difficult topic rather than being open and forthright."
+  }
+}

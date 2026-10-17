@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker energetically gives play-by-play (“Poulet is passing the puck up to Leetch”) and takes the lead by announcing a brief time out, showing outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of kindness or hostility; the commentary and a light tease about Speaker_02 looking at women’s shoes don’t indicate strong agreeableness or disagreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Announcing a brief time out appears playful within the mock commentary; there’s no concrete evidence of organization/efficiency or of carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks confidently and takes charge by calling a time out, with no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses an imaginative, playful sports-broadcast framing and shifts creatively to commenting on women’s shoes, indicating curiosity/creativity."
+  }
+}

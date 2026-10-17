@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only acknowledges lacking a plan and asks if Speaker_02 has one; no clear sign of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker concedes 'Speaker_01 was right' and cooperatively asks Speaker_02 about having a plan, showing non-defensive, agreeable behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker explicitly says they do not have a plan, indicating lack of preparation/organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; statements are matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a practical question about plans, there is no clear display of curiosity, creativity, or closed-mindedness."
+  }
+}

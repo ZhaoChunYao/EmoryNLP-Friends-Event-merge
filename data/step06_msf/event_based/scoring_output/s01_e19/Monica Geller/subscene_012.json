@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the conversation by showing a photo, claiming to have appeared in The Sound of Music, and engaging others with a question about seeing the von Trapp kids; makes a humorous, attention-drawing comment about blocking them in the photo."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Boastfully centers self in the photo, saying others cannot see the von Trapp kids because TargetSpeaker was standing in front of them."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Says high school was not a favorite time but shows no signs of nervousness, anxiety, or emotional volatility in the exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity, inventiveness, or dogmatism in the brief remarks."
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u001_e1",
+          "tuples": [
+            "('be', 'what', 'wrong', 's01_e02_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u002_e1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'so', 's01_e02_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u003_e1",
+          "tuples": [
+            "('be', \"it/(baby's name)\", 'Helen Geller', 's01_e02_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u004_e1",
+          "tuples": [
+            "('thank', 'I/Ross Geller', 'you/Carol Willick', 's01_e02_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u005_e1",
+          "tuples": [
+            "('mean', 'I/Carol Willick', \"it's not Geller\", 's01_e02_c10_u005')",
+            "('be', \"it/(baby's last name)\", 'Geller', 's01_e02_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u006_e1",
+          "tuples": [
+            "('be', \"it/(baby's name)\", 'Helen Willick', 's01_e02_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u007_e1",
+          "tuples": [
+            "('talk', 'we/Carol Willick+Susan Bunch', 'about Helen Willick-Bunch', 's01_e02_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u008_e1",
+          "tuples": [
+            "('wait', 'you/Carol Willick+Susan Bunch', 'a minute', 's01_e02_c10_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u008_e2",
+          "tuples": [
+            "('be', 'she/Susan Bunch', 'in the title', 's01_e02_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u009_e1",
+          "tuples": [
+            "('be', 'it/(the baby)', 'my baby', 's01_e02_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u010",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u010_e1",
+          "tuples": [
+            "('be', 'it/(situation)', 'funny', 's01_e02_c10_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u010_e2",
+          "tuples": [
+            "('remember', 'I/Ross Geller', 'you/Susan Bunch making any sperm', 's01_e02_c10_u010')",
+            "('make', 'you/Susan Bunch', 'any sperm', 's01_e02_c10_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u011_e1",
+          "tuples": [
+            "('know', 'we all/Ross Geller+Susan Bunch+Carol Willick', 'what a challenge that is', 's01_e02_c10_u011')",
+            "('be', 'that/(making sperm)', 'a challenge', 's01_e02_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u012",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u012_e1",
+          "tuples": [
+            "('stop', 'you two/Ross Geller+Susan Bunch', 'it', 's01_e02_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u013",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u013_e1",
+          "tuples": [
+            "('get', 'she/Susan Bunch', 'a credit', 's01_e02_c10_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u013_e2",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'in there', 's01_e02_c10_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u014",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u014_e1",
+          "tuples": [
+            "('suggest', 'you/Ross Geller', 'Helen Willick-Bunch-Geller', 's01_e02_c10_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u014_e2",
+          "tuples": [
+            "('think', 'I/Carol Willick', 'that borders on child abuse', 's01_e02_c10_u014')",
+            "('border', 'that/(Helen Willick-Bunch-Geller)', 'on child abuse', 's01_e02_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u015",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u015_e1",
+          "tuples": [
+            "('suggest', 'I/Ross Geller', 'Geller-Willick-Bunch', 's01_e02_c10_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u016",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u016_e1",
+          "tuples": [
+            "('see', 'you/Carol Willick', \"what he's doing\", 's01_e02_c10_u016')",
+            "('do', 'he/Ross Geller', 'what', 's01_e02_c10_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u016_e2",
+          "tuples": [
+            "('know', 'he/Ross Geller', \"no-one's gonna say all those names\", 's01_e02_c10_u016')",
+            "('say', 'no-one/(people)', 'all those names', 's01_e02_c10_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u016_e3",
+          "tuples": [
+            "('wind up', 'they/(people)', 'calling her Geller', 's01_e02_c10_u016')",
+            "('call', 'they/(people)', 'her Geller', 's01_e02_c10_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u016_e4",
+          "tuples": [
+            "('get', 'he/Ross Geller', 'his way', 's01_e02_c10_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u017",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u017_e1",
+          "tuples": [
+            "('think', 'you/Susan Bunch', 'this is my way', 's01_e02_c10_u017')",
+            "('be', 'this/(situation)', 'my way', 's01_e02_c10_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u017_e2",
+          "tuples": [
+            "('believe', 'you/Carol Willick+Susan Bunch', 'me', 's01_e02_c10_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u017_e3",
+          "tuples": [
+            "('imagine', 'I/Ross Geller', 'this moment in my life being', 's01_e02_c10_u017')",
+            "('be', 'this moment', 'in my life', 's01_e02_c10_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u017_e4",
+          "tuples": [
+            "('know', 'you/Carol Willick+Susan Bunch', 'what', 's01_e02_c10_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u017_e5",
+          "tuples": [
+            "('be', 'this/(situation)', 'too hard', 's01_e02_c10_u017')",
+            "('do', 'I/Ross Geller', None, 's01_e02_c10_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u018",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u018_e1",
+          "tuples": [
+            "('be', 'we/Carol Willick', None, 's01_e02_c10_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u020",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u020_e1",
+          "tuples": [
+            "('wonder', 'I/Dr. Oberman', 'about the mother-to-be', 's01_e02_c10_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u020_e2",
+          "tuples": [
+            "('thank', 'I/Dr. Oberman', 'for sharing', 's01_e02_c10_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u020_e3",
+          "tuples": [
+            "('lie back', 'you/Carol Willick', None, 's01_e02_c10_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u021",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u021_e1",
+          "tuples": [
+            "('go', 'I/Ross Geller', None, 's01_e02_c10_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c10_u021_e2",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'I can be involved in this particular thing right now', 's01_e02_c10_u021')",
+            "('be involved', 'I/Ross Geller', 'in this particular thing', 's01_e02_c10_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u024",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u024_e1",
+          "tuples": [
+            "('look', 'you/Ross Geller+Carol Willick+Dr. Oberman', 'at that', 's01_e02_c10_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c10_u025",
+      "events": [
+        {
+          "event_id": "s01_e02_c10_u025_e1",
+          "tuples": [
+            "('know', 'I/Carol Willick', None, 's01_e02_c10_u025')"
+          ]
+        }
+      ]
+    }
+  ]
+}

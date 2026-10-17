@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and socially bold—jokes elaborately about cave people (u004) and proactively calls out to the ex-wife in public, “Carol! Hi!” (u009)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Judgmental and inconsiderate—says “Speaker_02 has issues” (u002) and ignores Speaker_01’s discomfort/denial by calling out to the ex-wife anyway (u009)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless/impulsive in social context—brings up the ex-wife and publicly calls to her despite cues to stop (u006, u009)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence rather than nervousness—asserts “Yes, it is” (u009) and engages others without hesitation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses imaginative, vivid metaphors about cave life and mastodons to make a point (u004)."
+  }
+}

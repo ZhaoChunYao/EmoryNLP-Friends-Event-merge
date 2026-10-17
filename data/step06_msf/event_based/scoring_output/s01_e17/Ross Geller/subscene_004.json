@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and matter-of-factly (“Oh, we just…”) with no clear signs of outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker cooperates to help fix the cake by saying they will use their special cake tools, showing willingness to help the group."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Saying they will use their special cake tools indicates preparedness and an organized, problem-solving approach to correcting the cake lettering."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit signs of anxiety or emotional volatility; their comments are neutral and practical."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The creative idea to turn a frosting rose into a ‘B’ comes from another speaker; TargetSpeaker only mentions using tools, which doesn’t clearly show curiosity or inventiveness."
+  }
+}

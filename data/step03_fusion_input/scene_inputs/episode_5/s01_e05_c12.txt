@@ -1,0 +1,96 @@
+('know', 'I/Rachel Green', 'this is gonna sound really stupid', 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('sound', "this/(Rachel Green's statement)", 'really stupid', 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('feel', 'I/Rachel Green', "that if I can actually do my own laundry, there isn't anything I can't do", 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('do', 'I/Rachel Green', 'my own laundry', 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('know', 'you/Ross Geller', None, 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('be', 'there', 'anything', 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('do', 'I/Rachel Green', 'anything', 's01_e05_c12_u001')
+[s01_e05_c12_u001] Rachel Green: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+
+('sound', "That/(Rachel Green's statement)", 'to me', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('know', 'you/Rachel Green', None, 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('be', 'it/(Rachel Green doing laundry by herself)', 'like the first time I had to make dinner for myself', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('make', 'I/Ross Geller', 'dinner for myself', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('leave', 'Carol', 'me', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('be', 'I/Ross Geller', 'sorry', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('be', 'that/(the time remaining)', 'all the time we have', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('have', 'we/(Ross Geller and Rachel Green)', 'all the time', 's01_e05_c12_u002')
+[s01_e05_c12_u002] Ross Geller: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.
+
+('be', 'the laundry', 'done', 's01_e05_c12_u004')
+[s01_e05_c12_u004] Ross Geller: Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.
+
+('be', 'it/(uh-oh phrase)', 'a song', 's01_e05_c12_u004')
+[s01_e05_c12_u004] Ross Geller: Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.
+
+('sing', 'we/(Ross Geller and Rachel Green)', 'the laundry song', 's01_e05_c12_u004')
+[s01_e05_c12_u004] Ross Geller: Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.
+
+('be', 'what', 'the matter', 's01_e05_c12_u005')
+[s01_e05_c12_u005] Rachel Green: Ross, what's the matter?
+
+('show', 'you/Ross Geller', 'me', 's01_e05_c12_u007')
+[s01_e05_c12_u007] Rachel Green: Come on, show me.
+
+('leave', 'you/Rachel Green', 'a red sock', 's01_e05_c12_u008')
+[s01_e05_c12_u008] Ross Geller: All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.
+
+('leave', 'you/Rachel Green', 'in with all your whites', 's01_e05_c12_u008')
+[s01_e05_c12_u008] Ross Geller: All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.
+
+('be', 'everything', 'kinda pink', 's01_e05_c12_u008')
+[s01_e05_c12_u008] Ross Geller: All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.
+
+('be', 'the red sock', 'still red', 's01_e05_c12_u010')
+[s01_e05_c12_u010] Ross Geller: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.
+
+('be', 'you/Rachel Green', 'upset', 's01_e05_c12_u010')
+[s01_e05_c12_u010] Ross Geller: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.
+
+('happen', 'it/(the laundry turning pink)', None, 's01_e05_c12_u010')
+[s01_e05_c12_u010] Ross Geller: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.
+
+('happen', 'it/(the laundry turning pink)', 'to anyone', 's01_e05_c12_u010')
+[s01_e05_c12_u010] Ross Geller: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.
+
+('happen', 'it/(the laundry turning pink)', 'to me', 's01_e05_c12_u011')
+[s01_e05_c12_u011] Rachel Green: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!
+
+('look', 'I/Rachel Green', 'like a big marshmallow peep', 's01_e05_c12_u011')
+[s01_e05_c12_u011] Rachel Green: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!
+
+('do', 'I/Rachel Green', None, 's01_e05_c12_u011')
+[s01_e05_c12_u011] Rachel Green: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!
+
+('be', 'My father', 'right', 's01_e05_c12_u011')
+[s01_e05_c12_u011] Rachel Green: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!
+
+('live', 'I/Rachel Green', 'on my own', 's01_e05_c12_u011')
+[s01_e05_c12_u011] Rachel Green: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!
+

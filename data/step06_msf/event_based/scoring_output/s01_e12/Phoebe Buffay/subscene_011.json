@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks if Speaker_03 is okay and answers “Yep” about cookies; no clear display of outgoing energy or reservedness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They check on Speaker_03’s well-being and respond helpfully about cookies, showing concern and cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors related to organization, planning, or reliability are shown in this brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or emotional instability; the responses are calm and neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, creativity, or dogmatism/caution appear in the dialogue."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "episode": "s01_e13",
+  "character": "Rachel Green",
+  "trait": "CON",
+  "source_dir": "big_five_output_anon\\s01_e13\\Rachel Green",
+  "subscene_count": 8,
+  "items": [
+    {
+      "subscene": "subscene_001",
+      "score": 1,
+      "evidence": "Insists on rules and boundaries (knocking, respecting privacy) and criticizes disorderly behavior, reflecting a preference for order and proper conduct."
+    },
+    {
+      "subscene": "subscene_002",
+      "score": 1,
+      "evidence": "Takes initiative to manage the ordering process by asking the group if they want anything else, indicating organization and follow-through."
+    },
+    {
+      "subscene": "subscene_003",
+      "score": 1,
+      "evidence": "She attends to the group’s needs, checks availability, and clearly communicates that the item is out, reflecting responsible, organized behavior."
+    },
+    {
+      "subscene": "subscene_004",
+      "score": 0,
+      "evidence": "No clear evidence of organization, diligence, or carelessness in this exchange."
+    },
+    {
+      "subscene": "subscene_005",
+      "score": 0,
+      "evidence": "No clear behavior indicating organization/efficiency or carelessness/sloppiness."
+    },
+    {
+      "subscene": "subscene_006",
+      "score": -1,
+      "evidence": "Acts impulsively and carelessly about bathroom use (announces needing to pee and plans to barge in on an occupied shower), showing little planning or consideration."
+    },
+    {
+      "subscene": "subscene_007",
+      "score": 0,
+      "evidence": "No actions indicate organization/efficiency or carelessness/sloppiness."
+    },
+    {
+      "subscene": "subscene_008",
+      "score": 0,
+      "evidence": "No behavior showing organization, planning, or carelessness."
+    }
+  ],
+  "merged_text": "[subscene_001]\nscore: 1\nevidence: Insists on rules and boundaries (knocking, respecting privacy) and criticizes disorderly behavior, reflecting a preference for order and proper conduct.\n\n--------------------------------------------------------------------------------\n\n[subscene_002]\nscore: 1\nevidence: Takes initiative to manage the ordering process by asking the group if they want anything else, indicating organization and follow-through.\n\n--------------------------------------------------------------------------------\n\n[subscene_003]\nscore: 1\nevidence: She attends to the group’s needs, checks availability, and clearly communicates that the item is out, reflecting responsible, organized behavior.\n\n--------------------------------------------------------------------------------\n\n[subscene_004]\nscore: 0\nevidence: No clear evidence of organization, diligence, or carelessness in this exchange.\n\n--------------------------------------------------------------------------------\n\n[subscene_005]\nscore: 0\nevidence: No clear behavior indicating organization/efficiency or carelessness/sloppiness.\n\n--------------------------------------------------------------------------------\n\n[subscene_006]\nscore: -1\nevidence: Acts impulsively and carelessly about bathroom use (announces needing to pee and plans to barge in on an occupied shower), showing little planning or consideration.\n\n--------------------------------------------------------------------------------\n\n[subscene_007]\nscore: 0\nevidence: No actions indicate organization/efficiency or carelessness/sloppiness.\n\n--------------------------------------------------------------------------------\n\n[subscene_008]\nscore: 0\nevidence: No behavior showing organization, planning, or carelessness."
+}

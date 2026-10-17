@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He proactively asks Speaker_01 to go out (u026) and then shares the news with the group, even calling for everyone to listen (u035), showing outgoing, assertive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is straightforward and polite—states he wants to say what he was about to say, asks directly, and thanks (u026)—and he helps by delivering the usher’s card to Speaker_02 (u035)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He responsibly follows through on delivering the usher’s card and organizes attention to do so (u035)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He shows confidence by initiating an ask-out and publicly announcing the positive response without hesitation (u026, u035)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a playful remark about name pronunciation (u035), there is no clear evidence of inventive or cautious thinking."
+  }
+}

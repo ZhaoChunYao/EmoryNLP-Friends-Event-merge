@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker excitedly calls out “Rachel?!” and then takes the lead introducing Rachel to everyone, showing active, outgoing social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker warmly and straightforwardly introduces Rachel to each person and includes her in the group, indicating considerate and friendly behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Apart from making introductions, there is no clear evidence of efficiency or organization in tasks."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or insecurity, but also no strong evidence of pronounced calm or confidence beyond normal interaction."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, imagination, or dogmatism is shown in this exchange."
+  }
+}

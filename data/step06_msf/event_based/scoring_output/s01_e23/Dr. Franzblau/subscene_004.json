@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, task-focused statements and a request for a medical item; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No explicit behavior indicating warmth or antagonism; they simply provide clinical updates and make a request."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker efficiently manages the situation by requesting a needed medical item and giving clear status updates (noting Speaker_02 is continuing to push and that the baby is crowning)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In a high-stress delivery moment, TargetSpeaker speaks matter-of-factly (e.g., stating the baby is crowning) with no signs of nervousness or distress, indicating calm confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of creativity or unconventional thinking; behavior follows standard medical procedure."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Repeatedly calls out for Speaker_05 and proactively approaches a bystander to ask for help, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Openly explains there is an emergency and cooperates with Speaker_06 while politely seeking help from others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Shows goal-directed behavior by searching and asking questions, but there is no clear evidence of organization or of carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Frames the situation as an emergency and repeatedly calls out, indicating urgency and heightened concern."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or of rigidity/caution in the brief exchange."
+  }
+}

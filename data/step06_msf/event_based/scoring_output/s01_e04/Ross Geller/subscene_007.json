@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker contributes information but mostly in brief, factual lines (e.g., \"Peach pit.\" u007) without notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They cooperate and answer straightforwardly to help the group’s search, providing details about the night (u004, u009, u011, u013) and correcting gently (\"Actually, nectarines,\" u011)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows attention to detail and accuracy by recalling specifics (boots worn and not removed, u004; fruit was nectarines not peaches, u009–u011) and recounting orderly actions (got dressed, walked Speaker_04 to the bus stop, u013)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; stating \"I am fine right now\" (u013) suggests calm but not strong enough to infer low neuroticism."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Provides factual recollections without showing curiosity, imagination, or unconventional thinking; no clear openness cues."
+  }
+}

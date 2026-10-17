@@ -1,0 +1,61 @@
+event_id: s01_e01_c12_u002_e1
+utterance_id: s01_e01_c12_u002
+  tuple: ('welcome', 'I/Monica Geller', 'Frannie', 's01_e01_c12_u002')
+
+event_id: s01_e01_c12_u002_e2
+utterance_id: s01_e01_c12_u002
+  tuple: ('be', 'Florida', None, 's01_e01_c12_u002')
+
+event_id: s01_e01_c12_u003_e1
+utterance_id: s01_e01_c12_u003
+  tuple: ('have', 'you/Monica Geller', 'sex', 's01_e01_c12_u003')
+
+event_id: s01_e01_c12_u004_e1
+utterance_id: s01_e01_c12_u004
+  tuple: ('do', 'you/Franny', 'that', 's01_e01_c12_u004')
+
+event_id: s01_e01_c12_u005_e1
+utterance_id: s01_e01_c12_u005
+  tuple: ('hate', 'I/Franny', 'you', 's01_e01_c12_u005')
+
+event_id: s01_e01_c12_u005_e2
+utterance_id: s01_e01_c12_u005
+  tuple: ('push', 'I/Franny', 'my Aunt Roz', 's01_e01_c12_u005')
+  tuple: ('push', 'I/Franny', 'through Parrot Jungle', 's01_e01_c12_u005')
+
+event_id: s01_e01_c12_u006_e1
+utterance_id: s01_e01_c12_u006
+  tuple: ('know', 'you/Franny', 'Paul', 's01_e01_c12_u006')
+
+event_id: s01_e01_c12_u007_e1
+utterance_id: s01_e01_c12_u007
+  tuple: ('know', 'I/Franny', 'Paul', 's01_e01_c12_u007')
+
+event_id: s01_e01_c12_u008_e1
+utterance_id: s01_e01_c12_u008
+  tuple: ('mean', 'you/Franny', 'you know Paul like I know Paul', 's01_e01_c12_u008')
+
+event_id: s01_e01_c12_u008_e2
+utterance_id: s01_e01_c12_u008
+  tuple: ('know', 'I/Monica Geller', 'Paul', 's01_e01_c12_u008')
+
+event_id: s01_e01_c12_u009_e1
+utterance_id: s01_e01_c12_u009
+  tuple: ('kid', 'you/Monica Geller', None, 's01_e01_c12_u009')
+
+event_id: s01_e01_c12_u009_e2
+utterance_id: s01_e01_c12_u009
+  tuple: ('take', 'I/Franny', 'credit', 's01_e01_c12_u009')
+  tuple: ('take', 'I/Franny', 'for Paul', 's01_e01_c12_u009')
+
+event_id: s01_e01_c12_u009_e3
+utterance_id: s01_e01_c12_u009
+  tuple: ('know', 'you/Monica Geller', None, 's01_e01_c12_u009')
+
+event_id: s01_e01_c12_u009_e4
+utterance_id: s01_e01_c12_u009
+  tuple: ('be', 'there', 'no snap', 's01_e01_c12_u009')
+  tuple: ('be', 'there', 'before me', 's01_e01_c12_u009')
+  tuple: ('be', 'there', 'in his turtle', 's01_e01_c12_u009')
+  tuple: ('be', 'there', 'for two years', 's01_e01_c12_u009')
+

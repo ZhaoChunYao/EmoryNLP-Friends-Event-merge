@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only a brief offer and then says 'Alright,' showing limited talkativeness or energy."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers to shuffle the cards for Speaker_04 and politely accepts the refusal, indicating helpfulness and cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from offering to handle a small task, there is no clear sign of planning, organization, or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or irritability; calm acceptance is shown but not enough to indicate strong emotional stability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or trying new ideas; the interaction is purely about a routine task."
+  }
+}

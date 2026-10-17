@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly volunteers personal background and answers questions but is not especially talkative or energetic (u005, u007, u009)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Mentions not speaking with a twin but shows no clear cooperative or hostile behavior in the exchange (u007)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No indications of organization, planning, or carelessness in the brief remarks."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Frames the situation as \"even worse\" and discusses estrangement with a twin, suggesting sensitivity/negative affect (u005, u007)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, creativity, or openness to new ideas; statements are simple disclosures about family (u005–u009)."
+  }
+}

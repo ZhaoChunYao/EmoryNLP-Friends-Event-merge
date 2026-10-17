@@ -1,0 +1,250 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c04_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'he/(doctor)', 'it was just a sprain', 's01_e17_c04_u001')",
+            "('be', \"it/(Rachel's injury)\", 'just a sprain', 's01_e17_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that/(the outcome)', 'it', 's01_e17_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('leave out', 'you/Rachel Green', 'the stupid part', 's01_e17_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('ask out', 'the very cute, cute, cute doctors', 'us', 's01_e17_c04_u003')",
+            "('ask out', 'the very cute, cute, cute doctors', 'for tomorrow night', 's01_e17_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('say', 'I/Rachel Green', 'yes', 's01_e17_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/Monica Geller', \"it's totally insane\", 's01_e17_c04_u004')",
+            "('be', 'it/(dating the doctors)', 'totally insane', 's01_e17_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('work', 'they/(the doctors)', 'for the hospital', 's01_e17_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(dating the doctors)', 'like returning to the scene of the crime', 's01_e17_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('know', 'you/Rachel Green', None, 's01_e17_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('say', 'I/Monica Geller', 'we blow off the dates', 's01_e17_c04_u004')",
+            "('blow off', 'we/(Monica Geller+Rachel Green)', 'the dates', 's01_e17_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'they/(the doctors)', 'cute', 's01_e17_c04_u005')",
+            "('be', 'they/(the doctors)', 'doctors', 's01_e17_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('learn', 'we/(Monica Geller+Rachel Green+Chandler Bing+Ross Geller)', 'what', 's01_e17_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'you/(The Whole Party)', 'what', 's01_e17_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('scare', 'you/(The Whole Party)', 'the crap', 's01_e17_c04_u010')",
+            "('scare', 'you/(The Whole Party)', 'outta me', 's01_e17_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that/(the crash)', 'the cake', 's01_e17_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'I/Ross Geller', 'a lemon schmush', 's01_e17_c04_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'she/Phoebe Buffay', 'here', 's01_e17_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('hope', 'I/Rachel Green', \"it's okay\", 's01_e17_c04_u015')",
+            "('be', 'it/(the cake)', 'okay', 's01_e17_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('make', 'we/(Monica Geller+Chandler Bing+Ross Geller+Rachel Green)', \"a 'B' out of one of those roses\", 's01_e17_c04_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u021",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('use', 'we/(Monica Geller+Chandler Bing+Ross Geller+Rachel Green)', 'our special cake tools', 's01_e17_c04_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u022",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go on', 'what', None, 's01_e17_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u025",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this/(the surprise party)', 'so great', 's01_e17_c04_u025')",
+            "('be', 'this/(the surprise party)', 'not at all scary', 's01_e17_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('find', 'you/Monica Geller', 'Betty', 's01_e17_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('love', 'I/Phoebe Buffay', 'everybody', 's01_e17_c04_u025')",
+            "('be', 'everybody', None, 's01_e17_c04_u025')",
+            "('be', 'everybody', 'in the same room', 's01_e17_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'Joey', None, 's01_e17_c04_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c04_u027",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'you/(unknown)', 'Betty', 's01_e17_c04_u027')"
+          ]
+        }
+      ]
+    }
+  ]
+}

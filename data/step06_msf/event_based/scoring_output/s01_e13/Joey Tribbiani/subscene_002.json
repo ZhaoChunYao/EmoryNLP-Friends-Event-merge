@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group (“Night, you guys”), engages with the new person, and introduces self (“TargetSpeaker is TargetSpeaker”), showing social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers help to the newcomer (“TargetSpeaker and Speaker_01 can help Speaker_02”), indicating cooperative, helpful behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No direct signs of anxiety or insecurity from TargetSpeaker; another speaker’s joke about an embolism isn’t TargetSpeaker’s behavior."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No explicit display of curiosity, inventiveness, or unconventional thinking in the exchange."
+  }
+}

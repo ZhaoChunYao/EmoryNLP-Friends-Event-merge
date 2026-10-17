@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly engages in group banter and makes a bold comment about Speaker_01’s body (“nice butt… not a great butt”) and directly tells Speaker_02 to stop, showing social assertiveness."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Delivers a blunt, unkind evaluation of Speaker_01’s body (“nice butt… not a great butt”), showing little tact or generosity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to being organized or responsible; the exchange is casual teasing without task-related cues."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; speaks bluntly and sets a boundary (“Would Speaker_02 stop?”), indicating comfort and confidence in the group."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity; the remarks are straightforward rather than imaginative or exploratory."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or reserved behavior; the exchanges focus on a decision rather than outgoing engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Uses polite, deferential language (e.g., thanks; “Please”) but also repeatedly pressures Speaker_02 to make a decision they don’t want to make, giving mixed signals about cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Shows indecision and avoids responsibility for choices, repeatedly asking Speaker_02 to decide for them (“I don’t know what I’m going to do”; “You decide whether I go to Minsk or stay”; repeats the request despite refusal)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses uncertainty and distress (“I don’t know what I’m going to do”; “No, but I can’t—”) and pleads repeatedly, indicating anxiety and insecurity about the decision."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Does not express curiosity or resistance to new experiences directly; simply defers the choice about going to Minsk to someone else."
+  }
+}

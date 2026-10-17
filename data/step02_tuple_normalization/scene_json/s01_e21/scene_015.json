@@ -1,0 +1,46 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "I/Actor",
+      "object": "a glove",
+      "uid": "s01_e21_c15_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Actor",
+      "object": "upon that hand",
+      "uid": "s01_e21_c15_u001"
+    },
+    {
+      "verb": "touch",
+      "subject": "I/Actor",
+      "object": "thy cheek",
+      "uid": "s01_e21_c15_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "That/(Actor's reading)",
+      "object": "fine",
+      "uid": "s01_e21_c15_u002"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Casting Director No. 1",
+      "object": "you",
+      "uid": "s01_e21_c15_u002"
+    },
+    {
+      "verb": "read",
+      "subject": "I/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e21_c15_u004"
+    },
+    {
+      "verb": "read",
+      "subject": "I/Joey Tribbiani",
+      "object": "for the role of Mercutio",
+      "uid": "s01_e21_c15_u004"
+    }
+  ]
+}

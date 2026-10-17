@@ -1,0 +1,165 @@
+event_id: s01_e20_c10_u001_e1
+utterance_id: s01_e20_c10_u001
+  tuple: ('get', 'you/Barry Farber', 'a second', 's01_e20_c10_u001')
+
+event_id: s01_e20_c10_u002_e1
+utterance_id: s01_e20_c10_u002
+  tuple: ('come', 'you/Rachel Green and Mindy Hunter', 'on', 's01_e20_c10_u002')
+  tuple: ('come', 'you/Rachel Green and Mindy Hunter', 'in', 's01_e20_c10_u002')
+
+event_id: s01_e20_c10_u004_e1
+utterance_id: s01_e20_c10_u004
+  tuple: ('do', 'you guys/Rachel Green and Mindy Hunter', 'here', 's01_e20_c10_u004')
+
+event_id: s01_e20_c10_u005_e1
+utterance_id: s01_e20_c10_u005
+  tuple: ('be', 'we/Rachel Green and Mindy Hunter', 'here', 's01_e20_c10_u005')
+  tuple: ('break up', 'we/Rachel Green and Mindy Hunter', 'with you', 's01_e20_c10_u005')
+
+event_id: s01_e20_c10_u007_e1
+utterance_id: s01_e20_c10_u007
+  tuple: ('think', 'we/Rachel Green and Mindy Hunter', "you're a horrible human being", 's01_e20_c10_u007')
+  tuple: ('be', 'you/Barry Farber', 'a horrible human being', 's01_e20_c10_u007')
+
+event_id: s01_e20_c10_u007_e2
+utterance_id: s01_e20_c10_u007
+  tuple: ('happen', 'bad things', 'to you', 's01_e20_c10_u007')
+
+event_id: s01_e20_c10_u008_e1
+utterance_id: s01_e20_c10_u008
+  tuple: ('be', 'I/Barry Farber', 'sorry', 's01_e20_c10_u008')
+  tuple: ('be', 'I/Barry Farber', 'an idiot', 's01_e20_c10_u008')
+  tuple: ('be', 'I/Barry Farber', 'weak', 's01_e20_c10_u008')
+  tuple: ('help', 'I/Barry Farber', 'myself', 's01_e20_c10_u008')
+  tuple: ('love', 'I/Barry Farber', 'you', 's01_e20_c10_u008')
+
+event_id: s01_e20_c10_u009_e1
+utterance_id: s01_e20_c10_u009
+  tuple: ('talk', 'you/Barry Farber', 'to which one of us', 's01_e20_c10_u009')
+
+event_id: s01_e20_c10_u010_e1
+utterance_id: s01_e20_c10_u010
+  tuple: ('be', 'it/(his choice)', 'always Mindy', 's01_e20_c10_u010')
+
+event_id: s01_e20_c10_u011_e1
+utterance_id: s01_e20_c10_u011
+  tuple: ('have', 'we/Rachel Green and Barry Farber', 'sex', 's01_e20_c10_u011')
+  tuple: ('have sex', 'we/Rachel Green and Barry Farber', 'in that chair', 's01_e20_c10_u011')
+
+event_id: s01_e20_c10_u012_e1
+utterance_id: s01_e20_c10_u012
+  tuple: ('swear', 'I/Barry Farber', None, 's01_e20_c10_u012')
+  tuple: ('do', 'I/Barry Farber', 'whatever', 's01_e20_c10_u012')
+  tuple: ('think', 'I/Barry Farber', 'of you', 's01_e20_c10_u012')
+
+event_id: s01_e20_c10_u013_e1
+utterance_id: s01_e20_c10_u013
+  tuple: ('pick', 'you/Barry Farber', 'her out of a lineup', 's01_e20_c10_u013')
+
+event_id: s01_e20_c10_u014_e1
+utterance_id: s01_e20_c10_u014
+  tuple: ('do', 'you/Barry Farber', 'it', 's01_e20_c10_u014')
+
+event_id: s01_e20_c10_u015_e1
+utterance_id: s01_e20_c10_u015
+  tuple: ('count', 'the first time', None, 's01_e20_c10_u015')
+  tuple: ('be', 'it/(the first time)', 'Barry', 's01_e20_c10_u015')
+
+event_id: s01_e20_c10_u017_e1
+utterance_id: s01_e20_c10_u017
+  tuple: ('give', 'you/Mindy Hunter', 'another chance to me', 's01_e20_c10_u017')
+
+event_id: s01_e20_c10_u017_e2
+utterance_id: s01_e20_c10_u017
+  tuple: ('start', 'we/Barry Farber and Mindy Hunter', 'all over again', 's01_e20_c10_u017')
+
+event_id: s01_e20_c10_u017_e3
+utterance_id: s01_e20_c10_u017
+  tuple: ('go', 'we/Barry Farber and Mindy Hunter', 'back to Aruba', 's01_e20_c10_u017')
+
+event_id: s01_e20_c10_u018_e1
+utterance_id: s01_e20_c10_u018
+  tuple: ('have', 'we/Bernice and staff', 'a bit of an emergency here', 's01_e20_c10_u018')
+  tuple: ('choke', 'Jason Costalano', 'on his retainer', 's01_e20_c10_u018')
+
+event_id: s01_e20_c10_u019_e1
+utterance_id: s01_e20_c10_u019
+  tuple: ('be', 'I/Barry Farber', 'right there', 's01_e20_c10_u019')
+
+event_id: s01_e20_c10_u019_e2
+utterance_id: s01_e20_c10_u019
+  tuple: ('go', 'you/Rachel Green and Mindy Hunter', 'anywhere', 's01_e20_c10_u019')
+
+event_id: s01_e20_c10_u019_e3
+utterance_id: s01_e20_c10_u019
+  tuple: ('be', 'I/Barry Farber', 'right back', 's01_e20_c10_u019')
+
+event_id: s01_e20_c10_u019_e4
+utterance_id: s01_e20_c10_u019
+  tuple: ('look', 'you/Rachel Green and Mindy Hunter', None, 's01_e20_c10_u019')
+
+event_id: s01_e20_c10_u021_e1
+utterance_id: s01_e20_c10_u021
+  tuple: ('hate', 'we/Rachel Green and Mindy Hunter', 'you', 's01_e20_c10_u021')
+
+event_id: s01_e20_c10_u021_e2
+utterance_id: s01_e20_c10_u021
+  tuple: ('see', 'you/Mindy Hunter', 'how he was sweating when he walked out of there', 's01_e20_c10_u021')
+  tuple: ('sweat', 'he/Barry Farber', None, 's01_e20_c10_u021')
+  tuple: ('walk', 'he/Barry Farber', 'out of there', 's01_e20_c10_u021')
+
+event_id: s01_e20_c10_u021_e3
+utterance_id: s01_e20_c10_u021
+  tuple: ('listen', 'you/Mindy Hunter', None, 's01_e20_c10_u021')
+  tuple: ('hog', 'I/Rachel Green', 'the ball', 's01_e20_c10_u021')
+  tuple: ('jump', 'you/Mindy Hunter', 'in there', 's01_e20_c10_u021')
+  tuple: ('take', 'you/Mindy Hunter', 'a couple punches', 's01_e20_c10_u021')
+
+event_id: s01_e20_c10_u021_e4
+utterance_id: s01_e20_c10_u021
+  tuple: ('tell', 'I/Rachel Green', 'you', 's01_e20_c10_u021')
+  tuple: ('feel', 'this/(situation)', 'great', 's01_e20_c10_u021')
+
+event_id: s01_e20_c10_u022_e1
+utterance_id: s01_e20_c10_u022
+  tuple: ('marry', 'I/Mindy Hunter', 'him', 's01_e20_c10_u022')
+
+event_id: s01_e20_c10_u023_e1
+utterance_id: s01_e20_c10_u023
+  tuple: ('talk', 'you/Mindy Hunter', 'about what', 's01_e20_c10_u023')
+
+event_id: s01_e20_c10_u023_e2
+utterance_id: s01_e20_c10_u023
+  tuple: ('be', 'the guy', 'the devil', 's01_e20_c10_u023')
+  tuple: ('be', 'he/Barry Farber', 'Satan', 's01_e20_c10_u023')
+  tuple: ('be', 'he/Barry Farber', 'in a smock', 's01_e20_c10_u023')
+
+event_id: s01_e20_c10_u024_e1
+utterance_id: s01_e20_c10_u024
+  tuple: ('know', 'I/Mindy Hunter', "he's not perfect", 's01_e20_c10_u024')
+  tuple: ('be', 'he/Barry Farber', 'perfect', 's01_e20_c10_u024')
+
+event_id: s01_e20_c10_u024_e2
+utterance_id: s01_e20_c10_u024
+  tuple: ('be', 'the truth', None, 's01_e20_c10_u024')
+  tuple: ('want', 'I/Mindy Hunter', 'to be Mrs. Dr. Barry Farber, D.D.S.', 's01_e20_c10_u024')
+
+event_id: s01_e20_c10_u026_e1
+utterance_id: s01_e20_c10_u026
+  tuple: ('hope', 'I/Mindy Hunter', 'you can find some way to be happy for me', 's01_e20_c10_u026')
+  tuple: ('find', 'you/Rachel Green', 'some way', 's01_e20_c10_u026')
+  tuple: ('be', 'you/Rachel Green', 'happy', 's01_e20_c10_u026')
+  tuple: ('be', 'you/Rachel Green', 'for me', 's01_e20_c10_u026')
+
+event_id: s01_e20_c10_u026_e2
+utterance_id: s01_e20_c10_u026
+  tuple: ('hope', 'I/Mindy Hunter', "you'll still be my maid of honor", 's01_e20_c10_u026')
+  tuple: ('be', 'you/Rachel Green', 'my maid of honor', 's01_e20_c10_u026')
+
+event_id: s01_e20_c10_u027_e1
+utterance_id: s01_e20_c10_u027
+  tuple: ('hope', 'I/Rachel Green', "Barry doesn't kill you and eat you in Aruba", 's01_e20_c10_u027')
+  tuple: ('kill', 'Barry Farber', 'you', 's01_e20_c10_u027')
+  tuple: ('eat', 'Barry Farber', 'you', 's01_e20_c10_u027')
+  tuple: ('eat', 'Barry Farber', 'in Aruba', 's01_e20_c10_u027')
+

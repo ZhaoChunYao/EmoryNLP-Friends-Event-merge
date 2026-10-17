@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates interaction, directly questions Speaker_02 about bananas, and assertively demands the return of a monkey."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker makes an accusatory demand—\"give me my monkey back\"—showing suspicion and confrontational tone rather than trust or cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; the tone is assertive but not visibly nervous or distressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or unconventional thinking; the reasoning (bananas imply monkey) is straightforward and not indicative of openness."
+  }
+}

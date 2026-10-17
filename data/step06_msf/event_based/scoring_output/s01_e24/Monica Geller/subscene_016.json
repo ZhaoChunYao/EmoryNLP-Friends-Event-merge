@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the conversation with a compliment and multiple questions (u001, u003, u007) and actively reassures the other person (“No pressure!” u009)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a friendly compliment and says gifts are about the thought (u001, u005), reassures “no pressure” (u009), admits being a bit weird and promises to behave and not pressure (u011)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides precise logistical details about a flight’s arrival time and gate (u005), indicating planning and reliability."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Aside from eager reassurance to avoid pressuring (u009) and noting being a bit weird initially (u011), there are no clear signs of anxiety or marked calm confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of imaginative or unconventional thinking; questions and small talk are routine (u001, u003, u007)."
+  }
+}

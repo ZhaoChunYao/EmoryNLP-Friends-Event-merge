@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker energetically took the call, enjoyed acting as Speaker_01’s receptionist, and asked what they were going to do next (u002, u011), indicating talkativeness and outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker told the caller that Speaker_01 was in a meeting (u005) even though Speaker_01 said they were not (u006), showing a lack of straightforwardness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker handled the call like a receptionist, said they would make sure Speaker_01 got Speaker_02’s message and referenced the phone number (u007), and passed along the greeting (u009), indicating organized, reliable follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or sensitivity; demeanor appears calm but without explicit evidence of unusual confidence or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from playful role-taking as a receptionist (u011), there is no concrete evidence of curiosity or unconventional thinking to indicate openness."
+  }
+}

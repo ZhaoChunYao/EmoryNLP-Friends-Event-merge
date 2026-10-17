@@ -1,0 +1,21 @@
+('like', 'you/Chandler Bing', 'some gum', 's01_e07_c09_u001')
+[s01_e07_c09_u001] Jill Goodacre: Would you like some gum?
+
+('be', 'it/gum', 'sugarless', 's01_e07_c09_u002')
+[s01_e07_c09_u002] Chandler Bing: Um, is it sugarless?
+
+('be', 'it/gum', 'not', 's01_e07_c09_u003')
+[s01_e07_c09_u003] Jill Goodacre: Sorry, it's not.
+
+('be', "that/Chandler Bing's refusal", 'what the hell', 's01_e07_c09_u004')
+[s01_e07_c09_u004] Chandler Bing: Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.
+
+('offer', 'Jill Goodacre', 'gum to you/Chandler Bing', 's01_e07_c09_u004')
+[s01_e07_c09_u004] Chandler Bing: Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.
+
+('take', 'you/Chandler Bing', 'it', 's01_e07_c09_u004')
+[s01_e07_c09_u004] Chandler Bing: Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.
+
+('offer', 'she/Jill Goodacre', 'mangled animal carcass to you/Chandler Bing', 's01_e07_c09_u004')
+[s01_e07_c09_u004] Chandler Bing: Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.
+

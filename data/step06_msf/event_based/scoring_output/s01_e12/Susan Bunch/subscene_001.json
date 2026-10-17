@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker greets warmly and proactively engages with multiple questions about the amniocentesis and the baby's sex (u020, u022, u024, u027), showing sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite Speaker_01 stating they don’t want to know the sex (u026), TargetSpeaker continues to ask about the baby's sex prediction (u027), disregarding the expressed preference."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or sloppiness/carelessness beyond the social context; task-related conscientiousness is not shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; TargetSpeaker speaks calmly and matter-of-factly, but there is no strong evidence of pronounced security/confidence either."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking about the baby's sex reflects normal curiosity in context, not broader inventiveness or open-mindedness; no evidence of dogmatism."
+  }
+}

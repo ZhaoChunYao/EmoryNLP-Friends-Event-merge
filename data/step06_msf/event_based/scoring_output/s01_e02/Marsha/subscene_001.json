@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages actively with humorous, vivid comments (e.g., invents scenarios about Speaker_03 and Speaker_02 in u004) and repeatedly initiates remarks (u002, u006, u009), suggesting outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes blunt, critical and mocking remarks about others (e.g., “Speaker_02 has issues” in u002; sarcastic depictions in u004), indicating low agreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and lack of nervousness by openly teasing others and making assertive claims (u004, u006, u009) without signs of anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays creativity and imagination by crafting detailed cave-person scenarios (u004), indicating openness."
+  }
+}

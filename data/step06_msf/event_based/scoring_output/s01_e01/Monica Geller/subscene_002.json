@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Shows brief, supportive participation (checks on Speaker_01 and offers coffee) but no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Asks if Speaker_01 is okay and proactively offers to get them coffee, indicating care, helpfulness, and generosity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicating organization or carelessness; offering coffee and mentioning a move provide no clear signal."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mentions that Speaker_04 moved out today without displaying anxiety or distress; no clear signs of nervousness or pronounced calm/confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity/imagination or dogmatism/caution in ideas."
+  }
+}

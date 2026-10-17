@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and functionally during the massage (“Sorry. How about over here? … What about this?”), not showing marked outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Apologizes when causing pain and offers to adjust (“Sorry. How about over here?” “What about this?”), showing consideration for the other person."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Monitors the client’s reactions and systematically adjusts technique/position, asking for feedback (“How about over here?” “What about this?”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident despite screams, even interpreting them as signs it’s working, not showing nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Explores alternative spots and adapts based on reactions (“How about over here?” “What about this?”), indicating flexibility and curiosity."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives a brief surprised reaction (“What? What?”) and a single clarifying statement; no clear sign of outgoing or reserved social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker responds without hostility and directly clarifies the situation (“[my] private parts were in the shower with [me]”), showing straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions from TargetSpeaker indicate organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The surprised “What? What?” shows momentary confusion but not sustained anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or dogmatism/caution in the brief responses."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c11_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that/(sonogram image)', 'amazing', 's01_e02_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u002",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('suppose', 'we/(Joey Tribbiani+group)', 'see here', 's01_e02_c11_u002')",
+            "('see', 'we/(Joey Tribbiani+group)', 'what', 's01_e02_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', None, 's01_e02_c11_u003')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('think', 'I/(Chandler Bing)', \"it's about to attack the Enterprise\", 's01_e02_c11_u003')",
+            "('attack', 'it/(sonogram image)', 'the Enterprise', 's01_e02_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you/(group)', None, 's01_e02_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('tilt', 'you/(group)', 'your head', 's01_e02_c11_u004')",
+            "('tilt', 'you/(group)', 'to the left', 's01_e02_c11_u004')",
+            "('relax', 'you/(group)', 'your eyes', 's01_e02_c11_u004')",
+            "('look', 'it/(sonogram image)', 'like an old potato', 's01_e02_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', 'you/(group)', 'that', 's01_e02_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/(Monica Geller)', 'what', 's01_e02_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u009",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('well up', 'you/(Monica Geller)', None, 's01_e02_c11_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', None, 's01_e02_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u012",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', None, 's01_e02_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u013",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'an aunt', 's01_e02_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u014",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('shut up', 'you/(Ross Geller)', None, 's01_e02_c11_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c11_u015",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'it/(phone call)', 'Rachel', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'fine', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('see', 'I/(Rachel Green)', 'Barry', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('tell', 'he/(Barry)', 'me', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('be', 'it/(situation)', 'okay', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-6",
+          "tuples": [
+            "('hope', 'I/(Rachel Green)', 'you two are very happy', 's01_e02_c11_u015')",
+            "('be', 'you two/(Barry+Mindy)', 'very happy', 's01_e02_c11_u015')",
+            "('do', 'I/(Rachel Green)', None, 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-7",
+          "tuples": [
+            "('know', 'you/(Mindy)', None, 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-8",
+          "tuples": [
+            "('work out', 'everything', None, 's01_e02_c11_u015')",
+            "('end up', 'you guys/(Barry+Mindy)', 'getting married and having kids and everything', 's01_e02_c11_u015')",
+            "('get married', 'you guys/(Barry+Mindy)', None, 's01_e02_c11_u015')",
+            "('have', 'you guys/(Barry+Mindy)', 'kids', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-9",
+          "tuples": [
+            "('hope', 'I/(Rachel Green)', 'they have his old hairline and your old nose', 's01_e02_c11_u015')",
+            "('have', \"they/(Barry+Mindy's kids)\", 'his old hairline and your old nose', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-10",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', 'it was a cheap shot', 's01_e02_c11_u015')",
+            "('be', 'it/(comment)', 'a cheap shot', 's01_e02_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "event-11",
+          "tuples": [
+            "('feel', 'I/(Rachel Green)', 'so much better now', 's01_e02_c11_u015')"
+          ]
+        }
+      ]
+    }
+  ]
+}

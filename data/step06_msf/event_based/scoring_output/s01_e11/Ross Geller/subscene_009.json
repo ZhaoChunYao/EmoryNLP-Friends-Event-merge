@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker barely speaks, only trying to interject with a hesitant 'Chandler-' twice while others dominate the exchange, indicating a reserved stance."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Others state TargetSpeaker kissed Nora Tyler Bing and are angry he didn’t tell them, showing a lack of straightforwardness and reliability."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Keeping the kiss secret and not addressing it proactively reflects careless handling of responsibilities to friends."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "When confronted, TargetSpeaker only stammers 'Chandler-' twice and does not assert a response, suggesting nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or dogmatism; the dialogue centers on a social conflict without indications of openness."
+  }
+}

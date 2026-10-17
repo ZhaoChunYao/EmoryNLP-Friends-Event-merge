@@ -1,0 +1,145 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u001_e1",
+          "tuples": [
+            "('happen', 'what', None, 's01_e12_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u002_e1",
+          "tuples": [
+            "('come', \"he/(Phoebe's client)\", 'for a massage', 's01_e12_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c08_u002_e2",
+          "tuples": [
+            "('be', 'everything', 'fine', 's01_e12_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u006_e1",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'sure', 's01_e12_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u009_e1",
+          "tuples": [
+            "('be', 'I/(Phoebe Buffay)', 'sure', 's01_e12_c08_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c08_u009_e2",
+          "tuples": [
+            "('be', 'his hands', 'the problem anymore', 's01_e12_c08_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u010",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u010_e1",
+          "tuples": [
+            "('be', 'it/(unknown)', None, 's01_e12_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u011",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u011_e1",
+          "tuples": [
+            "('camp', 'boy scouts', 'under there', 's01_e12_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u019",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u019_e1",
+          "tuples": [
+            "('thank', 'I/(Ross Geller)', 'Rach', 's01_e12_c08_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u021",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u021_e1",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', None, 's01_e12_c08_u021')",
+            "('do', 'you/(Phoebe Buffay)', 'what', 's01_e12_c08_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u022",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u022_e1",
+          "tuples": [
+            "('tell', 'you/(Phoebe Buffay)', 'her', 's01_e12_c08_u022')",
+            "('be', 'it/(telling her)', 'your moral obligation', 's01_e12_c08_u022')",
+            "('be', 'it/(telling her)', 'as a friend', 's01_e12_c08_u022')",
+            "('be', 'it/(telling her)', 'as a woman', 's01_e12_c08_u022')",
+            "('think', 'I/(Ross Geller)', \"it's a feminist issue\", 's01_e12_c08_u022')",
+            "('be', 'it/(telling her)', 'a feminist issue', 's01_e12_c08_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u024",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u024_e1",
+          "tuples": [
+            "('be', 'that/(feminist issue)', 'where I went', 's01_e12_c08_u024')",
+            "('go', 'I/(Joey Tribbiani)', None, 's01_e12_c08_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c08_u025",
+      "events": [
+        {
+          "event_id": "s01_e12_c08_u025_e1",
+          "tuples": [
+            "('be', 'she/(Rachel Green)', None, 's01_e12_c08_u025')",
+            "('hate', 'she/(Rachel Green)', 'me', 's01_e12_c08_u025')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He dominates the exchange with long monologues, directs others (“don’t listen to Speaker_01”), and openly volunteers detailed personal news about his relationship and the pregnancy in front of the group."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is insensitive and patronizing—bringing up Speaker_04’s embarrassing childhood details (chubby, no friends), belittling content people, using a diminutive nickname, and boasting about his publications; also makes a harsh remark about people who stay put “never get cancer.”"
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He presents himself as ambitious and achievement-focused (“shoot for the stars”), cites concrete accomplishment (“my academic papers are getting published”), and takes charge to systematically explain what happened."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He discloses shocking personal information calmly and speaks assertively without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He references reading about broader social topics and being engaged in academic/museum work with published papers, indicating intellectual curiosity."
+  }
+}

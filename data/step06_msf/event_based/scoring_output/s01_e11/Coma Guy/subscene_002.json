@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief responses (“Well,... thanks.”) and quickly ends the interaction with a non-committal “I’ll see you around,” suggesting a reserved, low-engagement demeanor."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses gratitude (“thanks”) and offers a polite parting (“I’ll see you around”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A slight hesitation (“Well,...”) is insufficient to infer nervousness or confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, new ideas, or caution/dogmatism."
+  }
+}

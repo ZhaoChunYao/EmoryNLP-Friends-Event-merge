@@ -1,0 +1,218 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u001_e1",
+          "tuples": [
+            "('be', 'little Ben', None, 's01_e24_c01_u001')",
+            "('nod off', 'little Ben', None, 's01_e24_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u002",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u002_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', \"at Aunt Monica's little boy\", 's01_e24_c01_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u003_e1",
+          "tuples": [
+            "('get', 'he/(Ben)', \"Ross's haircut\", 's01_e24_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u004",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u004_e1",
+          "tuples": [
+            "('let', 'you/(Ross Geller)', 'me', 's01_e24_c01_u004')",
+            "('see', 'I/(Rachel Green)', None, 's01_e24_c01_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u004_e2",
+          "tuples": [
+            "('be', 'he/(Ben)', 'the sweetest thing', 's01_e24_c01_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u004_e3",
+          "tuples": [
+            "('want', 'you/(Ross Geller)', 'to kiss him all over', 's01_e24_c01_u004')",
+            "('kiss', 'you/(Ross Geller)', 'him', 's01_e24_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u006_e1",
+          "tuples": [
+            "('be', 'that/(the idea)', 'nice', 's01_e24_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u008_e1",
+          "tuples": [
+            "('pardon', 'you/(Chandler Bing)', 'me', 's01_e24_c01_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u011",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u011_e1",
+          "tuples": [
+            "('help', 'you/(Chandler Bing)', 'me', 's01_e24_c01_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u011_e2",
+          "tuples": [
+            "('promise', 'I/(Joey Tribbiani)', 'I will pay you back', 's01_e24_c01_u011')",
+            "('pay', 'I/(Joey Tribbiani)', 'you back', 's01_e24_c01_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u012",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u012_e1",
+          "tuples": [
+            "('owe', 'you/(Joey Tribbiani)', '17 jillion dollars', 's01_e24_c01_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u014",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u014_e1",
+          "tuples": [
+            "('be', 'this money', None, 's01_e24_c01_u014')",
+            "('come', 'this money', 'from where', 's01_e24_c01_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u015",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u015_e1",
+          "tuples": [
+            "('help out', 'I/(Joey Tribbiani)', 'down at the N.Y.U. Med School', 's01_e24_c01_u015')",
+            "('help out', 'I/(Joey Tribbiani)', 'with some research', 's01_e24_c01_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u018",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u018_e1",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', 'I have heard of that', 's01_e24_c01_u018')",
+            "('hear', 'I/(Ross Geller)', 'of that', 's01_e24_c01_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u019",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u019_e1",
+          "tuples": [
+            "('be', 'it/(the research)', 'a fertility study', 's01_e24_c01_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u021",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u021_e1",
+          "tuples": [
+            "('tell', 'you/(Joey Tribbiani)', 'me', 's01_e24_c01_u021')",
+            "('donate', 'you/(Joey Tribbiani)', 'your time', 's01_e24_c01_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u022",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u022_e1",
+          "tuples": [
+            "('come on', 'you guys', None, 's01_e24_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u022_e2",
+          "tuples": [
+            "('be', 'it/(the situation)', 'not that big a deal', 's01_e24_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u022_e3",
+          "tuples": [
+            "('mean', 'I/(Joey Tribbiani)', 'I just go down there every other day and make my contribution to the project', 's01_e24_c01_u022')",
+            "('go', 'I/(Joey Tribbiani)', None, 's01_e24_c01_u022')",
+            "('make', 'I/(Joey Tribbiani)', 'my contribution', 's01_e24_c01_u022')",
+            "('make', 'I/(Joey Tribbiani)', 'to the project', 's01_e24_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c01_u022_e4",
+          "tuples": [
+            "('get', 'I/(Joey Tribbiani)', 'seven hundred dollars', 's01_e24_c01_u022')",
+            "('get', 'I/(Joey Tribbiani)', 'at the end', 's01_e24_c01_u022')",
+            "('get', 'I/(Joey Tribbiani)', 'of two weeks', 's01_e24_c01_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c01_u024",
+      "events": [
+        {
+          "event_id": "s01_e24_c01_u024_e1",
+          "tuples": [
+            "('make', 'you/(Joey Tribbiani)', 'money', 's01_e24_c01_u024')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and sustains conversation and offers help (u017), asks engaging questions about feelings and tomorrow (u019), and gives extended advice (u025)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Proactively offers to help clean up (u017) and gives considerate, empathetic advice to protect the other person’s feelings (avoid saying 'dumped', assume ex may be fragile) (u025)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Suggests careful word choice ('steer clear of the word dumped') and lays out concrete next steps ('go down there, give him back his ring...') (u025), showing planning and deliberation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Does not display anxiety or insecurity; remains calm and supportive throughout, but no strong evidence of either nervousness or marked confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking; advice is practical and tactful rather than inventive or dogmatic."
+  }
+}

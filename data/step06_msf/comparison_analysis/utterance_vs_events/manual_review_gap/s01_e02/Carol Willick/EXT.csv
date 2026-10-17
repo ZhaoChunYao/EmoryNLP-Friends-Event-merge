@@ -1,0 +1,58 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e02,Carol Willick,subscene_001.json,EXT,1,-1,2,"Episode: s01_e02
+Scene: s01_e02_c02
+Subscene index for speaker: 001
+Main speaker: Carol Willick
+UID span: s01_e02_c02_u009 → s01_e02_c02_u022
+Peak window: 8 → 15
+
+Dialogue:
+  [s01_e02_c02_u009]
+  1. Marsha says the woman they are looking at is Carol Willick.
+  [s01_e02_c02_u010]
+  1. Ross Geller says Ross Geller will catch up with Marsha in the Ice Age later.
+  [s01_e02_c02_u011] Unknown Speaker: 
+  [s01_e02_c02_u012] Ross Geller: Hi.
+  [s01_e02_c02_u013] Carol Willick: So.
+  [s01_e02_c02_u014]
+  1. Ross Geller says Carol Willick looks great right now.
+  2. Ross Geller says Ross Geller hates that Carol Willick looks great.
+  [s01_e02_c02_u015]
+  1. Carol Willick says Ross Geller looks good right now.
+  [s01_e02_c02_u016]
+  1. Ross Geller says that in here anyone who stands erect looks good.
+  2. Ross Geller says he is asking what is new with Carol Willick.
+  [s01_e02_c02_u017] Carol Willick: A lesbian?
+  [s01_e02_c02_u018]
+  1. Ross Geller says Carol Willick never knows what might happen.
+  2. Ross Geller says he is asking how Carol Willick's family is doing.
+  [s01_e02_c02_u019]
+  1. Carol Willick says Marty is still totally paranoid.
+  [s01_e02_c02_u020]
+  1. Ross Geller says Carol Willick is here right now.
+  [s01_e02_c02_u021]
+  1. Carol Willick says Carol Willick is pregnant.
+  [s01_e02_c02_u022] Ross Geller: Pregnant?!
+","Episode: s01_e02
+Scene: s01_e02_c02
+Subscene index for speaker: 001
+Main speaker: Carol Willick
+UID span: s01_e02_c02_u009 → s01_e02_c02_u022
+Peak window: 8 → 15
+
+Dialogue:
+  [s01_e02_c02_u009] Marsha: Yes, it is. Carol! Hi!
+  [s01_e02_c02_u010] Ross Geller: Okay, okay, yes, it is. How about I'll, uh, catch up with you in the Ice Age.
+  [s01_e02_c02_u011] Unknown Speaker: 
+  [s01_e02_c02_u012] Ross Geller: Hi.
+  [s01_e02_c02_u013] Carol Willick: So.
+  [s01_e02_c02_u014] Ross Geller: You look great. I, uh... I hate that.
+  [s01_e02_c02_u015] Carol Willick: Sorry. You look good too.
+  [s01_e02_c02_u016] Ross Geller: Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...
+  [s01_e02_c02_u017] Carol Willick: A lesbian?
+  [s01_e02_c02_u018] Ross Geller: Well... you never know. How's, um.. how's the family?
+  [s01_e02_c02_u019] Carol Willick: Marty's still totally paranoid. Oh, and, uh-
+  [s01_e02_c02_u020] Ross Geller: Why- why are you here, Carol?
+  [s01_e02_c02_u021] Carol Willick: I'm pregnant.
+  [s01_e02_c02_u022] Ross Geller: Pregnant?!
+","She engages in social small talk, makes a joke (“A lesbian?”), and openly shares personal news that she’s pregnant.","Gives very short, minimal replies ('So.', 'Sorry. You look good too.') and speaks sparingly until the key disclosure; not talkative or energetic.",,,

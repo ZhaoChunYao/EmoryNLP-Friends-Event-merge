@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in the group, making a teasing observation about Speaker_01 only now realizing fatherhood and then offering a supportive comment—showing sociable, talkative participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker reassures Speaker_01 by saying he’s going to be great as a father, displaying warmth and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization, planning, or diligence in TargetSpeaker’s brief comments."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional volatility; the remarks focus on encouraging another person, not on TargetSpeaker’s own emotional state."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or consideration of new ideas in the exchange."
+  }
+}

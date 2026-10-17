@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives brief responses during introductions and does not display outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker claims the name is Dutch, then backtracks to 'Um, Pennsylvania Dutch' when challenged, suggesting dishonesty or unreliability rather than straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization or diligence is shown; only a brief self-introduction and a dubious name explanation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Apart from a hesitant 'Um,' there is no clear sign of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or open-minded exploration; the 'Dutch' claim appears more like a cover than inventive engagement."
+  }
+}

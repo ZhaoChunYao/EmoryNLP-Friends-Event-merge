@@ -1,0 +1,50 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c12_u001_event_1",
+          "tuples": [
+            "('do', 'you/Ross Geller', 'suck the door open', 's01_e23_c12_u001')",
+            "('suck', 'you/Ross Geller', 'the door', 's01_e23_c12_u001')",
+            "('open', 'you/Ross Geller', 'the door', 's01_e23_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c12_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c12_u002_event_1",
+          "tuples": [
+            "('help', 'you/(anyone)', None, 's01_e23_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c12_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c12_u003_event_1",
+          "tuples": [
+            "('find', 'They/(unknown)', 'their bodies', 's01_e23_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c12_u004_event_1",
+          "tuples": [
+            "('help', 'you/(anyone)', None, 's01_e23_c12_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

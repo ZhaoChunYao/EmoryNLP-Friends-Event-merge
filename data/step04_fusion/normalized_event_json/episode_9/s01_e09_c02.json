@@ -1,0 +1,519 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c02_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u001_e1",
+          "tuples": [
+            "('excuse', 'you/(Guy)', 'me', 's01_e09_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u001_e2",
+          "tuples": [
+            "('come', 'you/(Guy)', 'in here', 's01_e09_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u001_e3",
+          "tuples": [
+            "('wonder', 'I/(Rachel Green)', \"do you think there's a possibility that you could give me an advance on my tips\", 's01_e09_c02_u001')",
+            "('think', 'you/(Guy)', \"there's a possibility that you could give me an advance on my tips\", 's01_e09_c02_u001')",
+            "('be', 'there', 'a possibility that you could give me an advance on my tips', 's01_e09_c02_u001')",
+            "('give', 'you/(Guy)', 'me an advance', 's01_e09_c02_u001')",
+            "('give', 'you/(Guy)', 'on my tips', 's01_e09_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u003_e1",
+          "tuples": [
+            "('be', 'that', 'fine', 's01_e09_c02_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u003_e2",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'sorry', 's01_e09_c02_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u003_e3",
+          "tuples": [
+            "('go', '$98.50', None, 's01_e09_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u005_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', 'Mom and Dad are going to Puerto Rico for Thanksgiving', 's01_e09_c02_u005')",
+            "('go', 'Mom and Dad', 'to Puerto Rico', 's01_e09_c02_u005')",
+            "('go', 'Mom and Dad', 'for Thanksgiving', 's01_e09_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u006",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u006_e1",
+          "tuples": [
+            "('be', 'they/(Mom and Dad)', 'not', 's01_e09_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u007",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u007_e1",
+          "tuples": [
+            "('be', 'they/(Mom and Dad)', None, 's01_e09_c02_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u007_e2",
+          "tuples": [
+            "('invite', 'The Blymens', 'them', 's01_e09_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u008",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u008_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'wrong', 's01_e09_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u009",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u009_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'not wrong', 's01_e09_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u010",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u010_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'wrong', 's01_e09_c02_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u011",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u011_e1",
+          "tuples": [
+            "('talk', 'I/(Monica Geller)', None, 's01_e09_c02_u011')",
+            "('talk', 'I/(Monica Geller)', 'to them', 's01_e09_c02_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u012",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u012_e1",
+          "tuples": [
+            "('call', 'I/(Ross Geller)', 'Mom', 's01_e09_c02_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u017",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u017_e1",
+          "tuples": [
+            "('wear', 'you/(Joey Tribbiani)', 'makeup', 's01_e09_c02_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u018",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u018_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'Joey Tribbiani, actor slash model', 's01_e09_c02_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u019",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u019_e1",
+          "tuples": [
+            "('be', 'that', 'so funny', 's01_e09_c02_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u019_e2",
+          "tuples": [
+            "('think', 'I/(Chandler Bing)', 'you look more like Joey Tribbiani, man slash woman', 's01_e09_c02_u019')",
+            "('look', 'you/(Joey Tribbiani)', 'more like Joey Tribbiani, man slash woman', 's01_e09_c02_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u020",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u020_e1",
+          "tuples": [
+            "('model', 'you/(Joey Tribbiani)', 'for what', 's01_e09_c02_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u021",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u021_e1",
+          "tuples": [
+            "('know', 'you/(Phoebe Buffay)', 'those posters for the city free clinic', 's01_e09_c02_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u022",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u022_e1",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'one of those \"healthy, healthy, healthy guys\"', 's01_e09_c02_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u023",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u023_e1",
+          "tuples": [
+            "('know', 'you/(everyone)', None, 's01_e09_c02_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u023_e2",
+          "tuples": [
+            "('be', 'the asthma guy', 'really cute', 's01_e09_c02_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u024",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u024_e1",
+          "tuples": [
+            "('know', 'you/(Joey Tribbiani)', \"which one you're gonna be\", 's01_e09_c02_u024')",
+            "('be', 'you/(Joey Tribbiani)', 'which one', 's01_e09_c02_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u025",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u025_e1",
+          "tuples": [
+            "('hear', 'I/(Joey Tribbiani)', 'lyme disease is open', 's01_e09_c02_u025')",
+            "('be', 'lyme disease', 'open', 's01_e09_c02_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u026",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u026_e1",
+          "tuples": [
+            "('hope', 'I/(Chandler Bing)', 'you get it', 's01_e09_c02_u026')",
+            "('get', 'you/(Joey Tribbiani)', 'it', 's01_e09_c02_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u029",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u029_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'right', 's01_e09_c02_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u029_e2",
+          "tuples": [
+            "('do', 'they/(Mom and Dad)', 'this', 's01_e09_c02_u029')",
+            "('do', 'they/(Mom and Dad)', 'to us', 's01_e09_c02_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u029_e3",
+          "tuples": [
+            "('be', 'it', 'Thanksgiving', 's01_e09_c02_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u030",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u030_e1",
+          "tuples": [
+            "('tell', 'I/(Monica Geller)', 'you what', 's01_e09_c02_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u030_e2",
+          "tuples": [
+            "('cook', 'I/(Monica Geller)', 'dinner', 's01_e09_c02_u030')",
+            "('cook', 'I/(Monica Geller)', 'at my place', 's01_e09_c02_u030')",
+            "('make', 'I/(Monica Geller)', 'it', 's01_e09_c02_u030')",
+            "('make', 'I/(Monica Geller)', \"like Mom's\", 's01_e09_c02_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u031",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u031_e1",
+          "tuples": [
+            "('make', 'you/(Monica Geller)', 'the mashed potatoes', 's01_e09_c02_u031')",
+            "('make', 'you/(Monica Geller)', 'with the lumps', 's01_e09_c02_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u032",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u032_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', None, 's01_e09_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u032_e2",
+          "tuples": [
+            "('have', 'they/(mashed potatoes)', None, 's01_e09_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u032_e3",
+          "tuples": [
+            "('work', 'I/(Monica Geller)', 'on the lumps', 's01_e09_c02_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u032_e4",
+          "tuples": [
+            "('go', 'you/(Joey Tribbiani)', 'home', 's01_e09_c02_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u034",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u034_e1",
+          "tuples": [
+            "('assume', 'I/(Monica Geller)', 'Chandler, you are still boycotting all the pilgrim holidays', 's01_e09_c02_u034')",
+            "('boycott', 'you/(Chandler Bing)', 'all the pilgrim holidays', 's01_e09_c02_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u036",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u036_e1",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'with your grandma', 's01_e09_c02_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u037",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u037_e1",
+          "tuples": [
+            "('celebrate', \"we/(Phoebe Buffay + her grandma + her grandma's boyfriend)\", 'Thanksgiving', 's01_e09_c02_u037')",
+            "('celebrate', \"we/(Phoebe Buffay + her grandma + her grandma's boyfriend)\", 'in December', 's01_e09_c02_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u037_e2",
+          "tuples": [
+            "('be', \"he/(grandma's boyfriend)\", 'lunar', 's01_e09_c02_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u038",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u038_e1",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'free Thursday, then', 's01_e09_c02_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u039",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u039_e1",
+          "tuples": [
+            "('come', 'I/(Phoebe Buffay)', None, 's01_e09_c02_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u040",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u040_e1",
+          "tuples": [
+            "('think', 'you/(Rachel Green)', \"you're gonna make it to Vail\", 's01_e09_c02_u040')",
+            "('make', 'you/(Rachel Green)', 'it', 's01_e09_c02_u040')",
+            "('make', 'you/(Rachel Green)', 'to Vail', 's01_e09_c02_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u041",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u041_e1",
+          "tuples": [
+            "('go', 'a hundred and two dollars', None, 's01_e09_c02_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u042",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u042_e1",
+          "tuples": [
+            "('think', 'I/(Chandler Bing)', 'it was $98.50', 's01_e09_c02_u042')",
+            "('be', 'it', '$98.50', 's01_e09_c02_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u043",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u043_e1",
+          "tuples": [
+            "('be', 'it', None, 's01_e09_c02_u043')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u043_e2",
+          "tuples": [
+            "('break', 'I/(Rachel Green)', 'a cup', 's01_e09_c02_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u044",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u044_e1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'off', 's01_e09_c02_u044')",
+            "('go', 'I/(Ross Geller)', \"to Carol's\", 's01_e09_c02_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u045",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u045_e1",
+          "tuples": [
+            "('invite', 'we/(friends)', 'her', 's01_e09_c02_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c02_u046",
+      "events": [
+        {
+          "event_id": "s01_e09_c02_u046_e1",
+          "tuples": [
+            "('be', 'she/(Carol)', 'my ex-wife', 's01_e09_c02_u046')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c02_u046_e2",
+          "tuples": [
+            "('want', 'she/(Carol)', 'to bring her lesbian life partner', 's01_e09_c02_u046')",
+            "('bring', 'she/(Carol)', 'her lesbian life partner', 's01_e09_c02_u046')"
+          ]
+        }
+      ]
+    }
+  ]
+}

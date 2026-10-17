@@ -1,0 +1,126 @@
+('go', 'it/(the date)', None, 's01_e03_c01_u003')
+[s01_e03_c01_u003] Ross Geller: Hey. Oh, oh, how'd it go?
+
+('walk', "he/(Phoebe's date)", 'me', 's01_e03_c01_u004')
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+
+('walk', "he/(Phoebe's date)", 'to the subway', 's01_e03_c01_u004')
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+
+('say', "he/(Phoebe's date)", 'We should do this again', 's01_e03_c01_u004')
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+
+('do', "we/(Phoebe Buffay+Phoebe's date)", 'this again', 's01_e03_c01_u004')
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+
+('be', 'that/(he said "we should do it again")', 'good', 's01_e03_c01_u006')
+[s01_e03_c01_u006] Rachel Green: What? He said 'we should do it again', that's good, right?
+
+('mean', 'We should do this again', 'You will never see me naked', 's01_e03_c01_u007')
+[s01_e03_c01_u007] Monica Geller: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+
+('see', 'you/(Phoebe Buffay)', 'me', 's01_e03_c01_u007')
+[s01_e03_c01_u007] Monica Geller: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+
+('be', 'it/(the euphemism)', 'like dating language', 's01_e03_c01_u009')
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+
+('mean', "It's not you", 'It is you', 's01_e03_c01_u009')
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+
+('be', 'it/(the problem)', 'not you', 's01_e03_c01_u009')
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+
+('be', 'it/(the problem)', 'you', 's01_e03_c01_u009')
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+
+('mean', "You're such a nice guy", "I'm gonna be dating leather-wearing alcoholics and complaining about them to you", 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('be', 'you/(generic)', 'such a nice guy', 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('be', 'I/(speaker of phrase)', 'dating leather-wearing alcoholics and complaining about them to you', 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('date', 'I/(speaker of phrase)', 'leather-wearing alcoholics', 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('complain', 'I/(speaker of phrase)', 'about them', 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('complain', 'I/(speaker of phrase)', 'to you', 's01_e03_c01_u010')
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+
+('mean', 'I think we should see other people', 'Ha, ha, I already am', 's01_e03_c01_u011')
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+
+('think', 'I/(speaker of phrase)', 'we should see other people', 's01_e03_c01_u011')
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+
+('see', 'we/(the couple)', 'other people', 's01_e03_c01_u011')
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+
+('be', 'I/(speaker of phrase)', None, 's01_e03_c01_u011')
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+
+('know', 'everybody', 'this', 's01_e03_c01_u012')
+[s01_e03_c01_u012] Rachel Green: And everybody knows this?
+
+('cushion', 'it/(this practice)', 'the blow', 's01_e03_c01_u013')
+[s01_e03_c01_u013] Joey Tribbiani: Yeah. Cushions the blow.
+
+('be', 'it/(this practice)', "like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm", 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('be', 'you/(generic)', 'a kid', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('put', 'your parents/(generic you)', 'your dog', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('put', 'your parents/(generic you)', 'to sleep', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('tell', 'they/(your parents)', 'you', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('tell', 'they/(your parents)', 'it went off to live on some farm', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('go', 'it/(your dog)', 'off', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('live', 'it/(your dog)', None, 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('live', 'it/(your dog)', 'on some farm', 's01_e03_c01_u014')
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+
+('be', "that/(Chandler's remark)", 'funny', 's01_e03_c01_u015')
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+
+('send', 'our parents/(Ross Geller+Monica Geller)', 'our dog', 's01_e03_c01_u015')
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+
+('send', 'our parents/(Ross Geller+Monica Geller)', 'off', 's01_e03_c01_u015')
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+
+('live', 'our dog/(Ross Geller+Monica Geller)', None, 's01_e03_c01_u015')
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+
+('live', 'our dog/(Ross Geller+Monica Geller)', 'on a farm', 's01_e03_c01_u015')
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+
+('have', 'they/(the Millners)', 'this unbelievable farm', 's01_e03_c01_u017')
+[s01_e03_c01_u017] Ross Geller: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+
+('have', 'they/(the Millners)', 'horses', 's01_e03_c01_u017')
+[s01_e03_c01_u017] Ross Geller: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+
+('chase', 'he/(Chi Chi)', 'rabbits', 's01_e03_c01_u017')
+[s01_e03_c01_u017] Ross Geller: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+
+('be', 'it/(the farm)', None, 's01_e03_c01_u017')
+[s01_e03_c01_u017] Ross Geller: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks only twice and briefly—once acknowledging the misunderstanding and once giving a one-word correction—showing no clear outgoing or withdrawn behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are straightforward and cooperative: admit they thought it was a monkey and promptly help correct the mistake by clarifying 'Cat!'."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "They correct a factual detail ('Cat!'), but the situation involves earlier confusion about a monkey; overall there’s insufficient evidence of organized or careless behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional volatility; statements are matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity, creativity, or rigidity; the remarks are simple corrections about what the animal was."
+  }
+}

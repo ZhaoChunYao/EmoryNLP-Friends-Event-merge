@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in small talk, compliments the food, and brings up a social anecdote by asking if Speaker_03 remembers someone and stating someone had a crush on them."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite politely praising the food, TargetSpeaker boasts that Speaker_02’s older daughter had a crush on them, showing self-aggrandizing behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, planning, or diligence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Openly mentions someone having a crush on them, suggesting confidence; only mild embarrassment with 'Aw, Mom...' and no clear signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity about new ideas or unconventional thinking; references are limited to social memories."
+  }
+}

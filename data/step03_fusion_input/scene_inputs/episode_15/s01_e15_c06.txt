@@ -1,0 +1,162 @@
+('try', 'you/Joey Tribbiani', 'this salmon mousse', 's01_e15_c06_u001')
+[s01_e15_c06_u001] Monica Geller: OK, try this salmon mousse.
+
+('be', 'it/this salmon mousse', 'better than the other salmon mousse', 's01_e15_c06_u003')
+[s01_e15_c06_u003] Monica Geller: Is it better than the other salmon mousse?
+
+('be', 'it/this salmon mousse', 'creamier', 's01_e15_c06_u004')
+[s01_e15_c06_u004] Joey Tribbiani: It's creamier.
+
+('be', 'that/creamier', 'better', 's01_e15_c06_u005')
+[s01_e15_c06_u005] Monica Geller: Yeah, well, is that better?
+
+('know', 'I/Joey Tribbiani', None, 's01_e15_c06_u006')
+[s01_e15_c06_u006] Joey Tribbiani: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+
+('talk', 'we/(Joey Tribbiani+Monica Geller)', 'about whipped fish', 's01_e15_c06_u006')
+[s01_e15_c06_u006] Joey Tribbiani: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+
+('be', 'I/Joey Tribbiani', 'happy', 's01_e15_c06_u006')
+[s01_e15_c06_u006] Joey Tribbiani: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+
+('keep', 'I/Joey Tribbiani', 'down it', 's01_e15_c06_u006')
+[s01_e15_c06_u006] Joey Tribbiani: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+
+('happen', 'what', 'to you', 's01_e15_c06_u008')
+[s01_e15_c06_u008] Rachel Green: My God! What happened to you?
+
+('learn', 'I/Chandler Bing', 'what', 's01_e15_c06_u009')
+[s01_e15_c06_u009] Chandler Bing: Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? "You are ideally suited for a career in data processing for a large multinational corporation."
+
+('be', 'you/Chandler Bing', 'ideally suited for a career in data processing for a large multinational corporation', 's01_e15_c06_u009')
+[s01_e15_c06_u009] Chandler Bing: Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? "You are ideally suited for a career in data processing for a large multinational corporation."
+
+('suit', 'you/Chandler Bing', 'for a career', 's01_e15_c06_u009')
+[s01_e15_c06_u009] Chandler Bing: Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? "You are ideally suited for a career in data processing for a large multinational corporation."
+
+('be', 'that/you are ideally suited for a career in data processing for a large multinational corporation', 'so great', 's01_e15_c06_u010')
+[s01_e15_c06_u010] Phoebe Buffay: That's so great! 'Cause you already know how to do that!
+
+('know', 'you/Chandler Bing', 'how to do that', 's01_e15_c06_u010')
+[s01_e15_c06_u010] Phoebe Buffay: That's so great! 'Cause you already know how to do that!
+
+('do', 'you/Chandler Bing', 'that', 's01_e15_c06_u010')
+[s01_e15_c06_u010] Phoebe Buffay: That's so great! 'Cause you already know how to do that!
+
+('believe', 'you/(everyone)', 'it', 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('seem', 'I/Chandler Bing', 'like somebody who should be doing something really cool', 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('do', 'I/Chandler Bing', 'something really cool', 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('know', 'you/(everyone)', None, 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('picture', 'I/Chandler Bing', 'myself doing something', 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('do', 'I/Chandler Bing', 'something', 's01_e15_c06_u011')
+[s01_e15_c06_u011] Chandler Bing: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.
+
+('know', 'I/Rachel Green', None, 's01_e15_c06_u012')
+[s01_e15_c06_u012] Rachel Green: Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!
+
+('see', 'you/Chandler Bing', 'your nipples', 's01_e15_c06_u012')
+[s01_e15_c06_u012] Rachel Green: Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!
+
+('see', 'you/Chandler Bing', 'through this shirt', 's01_e15_c06_u012')
+[s01_e15_c06_u012] Rachel Green: Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!
+
+('go', 'you/Chandler Bing', None, 's01_e15_c06_u013')
+[s01_e15_c06_u013] Monica Geller: Here you go, maybe this'll cheer you up.
+
+('cheer', 'this', 'up you', 's01_e15_c06_u013')
+[s01_e15_c06_u013] Monica Geller: Here you go, maybe this'll cheer you up.
+
+('know', 'you/Monica Geller', None, 's01_e15_c06_u014')
+[s01_e15_c06_u014] Chandler Bing: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.
+
+('have', 'I/Chandler Bing', 'a grape', 's01_e15_c06_u014')
+[s01_e15_c06_u014] Chandler Bing: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.
+
+('have', 'I/Chandler Bing', 'about five hours ago', 's01_e15_c06_u014')
+[s01_e15_c06_u014] Chandler Bing: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.
+
+('split', 'I/Chandler Bing', 'this', 's01_e15_c06_u014')
+[s01_e15_c06_u014] Chandler Bing: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.
+
+('split', 'I/Chandler Bing', 'with you', 's01_e15_c06_u014')
+[s01_e15_c06_u014] Chandler Bing: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.
+
+('be', 'it/this amuse-bouche', 'that small', 's01_e15_c06_u015')
+[s01_e15_c06_u015] Monica Geller: It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.
+
+('be', 'it/this amuse-bouche', 'a pre-appetizer', 's01_e15_c06_u015')
+[s01_e15_c06_u015] Monica Geller: It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.
+
+('call', 'The French', 'it an amouz-bouche', 's01_e15_c06_u015')
+[s01_e15_c06_u015] Monica Geller: It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.
+
+('be', 'it/this amuse-bouche', 'amouz-ing', 's01_e15_c06_u016')
+[s01_e15_c06_u016] Chandler Bing: Well.... it is amouz-ing...
+
+('say', 'we/(Monica Geller+Wendy)', 'what', 's01_e15_c06_u018')
+[s01_e15_c06_u018] Monica Geller: Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.
+
+('see', 'I/Monica Geller', 'you then', 's01_e15_c06_u018')
+[s01_e15_c06_u018] Monica Geller: Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.
+
+('ask', 'I/Monica Geller', 'one of the waitresses at work', 's01_e15_c06_u020')
+[s01_e15_c06_u020] Monica Geller: Oh, I asked one of the waitresses at work if she'd help me out.
+
+('help', 'she/Wendy', 'out me', 's01_e15_c06_u020')
+[s01_e15_c06_u020] Monica Geller: Oh, I asked one of the waitresses at work if she'd help me out.
+
+('think', 'I/Monica Geller', 'of you', 's01_e15_c06_u023')
+[s01_e15_c06_u023] Monica Geller: Well... of course I thought of you! But... but...
+
+('see', 'you/Rachel Green', None, 's01_e15_c06_u025')
+[s01_e15_c06_u025] Monica Geller: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.
+
+('go', 'this night', 'just perfect', 's01_e15_c06_u025')
+[s01_e15_c06_u025] Monica Geller: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.
+
+('know', 'you/Rachel Green', None, 's01_e15_c06_u025')
+[s01_e15_c06_u025] Monica Geller: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.
+
+('be', 'Wendy', 'more of a professional waitress', 's01_e15_c06_u025')
+[s01_e15_c06_u025] Monica Geller: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.
+
+('see', 'I/Rachel Green', None, 's01_e15_c06_u026')
+[s01_e15_c06_u026] Rachel Green: Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.
+
+('maintain', 'I/Rachel Green', 'my amateur status', 's01_e15_c06_u026')
+[s01_e15_c06_u026] Rachel Green: Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.
+
+('waitress', 'I/Rachel Green', None, 's01_e15_c06_u026')
+[s01_e15_c06_u026] Rachel Green: Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.
+
+('waitress', 'I/Rachel Green', 'in the Olympics', 's01_e15_c06_u026')
+[s01_e15_c06_u026] Rachel Green: Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.
+
+('know', 'you/(everyone)', None, 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+
+('mean', 'I/Chandler Bing', 'to brag', 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+
+('brag', 'I/Chandler Bing', None, 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+
+('wait', 'I/Chandler Bing', 'tables', 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+
+('wait', 'I/Chandler Bing', 'at Innsbruck', 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+
+('wait', 'I/Chandler Bing', "in '76", 's01_e15_c06_u027')
+[s01_e15_c06_u027] Chandler Bing: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?
+

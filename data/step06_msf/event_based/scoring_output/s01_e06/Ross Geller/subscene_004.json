@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the conversation, presses Speaker_01 to explain the breakup, and publicly labels it a 'big guy' moment."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks generously about Speaker_02 (\"unbelievably sexy, beautiful, intelligent\") and is straightforward in asking for the reason for the breakup."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness; mentioning a previously 'suggested way' to dump is insufficient to judge task efficiency here."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence—directs others, labels the moment without hesitation, and shows no anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a creative framing ('big guy' moment) and expressive descriptions, indicating openness to novel interpretations."
+  }
+}

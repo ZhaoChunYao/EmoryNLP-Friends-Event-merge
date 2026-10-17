@@ -1,0 +1,110 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c09_u001_e1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'ready', 's01_e09_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c09_u002_e1",
+          "tuples": [
+            "('go', 'we/Ross Geller and Carol Willick', None, 's01_e09_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u002_e2",
+          "tuples": [
+            "('talk', 'I/Ross Geller', 'to where', 's01_e09_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u002_e3",
+          "tuples": [
+            "('mean', 'I/Ross Geller', None, 's01_e09_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u002_e4",
+          "tuples": [
+            "('be', 'there', 'one way', 's01_e09_c09_u002')",
+            "('seem', 'that/one way', 'offer a certain acoustical advantage', 's01_e09_c09_u002')",
+            "('offer', 'that/one way', 'a certain acoustical advantage', 's01_e09_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c09_u003_e1",
+          "tuples": [
+            "('aim', 'you/Ross Geller', 'for the bump', 's01_e09_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e09_c09_u004_e1",
+          "tuples": [
+            "('go', 'here', None, 's01_e09_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u004_e2",
+          "tuples": [
+            "('know', 'you/Carol Willick', None, 's01_e09_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u004_e3",
+          "tuples": [
+            "('do', 'I/Ross Geller', 'this', 's01_e09_c09_u004')",
+            "('be', 'this', 'too weird', 's01_e09_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u004_e4",
+          "tuples": [
+            "('feel', 'I/Ross Geller', 'stupid', 's01_e09_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c09_u005_e1",
+          "tuples": [
+            "('be', 'it', 'fine', 's01_e09_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u005_e2",
+          "tuples": [
+            "('do', 'you/Ross Geller', 'it just because Susan does it', 's01_e09_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c09_u005_e3",
+          "tuples": [
+            "('do', 'Susan', 'it', 's01_e09_c09_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets others ('Hi!'), initiates interactions (asking for boarding pass), and proactively approaches Speaker_03 to deliver a message—active, outgoing engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite apologizing, TargetSpeaker fabricates a message on Speaker_02's behalf ('loved the present...') and gives Speaker_03 a cold, disapproving look—untrustworthy and unsympathetic."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Checks for a boarding pass, refuses jetway access without it, and cites 'Federal regulations'—organized, rule-abiding behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays firmness without signs of anxiety, confidently enforcing rules ('No no no! Federal regulations!')."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Adheres strictly to regulations ('No no no! Federal regulations!') and blocks exceptions—dogmatic/cautious rather than open or flexible."
+  }
+}

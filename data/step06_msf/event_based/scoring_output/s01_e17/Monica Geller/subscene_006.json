@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Acts as a sociable host—announces guests’ arrival, invites them in, and greets one by name."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Welcoming and polite, inviting guests to come in and offering a friendly greeting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness beyond simple hosting remarks."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm and confident while directing guests to come in; no signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or resistance to new ideas in this brief exchange."
+  }
+}

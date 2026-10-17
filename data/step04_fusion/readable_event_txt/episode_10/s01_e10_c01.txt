@@ -1,0 +1,91 @@
+event_id: s01_e10_c01_u001_e1
+utterance_id: s01_e10_c01_u001
+  tuple: ('be', 'there', 'a somebody', 's01_e10_c01_u001')
+  tuple: ('like', 'I/Ross Geller', 'you to meet', 's01_e10_c01_u001')
+  tuple: ('meet', 'you/(group)', 'somebody', 's01_e10_c01_u001')
+
+event_id: s01_e10_c01_u004_e1
+utterance_id: s01_e10_c01_u004
+  tuple: ('wait', 'you/Ross Geller', None, 's01_e10_c01_u004')
+
+event_id: s01_e10_c01_u004_e2
+utterance_id: s01_e10_c01_u004
+  tuple: ('be', 'that/Marcel', 'what', 's01_e10_c01_u004')
+
+event_id: s01_e10_c01_u005_e1
+utterance_id: s01_e10_c01_u005
+  tuple: ('be', 'that/Marcel', 'Marcel', 's01_e10_c01_u005')
+
+event_id: s01_e10_c01_u005_e2
+utterance_id: s01_e10_c01_u005
+  tuple: ('want', 'you/(group)', 'say hi', 's01_e10_c01_u005')
+  tuple: ('say', 'you/(group)', 'hi', 's01_e10_c01_u005')
+
+event_id: s01_e10_c01_u006_e1
+utterance_id: s01_e10_c01_u006
+  tuple: ('do', 'I/Monica Geller', None, 's01_e10_c01_u006')
+
+event_id: s01_e10_c01_u007_e1
+utterance_id: s01_e10_c01_u007
+  tuple: ('be', 'he/Marcel', 'precious', 's01_e10_c01_u007')
+
+event_id: s01_e10_c01_u007_e2
+utterance_id: s01_e10_c01_u007
+  tuple: ('get', 'you/Ross Geller', 'him', 's01_e10_c01_u007')
+
+event_id: s01_e10_c01_u008_e1
+utterance_id: s01_e10_c01_u008
+  tuple: ('rescue', 'My friend Bethel', 'him', 's01_e10_c01_u008')
+  tuple: ('rescue', 'My friend Bethel', 'from some lab', 's01_e10_c01_u008')
+
+event_id: s01_e10_c01_u009_e1
+utterance_id: s01_e10_c01_u009
+  tuple: ('be', 'That/(animal testing)', 'so cruel', 's01_e10_c01_u009')
+
+event_id: s01_e10_c01_u009_e2
+utterance_id: s01_e10_c01_u009
+  tuple: ('name', 'a parent', 'their child Bethel', 's01_e10_c01_u009')
+
+event_id: s01_e10_c01_u010_e1
+utterance_id: s01_e10_c01_u010
+  tuple: ('get', 'that monkey', 'a Ross', 's01_e10_c01_u010')
+  tuple: ('get', 'that monkey', 'on its ass', 's01_e10_c01_u010')
+
+event_id: s01_e10_c01_u011_e1
+utterance_id: s01_e10_c01_u011
+  tuple: ('live', 'he/Marcel', 'with you in your apartment', 's01_e10_c01_u011')
+
+event_id: s01_e10_c01_u012_e1
+utterance_id: s01_e10_c01_u012
+  tuple: ('mean', 'I/Ross Geller', None, 's01_e10_c01_u012')
+
+event_id: s01_e10_c01_u012_e2
+utterance_id: s01_e10_c01_u012
+  tuple: ('be', "it/(Ross Geller's apartment)", 'kinda quiet since Carol left', 's01_e10_c01_u012')
+
+event_id: s01_e10_c01_u012_e3
+utterance_id: s01_e10_c01_u012
+  tuple: ('leave', 'Carol', None, 's01_e10_c01_u012')
+
+event_id: s01_e10_c01_u013_e1
+utterance_id: s01_e10_c01_u013
+  tuple: ('do', 'you/Ross Geller', 'get a roommate', 's01_e10_c01_u013')
+  tuple: ('get', 'you/Ross Geller', 'a roommate', 's01_e10_c01_u013')
+
+event_id: s01_e10_c01_u014_e1
+utterance_id: s01_e10_c01_u014
+  tuple: ('know', 'I/Ross Geller', None, 's01_e10_c01_u014')
+
+event_id: s01_e10_c01_u014_e2
+utterance_id: s01_e10_c01_u014
+  tuple: ('think', 'I/Ross Geller', 'you reach a certain age', 's01_e10_c01_u014')
+  tuple: ('reach', 'you/(generic)', 'a certain age', 's01_e10_c01_u014')
+  tuple: ('have', 'you/(generic)', 'a roommate', 's01_e10_c01_u014')
+  tuple: ('be', 'having a roommate', 'kinda pathe-', 's01_e10_c01_u014')
+
+event_id: s01_e10_c01_u014_e3
+utterance_id: s01_e10_c01_u014
+  tuple: ('be', 'that/(the word)', "'pathet'", 's01_e10_c01_u014')
+  tuple: ('be', 'which/(pathet)', 'Sanskrit', 's01_e10_c01_u014')
+  tuple: ('be', 'which/(pathet)', "for 'really cool way to live'", 's01_e10_c01_u014')
+

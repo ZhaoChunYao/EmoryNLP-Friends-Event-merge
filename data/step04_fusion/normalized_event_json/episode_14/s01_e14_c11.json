@@ -1,0 +1,68 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c11_u001_e1",
+          "tuples": [
+            "('dump', 'I/Chandler Bing', 'this woman', 's01_e14_c11_u001')",
+            "('dump', 'I/Chandler Bing', \"on Valentine's day\", 's01_e14_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c11_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c11_u002_e1",
+          "tuples": [
+            "('know', 'I/Joey Tribbiani', None, 's01_e14_c11_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c11_u002_e2",
+          "tuples": [
+            "('dump', 'you/Chandler Bing', 'her', 's01_e14_c11_u002')",
+            "('dump', 'you/Chandler Bing', \"on New Year's\", 's01_e14_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c11_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c11_u003_e1",
+          "tuples": [
+            "('come back', 'I/Chandler Bing', 'in my next life', 's01_e14_c11_u003')",
+            "('come back', 'I/Chandler Bing', 'as a toilet brush', 's01_e14_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e14_c11_u007_e1",
+          "tuples": [
+            "('kiss', 'I/Janice Litman Goralnik', 'you all over', 's01_e14_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c11_u009",
+      "events": [
+        {
+          "event_id": "s01_e14_c11_u009_e1",
+          "tuples": [
+            "('do', 'you/Chandler Bing', 'it', 's01_e14_c11_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+event_id: s01_e20_c11_u001_e1
+utterance_id: s01_e20_c11_u001
+  tuple: ('be', 'you/Rachel Green', 'okay', 's01_e20_c11_u001')
+
+event_id: s01_e20_c11_u004_e1
+utterance_id: s01_e20_c11_u004
+  tuple: ('know', 'you/Monica Geller', None, 's01_e20_c11_u004')
+
+event_id: s01_e20_c11_u004_e2
+utterance_id: s01_e20_c11_u004
+  tuple: ('run out', 'I/Rachel Green', 'on Barry', 's01_e20_c11_u004')
+  tuple: ('run out', 'I/Rachel Green', 'at the wedding', 's01_e20_c11_u004')
+
+event_id: s01_e20_c11_u004_e3
+utterance_id: s01_e20_c11_u004
+  tuple: ('wonder', 'I/Rachel Green', 'whether I made the right choice', 's01_e20_c11_u004')
+
+event_id: s01_e20_c11_u004_e4
+utterance_id: s01_e20_c11_u004
+  tuple: ('make', 'I/Rachel Green', 'the right choice', 's01_e20_c11_u004')
+
+event_id: s01_e20_c11_u004_e5
+utterance_id: s01_e20_c11_u004
+  tuple: ('know', 'I/Rachel Green', None, 's01_e20_c11_u004')
+

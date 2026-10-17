@@ -1,0 +1,553 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e18,s10_e18_c01,Gate Attendant #1,0,0,4,0,4,2,s10_e18_c01_u001,s10_e18_c01_u009,"[s10_e18_c01_u001] Gate Attendant #1: Madame, your passport please?
+[s10_e18_c01_u002] Rachel Green: Oh my God! I was so afraid I wasn't gonna remember any of my high-school French, but I understood every word you just said!
+[s10_e18_c01_u003] Gate Attendant #1: Your boarding pass, please.
+[s10_e18_c01_u004] Rachel Green: Oh.
+[s10_e18_c01_u005] Rachel Green: Oh, shoot. I had it. Oh, I can't believe this.
+[s10_e18_c01_u006] Gate Attendant #1: Madame, if you don't have your boarding pass...
+[s10_e18_c01_u007] Rachel Green: I have it, I have it, I have it. Oh, okay, I can't find it, but I remember that I was in seat 32C, because that's my bra-size.
+[s10_e18_c01_u008] Gate Attendant #1: Madame, you must have your boarding pass..
+[s10_e18_c01_u009] Rachel Green: Okay, fine! But you know what? If I was in 36D, we would not be having this problem."
+s10_e18,s10_e18_c01,Rachel Green,0,0,4,0,4,3,s10_e18_c01_u001,s10_e18_c01_u009,"[s10_e18_c01_u001] Gate Attendant #1: Madame, your passport please?
+[s10_e18_c01_u002] Rachel Green: Oh my God! I was so afraid I wasn't gonna remember any of my high-school French, but I understood every word you just said!
+[s10_e18_c01_u003] Gate Attendant #1: Your boarding pass, please.
+[s10_e18_c01_u004] Rachel Green: Oh.
+[s10_e18_c01_u005] Rachel Green: Oh, shoot. I had it. Oh, I can't believe this.
+[s10_e18_c01_u006] Gate Attendant #1: Madame, if you don't have your boarding pass...
+[s10_e18_c01_u007] Rachel Green: I have it, I have it, I have it. Oh, okay, I can't find it, but I remember that I was in seat 32C, because that's my bra-size.
+[s10_e18_c01_u008] Gate Attendant #1: Madame, you must have your boarding pass..
+[s10_e18_c01_u009] Rachel Green: Okay, fine! But you know what? If I was in 36D, we would not be having this problem."
+s10_e18,s10_e18_c02,Phoebe Buffay,0,0,2,0,2,2,s10_e18_c02_u001,s10_e18_c02_u007,"[s10_e18_c02_u001] Ross Geller: Hey, I need a ticket.
+[s10_e18_c02_u002] Phoebe Buffay: Just one? I drive you all the way down here, and I don't get to see how it works out?
+[s10_e18_c02_u003] Ross Geller: Fine, two tickets, I need two tickets.
+[s10_e18_c02_u004] Phoebe Buffay: We're on our honeymoon.
+[s10_e18_c02_u005] Ticket Agent: And the destination?
+[s10_e18_c02_u006] Ross Geller: I don't care. Whatever is the cheapest.
+[s10_e18_c02_u007] Phoebe Buffay: I'm so lucky I married you."
+s10_e18,s10_e18_c02,Ross Geller,0,0,2,0,2,2,s10_e18_c02_u001,s10_e18_c02_u007,"[s10_e18_c02_u001] Ross Geller: Hey, I need a ticket.
+[s10_e18_c02_u002] Phoebe Buffay: Just one? I drive you all the way down here, and I don't get to see how it works out?
+[s10_e18_c02_u003] Ross Geller: Fine, two tickets, I need two tickets.
+[s10_e18_c02_u004] Phoebe Buffay: We're on our honeymoon.
+[s10_e18_c02_u005] Ticket Agent: And the destination?
+[s10_e18_c02_u006] Ross Geller: I don't care. Whatever is the cheapest.
+[s10_e18_c02_u007] Phoebe Buffay: I'm so lucky I married you."
+s10_e18,s10_e18_c04,Monica Geller,0,3,16,2,16,3,s10_e18_c04_u003,s10_e18_c04_u021,"[s10_e18_c04_u003] Ross Geller: No, no, no. That's impossible. It doesn't leave for another 20 minutes.
+[s10_e18_c04_u004] Phoebe Buffay: Maybe we have the flight-number wrong. God.
+[s10_e18_c04_u005] Monica Geller: Hello.
+[s10_e18_c04_u006] Phoebe Buffay: Hey, it's me. Here's Ross.
+[s10_e18_c04_u007] Ross Geller: What? Hey, hey, listen..
+[s10_e18_c04_u008] Monica Geller: Oh my God! Ross, you wouldn't believe the cute little noises the twins are making. Listen.
+[s10_e18_c04_u009] Ross Geller: Monica? Monica, Monica, Monica, Monica..?
+[s10_e18_c04_u010] Monica Geller: Oh, I'm sorry. Shoot, they were doing it before.
+[s10_e18_c04_u011] Ross Geller: That's alright. Listen, listen.
+[s10_e18_c04_u012] Monica Geller: Oh, wait, wait, wait! Here they go again.
+[s10_e18_c04_u013] Ross Geller: Monica? Monica, Monica, Monica, Monica..?
+[s10_e18_c04_u014] Monica Geller: Isn't that cute?
+[s10_e18_c04_u015] Ross Geller: That is precious! Listen! I need Rachel's flight information.
+[s10_e18_c04_u016] Monica Geller: Oh, okay. Alright, it's flight 421. Leaves at 8:40.
+[s10_e18_c04_u017] Ross Geller: Yes, that's what I have. It's not on the board.
+[s10_e18_c04_u018] Monica Geller: That's what it says here. Flight 421, leaves at 8:40, Newark airport.
+[s10_e18_c04_u019] Ross Geller: What?
+[s10_e18_c04_u020] Monica Geller: Newark airport. Why, where are you?
+[s10_e18_c04_u021] Ross Geller: JFK."
+s10_e18,s10_e18_c04,Phoebe Buffay,0,0,3,0,4,3,s10_e18_c04_u001,s10_e18_c04_u009,"[s10_e18_c04_u001] Ross Geller: Okay, flight 421 to Paris. I don't see it, do you see it?
+[s10_e18_c04_u002] Phoebe Buffay: No, did we miss it?
+[s10_e18_c04_u003] Ross Geller: No, no, no. That's impossible. It doesn't leave for another 20 minutes.
+[s10_e18_c04_u004] Phoebe Buffay: Maybe we have the flight-number wrong. God.
+[s10_e18_c04_u005] Monica Geller: Hello.
+[s10_e18_c04_u006] Phoebe Buffay: Hey, it's me. Here's Ross.
+[s10_e18_c04_u007] Ross Geller: What? Hey, hey, listen..
+[s10_e18_c04_u008] Monica Geller: Oh my God! Ross, you wouldn't believe the cute little noises the twins are making. Listen.
+[s10_e18_c04_u009] Ross Geller: Monica? Monica, Monica, Monica, Monica..?"
+s10_e18,s10_e18_c04,Ross Geller,0,0,0,0,1,2,s10_e18_c04_u001,s10_e18_c04_u006,"[s10_e18_c04_u001] Ross Geller: Okay, flight 421 to Paris. I don't see it, do you see it?
+[s10_e18_c04_u002] Phoebe Buffay: No, did we miss it?
+[s10_e18_c04_u003] Ross Geller: No, no, no. That's impossible. It doesn't leave for another 20 minutes.
+[s10_e18_c04_u004] Phoebe Buffay: Maybe we have the flight-number wrong. God.
+[s10_e18_c04_u005] Monica Geller: Hello.
+[s10_e18_c04_u006] Phoebe Buffay: Hey, it's me. Here's Ross."
+s10_e18,s10_e18_c04,Ross Geller,1,2,2,1,3,2,s10_e18_c04_u002,s10_e18_c04_u008,"[s10_e18_c04_u002] Phoebe Buffay: No, did we miss it?
+[s10_e18_c04_u003] Ross Geller: No, no, no. That's impossible. It doesn't leave for another 20 minutes.
+[s10_e18_c04_u004] Phoebe Buffay: Maybe we have the flight-number wrong. God.
+[s10_e18_c04_u005] Monica Geller: Hello.
+[s10_e18_c04_u006] Phoebe Buffay: Hey, it's me. Here's Ross.
+[s10_e18_c04_u007] Ross Geller: What? Hey, hey, listen..
+[s10_e18_c04_u008] Monica Geller: Oh my God! Ross, you wouldn't believe the cute little noises the twins are making. Listen."
+s10_e18,s10_e18_c04,Ross Geller,2,4,16,3,16,3,s10_e18_c04_u004,s10_e18_c04_u021,"[s10_e18_c04_u004] Phoebe Buffay: Maybe we have the flight-number wrong. God.
+[s10_e18_c04_u005] Monica Geller: Hello.
+[s10_e18_c04_u006] Phoebe Buffay: Hey, it's me. Here's Ross.
+[s10_e18_c04_u007] Ross Geller: What? Hey, hey, listen..
+[s10_e18_c04_u008] Monica Geller: Oh my God! Ross, you wouldn't believe the cute little noises the twins are making. Listen.
+[s10_e18_c04_u009] Ross Geller: Monica? Monica, Monica, Monica, Monica..?
+[s10_e18_c04_u010] Monica Geller: Oh, I'm sorry. Shoot, they were doing it before.
+[s10_e18_c04_u011] Ross Geller: That's alright. Listen, listen.
+[s10_e18_c04_u012] Monica Geller: Oh, wait, wait, wait! Here they go again.
+[s10_e18_c04_u013] Ross Geller: Monica? Monica, Monica, Monica, Monica..?
+[s10_e18_c04_u014] Monica Geller: Isn't that cute?
+[s10_e18_c04_u015] Ross Geller: That is precious! Listen! I need Rachel's flight information.
+[s10_e18_c04_u016] Monica Geller: Oh, okay. Alright, it's flight 421. Leaves at 8:40.
+[s10_e18_c04_u017] Ross Geller: Yes, that's what I have. It's not on the board.
+[s10_e18_c04_u018] Monica Geller: That's what it says here. Flight 421, leaves at 8:40, Newark airport.
+[s10_e18_c04_u019] Ross Geller: What?
+[s10_e18_c04_u020] Monica Geller: Newark airport. Why, where are you?
+[s10_e18_c04_u021] Ross Geller: JFK."
+s10_e18,s10_e18_c05,Chandler Bing,0,0,9,0,9,3,s10_e18_c05_u001,s10_e18_c05_u014,"[s10_e18_c05_u001] Joey Tribbiani: Don't worry, you guys, we're gonna get you out of there.
+[s10_e18_c05_u002] Chandler Bing: And we're also gonna buy you tiny, bird hearing-aids.
+[s10_e18_c05_u003] Joey Tribbiani: Okay. Here goes.
+[s10_e18_c05_u004] Chandler Bing: What's the matter?
+[s10_e18_c05_u005] Joey Tribbiani: I need to say goodbye to the table first.
+[s10_e18_c05_u006] Chandler Bing: I understand.
+[s10_e18_c05_u007] Joey Tribbiani: Okay. Table, you have given us so many great times. And you guys, Jordan, Victor, Joel... All of you guys. What can I say? You guys make us look good. You wanna say anything?
+[s10_e18_c05_u008] Chandler Bing: I don't know. Except that, for one last time... Good game, good game, good game, good game, good game, good game, good game.
+[s10_e18_c05_u009] Joey Tribbiani: Okay, here we go. I can't do it.
+[s10_e18_c05_u010] Chandler Bing: Well, I can't do it either.
+[s10_e18_c05_u011] Monica Geller: Hey! Did you find them?
+[s10_e18_c05_u012] Joey Tribbiani: Yeah, they're stuck inside the table!
+[s10_e18_c05_u013] Chandler Bing: We have to bust it open, but neither of us can do it!
+[s10_e18_c05_u014] Monica Geller: Oh, well sure. This gotta be so hard. I'll do it. Gimme!"
+s10_e18,s10_e18_c05,Joey Tribbiani,0,0,8,0,9,3,s10_e18_c05_u001,s10_e18_c05_u014,"[s10_e18_c05_u001] Joey Tribbiani: Don't worry, you guys, we're gonna get you out of there.
+[s10_e18_c05_u002] Chandler Bing: And we're also gonna buy you tiny, bird hearing-aids.
+[s10_e18_c05_u003] Joey Tribbiani: Okay. Here goes.
+[s10_e18_c05_u004] Chandler Bing: What's the matter?
+[s10_e18_c05_u005] Joey Tribbiani: I need to say goodbye to the table first.
+[s10_e18_c05_u006] Chandler Bing: I understand.
+[s10_e18_c05_u007] Joey Tribbiani: Okay. Table, you have given us so many great times. And you guys, Jordan, Victor, Joel... All of you guys. What can I say? You guys make us look good. You wanna say anything?
+[s10_e18_c05_u008] Chandler Bing: I don't know. Except that, for one last time... Good game, good game, good game, good game, good game, good game, good game.
+[s10_e18_c05_u009] Joey Tribbiani: Okay, here we go. I can't do it.
+[s10_e18_c05_u010] Chandler Bing: Well, I can't do it either.
+[s10_e18_c05_u011] Monica Geller: Hey! Did you find them?
+[s10_e18_c05_u012] Joey Tribbiani: Yeah, they're stuck inside the table!
+[s10_e18_c05_u013] Chandler Bing: We have to bust it open, but neither of us can do it!
+[s10_e18_c05_u014] Monica Geller: Oh, well sure. This gotta be so hard. I'll do it. Gimme!"
+s10_e18,s10_e18_c05,Monica Geller,0,9,9,8,9,2,s10_e18_c05_u009,s10_e18_c05_u014,"[s10_e18_c05_u009] Joey Tribbiani: Okay, here we go. I can't do it.
+[s10_e18_c05_u010] Chandler Bing: Well, I can't do it either.
+[s10_e18_c05_u011] Monica Geller: Hey! Did you find them?
+[s10_e18_c05_u012] Joey Tribbiani: Yeah, they're stuck inside the table!
+[s10_e18_c05_u013] Chandler Bing: We have to bust it open, but neither of us can do it!
+[s10_e18_c05_u014] Monica Geller: Oh, well sure. This gotta be so hard. I'll do it. Gimme!"
+s10_e18,s10_e18_c06,Air Stewardess,0,26,26,25,27,2,s10_e18_c06_u026,s10_e18_c06_u032,"[s10_e18_c06_u026] Passenger #1: Well, I can't take this plane now.
+[s10_e18_c06_u027] Air Stewardess: Excuse me, sir, where are you going?
+[s10_e18_c06_u028] Passenger #1: I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?
+[s10_e18_c06_u031] Air Stewardess: There's nothing wrong with the plane.
+[s10_e18_c06_u032] Passenger #1: Yeah! The left Philange!"
+s10_e18,s10_e18_c06,Air Stewardess,1,28,32,27,33,2,s10_e18_c06_u028,s10_e18_c06_u038,"[s10_e18_c06_u028] Passenger #1: I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?
+[s10_e18_c06_u031] Air Stewardess: There's nothing wrong with the plane.
+[s10_e18_c06_u032] Passenger #1: Yeah! The left Philange!
+[s10_e18_c06_u033] Air Stewardess: There is no Philange!
+[s10_e18_c06_u034] Passenger #1: Oh my God. This plane doesn't even have a Philange!
+[s10_e18_c06_u035] Passenger #2: I'm not flying on it!
+[s10_e18_c06_u036] Air Stewardess: Ma'am, please sit down!
+[s10_e18_c06_u037] Passenger #3: What's going on?
+[s10_e18_c06_u038] Passenger #1: We're all getting off. There is no Philange!"
+s10_e18,s10_e18_c06,Passenger #1,0,16,25,15,26,3,s10_e18_c06_u016,s10_e18_c06_u031,"[s10_e18_c06_u016] Phoebe Buffay: I have this feeling that something's wrong with it. Something is wrong with the left Philange.
+[s10_e18_c06_u017] Rachel Green: Oh, honey, I'm sure there's nothing wrong with the plane.
+[s10_e18_c06_u018] Rachel Green: Alright, look, I have to go. I love you, and I will call you the minute I get to Paris.
+[s10_e18_c06_u019] Passenger #1: Uhm, what was that?
+[s10_e18_c06_u020] Rachel Green: Oh, that was just my crazy friend. She told me I should get off the plane, because she had a feeling that there was something wrong with the left Philange.
+[s10_e18_c06_u021] Passenger #1: Okay, that doesn't sound good.
+[s10_e18_c06_u022] Rachel Green: I wouldn't worry about it. She's always coming up with stuff like this, and you know what? She's almost never right.
+[s10_e18_c06_u023] Passenger #1: But she is sometimes.
+[s10_e18_c06_u024] Rachel Green: Well...
+[s10_e18_c06_u025] Rachel Green: Wait, what are you doing?
+[s10_e18_c06_u026] Passenger #1: Well, I can't take this plane now.
+[s10_e18_c06_u027] Air Stewardess: Excuse me, sir, where are you going?
+[s10_e18_c06_u028] Passenger #1: I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?
+[s10_e18_c06_u031] Air Stewardess: There's nothing wrong with the plane."
+s10_e18,s10_e18_c06,Passenger #1,1,27,27,26,28,2,s10_e18_c06_u027,s10_e18_c06_u033,"[s10_e18_c06_u027] Air Stewardess: Excuse me, sir, where are you going?
+[s10_e18_c06_u028] Passenger #1: I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?
+[s10_e18_c06_u031] Air Stewardess: There's nothing wrong with the plane.
+[s10_e18_c06_u032] Passenger #1: Yeah! The left Philange!
+[s10_e18_c06_u033] Air Stewardess: There is no Philange!"
+s10_e18,s10_e18_c06,Passenger #1,2,29,31,28,32,2,s10_e18_c06_u029,s10_e18_c06_u037,"[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?
+[s10_e18_c06_u031] Air Stewardess: There's nothing wrong with the plane.
+[s10_e18_c06_u032] Passenger #1: Yeah! The left Philange!
+[s10_e18_c06_u033] Air Stewardess: There is no Philange!
+[s10_e18_c06_u034] Passenger #1: Oh my God. This plane doesn't even have a Philange!
+[s10_e18_c06_u035] Passenger #2: I'm not flying on it!
+[s10_e18_c06_u036] Air Stewardess: Ma'am, please sit down!
+[s10_e18_c06_u037] Passenger #3: What's going on?"
+s10_e18,s10_e18_c06,Passenger #1,3,33,33,32,34,2,s10_e18_c06_u033,s10_e18_c06_u039,"[s10_e18_c06_u033] Air Stewardess: There is no Philange!
+[s10_e18_c06_u034] Passenger #1: Oh my God. This plane doesn't even have a Philange!
+[s10_e18_c06_u035] Passenger #2: I'm not flying on it!
+[s10_e18_c06_u036] Air Stewardess: Ma'am, please sit down!
+[s10_e18_c06_u037] Passenger #3: What's going on?
+[s10_e18_c06_u038] Passenger #1: We're all getting off. There is no Philange!
+[s10_e18_c06_u039] Rachel Green: This is ridiculous! I..."
+s10_e18,s10_e18_c06,Phoebe Buffay,0,0,13,0,14,3,s10_e18_c06_u001,s10_e18_c06_u019,"[s10_e18_c06_u001] Ross Geller: Phoebe! Wow! No, no, no!
+[s10_e18_c06_u002] Phoebe Buffay: Well, I've never gone this fast before.
+[s10_e18_c06_u003] Ross Geller: Phoebe, forget it, okay? Newark is - is like an hour away. There's no way we're gonna make it in time.
+[s10_e18_c06_u004] Phoebe Buffay: She's got her cell, you could call her.
+[s10_e18_c06_u005] Ross Geller: I am not doing this over the phone.
+[s10_e18_c06_u006] Phoebe Buffay: You don't have any other choice!
+[s10_e18_c06_u007] Rachel Green: Hello?
+[s10_e18_c06_u008] Phoebe Buffay: Rachel? Oh, good. Hey, by the way, did you just get on the plane?
+[s10_e18_c06_u009] Rachel Green: Yeah.
+[s10_e18_c06_u010] Phoebe Buffay: For what it's worth, we would have caught her if we were at the right airport.
+[s10_e18_c06_u011] Ross Geller: Yay.
+[s10_e18_c06_u012] Phoebe Buffay: Uh, Rach, hang on.
+[s10_e18_c06_u013] Rachel Green: Phoebe? Is everything okay?
+[s10_e18_c06_u014] Phoebe Buffay: Uhm, actually no. No, you've... You have to get off the plane.
+[s10_e18_c06_u015] Rachel Green: What? Why?
+[s10_e18_c06_u016] Phoebe Buffay: I have this feeling that something's wrong with it. Something is wrong with the left Philange.
+[s10_e18_c06_u017] Rachel Green: Oh, honey, I'm sure there's nothing wrong with the plane.
+[s10_e18_c06_u018] Rachel Green: Alright, look, I have to go. I love you, and I will call you the minute I get to Paris.
+[s10_e18_c06_u019] Passenger #1: Uhm, what was that?"
+s10_e18,s10_e18_c06,Rachel Green,0,4,6,3,7,2,s10_e18_c06_u004,s10_e18_c06_u012,"[s10_e18_c06_u004] Phoebe Buffay: She's got her cell, you could call her.
+[s10_e18_c06_u005] Ross Geller: I am not doing this over the phone.
+[s10_e18_c06_u006] Phoebe Buffay: You don't have any other choice!
+[s10_e18_c06_u007] Rachel Green: Hello?
+[s10_e18_c06_u008] Phoebe Buffay: Rachel? Oh, good. Hey, by the way, did you just get on the plane?
+[s10_e18_c06_u009] Rachel Green: Yeah.
+[s10_e18_c06_u010] Phoebe Buffay: For what it's worth, we would have caught her if we were at the right airport.
+[s10_e18_c06_u011] Ross Geller: Yay.
+[s10_e18_c06_u012] Phoebe Buffay: Uh, Rach, hang on."
+s10_e18,s10_e18_c06,Rachel Green,1,8,8,7,9,2,s10_e18_c06_u008,s10_e18_c06_u014,"[s10_e18_c06_u008] Phoebe Buffay: Rachel? Oh, good. Hey, by the way, did you just get on the plane?
+[s10_e18_c06_u009] Rachel Green: Yeah.
+[s10_e18_c06_u010] Phoebe Buffay: For what it's worth, we would have caught her if we were at the right airport.
+[s10_e18_c06_u011] Ross Geller: Yay.
+[s10_e18_c06_u012] Phoebe Buffay: Uh, Rach, hang on.
+[s10_e18_c06_u013] Rachel Green: Phoebe? Is everything okay?
+[s10_e18_c06_u014] Phoebe Buffay: Uhm, actually no. No, you've... You have to get off the plane."
+s10_e18,s10_e18_c06,Rachel Green,2,10,24,9,25,3,s10_e18_c06_u010,s10_e18_c06_u030,"[s10_e18_c06_u010] Phoebe Buffay: For what it's worth, we would have caught her if we were at the right airport.
+[s10_e18_c06_u011] Ross Geller: Yay.
+[s10_e18_c06_u012] Phoebe Buffay: Uh, Rach, hang on.
+[s10_e18_c06_u013] Rachel Green: Phoebe? Is everything okay?
+[s10_e18_c06_u014] Phoebe Buffay: Uhm, actually no. No, you've... You have to get off the plane.
+[s10_e18_c06_u015] Rachel Green: What? Why?
+[s10_e18_c06_u016] Phoebe Buffay: I have this feeling that something's wrong with it. Something is wrong with the left Philange.
+[s10_e18_c06_u017] Rachel Green: Oh, honey, I'm sure there's nothing wrong with the plane.
+[s10_e18_c06_u018] Rachel Green: Alright, look, I have to go. I love you, and I will call you the minute I get to Paris.
+[s10_e18_c06_u019] Passenger #1: Uhm, what was that?
+[s10_e18_c06_u020] Rachel Green: Oh, that was just my crazy friend. She told me I should get off the plane, because she had a feeling that there was something wrong with the left Philange.
+[s10_e18_c06_u021] Passenger #1: Okay, that doesn't sound good.
+[s10_e18_c06_u022] Rachel Green: I wouldn't worry about it. She's always coming up with stuff like this, and you know what? She's almost never right.
+[s10_e18_c06_u023] Passenger #1: But she is sometimes.
+[s10_e18_c06_u024] Rachel Green: Well...
+[s10_e18_c06_u025] Rachel Green: Wait, what are you doing?
+[s10_e18_c06_u026] Passenger #1: Well, I can't take this plane now.
+[s10_e18_c06_u027] Air Stewardess: Excuse me, sir, where are you going?
+[s10_e18_c06_u028] Passenger #1: I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+[s10_e18_c06_u029] Rachel Green: Could I get some peanuts?
+[s10_e18_c06_u030] Passenger #2: What's wrong with the plane?"
+s10_e18,s10_e18_c06,Rachel Green,3,35,35,34,35,2,s10_e18_c06_u035,s10_e18_c06_u040,"[s10_e18_c06_u035] Passenger #2: I'm not flying on it!
+[s10_e18_c06_u036] Air Stewardess: Ma'am, please sit down!
+[s10_e18_c06_u037] Passenger #3: What's going on?
+[s10_e18_c06_u038] Passenger #1: We're all getting off. There is no Philange!
+[s10_e18_c06_u039] Rachel Green: This is ridiculous! I...
+[s10_e18_c06_u040] Rachel Green: Yeah, okay."
+s10_e18,s10_e18_c06,Ross Geller,0,0,2,0,3,3,s10_e18_c06_u001,s10_e18_c06_u008,"[s10_e18_c06_u001] Ross Geller: Phoebe! Wow! No, no, no!
+[s10_e18_c06_u002] Phoebe Buffay: Well, I've never gone this fast before.
+[s10_e18_c06_u003] Ross Geller: Phoebe, forget it, okay? Newark is - is like an hour away. There's no way we're gonna make it in time.
+[s10_e18_c06_u004] Phoebe Buffay: She's got her cell, you could call her.
+[s10_e18_c06_u005] Ross Geller: I am not doing this over the phone.
+[s10_e18_c06_u006] Phoebe Buffay: You don't have any other choice!
+[s10_e18_c06_u007] Rachel Green: Hello?
+[s10_e18_c06_u008] Phoebe Buffay: Rachel? Oh, good. Hey, by the way, did you just get on the plane?"
+s10_e18,s10_e18_c07,Chandler Bing,0,0,15,0,15,3,s10_e18_c07_u001,s10_e18_c07_u020,"[s10_e18_c07_u001] Monica Geller: Alright. My job here is done.
+[s10_e18_c07_u002] Chandler Bing: That was... Impressive.
+[s10_e18_c07_u003] Joey Tribbiani: Yeah, you didn't even use the tools for most of it!
+[s10_e18_c07_u004] Monica Geller: Yeah, they were just slowing me down. Alright, I have to get back to the babies. I'll see you girls later.
+[s10_e18_c07_u005] Chandler Bing: Sorry about the table, man.
+[s10_e18_c07_u006] Joey Tribbiani: Yeah.
+[s10_e18_c07_u007] Chandler Bing: You gonna buy a new one?
+[s10_e18_c07_u008] Joey Tribbiani: Probably not. Nah. I don't know how much I'm gonna wanna play after you go.
+[s10_e18_c07_u009] Chandler Bing: Well, at least we got these little guys out.
+[s10_e18_c07_u010] Joey Tribbiani: Yeah.
+[s10_e18_c07_u011] Chandler Bing: Aww, we were worried about you! Hm. I guess I better get used to things crapping in my hand, huh?
+[s10_e18_c07_u012] Joey Tribbiani: I'm gonna miss these little guys. It was nice having birds around again.
+[s10_e18_c07_u013] Chandler Bing: Hey, you know what? Maybe we should keep them here with you.
+[s10_e18_c07_u014] Joey Tribbiani: What?
+[s10_e18_c07_u015] Chandler Bing: Yeah, I mean we've got a lot going on right now. And, plus, here they'd have their own room.
+[s10_e18_c07_u016] Joey Tribbiani: I could get a goose!
+[s10_e18_c07_u017] Chandler Bing: You know, I - I think you're set with the poultry.
+[s10_e18_c07_u018] Joey Tribbiani: Thanks man. Did you hear that, you guys? You're gonna get to stay here! And, and it's good, you know, 'cause, 'cause now you have a reason to come visit.
+[s10_e18_c07_u019] Chandler Bing: I think there may be another reason. So, awkward hug or lame cool guy handshake?
+[s10_e18_c07_u020] Joey Tribbiani: Uh, lame cool guy handshake, yeah."
+s10_e18,s10_e18_c07,Joey Tribbiani,0,1,15,0,15,3,s10_e18_c07_u001,s10_e18_c07_u020,"[s10_e18_c07_u001] Monica Geller: Alright. My job here is done.
+[s10_e18_c07_u002] Chandler Bing: That was... Impressive.
+[s10_e18_c07_u003] Joey Tribbiani: Yeah, you didn't even use the tools for most of it!
+[s10_e18_c07_u004] Monica Geller: Yeah, they were just slowing me down. Alright, I have to get back to the babies. I'll see you girls later.
+[s10_e18_c07_u005] Chandler Bing: Sorry about the table, man.
+[s10_e18_c07_u006] Joey Tribbiani: Yeah.
+[s10_e18_c07_u007] Chandler Bing: You gonna buy a new one?
+[s10_e18_c07_u008] Joey Tribbiani: Probably not. Nah. I don't know how much I'm gonna wanna play after you go.
+[s10_e18_c07_u009] Chandler Bing: Well, at least we got these little guys out.
+[s10_e18_c07_u010] Joey Tribbiani: Yeah.
+[s10_e18_c07_u011] Chandler Bing: Aww, we were worried about you! Hm. I guess I better get used to things crapping in my hand, huh?
+[s10_e18_c07_u012] Joey Tribbiani: I'm gonna miss these little guys. It was nice having birds around again.
+[s10_e18_c07_u013] Chandler Bing: Hey, you know what? Maybe we should keep them here with you.
+[s10_e18_c07_u014] Joey Tribbiani: What?
+[s10_e18_c07_u015] Chandler Bing: Yeah, I mean we've got a lot going on right now. And, plus, here they'd have their own room.
+[s10_e18_c07_u016] Joey Tribbiani: I could get a goose!
+[s10_e18_c07_u017] Chandler Bing: You know, I - I think you're set with the poultry.
+[s10_e18_c07_u018] Joey Tribbiani: Thanks man. Did you hear that, you guys? You're gonna get to stay here! And, and it's good, you know, 'cause, 'cause now you have a reason to come visit.
+[s10_e18_c07_u019] Chandler Bing: I think there may be another reason. So, awkward hug or lame cool guy handshake?
+[s10_e18_c07_u020] Joey Tribbiani: Uh, lame cool guy handshake, yeah."
+s10_e18,s10_e18_c07,Monica Geller,0,0,0,0,1,2,s10_e18_c07_u001,s10_e18_c07_u006,"[s10_e18_c07_u001] Monica Geller: Alright. My job here is done.
+[s10_e18_c07_u002] Chandler Bing: That was... Impressive.
+[s10_e18_c07_u003] Joey Tribbiani: Yeah, you didn't even use the tools for most of it!
+[s10_e18_c07_u004] Monica Geller: Yeah, they were just slowing me down. Alright, I have to get back to the babies. I'll see you girls later.
+[s10_e18_c07_u005] Chandler Bing: Sorry about the table, man.
+[s10_e18_c07_u006] Joey Tribbiani: Yeah."
+s10_e18,s10_e18_c08,Gate Attendant #2,0,0,0,0,1,2,s10_e18_c08_u001,s10_e18_c08_u006,"[s10_e18_c08_u001] Gate Attendant #2: Ma'am, I assure you, the plane is fine.
+[s10_e18_c08_u002] Passenger #2: And you fixed the Philange?
+[s10_e18_c08_u003] Gate Attendant #2: Yes, the Philange is fixed. As a matter of fact, we put a whole lot of extra Philanges onboard, just in case.
+[s10_e18_c08_u004] Ross Geller: Where is she?
+[s10_e18_c08_u005] Phoebe Buffay: I don't see her.
+[s10_e18_c08_u006] Ross Geller: Rachel! Rachel Green!"
+s10_e18,s10_e18_c08,Gate Attendant #2,1,6,8,5,9,2,s10_e18_c08_u006,s10_e18_c08_u014,"[s10_e18_c08_u006] Ross Geller: Rachel! Rachel Green!
+[s10_e18_c08_u007] Phoebe Buffay: There she is!
+[s10_e18_c08_u008] Ross Geller: Rachel! Rachel!
+[s10_e18_c08_u009] Gate Attendant #2: Wow, excuse me, sir, do you have a boarding pass?
+[s10_e18_c08_u010] Ross Geller: No, no, I just have to talk to someone.
+[s10_e18_c08_u011] Gate Attendant #2: I'm sorry, you cannot go any further without a boarding pass.
+[s10_e18_c08_u012] Ross Geller: No, no, no, but...
+[s10_e18_c08_u013] Phoebe Buffay: RACHEL!!
+[s10_e18_c08_u014] Rachel Green: Oh my God... What.. What are you guys doing here?"
+s10_e18,s10_e18_c08,Gate Attendant #2,2,21,23,20,24,2,s10_e18_c08_u021,s10_e18_c08_u029,"[s10_e18_c08_u021] Ross Geller: Please, please stay with me. I am so in love with you. Please, don't go.
+[s10_e18_c08_u022] Rachel Green: Oh my God.
+[s10_e18_c08_u023] Ross Geller: I know, I know. I shouldn't have waited 'till now to say it, but I'm.. That was stupid, okay? I'm sorry, but I'm telling you now. I love you. Do not get on this plane.
+[s10_e18_c08_u024] Gate Attendant #2: Miss? Are you boarding the plane?
+[s10_e18_c08_u025] Ross Geller: Hey, hey. I know you love me. I know you do.
+[s10_e18_c08_u026] Gate Attendant #2: Miss?
+[s10_e18_c08_u027] Rachel Green: I - I have to get on the plane.
+[s10_e18_c08_u028] Ross Geller: No, you don't.
+[s10_e18_c08_u029] Rachel Green: Yes, I do."
+s10_e18,s10_e18_c08,Phoebe Buffay,0,2,4,1,5,2,s10_e18_c08_u002,s10_e18_c08_u010,"[s10_e18_c08_u002] Passenger #2: And you fixed the Philange?
+[s10_e18_c08_u003] Gate Attendant #2: Yes, the Philange is fixed. As a matter of fact, we put a whole lot of extra Philanges onboard, just in case.
+[s10_e18_c08_u004] Ross Geller: Where is she?
+[s10_e18_c08_u005] Phoebe Buffay: I don't see her.
+[s10_e18_c08_u006] Ross Geller: Rachel! Rachel Green!
+[s10_e18_c08_u007] Phoebe Buffay: There she is!
+[s10_e18_c08_u008] Ross Geller: Rachel! Rachel!
+[s10_e18_c08_u009] Gate Attendant #2: Wow, excuse me, sir, do you have a boarding pass?
+[s10_e18_c08_u010] Ross Geller: No, no, I just have to talk to someone."
+s10_e18,s10_e18_c08,Phoebe Buffay,1,10,12,9,13,2,s10_e18_c08_u010,s10_e18_c08_u018,"[s10_e18_c08_u010] Ross Geller: No, no, I just have to talk to someone.
+[s10_e18_c08_u011] Gate Attendant #2: I'm sorry, you cannot go any further without a boarding pass.
+[s10_e18_c08_u012] Ross Geller: No, no, no, but...
+[s10_e18_c08_u013] Phoebe Buffay: RACHEL!!
+[s10_e18_c08_u014] Rachel Green: Oh my God... What.. What are you guys doing here?
+[s10_e18_c08_u015] Phoebe Buffay: Okay, you're on.
+[s10_e18_c08_u016] Rachel Green: What? What? Ross, you're scaring me. What's going on?
+[s10_e18_c08_u017] Ross Geller: Okay, the thing is..
+[s10_e18_c08_u018] Rachel Green: Yeah?"
+s10_e18,s10_e18_c08,Rachel Green,0,11,19,10,20,3,s10_e18_c08_u011,s10_e18_c08_u025,"[s10_e18_c08_u011] Gate Attendant #2: I'm sorry, you cannot go any further without a boarding pass.
+[s10_e18_c08_u012] Ross Geller: No, no, no, but...
+[s10_e18_c08_u013] Phoebe Buffay: RACHEL!!
+[s10_e18_c08_u014] Rachel Green: Oh my God... What.. What are you guys doing here?
+[s10_e18_c08_u015] Phoebe Buffay: Okay, you're on.
+[s10_e18_c08_u016] Rachel Green: What? What? Ross, you're scaring me. What's going on?
+[s10_e18_c08_u017] Ross Geller: Okay, the thing is..
+[s10_e18_c08_u018] Rachel Green: Yeah?
+[s10_e18_c08_u019] Ross Geller: Don't go.
+[s10_e18_c08_u020] Rachel Green: What?
+[s10_e18_c08_u021] Ross Geller: Please, please stay with me. I am so in love with you. Please, don't go.
+[s10_e18_c08_u022] Rachel Green: Oh my God.
+[s10_e18_c08_u023] Ross Geller: I know, I know. I shouldn't have waited 'till now to say it, but I'm.. That was stupid, okay? I'm sorry, but I'm telling you now. I love you. Do not get on this plane.
+[s10_e18_c08_u024] Gate Attendant #2: Miss? Are you boarding the plane?
+[s10_e18_c08_u025] Ross Geller: Hey, hey. I know you love me. I know you do."
+s10_e18,s10_e18_c08,Rachel Green,1,24,30,23,30,3,s10_e18_c08_u024,s10_e18_c08_u035,"[s10_e18_c08_u024] Gate Attendant #2: Miss? Are you boarding the plane?
+[s10_e18_c08_u025] Ross Geller: Hey, hey. I know you love me. I know you do.
+[s10_e18_c08_u026] Gate Attendant #2: Miss?
+[s10_e18_c08_u027] Rachel Green: I - I have to get on the plane.
+[s10_e18_c08_u028] Ross Geller: No, you don't.
+[s10_e18_c08_u029] Rachel Green: Yes, I do.
+[s10_e18_c08_u030] Ross Geller: No, you don't.
+[s10_e18_c08_u031] Rachel Green: They're waiting for me, Ross. I can't do this right now, I'm sorry. I'm sorry.
+[s10_e18_c08_u032] Ross Geller: Rachel?
+[s10_e18_c08_u033] Rachel Green: I'm so sorry.
+[s10_e18_c08_u034] Ross Geller: I really thought she'd stay.
+[s10_e18_c08_u035] Phoebe Buffay: I'm sorry."
+s10_e18,s10_e18_c08,Ross Geller,0,1,9,0,10,3,s10_e18_c08_u001,s10_e18_c08_u015,"[s10_e18_c08_u001] Gate Attendant #2: Ma'am, I assure you, the plane is fine.
+[s10_e18_c08_u002] Passenger #2: And you fixed the Philange?
+[s10_e18_c08_u003] Gate Attendant #2: Yes, the Philange is fixed. As a matter of fact, we put a whole lot of extra Philanges onboard, just in case.
+[s10_e18_c08_u004] Ross Geller: Where is she?
+[s10_e18_c08_u005] Phoebe Buffay: I don't see her.
+[s10_e18_c08_u006] Ross Geller: Rachel! Rachel Green!
+[s10_e18_c08_u007] Phoebe Buffay: There she is!
+[s10_e18_c08_u008] Ross Geller: Rachel! Rachel!
+[s10_e18_c08_u009] Gate Attendant #2: Wow, excuse me, sir, do you have a boarding pass?
+[s10_e18_c08_u010] Ross Geller: No, no, I just have to talk to someone.
+[s10_e18_c08_u011] Gate Attendant #2: I'm sorry, you cannot go any further without a boarding pass.
+[s10_e18_c08_u012] Ross Geller: No, no, no, but...
+[s10_e18_c08_u013] Phoebe Buffay: RACHEL!!
+[s10_e18_c08_u014] Rachel Green: Oh my God... What.. What are you guys doing here?
+[s10_e18_c08_u015] Phoebe Buffay: Okay, you're on."
+s10_e18,s10_e18_c08,Ross Geller,1,14,30,13,30,3,s10_e18_c08_u014,s10_e18_c08_u035,"[s10_e18_c08_u014] Rachel Green: Oh my God... What.. What are you guys doing here?
+[s10_e18_c08_u015] Phoebe Buffay: Okay, you're on.
+[s10_e18_c08_u016] Rachel Green: What? What? Ross, you're scaring me. What's going on?
+[s10_e18_c08_u017] Ross Geller: Okay, the thing is..
+[s10_e18_c08_u018] Rachel Green: Yeah?
+[s10_e18_c08_u019] Ross Geller: Don't go.
+[s10_e18_c08_u020] Rachel Green: What?
+[s10_e18_c08_u021] Ross Geller: Please, please stay with me. I am so in love with you. Please, don't go.
+[s10_e18_c08_u022] Rachel Green: Oh my God.
+[s10_e18_c08_u023] Ross Geller: I know, I know. I shouldn't have waited 'till now to say it, but I'm.. That was stupid, okay? I'm sorry, but I'm telling you now. I love you. Do not get on this plane.
+[s10_e18_c08_u024] Gate Attendant #2: Miss? Are you boarding the plane?
+[s10_e18_c08_u025] Ross Geller: Hey, hey. I know you love me. I know you do.
+[s10_e18_c08_u026] Gate Attendant #2: Miss?
+[s10_e18_c08_u027] Rachel Green: I - I have to get on the plane.
+[s10_e18_c08_u028] Ross Geller: No, you don't.
+[s10_e18_c08_u029] Rachel Green: Yes, I do.
+[s10_e18_c08_u030] Ross Geller: No, you don't.
+[s10_e18_c08_u031] Rachel Green: They're waiting for me, Ross. I can't do this right now, I'm sorry. I'm sorry.
+[s10_e18_c08_u032] Ross Geller: Rachel?
+[s10_e18_c08_u033] Rachel Green: I'm so sorry.
+[s10_e18_c08_u034] Ross Geller: I really thought she'd stay.
+[s10_e18_c08_u035] Phoebe Buffay: I'm sorry."
+s10_e18,s10_e18_c09,Joey Tribbiani,0,1,6,0,7,3,s10_e18_c09_u001,s10_e18_c09_u012,"[s10_e18_c09_u001] Monica Geller: Well, that's it. Everything's packed.
+[s10_e18_c09_u002] Chandler Bing: Wow, this is weird.
+[s10_e18_c09_u003] Monica Geller: I know.
+[s10_e18_c09_u004] Joey Tribbiani: Yeah. Uh, does this mean there's nothing to eat?
+[s10_e18_c09_u005] Monica Geller: I put three lasagnas in your freezer.
+[s10_e18_c09_u006] Joey Tribbiani: I love you!
+[s10_e18_c09_u007] Joey Tribbiani: Hey!
+[s10_e18_c09_u008] Phoebe Buffay: Hey.
+[s10_e18_c09_u009] Joey Tribbiani: So did you guys make it in time?
+[s10_e18_c09_u010] Phoebe Buffay: Yeah, yeah, he talked to her, but she got on the plane anyway.
+[s10_e18_c09_u011] Chandler Bing: Where's Ross?
+[s10_e18_c09_u012] Phoebe Buffay: He went home. He didn't want to see anybody."
+s10_e18,s10_e18_c09,Monica Geller,0,0,2,0,3,3,s10_e18_c09_u001,s10_e18_c09_u008,"[s10_e18_c09_u001] Monica Geller: Well, that's it. Everything's packed.
+[s10_e18_c09_u002] Chandler Bing: Wow, this is weird.
+[s10_e18_c09_u003] Monica Geller: I know.
+[s10_e18_c09_u004] Joey Tribbiani: Yeah. Uh, does this mean there's nothing to eat?
+[s10_e18_c09_u005] Monica Geller: I put three lasagnas in your freezer.
+[s10_e18_c09_u006] Joey Tribbiani: I love you!
+[s10_e18_c09_u007] Joey Tribbiani: Hey!
+[s10_e18_c09_u008] Phoebe Buffay: Hey."
+s10_e18,s10_e18_c09,Phoebe Buffay,0,5,7,4,7,3,s10_e18_c09_u005,s10_e18_c09_u012,"[s10_e18_c09_u005] Monica Geller: I put three lasagnas in your freezer.
+[s10_e18_c09_u006] Joey Tribbiani: I love you!
+[s10_e18_c09_u007] Joey Tribbiani: Hey!
+[s10_e18_c09_u008] Phoebe Buffay: Hey.
+[s10_e18_c09_u009] Joey Tribbiani: So did you guys make it in time?
+[s10_e18_c09_u010] Phoebe Buffay: Yeah, yeah, he talked to her, but she got on the plane anyway.
+[s10_e18_c09_u011] Chandler Bing: Where's Ross?
+[s10_e18_c09_u012] Phoebe Buffay: He went home. He didn't want to see anybody."
+s10_e18,s10_e18_c10,Air Stewardess,0,1,5,0,6,3,s10_e18_c10_u001,s10_e18_c10_u011,"[s10_e18_c10_u001] Rachel Green: Ross, hi. It's me. I just got back on the plane. And I just feel awful. That is so not how I wanted things to end with us. It's just that I wasn't expecting to see you, and all of a sudden you're there and saying these things... And... And now I'm just sitting here and thinking of all the stuff I should have said, and I didn't. I mean, I didn't even get to tell you that I love you too. Because of course I do. I love you. I love you. I love you. What am I doing? I love you! Oh, I've gotta see you. I've gotta get off this plane.
+[s10_e18_c10_u002] Ross Geller: Oh my God!
+[s10_e18_c10_u003] Rachel Green: Excuse me?
+[s10_e18_c10_u004] Air Stewardess: Miss? Please, sit down!
+[s10_e18_c10_u005] Rachel Green: I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.
+[s10_e18_c10_u006] Air Stewardess: Miss, I can't let you off the plane.
+[s10_e18_c10_u007] Ross Geller: Let her off the plane!
+[s10_e18_c10_u008] Air Stewardess: I am afraid you are gonna have to take a seat.
+[s10_e18_c10_u009] Rachel Green: Oh, please, miss, you don't understand!
+[s10_e18_c10_u010] Ross Geller: Try to understand!
+[s10_e18_c10_u011] Rachel Green: Oh, come on, miss, isn't there any way that you can just let me off..."
+s10_e18,s10_e18_c10,Rachel Green,0,0,2,0,3,3,s10_e18_c10_u001,s10_e18_c10_u008,"[s10_e18_c10_u001] Rachel Green: Ross, hi. It's me. I just got back on the plane. And I just feel awful. That is so not how I wanted things to end with us. It's just that I wasn't expecting to see you, and all of a sudden you're there and saying these things... And... And now I'm just sitting here and thinking of all the stuff I should have said, and I didn't. I mean, I didn't even get to tell you that I love you too. Because of course I do. I love you. I love you. I love you. What am I doing? I love you! Oh, I've gotta see you. I've gotta get off this plane.
+[s10_e18_c10_u002] Ross Geller: Oh my God!
+[s10_e18_c10_u003] Rachel Green: Excuse me?
+[s10_e18_c10_u004] Air Stewardess: Miss? Please, sit down!
+[s10_e18_c10_u005] Rachel Green: I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.
+[s10_e18_c10_u006] Air Stewardess: Miss, I can't let you off the plane.
+[s10_e18_c10_u007] Ross Geller: Let her off the plane!
+[s10_e18_c10_u008] Air Stewardess: I am afraid you are gonna have to take a seat."
+s10_e18,s10_e18_c10,Rachel Green,1,4,4,3,5,2,s10_e18_c10_u004,s10_e18_c10_u010,"[s10_e18_c10_u004] Air Stewardess: Miss? Please, sit down!
+[s10_e18_c10_u005] Rachel Green: I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.
+[s10_e18_c10_u006] Air Stewardess: Miss, I can't let you off the plane.
+[s10_e18_c10_u007] Ross Geller: Let her off the plane!
+[s10_e18_c10_u008] Air Stewardess: I am afraid you are gonna have to take a seat.
+[s10_e18_c10_u009] Rachel Green: Oh, please, miss, you don't understand!
+[s10_e18_c10_u010] Ross Geller: Try to understand!"
+s10_e18,s10_e18_c10,Rachel Green,2,6,16,5,16,3,s10_e18_c10_u006,s10_e18_c10_u021,"[s10_e18_c10_u006] Air Stewardess: Miss, I can't let you off the plane.
+[s10_e18_c10_u007] Ross Geller: Let her off the plane!
+[s10_e18_c10_u008] Air Stewardess: I am afraid you are gonna have to take a seat.
+[s10_e18_c10_u009] Rachel Green: Oh, please, miss, you don't understand!
+[s10_e18_c10_u010] Ross Geller: Try to understand!
+[s10_e18_c10_u011] Rachel Green: Oh, come on, miss, isn't there any way that you can just let me off...
+[s10_e18_c10_u012] Ross Geller: No! No! Oh my God. Did she get off the plane? Did she get off the plane?
+[s10_e18_c10_u013] Rachel Green: I got off the plane.
+[s10_e18_c10_u014] Ross Geller: You got off the plane.
+[s10_e18_c10_u015] Rachel Green: I do love you.
+[s10_e18_c10_u016] Ross Geller: I love you too, and I'm never letting you go again.
+[s10_e18_c10_u017] Rachel Green: Okay. 'Cause this is where I wanna be, okay? No more messing around. I don't wanna mess this up again.
+[s10_e18_c10_u018] Ross Geller: Me neither, okay? We are - we're done being stupid.
+[s10_e18_c10_u019] Rachel Green: Okay. You and me, alright? This is it.
+[s10_e18_c10_u020] Ross Geller: This is it. Unless we're on a break.
+[s10_e18_c10_u021] Ross Geller: Don't make jokes now."
+s10_e18,s10_e18_c10,Ross Geller,0,5,16,4,16,3,s10_e18_c10_u005,s10_e18_c10_u021,"[s10_e18_c10_u005] Rachel Green: I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.
+[s10_e18_c10_u006] Air Stewardess: Miss, I can't let you off the plane.
+[s10_e18_c10_u007] Ross Geller: Let her off the plane!
+[s10_e18_c10_u008] Air Stewardess: I am afraid you are gonna have to take a seat.
+[s10_e18_c10_u009] Rachel Green: Oh, please, miss, you don't understand!
+[s10_e18_c10_u010] Ross Geller: Try to understand!
+[s10_e18_c10_u011] Rachel Green: Oh, come on, miss, isn't there any way that you can just let me off...
+[s10_e18_c10_u012] Ross Geller: No! No! Oh my God. Did she get off the plane? Did she get off the plane?
+[s10_e18_c10_u013] Rachel Green: I got off the plane.
+[s10_e18_c10_u014] Ross Geller: You got off the plane.
+[s10_e18_c10_u015] Rachel Green: I do love you.
+[s10_e18_c10_u016] Ross Geller: I love you too, and I'm never letting you go again.
+[s10_e18_c10_u017] Rachel Green: Okay. 'Cause this is where I wanna be, okay? No more messing around. I don't wanna mess this up again.
+[s10_e18_c10_u018] Ross Geller: Me neither, okay? We are - we're done being stupid.
+[s10_e18_c10_u019] Rachel Green: Okay. You and me, alright? This is it.
+[s10_e18_c10_u020] Ross Geller: This is it. Unless we're on a break.
+[s10_e18_c10_u021] Ross Geller: Don't make jokes now."
+s10_e18,s10_e18_c11,Chandler Bing,0,12,12,11,13,2,s10_e18_c11_u012,s10_e18_c11_u018,"[s10_e18_c11_u012] Monica Geller: Oh, honey, I forgot. I promised Treeger that we'd leave our keys.
+[s10_e18_c11_u013] Chandler Bing: Oh, okay.
+[s10_e18_c11_u014] Phoebe Buffay: So, I guess this is it.
+[s10_e18_c11_u015] Joey Tribbiani: Yeah. I guess so.
+[s10_e18_c11_u016] Monica Geller: This is harder than I thought it would be.
+[s10_e18_c11_u017] Chandler Bing: Oh, it's gonna be okay.
+[s10_e18_c11_u018] Rachel Green: Do you guys have to go to the new house right away, or do you have some time?"
+s10_e18,s10_e18_c11,Chandler Bing,1,16,16,15,16,2,s10_e18_c11_u016,s10_e18_c11_u021,"[s10_e18_c11_u016] Monica Geller: This is harder than I thought it would be.
+[s10_e18_c11_u017] Chandler Bing: Oh, it's gonna be okay.
+[s10_e18_c11_u018] Rachel Green: Do you guys have to go to the new house right away, or do you have some time?
+[s10_e18_c11_u019] Monica Geller: We got some time.
+[s10_e18_c11_u020] Rachel Green: Okay, should we get some coffee?
+[s10_e18_c11_u021] Chandler Bing: Sure. Where?"
+s10_e18,s10_e18_c11,Monica Geller,0,0,0,0,1,2,s10_e18_c11_u001,s10_e18_c11_u006,"[s10_e18_c11_u001] Monica Geller: Okay, please be careful with that. It was my grandmother's. Be careful.
+[s10_e18_c11_u002] Monica Geller: If that falls off the truck, it wouldn't be the worst thing.
+[s10_e18_c11_u003] Ross Geller: Wow.
+[s10_e18_c11_u004] Rachel Green: I know. It seems smaller somehow.
+[s10_e18_c11_u005] Joey Tribbiani: Has it always been purple?
+[s10_e18_c11_u006] Chandler Bing: Look around, you guys. This was your first home. And it was a happy place, filled with love and laughter. But more important, because of rent control, it was a friggin' steal!"
+s10_e18,s10_e18_c11,Monica Geller,1,5,9,4,10,3,s10_e18_c11_u005,s10_e18_c11_u015,"[s10_e18_c11_u005] Joey Tribbiani: Has it always been purple?
+[s10_e18_c11_u006] Chandler Bing: Look around, you guys. This was your first home. And it was a happy place, filled with love and laughter. But more important, because of rent control, it was a friggin' steal!
+[s10_e18_c11_u007] Phoebe Buffay: Hey, do you realise that at one time or another we all lived in this apartment?
+[s10_e18_c11_u008] Monica Geller: Oh, yeah, that's true.
+[s10_e18_c11_u009] Ross Geller: Uh, I haven't.
+[s10_e18_c11_u010] Monica Geller: Wait a minute. What about that summer during college that you lived with grandma, and you tried to make it as a dancer?
+[s10_e18_c11_u011] Ross Geller: Do you realise we almost made it ten years without that coming up?
+[s10_e18_c11_u012] Monica Geller: Oh, honey, I forgot. I promised Treeger that we'd leave our keys.
+[s10_e18_c11_u013] Chandler Bing: Oh, okay.
+[s10_e18_c11_u014] Phoebe Buffay: So, I guess this is it.
+[s10_e18_c11_u015] Joey Tribbiani: Yeah. I guess so."
+s10_e18,s10_e18_c11,Monica Geller,2,11,11,10,12,2,s10_e18_c11_u011,s10_e18_c11_u017,"[s10_e18_c11_u011] Ross Geller: Do you realise we almost made it ten years without that coming up?
+[s10_e18_c11_u012] Monica Geller: Oh, honey, I forgot. I promised Treeger that we'd leave our keys.
+[s10_e18_c11_u013] Chandler Bing: Oh, okay.
+[s10_e18_c11_u014] Phoebe Buffay: So, I guess this is it.
+[s10_e18_c11_u015] Joey Tribbiani: Yeah. I guess so.
+[s10_e18_c11_u016] Monica Geller: This is harder than I thought it would be.
+[s10_e18_c11_u017] Chandler Bing: Oh, it's gonna be okay."
+s10_e18,s10_e18_c11,Monica Geller,3,14,15,13,16,2,s10_e18_c11_u014,s10_e18_c11_u021,"[s10_e18_c11_u014] Phoebe Buffay: So, I guess this is it.
+[s10_e18_c11_u015] Joey Tribbiani: Yeah. I guess so.
+[s10_e18_c11_u016] Monica Geller: This is harder than I thought it would be.
+[s10_e18_c11_u017] Chandler Bing: Oh, it's gonna be okay.
+[s10_e18_c11_u018] Rachel Green: Do you guys have to go to the new house right away, or do you have some time?
+[s10_e18_c11_u019] Monica Geller: We got some time.
+[s10_e18_c11_u020] Rachel Green: Okay, should we get some coffee?
+[s10_e18_c11_u021] Chandler Bing: Sure. Where?"
+s10_e18,s10_e18_c11,Rachel Green,0,15,16,14,16,2,s10_e18_c11_u015,s10_e18_c11_u021,"[s10_e18_c11_u015] Joey Tribbiani: Yeah. I guess so.
+[s10_e18_c11_u016] Monica Geller: This is harder than I thought it would be.
+[s10_e18_c11_u017] Chandler Bing: Oh, it's gonna be okay.
+[s10_e18_c11_u018] Rachel Green: Do you guys have to go to the new house right away, or do you have some time?
+[s10_e18_c11_u019] Monica Geller: We got some time.
+[s10_e18_c11_u020] Rachel Green: Okay, should we get some coffee?
+[s10_e18_c11_u021] Chandler Bing: Sure. Where?"
+s10_e18,s10_e18_c11,Ross Geller,0,6,8,5,9,2,s10_e18_c11_u006,s10_e18_c11_u014,"[s10_e18_c11_u006] Chandler Bing: Look around, you guys. This was your first home. And it was a happy place, filled with love and laughter. But more important, because of rent control, it was a friggin' steal!
+[s10_e18_c11_u007] Phoebe Buffay: Hey, do you realise that at one time or another we all lived in this apartment?
+[s10_e18_c11_u008] Monica Geller: Oh, yeah, that's true.
+[s10_e18_c11_u009] Ross Geller: Uh, I haven't.
+[s10_e18_c11_u010] Monica Geller: Wait a minute. What about that summer during college that you lived with grandma, and you tried to make it as a dancer?
+[s10_e18_c11_u011] Ross Geller: Do you realise we almost made it ten years without that coming up?
+[s10_e18_c11_u012] Monica Geller: Oh, honey, I forgot. I promised Treeger that we'd leave our keys.
+[s10_e18_c11_u013] Chandler Bing: Oh, okay.
+[s10_e18_c11_u014] Phoebe Buffay: So, I guess this is it."

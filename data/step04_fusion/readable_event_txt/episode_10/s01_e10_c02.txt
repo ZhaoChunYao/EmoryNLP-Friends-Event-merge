@@ -1,0 +1,242 @@
+event_id: s01_e10_c02_u001_e1
+utterance_id: s01_e10_c02_u001
+  tuple: ('do', 'I/(Phoebe Buffay)', 'all new material', 's01_e10_c02_u001')
+
+event_id: s01_e10_c02_u001_e2
+utterance_id: s01_e10_c02_u001
+  tuple: ('have', 'I/(Phoebe Buffay)', 'twelve new songs', 's01_e10_c02_u001')
+  tuple: ('have', 'I/(Phoebe Buffay)', "about my mother's suicide", 's01_e10_c02_u001')
+  tuple: ('have', 'I/(Phoebe Buffay)', 'one', 's01_e10_c02_u001')
+  tuple: ('have', 'I/(Phoebe Buffay)', 'about a snowman', 's01_e10_c02_u001')
+
+event_id: s01_e10_c02_u002_e1
+utterance_id: s01_e10_c02_u002
+  tuple: ('want', 'you/(Phoebe Buffay)', 'open with the snowman', 's01_e10_c02_u002')
+  tuple: ('open', 'you/(Phoebe Buffay)', 'with the snowman', 's01_e10_c02_u002')
+
+event_id: s01_e10_c02_u005_e1
+utterance_id: s01_e10_c02_u005
+  tuple: ('go', 'it', None, 's01_e10_c02_u005')
+
+event_id: s01_e10_c02_u006_e1
+utterance_id: s01_e10_c02_u006
+  tuple: ('get', 'I/(Joey Tribbiani)', 'the job', 's01_e10_c02_u006')
+
+event_id: s01_e10_c02_u007_e1
+utterance_id: s01_e10_c02_u007
+  tuple: ('get', 'you/(Joey Tribbiani)', 'it', 's01_e10_c02_u007')
+
+event_id: s01_e10_c02_u007_e2
+utterance_id: s01_e10_c02_u007
+  tuple: ('be', 'you/(Joey Tribbiani)', 'Santa', 's01_e10_c02_u007')
+
+event_id: s01_e10_c02_u008_e1
+utterance_id: s01_e10_c02_u008
+  tuple: ('know', 'I/(Joey Tribbiani)', None, 's01_e10_c02_u008')
+
+event_id: s01_e10_c02_u008_e2
+utterance_id: s01_e10_c02_u008
+  tuple: ('sleep', 'some fat guy', 'with the store manager', 's01_e10_c02_u008')
+
+event_id: s01_e10_c02_u008_e3
+utterance_id: s01_e10_c02_u008
+  tuple: ('be', 'he/(some fat guy)', 'jolly', 's01_e10_c02_u008')
+
+event_id: s01_e10_c02_u008_e4
+utterance_id: s01_e10_c02_u008
+  tuple: ('be', 'it', 'all political', 's01_e10_c02_u008')
+
+event_id: s01_e10_c02_u009_e1
+utterance_id: s01_e10_c02_u009
+  tuple: ('be', 'you/(Joey Tribbiani)', 'what', 's01_e10_c02_u009')
+
+event_id: s01_e10_c02_u010_e1
+utterance_id: s01_e10_c02_u010
+  tuple: ('be', 'I/(Joey Tribbiani)', 'one of his helpers', 's01_e10_c02_u010')
+  tuple: ('be', 'it', 'just such a slap in the face', 's01_e10_c02_u010')
+
+event_id: s01_e10_c02_u010_e2
+utterance_id: s01_e10_c02_u010
+  tuple: ('know', 'you/(Monica Geller)', None, 's01_e10_c02_u010')
+
+event_id: s01_e10_c02_u011_e1
+utterance_id: s01_e10_c02_u011
+  tuple: ('know', 'you/(ALL)', "what you're doing for New Year's", 's01_e10_c02_u011')
+  tuple: ('do', 'you/(ALL)', "for New Year's", 's01_e10_c02_u011')
+
+event_id: s01_e10_c02_u011_e2
+utterance_id: s01_e10_c02_u011
+  tuple: ('be', 'what', "wrong with New Year's", 's01_e10_c02_u011')
+
+event_id: s01_e10_c02_u012_e1
+utterance_id: s01_e10_c02_u012
+  tuple: ('have', 'you/(Rachel Green)', 'Paolo', 's01_e10_c02_u012')
+
+event_id: s01_e10_c02_u012_e2
+utterance_id: s01_e10_c02_u012
+  tuple: ('face', 'you/(Rachel Green)', 'the horrible pressures of this holiday', 's01_e10_c02_u012')
+  tuple: ('find', 'you/(Rachel Green)', 'with lips', 's01_e10_c02_u012')
+  tuple: ('have', 'you/(Rachel Green)', 'someone', 's01_e10_c02_u012')
+  tuple: ('kiss', 'you/(Rachel Green)', 'someone', 's01_e10_c02_u012')
+  tuple: ('drop', 'the ball', None, 's01_e10_c02_u012')
+
+event_id: s01_e10_c02_u012_e3
+utterance_id: s01_e10_c02_u012
+  tuple: ('talk', 'I/(Chandler Bing)', 'loud', 's01_e10_c02_u012')
+
+event_id: s01_e10_c02_u013_e1
+utterance_id: s01_e10_c02_u013
+  tuple: ('be', 'Paolo', 'in Rome', 's01_e10_c02_u013')
+
+event_id: s01_e10_c02_u013_e2
+utterance_id: s01_e10_c02_u013
+  tuple: ('be', 'I/(Rachel Green)', 'just as pathetic as the rest of you', 's01_e10_c02_u013')
+
+event_id: s01_e10_c02_u014_e1
+utterance_id: s01_e10_c02_u014
+  tuple: ('wish', 'you/(Rachel Green)', None, 's01_e10_c02_u014')
+
+event_id: s01_e10_c02_u015_e1
+utterance_id: s01_e10_c02_u015
+  tuple: ('be', 'it', "just that I'm sick of being a victim of this Dick Clark holiday", 's01_e10_c02_u015')
+  tuple: ('be', 'I/(Chandler Bing)', 'sick of being a victim of this Dick Clark holiday', 's01_e10_c02_u015')
+
+event_id: s01_e10_c02_u015_e2
+utterance_id: s01_e10_c02_u015
+  tuple: ('say', 'I/(Chandler Bing)', 'this year, no dates, we make a pact', 's01_e10_c02_u015')
+  tuple: ('make', 'we/(the six of us)', 'a pact', 's01_e10_c02_u015')
+
+event_id: s01_e10_c02_u017_e1
+utterance_id: s01_e10_c02_u017
+  tuple: ('know', 'you/(ALL)', None, 's01_e10_c02_u017')
+
+event_id: s01_e10_c02_u017_e2
+utterance_id: s01_e10_c02_u017
+  tuple: ('hope', 'I/(Chandler Bing)', 'a little more enthusiasm', 's01_e10_c02_u017')
+
+event_id: s01_e10_c02_u019_e1
+utterance_id: s01_e10_c02_u019
+  tuple: ('be', 'you/(Phoebe Buffay)', 'on', 's01_e10_c02_u019')
+
+event_id: s01_e10_c02_u022_e1
+utterance_id: s01_e10_c02_u022
+  tuple: ('want', 'I/(Phoebe Buffay)', 'start with a song that means a lot to me this time of year', 's01_e10_c02_u022')
+  tuple: ('start', 'I/(Phoebe Buffay)', 'with a song', 's01_e10_c02_u022')
+  tuple: ('mean', 'a song', 'a lot', 's01_e10_c02_u022')
+  tuple: ('mean', 'a song', 'to me', 's01_e10_c02_u022')
+
+event_id: s01_e10_c02_u023_e1
+utterance_id: s01_e10_c02_u023
+  tuple: ('make', 'I/(Phoebe Buffay)', 'a man', 's01_e10_c02_u023')
+  tuple: ('make', 'I/(Phoebe Buffay)', 'with eyes of coal', 's01_e10_c02_u023')
+  tuple: ('make', 'I/(Phoebe Buffay)', "with a smile so bewitchin'", 's01_e10_c02_u023')
+
+event_id: s01_e10_c02_u023_e2
+utterance_id: s01_e10_c02_u023
+  tuple: ('suppose', 'I/(Phoebe Buffay)', 'to know that my mom was dead in the kitchen', 's01_e10_c02_u023')
+  tuple: ('know', 'I/(Phoebe Buffay)', 'that my mom was dead in the kitchen', 's01_e10_c02_u023')
+  tuple: ('be', 'my mom', 'dead', 's01_e10_c02_u023')
+  tuple: ('be', 'my mom', 'in the kitchen', 's01_e10_c02_u023')
+
+event_id: s01_e10_c02_u026_e1
+utterance_id: s01_e10_c02_u026
+  tuple: ('rest', "my mother's ashes and her eyelashes", 'in a little yellow jar', 's01_e10_c02_u026')
+
+event_id: s01_e10_c02_u026_e2
+utterance_id: s01_e10_c02_u026
+  tuple: ('be', 'it', 'breezy', 's01_e10_c02_u026')
+
+event_id: s01_e10_c02_u029_e1
+utterance_id: s01_e10_c02_u029
+  tuple: ('feel', 'I/(Phoebe Buffay)', 'a little sneezy', 's01_e10_c02_u029')
+
+event_id: s01_e10_c02_u030_e1
+utterance_id: s01_e10_c02_u030
+  tuple: ('excuse', 'you/(Max and David)', 'me', 's01_e10_c02_u030')
+
+event_id: s01_e10_c02_u030_e2
+utterance_id: s01_e10_c02_u030
+  tuple: ('be', 'it', 'something that you would like to share with the entire group', 's01_e10_c02_u030')
+  tuple: ('like', 'you/(Max and David)', 'to share with the entire group', 's01_e10_c02_u030')
+  tuple: ('share', 'you/(Max and David)', 'with the entire group', 's01_e10_c02_u030')
+
+event_id: s01_e10_c02_u031_e1
+utterance_id: s01_e10_c02_u031
+  tuple: ('be', 'that', 'okay', 's01_e10_c02_u031')
+
+event_id: s01_e10_c02_u032_e1
+utterance_id: s01_e10_c02_u032
+  tuple: ('be', 'it', "important enough to discuss while I'm playing", 's01_e10_c02_u032')
+  tuple: ('play', 'I/(Phoebe Buffay)', None, 's01_e10_c02_u032')
+  tuple: ('assume', 'I/(Phoebe Buffay)', "it's important enough for everyone else to hear", 's01_e10_c02_u032')
+  tuple: ('be', 'it', 'important enough for everyone else to hear', 's01_e10_c02_u032')
+  tuple: ('hear', 'everyone else', None, 's01_e10_c02_u032')
+
+event_id: s01_e10_c02_u033_e1
+utterance_id: s01_e10_c02_u033
+  tuple: ('go', 'that guy', 'with a note', 's01_e10_c02_u033')
+
+event_id: s01_e10_c02_u034_e1
+utterance_id: s01_e10_c02_u034
+  tuple: ('say', 'I/(David)', None, 's01_e10_c02_u034')
+
+event_id: s01_e10_c02_u035_e1
+utterance_id: s01_e10_c02_u035
+  tuple: ('speak', 'you/(David)', 'up', 's01_e10_c02_u035')
+
+event_id: s01_e10_c02_u036_e1
+utterance_id: s01_e10_c02_u036
+  tuple: ('say', 'I/(David)', 'to my friend', 's01_e10_c02_u036')
+  tuple: ('think', 'I/(David)', "you were the most beautiful woman that I'd ever seen in my life", 's01_e10_c02_u036')
+  tuple: ('be', 'you/(Phoebe Buffay)', 'the most beautiful woman', 's01_e10_c02_u036')
+  tuple: ('see', 'I/(David)', 'the most beautiful woman', 's01_e10_c02_u036')
+
+event_id: s01_e10_c02_u036_e2
+utterance_id: s01_e10_c02_u036
+  tuple: ('say', 'he/(Max)', 'that you said you thought', 's01_e10_c02_u036')
+  tuple: ('say', 'you/(Max)', 'you thought', 's01_e10_c02_u036')
+  tuple: ('think', 'you/(Max)', None, 's01_e10_c02_u036')
+
+event_id: s01_e10_c02_u038_e1
+utterance_id: s01_e10_c02_u038
+  tuple: ('be', 'Daryl Hannah', 'the most beautiful woman', 's01_e10_c02_u038')
+  tuple: ('see', 'he/(Max)', 'the most beautiful woman', 's01_e10_c02_u038')
+
+event_id: s01_e10_c02_u038_e2
+utterance_id: s01_e10_c02_u038
+  tuple: ('say', 'I/(David)', 'yeah', 's01_e10_c02_u038')
+
+event_id: s01_e10_c02_u038_e3
+utterance_id: s01_e10_c02_u038
+  tuple: ('like', 'I/(David)', 'her', 's01_e10_c02_u038')
+  tuple: ('like', 'I/(David)', 'in Splash', 's01_e10_c02_u038')
+
+event_id: s01_e10_c02_u038_e4
+utterance_id: s01_e10_c02_u038
+  tuple: ('like', 'I/(David)', 'in Wall Street', 's01_e10_c02_u038')
+
+event_id: s01_e10_c02_u038_e5
+utterance_id: s01_e10_c02_u038
+  tuple: ('think', 'I/(David)', 'she had kind of a', 's01_e10_c02_u038')
+
+event_id: s01_e10_c02_u040_e1
+utterance_id: s01_e10_c02_u040
+  tuple: ('be', 'Daryl Hannah', 'beautiful in a conventional way', 's01_e10_c02_u040')
+
+event_id: s01_e10_c02_u040_e2
+utterance_id: s01_e10_c02_u040
+  tuple: ('be', 'you/(Phoebe Buffay)', 'luminous with a kind of a delicate grace', 's01_e10_c02_u040')
+
+event_id: s01_e10_c02_u040_e3
+utterance_id: s01_e10_c02_u040
+  tuple: ('start', 'you/(Phoebe Buffay)', 'yelling', 's01_e10_c02_u040')
+  tuple: ('yell', 'you/(Phoebe Buffay)', None, 's01_e10_c02_u040')
+
+event_id: s01_e10_c02_u041_e1
+utterance_id: s01_e10_c02_u041
+  tuple: ('take', 'we/(Phoebe Buffay and friends)', 'a short break', 's01_e10_c02_u041')
+
+event_id: s01_e10_c02_u042_e1
+utterance_id: s01_e10_c02_u042
+  tuple: ('go', 'that guy', 'with more than a note', 's01_e10_c02_u042')
+

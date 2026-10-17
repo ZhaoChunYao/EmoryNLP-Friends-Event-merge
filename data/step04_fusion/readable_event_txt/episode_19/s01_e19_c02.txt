@@ -1,0 +1,34 @@
+event_id: s01_e19_c02_u002_e1
+utterance_id: s01_e19_c02_u002
+  tuple: ('thank', 'I/Rachel Green', 'you', 's01_e19_c02_u002')
+
+event_id: s01_e19_c02_u003_e1
+utterance_id: s01_e19_c02_u003
+  tuple: ('get', 'we/Monica Geller and Rachel Green', 'any', 's01_e19_c02_u003')
+
+event_id: s01_e19_c02_u005_e1
+utterance_id: s01_e19_c02_u005
+  tuple: ('be', 'it/Country club newsletter', 'what', 's01_e19_c02_u005')
+
+event_id: s01_e19_c02_u006_e1
+utterance_id: s01_e19_c02_u006
+  tuple: ('send', 'My mother', 'the engagement notices', 's01_e19_c02_u006')
+  tuple: ('send', 'My mother', "for 'inspiration'", 's01_e19_c02_u006')
+
+event_id: s01_e19_c02_u006_e2
+utterance_id: s01_e19_c02_u006
+  tuple: ('be', 'it/engagement notice', 'Barry and Mindy', 's01_e19_c02_u006')
+
+event_id: s01_e19_c02_u011_e1
+utterance_id: s01_e19_c02_u011
+  tuple: ('be', 'that/(woman in picture)', 'Mindy', 's01_e19_c02_u011')
+
+event_id: s01_e19_c02_u011_e2
+utterance_id: s01_e19_c02_u011
+  tuple: ('be', 'she/Mindy', 'pretty', 's01_e19_c02_u011')
+
+event_id: s01_e19_c02_u011_e3
+utterance_id: s01_e19_c02_u011
+  tuple: ('have', 'she/Mindy', 'a friend', 's01_e19_c02_u011')
+  tuple: ('have', 'she/Mindy', 'like you', 's01_e19_c02_u011')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks to alert others about the candle but does not show notable sociability or energetic engagement beyond a brief, practical warning."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Warns Speaker_01 and Speaker_02 that the last candle is about to burn out and exchanges thanks—helpful and polite behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Notices the last candle is about to burn out and directs others to look—shows attentiveness and responsibility."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Provides a matter-of-fact warning and does not express fear or anxiety despite the spooky, dark setting mentioned by others."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or unconventional thinking; comments are purely practical."
+  }
+}

@@ -1,0 +1,157 @@
+event_id: s01_e21_c08_u001_e1
+utterance_id: s01_e21_c08_u001
+  tuple: ('do', 'you/(Fake Monica)', 'this', 's01_e21_c08_u001')
+
+event_id: s01_e21_c08_u002_e1
+utterance_id: s01_e21_c08_u002
+  tuple: ('be', 'Monana', 'very brave', 's01_e21_c08_u002')
+
+event_id: s01_e21_c08_u003_e1
+utterance_id: s01_e21_c08_u003
+  tuple: ('be', 'It', 'so wild', 's01_e21_c08_u003')
+
+event_id: s01_e21_c08_u003_e2
+utterance_id: s01_e21_c08_u003
+  tuple: ('tell', 'we/(Monica Geller & Fake Monica)', 'them', 's01_e21_c08_u003')
+  tuple: ('be', 'we/(Monica Geller & Fake Monica)', 'the Gunnersens in room six fifteen', 's01_e21_c08_u003')
+  tuple: ('be', 'we/(Monica Geller & Fake Monica)', 'in room six fifteen', 's01_e21_c08_u003')
+
+event_id: s01_e21_c08_u003_e3
+utterance_id: s01_e21_c08_u003
+  tuple: ('find out', 'we/(Monica Geller & Fake Monica)', 'the Boston Celtics had taken over the entire sixth floor', 's01_e21_c08_u003')
+  tuple: ('take over', 'the Boston Celtics', 'the entire sixth floor', 's01_e21_c08_u003')
+
+event_id: s01_e21_c08_u004_e1
+utterance_id: s01_e21_c08_u004
+  tuple: ('catch on', 'they', "to the fact that we're short and have breasts", 's01_e21_c08_u004')
+  tuple: ('be', 'we/(Monica Geller & Fake Monica)', 'short', 's01_e21_c08_u004')
+  tuple: ('have', 'we/(Monica Geller & Fake Monica)', 'breasts', 's01_e21_c08_u004')
+
+event_id: s01_e21_c08_u005_e1
+utterance_id: s01_e21_c08_u005
+  tuple: ('throw out', 'They', 'us', 's01_e21_c08_u005')
+  tuple: ('throw out', 'I/(Monica Geller)', None, 's01_e21_c08_u005')
+  tuple: ('throw out', 'I/(Monica Geller)', 'of a hotel', 's01_e21_c08_u005')
+
+event_id: s01_e21_c08_u006_e1
+utterance_id: s01_e21_c08_u006
+  tuple: ('be', 'you ladies', 'not the only ones living the dream', 's01_e21_c08_u006')
+  tuple: ('live', 'you ladies', 'the dream', 's01_e21_c08_u006')
+
+event_id: s01_e21_c08_u006_e2
+utterance_id: s01_e21_c08_u006
+  tuple: ('get', 'I/(Rachel Green)', "to go pour coffee for people I don't know", 's01_e21_c08_u006')
+  tuple: ('go', 'I/(Rachel Green)', "pour coffee for people I don't know", 's01_e21_c08_u006')
+  tuple: ('pour', 'I/(Rachel Green)', 'coffee', 's01_e21_c08_u006')
+  tuple: ('pour', 'I/(Rachel Green)', "for people I don't know", 's01_e21_c08_u006')
+  tuple: ('know', 'I/(Rachel Green)', 'people', 's01_e21_c08_u006')
+
+event_id: s01_e21_c08_u006_e3
+utterance_id: s01_e21_c08_u006
+  tuple: ('wait up', 'you/(Monica Geller & Fake Monica)', None, 's01_e21_c08_u006')
+
+event_id: s01_e21_c08_u007_e1
+utterance_id: s01_e21_c08_u007
+  tuple: ('audition', 'we/(Monica Geller & Fake Monica)', 'for a Broadway show', 's01_e21_c08_u007')
+
+event_id: s01_e21_c08_u009_e1
+utterance_id: s01_e21_c08_u009
+  tuple: ('be', 'There', 'an open call for Cats', 's01_e21_c08_u009')
+  tuple: ('be', 'an open call', 'for Cats', 's01_e21_c08_u009')
+
+event_id: s01_e21_c08_u009_e2
+utterance_id: s01_e21_c08_u009
+  tuple: ('think', 'I/(Fake Monica)', 'we go down there, sing Memories and make complete fools of ourselves', 's01_e21_c08_u009')
+  tuple: ('go', 'we/(Monica Geller & Fake Monica)', 'down there', 's01_e21_c08_u009')
+  tuple: ('sing', 'we/(Monica Geller & Fake Monica)', 'Memories', 's01_e21_c08_u009')
+  tuple: ('make', 'we/(Monica Geller & Fake Monica)', 'complete fools', 's01_e21_c08_u009')
+  tuple: ('make', 'we/(Monica Geller & Fake Monica)', 'of ourselves', 's01_e21_c08_u009')
+
+event_id: s01_e21_c08_u009_e3
+utterance_id: s01_e21_c08_u009
+  tuple: ('say', 'you/(Monica Geller)', None, 's01_e21_c08_u009')
+
+event_id: s01_e21_c08_u010_e1
+utterance_id: s01_e21_c08_u010
+  tuple: ('think', 'you/(Fake Monica)', "who you're dealing with here", 's01_e21_c08_u010')
+  tuple: ('deal with', 'you/(Fake Monica)', 'with who', 's01_e21_c08_u010')
+
+event_id: s01_e21_c08_u010_e2
+utterance_id: s01_e21_c08_u010
+  tuple: ('be', 'I/(Monica Geller)', 'not like you', 's01_e21_c08_u010')
+  tuple: ('be', 'I/(Monica Geller)', 'like you', 's01_e21_c08_u010')
+
+event_id: s01_e21_c08_u010_e3
+utterance_id: s01_e21_c08_u010
+  tuple: ('stand', 'I/(Monica Geller)', 'in front of a tap class', 's01_e21_c08_u010')
+
+event_id: s01_e21_c08_u011_e1
+utterance_id: s01_e21_c08_u011
+  tuple: ('be', 'that', "just probably 'cause of your Amish background", 's01_e21_c08_u011')
+  tuple: ('be', 'that', 'because of your Amish background', 's01_e21_c08_u011')
+
+event_id: s01_e21_c08_u013_e1
+utterance_id: s01_e21_c08_u013
+  tuple: ('be', 'you/(Monica Geller)', 'Pennsylvania Dutch', 's01_e21_c08_u013')
+
+event_id: s01_e21_c08_u014_e1
+utterance_id: s01_e21_c08_u014
+  tuple: ('buy', 'I/(Monica Geller)', 'a blow dryer', 's01_e21_c08_u014')
+
+event_id: s01_e21_c08_u014_e2
+utterance_id: s01_e21_c08_u014
+  tuple: ('shun', 'I/(Monica Geller)', None, 's01_e21_c08_u014')
+
+event_id: s01_e21_c08_u015_e1
+utterance_id: s01_e21_c08_u015
+  tuple: ('be', 'I/(Fake Monica)', 'just like you', 's01_e21_c08_u015')
+  tuple: ('be', 'I/(Fake Monica)', 'like you', 's01_e21_c08_u015')
+
+event_id: s01_e21_c08_u015_e2
+utterance_id: s01_e21_c08_u015
+  tuple: ('see', 'I/(Fake Monica)', 'a movie that changed my life', 's01_e21_c08_u015')
+  tuple: ('change', 'that', 'my life', 's01_e21_c08_u015')
+
+event_id: s01_e21_c08_u015_e3
+utterance_id: s01_e21_c08_u015
+  tuple: ('see', 'you/(Monica Geller)', "Dead Poets' Society", 's01_e21_c08_u015')
+
+event_id: s01_e21_c08_u017_e1
+utterance_id: s01_e21_c08_u017
+  tuple: ('think', 'I/(Fake Monica)', 'that movie was so incredibly boring', 's01_e21_c08_u017')
+  tuple: ('be', 'that movie', 'so incredibly boring', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u017_e2
+utterance_id: s01_e21_c08_u017
+  tuple: ('kill', 'the kid', 'himself', 's01_e21_c08_u017')
+  tuple: ('be', 'he/(the kid)', 'in the play', 's01_e21_c08_u017')
+  tuple: ('be', 'What', 'that', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u017_e3
+utterance_id: s01_e21_c08_u017
+  tuple: ('be', 'It', 'like', 's01_e21_c08_u017')
+  tuple: ('wait', 'you/(the kid)', 'a year', 's01_e21_c08_u017')
+  tuple: ('leave', 'you/(the kid)', 'home', 's01_e21_c08_u017')
+  tuple: ('do', 'you/(the kid)', 'some community theatre', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u017_e4
+utterance_id: s01_e21_c08_u017
+  tuple: ('walk out', 'I/(Fake Monica)', 'of there', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u017_e5
+utterance_id: s01_e21_c08_u017
+  tuple: ('think', 'I/(Fake Monica)', "Now, that's two hours of my life that I'm never getting back", 's01_e21_c08_u017')
+  tuple: ('be', 'that', 'two hours of my life', 's01_e21_c08_u017')
+  tuple: ('be', 'two hours', 'of my life', 's01_e21_c08_u017')
+  tuple: ('get back', 'I/(Fake Monica)', 'that', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u017_e6
+utterance_id: s01_e21_c08_u017
+  tuple: ('scare', 'that thought', 'me', 's01_e21_c08_u017')
+  tuple: ('be', 'I/(Fake Monica)', 'afraid to do', 's01_e21_c08_u017')
+  tuple: ('do', 'I/(Fake Monica)', 'all the other crap', 's01_e21_c08_u017')
+
+event_id: s01_e21_c08_u018_e1
+utterance_id: s01_e21_c08_u018
+  tuple: ('recommend', 'I/(Monica Geller)', 'Mrs. Doubtfire', 's01_e21_c08_u018')
+

@@ -1,0 +1,70 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c02_u002",
+      "events": [
+        {
+          "event_id": "s01_e15_c02_u002_e1",
+          "tuples": [
+            "('look', 'you/Mrs. Tedlock', 'lovely today', 's01_e15_c02_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c02_u002_e2",
+          "tuples": [
+            "('say', 'I/Chandler Bing', 'that is a very flattering sleeve length on you', 's01_e15_c02_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c02_u002_e3",
+          "tuples": [
+            "('be', 'that/sleeve length', 'a very flattering sleeve length', 's01_e15_c02_u002')",
+            "('be', 'that/sleeve length', 'on you', 's01_e15_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c02_u003",
+      "events": [
+        {
+          "event_id": "s01_e15_c02_u003_e1",
+          "tuples": [
+            "('want', 'Mr. Kostelick', 'you to stop by his office at the end of the day', 's01_e15_c02_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c02_u003_e2",
+          "tuples": [
+            "('stop', 'you/Chandler Bing', 'by his office', 's01_e15_c02_u003')",
+            "('stop', 'you/Chandler Bing', 'at the end of the day', 's01_e15_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c02_u004",
+      "events": [
+        {
+          "event_id": "s01_e15_c02_u004_e1",
+          "tuples": [
+            "('listen', 'you/Mrs. Tedlock', None, 's01_e15_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c02_u004_e2",
+          "tuples": [
+            "('be', 'this/request to stop by his office', 'about those prank memos', 's01_e15_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c02_u004_e3",
+          "tuples": [
+            "('have', 'I/Chandler Bing', 'nothing to do with them', 's01_e15_c02_u004')",
+            "('do', 'I/Chandler Bing', 'with them', 's01_e15_c02_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

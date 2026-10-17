@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the room and proactively asks if their group can come in, showing social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely seeks permission for several people to enter and collaborates with others on choosing the baby's name."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or of pronounced confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Participates in coming up with the baby's name, indicating willingness to brainstorm new ideas."
+  }
+}

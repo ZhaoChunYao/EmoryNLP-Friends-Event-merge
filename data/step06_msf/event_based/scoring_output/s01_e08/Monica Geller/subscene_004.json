@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly in a solemn context (“G’bye, Nana.”; calling “Ross!”) without showing outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows empathy and warmth by agreeing with the observation about Nana (“I know [she] looks so small right now”) and offering a gentle farewell (“G’bye, Nana.”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety, nervousness, or emotional volatility; responses are calm and minimal."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, imagination, or resistance to new ideas are present."
+  }
+}

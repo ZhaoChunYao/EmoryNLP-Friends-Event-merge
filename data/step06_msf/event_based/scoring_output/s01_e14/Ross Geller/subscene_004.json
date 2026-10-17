@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He asks about Riggs’s job and proactively wants to invite Speaker_02 to join their group, expanding the social interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He notes Speaker_02 is alone, pregnant, and sad, and asks if it would be too weird to invite her—showing concern, inclusiveness, and deference to others’ comfort."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicates organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "He remains calm and solution-focused (suggesting an invitation) without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He shows curiosity by asking about Riggs’s job and is open to changing plans by adding Speaker_02 to the group."
+  }
+}

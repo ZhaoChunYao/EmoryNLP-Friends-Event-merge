@@ -1,0 +1,231 @@
+event_id: s01_e06_c04_u002_e1
+utterance_id: s01_e06_c04_u002
+  tuple: ('greet', 'we/(Chandler Bing+Rachel Green)', 'each other', 's01_e06_c04_u002')
+  tuple: ('like', 'I/(Chandler Bing)', 'that', 's01_e06_c04_u002')
+
+event_id: s01_e06_c04_u003_e1
+utterance_id: s01_e06_c04_u003
+  tuple: ('look', 'you/(ALL)', None, 's01_e06_c04_u003')
+
+event_id: s01_e06_c04_u003_e2
+utterance_id: s01_e06_c04_u003
+  tuple: ('clean', 'I/(Rachel Green)', None, 's01_e06_c04_u003')
+  tuple: ('do', 'I/(Rachel Green)', 'the windows', 's01_e06_c04_u003')
+  tuple: ('do', 'I/(Rachel Green)', 'the floors', 's01_e06_c04_u003')
+  tuple: ('use', 'I/(Rachel Green)', 'all the attachments', 's01_e06_c04_u003')
+  tuple: ('use', 'I/(Rachel Green)', 'on the vacuum', 's01_e06_c04_u003')
+  tuple: ('know', 'I/(Rachel Green)', "what that's for", 's01_e06_c04_u003')
+  tuple: ('be', 'that/(vacuum round attachment)', 'for what', 's01_e06_c04_u003')
+
+event_id: s01_e06_c04_u004_e1
+utterance_id: s01_e06_c04_u004
+  tuple: ('know', 'nobody', None, 's01_e06_c04_u004')
+
+event_id: s01_e06_c04_u004_e2
+utterance_id: s01_e06_c04_u004
+  tuple: ('suppose', 'we/(people)', 'to ask', 's01_e06_c04_u004')
+
+event_id: s01_e06_c04_u005_e1
+utterance_id: s01_e06_c04_u005
+  tuple: ('think', 'you/(ALL)', None, 's01_e06_c04_u005')
+
+event_id: s01_e06_c04_u006_e1
+utterance_id: s01_e06_c04_u006
+  tuple: ('look', 'it/(apartment)', 'great', 's01_e06_c04_u006')
+
+event_id: s01_e06_c04_u007_e1
+utterance_id: s01_e06_c04_u007
+  tuple: ('see', 'I/(Monica Geller)', 'you moved the green ottoman', 's01_e06_c04_u007')
+  tuple: ('move', 'you/(Rachel Green)', 'the green ottoman', 's01_e06_c04_u007')
+
+event_id: s01_e06_c04_u009_e1
+utterance_id: s01_e06_c04_u009
+  tuple: ('happen', 'that/(the ottoman moving)', None, 's01_e06_c04_u009')
+
+event_id: s01_e06_c04_u010_e1
+utterance_id: s01_e06_c04_u010
+  tuple: ('know', 'I/(Rachel Green)', None, 's01_e06_c04_u010')
+  tuple: ('think', 'I/(Rachel Green)', 'it looked better there', 's01_e06_c04_u010')
+  tuple: ('look', 'it/(ottoman placement)', 'better', 's01_e06_c04_u010')
+  tuple: ('be', 'it/(green ottoman)', 'an extra seat', 's01_e06_c04_u010')
+  tuple: ('be', 'it/(green ottoman)', 'around the coffee table', 's01_e06_c04_u010')
+
+event_id: s01_e06_c04_u011_e1
+utterance_id: s01_e06_c04_u011
+  tuple: ('be', 'it/(green ottoman placement)', 'interesting', 's01_e06_c04_u011')
+  tuple: ('know', 'you/(ALL)', 'what', 's01_e06_c04_u011')
+  tuple: ('see', 'we/(Monica Geller+Rachel Green+friends)', 'what it looked like in the old spot', 's01_e06_c04_u011')
+  tuple: ('look', 'it/(green ottoman)', None, 's01_e06_c04_u011')
+  tuple: ('look', 'it/(green ottoman)', 'in the old spot', 's01_e06_c04_u011')
+  tuple: ('look', 'it/(green ottoman)', 'good', 's01_e06_c04_u011')
+  tuple: ('leave', 'we/(Monica Geller+friends)', 'it', 's01_e06_c04_u011')
+  tuple: ('leave', 'we/(Monica Geller+friends)', 'for a while', 's01_e06_c04_u011')
+
+event_id: s01_e06_c04_u012_e1
+utterance_id: s01_e06_c04_u012
+  tuple: ('believe', 'I/(Phoebe Buffay)', 'you tried to move the green ottoman', 's01_e06_c04_u012')
+  tuple: ('try', 'you/(Rachel Green)', 'to move the green ottoman', 's01_e06_c04_u012')
+
+event_id: s01_e06_c04_u013_e1
+utterance_id: s01_e06_c04_u013
+  tuple: ('try', 'you/(Rachel Green)', 'to fan out the magazines', 's01_e06_c04_u013')
+  tuple: ('fan out', 'you/(Rachel Green)', 'the magazines', 's01_e06_c04_u013')
+
+event_id: s01_e06_c04_u013_e2
+utterance_id: s01_e06_c04_u013
+  tuple: ('scratch', 'she/(Monica Geller)', 'your eyes', 's01_e06_c04_u013')
+
+event_id: s01_e06_c04_u014_e1
+utterance_id: s01_e06_c04_u014
+  tuple: ('be', 'I/(Monica Geller)', 'not that bad', 's01_e06_c04_u014')
+
+event_id: s01_e06_c04_u015_e1
+utterance_id: s01_e06_c04_u015
+  tuple: ('be', 'you/(Monica Geller)', None, 's01_e06_c04_u015')
+
+event_id: s01_e06_c04_u015_e2
+utterance_id: s01_e06_c04_u015
+  tuple: ('live', 'I/(Phoebe Buffay)', None, 's01_e06_c04_u015')
+  tuple: ('live', 'I/(Phoebe Buffay)', 'with you', 's01_e06_c04_u015')
+  tuple: ('be', 'you/(Monica Geller)', 'like a little', 's01_e06_c04_u015')
+
+event_id: s01_e06_c04_u015_e3
+utterance_id: s01_e06_c04_u015
+  tuple: ('remember', 'you/(Monica Geller)', 'when I lived with you', 's01_e06_c04_u015')
+
+event_id: s01_e06_c04_u016_e1
+utterance_id: s01_e06_c04_u016
+  tuple: ('be', 'that/(accusation)', 'so unfair', 's01_e06_c04_u016')
+
+event_id: s01_e06_c04_u017_e1
+utterance_id: s01_e06_c04_u017
+  tuple: ('be', 'we/(Ross Geller+Monica Geller)', 'kids', 's01_e06_c04_u017')
+  tuple: ('be', 'yours/(Monica Geller)', 'the only Raggedy Ann doll', 's01_e06_c04_u017')
+  tuple: ('be', 'that/(Raggedy Ann doll)', 'raggedy', 's01_e06_c04_u017')
+
+event_id: s01_e06_c04_u018_e1
+utterance_id: s01_e06_c04_u018
+  tuple: ('be', 'I/(Monica Geller)', 'responsible', 's01_e06_c04_u018')
+  tuple: ('be', 'I/(Monica Geller)', 'organised', 's01_e06_c04_u018')
+  tuple: ('be', 'I/(Monica Geller)', 'a kook', 's01_e06_c04_u018')
+
+event_id: s01_e06_c04_u019_e1
+utterance_id: s01_e06_c04_u019
+  tuple: ('try', 'you/(Monica Geller)', 'to imagine this', 's01_e06_c04_u019')
+  tuple: ('imagine', 'you/(Monica Geller)', 'this', 's01_e06_c04_u019')
+  tuple: ('arrive', 'the phone bill', None, 's01_e06_c04_u019')
+  tuple: ('pay', 'you/(Monica Geller)', 'it', 's01_e06_c04_u019')
+
+event_id: s01_e06_c04_u021_e1
+utterance_id: s01_e06_c04_u021
+  tuple: ('be', 'you/(Monica Geller)', 'a kook', 's01_e06_c04_u021')
+  tuple: ('wait', 'you/(Monica Geller)', None, 's01_e06_c04_u021')
+  tuple: ('wait', 'you/(Monica Geller)', 'until they send you a notice', 's01_e06_c04_u021')
+  tuple: ('send', 'they/(phone company)', 'you a notice', 's01_e06_c04_u021')
+
+event_id: s01_e06_c04_u022_e1
+utterance_id: s01_e06_c04_u022
+  tuple: ('do', 'I/(Monica Geller)', 'that', 's01_e06_c04_u022')
+
+event_id: s01_e06_c04_u023_e1
+utterance_id: s01_e06_c04_u023
+  tuple: ('let', 'you/(Monica Geller)', 'me go grocery shopping', 's01_e06_c04_u023')
+  tuple: ('go', 'me/(Rachel Green)', 'grocery shopping', 's01_e06_c04_u023')
+  tuple: ('buy', 'I/(Rachel Green)', 'laundry detergent', 's01_e06_c04_u023')
+  tuple: ('be', 'it/(laundry detergent)', 'the one with the easy-pour spout', 's01_e06_c04_u023')
+
+event_id: s01_e06_c04_u024_e1
+utterance_id: s01_e06_c04_u024
+  tuple: ('do', 'someone', 'that', 's01_e06_c04_u024')
+  tuple: ('wonder', 'one', None, 's01_e06_c04_u024')
+
+event_id: s01_e06_c04_u025_e1
+utterance_id: s01_e06_c04_u025
+  tuple: ('leave', 'someone', 'a glass', 's01_e06_c04_u025')
+  tuple: ('leave', 'someone', 'on the coffee table', 's01_e06_c04_u025')
+  tuple: ('be', 'there', 'no coaster', 's01_e06_c04_u025')
+  tuple: ('be', 'it/(drink)', 'a cold drink', 's01_e06_c04_u025')
+  tuple: ('be', 'it/(day)', 'a hot day', 's01_e06_c04_u025')
+  tuple: ('inch', 'little beads of condensation', 'their way', 's01_e06_c04_u025')
+  tuple: ('inch', 'little beads of condensation', 'to the surface of the wood', 's01_e06_c04_u025')
+
+event_id: s01_e06_c04_u026_e1
+utterance_id: s01_e06_c04_u026
+  tuple: ('stop', 'you/(ALL)', 'it', 's01_e06_c04_u026')
+  tuple: ('be', 'it/(accusation)', 'true', 's01_e06_c04_u026')
+  tuple: ('be', 'I/(Monica Geller)', 'who', 's01_e06_c04_u026')
+
+event_id: s01_e06_c04_u027_e1
+utterance_id: s01_e06_c04_u027
+  tuple: ('be', 'you/(Monica Geller)', 'Mom', 's01_e06_c04_u027')
+
+event_id: s01_e06_c04_u031_e1
+utterance_id: s01_e06_c04_u031
+  tuple: ('be', 'I/(Joey Tribbiani)', 'there', 's01_e06_c04_u031')
+  tuple: ('be', 'that/(phone call)', 'my agent', 's01_e06_c04_u031')
+  tuple: ('get', 'my agent', 'me a job', 's01_e06_c04_u031')
+  tuple: ('get', 'my agent', 'in the new Al Pacino movie', 's01_e06_c04_u031')
+
+event_id: s01_e06_c04_u033_e1
+utterance_id: s01_e06_c04_u033
+  tuple: ('be', 'what/(unknown)', 'the part', 's01_e06_c04_u033')
+
+event_id: s01_e06_c04_u034_e1
+utterance_id: s01_e06_c04_u034
+  tuple: ('believe', 'you/(ALL)', 'this', 's01_e06_c04_u034')
+  tuple: ('be', 'This guy', 'the reason I became an actor', 's01_e06_c04_u034')
+  tuple: ('become', 'I/(Joey Tribbiani)', 'an actor', 's01_e06_c04_u034')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'out of order', 's01_e06_c04_u034')
+  tuple: ('be', 'you/(unknown)', 'out of order', 's01_e06_c04_u034')
+  tuple: ('be', 'This whole courtroom', 'out of order', 's01_e06_c04_u034')
+
+event_id: s01_e06_c04_u036_e1
+utterance_id: s01_e06_c04_u036
+  tuple: ('think', 'I/(Joey Tribbiani)', 'I was out', 's01_e06_c04_u036')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'out', 's01_e06_c04_u036')
+  tuple: ('pull', 'they/(unknown)', 'me', 's01_e06_c04_u036')
+  tuple: ('pull', 'they/(unknown)', 'back in me', 's01_e06_c04_u036')
+
+event_id: s01_e06_c04_u038_e1
+utterance_id: s01_e06_c04_u038
+  tuple: ('be', 'I/(Joey Tribbiani)', 'his', 's01_e06_c04_u038')
+
+event_id: s01_e06_c04_u039_e1
+utterance_id: s01_e06_c04_u039
+  tuple: ('be', 'you/(Joey Tribbiani)', 'what', 's01_e06_c04_u039')
+
+event_id: s01_e06_c04_u040_e1
+utterance_id: s01_e06_c04_u040
+  tuple: ('be', 'I/(Joey Tribbiani)', 'his butt double', 's01_e06_c04_u040')
+  tuple: ('play', 'I/(Joey Tribbiani)', "Al Pacino's butt", 's01_e06_c04_u040')
+  tuple: ('go', 'he/(Al Pacino)', None, 's01_e06_c04_u040')
+  tuple: ('go', 'he/(Al Pacino)', 'into the shower', 's01_e06_c04_u040')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'his butt', 's01_e06_c04_u040')
+
+event_id: s01_e06_c04_u042_e1
+utterance_id: s01_e06_c04_u042
+  tuple: ('be', 'this/(job)', 'a real movie', 's01_e06_c04_u042')
+  tuple: ('be', 'Al Pacino', 'in it', 's01_e06_c04_u042')
+  tuple: ('be', 'that/(fact)', 'big', 's01_e06_c04_u042')
+
+event_id: s01_e06_c04_u043_e1
+utterance_id: s01_e06_c04_u043
+  tuple: ('be', 'it/(job)', 'terrific', 's01_e06_c04_u043')
+  tuple: ('deserve', 'you/(Joey Tribbiani)', 'this', 's01_e06_c04_u043')
+  tuple: ('crack', 'you/(Joey Tribbiani)', 'your way', 's01_e06_c04_u043')
+  tuple: ('crack', 'you/(Joey Tribbiani)', 'into showbusiness', 's01_e06_c04_u043')
+
+event_id: s01_e06_c04_u044_e1
+utterance_id: s01_e06_c04_u044
+  tuple: ('make', 'you/(ALL)', 'jokes', 's01_e06_c04_u044')
+  tuple: ('care', 'I/(Joey Tribbiani)', None, 's01_e06_c04_u044')
+  tuple: ('be', 'this/(job)', 'a big break', 's01_e06_c04_u044')
+  tuple: ('be', 'this/(job)', 'for me', 's01_e06_c04_u044')
+
+event_id: s01_e06_c04_u045_e1
+utterance_id: s01_e06_c04_u045
+  tuple: ('be', 'you/(Joey Tribbiani)', 'right', 's01_e06_c04_u045')
+  tuple: ('be', 'it/(opportunity)', None, 's01_e06_c04_u045')
+  tuple: ('invite', 'you/(Joey Tribbiani)', 'us all', 's01_e06_c04_u045')
+  tuple: ('invite', 'you/(Joey Tribbiani)', 'to the big opening', 's01_e06_c04_u045')
+

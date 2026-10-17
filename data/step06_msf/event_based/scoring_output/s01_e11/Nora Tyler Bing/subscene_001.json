@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She openly volunteers intimate, embarrassing details on a TV interview (says she has been intimate with a man and craves Kung Pow Chicken afterward) and chats about her book tour/travel plans—outgoing and talkative."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She didn’t inform her son she’d be visiting New York; he discovers it during the interview, which is inconsiderate/unreliable despite her saying she loves him."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She is leaving for New York tomorrow yet hadn’t told her son, who learns via TV—careless communication/poor planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Although she calls the disclosure “kind of embarrassing,” she proceeds to share it calmly on air, showing confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She freely discusses a taboo, quirky personal experience (post-intimacy food craving) in public, indicating curiosity/willingness to explore and share unusual experiences."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_id": "s01_e07_c07_u002_e1",
+      "description": "Chandler Bing says the caller is Chandler Bing."
+    },
+    {
+      "event_id": "s01_e07_c07_u003_e1",
+      "description": "Monica Geller says the caller is Chandler Bing and asks whether Chandler Bing is OK."
+    },
+    {
+      "event_id": "s01_e07_c07_u004_e1",
+      "description": "Chandler Bing says Chandler Bing is fine."
+    },
+    {
+      "event_id": "s01_e07_c07_u011_e1",
+      "description": "Joey Tribbiani says Chandler Bing is trapped in an ATM vestibule with Jill Goodacre."
+    },
+    {
+      "event_id": "s01_e07_c07_u011_e2",
+      "description": "Joey Tribbiani tells Chandler Bing to listen."
+    },
+    {
+      "event_id": "s01_e07_c07_u007_e1",
+      "description": "Monica Geller says Monica Geller has no idea what Chandler Bing just said."
+    },
+    {
+      "event_id": "s01_e07_c07_u007_e2",
+      "description": "Monica Geller says Chandler Bing just said something that Monica Geller could not understand."
+    },
+    {
+      "event_id": "s01_e07_c07_u008_e1",
+      "description": "Chandler Bing tells Monica Geller to put Joey Tribbiani on the phone."
+    },
+    {
+      "event_id": "s01_e07_c07_u009_e1",
+      "description": "Joey Tribbiani asks Chandler Bing what is happening."
+    },
+    {
+      "event_id": "s01_e07_c07_u012_e1",
+      "description": "Chandler Bing says the thought that Chandler Bing is trapped in an ATM vestibule with Jill Goodacre entered Chandler Bing's mind."
+    }
+  ]
+}

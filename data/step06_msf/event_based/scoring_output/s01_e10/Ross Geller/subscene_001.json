@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates group interaction: says he would like everyone to meet Marcel (u001) and asks several of them to say hi to Marcel (u005)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses friendly, inclusive requests—wants others to greet Marcel (u005)—and introduces the animal without hostility, showing warmth and straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors indicating organization/efficiency or sloppiness/carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks matter-of-factly and continues the introduction even after being told to wait and after a refusal to say hi (u004–u006), showing calm and confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortably introduces an unusual situation—an animal named Marcel—and mentions it was rescued from a laboratory (u008), suggesting openness to novel experiences."
+  }
+}

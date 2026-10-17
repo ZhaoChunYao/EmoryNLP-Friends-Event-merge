@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a brief congratulation and a directive (“Alrighty, next?”); limited talkativeness, no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers warm praise (“Good for you”) and politely apologizes for misunderstanding."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Efficiently manages turn-taking (“Alrighty, next?”) and seeks clarification to avoid error (“sorry, I didn’t understand who [X] is”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly directs the interaction and asks for clarification without showing anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Request for clarification reflects comprehension rather than curiosity or rigidity; no clear sign of openness or dogmatism."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is hosting/greeting guests at the party and actively managing who comes in, while checking on a guest’s well-being and another’s whereabouts."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She refuses Speaker_04 entry, is described as calling them “that thing,” and tells Speaker_03 to keep Speaker_04 away—unwelcoming and insulting behavior, despite briefly checking if Speaker_05 is okay."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She enforces clear house rules after a prior incident (urinating on the coffee table) and monitors guests’ status (asking if someone is okay and where another is)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She asserts boundaries decisively and shows no anxiety or emotional volatility while handling party issues."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity, nor strong dogmatism—her refusal appears as reasonable boundary-setting rather than closed-mindedness."
+  }
+}

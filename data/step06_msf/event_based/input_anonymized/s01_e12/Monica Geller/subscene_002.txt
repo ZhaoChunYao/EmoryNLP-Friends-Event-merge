@@ -1,0 +1,34 @@
+Episode: s01_e12
+Scene: s01_e12_c07
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e12_c07_u001 → s01_e12_c07_u010
+Peak window: 0 → 3
+
+Dialogue:
+  [s01_e12_c07_u001]
+  1. Speaker_01 says Speaker_02 currently does not want to know the sex of Speaker_03's baby.
+  2. Speaker_01 says Speaker_01 cannot stand not knowing the sex of Speaker_03's baby.
+  3. Speaker_01 says the doctor currently knows the sex of Speaker_03's baby.
+  4. Speaker_01 says Speaker_03 currently knows the sex of Speaker_03's baby.
+  5. Speaker_01 says Speaker_04 currently knows the sex of Speaker_03's baby.
+  [s01_e12_c07_u002]
+  1. TargetSpeaker says TargetSpeaker currently knows the sex of Speaker_03's baby.
+  [s01_e12_c07_u003]
+  1. Speaker_02 says TargetSpeaker currently knows the sex of Speaker_03's baby.
+  2. Speaker_02 says Speaker_02 currently does not know the sex of Speaker_03's baby.
+  [s01_e12_c07_u004]
+  1. TargetSpeaker says Speaker_03 called TargetSpeaker.
+  2. TargetSpeaker says Speaker_03 thanked TargetSpeaker for the lasagna.
+  3. TargetSpeaker says TargetSpeaker asked Speaker_03 about the sex of Speaker_03's baby.
+  4. TargetSpeaker says Speaker_03 told TargetSpeaker the sex of Speaker_03's baby.
+  [s01_e12_c07_u005]
+  1. Speaker_05 asks what the baby is going to be (a boy or a girl).
+  [s01_e12_c07_u006]
+  1. Speaker_02 says Speaker_05 currently knows the sex of Speaker_03's baby.
+  [s01_e12_c07_u007]
+  1. TargetSpeaker says TargetSpeaker is currently sorry.
+  2. TargetSpeaker says TargetSpeaker is currently excited about being an aunt to Speaker_03's baby.
+  [s01_e12_c07_u008] Speaker_05: Or an uncle...
+  [s01_e12_c07_u009] Unknown Speaker: 
+  [s01_e12_c07_u010] Speaker_06, Speaker_05, Speaker_02: Hey Phoebe!

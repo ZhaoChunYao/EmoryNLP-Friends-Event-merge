@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives bold, attention-seeking announcements (e.g., tells everyone to fasten seatbelts, openly declares it’s time to pee) and drives the interaction."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows disregard for others’ boundaries by intending to see Speaker_03’s private parts and attempting to intrude on someone in the shower."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Acts impulsively and carelessly about bathroom use (announces needing to pee and plans to barge in on an occupied shower), showing little planning or consideration."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confident, unbothered behavior—issuing commands and making jokes without signs of anxiety even when questioned."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or intellectual openness; behavior appears more impulsive than exploratory or imaginative."
+  }
+}

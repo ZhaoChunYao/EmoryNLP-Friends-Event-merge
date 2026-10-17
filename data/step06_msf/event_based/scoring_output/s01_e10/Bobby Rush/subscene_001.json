@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Arrives at a party and gives a brief update (“I’m late… I’m here at the party”) but shows no clear outgoing, energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Openly and directly states being late and shares sensitive personal information (grandfather died, can’t get a flight until tomorrow), showing straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "They are late, but due to an unforeseen family death and flight timing; this neither clearly indicates carelessness nor strong organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Talks about the death and the open-casket funeral calmly and matter-of-factly, with no expressed anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are factual and logistical; no clear display of curiosity, creativity, or unconventional thinking beyond reporting funeral details."
+  }
+}

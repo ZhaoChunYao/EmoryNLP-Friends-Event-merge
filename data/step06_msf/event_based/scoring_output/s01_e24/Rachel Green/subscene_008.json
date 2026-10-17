@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Pushes through a crowd asking to be excused, approaches the gate agent, tries to go onto the jetway to talk to someone, and makes multiple requests openly."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses polite, cooperative language (asks the crowd to excuse/pardon, greets with “Hi,” and respectfully asks the agent to deliver a message)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Arrives without a boarding pass and still tries to access the jetway; insists the message is very important but then admits not knowing what to say—showing poor planning and disorganization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows urgency and fluster (insists the message is very important yet can’t articulate it, and pressures to bypass rules), indicating anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Attempts unconventional workarounds (asking the agent to relay a message and trying to reach someone on the jetway), showing low caution and improvisation."
+  }
+}

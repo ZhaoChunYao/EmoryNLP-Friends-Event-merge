@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only says \"Thanks\" and reports a phone call; no clear outgoing or highly talkative behavior is shown."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says he is identifying himself as Speaker_03 to the Visa card people, which is deceptive and untrustworthy."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Impersonating Speaker_03 on a call with the Visa card company shows careless, rule-breaking behavior despite notifying others of the call."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He promptly takes the call and presents himself as someone else without showing worry, suggesting confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/creativity or of being dogmatic/cautious appear in the brief actions."
+  }
+}

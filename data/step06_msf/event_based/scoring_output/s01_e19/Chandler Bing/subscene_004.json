@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up to others, asserts “you’re very hot and need our help,” and actively joins the search calling out “Speaker_04?!”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and offers help to overheated people (“you’re very hot… need our help”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Sets a rule to manage the situation and partner’s behavior (“you do not get to talk to other people from now on”), indicating control and task focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Acts decisively and confidently (asserts help needed, restricts partner’s talking) without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or inventive ideas; statements focus on immediate practical help and control."
+  }
+}

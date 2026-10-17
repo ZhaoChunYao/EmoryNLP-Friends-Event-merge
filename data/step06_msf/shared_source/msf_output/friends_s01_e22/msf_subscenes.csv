@@ -1,0 +1,701 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e22,s01_e22_c01,Chandler Bing,0,3,7,2,8,2,s01_e22_c01_u003,s01_e22_c01_u013,"[s01_e22_c01_u003] Phoebe Buffay: Tell him, tell him.
+[s01_e22_c01_u004] Monica Geller: Just...please tell him.
+[s01_e22_c01_u005] Rachel Green: Shut up!
+[s01_e22_c01_u006] Chandler Bing: Tell me what?
+[s01_e22_c01_u007] Monica Geller: Look at you, you won't even look at him.
+[s01_e22_c01_u008] Chandler Bing: Oh, come on tell me. I could use another reason why women won't look at me.
+[s01_e22_c01_u009] Rachel Green: All right, all right, all right. Last night, I had a dream that, uh, you and I, were...
+[s01_e22_c01_u010] Phoebe Buffay: Doing it on this table.
+[s01_e22_c01_u011] Chandler Bing: Wow!
+[s01_e22_c01_u012] Joey Tribbiani: Exellent dream score.
+[s01_e22_c01_u013] Ross Geller: Why, why, why would you dream that?"
+s01_e22,s01_e22_c01,Chandler Bing,1,9,16,8,16,2,s01_e22_c01_u009,s01_e22_c01_u022,"[s01_e22_c01_u009] Rachel Green: All right, all right, all right. Last night, I had a dream that, uh, you and I, were...
+[s01_e22_c01_u010] Phoebe Buffay: Doing it on this table.
+[s01_e22_c01_u011] Chandler Bing: Wow!
+[s01_e22_c01_u012] Joey Tribbiani: Exellent dream score.
+[s01_e22_c01_u013] Ross Geller: Why, why, why would you dream that?
+[s01_e22_c01_u014] Chandler Bing: More importantly, was I any good?
+[s01_e22_c01_u015] Rachel Green: Well, you were pretty damn good.
+[s01_e22_c01_u016] Chandler Bing: Interesting, cause in my dreams, I'm allways surprisingly inadequate.
+[s01_e22_c01_u017] Rachel Green: Well, last night you seemed to know your way around the table.
+[s01_e22_c01_u018] Ross Geller: I love it, when we share.
+[s01_e22_c01_u019] Unknown Speaker: 
+[s01_e22_c01_u020] Chandler Bing: You're okay there?
+[s01_e22_c01_u021] Ross Geller: I can't belive you two had sex in her dream.
+[s01_e22_c01_u022] Chandler Bing: I'm sorry, it was a one-time-thing. I was very drunk and i was somebody else's subconscious."
+s01_e22,s01_e22_c01,Monica Geller,0,0,0,0,1,2,s01_e22_c01_u001,s01_e22_c01_u006,"[s01_e22_c01_u001] Monica Geller: Tell him.
+[s01_e22_c01_u002] Rachel Green: No.
+[s01_e22_c01_u003] Phoebe Buffay: Tell him, tell him.
+[s01_e22_c01_u004] Monica Geller: Just...please tell him.
+[s01_e22_c01_u005] Rachel Green: Shut up!
+[s01_e22_c01_u006] Chandler Bing: Tell me what?"
+s01_e22,s01_e22_c01,Monica Geller,1,2,3,1,4,2,s01_e22_c01_u002,s01_e22_c01_u009,"[s01_e22_c01_u002] Rachel Green: No.
+[s01_e22_c01_u003] Phoebe Buffay: Tell him, tell him.
+[s01_e22_c01_u004] Monica Geller: Just...please tell him.
+[s01_e22_c01_u005] Rachel Green: Shut up!
+[s01_e22_c01_u006] Chandler Bing: Tell me what?
+[s01_e22_c01_u007] Monica Geller: Look at you, you won't even look at him.
+[s01_e22_c01_u008] Chandler Bing: Oh, come on tell me. I could use another reason why women won't look at me.
+[s01_e22_c01_u009] Rachel Green: All right, all right, all right. Last night, I had a dream that, uh, you and I, were..."
+s01_e22,s01_e22_c01,Rachel Green,0,0,1,0,2,2,s01_e22_c01_u001,s01_e22_c01_u007,"[s01_e22_c01_u001] Monica Geller: Tell him.
+[s01_e22_c01_u002] Rachel Green: No.
+[s01_e22_c01_u003] Phoebe Buffay: Tell him, tell him.
+[s01_e22_c01_u004] Monica Geller: Just...please tell him.
+[s01_e22_c01_u005] Rachel Green: Shut up!
+[s01_e22_c01_u006] Chandler Bing: Tell me what?
+[s01_e22_c01_u007] Monica Geller: Look at you, you won't even look at him."
+s01_e22,s01_e22_c01,Rachel Green,1,4,4,3,5,2,s01_e22_c01_u004,s01_e22_c01_u010,"[s01_e22_c01_u004] Monica Geller: Just...please tell him.
+[s01_e22_c01_u005] Rachel Green: Shut up!
+[s01_e22_c01_u006] Chandler Bing: Tell me what?
+[s01_e22_c01_u007] Monica Geller: Look at you, you won't even look at him.
+[s01_e22_c01_u008] Chandler Bing: Oh, come on tell me. I could use another reason why women won't look at me.
+[s01_e22_c01_u009] Rachel Green: All right, all right, all right. Last night, I had a dream that, uh, you and I, were...
+[s01_e22_c01_u010] Phoebe Buffay: Doing it on this table."
+s01_e22,s01_e22_c01,Rachel Green,2,12,14,11,15,2,s01_e22_c01_u012,s01_e22_c01_u021,"[s01_e22_c01_u012] Joey Tribbiani: Exellent dream score.
+[s01_e22_c01_u013] Ross Geller: Why, why, why would you dream that?
+[s01_e22_c01_u014] Chandler Bing: More importantly, was I any good?
+[s01_e22_c01_u015] Rachel Green: Well, you were pretty damn good.
+[s01_e22_c01_u016] Chandler Bing: Interesting, cause in my dreams, I'm allways surprisingly inadequate.
+[s01_e22_c01_u017] Rachel Green: Well, last night you seemed to know your way around the table.
+[s01_e22_c01_u018] Ross Geller: I love it, when we share.
+[s01_e22_c01_u019] Unknown Speaker: 
+[s01_e22_c01_u020] Chandler Bing: You're okay there?
+[s01_e22_c01_u021] Ross Geller: I can't belive you two had sex in her dream."
+s01_e22,s01_e22_c01,Ross Geller,0,15,16,14,16,2,s01_e22_c01_u015,s01_e22_c01_u022,"[s01_e22_c01_u015] Rachel Green: Well, you were pretty damn good.
+[s01_e22_c01_u016] Chandler Bing: Interesting, cause in my dreams, I'm allways surprisingly inadequate.
+[s01_e22_c01_u017] Rachel Green: Well, last night you seemed to know your way around the table.
+[s01_e22_c01_u018] Ross Geller: I love it, when we share.
+[s01_e22_c01_u019] Unknown Speaker: 
+[s01_e22_c01_u020] Chandler Bing: You're okay there?
+[s01_e22_c01_u021] Ross Geller: I can't belive you two had sex in her dream.
+[s01_e22_c01_u022] Chandler Bing: I'm sorry, it was a one-time-thing. I was very drunk and i was somebody else's subconscious."
+s01_e22,s01_e22_c02,Chandler Bing,0,5,11,4,12,3,s01_e22_c02_u006,s01_e22_c02_u019,"[s01_e22_c02_u006] Ross Geller: Pheebs, why would you want to operate a drill press?
+[s01_e22_c02_u007] Phoebe Buffay: Just for some short-term-work. You know, until I get back some of my massage clients.
+[s01_e22_c02_u008] Chandler Bing: Pirates again?
+[s01_e22_c02_u009] Phoebe Buffay: No, nothing like that. I was just...such a dummie. I taught this ""massage-yourself-at-home-workshop."" And they are.
+[s01_e22_c02_u010] Joey Tribbiani: Hey, hey, Chan. She could work for you.
+[s01_e22_c02_u011] Chandler Bing: Thanks Joey, that's a good idea.
+[s01_e22_c02_u012] Phoebe Buffay: What... I could, I could do it. What is it?
+[s01_e22_c02_u013] Chandler Bing: Well, my secretary is gonna be out for a couple of weeks. She is having one of her boobs redused. It's a whole big boob story.
+[s01_e22_c02_u014] Phoebe Buffay: I could be a secretary.
+[s01_e22_c02_u015] Chandler Bing: Well, you know Phoebs. I don't know if it's your kinda thing, because it involves a lot of being normal. For a large portion of the day.
+[s01_e22_c02_u016] Phoebe Buffay: I could do that.
+[s01_e22_c02_u017] Unknown Speaker: 
+[s01_e22_c02_u018] Rachel Green: What are you playing with?
+[s01_e22_c02_u019] Ross Geller: Oh, it's my new beeper."
+s01_e22,s01_e22_c02,Chandler Bing,1,25,26,24,27,2,s01_e22_c02_u027,s01_e22_c02_u035,"[s01_e22_c02_u027] Joey Tribbiani: How young is young Ethan? Young?
+[s01_e22_c02_u028] Monica Geller: He's... our age.
+[s01_e22_c02_u029] Chandler Bing: When we were?
+[s01_e22_c02_u030] Monica Geller: Okay, he's a senior in college.
+[s01_e22_c02_u031] Ross Geller: College?
+[s01_e22_c02_u032] Chandler Bing: Whoa! And this manchild has no problem with how old you are?
+[s01_e22_c02_u033] Monica Geller: No, of course not. It's not even an issue. Cause I told him I was 22.
+[s01_e22_c02_u034] #ALL#: What?
+[s01_e22_c02_u035] Monica Geller: Oh, I can't pass for 22?"
+s01_e22,s01_e22_c02,Monica Geller,0,17,30,16,30,3,s01_e22_c02_u019,s01_e22_c02_u038,"[s01_e22_c02_u019] Ross Geller: Oh, it's my new beeper.
+[s01_e22_c02_u020] Joey Tribbiani: What the hell does a paleontologist need a beeper for?
+[s01_e22_c02_u021] Monica Geller: Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'
+[s01_e22_c02_u022] Ross Geller: No, it's for when Carol goes into labor. She can get me wherever I am. I mean, all she has to do is to dial 55-JIMBO.
+[s01_e22_c02_u023] Chandler Bing: A cool phone number, and a possible name for the kid.
+[s01_e22_c02_u024] Monica Geller: All right, I'll see you guys later.
+[s01_e22_c02_u025] Rachel Green: Off to see young Ethan?
+[s01_e22_c02_u026] Monica Geller: Thank you.
+[s01_e22_c02_u027] Joey Tribbiani: How young is young Ethan? Young?
+[s01_e22_c02_u028] Monica Geller: He's... our age.
+[s01_e22_c02_u029] Chandler Bing: When we were?
+[s01_e22_c02_u030] Monica Geller: Okay, he's a senior in college.
+[s01_e22_c02_u031] Ross Geller: College?
+[s01_e22_c02_u032] Chandler Bing: Whoa! And this manchild has no problem with how old you are?
+[s01_e22_c02_u033] Monica Geller: No, of course not. It's not even an issue. Cause I told him I was 22.
+[s01_e22_c02_u034] #ALL#: What?
+[s01_e22_c02_u035] Monica Geller: Oh, I can't pass for 22?
+[s01_e22_c02_u036] Phoebe Buffay: Well, maybe 25-26.
+[s01_e22_c02_u037] Monica Geller: I am 26.
+[s01_e22_c02_u038] Phoebe Buffay: There you go."
+s01_e22,s01_e22_c02,Phoebe Buffay,0,1,12,0,13,3,s01_e22_c02_u001,s01_e22_c02_u020,"[s01_e22_c02_u001] Chandler Bing: Hello Rachel.
+[s01_e22_c02_u002] Rachel Green: Get off.
+[s01_e22_c02_u003] Phoebe Buffay: Uh, uh, gimme. Can you see me operating a drill press?
+[s01_e22_c02_u004] Joey Tribbiani: I don't know. What are you wearing?
+[s01_e22_c02_u005] Unknown Speaker: 
+[s01_e22_c02_u006] Ross Geller: Pheebs, why would you want to operate a drill press?
+[s01_e22_c02_u007] Phoebe Buffay: Just for some short-term-work. You know, until I get back some of my massage clients.
+[s01_e22_c02_u008] Chandler Bing: Pirates again?
+[s01_e22_c02_u009] Phoebe Buffay: No, nothing like that. I was just...such a dummie. I taught this ""massage-yourself-at-home-workshop."" And they are.
+[s01_e22_c02_u010] Joey Tribbiani: Hey, hey, Chan. She could work for you.
+[s01_e22_c02_u011] Chandler Bing: Thanks Joey, that's a good idea.
+[s01_e22_c02_u012] Phoebe Buffay: What... I could, I could do it. What is it?
+[s01_e22_c02_u013] Chandler Bing: Well, my secretary is gonna be out for a couple of weeks. She is having one of her boobs redused. It's a whole big boob story.
+[s01_e22_c02_u014] Phoebe Buffay: I could be a secretary.
+[s01_e22_c02_u015] Chandler Bing: Well, you know Phoebs. I don't know if it's your kinda thing, because it involves a lot of being normal. For a large portion of the day.
+[s01_e22_c02_u016] Phoebe Buffay: I could do that.
+[s01_e22_c02_u017] Unknown Speaker: 
+[s01_e22_c02_u018] Rachel Green: What are you playing with?
+[s01_e22_c02_u019] Ross Geller: Oh, it's my new beeper.
+[s01_e22_c02_u020] Joey Tribbiani: What the hell does a paleontologist need a beeper for?"
+s01_e22,s01_e22_c02,Phoebe Buffay,1,30,30,29,30,2,s01_e22_c02_u032,s01_e22_c02_u038,"[s01_e22_c02_u032] Chandler Bing: Whoa! And this manchild has no problem with how old you are?
+[s01_e22_c02_u033] Monica Geller: No, of course not. It's not even an issue. Cause I told him I was 22.
+[s01_e22_c02_u034] #ALL#: What?
+[s01_e22_c02_u035] Monica Geller: Oh, I can't pass for 22?
+[s01_e22_c02_u036] Phoebe Buffay: Well, maybe 25-26.
+[s01_e22_c02_u037] Monica Geller: I am 26.
+[s01_e22_c02_u038] Phoebe Buffay: There you go."
+s01_e22,s01_e22_c02,Ross Geller,0,15,16,14,17,2,s01_e22_c02_u016,s01_e22_c02_u024,"[s01_e22_c02_u016] Phoebe Buffay: I could do that.
+[s01_e22_c02_u017] Unknown Speaker: 
+[s01_e22_c02_u018] Rachel Green: What are you playing with?
+[s01_e22_c02_u019] Ross Geller: Oh, it's my new beeper.
+[s01_e22_c02_u020] Joey Tribbiani: What the hell does a paleontologist need a beeper for?
+[s01_e22_c02_u021] Monica Geller: Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'
+[s01_e22_c02_u022] Ross Geller: No, it's for when Carol goes into labor. She can get me wherever I am. I mean, all she has to do is to dial 55-JIMBO.
+[s01_e22_c02_u023] Chandler Bing: A cool phone number, and a possible name for the kid.
+[s01_e22_c02_u024] Monica Geller: All right, I'll see you guys later."
+s01_e22,s01_e22_c03,Chandler Bing,0,0,14,0,14,3,s01_e22_c03_u001,s01_e22_c03_u020,"[s01_e22_c03_u001] Chandler Bing: Can you hear that?
+[s01_e22_c03_u002] Phoebe Buffay: Yeah?
+[s01_e22_c03_u003] Chandler Bing: See that'll stop when you pick up the phone.
+[s01_e22_c03_u004] Phoebe Buffay: Oh. Uh, I'm on.
+[s01_e22_c03_u005] Phoebe Buffay: Mr. Bing's office. No I'm sorry, he's in a meeting right now.
+[s01_e22_c03_u006] Chandler Bing: I'm not in a meeting. I'm right... Whoops.
+[s01_e22_c03_u007] Phoebe Buffay: Will he know what this is in reference to? And he has your number? All right, I'll see that he gets the message. Bye bye.
+[s01_e22_c03_u008] Chandler Bing: What?
+[s01_e22_c03_u009] Phoebe Buffay: Ross says hi.
+[s01_e22_c03_u010] Chandler Bing: Ah!
+[s01_e22_c03_u011] Phoebe Buffay: This is so fun. All right, what do we do now?
+[s01_e22_c03_u012] Chandler Bing: Well, now, I actually have to get to work.
+[s01_e22_c03_u013] Phoebe Buffay: Most likely. Okay, I'm gonna be out there.
+[s01_e22_c03_u014] Chandler Bing: Okay.
+[s01_e22_c03_u015] Phoebe Buffay: All right. Bye bye.
+[s01_e22_c03_u016] Chandler Bing: Bye bye.
+[s01_e22_c03_u017] Unknown Speaker: 
+[s01_e22_c03_u018] Chandler Bing: Yes?
+[s01_e22_c03_u019] Phoebe Buffay: Whatcha doin'?
+[s01_e22_c03_u020] Chandler Bing: Ooh."
+s01_e22,s01_e22_c03,Phoebe Buffay,0,0,14,0,14,3,s01_e22_c03_u001,s01_e22_c03_u020,"[s01_e22_c03_u001] Chandler Bing: Can you hear that?
+[s01_e22_c03_u002] Phoebe Buffay: Yeah?
+[s01_e22_c03_u003] Chandler Bing: See that'll stop when you pick up the phone.
+[s01_e22_c03_u004] Phoebe Buffay: Oh. Uh, I'm on.
+[s01_e22_c03_u005] Phoebe Buffay: Mr. Bing's office. No I'm sorry, he's in a meeting right now.
+[s01_e22_c03_u006] Chandler Bing: I'm not in a meeting. I'm right... Whoops.
+[s01_e22_c03_u007] Phoebe Buffay: Will he know what this is in reference to? And he has your number? All right, I'll see that he gets the message. Bye bye.
+[s01_e22_c03_u008] Chandler Bing: What?
+[s01_e22_c03_u009] Phoebe Buffay: Ross says hi.
+[s01_e22_c03_u010] Chandler Bing: Ah!
+[s01_e22_c03_u011] Phoebe Buffay: This is so fun. All right, what do we do now?
+[s01_e22_c03_u012] Chandler Bing: Well, now, I actually have to get to work.
+[s01_e22_c03_u013] Phoebe Buffay: Most likely. Okay, I'm gonna be out there.
+[s01_e22_c03_u014] Chandler Bing: Okay.
+[s01_e22_c03_u015] Phoebe Buffay: All right. Bye bye.
+[s01_e22_c03_u016] Chandler Bing: Bye bye.
+[s01_e22_c03_u017] Unknown Speaker: 
+[s01_e22_c03_u018] Chandler Bing: Yes?
+[s01_e22_c03_u019] Phoebe Buffay: Whatcha doin'?
+[s01_e22_c03_u020] Chandler Bing: Ooh."
+s01_e22,s01_e22_c04,Monica Geller,0,0,3,0,3,3,s01_e22_c04_u001,s01_e22_c04_u008,"[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+[s01_e22_c04_u003] Monica Geller: What?
+[s01_e22_c04_u004] Rachel Green: Could tonight be the Night?
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+[s01_e22_c04_u006] Rachel Green: So, did you shave your legs?
+[s01_e22_c04_u007] Monica Geller: Yeah.
+[s01_e22_c04_u008] Rachel Green: A-ha!"
+s01_e22,s01_e22_c04,Rachel Green,0,0,3,0,3,3,s01_e22_c04_u001,s01_e22_c04_u008,"[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+[s01_e22_c04_u003] Monica Geller: What?
+[s01_e22_c04_u004] Rachel Green: Could tonight be the Night?
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+[s01_e22_c04_u006] Rachel Green: So, did you shave your legs?
+[s01_e22_c04_u007] Monica Geller: Yeah.
+[s01_e22_c04_u008] Rachel Green: A-ha!"
+s01_e22,s01_e22_c05,Chandler Bing,0,6,20,5,21,3,s01_e22_c05_u008,s01_e22_c05_u031,"[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+[s01_e22_c05_u009] Unknown Speaker: 
+[s01_e22_c05_u010] Joey Tribbiani: Hey, hey. How was the first day?
+[s01_e22_c05_u011] Phoebe Buffay: Oh, exellent. Everyone was so, so nice.
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+[s01_e22_c05_u013] Phoebe Buffay: No, I didn't tell anybody that I knew you.
+[s01_e22_c05_u014] Chandler Bing: Why not?
+[s01_e22_c05_u015] Phoebe Buffay: Oh, because, you know... they don't like you.
+[s01_e22_c05_u016] Chandler Bing: What?!
+[s01_e22_c05_u017] Phoebe Buffay: I thought you knew that.
+[s01_e22_c05_u018] Chandler Bing: Noho. Who doesn't they like me?
+[s01_e22_c05_u019] Phoebe Buffay: Everyone. Except for uh... no everyone.
+[s01_e22_c05_u020] Chandler Bing: What are you talking about?
+[s01_e22_c05_u021] Phoebe Buffay: Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like ""Mr. Boss Man"". You know, Mr. Bing. Mr. Bing, ""Boss Man Bing"".
+[s01_e22_c05_u022] Unknown Speaker: 
+[s01_e22_c05_u023] Chandler Bing: I can't belive it.
+[s01_e22_c05_u024] Phoebe Buffay: Yeah, yeah. They even do you.
+[s01_e22_c05_u025] Chandler Bing: They do me?
+[s01_e22_c05_u026] Phoebe Buffay: You know like... uh okay... uh... 'Could that report be any later?'
+[s01_e22_c05_u027] Unknown Speaker: 
+[s01_e22_c05_u028] Chandler Bing: I don't sound like that.
+[s01_e22_c05_u029] Ross Geller: Oh, oh Chandler...
+[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do.
+[s01_e22_c05_u031] Ross Geller: 'The hills were alive with the sound of music.'"
+s01_e22,s01_e22_c05,Chandler Bing,1,25,25,24,25,2,s01_e22_c05_u030,s01_e22_c05_u038,"[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do.
+[s01_e22_c05_u031] Ross Geller: 'The hills were alive with the sound of music.'
+[s01_e22_c05_u032] Unknown Speaker: 
+[s01_e22_c05_u033] Joey Tribbiani: My scones.
+[s01_e22_c05_u034] Joey Tribbiani, Phoebe Buffay, Ross Geller: 'My scones.'
+[s01_e22_c05_u035] Unknown Speaker: 
+[s01_e22_c05_u036] Chandler Bing: Okay, I don't sound like that. That is so not true.
+[s01_e22_c05_u037] Unknown Speaker: 
+[s01_e22_c05_u038] Chandler Bing: That is so not... That is so not... That... Oh, shut up!"
+s01_e22,s01_e22_c05,Joey Tribbiani,0,0,4,0,5,3,s01_e22_c05_u001,s01_e22_c05_u013,"[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+[s01_e22_c05_u002] Unknown Speaker: 
+[s01_e22_c05_u003] Ross Geller: Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.
+[s01_e22_c05_u004] Joey Tribbiani: All right, relax, relax. Just relax, just relax. Be cool, be cool.
+[s01_e22_c05_u005] Unknown Speaker: 
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+[s01_e22_c05_u007] Joey Tribbiani: Services? Oh, services.
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+[s01_e22_c05_u009] Unknown Speaker: 
+[s01_e22_c05_u010] Joey Tribbiani: Hey, hey. How was the first day?
+[s01_e22_c05_u011] Phoebe Buffay: Oh, exellent. Everyone was so, so nice.
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+[s01_e22_c05_u013] Phoebe Buffay: No, I didn't tell anybody that I knew you."
+s01_e22,s01_e22_c05,Joey Tribbiani,1,22,24,21,25,2,s01_e22_c05_u026,s01_e22_c05_u038,"[s01_e22_c05_u026] Phoebe Buffay: You know like... uh okay... uh... 'Could that report be any later?'
+[s01_e22_c05_u027] Unknown Speaker: 
+[s01_e22_c05_u028] Chandler Bing: I don't sound like that.
+[s01_e22_c05_u029] Ross Geller: Oh, oh Chandler...
+[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do.
+[s01_e22_c05_u031] Ross Geller: 'The hills were alive with the sound of music.'
+[s01_e22_c05_u032] Unknown Speaker: 
+[s01_e22_c05_u033] Joey Tribbiani: My scones.
+[s01_e22_c05_u034] Joey Tribbiani, Phoebe Buffay, Ross Geller: 'My scones.'
+[s01_e22_c05_u035] Unknown Speaker: 
+[s01_e22_c05_u036] Chandler Bing: Okay, I don't sound like that. That is so not true.
+[s01_e22_c05_u037] Unknown Speaker: 
+[s01_e22_c05_u038] Chandler Bing: That is so not... That is so not... That... Oh, shut up!"
+s01_e22,s01_e22_c05,Phoebe Buffay,0,5,19,4,20,3,s01_e22_c05_u007,s01_e22_c05_u030,"[s01_e22_c05_u007] Joey Tribbiani: Services? Oh, services.
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+[s01_e22_c05_u009] Unknown Speaker: 
+[s01_e22_c05_u010] Joey Tribbiani: Hey, hey. How was the first day?
+[s01_e22_c05_u011] Phoebe Buffay: Oh, exellent. Everyone was so, so nice.
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+[s01_e22_c05_u013] Phoebe Buffay: No, I didn't tell anybody that I knew you.
+[s01_e22_c05_u014] Chandler Bing: Why not?
+[s01_e22_c05_u015] Phoebe Buffay: Oh, because, you know... they don't like you.
+[s01_e22_c05_u016] Chandler Bing: What?!
+[s01_e22_c05_u017] Phoebe Buffay: I thought you knew that.
+[s01_e22_c05_u018] Chandler Bing: Noho. Who doesn't they like me?
+[s01_e22_c05_u019] Phoebe Buffay: Everyone. Except for uh... no everyone.
+[s01_e22_c05_u020] Chandler Bing: What are you talking about?
+[s01_e22_c05_u021] Phoebe Buffay: Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like ""Mr. Boss Man"". You know, Mr. Bing. Mr. Bing, ""Boss Man Bing"".
+[s01_e22_c05_u022] Unknown Speaker: 
+[s01_e22_c05_u023] Chandler Bing: I can't belive it.
+[s01_e22_c05_u024] Phoebe Buffay: Yeah, yeah. They even do you.
+[s01_e22_c05_u025] Chandler Bing: They do me?
+[s01_e22_c05_u026] Phoebe Buffay: You know like... uh okay... uh... 'Could that report be any later?'
+[s01_e22_c05_u027] Unknown Speaker: 
+[s01_e22_c05_u028] Chandler Bing: I don't sound like that.
+[s01_e22_c05_u029] Ross Geller: Oh, oh Chandler...
+[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do."
+s01_e22,s01_e22_c05,Ross Geller,0,0,3,0,4,3,s01_e22_c05_u001,s01_e22_c05_u012,"[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+[s01_e22_c05_u002] Unknown Speaker: 
+[s01_e22_c05_u003] Ross Geller: Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.
+[s01_e22_c05_u004] Joey Tribbiani: All right, relax, relax. Just relax, just relax. Be cool, be cool.
+[s01_e22_c05_u005] Unknown Speaker: 
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+[s01_e22_c05_u007] Joey Tribbiani: Services? Oh, services.
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+[s01_e22_c05_u009] Unknown Speaker: 
+[s01_e22_c05_u010] Joey Tribbiani: Hey, hey. How was the first day?
+[s01_e22_c05_u011] Phoebe Buffay: Oh, exellent. Everyone was so, so nice.
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me."
+s01_e22,s01_e22_c05,Ross Geller,1,21,23,20,24,2,s01_e22_c05_u025,s01_e22_c05_u036,"[s01_e22_c05_u025] Chandler Bing: They do me?
+[s01_e22_c05_u026] Phoebe Buffay: You know like... uh okay... uh... 'Could that report be any later?'
+[s01_e22_c05_u027] Unknown Speaker: 
+[s01_e22_c05_u028] Chandler Bing: I don't sound like that.
+[s01_e22_c05_u029] Ross Geller: Oh, oh Chandler...
+[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do.
+[s01_e22_c05_u031] Ross Geller: 'The hills were alive with the sound of music.'
+[s01_e22_c05_u032] Unknown Speaker: 
+[s01_e22_c05_u033] Joey Tribbiani: My scones.
+[s01_e22_c05_u034] Joey Tribbiani, Phoebe Buffay, Ross Geller: 'My scones.'
+[s01_e22_c05_u035] Unknown Speaker: 
+[s01_e22_c05_u036] Chandler Bing: Okay, I don't sound like that. That is so not true."
+s01_e22,s01_e22_c06,Ethan,0,0,28,0,28,3,s01_e22_c06_u001,s01_e22_c06_u039,"[s01_e22_c06_u001] Monica Geller: Did not.
+[s01_e22_c06_u002] Ethan: I am telling you, up until I was, like nine, I thought that gunpoint was an actual place where crimes happen.
+[s01_e22_c06_u003] Monica Geller: How was that possible?
+[s01_e22_c06_u004] Ethan: Well, think about it. It's always on the news. 'A man is being held up, at gunpoint.' 'Tourists are being terrorised, at gunpoint.' And I just kept thinking: why does people continue to go there? Oh, ah. I should go.
+[s01_e22_c06_u005] Monica Geller: Okay.
+[s01_e22_c06_u006] Unknown Speaker: 
+[s01_e22_c06_u007] Ethan: Okay.
+[s01_e22_c06_u008] Monica Geller: Unless...
+[s01_e22_c06_u009] Ethan: What?
+[s01_e22_c06_u010] Monica Geller: Uh, ah. Unless you wanna stay over? I mean, I'm going to, so...
+[s01_e22_c06_u011] Ethan: Yeah, I'd really like that.
+[s01_e22_c06_u012] Unknown Speaker: 
+[s01_e22_c06_u013] Ethan: Uuh, before we get into any staying-over-stuff, there is something you should know.
+[s01_e22_c06_u014] Monica Geller: Okay, is this like 'I have an early class tomorrow' or 'I'm secretly married to a goat?'
+[s01_e22_c06_u015] Ethan: Well it's somewhere in between. You see, in a strictly technical sense, of course, I'm not uh..., well I, I mean I haven't ever uh...
+[s01_e22_c06_u016] Monica Geller: Ethan?
+[s01_e22_c06_u017] Ethan: Yeah?
+[s01_e22_c06_u018] Monica Geller: Are you a virgin?
+[s01_e22_c06_u019] Ethan: Well, if that's what you kids are calling it these days then, yes I am. I uh, I've kinda been waiting for the right person.
+[s01_e22_c06_u020] Monica Geller: Really?
+[s01_e22_c06_u021] Ethan: Yeah. You do know I was talking about you, right?
+[s01_e22_c06_u022] Unknown Speaker: 
+[s01_e22_c06_u023] Unknown Speaker: 
+[s01_e22_c06_u024] Ethan: Wow!
+[s01_e22_c06_u025] Monica Geller: You keep saying that.
+[s01_e22_c06_u026] Ethan: You know, you read about it, you see it in the movies. Even when you practice it at home, man oh man, it is nothing like that.
+[s01_e22_c06_u027] Unknown Speaker: 
+[s01_e22_c06_u028] Monica Geller: Listen, uh, you told me something that was really difficult for you. And I, I-I figured if you could be honest, then I can to.
+[s01_e22_c06_u029] Ethan: Oh god, don't tell me, I did it wrong.
+[s01_e22_c06_u030] Monica Geller: No-no. Nothing wrong about that.
+[s01_e22_c06_u031] Ethan: Oh.
+[s01_e22_c06_u032] Monica Geller: Um, okay, here it goes. I'm not 22. I'm, I'm 25... and thirteen months.
+[s01_e22_c06_u033] Ethan: Huh!
+[s01_e22_c06_u034] Monica Geller: But I figured, you know, that shouldn't change anything. I mean, what the hell does it matter how old we are.
+[s01_e22_c06_u035] Unknown Speaker: 
+[s01_e22_c06_u036] Ethan: Uh, listen um, as long as we're telling stuff, uh, I have another one for you. I'm a little younger than I said.
+[s01_e22_c06_u037] Monica Geller: You're not a senior?
+[s01_e22_c06_u038] Ethan: Oh, I'm a senior... in High School.
+[s01_e22_c06_u039] Monica Geller: Ok...ay."
+s01_e22,s01_e22_c06,Monica Geller,0,0,28,0,28,3,s01_e22_c06_u001,s01_e22_c06_u039,"[s01_e22_c06_u001] Monica Geller: Did not.
+[s01_e22_c06_u002] Ethan: I am telling you, up until I was, like nine, I thought that gunpoint was an actual place where crimes happen.
+[s01_e22_c06_u003] Monica Geller: How was that possible?
+[s01_e22_c06_u004] Ethan: Well, think about it. It's always on the news. 'A man is being held up, at gunpoint.' 'Tourists are being terrorised, at gunpoint.' And I just kept thinking: why does people continue to go there? Oh, ah. I should go.
+[s01_e22_c06_u005] Monica Geller: Okay.
+[s01_e22_c06_u006] Unknown Speaker: 
+[s01_e22_c06_u007] Ethan: Okay.
+[s01_e22_c06_u008] Monica Geller: Unless...
+[s01_e22_c06_u009] Ethan: What?
+[s01_e22_c06_u010] Monica Geller: Uh, ah. Unless you wanna stay over? I mean, I'm going to, so...
+[s01_e22_c06_u011] Ethan: Yeah, I'd really like that.
+[s01_e22_c06_u012] Unknown Speaker: 
+[s01_e22_c06_u013] Ethan: Uuh, before we get into any staying-over-stuff, there is something you should know.
+[s01_e22_c06_u014] Monica Geller: Okay, is this like 'I have an early class tomorrow' or 'I'm secretly married to a goat?'
+[s01_e22_c06_u015] Ethan: Well it's somewhere in between. You see, in a strictly technical sense, of course, I'm not uh..., well I, I mean I haven't ever uh...
+[s01_e22_c06_u016] Monica Geller: Ethan?
+[s01_e22_c06_u017] Ethan: Yeah?
+[s01_e22_c06_u018] Monica Geller: Are you a virgin?
+[s01_e22_c06_u019] Ethan: Well, if that's what you kids are calling it these days then, yes I am. I uh, I've kinda been waiting for the right person.
+[s01_e22_c06_u020] Monica Geller: Really?
+[s01_e22_c06_u021] Ethan: Yeah. You do know I was talking about you, right?
+[s01_e22_c06_u022] Unknown Speaker: 
+[s01_e22_c06_u023] Unknown Speaker: 
+[s01_e22_c06_u024] Ethan: Wow!
+[s01_e22_c06_u025] Monica Geller: You keep saying that.
+[s01_e22_c06_u026] Ethan: You know, you read about it, you see it in the movies. Even when you practice it at home, man oh man, it is nothing like that.
+[s01_e22_c06_u027] Unknown Speaker: 
+[s01_e22_c06_u028] Monica Geller: Listen, uh, you told me something that was really difficult for you. And I, I-I figured if you could be honest, then I can to.
+[s01_e22_c06_u029] Ethan: Oh god, don't tell me, I did it wrong.
+[s01_e22_c06_u030] Monica Geller: No-no. Nothing wrong about that.
+[s01_e22_c06_u031] Ethan: Oh.
+[s01_e22_c06_u032] Monica Geller: Um, okay, here it goes. I'm not 22. I'm, I'm 25... and thirteen months.
+[s01_e22_c06_u033] Ethan: Huh!
+[s01_e22_c06_u034] Monica Geller: But I figured, you know, that shouldn't change anything. I mean, what the hell does it matter how old we are.
+[s01_e22_c06_u035] Unknown Speaker: 
+[s01_e22_c06_u036] Ethan: Uh, listen um, as long as we're telling stuff, uh, I have another one for you. I'm a little younger than I said.
+[s01_e22_c06_u037] Monica Geller: You're not a senior?
+[s01_e22_c06_u038] Ethan: Oh, I'm a senior... in High School.
+[s01_e22_c06_u039] Monica Geller: Ok...ay."
+s01_e22,s01_e22_c07,Ethan,0,0,7,0,7,3,s01_e22_c07_u001,s01_e22_c07_u012,"[s01_e22_c07_u001] Monica Geller: What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.
+[s01_e22_c07_u002] Ethan: I just had sex.
+[s01_e22_c07_u003] Monica Geller: Ethan, focus. How could you not tell me?
+[s01_e22_c07_u004] Ethan: Well, you never told me how old you were.
+[s01_e22_c07_u005] Monica Geller: Well, that's different. My lie didn't make one of us a felon in 48 states. What were you thinking?
+[s01_e22_c07_u006] Ethan: I wasn't thinking. I was too busy fallin'...
+[s01_e22_c07_u007] Monica Geller: Don't say it.
+[s01_e22_c07_u008] Ethan: ...in love with you.
+[s01_e22_c07_u009] Monica Geller: Really?
+[s01_e22_c07_u010] Ethan: Sorry.
+[s01_e22_c07_u011] Monica Geller: Well,fall out of it. You know, you shouldn't even be here, it's a school night. Oh god, oh god. I'm like those women that you see with shiny guys named Chad. I'm Joan Collins.
+[s01_e22_c07_u012] Ethan: Who?"
+s01_e22,s01_e22_c07,Monica Geller,0,0,7,0,7,3,s01_e22_c07_u001,s01_e22_c07_u012,"[s01_e22_c07_u001] Monica Geller: What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.
+[s01_e22_c07_u002] Ethan: I just had sex.
+[s01_e22_c07_u003] Monica Geller: Ethan, focus. How could you not tell me?
+[s01_e22_c07_u004] Ethan: Well, you never told me how old you were.
+[s01_e22_c07_u005] Monica Geller: Well, that's different. My lie didn't make one of us a felon in 48 states. What were you thinking?
+[s01_e22_c07_u006] Ethan: I wasn't thinking. I was too busy fallin'...
+[s01_e22_c07_u007] Monica Geller: Don't say it.
+[s01_e22_c07_u008] Ethan: ...in love with you.
+[s01_e22_c07_u009] Monica Geller: Really?
+[s01_e22_c07_u010] Ethan: Sorry.
+[s01_e22_c07_u011] Monica Geller: Well,fall out of it. You know, you shouldn't even be here, it's a school night. Oh god, oh god. I'm like those women that you see with shiny guys named Chad. I'm Joan Collins.
+[s01_e22_c07_u012] Ethan: Who?"
+s01_e22,s01_e22_c08,Chandler Bing,0,0,1,0,2,2,s01_e22_c08_u001,s01_e22_c08_u007,"[s01_e22_c08_u001] Ross Geller: Okay, Andr should be there in like 45 minutes. All rightie, bye bye. Just easier that way.
+[s01_e22_c08_u002] Chandler Bing: Oh, come on. You told me about the last dream.
+[s01_e22_c08_u003] Rachel Green: No, forget it.
+[s01_e22_c08_u004] Chandler Bing: Oh, why not. Was I doing anything particularly... saucy?
+[s01_e22_c08_u005] Rachel Green: All right, fine. Um, you were not the only one there. Joey was there too.
+[s01_e22_c08_u006] Joey Tribbiani: All right.
+[s01_e22_c08_u007] Ross Geller: Was there...uh, huh, huh, huh... andybody, anybody else there."
+s01_e22,s01_e22_c08,Chandler Bing,1,31,31,30,32,2,s01_e22_c08_u037,s01_e22_c08_u044,"[s01_e22_c08_u037] Joey Tribbiani: Stegosaurus!
+[s01_e22_c08_u038] Chandler Bing: Tyrannosaurus!
+[s01_e22_c08_u039] Unknown Speaker: 
+[s01_e22_c08_u040] Phoebe Buffay: Ooh, oh, I've gotta go. Whoa, oh, head rush. One more, and then I have to go. Cool!
+[s01_e22_c08_u041] Rachel Green: Where are you going?
+[s01_e22_c08_u042] Phoebe Buffay: Um, oh, I've got a birthday party, with some work people.
+[s01_e22_c08_u043] Chandler Bing: Work people? Nobody told me.
+[s01_e22_c08_u044] Phoebe Buffay: No, I know. That's a part of the whole, you know, them-not-liking-you-extravaganza."
+s01_e22,s01_e22_c08,Chandler Bing,2,33,40,32,40,3,s01_e22_c08_u040,s01_e22_c08_u052,"[s01_e22_c08_u040] Phoebe Buffay: Ooh, oh, I've gotta go. Whoa, oh, head rush. One more, and then I have to go. Cool!
+[s01_e22_c08_u041] Rachel Green: Where are you going?
+[s01_e22_c08_u042] Phoebe Buffay: Um, oh, I've got a birthday party, with some work people.
+[s01_e22_c08_u043] Chandler Bing: Work people? Nobody told me.
+[s01_e22_c08_u044] Phoebe Buffay: No, I know. That's a part of the whole, you know, them-not-liking-you-extravaganza.
+[s01_e22_c08_u045] Chandler Bing: You know, I don't get this. A month ago, these people were my friends. You know, just because I'm in charge doesn't mean I'm a different person.
+[s01_e22_c08_u046] Phoebe Buffay: Well, then you should come tonight. You know, just hang out with them. Let them see what a great guy you still are.
+[s01_e22_c08_u047] Chandler Bing: You think I should?
+[s01_e22_c08_u048] Phoebe Buffay: I really do, yeah.
+[s01_e22_c08_u049] Chandler Bing: Okay.
+[s01_e22_c08_u050] Phoebe Buffay: Okay.
+[s01_e22_c08_u051] Chandler Bing: Okay.
+[s01_e22_c08_u052] Phoebe Buffay: Oh, but, could we not go together? I,I don't wanna be the geek that invited the boss."
+s01_e22,s01_e22_c08,Joey Tribbiani,0,9,11,8,12,2,s01_e22_c08_u009,s01_e22_c08_u019,"[s01_e22_c08_u009] Ross Geller: You're sure? Nobody uh, handed out uh, mints or anything?
+[s01_e22_c08_u010] Rachel Green: No, it was just the three of us.
+[s01_e22_c08_u011] Ross Geller: Huh!
+[s01_e22_c08_u012] Joey Tribbiani: So, tell me. Was it like you and Chandler, and then you and me, or you and me and Chandler?
+[s01_e22_c08_u013] Rachel Green: You know what?
+[s01_e22_c08_u014] Joey Tribbiani: What?
+[s01_e22_c08_u015] Rachel Green: There were times when it wasn't even me.
+[s01_e22_c08_u016] Unknown Speaker: 
+[s01_e22_c08_u017] Phoebe Buffay: That is so sweet, you guys.
+[s01_e22_c08_u018] Unknown Speaker: 
+[s01_e22_c08_u019] Phoebe Buffay, Rachel Green, Ross Geller: Hey, Mon."
+s01_e22,s01_e22_c08,Monica Geller,0,16,20,15,21,3,s01_e22_c08_u017,s01_e22_c08_u031,"[s01_e22_c08_u017] Phoebe Buffay: That is so sweet, you guys.
+[s01_e22_c08_u018] Unknown Speaker: 
+[s01_e22_c08_u019] Phoebe Buffay, Rachel Green, Ross Geller: Hey, Mon.
+[s01_e22_c08_u020] Rachel Green: Mon, Ethan called again. Mon?
+[s01_e22_c08_u021] #ALL#: Mon!
+[s01_e22_c08_u022] Unknown Speaker: 
+[s01_e22_c08_u023] Monica Geller: What?
+[s01_e22_c08_u024] Rachel Green: Ethan called again.
+[s01_e22_c08_u025] Monica Geller: Oh.
+[s01_e22_c08_u026] Ross Geller: Are you not seeing him anymore?
+[s01_e22_c08_u027] Monica Geller: No. You know, sometimes just things doesn't work out.
+[s01_e22_c08_u028] Chandler Bing: And this has nothing to do with the fact that he needs a note to get out of gym.
+[s01_e22_c08_u029] Unknown Speaker: 
+[s01_e22_c08_u030] Rachel Green: I, I didn't say any... I sw... I did not say anything, I swear. He stopped by.
+[s01_e22_c08_u031] Joey Tribbiani: Listen, the next time you talk to him, can you ask him which one the strongest Power Ranger is?"
+s01_e22,s01_e22_c08,Phoebe Buffay,0,30,40,29,40,3,s01_e22_c08_u036,s01_e22_c08_u052,"[s01_e22_c08_u036] Ross Geller: It's morphin time!
+[s01_e22_c08_u037] Joey Tribbiani: Stegosaurus!
+[s01_e22_c08_u038] Chandler Bing: Tyrannosaurus!
+[s01_e22_c08_u039] Unknown Speaker: 
+[s01_e22_c08_u040] Phoebe Buffay: Ooh, oh, I've gotta go. Whoa, oh, head rush. One more, and then I have to go. Cool!
+[s01_e22_c08_u041] Rachel Green: Where are you going?
+[s01_e22_c08_u042] Phoebe Buffay: Um, oh, I've got a birthday party, with some work people.
+[s01_e22_c08_u043] Chandler Bing: Work people? Nobody told me.
+[s01_e22_c08_u044] Phoebe Buffay: No, I know. That's a part of the whole, you know, them-not-liking-you-extravaganza.
+[s01_e22_c08_u045] Chandler Bing: You know, I don't get this. A month ago, these people were my friends. You know, just because I'm in charge doesn't mean I'm a different person.
+[s01_e22_c08_u046] Phoebe Buffay: Well, then you should come tonight. You know, just hang out with them. Let them see what a great guy you still are.
+[s01_e22_c08_u047] Chandler Bing: You think I should?
+[s01_e22_c08_u048] Phoebe Buffay: I really do, yeah.
+[s01_e22_c08_u049] Chandler Bing: Okay.
+[s01_e22_c08_u050] Phoebe Buffay: Okay.
+[s01_e22_c08_u051] Chandler Bing: Okay.
+[s01_e22_c08_u052] Phoebe Buffay: Oh, but, could we not go together? I,I don't wanna be the geek that invited the boss."
+s01_e22,s01_e22_c08,Rachel Green,0,0,17,0,18,2,s01_e22_c08_u001,s01_e22_c08_u027,"[s01_e22_c08_u001] Ross Geller: Okay, Andr should be there in like 45 minutes. All rightie, bye bye. Just easier that way.
+[s01_e22_c08_u002] Chandler Bing: Oh, come on. You told me about the last dream.
+[s01_e22_c08_u003] Rachel Green: No, forget it.
+[s01_e22_c08_u004] Chandler Bing: Oh, why not. Was I doing anything particularly... saucy?
+[s01_e22_c08_u005] Rachel Green: All right, fine. Um, you were not the only one there. Joey was there too.
+[s01_e22_c08_u006] Joey Tribbiani: All right.
+[s01_e22_c08_u007] Ross Geller: Was there...uh, huh, huh, huh... andybody, anybody else there.
+[s01_e22_c08_u008] Rachel Green: No.
+[s01_e22_c08_u009] Ross Geller: You're sure? Nobody uh, handed out uh, mints or anything?
+[s01_e22_c08_u010] Rachel Green: No, it was just the three of us.
+[s01_e22_c08_u011] Ross Geller: Huh!
+[s01_e22_c08_u012] Joey Tribbiani: So, tell me. Was it like you and Chandler, and then you and me, or you and me and Chandler?
+[s01_e22_c08_u013] Rachel Green: You know what?
+[s01_e22_c08_u014] Joey Tribbiani: What?
+[s01_e22_c08_u015] Rachel Green: There were times when it wasn't even me.
+[s01_e22_c08_u016] Unknown Speaker: 
+[s01_e22_c08_u017] Phoebe Buffay: That is so sweet, you guys.
+[s01_e22_c08_u018] Unknown Speaker: 
+[s01_e22_c08_u019] Phoebe Buffay, Rachel Green, Ross Geller: Hey, Mon.
+[s01_e22_c08_u020] Rachel Green: Mon, Ethan called again. Mon?
+[s01_e22_c08_u021] #ALL#: Mon!
+[s01_e22_c08_u022] Unknown Speaker: 
+[s01_e22_c08_u023] Monica Geller: What?
+[s01_e22_c08_u024] Rachel Green: Ethan called again.
+[s01_e22_c08_u025] Monica Geller: Oh.
+[s01_e22_c08_u026] Ross Geller: Are you not seeing him anymore?
+[s01_e22_c08_u027] Monica Geller: No. You know, sometimes just things doesn't work out."
+s01_e22,s01_e22_c08,Ross Geller,0,4,8,3,9,3,s01_e22_c08_u004,s01_e22_c08_u014,"[s01_e22_c08_u004] Chandler Bing: Oh, why not. Was I doing anything particularly... saucy?
+[s01_e22_c08_u005] Rachel Green: All right, fine. Um, you were not the only one there. Joey was there too.
+[s01_e22_c08_u006] Joey Tribbiani: All right.
+[s01_e22_c08_u007] Ross Geller: Was there...uh, huh, huh, huh... andybody, anybody else there.
+[s01_e22_c08_u008] Rachel Green: No.
+[s01_e22_c08_u009] Ross Geller: You're sure? Nobody uh, handed out uh, mints or anything?
+[s01_e22_c08_u010] Rachel Green: No, it was just the three of us.
+[s01_e22_c08_u011] Ross Geller: Huh!
+[s01_e22_c08_u012] Joey Tribbiani: So, tell me. Was it like you and Chandler, and then you and me, or you and me and Chandler?
+[s01_e22_c08_u013] Rachel Green: You know what?
+[s01_e22_c08_u014] Joey Tribbiani: What?"
+s01_e22,s01_e22_c08,Ross Geller,1,25,26,24,27,2,s01_e22_c08_u030,s01_e22_c08_u038,"[s01_e22_c08_u030] Rachel Green: I, I didn't say any... I sw... I did not say anything, I swear. He stopped by.
+[s01_e22_c08_u031] Joey Tribbiani: Listen, the next time you talk to him, can you ask him which one the strongest Power Ranger is?
+[s01_e22_c08_u032] Unknown Speaker: 
+[s01_e22_c08_u033] Ross Geller: Oh, yeah.
+[s01_e22_c08_u034] Monica Geller: Ha,ha, ha, oh my life is just so amusing. Could we drop it now?
+[s01_e22_c08_u035] Chandler Bing, Joey Tribbiani, Ross Geller: Sorry.
+[s01_e22_c08_u036] Ross Geller: It's morphin time!
+[s01_e22_c08_u037] Joey Tribbiani: Stegosaurus!
+[s01_e22_c08_u038] Chandler Bing: Tyrannosaurus!"
+s01_e22,s01_e22_c09,Chandler Bing,0,0,7,0,7,3,s01_e22_c09_u001,s01_e22_c09_u012,"[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+[s01_e22_c09_u002] Phoebe Buffay: You were great. But they still made fun of you.
+[s01_e22_c09_u003] Chandler Bing: What?
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, ""Mr. Caring Boss,"" ""Mr."", you know, ""I'm one of you, Boss,"" ""Mr., I wanna be your buddy, Boss Man Bing!""
+[s01_e22_c09_u005] Chandler Bing: Then, I don't get it.
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+[s01_e22_c09_u007] Chandler Bing: They do?
+[s01_e22_c09_u008] Phoebe Buffay: Uh huh. But they're not your friends anymore.
+[s01_e22_c09_u009] Chandler Bing: I just wan't to...
+[s01_e22_c09_u010] Phoebe Buffay: No, but you can't.
+[s01_e22_c09_u011] Chandler Bing: But I just wa...
+[s01_e22_c09_u012] Phoebe Buffay: Uh uh."
+s01_e22,s01_e22_c09,Phoebe Buffay,0,0,7,0,7,3,s01_e22_c09_u001,s01_e22_c09_u012,"[s01_e22_c09_u001] Chandler Bing: I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.
+[s01_e22_c09_u002] Phoebe Buffay: You were great. But they still made fun of you.
+[s01_e22_c09_u003] Chandler Bing: What?
+[s01_e22_c09_u004] Phoebe Buffay: You know, now you're more like, you know like, ""Mr. Caring Boss,"" ""Mr."", you know, ""I'm one of you, Boss,"" ""Mr., I wanna be your buddy, Boss Man Bing!""
+[s01_e22_c09_u005] Chandler Bing: Then, I don't get it.
+[s01_e22_c09_u006] Phoebe Buffay: Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.
+[s01_e22_c09_u007] Chandler Bing: They do?
+[s01_e22_c09_u008] Phoebe Buffay: Uh huh. But they're not your friends anymore.
+[s01_e22_c09_u009] Chandler Bing: I just wan't to...
+[s01_e22_c09_u010] Phoebe Buffay: No, but you can't.
+[s01_e22_c09_u011] Chandler Bing: But I just wa...
+[s01_e22_c09_u012] Phoebe Buffay: Uh uh."
+s01_e22,s01_e22_c10,Ethan,0,8,14,7,15,3,s01_e22_c10_u009,s01_e22_c10_u023,"[s01_e22_c10_u009] Ross Geller: I thought that was just a rumour.
+[s01_e22_c10_u010] Rachel Green: True story.
+[s01_e22_c10_u011] Joey Tribbiani: They're here already?
+[s01_e22_c10_u012] Unknown Speaker: 
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+[s01_e22_c10_u014] Monica Geller: It was.
+[s01_e22_c10_u015] Ethan: Then, what's the problem?
+[s01_e22_c10_u016] Monica Geller: Ethan, it's um... it's icky.
+[s01_e22_c10_u017] Ethan: Icky? You're actually gonna throw this away because it's icky?
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+[s01_e22_c10_u019] Ethan: No, don't say it.
+[s01_e22_c10_u020] Monica Geller: ...love you.
+[s01_e22_c10_u021] Unknown Speaker: 
+[s01_e22_c10_u022] Ross Geller: Are you're hands still wet?
+[s01_e22_c10_u023] Joey Tribbiani: Uh, moist, yeah."
+s01_e22,s01_e22_c10,Monica Geller,0,9,15,8,16,3,s01_e22_c10_u010,s01_e22_c10_u024,"[s01_e22_c10_u010] Rachel Green: True story.
+[s01_e22_c10_u011] Joey Tribbiani: They're here already?
+[s01_e22_c10_u012] Unknown Speaker: 
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+[s01_e22_c10_u014] Monica Geller: It was.
+[s01_e22_c10_u015] Ethan: Then, what's the problem?
+[s01_e22_c10_u016] Monica Geller: Ethan, it's um... it's icky.
+[s01_e22_c10_u017] Ethan: Icky? You're actually gonna throw this away because it's icky?
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+[s01_e22_c10_u019] Ethan: No, don't say it.
+[s01_e22_c10_u020] Monica Geller: ...love you.
+[s01_e22_c10_u021] Unknown Speaker: 
+[s01_e22_c10_u022] Ross Geller: Are you're hands still wet?
+[s01_e22_c10_u023] Joey Tribbiani: Uh, moist, yeah.
+[s01_e22_c10_u024] Rachel Green: Let's dry 'em again."
+s01_e22,s01_e22_c10,Rachel Green,0,4,6,3,7,2,s01_e22_c10_u004,s01_e22_c10_u014,"[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+[s01_e22_c10_u005] Unknown Speaker: 
+[s01_e22_c10_u006] Ethan: Hey.
+[s01_e22_c10_u007] Monica Geller: That was gonna be my opener.
+[s01_e22_c10_u008] Rachel Green: Hey, did you guys check out those new hand-dryers in the bathroom?
+[s01_e22_c10_u009] Ross Geller: I thought that was just a rumour.
+[s01_e22_c10_u010] Rachel Green: True story.
+[s01_e22_c10_u011] Joey Tribbiani: They're here already?
+[s01_e22_c10_u012] Unknown Speaker: 
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+[s01_e22_c10_u014] Monica Geller: It was."
+s01_e22,s01_e22_c10,Ross Geller,0,0,1,0,2,2,s01_e22_c10_u001,s01_e22_c10_u008,"[s01_e22_c10_u001] Monica Geller: Aren't you gonna...
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+[s01_e22_c10_u003] Joey Tribbiani: What about Andre?
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+[s01_e22_c10_u005] Unknown Speaker: 
+[s01_e22_c10_u006] Ethan: Hey.
+[s01_e22_c10_u007] Monica Geller: That was gonna be my opener.
+[s01_e22_c10_u008] Rachel Green: Hey, did you guys check out those new hand-dryers in the bathroom?"
+s01_e22,s01_e22_c10,Ross Geller,1,3,3,2,4,2,s01_e22_c10_u003,s01_e22_c10_u010,"[s01_e22_c10_u003] Joey Tribbiani: What about Andre?
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+[s01_e22_c10_u005] Unknown Speaker: 
+[s01_e22_c10_u006] Ethan: Hey.
+[s01_e22_c10_u007] Monica Geller: That was gonna be my opener.
+[s01_e22_c10_u008] Rachel Green: Hey, did you guys check out those new hand-dryers in the bathroom?
+[s01_e22_c10_u009] Ross Geller: I thought that was just a rumour.
+[s01_e22_c10_u010] Rachel Green: True story."
+s01_e22,s01_e22_c11,Chandler Bing,0,2,4,1,4,2,s01_e22_c11_u002,s01_e22_c11_u010,"[s01_e22_c11_u002] Santos: Hello, Mr. Bing.
+[s01_e22_c11_u003] Petrie: Loved your Stevie Wonder last night.
+[s01_e22_c11_u004] Chandler Bing: Thanks. Listen, about the weekly numbers, I'm gonna need them on my desk by nine o'clock.
+[s01_e22_c11_u005] Santos: Sure.
+[s01_e22_c11_u006] Gerston: No problem.
+[s01_e22_c11_u007] Unknown Speaker: 
+[s01_e22_c11_u008] Chandler Bing: You have to give 'em something, you know. Okay, now that was Gerston, Santos, and who's the guy with the moustache?
+[s01_e22_c11_u009] Phoebe Buffay: Petrie.
+[s01_e22_c11_u010] Chandler Bing: Petrie, right, right. Okay, some people gonna be working this weekend."
+s01_e22,s01_e22_c11,Santos,0,0,1,0,2,2,s01_e22_c11_u001,s01_e22_c11_u008,"[s01_e22_c11_u001] Gerston: Uh, like, could these margaritas be any stronger? Hey, Chandler.
+[s01_e22_c11_u002] Santos: Hello, Mr. Bing.
+[s01_e22_c11_u003] Petrie: Loved your Stevie Wonder last night.
+[s01_e22_c11_u004] Chandler Bing: Thanks. Listen, about the weekly numbers, I'm gonna need them on my desk by nine o'clock.
+[s01_e22_c11_u005] Santos: Sure.
+[s01_e22_c11_u006] Gerston: No problem.
+[s01_e22_c11_u007] Unknown Speaker: 
+[s01_e22_c11_u008] Chandler Bing: You have to give 'em something, you know. Okay, now that was Gerston, Santos, and who's the guy with the moustache?"
+s01_e22,s01_e22_c12,Rachel Green,0,0,7,0,7,3,s01_e22_c12_u001,s01_e22_c12_u014,"[s01_e22_c12_u001] Rachel Green: Oooooooooh. Oh, that's nice. Oh, oh. Huh, Ross!
+[s01_e22_c12_u002] Unknown Speaker: 
+[s01_e22_c12_u003] Rachel Green: Ross?
+[s01_e22_c12_u004] Ross Geller: I'm here.
+[s01_e22_c12_u005] Rachel Green: You are. Well, um... We, we, we were just... Wow!
+[s01_e22_c12_u006] Ross Geller: What? Great, now I'm having a baby.
+[s01_e22_c12_u007] Rachel Green: What?
+[s01_e22_c12_u008] Ross Geller: Ooh, Ooh.
+[s01_e22_c12_u009] Rachel Green: What?
+[s01_e22_c12_u010] Ross Geller: I'm having... I'm having a baby. I'm having a... Where's the phone? The phone?
+[s01_e22_c12_u011] Rachel Green: I don't know where the phone is.
+[s01_e22_c12_u012] Unknown Speaker: 
+[s01_e22_c12_u013] Rachel Green: Ross?
+[s01_e22_c12_u014] Ross Geller: I'm hurt."
+s01_e22,s01_e22_c12,Ross Geller,0,0,7,0,7,3,s01_e22_c12_u001,s01_e22_c12_u014,"[s01_e22_c12_u001] Rachel Green: Oooooooooh. Oh, that's nice. Oh, oh. Huh, Ross!
+[s01_e22_c12_u002] Unknown Speaker: 
+[s01_e22_c12_u003] Rachel Green: Ross?
+[s01_e22_c12_u004] Ross Geller: I'm here.
+[s01_e22_c12_u005] Rachel Green: You are. Well, um... We, we, we were just... Wow!
+[s01_e22_c12_u006] Ross Geller: What? Great, now I'm having a baby.
+[s01_e22_c12_u007] Rachel Green: What?
+[s01_e22_c12_u008] Ross Geller: Ooh, Ooh.
+[s01_e22_c12_u009] Rachel Green: What?
+[s01_e22_c12_u010] Ross Geller: I'm having... I'm having a baby. I'm having a... Where's the phone? The phone?
+[s01_e22_c12_u011] Rachel Green: I don't know where the phone is.
+[s01_e22_c12_u012] Unknown Speaker: 
+[s01_e22_c12_u013] Rachel Green: Ross?
+[s01_e22_c12_u014] Ross Geller: I'm hurt."
+s01_e22,s01_e22_c13,Chandler Bing,0,7,9,6,10,2,s01_e22_c13_u009,s01_e22_c13_u018,"[s01_e22_c13_u009] Joey Tribbiani: All right, all right.
+[s01_e22_c13_u010] Ross Geller: What is that?
+[s01_e22_c13_u011] Joey Tribbiani: For the ride.
+[s01_e22_c13_u012] Chandler Bing: Yeah, like in a cab...
+[s01_e22_c13_u013] Ross Geller: Save it.
+[s01_e22_c13_u014] Chandler Bing: Okay, hating this.
+[s01_e22_c13_u015] Ross Geller: Monica, come on now. Let's go, baby coming.
+[s01_e22_c13_u016] Unknown Speaker: 
+[s01_e22_c13_u017] Monica Geller: I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.
+[s01_e22_c13_u018] Ross Geller: That's nice. Get out Let's go, come on."
+s01_e22,s01_e22_c13,Joey Tribbiani,0,4,6,3,7,2,s01_e22_c13_u006,s01_e22_c13_u014,"[s01_e22_c13_u006] Ross Geller: What are you doing? We're going to a hospital.
+[s01_e22_c13_u007] Rachel Green: What, so I can't lokk nice? There might be doctors there.
+[s01_e22_c13_u008] Ross Geller: Joey, get out of the fridge.
+[s01_e22_c13_u009] Joey Tribbiani: All right, all right.
+[s01_e22_c13_u010] Ross Geller: What is that?
+[s01_e22_c13_u011] Joey Tribbiani: For the ride.
+[s01_e22_c13_u012] Chandler Bing: Yeah, like in a cab...
+[s01_e22_c13_u013] Ross Geller: Save it.
+[s01_e22_c13_u014] Chandler Bing: Okay, hating this."
+s01_e22,s01_e22_c13,Ross Geller,0,0,12,0,13,3,s01_e22_c13_u001,s01_e22_c13_u022,"[s01_e22_c13_u001] Ross Geller: Monica, let's go. Come on now people, woman in labor.
+[s01_e22_c13_u002] Unknown Speaker: 
+[s01_e22_c13_u003] Chandler Bing: Hey Ross, look what I've got going here.
+[s01_e22_c13_u004] Ross Geller: Yeah, save it for the cab, okay.
+[s01_e22_c13_u005] Unknown Speaker: 
+[s01_e22_c13_u006] Ross Geller: What are you doing? We're going to a hospital.
+[s01_e22_c13_u007] Rachel Green: What, so I can't lokk nice? There might be doctors there.
+[s01_e22_c13_u008] Ross Geller: Joey, get out of the fridge.
+[s01_e22_c13_u009] Joey Tribbiani: All right, all right.
+[s01_e22_c13_u010] Ross Geller: What is that?
+[s01_e22_c13_u011] Joey Tribbiani: For the ride.
+[s01_e22_c13_u012] Chandler Bing: Yeah, like in a cab...
+[s01_e22_c13_u013] Ross Geller: Save it.
+[s01_e22_c13_u014] Chandler Bing: Okay, hating this.
+[s01_e22_c13_u015] Ross Geller: Monica, come on now. Let's go, baby coming.
+[s01_e22_c13_u016] Unknown Speaker: 
+[s01_e22_c13_u017] Monica Geller: I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.
+[s01_e22_c13_u018] Ross Geller: That's nice. Get out Let's go, come on.
+[s01_e22_c13_u019] Joey Tribbiani: All right, I'm going. I'm going.
+[s01_e22_c13_u020] Unknown Speaker: 
+[s01_e22_c13_u021] Chandler Bing: Here we go, here we go.
+[s01_e22_c13_u022] Rachel Green: Rossy, Rossy."

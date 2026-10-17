@@ -1,0 +1,25 @@
+Episode: s01_e11
+Scene: s01_e11_c01
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e11_c01_u005 → s01_e11_c01_u013
+Peak window: 5 → 5
+
+Dialogue:
+  [s01_e11_c01_u005]
+  1. Speaker_01 says Speaker_02 should come to Speaker_01.
+  [s01_e11_c01_u006]
+  1. TargetSpeaker says Speaker_02 is coming.
+  2. TargetSpeaker says Speaker_01 should be cool.
+  [s01_e11_c01_u007] Unknown Speaker: 
+  [s01_e11_c01_u008] Speaker_02: Nice hat.
+  [s01_e11_c01_u009] TargetSpeaker, Speaker_01: Thanks.
+  [s01_e11_c01_u010] Unknown Speaker: 
+  [s01_e11_c01_u011]
+  1. Speaker_01 says TargetSpeaker and Speaker_01 should do something.
+  2. Speaker_01 says TargetSpeaker should whistle.
+  [s01_e11_c01_u012]
+  1. TargetSpeaker says TargetSpeaker and Speaker_01 are not going to whistle.
+  [s01_e11_c01_u013]
+  1. Speaker_01 says TargetSpeaker should come on.
+  2. Speaker_01 says TargetSpeaker should whistle.

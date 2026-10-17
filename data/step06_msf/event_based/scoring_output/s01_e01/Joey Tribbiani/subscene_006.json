@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages actively with the group—asks questions about the parts, announces 'Done with the bookcase!', and directs the social tone by warning they’ll leave—outgoing and talkative."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Speaks bluntly and with little empathy to Speaker_01: 'we’ll leave if you start talking about [Speaker_03] in a depressing way' and 'You got screwed.'"
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Despite not understanding key parts ('what is the L-shaped bracket? where does it go?'), he quickly declares 'Done with the bookcase!', suggesting a careless finish."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears confident and unbothered—jokes, asserts boundaries, and shows no nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from basic questions about the bracket, there’s no clear sign of unusual curiosity or imaginative thinking."
+  }
+}

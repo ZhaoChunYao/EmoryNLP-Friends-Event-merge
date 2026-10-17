@@ -1,0 +1,268 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u001_e1",
+          "tuples": [
+            "('come', 'you/Ross Geller', 'in', 's01_e12_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u003_e1",
+          "tuples": [
+            "('bring', 'I/Ross Geller', 'all the books', 's01_e12_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c04_u003_e2",
+          "tuples": [
+            "('send', 'Monica', 'her love', 's01_e12_c04_u003')",
+            "('send', 'Monica', 'along with this lasagna', 's01_e12_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u004_e1",
+          "tuples": [
+            "('be', 'it/lasagna', 'vegetarian', 's01_e12_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c04_u004_e2",
+          "tuples": [
+            "('eat', 'Susan Bunch', 'meat', 's01_e12_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u005_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'pretty sure', 's01_e12_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u006_e1",
+          "tuples": [
+            "('get', 'I/Carol Willick', 'the results of the amnio', 's01_e12_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u007_e1",
+          "tuples": [
+            "('tell', 'you/Carol Willick', 'me', 's01_e12_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u009_e1",
+          "tuples": [
+            "('be', 'that/the healthy result', 'great', 's01_e12_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u010_e1",
+          "tuples": [
+            "('meet', 'you/Carol Willick and Susan Bunch', 'Huey Lewis', 's01_e12_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u011_e1",
+          "tuples": [
+            "('be', 'that/the person in the photo', 'our friend Tanya', 's01_e12_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u012",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u012_e1",
+          "tuples": [
+            "('be', 'it/the person in the photo', 'your friend Tanya', 's01_e12_c04_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u013",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u013_e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'to know about the sex', 's01_e12_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u014_e1",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'trouble', 's01_e12_c04_u014')",
+            "('throw', 'you/(generic)', 'in Tanya', 's01_e12_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u016",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u016_e1",
+          "tuples": [
+            "('know', 'you/Carol Willick', 'the sex of the baby', 's01_e12_c04_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u018_e1",
+          "tuples": [
+            "('look', 'you/(generic)', 'down there', 's01_e12_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u022",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u022_e1",
+          "tuples": [
+            "('hear', 'you/Ross Geller', None, 's01_e12_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u023",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u023_e1",
+          "tuples": [
+            "('be', 'everything', 'A-OK', 's01_e12_c04_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u024",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u024_e1",
+          "tuples": [
+            "('be', 'that', 'so', 's01_e12_c04_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c04_u024_e2",
+          "tuples": [
+            "('know', 'we/Carol Willick and Susan Bunch', None, 's01_e12_c04_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u026",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u026_e1",
+          "tuples": [
+            "('stand', \"guy who doesn't want to know\", 'right here', 's01_e12_c04_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u027",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u027_e1",
+          "tuples": [
+            "('be', 'it/baby', 'what we thought it would be', 's01_e12_c04_u027')",
+            "('think', 'we/Carol Willick and Susan Bunch', 'it would be', 's01_e12_c04_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u029",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u029_e1",
+          "tuples": [
+            "('think', 'we/Ross Geller, Carol Willick, and Susan Bunch', 'it was going to be', 's01_e12_c04_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u031",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u031_e1",
+          "tuples": [
+            "('go', 'I/Ross Geller', None, 's01_e12_c04_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c04_u034",
+      "events": [
+        {
+          "event_id": "s01_e12_c04_u034_e1",
+          "tuples": [
+            "('call', 'we/Carol Willick and Susan Bunch', 'your folks', 's01_e12_c04_u034')",
+            "('call', 'we/Carol Willick and Susan Bunch', 'Deb and Rona', 's01_e12_c04_u034')"
+          ]
+        }
+      ]
+    }
+  ]
+}

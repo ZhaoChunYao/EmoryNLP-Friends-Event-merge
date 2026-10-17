@@ -1,0 +1,61 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c05_u002_e1",
+          "tuples": [
+            "('officiate', 'Rabbi Tribbiani', \"at tonight's blackout\", 's01_e07_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c05_u003_e1",
+          "tuples": [
+            "('be', 'Chandler's old roomate', 'Jewish', 's01_e07_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c05_u003_e2",
+          "tuples": [
+            "('be', 'these/(candles)', 'the only candles we have', 's01_e07_c05_u003')",
+            "('have', 'we/(Joey and friends)', 'the only candles', 's01_e07_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c05_u004_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', None, 's01_e07_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c05_u004_e2",
+          "tuples": [
+            "('light', 'Ugly Naked Guy', 'a bunch of candles', 's01_e07_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c05_u006_e1",
+          "tuples": [
+            "('hurt', 'That/(Ugly Naked Guy lighting candles)', None, 's01_e07_c05_u006')"
+          ]
+        }
+      ]
+    }
+  ]
+}

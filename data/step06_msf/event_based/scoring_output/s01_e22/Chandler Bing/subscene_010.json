@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker is open to attending the party but only after prompting and seeks advice about going; no clear sign of being outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker wants to mend relations (“just because I’m in charge doesn’t mean I’m a different person”), asks for advice, and readily agrees (“Okay… Okay”) to go as suggested."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker is distressed and uncertain about being excluded and seeks reassurance about attending, indicating sensitivity and insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Willingness to follow a suggestion to attend the party shows some flexibility, but there’s no clear sign of curiosity or closed-mindedness."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c10_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('believe', 'I/Monica Geller', 'you', 's01_e16_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('tell', 'you/Chandler Bing', 'that girl', 's01_e16_c10_u002')",
+            "('have', 'she/(that girl)', 'a job yet', 's01_e16_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('take', 'you/Monica Geller', 'down the Christmas lights', 's01_e16_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Monica Geller', \"you've found the world's thinnest argument\", 's01_e16_c10_u004')",
+            "('find', 'you/Chandler Bing', \"the world's thinnest argument\", 's01_e16_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('try', 'I/Chandler Bing', 'to find the right moment', 's01_e16_c10_u005')",
+            "('find', 'I/Chandler Bing', 'the right moment', 's01_e16_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/(find the right moment)', 'so hard', 's01_e16_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('date', 'you/Chandler Bing', None, 's01_e16_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('fire', 'you/Chandler Bing', None, 's01_e16_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('go', 'I/Rachel Green', None, 's01_e16_c10_u006')",
+            "('go', 'I/Rachel Green', 'to work', 's01_e16_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'inside', 's01_e16_c10_u011')",
+            "('have', 'you/Joey Tribbiani', 'to knock any more', 's01_e16_c10_u011')",
+            "('knock', 'you/Joey Tribbiani', None, 's01_e16_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'I/Monica Geller', 'it', 's01_e16_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Monica Geller+friends', 'it', 's01_e16_c10_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'we/Monica Geller+Chandler Bing+Rachel Green+Joey Tribbiani+Phoebe Buffay', 'anything', 's01_e16_c10_u016')",
+            "('sit', 'we/Monica Geller+Chandler Bing+Rachel Green+Joey Tribbiani+Phoebe Buffay', None, 's01_e16_c10_u016')",
+            "('talk', 'we/Monica Geller+Chandler Bing+Rachel Green+Joey Tribbiani+Phoebe Buffay', None, 's01_e16_c10_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hear', 'I/Mr. Heckles', 'you', 's01_e16_c10_u017')",
+            "('hear', 'I/Mr. Heckles', 'through the ceiling', 's01_e16_c10_u017')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('sleep', 'my cats', None, 's01_e16_c10_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Mr. Heckles', 'cats', 's01_e16_c10_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Mr. Heckles', 'cats', 's01_e16_c10_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('try', 'we/Monica Geller+Chandler Bing+Rachel Green+Joey Tribbiani+Phoebe Buffay', 'to keep it down', 's01_e16_c10_u021')",
+            "('keep', 'we/Monica Geller+Chandler Bing+Rachel Green+Joey Tribbiani+Phoebe Buffay', 'it down', 's01_e16_c10_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u023",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'me a favour', 's01_e16_c10_u023')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('try', 'you/Phoebe Buffay', 'on this', 's01_e16_c10_u023')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'to make sure it fits', 's01_e16_c10_u023')",
+            "('make sure', 'I/Joey Tribbiani', 'it fits', 's01_e16_c10_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u026",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('fit', 'it/(present)', None, 's01_e16_c10_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this/(present)', 'really', 's01_e16_c10_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u025",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it/(present)', 'for Ursula', 's01_e16_c10_u025')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('figure', 'I/Joey Tribbiani', None, 's01_e16_c10_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u028",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'you/Joey Tribbiani', 'her', 's01_e16_c10_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u030",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this', 'serious', 's01_e16_c10_u030')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'you to pay money for any kind of capade', 's01_e16_c10_u030')",
+            "('pay', 'you/Joey Tribbiani', 'money', 's01_e16_c10_u030')",
+            "('pay', 'you/Joey Tribbiani', 'for any kind of capade', 's01_e16_c10_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u031",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('like', 'I/Joey Tribbiani', 'her', 's01_e16_c10_u031')",
+            "('be', 'she/Ursula Buffay', 'different', 's01_e16_c10_u031')",
+            "('be', 'there', 'somethin about her', 's01_e16_c10_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u034",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('ask', 'I/Joey Tribbiani', 'you', 's01_e16_c10_u034')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('say', 'you/Phoebe Buffay', 'it was okay', 's01_e16_c10_u034')",
+            "('be', 'it/(Joey dating Ursula)', 'okay', 's01_e16_c10_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u036",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', 'okay', 's01_e16_c10_u036')",
+            "('be', 'I/Joey Tribbiani', 'okay with it not being okay', 's01_e16_c10_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c10_u039",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('knit', 'you/Rachel Green', None, 's01_e16_c10_u039')"
+          ]
+        }
+      ]
+    }
+  ]
+}

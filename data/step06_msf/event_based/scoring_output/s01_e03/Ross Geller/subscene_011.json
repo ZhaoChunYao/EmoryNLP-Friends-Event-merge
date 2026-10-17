@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages socially by reminiscing (“you could row like a viking”) and initiates conversation by asking Speaker_03 how their meeting went."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives a positive compliment to Speaker_02 and shows concern for Speaker_03 by asking about the meeting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or of pronounced confidence are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Apart from a polite inquiry, there is no display of curiosity about new ideas or unconventional thinking."
+  }
+}

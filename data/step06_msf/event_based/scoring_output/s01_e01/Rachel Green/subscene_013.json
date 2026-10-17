@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, non-initiating replies (“Sorry-”, “Okay.”, “Yeah, maybe…”, “Goodnight.”) and lets Speaker_03 lead the interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Apologizes when they both reach for the same item (u032), offers it to Speaker_03 and says they don’t want it (u034), and agrees to split it (u036), showing consideration and cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness in this short exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No strong signs of anxiety or emotional volatility; responses are calm and brief."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The tentative “Yeah, maybe…” to a date does not clearly indicate either curiosity/inventiveness or dogmatism/caution."
+  }
+}

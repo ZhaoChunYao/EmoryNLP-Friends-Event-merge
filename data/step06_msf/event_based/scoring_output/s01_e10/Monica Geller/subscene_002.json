@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks a brief clarifying question about Marcel living with Speaker_01 and makes a single suggestion; no strong signs of being especially talkative or outgoing."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After Speaker_01 mentions the apartment has been quiet since Speaker_05 left, TargetSpeaker responds helpfully and straightforwardly by suggesting Speaker_01 should get a roommate, showing supportive, prosocial intent."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Offering a suggestion does not show TargetSpeaker’s own organization or reliability; no clear behavior indicating efficiency or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or sensitivity, but also no clear displays of notable confidence; the tone is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The remarks are practical and conventional (asking about living arrangements, suggesting a roommate) with no indication of curiosity about new ideas or unconventional thinking."
+  }
+}

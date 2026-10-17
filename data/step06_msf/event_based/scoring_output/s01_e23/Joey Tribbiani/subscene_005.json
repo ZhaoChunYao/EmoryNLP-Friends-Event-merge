@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief comments in the group and does not initiate or display energetic social behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "While others praise and focus on Speaker_02, TargetSpeaker contradicts/corrects (“the name ‘Ben’ is not his name”) and downplays him (“does not do much right now”), showing a critical, less agreeable stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements about planning, organization, or follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity in the remarks."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity, imagination, or dogmatism beyond a simple correction."
+  }
+}

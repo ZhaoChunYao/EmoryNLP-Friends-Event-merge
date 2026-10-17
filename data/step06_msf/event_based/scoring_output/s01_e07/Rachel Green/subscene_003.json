@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly discusses intimate topics in a group (says her weirdest place is the foot of the bed [u017], admits she’s never had that kind of passion [u021]), asks reflective questions and eagerly follows up for reassurance (“Really? You do?” [u035–u038])."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforward and honest about her experiences (“never had a relationship with that kind of passion” [u021]) and offers warmth/compliment (“You are so great” [u039])."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows worry/sensitivity about missing out on passion (admits lack of passionate relationship [u021], asks if people go through life without it [u027]) and seeks repeated reassurance (“You don’t?” “Really?” “You do?” [u033–u038])."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Reports a very conventional ‘weirdest place’ (“the foot of the bed” [u017]), suggesting caution and low novelty seeking."
+  }
+}

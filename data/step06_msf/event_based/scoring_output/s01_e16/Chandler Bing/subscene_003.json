@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Directs Speaker_03 to look and report on the resemblance and asserts his view ('They're twins'), actively leading the exchange."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Pressures Speaker_03 to agree with his view and then shuts down discussion ('we shouldn't talk to each other about things any more')."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Responds defensively to Speaker_03’s comment about attractiveness by saying they shouldn’t talk anymore, showing sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or openness; insisting 'They're twins' does not strongly indicate dogmatism here."
+  }
+}

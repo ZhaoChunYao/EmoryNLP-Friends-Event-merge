@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively reframes the laundry trip as a date, banters (“Yuh-huh”), and drives the social conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker helps Speaker_01 prepare (advises about underwear and fabric softener) in a supportive, cooperative manner."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker urges Speaker_01 to hold on, double-check the plan, and consider details like underwear and fabric softener."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks assertively and playfully, confidently insisting it’s a date without showing anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are practical and teasing about preparation; no clear signs of unusual curiosity or rigidity."
+  }
+}

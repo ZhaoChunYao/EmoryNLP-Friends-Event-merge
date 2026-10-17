@@ -1,0 +1,50 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c14_u001",
+      "events": [
+        {
+          "event_id": "s01_e15_c14_u001_e1",
+          "tuples": [
+            "('be', 'this/(massage pressure)', None, 's01_e15_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c14_u005",
+      "events": [
+        {
+          "event_id": "s01_e15_c14_u005_e1",
+          "tuples": [
+            "('see', 'you/Steve (drug addict)', None, 's01_e15_c14_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c14_u005_e2",
+          "tuples": [
+            "('mean', \"that/(Steve's scream)\", \"it's working\", 's01_e15_c14_u005')",
+            "('work', 'it/(massage)', None, 's01_e15_c14_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c14_u005_e3",
+          "tuples": [
+            "('hurt', 'this/(massage pressure)', None, 's01_e15_c14_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c14_u009",
+      "events": [
+        {
+          "event_id": "s01_e15_c14_u009_e1",
+          "tuples": [
+            "('go', 'you/Steve (drug addict)', None, 's01_e15_c14_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

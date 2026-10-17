@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and talkative, directing others to listen, asking to borrow items, sharing that they spent the night with someone, and energetically organizing breakfast and help from others."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is bossy and dismissive—telling others to listen, ignoring a warning about the bathroom, calling them loud, and saying they wasted 35 seconds talking—showing low cooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks time precisely (“only twenty minutes,” “wasted about thirty-five seconds”) and stays task-focused (organizing breakfast, requesting help with the door)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with confidence (“believe me,” “it’s worth it”), gives directives without signs of worry or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a romantic flourish about every second feeling like a key moment, there is no clear behavior indicating curiosity/inventiveness or, conversely, cautious dogmatism."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives an animated, lengthy speech in front of others and on the phone ('C'mon ... listen to TargetSpeaker! ... What if TargetSpeaker wanna be a purse... or a hat!'). Assertive and expressive in a group setting."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational and uncooperative toward Speaker_06: demands to be listened to, threatens to stay elsewhere, and rejects financial help ('maybe TargetSpeaker don't need Speaker_06 money')."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Impulsive and indecisive with emotional outbursts ('maybe TargetSpeaker'll just stay here...'; 'Wait!! Wait, TargetSpeaker said maybe!!'), needing others to manage the situation."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows acute anxiety and needs calming by others ('Just breathe...'), only later saying 'TargetSpeaker'm all better now.'"
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a self-reinvention metaphor ('What if TargetSpeaker don't wanna be a shoe... a purse... a hat... It's a metaphor') and asserts independence, indicating openness to new experiences and identities."
+  }
+}

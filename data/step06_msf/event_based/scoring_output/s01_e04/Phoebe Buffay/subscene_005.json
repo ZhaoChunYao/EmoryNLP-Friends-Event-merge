@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only says “What?” and then answers about not having a plan; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No cooperative or antagonistic behavior from TargetSpeaker is shown."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "When asked if they have a plan, TargetSpeaker says they do not even have a plan, indicating lack of preparation/organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit signs of nervousness or emotional instability; merely admits lacking a plan."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity/creativity or dogmatism/caution is shown."
+  }
+}

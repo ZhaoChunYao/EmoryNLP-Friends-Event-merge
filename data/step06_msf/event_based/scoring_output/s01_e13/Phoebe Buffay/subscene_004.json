@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or energy level; TargetSpeaker simply engages in a candid exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward yet supportive—honestly reports others think Speaker_01 is “intense and creepy,” while affirming positive qualities and saying they don’t think that, and praising Speaker_01 as “so great.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior about organization, planning, or reliability is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "After a brief “Nothing, I’m fine,” TargetSpeaker calmly explains the issue and confidently reassures Speaker_01, showing composure rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Discussion centers on social perceptions; no clear evidence of curiosity, imagination, or openness to new ideas."
+  }
+}

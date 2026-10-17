@@ -1,0 +1,63 @@
+event_id: s01_e03_c14_u001_e1
+utterance_id: s01_e03_c14_u001
+  tuple: ('remember', 'you/Ross Geller', 'when we went to Central Park and rented boats', 's01_e03_c14_u001')
+
+event_id: s01_e03_c14_u001_e2
+utterance_id: s01_e03_c14_u001
+  tuple: ('go', 'we/Rachel Green+Ross Geller', 'to Central Park', 's01_e03_c14_u001')
+  tuple: ('rent', 'we/Rachel Green+Ross Geller', 'boats', 's01_e03_c14_u001')
+  tuple: ('be', 'That/(the Central Park boats trip)', 'fun', 's01_e03_c14_u001')
+
+event_id: s01_e03_c14_u002_e1
+utterance_id: s01_e03_c14_u002
+  tuple: ('row', 'he/(unspecified male)', 'like a viking', 's01_e03_c14_u002')
+
+event_id: s01_e03_c14_u005_e1
+utterance_id: s01_e03_c14_u005
+  tuple: ('go', "it/(Monica Geller's meeting)", None, 's01_e03_c14_u005')
+
+event_id: s01_e03_c14_u006_e1
+utterance_id: s01_e03_c14_u006
+  tuple: ('know', 'you/Ross Geller', None, 's01_e03_c14_u006')
+
+event_id: s01_e03_c14_u007_e1
+utterance_id: s01_e03_c14_u007
+  tuple: ('mention', "he/(Monica Geller's boyfriend)", 'us', 's01_e03_c14_u007')
+
+event_id: s01_e03_c14_u008_e1
+utterance_id: s01_e03_c14_u008
+  tuple: ('say', "he/(Monica Geller's boyfriend)", "he's really gonna miss you guys", 's01_e03_c14_u008')
+  tuple: ('miss', "he/(Monica Geller's boyfriend)", 'you guys', 's01_e03_c14_u008')
+
+event_id: s01_e03_c14_u009_e1
+utterance_id: s01_e03_c14_u009
+  tuple: ('have', 'you/Monica Geller', 'a rough day', 's01_e03_c14_u009')
+
+event_id: s01_e03_c14_u009_e2
+utterance_id: s01_e03_c14_u009
+  tuple: ('come', 'you/Monica Geller', 'here', 's01_e03_c14_u009')
+
+event_id: s01_e03_c14_u010_e1
+utterance_id: s01_e03_c14_u010
+  tuple: ('be', "That/(Chandler Bing's limit)", 'it', 's01_e03_c14_u010')
+
+event_id: s01_e03_c14_u010_e2
+utterance_id: s01_e03_c14_u010
+  tuple: ('get', 'I/Chandler Bing', 'cigarettes', 's01_e03_c14_u010')
+
+event_id: s01_e03_c14_u012_e1
+utterance_id: s01_e03_c14_u012
+  tuple: ('care', 'I/Chandler Bing', None, 's01_e03_c14_u012')
+  tuple: ('be', 'Game', 'over', 's01_e03_c14_u012')
+  tuple: ('be', 'I/Chandler Bing', 'weak', 's01_e03_c14_u012')
+  tuple: ('smoke', 'I/Chandler Bing', None, 's01_e03_c14_u012')
+  tuple: ('have', 'I/Chandler Bing', 'the smoke', 's01_e03_c14_u012')
+
+event_id: s01_e03_c14_u013_e1
+utterance_id: s01_e03_c14_u013
+  tuple: ('smoke', 'you/Chandler Bing', None, 's01_e03_c14_u013')
+
+event_id: s01_e03_c14_u013_e2
+utterance_id: s01_e03_c14_u013
+  tuple: ('give', 'I/Phoebe Buffay', 'you seven thousand dollars', 's01_e03_c14_u013')
+

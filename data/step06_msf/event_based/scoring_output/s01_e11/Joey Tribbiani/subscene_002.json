@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly engages others, directly asks if Speaker_03 will tell Speaker_04 about the kiss, and bluntly points out in front of others that Speaker_03 isn’t wearing a jockstrap."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Urges honesty about the kiss and warns that Nora might tell Speaker_04, showing straightforward, pro-social concern."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Thinks ahead about consequences (“she might tell”) and notices a specific practical detail (missing jockstrap), indicating attentiveness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Addresses a sensitive topic confidently and casually calls out a potentially embarrassing detail without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of creativity or unconventional thinking; the remarks are practical and social rather than imaginative."
+  }
+}

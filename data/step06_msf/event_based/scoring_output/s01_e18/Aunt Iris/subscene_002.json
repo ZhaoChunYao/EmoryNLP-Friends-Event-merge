@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes a dramatic claim in front of the group and then addresses multiple people to 'tell' them something, showing outgoing, attention-seeking talkativeness."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker admits the shocking story was a bluff and states 'everything anyone hears at a poker game is pure crap,' indicating deceptive, not straightforward behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "The dialogue shows a deliberate bluff in a social/poker context but no clear signs of organization or sloppiness regarding tasks or responsibilities."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently toys with the group by making and retracting a grave claim without showing nervousness, suggesting emotional composure rather than sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Invents a vivid, dramatic bluff about hitting someone with a car, showing imaginative, creative storytelling."
+  }
+}

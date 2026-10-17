@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only offers brief puzzle prompts (“Heating device.” “Five letters.”); no clear sign of outgoing or reserved social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Their remarks are neutral and task-focused, with no indications of cooperation/consideration or conflict/hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Stating “Five letters” shows minimal attention to detail typical of a puzzle, but there’s insufficient evidence of broader organization or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or emotional reactivity in the brief exchanges."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Engaging in a word puzzle by offering a clue (“Heating device.”) and specifying constraints (“Five letters”) indicates interest in cognitive/wordplay activity, consistent with curiosity and openness."
+  }
+}

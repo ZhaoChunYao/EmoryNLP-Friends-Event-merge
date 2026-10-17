@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up forcefully, confronts others about past behavior, and proactively offers to find Speaker_04 while staking a claim ('Speaker_04 will be TargetSpeaker's')."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker accuses them of ignoring her for four years, rejects the apology, and insults Speaker_01 by saying she was fat—hostile and uncooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from a vague offer to find Speaker_04, there is no clear sign of organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She brings up being ignored for four years and speaks with evident resentment, showing sensitivity to past social slights."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or closed-mindedness is presented in the exchange."
+  }
+}

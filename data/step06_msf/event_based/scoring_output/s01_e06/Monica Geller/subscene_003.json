@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly participates by asking a question and offering a short affirmation, but shows no clear signs of being notably talkative or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After Speaker_04 states a monogamous preference, TargetSpeaker responds, “Good for you, Joey,” which is supportive and affirming."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors related to organization, planning, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, sensitivity, or notable confidence are evident in the brief remarks."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates an open discussion about non-monogamous dating by asking others if they would mind dating someone who is also dating someone else, showing curiosity and openness to different relationship models."
+  }
+}

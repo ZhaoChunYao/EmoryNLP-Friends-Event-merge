@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of outgoing or reserved behavior; TargetSpeaker makes brief, task-focused comments without social display."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Proposes a cooperative fix to the cake lettering and involves others (“we can make a ‘B’ out of one of the frosting roses”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows time awareness (“[Speaker_03] will be here any minute”) and quickly organizes a practical plan to repair the cake before arrival."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed under pressure and offers a solution rather than showing anxiety when the cake lettering is wrong."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggests an inventive fix—repurposing a frosting rose to create a ‘B’—demonstrating creativity and flexibility."
+  }
+}

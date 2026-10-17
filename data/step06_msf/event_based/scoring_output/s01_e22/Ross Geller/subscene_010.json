@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge and talks a lot, directing everyone to leave for the hospital, telling others what to do (“we’re going now,” “get out of the refrigerator,” “come right now”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uses brusque commands and cuts others off (“Save it”), rushing people despite objections; Speaker_02 complains about the rushed situation under TargetSpeaker’s direction."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Efficiently organizes the group to leave, prioritizes timing, and stops distractions by telling them to save it for the cab."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays focused and decisive during a stressful event (labor) without showing anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or resistance to new ideas; limiting distractions appears practical rather than closed-minded."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Makes brief, factual statements about betting; no clear signs of outgoing enthusiasm or marked reserve."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Simply places a bet and notes a perceived rule; no behavior indicating generosity or hostility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Mentions and tries to follow the betting limit, showing attention to rules and structure."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Expresses no anxiety or emotional volatility during the exchange."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Shows caution by expecting adherence to a fixed betting limit and questioning a change to it."
+  }
+}

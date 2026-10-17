@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up in a group conflict and repeatedly urges Speaker_01 to tell Speaker_02, showing assertive, active engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Advocates for honesty to help Speaker_02 and uses polite language (“please tell him”), indicating a considerate, straightforward approach."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Urging someone to speak reveals no clear behavior about organization or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No evident signs of anxiety or insecurity; tone remains composed despite tension."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No actions indicating curiosity, creativity, or openness to new ideas."
+  }
+}

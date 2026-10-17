@@ -1,0 +1,240 @@
+event_id: s01_e20_c06_u001_e1
+utterance_id: s01_e20_c06_u001
+  tuple: ('use', 'I/Chandler Bing', 'your phone', 's01_e20_c06_u001')
+
+event_id: s01_e20_c06_u002_e1
+utterance_id: s01_e20_c06_u002
+  tuple: ('use', 'that thing in your hand', 'as a phone', 's01_e20_c06_u002')
+
+event_id: s01_e20_c06_u004_e1
+utterance_id: s01_e20_c06_u004
+  tuple: ('work', 'it/(phone)', None, 's01_e20_c06_u004')
+
+event_id: s01_e20_c06_u004_e2
+utterance_id: s01_e20_c06_u004
+  tuple: ('call', 'she/(woman Chandler called)', 'me back', 's01_e20_c06_u004')
+
+event_id: s01_e20_c06_u005_e1
+utterance_id: s01_e20_c06_u005
+  tuple: ('get', 'she/(woman Chandler called)', 'your message', 's01_e20_c06_u005')
+
+event_id: s01_e20_c06_u006_e1
+utterance_id: s01_e20_c06_u006
+  tuple: ('want', 'you/Chandler Bing', None, 's01_e20_c06_u006')
+
+event_id: s01_e20_c06_u006_e2
+utterance_id: s01_e20_c06_u006
+  tuple: ('call', 'you/Chandler Bing', 'her machine', 's01_e20_c06_u006')
+
+event_id: s01_e20_c06_u006_e3
+utterance_id: s01_e20_c06_u006
+  tuple: ('have', 'she/(woman Chandler called)', 'a lot of beeps', 's01_e20_c06_u006')
+
+event_id: s01_e20_c06_u006_e4
+utterance_id: s01_e20_c06_u006
+  tuple: ('mean', 'that/(having a lot of beeps)', None, 's01_e20_c06_u006')
+
+event_id: s01_e20_c06_u006_e5
+utterance_id: s01_e20_c06_u006
+  tuple: ('get', 'she/(woman Chandler called)', 'her messages', 's01_e20_c06_u006')
+
+event_id: s01_e20_c06_u007_e1
+utterance_id: s01_e20_c06_u007
+  tuple: ('think', 'you/Chandler Bing', 'that', 's01_e20_c06_u007')
+
+event_id: s01_e20_c06_u007_e2
+utterance_id: s01_e20_c06_u007
+  tuple: ('make', 'that/(calling her machine)', 'me', 's01_e20_c06_u007')
+  tuple: ('seem', 'me/Chandler Bing', 'a little', 's01_e20_c06_u007')
+
+event_id: s01_e20_c06_u009_e1
+utterance_id: s01_e20_c06_u009
+  tuple: ('see', 'you/Ross Geller', 'my personal ad', 's01_e20_c06_u009')
+
+event_id: s01_e20_c06_u012_e1
+utterance_id: s01_e20_c06_u012
+  tuple: ('answer', 'she/(woman Chandler called)', None, 's01_e20_c06_u012')
+
+event_id: s01_e20_c06_u013_e1
+utterance_id: s01_e20_c06_u013
+  tuple: ('see', 'you/Chandler Bing', None, 's01_e20_c06_u013')
+
+event_id: s01_e20_c06_u013_e2
+utterance_id: s01_e20_c06_u013
+  tuple: ('be', "this/(situation)", "where you'd use that 'hello' word", 's01_e20_c06_u013')
+
+event_id: s01_e20_c06_u013_e3
+utterance_id: s01_e20_c06_u013
+  tuple: ('use', 'you/Chandler Bing', "that 'hello' word", 's01_e20_c06_u013')
+
+event_id: s01_e20_c06_u013_e4
+utterance_id: s01_e20_c06_u013
+  tuple: ('talk', 'we/Monica Geller+Chandler Bing', "about that 'hello' word", 's01_e20_c06_u013')
+
+event_id: s01_e20_c06_u014_e1
+utterance_id: s01_e20_c06_u014
+  tuple: ('talk', 'I/Chandler Bing', 'to her', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e2
+utterance_id: s01_e20_c06_u014
+  tuple: ('get', 'she/(woman Chandler called)', 'my message', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e3
+utterance_id: s01_e20_c06_u014
+  tuple: ('choose', 'she/(woman Chandler called)', 'not to call me', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e4
+utterance_id: s01_e20_c06_u014
+  tuple: ('call', 'she/(woman Chandler called)', 'me', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e5
+utterance_id: s01_e20_c06_u014
+  tuple: ('be', 'I/Chandler Bing', 'needy and snubbed', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e6
+utterance_id: s01_e20_c06_u014
+  tuple: ('miss', 'I/Chandler Bing', 'just being needy', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u014_e7
+utterance_id: s01_e20_c06_u014
+  tuple: ('be', 'I/Chandler Bing', 'needy', 's01_e20_c06_u014')
+
+event_id: s01_e20_c06_u017_e1
+utterance_id: s01_e20_c06_u017
+  tuple: ('take', 'he/Barry Farber', 'it', 's01_e20_c06_u017')
+
+event_id: s01_e20_c06_u019_e1
+utterance_id: s01_e20_c06_u019
+  tuple: ('have', 'you/Rachel Green', 'dental floss', 's01_e20_c06_u019')
+  tuple: ('have', 'you/Rachel Green', 'in your hair', 's01_e20_c06_u019')
+
+event_id: s01_e20_c06_u022_e1
+utterance_id: s01_e20_c06_u022
+  tuple: ('have', 'we/Rachel Green+Barry Farber', 'sex in his chair', 's01_e20_c06_u022')
+
+event_id: s01_e20_c06_u023_e1
+utterance_id: s01_e20_c06_u023
+  tuple: ('say', 'I/Monica Geller', 'that', 's01_e20_c06_u023')
+
+event_id: s01_e20_c06_u027_e1
+utterance_id: s01_e20_c06_u027
+  tuple: ('know', 'I/Rachel Green', None, 's01_e20_c06_u027')
+
+event_id: s01_e20_c06_u027_e2
+utterance_id: s01_e20_c06_u027
+  tuple: ('care', 'we/Rachel Green+Barry Farber', 'about each other', 's01_e20_c06_u027')
+
+event_id: s01_e20_c06_u027_e3
+utterance_id: s01_e20_c06_u027
+  tuple: ('be', 'there/(between us)', 'a history', 's01_e20_c06_u027')
+
+event_id: s01_e20_c06_u027_e4
+utterance_id: s01_e20_c06_u027
+  tuple: ('be', 'it/(Rachel and Barry)', 'like you and Carol', 's01_e20_c06_u027')
+
+event_id: s01_e20_c06_u028_e1
+utterance_id: s01_e20_c06_u028
+  tuple: ('be', 'it/(Rachel and Barry)', 'like me and Carol', 's01_e20_c06_u028')
+
+event_id: s01_e20_c06_u029_e1
+utterance_id: s01_e20_c06_u029
+  tuple: ('say', 'she/Carol', 'to you', 's01_e20_c06_u029')
+
+event_id: s01_e20_c06_u029_e2
+utterance_id: s01_e20_c06_u029
+  tuple: ('want', 'I/Carol', 'you on this couch', 's01_e20_c06_u029')
+
+event_id: s01_e20_c06_u029_e3
+utterance_id: s01_e20_c06_u029
+  tuple: ('be', 'you/Ross Geller', 'on this couch', 's01_e20_c06_u029')
+
+event_id: s01_e20_c06_u031_e1
+utterance_id: s01_e20_c06_u031
+  tuple: ('help', 'it/(if it helps)', None, 's01_e20_c06_u031')
+
+event_id: s01_e20_c06_u031_e2
+utterance_id: s01_e20_c06_u031
+  tuple: ('slide', 'I/Chandler Bing', 'over', 's01_e20_c06_u031')
+
+event_id: s01_e20_c06_u032_e1
+utterance_id: s01_e20_c06_u032
+  tuple: ('be', 'it/(comparison)', 'a totally different situation', 's01_e20_c06_u032')
+  tuple: ('be', 'it/(comparison)', 'apples and oranges', 's01_e20_c06_u032')
+
+event_id: s01_e20_c06_u032_e2
+utterance_id: s01_e20_c06_u032
+  tuple: ('go', 'I/Ross Geller', None, 's01_e20_c06_u032')
+
+event_id: s01_e20_c06_u034_e1
+utterance_id: s01_e20_c06_u034
+  tuple: ('need', 'I/Ross Geller', 'a reason', 's01_e20_c06_u034')
+
+event_id: s01_e20_c06_u034_e2
+utterance_id: s01_e20_c06_u034
+  tuple: ('have', 'I/Ross Geller', 'things', 's01_e20_c06_u034')
+  tuple: ('do', 'I/Ross Geller', 'things', 's01_e20_c06_u034')
+  tuple: ('do', 'I/Ross Geller', 'with my life', 's01_e20_c06_u034')
+
+event_id: s01_e20_c06_u034_e3
+utterance_id: s01_e20_c06_u034
+  tuple: ('have', 'I/Ross Geller', 'a jam packed schedule', 's01_e20_c06_u034')
+
+event_id: s01_e20_c06_u034_e4
+utterance_id: s01_e20_c06_u034
+  tuple: ('be', 'I/Ross Geller', 'late for keeping up', 's01_e20_c06_u034')
+  tuple: ('keep', 'I/Ross Geller', 'up with it', 's01_e20_c06_u034')
+
+event_id: s01_e20_c06_u038_e1
+utterance_id: s01_e20_c06_u038
+  tuple: ('be', 'you/Mindy', None, 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u038_e2
+utterance_id: s01_e20_c06_u038
+  tuple: ('hear', 'I/Rachel Green', None, 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u038_e3
+utterance_id: s01_e20_c06_u038
+  tuple: ('be', 'that/(news)', 'so great', 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u038_e4
+utterance_id: s01_e20_c06_u038
+  tuple: ('work', 'I/Rachel Green', None, 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u038_e5
+utterance_id: s01_e20_c06_u038
+  tuple: ('want', 'you/Mindy', None, 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u038_e6
+utterance_id: s01_e20_c06_u038
+  tuple: ('come', 'you/Mindy', 'by', 's01_e20_c06_u038')
+  tuple: ('see', 'I/Rachel Green', 'you', 's01_e20_c06_u038')
+
+event_id: s01_e20_c06_u039_e1
+utterance_id: s01_e20_c06_u039
+  tuple: ('be', 'Mindy', None, 's01_e20_c06_u039')
+
+event_id: s01_e20_c06_u040_e1
+utterance_id: s01_e20_c06_u040
+  tuple: ('want', 'she/Mindy', 'to see me tomorrow', 's01_e20_c06_u040')
+
+event_id: s01_e20_c06_u040_e2
+utterance_id: s01_e20_c06_u040
+  tuple: ('sound', 'she/Mindy', 'really weird', 's01_e20_c06_u040')
+
+event_id: s01_e20_c06_u040_e3
+utterance_id: s01_e20_c06_u040
+  tuple: ('call', 'I/Rachel Green', 'Barry', 's01_e20_c06_u040')
+
+event_id: s01_e20_c06_u040_e4
+utterance_id: s01_e20_c06_u040
+  tuple: ('be', 'it/(caller identification)', 'me', 's01_e20_c06_u040')
+
+event_id: s01_e20_c06_u040_e5
+utterance_id: s01_e20_c06_u040
+  tuple: ('figure', 'I/Rachel Green', "that's where you'd be", 's01_e20_c06_u040')
+
+event_id: s01_e20_c06_u040_e6
+utterance_id: s01_e20_c06_u040
+  tuple: ('be', 'you/Barry Farber', 'there', 's01_e20_c06_u040')
+  tuple: ('be', 'that/(place)', "where you'd be", 's01_e20_c06_u040')
+

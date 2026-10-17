@@ -1,0 +1,14 @@
+Episode: s01_e22
+Scene: s01_e22_c01
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e22_c01_u001 → s01_e22_c01_u006
+Peak window: 0 → 0
+
+Dialogue:
+  [s01_e22_c01_u001] TargetSpeaker: Tell Speaker_01.
+  [s01_e22_c01_u002] Speaker_02: No.
+  [s01_e22_c01_u003] Speaker_03: Tell Speaker_01, tell Speaker_01.
+  [s01_e22_c01_u004] TargetSpeaker: Just... please tell Speaker_01.
+  [s01_e22_c01_u005] Speaker_02: Shut up!
+  [s01_e22_c01_u006] Speaker_01: Tell Speaker_01 what?

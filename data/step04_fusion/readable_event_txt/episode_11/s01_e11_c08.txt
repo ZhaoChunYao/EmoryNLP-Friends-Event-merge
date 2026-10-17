@@ -1,0 +1,152 @@
+event_id: s01_e11_c08_u002_e1
+utterance_id: s01_e11_c08_u002
+  tuple: ('be', 'you/(Chandler Bing)', 'my friend', 's01_e11_c08_u002')
+
+event_id: s01_e11_c08_u002_e2
+utterance_id: s01_e11_c08_u002
+  tuple: ('tell', 'I/(Ross Geller)', 'you/(Chandler Bing)', 's01_e11_c08_u002')
+
+event_id: s01_e11_c08_u003_e1
+utterance_id: s01_e11_c08_u003
+  tuple: ('kiss', 'Paolo', 'my mom', 's01_e11_c08_u003')
+
+event_id: s01_e11_c08_u004_e1
+utterance_id: s01_e11_c08_u004
+  tuple: ('know', 'I/(Ross Geller)', 'if you noticed', 's01_e11_c08_u004')
+  tuple: ('notice', 'you/(Chandler Bing)', None, 's01_e11_c08_u004')
+
+event_id: s01_e11_c08_u004_e2
+utterance_id: s01_e11_c08_u004
+  tuple: ('have', 'he/(Paolo)', 'a lot to drink', 's01_e11_c08_u004')
+  tuple: ('drink', 'he/(Paolo)', None, 's01_e11_c08_u004')
+  tuple: ('know', 'you/(Chandler Bing)', "how he gets when he's drunk", 's01_e11_c08_u004')
+  tuple: ('get', 'he/(Paolo)', None, 's01_e11_c08_u004')
+  tuple: ('be', 'he/(Paolo)', 'drunk', 's01_e11_c08_u004')
+
+event_id: s01_e11_c08_u004_e3
+utterance_id: s01_e11_c08_u004
+  tuple: ('do', 'I/(Ross Geller)', 'this', 's01_e11_c08_u004')
+  tuple: ('be', 'it', 'me', 's01_e11_c08_u004')
+  tuple: ('be', 'I/(Ross Geller)', 'sorry', 's01_e11_c08_u004')
+  tuple: ('kiss', 'I/(Ross Geller)', 'your mom', 's01_e11_c08_u004')
+
+event_id: s01_e11_c08_u006_e1
+utterance_id: s01_e11_c08_u006
+  tuple: ('be', 'I/(Ross Geller)', 'really upset about Rachel and Paolo', 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e2
+utterance_id: s01_e11_c08_u006
+  tuple: ('think', 'I/(Ross Geller)', 'I had too much tequila', 's01_e11_c08_u006')
+  tuple: ('have', 'I/(Ross Geller)', 'too much tequila', 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e3
+utterance_id: s01_e11_c08_u006
+  tuple: ('be', 'Nora Bing', 'nice', 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e4
+utterance_id: s01_e11_c08_u006
+  tuple: ('know', 'you/(Chandler Bing)', None, 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e5
+utterance_id: s01_e11_c08_u006
+  tuple: ('happen', 'nothing', None, 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e6
+utterance_id: s01_e11_c08_u006
+  tuple: ('ask', 'you/(Chandler Bing)', 'Joey', 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u006_e7
+utterance_id: s01_e11_c08_u006
+  tuple: ('come in', 'Joey Tribbiani', None, 's01_e11_c08_u006')
+
+event_id: s01_e11_c08_u007_e1
+utterance_id: s01_e11_c08_u007
+  tuple: ('know', 'you/(Joey Tribbiani)', 'about this', 's01_e11_c08_u007')
+
+event_id: s01_e11_c08_u008_e1
+utterance_id: s01_e11_c08_u008
+  tuple: ('know', 'you/(Chandler Bing)', None, 's01_e11_c08_u008')
+
+event_id: s01_e11_c08_u008_e2
+utterance_id: s01_e11_c08_u008
+  tuple: ('be', 'knowledge', 'a tricky thing', 's01_e11_c08_u008')
+
+event_id: s01_e11_c08_u009_e1
+utterance_id: s01_e11_c08_u009
+  tuple: ('spend', 'I/(Chandler Bing)', 'the entire day', 's01_e11_c08_u009')
+  tuple: ('spend', 'I/(Chandler Bing)', 'with you', 's01_e11_c08_u009')
+
+event_id: s01_e11_c08_u009_e2
+utterance_id: s01_e11_c08_u009
+  tuple: ('tell', 'you/(Joey Tribbiani)', 'me', 's01_e11_c08_u009')
+
+event_id: s01_e11_c08_u010_e1
+utterance_id: s01_e11_c08_u010
+  tuple: ('be', 'you/(Chandler Bing)', 'lucky', 's01_e11_c08_u010')
+  tuple: ('catch', 'I/(Joey Tribbiani)', 'them', 's01_e11_c08_u010')
+  tuple: ('do', 'I/(Joey Tribbiani)', None, 's01_e11_c08_u010')
+
+event_id: s01_e11_c08_u010_e2
+utterance_id: s01_e11_c08_u010
+  tuple: ('know', 'who', 'what would have happened', 's01_e11_c08_u010')
+  tuple: ('happen', 'what', None, 's01_e11_c08_u010')
+
+event_id: s01_e11_c08_u012_e1
+utterance_id: s01_e11_c08_u012
+  tuple: ('believe', 'I/(Chandler Bing)', 'this', 's01_e11_c08_u012')
+
+event_id: s01_e11_c08_u012_e2
+utterance_id: s01_e11_c08_u012
+  tuple: ('think', 'you/(Ross Geller)', None, 's01_e11_c08_u012')
+
+event_id: s01_e11_c08_u014_e1
+utterance_id: s01_e11_c08_u014
+  tuple: ('know', 'you/(Ross Geller)', None, 's01_e11_c08_u014')
+  tuple: ('know', 'no-one', 'the crap I go through with my mom more than you', 's01_e11_c08_u014')
+  tuple: ('go through', 'I/(Chandler Bing)', 'the crap', 's01_e11_c08_u014')
+  tuple: ('go through', 'I/(Chandler Bing)', 'with my mom', 's01_e11_c08_u014')
+
+event_id: s01_e11_c08_u015_e1
+utterance_id: s01_e11_c08_u015
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e11_c08_u015')
+
+event_id: s01_e11_c08_u016_e1
+utterance_id: s01_e11_c08_u016
+  tuple: ('believe', 'I/(Chandler Bing)', 'you did this', 's01_e11_c08_u016')
+  tuple: ('do', 'you/(Ross Geller)', 'this', 's01_e11_c08_u016')
+
+event_id: s01_e11_c08_u018_e1
+utterance_id: s01_e11_c08_u018
+  tuple: ('know', 'you/(Chandler Bing)', 'what', 's01_e11_c08_u018')
+
+event_id: s01_e11_c08_u019_e1
+utterance_id: s01_e11_c08_u019
+  tuple: ('be', 'I/(Chandler Bing)', 'still mad', 's01_e11_c08_u019')
+  tuple: ('be', 'I/(Chandler Bing)', 'mad at you', 's01_e11_c08_u019')
+  tuple: ('be', 'I/(Chandler Bing)', 'mad for not telling me', 's01_e11_c08_u019')
+
+event_id: s01_e11_c08_u020_e1
+utterance_id: s01_e11_c08_u020
+  tuple: ('be', 'you/(Chandler Bing)', 'mad at me', 's01_e11_c08_u020')
+
+event_id: s01_e11_c08_u022_e1
+utterance_id: s01_e11_c08_u022
+  tuple: ('let', 'you/(Ross Geller)', 'me', 's01_e11_c08_u022')
+  tuple: ('slam', 'I/(Chandler Bing)', 'the door', 's01_e11_c08_u022')
+
+event_id: s01_e11_c08_u023_e1
+utterance_id: s01_e11_c08_u023
+  tuple: ('kiss', 'I/(Joey Tribbiani)', 'her', 's01_e11_c08_u023')
+
+event_id: s01_e11_c08_u023_e2
+utterance_id: s01_e11_c08_u023
+  tuple: ('do', 'he/(Ross Geller)', None, 's01_e11_c08_u023')
+
+event_id: s01_e11_c08_u023_e3
+utterance_id: s01_e11_c08_u023
+  tuple: ('see', 'you/(Chandler Bing)', 'what happens when you break the code', 's01_e11_c08_u023')
+
+event_id: s01_e11_c08_u023_e4
+utterance_id: s01_e11_c08_u023
+  tuple: ('break', 'you/(Chandler Bing)', 'the code', 's01_e11_c08_u023')
+

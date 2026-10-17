@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "He knocks and briefly complains but is not talkative or socially engaging beyond the complaint."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He accuses them of making noise again and claims his cats can't sleep; when told he has no cats, he says he could have cats, showing uncooperative and unreliable behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicating organization or carelessness; he only issues a noise complaint."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He is irritated by their quiet talking, says he can hear them through the ceiling, and complains that his cats can't sleep, indicating sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or flexibility versus dogmatism; the exchange is limited to a complaint about noise."
+  }
+}

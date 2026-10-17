@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Shares that they wrote a poem and gives a playful instruction, but there’s no clear sign of unusually outgoing or energetic behavior beyond this brief exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives Speaker_02 a poem and reassures them they will get on the plane, showing kindness and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Apart from having prepared a poem, there’s no concrete indication of organization or careful planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "States confidently that Speaker_02 will get on the plane, showing reassurance rather than anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Writing a poem and the whimsical remark about not eating it until boarding reflect creativity and imaginative thinking."
+  }
+}

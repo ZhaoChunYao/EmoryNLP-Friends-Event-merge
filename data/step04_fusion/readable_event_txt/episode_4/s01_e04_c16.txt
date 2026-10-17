@@ -1,0 +1,29 @@
+event_id: s01_e04_c16_u002_e1
+utterance_id: s01_e04_c16_u002
+  tuple: ('play', 'I/Monica Geller', 'Monopoly', 's01_e04_c16_u002')
+
+event_id: s01_e04_c16_u007_e1
+utterance_id: s01_e04_c16_u007
+  tuple: ('be', 'it/(phone call)', 'the Visa card people', 's01_e04_c16_u007')
+
+event_id: s01_e04_c16_u008_e1
+utterance_id: s01_e04_c16_u008
+  tuple: ('take', 'you/Chandler Bing', 'my place', 's01_e04_c16_u008')
+
+event_id: s01_e04_c16_u009_e1
+utterance_id: s01_e04_c16_u009
+  tuple: ('be', 'this/Chandler Bing', 'Rachel', 's01_e04_c16_u009')
+
+event_id: s01_e04_c16_u010_e1
+utterance_id: s01_e04_c16_u010
+  tuple: ('know', 'I/Rachel Green', None, 's01_e04_c16_u010')
+  tuple: ('use', 'I/Rachel Green', 'it', 's01_e04_c16_u010')
+
+event_id: s01_e04_c16_u010_e2
+utterance_id: s01_e04_c16_u010
+  tuple: ('be', 'I/Rachel Green', 'okay', 's01_e04_c16_u010')
+
+event_id: s01_e04_c16_u012_e1
+utterance_id: s01_e04_c16_u012
+  tuple: ('have', 'I/Rachel Green', 'magic beans', 's01_e04_c16_u012')
+

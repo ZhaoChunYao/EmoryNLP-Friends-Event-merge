@@ -1,0 +1,325 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c05_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'Your folks', 'that bad', 's01_e02_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u002",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'these people', 'pros', 's01_e02_c05_u002')",
+            "('know', 'they/(these people)', \"what they're doing\", 's01_e02_c05_u002')",
+            "('do', 'they/(these people)', 'what', 's01_e02_c05_u002')",
+            "('take', 'they/(these people)', 'their time', 's01_e02_c05_u002')",
+            "('get', 'they/(these people)', 'the job done', 's01_e02_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/(Monica Geller)', \"they say you can't change your parents\", 's01_e02_c05_u003')",
+            "('say', 'they/(unspecified people)', \"you can't change your parents\", 's01_e02_c05_u003')",
+            "('change', 'you/(generic)', 'your parents', 's01_e02_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('want', 'I/(Monica Geller)', 'yours', 's01_e02_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('pee', 'I/(Ross Geller)', None, 's01_e02_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'it/(situation)', 'even worse', 's01_e02_c05_u005')",
+            "('be', 'you/(generic)', 'twins', 's01_e02_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'twins', 's01_e02_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('speak', 'we/(Phoebe Buffay & her twin sister)', None, 's01_e02_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', \"she/(Phoebe's twin sister)\", 'this high-powered, driven career type', 's01_e02_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u008",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', \"she/(Phoebe's twin sister)\", 'what', 's01_e02_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u009",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', \"she/(Phoebe's twin sister)\", 'a waitress', 's01_e02_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/(Chandler Bing)', 'an only child', 's01_e02_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('have', 'you/(Chandler Bing)', 'any of this', 's01_e02_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u012",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'an imaginary friend', 's01_e02_c05_u012')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('prefer', 'my parents', 'who', 's01_e02_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u015",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'in there', 's01_e02_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u016",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('clean up', 'I/(Rachel Green)', None, 's01_e02_c05_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u017",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('need', 'you/(Rachel Green)', 'any help', 's01_e02_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u019",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'nervous about Barry', 's01_e02_c05_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u024",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'you/(Ross Geller)', 'any advice', 's01_e02_c05_u024')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('dump', 'someone', None, 's01_e02_c05_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u025",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('steer clear', \"you/(Rachel Green)\", \"of the word 'dumped'\", 's01_e02_c05_u025')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'chances', None, 's01_e02_c05_u025')",
+            "('be', 'he/(Barry)', 'this broken shell of a man', 's01_e02_c05_u025')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('try', 'you/(Rachel Green)', 'not to look too terrific', 's01_e02_c05_u025')",
+            "('look', 'you/(Rachel Green)', 'too terrific', 's01_e02_c05_u025')",
+            "('know', 'I/(Ross Geller)', 'it will be hard', 's01_e02_c05_u025')",
+            "('be', 'it/(not looking too terrific)', 'hard', 's01_e02_c05_u025')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('go', 'I/(Ross Geller)', None, 's01_e02_c05_u025')",
+            "('give back', 'I/(Ross Geller)', 'his ring', 's01_e02_c05_u025')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('go', 'you/(Rachel Green)', None, 's01_e02_c05_u025')",
+            "('go', 'you/(Rachel Green)', 'with Carol and Susan', 's01_e02_c05_u025')",
+            "('go', 'you/(Rachel Green)', 'to the OB/GYN', 's01_e02_c05_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u026",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'you/(Ross Geller)', 'Carol', 's01_e02_c05_u026')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('get', 'it/(things)', 'so complicated', 's01_e02_c05_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u027",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'you/(Rachel Green)', 'me/(Ross Geller)', 's01_e02_c05_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u028",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('remember', 'you/(Ross Geller)', 'when we were in high school together', 's01_e02_c05_u028')",
+            "('be', 'we/(Rachel Green & Ross Geller)', 'in high school', 's01_e02_c05_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u030",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/(Ross Geller)', \"you were just gonna meet someone, fall in love- and that'd be it\", 's01_e02_c05_u030')",
+            "('meet', 'you/(Ross Geller)', 'someone', 's01_e02_c05_u030')",
+            "('fall', 'you/(Ross Geller)', 'in love', 's01_e02_c05_u030')",
+            "('be', \"that/(meeting someone, falling in love, and that'd be it)\", 'it', 's01_e02_c05_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c05_u032",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', 'I would be here', 's01_e02_c05_u032')",
+            "('be', 'I/(Rachel Green)', 'here', 's01_e02_c05_u032')"
+          ]
+        }
+      ]
+    }
+  ]
+}

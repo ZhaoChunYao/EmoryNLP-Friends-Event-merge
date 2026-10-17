@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only brief, hesitant speech (u009: 'Um... Ross?') and a short claim (u014); no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker claims they already went (u014), but another speaker immediately says they did not (u015), suggesting unreliability/dishonesty in this moment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A single hesitant 'Um...' (u009) is insufficient to infer nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or behaviors reflecting curiosity, inventiveness, or dogmatism/caution."
+  }
+}

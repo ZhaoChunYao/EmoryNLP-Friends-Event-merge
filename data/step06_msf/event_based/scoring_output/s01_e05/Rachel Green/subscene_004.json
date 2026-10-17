@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "She says she can't even send back soup at a restaurant and relies on Speaker_02 to handle the laundromat confrontation, showing low assertiveness and reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She praises Speaker_02's help and cooperates with instructions, avoiding conflict and being appreciative and compliant."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "She has never done laundry before but asks detailed questions about separating loads and where items go, showing care but also inexperience; no clear sign of being either organized or careless overall."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She calls herself a 'total laundry spaz' and seeks reassurance/clarification repeatedly, and admits she can't send back soup, indicating insecurity and anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Her questions about detergent and sorting reflect basic learning rather than curiosity or dogmatism; no strong indication of openness or closed-mindedness."
+  }
+}

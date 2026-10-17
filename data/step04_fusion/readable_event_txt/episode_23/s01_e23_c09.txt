@@ -1,0 +1,13 @@
+event_id: s01_e23_c09_u001_e1
+utterance_id: s01_e23_c09_u001
+  tuple: ('help', '#ALL#', None, 's01_e23_c09_u001')
+
+event_id: s01_e23_c09_u002_e1
+utterance_id: s01_e23_c09_u002
+  tuple: ('have', 'Ross Geller', 'baby', 's01_e23_c09_u002')
+  tuple: ('have', 'Ross Geller', 'in here', 's01_e23_c09_u002')
+
+event_id: s01_e23_c09_u002_e2
+utterance_id: s01_e23_c09_u002
+  tuple: ('stand back', 'everyone', None, 's01_e23_c09_u002')
+

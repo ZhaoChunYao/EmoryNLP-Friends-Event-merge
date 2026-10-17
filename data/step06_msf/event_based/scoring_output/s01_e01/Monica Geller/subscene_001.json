@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief comments in the group but shows no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker asks if Speaker_03 is okay, showing concern and empathy."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior about organization, planning, or reliability is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; asking if someone is okay does not indicate nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or rigidness/dogmatism in the brief remarks."
+  }
+}

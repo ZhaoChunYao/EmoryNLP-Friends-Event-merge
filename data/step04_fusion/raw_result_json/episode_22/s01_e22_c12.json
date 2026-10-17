@@ -1,0 +1,87 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u001_e1",
+          "tuples": [
+            "('be', 'that', 'nice', 's01_e22_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u004_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'here', 's01_e22_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u005_e1",
+          "tuples": [
+            "('be', 'you/Ross Geller', None, 's01_e22_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c12_u005_e2",
+          "tuples": [
+            "('be', 'we/Rachel Green+unknown', None, 's01_e22_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u006",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u006_e1",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a baby', 's01_e22_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u010",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u010_e1",
+          "tuples": [
+            "('be', 'the phone', 'where', 's01_e22_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u011",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u011_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', 'where the phone is', 's01_e22_c12_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c12_u014",
+      "events": [
+        {
+          "event_id": "s01_e22_c12_u014_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'hurt', 's01_e22_c12_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

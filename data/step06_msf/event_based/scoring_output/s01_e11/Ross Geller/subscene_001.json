@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "He makes a few brief remarks (praises Speaker_03, notes Speaker_04’s return, shares a dream) but shows no clear outgoing energy or marked reserve beyond normal conversation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He says he dreamed that Speaker_04’s plane exploded, showing hostility toward that person, and is dismissive (“Oh, please…”), which outweighs a friendly comment about liking Speaker_03."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or sloppiness/carelessness is shown in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The jealous, violent dream about Speaker_04’s plane exploding suggests insecurity and emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking; a casual positive opinion about Speaker_03 and a dream report do not strongly indicate openness or dogmatism."
+  }
+}

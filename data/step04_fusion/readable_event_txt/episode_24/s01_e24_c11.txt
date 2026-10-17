@@ -1,0 +1,50 @@
+event_id: s01_e24_c11_u001_e1
+utterance_id: s01_e24_c11_u001
+  tuple: ('excuse', 'you/(crowd)', 'me', 's01_e24_c11_u001')
+  tuple: ('pardon', 'you/(crowd)', 'me', 's01_e24_c11_u001')
+
+event_id: s01_e24_c11_u003_e1
+utterance_id: s01_e24_c11_u003
+  tuple: ('let', 'you/(unknown)', 'it', 's01_e24_c11_u003')
+  tuple: ('go', 'it/(the search for Rachel)', None, 's01_e24_c11_u003')
+
+event_id: s01_e24_c11_u003_e2
+utterance_id: s01_e24_c11_u003
+  tuple: ('be', 'There', 'no Rachel', 's01_e24_c11_u003')
+
+event_id: s01_e24_c11_u005_e1
+utterance_id: s01_e24_c11_u005
+  tuple: ('get', 'I/Ross Geller', 'that', 's01_e24_c11_u005')
+
+event_id: s01_e24_c11_u008_e1
+utterance_id: s01_e24_c11_u008
+  tuple: ('wait', 'I/Ross Geller', 'for you to meet my friends', 's01_e24_c11_u008')
+
+event_id: s01_e24_c11_u008_e2
+utterance_id: s01_e24_c11_u008
+  tuple: ('meet', 'you/Julie', 'my friends', 's01_e24_c11_u008')
+
+event_id: s01_e24_c11_u011_e1
+utterance_id: s01_e24_c11_u011
+  tuple: ('think', 'you/Ross Geller', "they'll judge and ridicule me", 's01_e24_c11_u011')
+
+event_id: s01_e24_c11_u011_e2
+utterance_id: s01_e24_c11_u011
+  tuple: ('judge', "they/(Ross's friends)", 'me', 's01_e24_c11_u011')
+
+event_id: s01_e24_c11_u011_e3
+utterance_id: s01_e24_c11_u011
+  tuple: ('ridicule', "they/(Ross's friends)", 'me', 's01_e24_c11_u011')
+
+event_id: s01_e24_c11_u013_e1
+utterance_id: s01_e24_c11_u013
+  tuple: ('wait', 'Julie and Ross Geller', None, 's01_e24_c11_u013')
+
+event_id: s01_e24_c11_u014_e1
+utterance_id: s01_e24_c11_u014
+  tuple: ('come', 'you/Julie', 'on', 's01_e24_c11_u014')
+
+event_id: s01_e24_c11_u014_e2
+utterance_id: s01_e24_c11_u014
+  tuple: ('love', "they/(Ross's friends)", 'you', 's01_e24_c11_u014')
+

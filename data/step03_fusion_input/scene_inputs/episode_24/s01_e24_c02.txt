@@ -1,0 +1,465 @@
+('get', 'we/Monica Geller', 'the cole slaw', 's01_e24_c02_u001')
+[s01_e24_c02_u001] Monica Geller: OK, we got the cole slaw, we got the buns...
+
+('get', 'we/Monica Geller', 'the buns', 's01_e24_c02_u001')
+[s01_e24_c02_u001] Monica Geller: OK, we got the cole slaw, we got the buns...
+
+('get', 'we/Phoebe Buffay', 'the ground-up flesh of formerly cute cows and turkeys', 's01_e24_c02_u002')
+[s01_e24_c02_u002] Phoebe Buffay: We've got the ground-up flesh of formerly cute cows and turkeys, ew...
+
+('be', 'Men', 'here', 's01_e24_c02_u004')
+[s01_e24_c02_u004] Chandler Bing: Men are here.
+
+('make', 'we/Joey Tribbiani', 'fire', 's01_e24_c02_u005')
+[s01_e24_c02_u005] Joey Tribbiani: We make fire. Cook meat.
+
+('cook', 'we/Joey Tribbiani', 'meat', 's01_e24_c02_u005')
+[s01_e24_c02_u005] Joey Tribbiani: We make fire. Cook meat.
+
+('put out', 'we/Chandler Bing', 'fire', 's01_e24_c02_u006')
+[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+
+('put out', 'we/Chandler Bing', 'by peeing', 's01_e24_c02_u006')
+[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+
+('get', 'we/Chandler Bing', 'invited back', 's01_e24_c02_u006')
+[s01_e24_c02_u006] Chandler Bing: Then put out fire by peeing, no get invited back.
+
+('call', 'Melanie', None, 's01_e24_c02_u008')
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+
+('say', 'Melanie', 'she is gonna be late', 's01_e24_c02_u008')
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+
+('be', 'she/Melanie', 'late', 's01_e24_c02_u008')
+[s01_e24_c02_u008] Monica Geller: Oh Joey, Melanie called, said she's gonna be late.
+
+('go', 'things', None, 's01_e24_c02_u010')
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+
+('go', 'things', 'with you two', 's01_e24_c02_u010')
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+
+('become', 'she/Melanie', 'your special someone', 's01_e24_c02_u010')
+[s01_e24_c02_u010] Phoebe Buffay: So how are things going with you two? Is she becoming your special someone?
+
+('know', 'I/Joey Tribbiani', None, 's01_e24_c02_u011')
+[s01_e24_c02_u011] Joey Tribbiani: I don't know, she's, uh.... she's pretty great.
+
+('be', 'she/Melanie', 'pretty great', 's01_e24_c02_u011')
+[s01_e24_c02_u011] Joey Tribbiani: I don't know, she's, uh.... she's pretty great.
+
+('think', 'she/Melanie', 'of your little science project', 's01_e24_c02_u012')
+[s01_e24_c02_u012] Monica Geller: Yeah? What does she think of your little science project?
+
+('think', 'you/Monica Geller', "I'm gonna tell a girl I like that I'm also seeing a cup", 's01_e24_c02_u013')
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+
+('tell', 'I/Joey Tribbiani', 'a girl I like', 's01_e24_c02_u013')
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+
+('like', 'I/Joey Tribbiani', 'a girl', 's01_e24_c02_u013')
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+
+('see', 'I/Joey Tribbiani', 'a cup', 's01_e24_c02_u013')
+[s01_e24_c02_u013] Joey Tribbiani: What, you think I'm gonna tell a girl I like that I'm also seeing a cup?
+
+('want', 'she/Melanie', 'to have sex with me', 's01_e24_c02_u015')
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+
+('have', 'she/Melanie', 'sex', 's01_e24_c02_u015')
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+
+('have', 'she/Melanie', 'with me', 's01_e24_c02_u015')
+[s01_e24_c02_u015] Joey Tribbiani: Well, the tough thing is, she really wants to have sex with me.
+
+('get', 'I/Joey Tribbiani', 'a week left', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('go', 'I/Joey Tribbiani', 'in the program', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('want', 'I/Joey Tribbiani', 'to get the money', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('get', 'I/Joey Tribbiani', 'the money', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('allow', 'I/Joey Tribbiani', 'not to conduct any personal experiments', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('conduct', 'I/Joey Tribbiani', 'personal experiments', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('allow', 'I/Joey Tribbiani', 'according to the rules', 's01_e24_c02_u017')
+[s01_e24_c02_u017] Joey Tribbiani: Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.
+
+('know', 'we/Monica Geller', 'what you mean', 's01_e24_c02_u018')
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+
+('mean', 'you/Joey Tribbiani', None, 's01_e24_c02_u018')
+[s01_e24_c02_u018] Monica Geller: Joey... we always know what you mean.
+
+('think', 'you/Ross Geller', 'this barbecue was gonna last', 's01_e24_c02_u023')
+[s01_e24_c02_u023] Phoebe Buffay: How long did you think this barbecue was gonna last?
+
+('last', 'this barbecue', None, 's01_e24_c02_u023')
+[s01_e24_c02_u023] Phoebe Buffay: How long did you think this barbecue was gonna last?
+
+('go', 'I/Ross Geller', 'to China', 's01_e24_c02_u024')
+[s01_e24_c02_u024] Ross Geller: I'm going to China.
+
+('go', 'you/Ross Geller', 'to China', 's01_e24_c02_u026')
+[s01_e24_c02_u026] Monica Geller: You're going to China?
+
+('be', 'it/(China trip)', 'for the museum', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('find', 'someone', 'a bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('want', 'we/Ross Geller', 'the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('want', 'they/(the people who found the bone)', 'us to have the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('have', 'us/Ross Geller', 'the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('go', 'I/Ross Geller', 'over there', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('try', 'I/Ross Geller', 'to persuade them to give us the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('persuade', 'I/Ross Geller', 'them to give us the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('give', 'they/(the people who found the bone)', 'the bone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('give', 'they/(the people who found the bone)', 'to us', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('be', 'I/Ross Geller', 'gone', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('be', 'I/Ross Geller', 'for like a week', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('want', 'you/(everyone there)', 'to reach me', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('reach', 'you/(everyone there)', 'me', 's01_e24_c02_u027')
+[s01_e24_c02_u027] Ross Geller: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the boit'sit's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary . Um... here's a picture of me...
+
+('take', 'you/Monica Geller', 'it', 's01_e24_c02_u029')
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+
+('take', 'you/Monica Geller', "to Carol's", 's01_e24_c02_u029')
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+
+('show', 'you/Monica Geller', 'it', 's01_e24_c02_u029')
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+
+('show', 'you/Monica Geller', 'to Ben', 's01_e24_c02_u029')
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+
+('forget', 'he/Ben Geller', 'me', 's01_e24_c02_u029')
+[s01_e24_c02_u029] Ross Geller: : Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+
+('be', 'I/Phoebe Buffay', 'the head', 's01_e24_c02_u032')
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
+
+('be', 'this barbecue', 'very fun', 's01_e24_c02_u032')
+[s01_e24_c02_u032] Phoebe Buffay: Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.
+
+('be', 'Rachel Green', 'here', 's01_e24_c02_u033')
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+
+('want', 'I/Ross Geller', 'to wish her a happy birthday before I left', 's01_e24_c02_u033')
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+
+('wish', 'I/Ross Geller', 'her a happy birthday', 's01_e24_c02_u033')
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+
+('leave', 'I/Ross Geller', None, 's01_e24_c02_u033')
+[s01_e24_c02_u033] Ross Geller: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+
+('be', 'she/Rachel Green', 'out', 's01_e24_c02_u034')
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl.
+
+('have', 'she/Rachel Green', 'drinks', 's01_e24_c02_u034')
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl.
+
+('have', 'she/Rachel Green', 'with Carl', 's01_e24_c02_u034')
+[s01_e24_c02_u034] Monica Geller: Oh no, she's out having drinks with Carl.
+
+('be', 'who', 'Carl', 's01_e24_c02_u035')
+[s01_e24_c02_u035] Ross Geller: Oh. Hey, who's Carl?
+
+('meet', 'she/Rachel Green', 'that guy', 's01_e24_c02_u036')
+[s01_e24_c02_u036] Monica Geller: You know, that guy she met at the coffeehouse.
+
+('meet', 'she/Rachel Green', 'at the coffeehouse', 's01_e24_c02_u036')
+[s01_e24_c02_u036] Monica Geller: You know, that guy she met at the coffeehouse.
+
+('go', 'I/Ross Geller', None, 's01_e24_c02_u041')
+[s01_e24_c02_u041] Ross Geller: OK, I'm gonna go say goodbye to the guys.
+
+('say', 'I/Ross Geller', 'goodbye to the guys', 's01_e24_c02_u041')
+[s01_e24_c02_u041] Ross Geller: OK, I'm gonna go say goodbye to the guys.
+
+('tell', 'you/Ross Geller', 'that bone story', 's01_e24_c02_u042')
+[s01_e24_c02_u042] Phoebe Buffay: Oh, hey, y'know what? Tell them that bone story.
+
+('tell', 'you/Ross Geller', 'to them', 's01_e24_c02_u042')
+[s01_e24_c02_u042] Phoebe Buffay: Oh, hey, y'know what? Tell them that bone story.
+
+('go', 'I/Ross Geller', 'to China', 's01_e24_c02_u047')
+[s01_e24_c02_u047] Ross Geller: ....I have to go to China.
+
+('know', 'you guys/Joey Tribbiani and Chandler Bing', 'who Carl is', 's01_e24_c02_u049')
+[s01_e24_c02_u049] Ross Geller: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+
+('have', 'Rachel Green', 'drinks', 's01_e24_c02_u051')
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+
+('have', 'Rachel Green', 'with him', 's01_e24_c02_u051')
+[s01_e24_c02_u051] Ross Geller: Well, Rachel's having drinks with him tonight.
+
+('do', 'she/Rachel Green', 'that', 's01_e24_c02_u052')
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+
+('show', 'she/Rachel Green', 'any interest in you/Ross Geller', 's01_e24_c02_u052')
+[s01_e24_c02_u052] Joey Tribbiani: Oh no! How can she do that when she's never shown any interest in you?!?
+
+('forget', 'you/Ross Geller', 'about her', 's01_e24_c02_u053')
+[s01_e24_c02_u053] Chandler Bing: Forget about her.
+
+('be', 'he/Chandler Bing', 'right', 's01_e24_c02_u054')
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+
+('move on', 'you/Ross Geller', None, 's01_e24_c02_u054')
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+
+('go', 'you/Ross Geller', 'to China', 's01_e24_c02_u054')
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+
+('eat', 'you/Ross Geller', 'Chinese food', 's01_e24_c02_u054')
+[s01_e24_c02_u054] Joey Tribbiani: He's right, man. Please. Move on. Go to China. Eat Chinese food.
+
+('call', 'they/(people there)', 'it food', 's01_e24_c02_u055')
+[s01_e24_c02_u055] Chandler Bing: Course there, they just call it food.
+
+('guess', 'I/Ross Geller', None, 's01_e24_c02_u056')
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+
+('know', 'I/Ross Geller', None, 's01_e24_c02_u056')
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+
+('give', 'you/Joey Tribbiani and Chandler Bing', 'this', 's01_e24_c02_u056')
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+
+('give', 'you/Joey Tribbiani and Chandler Bing', 'to her', 's01_e24_c02_u056')
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+
+('give', 'you/Joey Tribbiani and Chandler Bing', 'for me', 's01_e24_c02_u056')
+[s01_e24_c02_u056] Ross Geller: Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?
+
+('look out', 'we/Joey Tribbiani and Chandler Bing', 'for you/Ross Geller', 's01_e24_c02_u057')
+[s01_e24_c02_u057] Joey Tribbiani: Listen, buddy, we're just looking out for you.
+
+('want', 'we/Joey Tribbiani and Chandler Bing', 'you/Ross Geller to be happy', 's01_e24_c02_u059')
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+
+('be', 'you/Ross Geller', 'happy', 's01_e24_c02_u059')
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+
+('have', 'I/Joey Tribbiani', 'a couple beers', 's01_e24_c02_u059')
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+
+('have', 'I/Joey Tribbiani', 'in me', 's01_e24_c02_u059')
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+
+('love', 'I/Joey Tribbiani', 'you/Ross Geller', 's01_e24_c02_u059')
+[s01_e24_c02_u059] Joey Tribbiani: We want you to be happy. And I may only have a couple beers in me, but... I love you, man.
+
+('be', 'I/Chandler Bing', 'on my first', 's01_e24_c02_u060')
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+
+('think', 'I/Chandler Bing', 'you are nice', 's01_e24_c02_u060')
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+
+('be', 'you/Ross Geller', 'nice', 's01_e24_c02_u060')
+[s01_e24_c02_u060] Chandler Bing: I'm still on my first. I just think you're nice.
+
+('start', 'me and my friends', 'this whole fruit basket business', 's01_e24_c02_u062')
+[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'
+
+('call', 'we/Melanie and friends', "ourselves 'The Three Basketeers'", 's01_e24_c02_u062')
+[s01_e24_c02_u062] Melanie: Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'
+
+('like', 'everybody', 'their burgers', 's01_e24_c02_u065')
+[s01_e24_c02_u065] Monica Geller: OK, how does everybody like their burgers?
+
+('go', 'it', None, 's01_e24_c02_u068')
+[s01_e24_c02_u068] Monica Geller: Hey, hold on there, tiger. How's it going? How you holding up?
+
+('hold up', 'you/Joey Tribbiani', None, 's01_e24_c02_u068')
+[s01_e24_c02_u068] Monica Geller: Hey, hold on there, tiger. How's it going? How you holding up?
+
+('think', 'she/Melanie', "tonight is the night we're gonna complete the transaction", 's01_e24_c02_u069')
+[s01_e24_c02_u069] Joey Tribbiani: Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I...
+
+('be', 'tonight', "the night we're gonna complete the transaction", 's01_e24_c02_u069')
+[s01_e24_c02_u069] Joey Tribbiani: Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I...
+
+('complete', 'we/Joey Tribbiani and Melanie', 'the transaction', 's01_e24_c02_u069')
+[s01_e24_c02_u069] Joey Tribbiani: Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I...
+
+('think', 'you/Joey Tribbiani', 'about being there for her', 's01_e24_c02_u072')
+[s01_e24_c02_u072] Monica Geller: So, uh, have you ever thought about being there for her?
+
+('be there', 'you/Joey Tribbiani', 'for her', 's01_e24_c02_u072')
+[s01_e24_c02_u072] Monica Geller: So, uh, have you ever thought about being there for her?
+
+('mean', 'you/Monica Geller', 'what', 's01_e24_c02_u073')
+[s01_e24_c02_u073] Joey Tribbiani: What do you mean?
+
+('think', 'you/Joey Tribbiani', 'about it', 's01_e24_c02_u077')
+[s01_e24_c02_u077] Monica Geller: Think about it.
+
+('guess', 'I/Rachel Green', 'this is from ...', 's01_e24_c02_u079')
+[s01_e24_c02_u079] Rachel Green: OK, I'm guessing this is from...
+
+('thank', 'I/Rachel Green', 'Melanie', 's01_e24_c02_u081')
+[s01_e24_c02_u081] Rachel Green: Well, thank you, Melanie.
+
+('be', 'this one right here', 'from me', 's01_e24_c02_u082')
+[s01_e24_c02_u082] Chandler Bing: OK, this one right here is from me.
+
+('be', 'it', 'light', 's01_e24_c02_u083')
+[s01_e24_c02_u083] Rachel Green: OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+
+('rattle', 'it', None, 's01_e24_c02_u083')
+[s01_e24_c02_u083] Rachel Green: OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+
+('be', 'it', 'Travel Scrabble', 's01_e24_c02_u083')
+[s01_e24_c02_u083] Rachel Green: OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+
+('thank', 'I/Rachel Green', 'you/Chandler Bing', 's01_e24_c02_u083')
+[s01_e24_c02_u083] Rachel Green: OK... ah, it's light... ...it rattles... it's... Travel Scrabble! Oooohhh, thank you!
+
+('be', 'this one', 'from Joey', 's01_e24_c02_u085')
+[s01_e24_c02_u085] Rachel Green: This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And... ...it's a book!
+
+('feel', 'it', 'like a book', 's01_e24_c02_u085')
+[s01_e24_c02_u085] Rachel Green: This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And... ...it's a book!
+
+('think', 'I/Rachel Green', 'it is a book', 's01_e24_c02_u085')
+[s01_e24_c02_u085] Rachel Green: This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And... ...it's a book!
+
+('be', 'it', 'a book', 's01_e24_c02_u085')
+[s01_e24_c02_u085] Rachel Green: This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And... ...it's a book!
+
+('be', 'it', 'Dr. Seuss', 's01_e24_c02_u086')
+[s01_e24_c02_u086] Phoebe Buffay: Oh, it's Dr. Seuss!
+
+('get', 'that book', 'me', 's01_e24_c02_u087')
+[s01_e24_c02_u087] Joey Tribbiani: : That book got me through some tough times.
+
+('get', 'that book', 'through some tough times', 's01_e24_c02_u087')
+[s01_e24_c02_u087] Joey Tribbiani: : That book got me through some tough times.
+
+('be', 'a little child', 'inside this man', 's01_e24_c02_u088')
+[s01_e24_c02_u088] Melanie: There is a little child inside this man!
+
+('say', 'the doctors', 'he will die if they remove it', 's01_e24_c02_u089')
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die.
+
+('remove', 'they/the doctors', 'it', 's01_e24_c02_u089')
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die.
+
+('die', 'he/Joey Tribbiani', None, 's01_e24_c02_u089')
+[s01_e24_c02_u089] Chandler Bing: Yes, the doctors say if they remove it, he'll die.
+
+('be', 'this', 'from who', 's01_e24_c02_u091')
+[s01_e24_c02_u091] Rachel Green: Who's this from?
+
+('remember', 'he/Ross Geller', None, 's01_e24_c02_u093')
+[s01_e24_c02_u093] Rachel Green: Oh... ... Oh my God. He remembered.
+
+('be', 'it', 'months ago', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('walk', 'we/Rachel Green and Ross Geller', None, 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('walk', 'we/Rachel Green and Ross Geller', 'by this antique store', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('see', 'I/Rachel Green', 'this pin', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('see', 'I/Rachel Green', 'in the window', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('tell', 'I/Rachel Green', 'him/Ross Geller', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('have', 'my grandmother', 'one', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('have', 'my grandmother', 'when I was a little girl', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('be', 'I/Rachel Green', 'a little girl', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('believe', 'I/Rachel Green', 'he remembered', 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('remember', 'he/Ross Geller', None, 's01_e24_c02_u095')
+[s01_e24_c02_u095] Rachel Green: It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!
+
+('play', 'you/Rachel Green', 'it', 's01_e24_c02_u096')
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+
+('play', 'you/Rachel Green', 'on a plane', 's01_e24_c02_u096')
+[s01_e24_c02_u096] Chandler Bing: Well, sure, but can you play it on a plane?
+
+('be', 'it', 'so pretty', 's01_e24_c02_u097')
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+
+('cost', 'this/the pin', 'him a fortune', 's01_e24_c02_u097')
+[s01_e24_c02_u097] Phoebe Buffay: Oh, it's so pretty. This must have cost him a fortune.
+
+('believe', 'I/Monica Geller', 'he did this', 's01_e24_c02_u098')
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this.
+
+('do', 'he/Ross Geller', 'this', 's01_e24_c02_u098')
+[s01_e24_c02_u098] Monica Geller: I can't believe he did this.
+
+('remember', 'you/Ross Geller', 'back in college', 's01_e24_c02_u099')
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+
+('fall in love', 'he/Ross Geller', 'with Carol', 's01_e24_c02_u099')
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+
+('buy', 'he/Ross Geller', 'that ridiculously expensive crystal duck', 's01_e24_c02_u099')
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+
+('buy', 'he/Ross Geller', 'for her', 's01_e24_c02_u099')
+[s01_e24_c02_u099] Chandler Bing: Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?
+
+('say', 'you/Chandler Bing', 'what', 's01_e24_c02_u101')
+[s01_e24_c02_u101] Rachel Green: What did you just say?
+
+('keep', 'you/Chandler Bing', 'rubbing your head', 's01_e24_c02_u107')
+[s01_e24_c02_u107] Joey Tribbiani: That's good, just keep rubbing your head. That'll turn back time.
+
+('turn back', 'that', 'time', 's01_e24_c02_u107')
+[s01_e24_c02_u107] Joey Tribbiani: That's good, just keep rubbing your head. That'll turn back time.
+

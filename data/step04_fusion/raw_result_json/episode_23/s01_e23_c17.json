@@ -1,0 +1,147 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c17_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u001_e1",
+          "tuples": [
+            "('be', 'they/(Ross Geller and Susan Bunch)', None, 's01_e23_c17_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u002_e1",
+          "tuples": [
+            "('be sure', 'I/Monica Geller', \"they'll be here soon\", 's01_e23_c17_u002')",
+            "('be', 'they/(Ross Geller and Susan Bunch)', 'here', 's01_e23_c17_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u003_e1",
+          "tuples": [
+            "('miss', 'they/(Ross Geller and Susan Bunch)', 'this', 's01_e23_c17_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u004_e1",
+          "tuples": [
+            "('relax', 'you/Carol Willick', None, 's01_e23_c17_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u004_e2",
+          "tuples": [
+            "('be', 'you/Carol Willick', None, 's01_e23_c17_u004')",
+            "('be', 'you/Carol Willick', 'at nine centimeters', 's01_e23_c17_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u004_e3",
+          "tuples": [
+            "('be', 'the baby', None, 's01_e23_c17_u004')",
+            "('be', 'the baby', 'at zero station', 's01_e23_c17_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u005_e1",
+          "tuples": [
+            "('frighten', 'you/Joey Tribbiani', 'me', 's01_e23_c17_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u007",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u007_e1",
+          "tuples": [
+            "('want', 'Somebody', 'help me', 's01_e23_c17_u007')",
+            "('help', 'Somebody', 'me', 's01_e23_c17_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u007_e2",
+          "tuples": [
+            "('try', 'Somebody', 'rip out my heart', 's01_e23_c17_u007')",
+            "('rip', 'Somebody', 'out my heart', 's01_e23_c17_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u007_e3",
+          "tuples": [
+            "('be', 'that', 'great', 's01_e23_c17_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u007_e4",
+          "tuples": [
+            "('see', 'Anybody', 'a nipple', 's01_e23_c17_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u008",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u008_e1",
+          "tuples": [
+            "('go', 'we/Dr. Franzblau+staff', 'here', 's01_e23_c17_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u009",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u009_e1",
+          "tuples": [
+            "('start', 'you/Carol Willick', 'pushing', 's01_e23_c17_u009')",
+            "('push', 'you/Carol Willick', None, 's01_e23_c17_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c17_u011",
+      "events": [
+        {
+          "event_id": "s01_e23_c17_u011_e1",
+          "tuples": [
+            "('be sorry', 'I/Dr. Franzblau', None, 's01_e23_c17_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c17_u011_e2",
+          "tuples": [
+            "('tell', 'I/Dr. Franzblau', 'the baby to wait for them', 's01_e23_c17_u011')",
+            "('wait', 'the baby', None, 's01_e23_c17_u011')",
+            "('wait', 'the baby', 'for them', 's01_e23_c17_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

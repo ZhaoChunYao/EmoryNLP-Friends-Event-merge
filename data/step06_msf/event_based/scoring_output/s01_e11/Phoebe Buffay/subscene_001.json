@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively calls Speaker_02 over and engages in a social exchange, indicating outgoing behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Says “Thanks” to a compliment but also gives a directive; no clear sign of generosity or uncooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness; she simply wants to check a horoscope."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness and confidently beckons someone over despite being told to be cool."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Wants to check her horoscope to see if its prediction was right, showing curiosity."
+  }
+}

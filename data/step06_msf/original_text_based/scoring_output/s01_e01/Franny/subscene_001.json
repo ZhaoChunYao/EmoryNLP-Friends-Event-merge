@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the conversation, bluntly asks about sex (u003), energetically teases and probes 'So? Who?' (u005), and keeps talking confidently (u009)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows low tact and modesty—blunt sexual questioning (u003), says 'I hate you' while prying (u005), and boastfully claims 'I take credit for Speaker_02' (u009)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization/efficiency or of sloppiness/carelessness in this brief banter."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and lack of anxiety—boasts 'Are you kidding? I take credit...' (u009) and speaks assertively throughout."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of intellectual or artistic curiosity; discussion is casual gossip about sex rather than openness to ideas or experiences."
+  }
+}

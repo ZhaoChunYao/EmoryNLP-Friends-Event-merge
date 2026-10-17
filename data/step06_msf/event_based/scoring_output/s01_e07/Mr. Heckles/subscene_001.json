@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He steps in to claim the found cat and makes assertive demands (“it’s mine”; “give me my cat”), directly engaging others."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He behaves dishonestly and self-servingly—claims the cat, struggles to provide its name, improvises “B-Buttons/Bob Buttons,” and later says they owe him a cat."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Sloppy, careless behavior—he is unprepared and hesitates, making up the cat’s name (“Ehhhh… B-Buttons… Bob Buttons”)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Stammering and hesitation under questioning (“Er, yeah”; “Ehhhh…”) suggest nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or rigidity in this brief exchange."
+  }
+}

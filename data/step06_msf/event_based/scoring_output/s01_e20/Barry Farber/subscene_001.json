@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives a brief acknowledgement (\"Yeah\") and a simple confirming statement; insufficient evidence of either talkativeness or marked reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker straightforwardly agrees that their past physical intimacy was not like the recent encounter, aligning cooperatively with Speaker_01 without dispute."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, nervousness, or emotional volatility are displayed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from acknowledging a fact about their relationship history, there is no clear display of curiosity, creativity, or dogmatism."
+  }
+}

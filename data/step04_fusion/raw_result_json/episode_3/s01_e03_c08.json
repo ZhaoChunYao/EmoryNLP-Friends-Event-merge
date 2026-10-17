@@ -1,0 +1,43 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e03_c08_u001_e1",
+          "tuples": [
+            "('keep', 'you/Phoebe Buffay', 'the change', 's01_e03_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c08_u001_e2",
+          "tuples": [
+            "('want', 'you/Phoebe Buffay', 'pretzel', 's01_e03_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e03_c08_u002_e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'fine', 's01_e03_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e03_c08_u003_e1",
+          "tuples": [
+            "('see', 'I/Lizzy', 'ya', 's01_e03_c08_u003')"
+          ]
+        }
+      ]
+    }
+  ]
+}

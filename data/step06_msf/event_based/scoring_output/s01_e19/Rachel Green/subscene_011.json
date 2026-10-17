@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She takes charge of the exchange, delivers a long persuasive appeal, and then assertively threatens to call Speaker_02’s supervisor if they don’t relent."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She boasts about being prom queen/homecoming queen/class president and uses a coercive threat to report Speaker_02 to their supervisor, a confrontational, low-agreeableness tactic."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of being notably organized/efficient or sloppy/careless; her actions are persuasive and forceful but not about planning or diligence."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She admits she will lose Speaker_01—one of the most important people in her life—if Marcel is taken, and pleads not to punish Speaker_01, showing emotional sensitivity and anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Her approach is straightforward persuasion and threat; there is no clear sign of curiosity, creativity, or unconventional thinking."
+  }
+}

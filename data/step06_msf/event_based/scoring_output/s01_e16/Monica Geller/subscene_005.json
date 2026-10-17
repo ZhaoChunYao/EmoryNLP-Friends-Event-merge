@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and focuses on operating the viewing setup; no clear outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Promptly helps by removing the image when asked and checks on Speaker_04’s wellbeing (“Are you alright?”), showing cooperation and concern."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Says they understand how to operate the viewing setup and successfully removes the image, demonstrating competence and reliability."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Remains calm and task-focused; no strong signs of nervousness or pronounced confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Handling the viewing setup shows no clear curiosity or inventiveness; no exploration of new ideas is expressed."
+  }
+}

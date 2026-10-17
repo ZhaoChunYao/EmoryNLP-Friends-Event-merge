@@ -1,0 +1,838 @@
+{
+  "tuples": [
+    {
+      "verb": "hand over",
+      "subject": "you gals/(Rachel Green, Monica Geller, Phoebe Buffay)",
+      "object": "your money now",
+      "uid": "s01_e18_c07_u001"
+    },
+    {
+      "verb": "go",
+      "subject": "we/(everyone at the table)",
+      "object": "through the formality of actually playing",
+      "uid": "s01_e18_c07_u001"
+    },
+    {
+      "verb": "play",
+      "subject": "we/(everyone at the table)",
+      "object": null,
+      "uid": "s01_e18_c07_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "fine",
+      "uid": "s01_e18_c07_u002"
+    },
+    {
+      "verb": "see",
+      "subject": "we/(Rachel Green, Monica Geller, Phoebe Buffay)",
+      "object": "who has the last laugh there",
+      "uid": "s01_e18_c07_u002"
+    },
+    {
+      "verb": "have",
+      "subject": "who",
+      "object": "the last laugh there",
+      "uid": "s01_e18_c07_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(everyone at the table)",
+      "object": "done with the chit-chat",
+      "uid": "s01_e18_c07_u003"
+    },
+    {
+      "verb": "play",
+      "subject": "we/(everyone at the table)",
+      "object": "some serious poker",
+      "uid": "s01_e18_c07_u003"
+    },
+    {
+      "verb": "look",
+      "subject": "you guys/(everyone at the table)",
+      "object": null,
+      "uid": "s01_e18_c07_u004"
+    },
+    {
+      "verb": "follow",
+      "subject": "the one-eyed jack",
+      "object": "me",
+      "uid": "s01_e18_c07_u004"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e18_c07_u004"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u006"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": "to the bathroom",
+      "uid": "s01_e18_c07_u007"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Ross Geller",
+      "object": "to the bathroom",
+      "uid": "s01_e18_c07_u008"
+    },
+    {
+      "verb": "play",
+      "subject": "you/Ross Geller",
+      "object": "poker",
+      "uid": "s01_e18_c07_u008"
+    },
+    {
+      "verb": "order",
+      "subject": "I/Joey Tribbiani",
+      "object": "a pizza",
+      "uid": "s01_e18_c07_u010"
+    },
+    {
+      "verb": "hear",
+      "subject": "I/Rachel Green",
+      "object": "from that job",
+      "uid": "s01_e18_c07_u011"
+    },
+    {
+      "verb": "close",
+      "subject": "the store",
+      "object": null,
+      "uid": "s01_e18_c07_u011"
+    },
+    {
+      "verb": "close",
+      "subject": "the store",
+      "object": "at nine",
+      "uid": "s01_e18_c07_u011"
+    },
+    {
+      "verb": "eat",
+      "subject": "you/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e18_c07_u011"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "a Tic-Tac",
+      "uid": "s01_e18_c07_u012"
+    },
+    {
+      "verb": "hold",
+      "subject": "a Tic-Tac",
+      "object": "over me",
+      "uid": "s01_e18_c07_u012"
+    },
+    {
+      "verb": "ante",
+      "subject": "everybody/(all players)",
+      "object": null,
+      "uid": "s01_e18_c07_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "your money",
+      "object": "mine",
+      "uid": "s01_e18_c07_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "your fly",
+      "object": "open",
+      "uid": "s01_e18_c07_u017"
+    },
+    {
+      "verb": "know",
+      "subject": "you guys/(everyone at the table)",
+      "object": "what I just realized",
+      "uid": "s01_e18_c07_u019"
+    },
+    {
+      "verb": "realize",
+      "subject": "I/Phoebe Buffay",
+      "object": "'Joker' is 'poker' with a 'J'",
+      "uid": "s01_e18_c07_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "'Joker'",
+      "object": "'poker' with a 'J'",
+      "uid": "s01_e18_c07_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "'joincidence' with a 'C'",
+      "uid": "s01_e18_c07_u020"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Phoebe Buffay",
+      "object": "out",
+      "uid": "s01_e18_c07_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "in",
+      "uid": "s01_e18_c07_u023"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e18_c07_u025"
+    },
+    {
+      "verb": "hop",
+      "subject": "you/Rachel Green",
+      "object": "out of the shower",
+      "uid": "s01_e18_c07_u026"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Ross Geller",
+      "object": "a flush",
+      "uid": "s01_e18_c07_u026"
+    },
+    {
+      "verb": "hop",
+      "subject": "you/Ross Geller",
+      "object": "back in",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Rachel Green",
+      "object": "four sixes",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "win",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "I'm gonna make a little Ross pile",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "make",
+      "subject": "I/Rachel Green",
+      "object": "a little Ross pile",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "that one was Ross's",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "that one",
+      "object": "Ross's",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Rachel Green",
+      "object": "your money",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Ross Geller",
+      "object": "it",
+      "uid": "s01_e18_c07_u027"
+    },
+    {
+      "verb": "make",
+      "subject": "I/Rachel Green",
+      "object": "you look",
+      "uid": "s01_e18_c07_u031"
+    },
+    {
+      "verb": "look",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "inner",
+      "uid": "s01_e18_c07_u033"
+    },
+    {
+      "verb": "hate",
+      "subject": "I/Monica Geller",
+      "object": "this game",
+      "uid": "s01_e18_c07_u035"
+    },
+    {
+      "verb": "fold",
+      "subject": "I/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e18_c07_u038"
+    },
+    {
+      "verb": "hit",
+      "subject": "who",
+      "object": "in the stomach",
+      "uid": "s01_e18_c07_u038"
+    },
+    {
+      "verb": "hit",
+      "subject": "who",
+      "object": "by a fat guy with sores on his face",
+      "uid": "s01_e18_c07_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "out",
+      "uid": "s01_e18_c07_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "out",
+      "uid": "s01_e18_c07_u042"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "you/Ross Geller",
+      "uid": "s01_e18_c07_u044"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Rachel Green",
+      "object": "you/Ross Geller",
+      "uid": "s01_e18_c07_u044"
+    },
+    {
+      "verb": "say",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e18_c07_u044"
+    },
+    {
+      "verb": "waste",
+      "subject": "you/Ross Geller",
+      "object": "another buck",
+      "uid": "s01_e18_c07_u044"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u046"
+    },
+    {
+      "verb": "show",
+      "subject": "you/Rachel Green",
+      "object": "them",
+      "uid": "s01_e18_c07_u047"
+    },
+    {
+      "verb": "show",
+      "subject": "you/Rachel Green",
+      "object": "to me",
+      "uid": "s01_e18_c07_u047"
+    },
+    {
+      "verb": "get",
+      "subject": "you/Ross Geller",
+      "object": "your hands out of there",
+      "uid": "s01_e18_c07_u050"
+    },
+    {
+      "verb": "let",
+      "subject": "you/Rachel Green",
+      "object": "me see",
+      "uid": "s01_e18_c07_u051"
+    },
+    {
+      "verb": "see",
+      "subject": "me/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u051"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler Bing",
+      "object": "dates like this",
+      "uid": "s01_e18_c07_u052"
+    },
+    {
+      "verb": "stand",
+      "subject": "you/Ross Geller",
+      "object": "to lose",
+      "uid": "s01_e18_c07_u053"
+    },
+    {
+      "verb": "lose",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u053"
+    },
+    {
+      "verb": "get",
+      "subject": "your whole face",
+      "object": "red",
+      "uid": "s01_e18_c07_u053"
+    },
+    {
+      "verb": "pop out",
+      "subject": "little veins",
+      "object": "on your temple",
+      "uid": "s01_e18_c07_u053"
+    },
+    {
+      "verb": "match",
+      "subject": "that shirt",
+      "object": "those pants",
+      "uid": "s01_e18_c07_u054"
+    },
+    {
+      "verb": "lose",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u056"
+    },
+    {
+      "verb": "talk",
+      "subject": "us/(everyone at the table)",
+      "object": "about losing",
+      "uid": "s01_e18_c07_u058"
+    },
+    {
+      "verb": "deal",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u058"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "about the job",
+      "uid": "s01_e18_c07_u061"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Barbara",
+      "object": null,
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "understand",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "fine",
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Barbara",
+      "object": "silly",
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Barbara",
+      "object": null,
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "open",
+      "subject": "anything else",
+      "object": null,
+      "uid": "s01_e18_c07_u063"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u066"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "lots of other stuff",
+      "uid": "s01_e18_c07_u066"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(everyone at the table)",
+      "object": null,
+      "uid": "s01_e18_c07_u067"
+    },
+    {
+      "verb": "look",
+      "subject": "Rachel Green",
+      "object": null,
+      "uid": "s01_e18_c07_u068"
+    },
+    {
+      "verb": "do",
+      "subject": "we/Joey Tribbiani and Rachel Green",
+      "object": "this",
+      "uid": "s01_e18_c07_u068"
+    },
+    {
+      "verb": "check",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u070"
+    },
+    {
+      "verb": "check",
+      "subject": "I/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e18_c07_u071"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "in for fifty cents",
+      "uid": "s01_e18_c07_u072"
+    },
+    {
+      "verb": "call",
+      "subject": "I/Chandler Bing",
+      "object": null,
+      "uid": "s01_e18_c07_u073"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Phoebe Buffay",
+      "object": "in",
+      "uid": "s01_e18_c07_u074"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "your fifty cents",
+      "uid": "s01_e18_c07_u075"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Rachel Green",
+      "object": "you five dollars",
+      "uid": "s01_e18_c07_u075"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ross Geller",
+      "object": "it was a fifty cent limit",
+      "uid": "s01_e18_c07_u076"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "a fifty cent limit",
+      "uid": "s01_e18_c07_u076"
+    },
+    {
+      "verb": "lose",
+      "subject": "I/Rachel Green",
+      "object": "a job",
+      "uid": "s01_e18_c07_u077"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Rachel Green",
+      "object": "the bet five bucks",
+      "uid": "s01_e18_c07_u077"
+    },
+    {
+      "verb": "have",
+      "subject": "anybody",
+      "object": "a problem with that",
+      "uid": "s01_e18_c07_u077"
+    },
+    {
+      "verb": "fold",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u081"
+    },
+    {
+      "verb": "mean",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "fold",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": null,
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "'once the cards were dealt, I'm not a nice guy.'",
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "deal",
+      "subject": "the cards",
+      "object": null,
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "not a nice guy",
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "full of it",
+      "uid": "s01_e18_c07_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "in",
+      "uid": "s01_e18_c07_u084"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Ross Geller",
+      "object": "how many",
+      "uid": "s01_e18_c07_u085"
+    },
+    {
+      "verb": "take",
+      "subject": "dealer/Rachel Green",
+      "object": "two",
+      "uid": "s01_e18_c07_u087"
+    },
+    {
+      "verb": "bet",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e18_c07_u087"
+    },
+    {
+      "verb": "bet",
+      "subject": "I/Ross Geller",
+      "object": "two dollars",
+      "uid": "s01_e18_c07_u088"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "your two",
+      "uid": "s01_e18_c07_u089"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Rachel Green",
+      "object": "you twenty",
+      "uid": "s01_e18_c07_u089"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Ross Geller",
+      "object": "your twenty",
+      "uid": "s01_e18_c07_u090"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Ross Geller",
+      "object": "you twenty-five",
+      "uid": "s01_e18_c07_u090"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "your twenty-five",
+      "uid": "s01_e18_c07_u092"
+    },
+    {
+      "verb": "get",
+      "subject": "Monica Geller",
+      "object": "my purse",
+      "uid": "s01_e18_c07_u092"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "nothing in it",
+      "uid": "s01_e18_c07_u094"
+    },
+    {
+      "verb": "get",
+      "subject": "you/Monica Geller",
+      "object": "your purse",
+      "uid": "s01_e18_c07_u095"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Rachel Green",
+      "object": "here",
+      "uid": "s01_e18_c07_u097"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Rachel Green",
+      "object": "you/Monica Geller",
+      "uid": "s01_e18_c07_u098"
+    },
+    {
+      "verb": "raise",
+      "subject": "I/Rachel Green",
+      "object": "you seven",
+      "uid": "s01_e18_c07_u098"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "a little shy",
+      "uid": "s01_e18_c07_u101"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "OK",
+      "uid": "s01_e18_c07_u102"
+    },
+    {
+      "verb": "ask",
+      "subject": "you/Ross Geller",
+      "object": "me/Joey Tribbiani",
+      "uid": "s01_e18_c07_u102"
+    },
+    {
+      "verb": "need",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e18_c07_u104"
+    },
+    {
+      "verb": "be",
+      "subject": "here",
+      "object": "ten",
+      "uid": "s01_e18_c07_u106"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "five",
+      "uid": "s01_e18_c07_u107"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Ross Geller",
+      "object": "you/Chandler Bing and Joey Tribbiani",
+      "uid": "s01_e18_c07_u108"
+    },
+    {
+      "verb": "call",
+      "subject": "I/Ross Geller",
+      "object": "your seventeen",
+      "uid": "s01_e18_c07_u110"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Rachel Green",
+      "object": "what",
+      "uid": "s01_e18_c07_u110"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Rachel Green",
+      "object": "me",
+      "uid": "s01_e18_c07_u114"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "alright",
+      "uid": "s01_e18_c07_u116"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(everyone)",
+      "object": null,
+      "uid": "s01_e18_c07_u116"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "a tough hand to beat",
+      "uid": "s01_e18_c07_u116"
+    },
+    {
+      "verb": "beat",
+      "subject": "you/(generic player)",
+      "object": "that hand",
+      "uid": "s01_e18_c07_u116"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Chandler Bing",
+      "object": "we had them",
+      "uid": "s01_e18_c07_u117"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Ross Geller, Chandler Bing, Joey Tribbiani)",
+      "object": "them",
+      "uid": "s01_e18_c07_u117"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(generic player)",
+      "object": "the cards",
+      "uid": "s01_e18_c07_u118"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(group)",
+      "object": null,
+      "uid": "s01_e18_c07_u118"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(group)",
+      "object": null,
+      "uid": "s01_e18_c07_u118"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Rachel Green",
+      "object": "happy",
+      "uid": "s01_e18_c07_u118"
+    }
+  ]
+}

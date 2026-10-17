@@ -1,0 +1,394 @@
+{
+  "tuples": [
+    {
+      "verb": "do",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e22_c06_u001"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Ethan",
+      "object": "you",
+      "uid": "s01_e22_c06_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ethan",
+      "object": "like nine",
+      "uid": "s01_e22_c06_u002"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ethan",
+      "object": "that gunpoint was an actual place where crimes happen",
+      "uid": "s01_e22_c06_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "gunpoint",
+      "object": "an actual place",
+      "uid": "s01_e22_c06_u002"
+    },
+    {
+      "verb": "happen",
+      "subject": "crimes",
+      "object": null,
+      "uid": "s01_e22_c06_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "possible",
+      "uid": "s01_e22_c06_u003"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Monica Geller",
+      "object": "about it",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "on the news",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "hold up",
+      "subject": "A man",
+      "object": "at gunpoint",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "terrorise",
+      "subject": "Tourists",
+      "object": "at gunpoint",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ethan",
+      "object": "why does people continue to go there",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "continue",
+      "subject": "people",
+      "object": "to go there",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "go",
+      "subject": "people",
+      "object": "there",
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u004"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Ethan",
+      "object": "to stay over",
+      "uid": "s01_e22_c06_u010"
+    },
+    {
+      "verb": "stay over",
+      "subject": "you/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u010"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e22_c06_u010"
+    },
+    {
+      "verb": "like",
+      "subject": "I/Ethan",
+      "object": "that",
+      "uid": "s01_e22_c06_u011"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Ethan+Monica Geller",
+      "object": "into any staying-over-stuff",
+      "uid": "s01_e22_c06_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "something you should know",
+      "uid": "s01_e22_c06_u013"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Monica Geller",
+      "object": "something",
+      "uid": "s01_e22_c06_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "like 'I have an early class tomorrow' or 'I'm secretly married to a goat'",
+      "uid": "s01_e22_c06_u014"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Monica Geller",
+      "object": "an early class",
+      "uid": "s01_e22_c06_u014"
+    },
+    {
+      "verb": "marry",
+      "subject": "I/Monica Geller",
+      "object": "to a goat",
+      "uid": "s01_e22_c06_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "somewhere in between",
+      "uid": "s01_e22_c06_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ethan",
+      "object": "a virgin",
+      "uid": "s01_e22_c06_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "what you kids are calling it these days",
+      "uid": "s01_e22_c06_u019"
+    },
+    {
+      "verb": "call",
+      "subject": "you kids",
+      "object": "it",
+      "uid": "s01_e22_c06_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u019"
+    },
+    {
+      "verb": "wait",
+      "subject": "I/Ethan",
+      "object": "for the right person",
+      "uid": "s01_e22_c06_u019"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Monica Geller",
+      "object": "that I was talking about you",
+      "uid": "s01_e22_c06_u021"
+    },
+    {
+      "verb": "talk",
+      "subject": "I/Ethan",
+      "object": "about you",
+      "uid": "s01_e22_c06_u021"
+    },
+    {
+      "verb": "say",
+      "subject": "you/Ethan",
+      "object": "that",
+      "uid": "s01_e22_c06_u025"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "read",
+      "subject": "you/Ethan",
+      "object": "about it",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Ethan",
+      "object": "it",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Ethan",
+      "object": "in the movies",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "practice",
+      "subject": "you/Ethan",
+      "object": "it",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "practice",
+      "subject": "you/Ethan",
+      "object": "at home",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "nothing like that",
+      "uid": "s01_e22_c06_u026"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Ethan",
+      "object": "me something",
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "really difficult",
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "for you",
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Monica Geller",
+      "object": "if you could be honest then I can too",
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ethan",
+      "object": "honest",
+      "uid": "s01_e22_c06_u028"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Monica Geller",
+      "object": "me",
+      "uid": "s01_e22_c06_u029"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Ethan",
+      "object": "it wrong",
+      "uid": "s01_e22_c06_u029"
+    },
+    {
+      "verb": "go",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e22_c06_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Monica Geller",
+      "object": "22",
+      "uid": "s01_e22_c06_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Monica Geller",
+      "object": "25",
+      "uid": "s01_e22_c06_u032"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Monica Geller",
+      "object": "that shouldn't change anything",
+      "uid": "s01_e22_c06_u034"
+    },
+    {
+      "verb": "change",
+      "subject": "that",
+      "object": "anything",
+      "uid": "s01_e22_c06_u034"
+    },
+    {
+      "verb": "matter",
+      "subject": "it",
+      "object": "how old we are",
+      "uid": "s01_e22_c06_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "we/Ethan+Monica Geller",
+      "object": "old",
+      "uid": "s01_e22_c06_u034"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "tell",
+      "subject": "we/Ethan+Monica Geller",
+      "object": "stuff",
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Ethan",
+      "object": "another one",
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Ethan",
+      "object": "for you",
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ethan",
+      "object": "a little younger than I said",
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "say",
+      "subject": "I/Ethan",
+      "object": null,
+      "uid": "s01_e22_c06_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ethan",
+      "object": "a senior",
+      "uid": "s01_e22_c06_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ethan",
+      "object": "a senior in High School",
+      "uid": "s01_e22_c06_u038"
+    }
+  ]
+}

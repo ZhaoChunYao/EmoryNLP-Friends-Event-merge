@@ -1,0 +1,290 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c16_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u001_e1",
+          "tuples": [
+            "('be', 'This/(being stuck in a closet with you)', 'all your fault', 's01_e23_c16_u001')",
+            "('stick', 'I/Ross Geller', 'in a closet', 's01_e23_c16_u001')",
+            "('stick', 'I/Ross Geller', 'with you', 's01_e23_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u001_e2",
+          "tuples": [
+            "('suppose', 'This/(this day)', 'to be the greatest day of my life', 's01_e23_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u001_e3",
+          "tuples": [
+            "('be born', 'My son', None, 's01_e23_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u001_e4",
+          "tuples": [
+            "('be', 'I/Ross Geller', None, 's01_e23_c16_u001')",
+            "('be', 'I/Ross Geller', 'in there', 's01_e23_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u001_e5",
+          "tuples": [
+            "('come', 'you/Susan Bunch', None, 's01_e23_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u001_e6",
+          "tuples": [
+            "('know', 'you/Susan Bunch', None, 's01_e23_c16_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u002_e1",
+          "tuples": [
+            "('have', 'The woman I love', 'a baby', 's01_e23_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u002_e2",
+          "tuples": [
+            "('love', 'I/Susan Bunch', 'The woman', 's01_e23_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u002_e3",
+          "tuples": [
+            "('wait', 'I/Susan Bunch', 'for this', 's01_e23_c16_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u003_e1",
+          "tuples": [
+            "('believe', 'you/Susan Bunch', 'me', 's01_e23_c16_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u003_e2",
+          "tuples": [
+            "('wait', 'No one', 'for this', 's01_e23_c16_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u003_e3",
+          "tuples": [
+            "('be over', 'this day', None, 's01_e23_c16_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u003_e4",
+          "tuples": [
+            "('get', 'you/Susan Bunch', 'to go home with the baby', 's01_e23_c16_u003')",
+            "('go', 'you/Susan Bunch', 'home', 's01_e23_c16_u003')",
+            "('go', 'you/Susan Bunch', 'with the baby', 's01_e23_c16_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u003_e5",
+          "tuples": [
+            "('leave', 'that/(you go home with the baby)', 'me', 's01_e23_c16_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u003_e6",
+          "tuples": [
+            "('be', 'the funny thing', None, 's01_e23_c16_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u004_e1",
+          "tuples": [
+            "('get', 'you/Ross Geller', \"to be the baby's father\", 's01_e23_c16_u004')",
+            "('be', 'you/Ross Geller', \"the baby's father\", 's01_e23_c16_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u004_e2",
+          "tuples": [
+            "('know', 'Everyone', 'who you are', 's01_e23_c16_u004')",
+            "('be', 'you/Ross Geller', 'who', 's01_e23_c16_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u004_e3",
+          "tuples": [
+            "('be', 'I/Susan Bunch', 'who', 's01_e23_c16_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u004_e4",
+          "tuples": [
+            "('be', 'There', \"Mother's Day\", 's01_e23_c16_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u004_e5",
+          "tuples": [
+            "('be', 'There', \"Father's Day\", 's01_e23_c16_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u004_e6",
+          "tuples": [
+            "('be', 'There', 'no Lesbian Lover Day', 's01_e23_c16_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u005_e1",
+          "tuples": [
+            "('be', 'Every day', 'Lesbian Lover Day', 's01_e23_c16_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u006_e1",
+          "tuples": [
+            "('be', 'This/(situation)', 'so great', 's01_e23_c16_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u007",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u007_e1",
+          "tuples": [
+            "('want', 'you/Phoebe Buffay', 'to explain that', 's01_e23_c16_u007')",
+            "('explain', 'you/Phoebe Buffay', 'that', 's01_e23_c16_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c16_u008",
+      "events": [
+        {
+          "event_id": "s01_e23_c16_u008_e1",
+          "tuples": [
+            "('mean', 'I/Phoebe Buffay', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e2",
+          "tuples": [
+            "('grow up', 'I/Phoebe Buffay', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e3",
+          "tuples": [
+            "('know', 'you/(Ross Geller and Susan Bunch)', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e4",
+          "tuples": [
+            "('leave', 'my dad', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e5",
+          "tuples": [
+            "('die', 'my mother', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e6",
+          "tuples": [
+            "('go', 'my stepfather', 'to jail', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e7",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', 'enough pieces of parents to make one whole one', 's01_e23_c16_u008')",
+            "('make', 'I/Phoebe Buffay', 'one whole one', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e8",
+          "tuples": [
+            "('be', 'Here', 'this little baby', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e9",
+          "tuples": [
+            "('have', 'who/this little baby', 'like three whole parents', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e10",
+          "tuples": [
+            "('care', 'who/three whole parents', 'about it', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e11",
+          "tuples": [
+            "('fight', 'they/three whole parents', 'over who gets to love it the most', 's01_e23_c16_u008')",
+            "('get', 'who/which parent', 'to love it the most', 's01_e23_c16_u008')",
+            "('love', 'who/which parent', 'it', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e12",
+          "tuples": [
+            "('be born', 'It/(the baby)', None, 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e13",
+          "tuples": [
+            "('be', 'It/(the baby)', 'the luckiest baby in the whole world', 's01_e23_c16_u008')",
+            "('be', 'It/(the baby)', 'in the whole world', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e14",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'sorry', 's01_e23_c16_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c16_u008_e15",
+          "tuples": [
+            "('fight', 'you/(Ross Geller and Susan Bunch)', None, 's01_e23_c16_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

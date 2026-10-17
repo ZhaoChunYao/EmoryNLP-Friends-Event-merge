@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only says “Well?” (u019) and notes that Speaker_02 went home and changed clothes (u024); minimal social display, neither clearly outgoing nor reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No signs of conflict, warmth, generosity, or hostility; statements are neutral (“Well?”, and an observation about clothes)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness; only a brief prompt and a simple observation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressed anxiety, irritability, or strong composure; tone appears neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No curiosity, imagination, or dogmatism shown; the remark about changing clothes is a straightforward observation."
+  }
+}

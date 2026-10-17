@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only asks to borrow a phone and state plans; no signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Wants to call home to check on grandma during the blackout, showing care and concern for others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proactively plans to borrow a phone and call home to ensure grandma is okay during the emergency."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressed anxiety or distress; simply takes practical action."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or unconventional thinking in the exchange."
+  }
+}

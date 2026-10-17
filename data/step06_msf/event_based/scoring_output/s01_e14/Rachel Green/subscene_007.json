@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly to participate and make a correction but shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperates with the group ritual by contributing items ('Ok, Barry's letters. Speaker_03's boxer shorts.') and is straightforward/candid in correcting the claim about the photo ('Speaker_05 is wearing a sweater.')."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating planning or organization; merely follows along with the activity without signs of carefulness or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A brief 'Eww!' reaction to a risqué photo shows normal disgust, not anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Willingly engages in an unconventional ritual and readily suggests items to throw in, indicating openness to unusual activities."
+  }
+}

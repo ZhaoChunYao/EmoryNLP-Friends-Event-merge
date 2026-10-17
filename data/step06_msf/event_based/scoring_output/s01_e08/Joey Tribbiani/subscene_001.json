@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks a brief clarifying question (“Twice?”) and checks on others’ wellbeing; no clear sign of outgoing energy or marked reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After learning about the grandmother’s death, TargetSpeaker asks whether Speaker_04 and Speaker_05 are okay, showing concern and empathy."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display anxiety, stress, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity/inventiveness or dogmatism/caution beyond a simple clarification (“Twice?”)."
+  }
+}

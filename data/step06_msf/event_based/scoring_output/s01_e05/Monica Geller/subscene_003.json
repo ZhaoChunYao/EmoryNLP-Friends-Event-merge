@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates social interaction, compliments Speaker_01 as \"so cute,\" and asks multiple questions about where they grew up."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a warm compliment (calling Speaker_01 \"so cute\") and engages politely with others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or diligence; interaction is casual conversation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or distress; a neutral \"What?\" response to Speaker_03’s exclamation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking where they grew up and probing further about how that situation happened."
+  }
+}

@@ -1,0 +1,90 @@
+('hire', 'you/(crew)', 'the girl', 's01_e06_c06_u001')
+[s01_e06_c06_u001] Director: ...Dammit, hire the girl! Okay, everybody ready?
+
+('be', 'everybody', 'ready', 's01_e06_c06_u001')
+[s01_e06_c06_u001] Director: ...Dammit, hire the girl! Okay, everybody ready?
+
+('listen', 'you/(Director)', None, 's01_e06_c06_u002')
+[s01_e06_c06_u002] Joey Tribbiani: Uh, listen, I just wanna thank you for this great opportunity.
+
+('thank', 'I/(Joey Tribbiani)', 'you for this great opportunity', 's01_e06_c06_u002')
+[s01_e06_c06_u002] Joey Tribbiani: Uh, listen, I just wanna thank you for this great opportunity.
+
+('lose', 'you/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u003')
+[s01_e06_c06_u003] Director: Lose the robe.
+
+('work', 'that', None, 's01_e06_c06_u005')
+[s01_e06_c06_u005] Director: That would work.
+
+('lose', 'I/(Joey Tribbiani)', 'the robe', 's01_e06_c06_u006')
+[s01_e06_c06_u006] Joey Tribbiani: Right. Okay. Losing the robe. And the robe is lost.
+
+('be', 'the robe', 'lost', 's01_e06_c06_u006')
+[s01_e06_c06_u006] Joey Tribbiani: Right. Okay. Losing the robe. And the robe is lost.
+
+('like', 'we/(Director and crew)', 'get this in one take', 's01_e06_c06_u007')
+[s01_e06_c06_u007] Director: Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working .. and... action.
+
+('get', 'we/(Director and crew)', 'in one take', 's01_e06_c06_u007')
+[s01_e06_c06_u007] Director: Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working .. and... action.
+
+('roll', 'we/(Director and crew)', 'it', 's01_e06_c06_u007')
+[s01_e06_c06_u007] Director: Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working .. and... action.
+
+('work', 'water', None, 's01_e06_c06_u007')
+[s01_e06_c06_u007] Director: Okay, everybody, we'd like to get this in one take, please. Let's roll it.. water's working .. and... action.
+
+('cut', 'you/(crew)', None, 's01_e06_c06_u009')
+[s01_e06_c06_u009] Director: And cut. Hey, Butt Guy, what the hell are you doing?
+
+('do', 'you/(Joey Tribbiani)', 'what', 's01_e06_c06_u009')
+[s01_e06_c06_u009] Director: And cut. Hey, Butt Guy, what the hell are you doing?
+
+('shower', 'I/(Joey Tribbiani)', None, 's01_e06_c06_u010')
+[s01_e06_c06_u010] Joey Tribbiani: Well, I'm- I'm showering.
+
+('clench', 'that', None, 's01_e06_c06_u011')
+[s01_e06_c06_u011] Director: No, that was clenching.
+
+('see', 'I/(Joey Tribbiani)', 'it', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('be', 'the guy', 'upset here', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('know', 'you/(Director)', None, 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('be', 'his wife', 'dead', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('be', 'his brother', 'missing', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('think', 'I/(Joey Tribbiani)', 'his butt would be angry here', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('be', 'his butt', 'angry here', 's01_e06_c06_u012')
+[s01_e06_c06_u012] Joey Tribbiani: Oh. Well, the way I see it, the guy's upset here, y'know? I mean, his wife's dead, his brother's missing... I think his butt would be angry here.
+
+('think', 'I/(Director)', 'his butt would like to get this shot before lunch', 's01_e06_c06_u013')
+[s01_e06_c06_u013] Director: I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?
+
+('like', 'his butt', 'get this shot before lunch', 's01_e06_c06_u013')
+[s01_e06_c06_u013] Director: I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?
+
+('get', 'his butt', 'this shot', 's01_e06_c06_u013')
+[s01_e06_c06_u013] Director: I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?
+
+('get', 'his butt', 'before lunch', 's01_e06_c06_u013')
+[s01_e06_c06_u013] Director: I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?
+
+('be', 'that', 'what', 's01_e06_c06_u013')
+[s01_e06_c06_u013] Director: I think his butt would like to get this shot before lunch. Once again, rolling... water working... and action....and cut. What was that?
+
+('go', 'I/(Joey Tribbiani)', 'for quiet desperation', 's01_e06_c06_u014')
+[s01_e06_c06_u014] Joey Tribbiani: I was going for quiet desperation. But if you have to ask...
+
+('ask', 'you/(Director)', None, 's01_e06_c06_u014')
+[s01_e06_c06_u014] Joey Tribbiani: I was going for quiet desperation. But if you have to ask...
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief contributions—states an opinion ('does not think Speaker_02 is dead') and asks short questions ('What?', 'Really?')—showing neither clear outgoing energy nor withdrawal."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They are straightforward and non-confrontational, but there is no clear display of generosity or untrustworthiness beyond simply disagreeing and seeking clarification."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown in these short reactions."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "They respond with simple questions rather than visible anxiety or panic, but the exchange is too brief to infer stable calmness or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A brief skeptical check ('Really?') suggests minimal curiosity, but there is no strong evidence of curiosity/inventiveness or dogmatism/caution."
+  }
+}

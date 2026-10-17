@@ -1,0 +1,68 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c11_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'these margaritas', 'any stronger', 's01_e22_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c11_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('love', 'I/(Petrie)', 'your Stevie Wonder', 's01_e22_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c11_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/(Gerston,Santos,Petrie)', 'about the weekly numbers', 's01_e22_c11_u004')",
+            "('need', 'I/(Chandler Bing)', \"them on my desk by nine o'clock\", 's01_e22_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c11_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('give', 'you/(Phoebe Buffay)', \"'em something\", 's01_e22_c11_u008')",
+            "('know', 'you/(Phoebe Buffay)', None, 's01_e22_c11_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that/(previous people)', 'Gerston, Santos', 's01_e22_c11_u008')",
+            "('be', 'who/(unknown)', 'the guy with the moustache', 's01_e22_c11_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c11_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('work', 'some people', None, 's01_e22_c11_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

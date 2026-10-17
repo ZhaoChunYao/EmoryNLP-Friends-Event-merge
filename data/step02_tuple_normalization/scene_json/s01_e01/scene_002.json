@@ -1,0 +1,742 @@
+{
+  "tuples": [
+    {
+      "verb": "guess",
+      "subject": "I/(Monica Geller)",
+      "object": "that he bought her the big pipe organ",
+      "uid": "s01_e01_c02_u001"
+    },
+    {
+      "verb": "buy",
+      "subject": "he/(unknown)",
+      "object": "the big pipe organ",
+      "uid": "s01_e01_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "she/(unknown)",
+      "object": "not happy about it",
+      "uid": "s01_e01_c02_u001"
+    },
+    {
+      "verb": "decide",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u002"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "whatever Christine is having",
+      "uid": "s01_e01_c02_u003"
+    },
+    {
+      "verb": "have",
+      "subject": "Christine",
+      "object": "whatever",
+      "uid": "s01_e01_c02_u003"
+    },
+    {
+      "verb": "marry",
+      "subject": "I/(Rachel Green)",
+      "object": "him/(Barry Farber)",
+      "uid": "s01_e01_c02_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "sorry",
+      "uid": "s01_e01_c02_u004"
+    },
+    {
+      "verb": "love",
+      "subject": "I/(Rachel Green)",
+      "object": "him/(Barry Farber)",
+      "uid": "s01_e01_c02_u004"
+    },
+    {
+      "verb": "matter",
+      "subject": "it/(the marriage decision)",
+      "object": "to me/(Rachel Green)",
+      "uid": "s01_e01_c02_u004"
+    },
+    {
+      "verb": "let",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "go of my hair",
+      "uid": "s01_e01_c02_u006"
+    },
+    {
+      "verb": "fall",
+      "subject": "my head",
+      "object": "off",
+      "uid": "s01_e01_c02_u006"
+    },
+    {
+      "verb": "wear",
+      "subject": "she/(unknown)",
+      "object": "those pants",
+      "uid": "s01_e01_c02_u007"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "push her down the stairs",
+      "uid": "s01_e01_c02_u008"
+    },
+    {
+      "verb": "push",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "down the stairs",
+      "uid": "s01_e01_c02_u008"
+    },
+    {
+      "verb": "push",
+      "subject": "Chandler Bing, Joey Tribbiani, Phoebe Buffay, Ross Geller",
+      "object": "down the stairs",
+      "uid": "s01_e01_c02_u009"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/(Dr. Leonard Green)",
+      "object": "to me/(Rachel Green)",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the situation)",
+      "object": "like",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "tell",
+      "subject": "everyone",
+      "object": "me/(Rachel Green)",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "a shoe",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "stop",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": "‘What if I don’t wanna be a shoe? What if I wanna be a purse or a hat?’",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Rachel Green)",
+      "object": "to be a shoe",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "a shoe",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Rachel Green)",
+      "object": "to be a purse",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "a purse",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": "I want you to buy me a hat",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Rachel Green)",
+      "object": "you/(Dr. Leonard Green) to buy me a hat",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "buy",
+      "subject": "you/(Dr. Leonard Green)",
+      "object": "a hat",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": "I am a ha-",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "a ha-",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(what I'm saying)",
+      "object": "a metaphor",
+      "uid": "s01_e01_c02_u011"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Rachel Green)",
+      "object": "where he’d have trouble",
+      "uid": "s01_e01_c02_u012"
+    },
+    {
+      "verb": "have",
+      "subject": "he/(Dr. Leonard Green)",
+      "object": "trouble",
+      "uid": "s01_e01_c02_u012"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Dr. Leonard Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(this)",
+      "object": "my life",
+      "uid": "s01_e01_c02_u013"
+    },
+    {
+      "verb": "stay",
+      "subject": "I/(Rachel Green)",
+      "object": "with Monica",
+      "uid": "s01_e01_c02_u013"
+    },
+    {
+      "verb": "guess",
+      "subject": "I/(Monica Geller)",
+      "object": "we’ve established who’s staying here with Monica",
+      "uid": "s01_e01_c02_u014"
+    },
+    {
+      "verb": "establish",
+      "subject": "we/(Monica Geller and Rachel Green)",
+      "object": "who’s staying here with Monica",
+      "uid": "s01_e01_c02_u014"
+    },
+    {
+      "verb": "stay",
+      "subject": "who/(Rachel Green)",
+      "object": "with Monica",
+      "uid": "s01_e01_c02_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(the decision)",
+      "object": "my decision",
+      "uid": "s01_e01_c02_u015"
+    },
+    {
+      "verb": "need",
+      "subject": "I/(Rachel Green)",
+      "object": "your money",
+      "uid": "s01_e01_c02_u015"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Dr. Leonard Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u015"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Rachel Green)",
+      "object": "maybe",
+      "uid": "s01_e01_c02_u015"
+    },
+    {
+      "verb": "breathe",
+      "subject": "you/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(breathing)",
+      "object": "it",
+      "uid": "s01_e01_c02_u017"
+    },
+    {
+      "verb": "try",
+      "subject": "you/(Rachel Green)",
+      "object": "to think of nice calm things",
+      "uid": "s01_e01_c02_u017"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(Rachel Green)",
+      "object": "of nice calm things",
+      "uid": "s01_e01_c02_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "these/(things Phoebe is listing)",
+      "object": "a few",
+      "uid": "s01_e01_c02_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "all better now",
+      "uid": "s01_e01_c02_u019"
+    },
+    {
+      "verb": "help",
+      "subject": "I/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e01_c02_u020"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u021"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(situation)",
+      "object": "probably for the best",
+      "uid": "s01_e01_c02_u021"
+    },
+    {
+      "verb": "need",
+      "subject": "you/(Rachel Green)",
+      "object": "anything",
+      "uid": "s01_e01_c02_u022"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Rachel Green)",
+      "object": "to Joey",
+      "uid": "s01_e01_c02_u022"
+    },
+    {
+      "verb": "live",
+      "subject": "Joey Tribbiani and Chandler Bing",
+      "object": "across the hall",
+      "uid": "s01_e01_c02_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(Chandler Bing)",
+      "object": "away",
+      "uid": "s01_e01_c02_u022"
+    },
+    {
+      "verb": "stop",
+      "subject": "Joey Tribbiani",
+      "object": "hitting on her",
+      "uid": "s01_e01_c02_u023"
+    },
+    {
+      "verb": "hit",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "on her",
+      "uid": "s01_e01_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(today)",
+      "object": "her wedding day",
+      "uid": "s01_e01_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "there/(existential)",
+      "object": "a rule or something",
+      "uid": "s01_e01_c02_u024"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(unknown)",
+      "object": "that",
+      "uid": "s01_e01_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the sound)",
+      "object": "a horrible sound",
+      "uid": "s01_e01_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(name)",
+      "object": "Paul",
+      "uid": "s01_e01_c02_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(time)",
+      "object": "6:30",
+      "uid": "s01_e01_c02_u028"
+    },
+    {
+      "verb": "buzz",
+      "subject": "you/(unknown)",
+      "object": "in him",
+      "uid": "s01_e01_c02_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "who/(unknown person identity)",
+      "object": "Paul",
+      "uid": "s01_e01_c02_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "your 'not a real date' tonight",
+      "object": "Paul the Wine Guy",
+      "uid": "s01_e01_c02_u031"
+    },
+    {
+      "verb": "ask",
+      "subject": "he/(Paul the Wine Guy)",
+      "object": "out you/(Monica Geller)",
+      "uid": "s01_e01_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(moment)",
+      "object": "a Dear Diary moment",
+      "uid": "s01_e01_c02_u034"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u035"
+    },
+    {
+      "verb": "cancel",
+      "subject": "I/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u035"
+    },
+    {
+      "verb": "go",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(the plan)",
+      "object": "fine",
+      "uid": "s01_e01_c02_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "okay",
+      "uid": "s01_e01_c02_u037"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(Rachel Green)",
+      "object": "me/(Monica Geller) to stay",
+      "uid": "s01_e01_c02_u037"
+    },
+    {
+      "verb": "stay",
+      "subject": "me/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(that idea)",
+      "object": "good",
+      "uid": "s01_e01_c02_u038"
+    },
+    {
+      "verb": "go",
+      "subject": "you/(Monica Geller)",
+      "object": "on",
+      "uid": "s01_e01_c02_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Paul the Wine Guy)",
+      "object": "Paul the Wine Guy",
+      "uid": "s01_e01_c02_u040"
+    },
+    {
+      "verb": "mean",
+      "subject": "that/(that phrase)",
+      "object": null,
+      "uid": "s01_e01_c02_u041"
+    },
+    {
+      "verb": "sell",
+      "subject": "he/(Paul the Wine Guy)",
+      "object": "it/(wine)",
+      "uid": "s01_e01_c02_u041"
+    },
+    {
+      "verb": "drink",
+      "subject": "he/(Paul the Wine Guy)",
+      "object": "it/(wine)",
+      "uid": "s01_e01_c02_u041"
+    },
+    {
+      "verb": "complain",
+      "subject": "he/(Paul the Wine Guy)",
+      "object": null,
+      "uid": "s01_e01_c02_u041"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Paul the Wine Guy)",
+      "object": "in",
+      "uid": "s01_e01_c02_u043"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(Paul)",
+      "object": "everybody",
+      "uid": "s01_e01_c02_u043"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(everybody)",
+      "object": "Paul",
+      "uid": "s01_e01_c02_u043"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Chandler Bing)",
+      "object": "sorry",
+      "uid": "s01_e01_c02_u045"
+    },
+    {
+      "verb": "catch",
+      "subject": "I/(Chandler Bing)",
+      "object": "your name",
+      "uid": "s01_e01_c02_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(your name)",
+      "object": "Paul",
+      "uid": "s01_e01_c02_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "right back",
+      "uid": "s01_e01_c02_u046"
+    },
+    {
+      "verb": "go",
+      "subject": "I/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u046"
+    },
+    {
+      "verb": "change",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e01_c02_u048"
+    },
+    {
+      "verb": "sit",
+      "subject": "you/(Paul the Wine Guy)",
+      "object": null,
+      "uid": "s01_e01_c02_u048"
+    },
+    {
+      "verb": "pull",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "out four eyelashes",
+      "uid": "s01_e01_c02_u049"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(pulling eyelashes)",
+      "object": "good",
+      "uid": "s01_e01_c02_u049"
+    },
+    {
+      "verb": "like",
+      "subject": "she/(Monica Geller)",
+      "object": "it",
+      "uid": "s01_e01_c02_u053"
+    },
+    {
+      "verb": "rub",
+      "subject": "you/(Paul the Wine Guy)",
+      "object": "her neck",
+      "uid": "s01_e01_c02_u053"
+    },
+    {
+      "verb": "rub",
+      "subject": "you/(Paul the Wine Guy)",
+      "object": "in the same spot",
+      "uid": "s01_e01_c02_u053"
+    },
+    {
+      "verb": "start",
+      "subject": "it/(her neck)",
+      "object": "to get a little red",
+      "uid": "s01_e01_c02_u053"
+    },
+    {
+      "verb": "get",
+      "subject": "it/(her neck)",
+      "object": "a little red",
+      "uid": "s01_e01_c02_u053"
+    },
+    {
+      "verb": "shut up",
+      "subject": "you/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e01_c02_u054"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "up to tonight",
+      "uid": "s01_e01_c02_u055"
+    },
+    {
+      "verb": "suppose",
+      "subject": "I/(Rachel Green)",
+      "object": "to be headed for Aruba on my honeymoon",
+      "uid": "s01_e01_c02_u056"
+    },
+    {
+      "verb": "head",
+      "subject": "I/(Rachel Green)",
+      "object": "for Aruba",
+      "uid": "s01_e01_c02_u056"
+    },
+    {
+      "verb": "head",
+      "subject": "I/(Rachel Green)",
+      "object": "on my honeymoon",
+      "uid": "s01_e01_c02_u056"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(Rachel Green)",
+      "object": "your honeymoon",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "talk",
+      "subject": "you/(generic)",
+      "object": "about your big lizards",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "feel",
+      "subject": "you/(Rachel Green)",
+      "object": "like being alone tonight",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Rachel Green)",
+      "object": "alone tonight",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "come",
+      "subject": "Joey and Chandler",
+      "object": "over",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "help",
+      "subject": "Joey and Chandler",
+      "object": "me/(Ross Geller)",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "put together",
+      "subject": "me/(Ross Geller)",
+      "object": "my new furniture",
+      "uid": "s01_e01_c02_u057"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "very excited",
+      "uid": "s01_e01_c02_u058"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "excited about it",
+      "uid": "s01_e01_c02_u058"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Rachel Green)",
+      "object": "I am just gonna hang out here tonight",
+      "uid": "s01_e01_c02_u059"
+    },
+    {
+      "verb": "hang",
+      "subject": "I/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e01_c02_u059"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(day)",
+      "object": "kinda a long day",
+      "uid": "s01_e01_c02_u059"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "to help",
+      "uid": "s01_e01_c02_u061"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e01_c02_u061"
+    },
+    {
+      "verb": "wish",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "I could",
+      "uid": "s01_e01_c02_u062"
+    },
+    {
+      "verb": "can",
+      "subject": "I/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e01_c02_u062"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "to",
+      "uid": "s01_e01_c02_u062"
+    }
+  ]
+}

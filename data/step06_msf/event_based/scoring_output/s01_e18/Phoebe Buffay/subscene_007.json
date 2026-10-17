@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker participates energetically in the game and offers spontaneous remarks and jokes (\"Yes! ... or no\"; noticing 'Joker' vs 'poker')."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear cooperative or antagonistic behavior; remarks are neutral/playful."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Indecisive response (\"Yes!... or no\") and a distracted, off-task observation during the game suggest low focus/organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; the indecision appears playful rather than anxious."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays creative, playful wordplay (realizing 'Joker' is 'poker' with a 'J')."
+  }
+}

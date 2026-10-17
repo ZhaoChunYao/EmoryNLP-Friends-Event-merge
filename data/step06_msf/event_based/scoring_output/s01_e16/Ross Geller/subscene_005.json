@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates social interaction by checking on Speaker_03 and inviting her to watch a TV show together."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and kindness by asking if Speaker_03 is okay and offering a friendly shared activity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or diligence is shown in this exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional instability; insufficient evidence to judge security or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, inventiveness, or rigidity; suggesting a TV show does not reflect openness level."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Targetspeaker interrupts and assertively says Speaker_01 should excuse them and listen right now, pushing the issue as an emergency."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Starts with a request to be excused but then is insistent; no clear signs of warmth or hostility toward others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Emphasizes treating the situation as an emergency and refers to proper handling (being in the predicament room), aiming for efficient action."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite urgency, does not express fear, panic, or insecurity; speaks in a controlled, matter-of-fact way."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Focuses on immediate practical concerns; no indications of curiosity, creativity, or rigidity of ideas."
+  }
+}

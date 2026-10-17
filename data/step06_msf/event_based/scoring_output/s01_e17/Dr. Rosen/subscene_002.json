@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly tells the group they (with Speaker_03) brought wine and then initiates conversation by asking about Speaker_01’s ankle."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Brings wine for the group (generous) and expresses concern for Speaker_01’s ankle (considerate, prosocial)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or task focus beyond casually bringing wine; nothing indicating carelessness either."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or pronounced calm/confidence are expressed in the brief interactions."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity about new ideas or unconventional thinking; the remarks are routine social niceties."
+  }
+}

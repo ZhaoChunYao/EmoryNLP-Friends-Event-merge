@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He chimes in multiple times unprompted, joking about his Belgian waffle in the hallway and telling others they owe him a waffle (u028, u030, u033, u037)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He accuses Speaker_02 and Speaker_04 of taking his waffle and declares they owe him a waffle rather than being accommodating (u030, u037)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He left a Belgian waffle out in the hallway and says he \"was not ready\" for it, indicating careless/disorganized behavior (u030, u033)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He shows no anxiety about the situation; instead he jokes and confidently asserts others owe him a waffle (u030, u033, u037)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking beyond a simple waffle joke; he offers only a brief factual sighting of the monkey (u035)."
+  }
+}

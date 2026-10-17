@@ -1,0 +1,233 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c19_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u001_e1",
+          "tuples": [
+            "('push', 'you/(Carol Willick)', None, 's01_e23_c19_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u002_e1",
+          "tuples": [
+            "('be', 'we/(Ross Geller)', 'here', 's01_e23_c19_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u003_e1",
+          "tuples": [
+            "('be', 'you/(Ross Geller)', 'where', 's01_e23_c19_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u005_e1",
+          "tuples": [
+            "('need', 'I/(Dr. Franzblau)', 'you to keep pushing', 's01_e23_c19_u005')",
+            "('keep', 'you/(Carol Willick)', 'pushing', 's01_e23_c19_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c19_u005_e2",
+          "tuples": [
+            "('excuse', 'you/(everyone)', 'me', 's01_e23_c19_u005')",
+            "('have', 'I/(Dr. Franzblau)', 'this', 's01_e23_c19_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u006_e1",
+          "tuples": [
+            "('be', 'there', 'a few too many people', 's01_e23_c19_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c19_u006_e2",
+          "tuples": [
+            "('be', 'there', 'one more', 's01_e23_c19_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c19_u006_e3",
+          "tuples": [
+            "('be', 'who/(anybody)', 'an ex-husband', 's01_e23_c19_u006')",
+            "('be', 'who/(anybody)', 'a lesbian life partner', 's01_e23_c19_u006')",
+            "('go', 'you/(anyone not ex-husband or lesbian life partner)', 'out', 's01_e23_c19_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u009",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u009_e1",
+          "tuples": [
+            "('let', 'you/(anyone)', 'me', 's01_e23_c19_u009')",
+            "('ask', 'me/(Chandler Bing)', 'you', 's01_e23_c19_u009')",
+            "('be', 'you/(anyone)', \"Carol's lesbian life partner\", 's01_e23_c19_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u011",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u011_e1",
+          "tuples": [
+            "('crown', 'he/(baby)', None, 's01_e23_c19_u011')",
+            "('come', 'he/(baby)', 'here', 's01_e23_c19_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u012",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u012_e1",
+          "tuples": [
+            "('see', 'me/(Ross Geller)', None, 's01_e23_c19_u012')",
+            "('be', 'it/(head)', 'huge', 's01_e23_c19_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c19_u012_e2",
+          "tuples": [
+            "('do', 'you/(Carol Willick)', 'this', 's01_e23_c19_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u013",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u013_e1",
+          "tuples": [
+            "('help', 'you/(Ross Geller)', None, 's01_e23_c19_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u014",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u014_e1",
+          "tuples": [
+            "('do', 'you/(Carol Willick)', 'great', 's01_e23_c19_u014')",
+            "('do', 'you/(Carol Willick)', 'fine', 's01_e23_c19_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u016",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u016_e1",
+          "tuples": [
+            "('see', 'you/(Ross Geller)', 'what', 's01_e23_c19_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u017",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u017_e1",
+          "tuples": [
+            "('have', 'we/(Ross Geller)', 'a head', 's01_e23_c19_u017')",
+            "('have', 'we/(Ross Geller)', 'shoulders', 's01_e23_c19_u017')",
+            "('have', 'we/(Ross Geller)', 'arms', 's01_e23_c19_u017')",
+            "('look', 'you/(everyone)', 'at the little fingers', 's01_e23_c19_u017')",
+            "('have', 'we/(Ross Geller)', 'a chest', 's01_e23_c19_u017')",
+            "('have', 'we/(Ross Geller)', 'a stomach', 's01_e23_c19_u017')",
+            "('be', 'it/(baby)', 'a boy', 's01_e23_c19_u017')",
+            "('be', 'he/(baby)', 'here', 's01_e23_c19_u017')",
+            "('be', 'he/(baby)', 'a person', 's01_e23_c19_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u018",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u018_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', 'at that', 's01_e23_c19_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u019",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u019_e1",
+          "tuples": [
+            "('look', 'he/(baby)', 'like what', 's01_e23_c19_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u020",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u020_e1",
+          "tuples": [
+            "('look', 'he/(baby)', 'like my uncle Ed', 's01_e23_c19_u020')",
+            "('cover', 'he/(baby)', 'in Jell-o', 's01_e23_c19_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u022",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u022_e1",
+          "tuples": [
+            "('be', 'he/(baby)', 'beautiful', 's01_e23_c19_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c19_u023",
+      "events": [
+        {
+          "event_id": "s01_e23_c19_u023_e1",
+          "tuples": [
+            "('thank', 'I/(Ross Geller)', 'Pheebs', 's01_e23_c19_u023')"
+          ]
+        }
+      ]
+    }
+  ]
+}

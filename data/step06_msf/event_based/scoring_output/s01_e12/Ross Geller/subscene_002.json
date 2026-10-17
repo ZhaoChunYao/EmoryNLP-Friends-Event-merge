@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Engages in normal conversation and asks questions (about the amnio results and the photo) but shows no notably outgoing or energetic behavior; some social discomfort is evident with Susan."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Arrives helpfully with all the books and a lasagna from a friend, responds supportively to the healthy results, and addresses others’ needs (notes the lasagna is likely vegetarian)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Demonstrates reliability by bringing all the books and delivering the lasagna as promised."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Quickly seeks reassurance about the amniocentesis (“is everything okay?”), expresses discomfort imagining Carol and Susan together, and anxiously interrupts to avoid hearing the baby’s sex."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Prefers not to learn the baby’s sex until birth and is uncomfortable with the image of Carol and Susan together, suggesting a cautious, less open stance."
+  }
+}

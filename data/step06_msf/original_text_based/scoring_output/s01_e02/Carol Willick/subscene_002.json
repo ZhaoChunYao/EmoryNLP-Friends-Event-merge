@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead in social interaction by prompting recognition (“Speaker_02, Speaker_02 remember Speaker_01.”) and responds promptly to the question about who they’re waiting for (“Dr. Speaker_03.”)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Neutral, matter‑of‑fact exchanges; no clear signs of warmth/generosity or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Provides a brief factual answer, but there’s insufficient behavior to show being organized or careless."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or emotional volatility; responses are calm and concise."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No discussion of ideas, curiosity, or resistance; nothing to indicate openness or dogmatism."
+  }
+}

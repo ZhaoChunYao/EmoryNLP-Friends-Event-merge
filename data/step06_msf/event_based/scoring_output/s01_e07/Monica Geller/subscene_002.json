@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks minimally on the call—\"Hello?\", asks a brief question, and says \"What?\"—without showing outgoing or energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Immediately asks whether the caller is OK and attempts to understand them, showing concern and cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No signs of planning or organized action; he only reacts with \"What?\" and notes he couldn't understand."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Expresses simple confusion (\"What?\"; saying he couldn't understand) without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No display of curiosity beyond basic clarification; no imaginative or unconventional ideas expressed."
+  }
+}

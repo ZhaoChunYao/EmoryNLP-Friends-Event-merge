@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Arranges and goes on a double date and discusses further social plans depending on how it goes (u008); assertively engages others about the date (u010)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Insults the date’s friend as a “pathetic mess,” “needy and vulnerable,” aims to exploit the situation, and pressures his friend to comply (u012, u010)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes the double date and ensures the agreed arrangement (bringing a friend) is kept, insisting his friend not bail (u010, u008)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with certainty and control—“you must not bail,” “you are going to do the double date,” and expects to benefit—showing confidence rather than anxiety (u010, u012)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or inventiveness; talk centers on logistics and coercion."
+  }
+}

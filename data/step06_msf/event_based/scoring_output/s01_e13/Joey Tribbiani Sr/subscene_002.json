@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and emotionally expressive: openly says he misses and loves Speaker_02, tells stories about the navy yard, asks questions, and candidly admits being in love with two women."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Admits being in love with two different women (suggesting untrustworthiness) and evades a direct question with a diversionary story; also criticizes Speaker_01 for burning tomatoes."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Shows some time awareness by saying it’s very late and leaving, but there is no clear evidence of organization or sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and assertively—declares love, corrects Speaker_01, and challenges him without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortably involved with an unconventional partner (a pet mortician) and uses a reflective, imaginative memory to ‘put a nice memory’ in Speaker_01’s head."
+  }
+}

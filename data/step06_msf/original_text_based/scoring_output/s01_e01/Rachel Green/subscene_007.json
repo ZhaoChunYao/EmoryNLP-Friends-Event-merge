@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages in playful banter and jokes (“you look like you slept with a hanger in your mouth,” “Want a wedding dress? Hardly used.”) and openly announces actions (“wish me luck,” planning to get a job), showing outgoing, talkative energy."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interactions are teasing and playful but neither clearly generous/supportive nor hostile or untrustworthy."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States a concrete responsible plan: “I’m gonna go get one of those job things,” indicating initiative toward employment."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with humor and confidence, showing no signs of worry or sensitivity; instead appears secure while making plans."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses inventive, metaphorical humor (“slept with a hanger in your mouth,” “wedding dress, hardly used”), suggesting creativity and openness."
+  }
+}

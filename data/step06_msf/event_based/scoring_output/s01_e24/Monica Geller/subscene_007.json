@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates group interaction by asking how everyone likes their burgers (u065) and checks in on Speaker_02 about how things are going and how he's holding up (u068), then continues offering advice (u074, u077)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and support, encouraging Speaker_02 to think about being there for Speaker_01 and to be supportive (u072, u074, u077)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Promotes responsible, dependable behavior by urging Speaker_02 to 'be there for her' (u072, u074, u077) and attends to hosting duties by checking on guests’ satisfaction with the burgers (u065)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident while hosting and giving measured advice; no signs of anxiety or distress (u065, u068, u074, u077)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of inventive or unconventional ideas; conversation centers on social support and hosting."
+  }
+}

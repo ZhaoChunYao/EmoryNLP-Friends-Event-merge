@@ -1,0 +1,80 @@
+event_id: s01_e04_c01_u002_e1
+utterance_id: s01_e04_c01_u002
+  tuple: ('be', 'I/Phoebe Buffay', 'omnipotent', 's01_e04_c01_u002')
+  tuple: ('be', 'I/Phoebe Buffay', 'for a day', 's01_e04_c01_u002')
+
+event_id: s01_e04_c01_u002_e2
+utterance_id: s01_e04_c01_u002
+  tuple: ('want', 'I/Phoebe Buffay', 'world peace', 's01_e04_c01_u002')
+
+event_id: s01_e04_c01_u002_e3
+utterance_id: s01_e04_c01_u002
+  tuple: ('want', 'I/Phoebe Buffay', 'no more hunger', 's01_e04_c01_u002')
+
+event_id: s01_e04_c01_u002_e4
+utterance_id: s01_e04_c01_u002
+  tuple: ('want', 'I/Phoebe Buffay', 'good things', 's01_e04_c01_u002')
+  tuple: ('want', 'I/Phoebe Buffay', 'for the rain-forest', 's01_e04_c01_u002')
+
+event_id: s01_e04_c01_u002_e5
+utterance_id: s01_e04_c01_u002
+  tuple: ('want', 'I/Phoebe Buffay', 'bigger boobs', 's01_e04_c01_u002')
+
+event_id: s01_e04_c01_u003_e1
+utterance_id: s01_e04_c01_u003
+  tuple: ('take', 'you/Phoebe Buffay', 'mine', 's01_e04_c01_u003')
+
+event_id: s01_e04_c01_u004_e1
+utterance_id: s01_e04_c01_u004
+  tuple: ('be', 'I/Chandler Bing', 'omnipotent', 's01_e04_c01_u004')
+  tuple: ('be', 'I/Chandler Bing', 'for a day', 's01_e04_c01_u004')
+
+event_id: s01_e04_c01_u004_e2
+utterance_id: s01_e04_c01_u004
+  tuple: ('make', 'I/Chandler Bing', 'myself omnipotent forever', 's01_e04_c01_u004')
+
+event_id: s01_e04_c01_u005_e1
+utterance_id: s01_e04_c01_u005
+  tuple: ('be', 'there', 'one guy', 's01_e04_c01_u005')
+
+event_id: s01_e04_c01_u005_e2
+utterance_id: s01_e04_c01_u005
+  tuple: ('have', 'I/Rachel Green', 'a wish', 's01_e04_c01_u005')
+
+event_id: s01_e04_c01_u005_e3
+utterance_id: s01_e04_c01_u005
+  tuple: ('wish', 'I/Rachel Green', 'for three more wishes', 's01_e04_c01_u005')
+
+event_id: s01_e04_c01_u007_e1
+utterance_id: s01_e04_c01_u007
+  tuple: ('do', 'you/Joey Tribbiani', 'what', 's01_e04_c01_u007')
+
+event_id: s01_e04_c01_u007_e2
+utterance_id: s01_e04_c01_u007
+  tuple: ('be', 'you/Joey Tribbiani', 'omnipotent', 's01_e04_c01_u007')
+
+event_id: s01_e04_c01_u008_e1
+utterance_id: s01_e04_c01_u008
+  tuple: ('kill', 'I/Joey Tribbiani', 'myself', 's01_e04_c01_u008')
+
+event_id: s01_e04_c01_u009_e1
+utterance_id: s01_e04_c01_u009
+  tuple: ('excuse', 'you/Joey Tribbiani', 'me', 's01_e04_c01_u009')
+
+event_id: s01_e04_c01_u010_e1
+utterance_id: s01_e04_c01_u010
+  tuple: ('be', 'Little Joey', 'dead', 's01_e04_c01_u010')
+
+event_id: s01_e04_c01_u010_e2
+utterance_id: s01_e04_c01_u010
+  tuple: ('get', 'I/Joey Tribbiani', 'no reason to live', 's01_e04_c01_u010')
+  tuple: ('live', 'I/Joey Tribbiani', None, 's01_e04_c01_u010')
+
+event_id: s01_e04_c01_u012_e1
+utterance_id: s01_e04_c01_u012
+  tuple: ('be', 'you/Ross Geller', None, 's01_e04_c01_u012')
+
+event_id: s01_e04_c01_u012_e2
+utterance_id: s01_e04_c01_u012
+  tuple: ('be', 'I/Joey Tribbiani', 'sorry', 's01_e04_c01_u012')
+

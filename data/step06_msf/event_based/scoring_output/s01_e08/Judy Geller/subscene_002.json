@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks what is going on and says 'What?' (u029, u031), showing neither clear outgoing talkativeness nor reserved avoidance."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No behavior indicating helpfulness, warmth, or hostility; only clarification questions."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No signs of organization or carelessness; just seeking clarification about the situation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A brief 'What?' in response to confusing news shows surprise but no anxiety, nervousness, or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking what's going on (u029) is situational clarification, not clear evidence of curiosity or closed-mindedness."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages playfully with the group, claiming to have 'the definitive scary laugh' rather than staying quiet."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker thanks Speaker_01 (polite), but also boasts about having the 'definitive scary laugh'—mixed signals."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness; only casual remarks and thanks."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Calls the room spooky but shows no clear anxiety, reacting playfully ('Oh.. oh... oh')."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Joins in imaginative spooky play and comments on the ambiance, showing creativity and curiosity."
+  }
+}

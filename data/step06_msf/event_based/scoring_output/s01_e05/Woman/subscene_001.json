@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker loudly asserts themselves in public, orders others to move out of the way, and directly confronts someone over a washing machine."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker takes a machine someone else was using/saving, dismisses the claim with \"Yeah, well, now you're kinda not,\" uses sarcasm about the basket, and imposes \"No suds, no save,\" showing uncooperative and inconsiderate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or efficiency; the interaction is about asserting dominance in a queue rather than task planning or reliability."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows no signs of anxiety and acts confidently and forcefully (e.g., ordering others to move and dismissing objections)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The dialogue contains no indications of curiosity, creativity, or openness to new ideas; it centers on a territorial dispute over a washing machine."
+  }
+}

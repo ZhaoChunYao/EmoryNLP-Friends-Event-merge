@@ -1,0 +1,961 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e08,s10_e08_c01,Chandler Bing,0,3,7,2,8,2,s10_e08_c01_u003,s10_e08_c01_u014,"[s10_e08_c01_u003] Phoebe Buffay: Hey!
+[s10_e08_c01_u004] Monica Geller: We need to talk to you about something.
+[s10_e08_c01_u005] Chandler Bing: Yeah. We don't feel like we can host Thanksgiving this year.
+[s10_e08_c01_u006] #ALL#: What?
+[s10_e08_c01_u007] Phoebe Buffay: Hey!
+[s10_e08_c01_u008] Ross Geller: Are you kidding?
+[s10_e08_c01_u009] Chandler Bing: Well, it's just with uhm, work and the stress of adoption, we just don't feel like we have the energy. Plus, we don't think it's fair that every year the burden falls on us.
+[s10_e08_c01_u010] Ross Geller: That doesn't sound like you... That's Monica talking!
+[s10_e08_c01_u011] Chandler Bing: No, no! We made this decision together.
+[s10_e08_c01_u012] Ross Geller: She's putting words in your mouth!
+[s10_e08_c01_u013] Joey Tribbiani: Don't you put words in people's mouths, you put turkey in people's mouths!
+[s10_e08_c01_u014] Rachel Green: I can't believe this! This is Emma's first Thanksgiving!"
+s10_e08,s10_e08_c01,Chandler Bing,1,19,19,18,19,2,s10_e08_c01_u020,s10_e08_c01_u025,"[s10_e08_c01_u020] Monica Geller: What? You are way off, lady!
+[s10_e08_c01_u021] Phoebe Buffay: Am I? Really? Am I? Well, why don't you cook Thanksgiving dinner and prove me wrong! Well, think about it, think about it, you'll be trying to top than you did last year. You'd be in competition... with yourself.
+[s10_e08_c01_u022] Monica Geller: That's my favourite kind! Okay, we are doing this!
+[s10_e08_c01_u023] Chandler Bing: Don't let yourself get manipulated this way!
+[s10_e08_c01_u024] Monica Geller: Hey, stay out of this, Chandler! This is between me... and ME!
+[s10_e08_c01_u025] Chandler Bing: We are supposed to make these decisions together! Did you not watch the Doctor Phil I taped for you?"
+s10_e08,s10_e08_c01,Monica Geller,0,0,0,0,1,2,s10_e08_c01_u001,s10_e08_c01_u007,"[s10_e08_c01_u001] Monica Geller: Hey guys!
+[s10_e08_c01_u002] Rachel Green: Hi!
+[s10_e08_c01_u003] Phoebe Buffay: Hey!
+[s10_e08_c01_u004] Monica Geller: We need to talk to you about something.
+[s10_e08_c01_u005] Chandler Bing: Yeah. We don't feel like we can host Thanksgiving this year.
+[s10_e08_c01_u006] #ALL#: What?
+[s10_e08_c01_u007] Phoebe Buffay: Hey!"
+s10_e08,s10_e08_c01,Monica Geller,1,12,19,11,19,3,s10_e08_c01_u013,s10_e08_c01_u025,"[s10_e08_c01_u013] Joey Tribbiani: Don't you put words in people's mouths, you put turkey in people's mouths!
+[s10_e08_c01_u014] Rachel Green: I can't believe this! This is Emma's first Thanksgiving!
+[s10_e08_c01_u015] Monica Geller: No, it's not!
+[s10_e08_c01_u016] Rachel Green: It's not? When was she born?
+[s10_e08_c01_u017] Phoebe Buffay: Well, personally I think it's great you're giving yourself a break.
+[s10_e08_c01_u018] Monica Geller: Thank you, Pheebs!
+[s10_e08_c01_u019] Phoebe Buffay: Sure. It's just as well... I mean, last year wasn't very good. I think she's losing her touch.
+[s10_e08_c01_u020] Monica Geller: What? You are way off, lady!
+[s10_e08_c01_u021] Phoebe Buffay: Am I? Really? Am I? Well, why don't you cook Thanksgiving dinner and prove me wrong! Well, think about it, think about it, you'll be trying to top than you did last year. You'd be in competition... with yourself.
+[s10_e08_c01_u022] Monica Geller: That's my favourite kind! Okay, we are doing this!
+[s10_e08_c01_u023] Chandler Bing: Don't let yourself get manipulated this way!
+[s10_e08_c01_u024] Monica Geller: Hey, stay out of this, Chandler! This is between me... and ME!
+[s10_e08_c01_u025] Chandler Bing: We are supposed to make these decisions together! Did you not watch the Doctor Phil I taped for you?"
+s10_e08,s10_e08_c01,Phoebe Buffay,0,1,2,0,3,2,s10_e08_c01_u001,s10_e08_c01_u009,"[s10_e08_c01_u001] Monica Geller: Hey guys!
+[s10_e08_c01_u002] Rachel Green: Hi!
+[s10_e08_c01_u003] Phoebe Buffay: Hey!
+[s10_e08_c01_u004] Monica Geller: We need to talk to you about something.
+[s10_e08_c01_u005] Chandler Bing: Yeah. We don't feel like we can host Thanksgiving this year.
+[s10_e08_c01_u006] #ALL#: What?
+[s10_e08_c01_u007] Phoebe Buffay: Hey!
+[s10_e08_c01_u008] Ross Geller: Are you kidding?
+[s10_e08_c01_u009] Chandler Bing: Well, it's just with uhm, work and the stress of adoption, we just don't feel like we have the energy. Plus, we don't think it's fair that every year the burden falls on us."
+s10_e08,s10_e08_c01,Phoebe Buffay,1,13,17,12,18,3,s10_e08_c01_u014,s10_e08_c01_u024,"[s10_e08_c01_u014] Rachel Green: I can't believe this! This is Emma's first Thanksgiving!
+[s10_e08_c01_u015] Monica Geller: No, it's not!
+[s10_e08_c01_u016] Rachel Green: It's not? When was she born?
+[s10_e08_c01_u017] Phoebe Buffay: Well, personally I think it's great you're giving yourself a break.
+[s10_e08_c01_u018] Monica Geller: Thank you, Pheebs!
+[s10_e08_c01_u019] Phoebe Buffay: Sure. It's just as well... I mean, last year wasn't very good. I think she's losing her touch.
+[s10_e08_c01_u020] Monica Geller: What? You are way off, lady!
+[s10_e08_c01_u021] Phoebe Buffay: Am I? Really? Am I? Well, why don't you cook Thanksgiving dinner and prove me wrong! Well, think about it, think about it, you'll be trying to top than you did last year. You'd be in competition... with yourself.
+[s10_e08_c01_u022] Monica Geller: That's my favourite kind! Okay, we are doing this!
+[s10_e08_c01_u023] Chandler Bing: Don't let yourself get manipulated this way!
+[s10_e08_c01_u024] Monica Geller: Hey, stay out of this, Chandler! This is between me... and ME!"
+s10_e08,s10_e08_c01,Rachel Green,0,10,12,9,13,2,s10_e08_c01_u011,s10_e08_c01_u019,"[s10_e08_c01_u011] Chandler Bing: No, no! We made this decision together.
+[s10_e08_c01_u012] Ross Geller: She's putting words in your mouth!
+[s10_e08_c01_u013] Joey Tribbiani: Don't you put words in people's mouths, you put turkey in people's mouths!
+[s10_e08_c01_u014] Rachel Green: I can't believe this! This is Emma's first Thanksgiving!
+[s10_e08_c01_u015] Monica Geller: No, it's not!
+[s10_e08_c01_u016] Rachel Green: It's not? When was she born?
+[s10_e08_c01_u017] Phoebe Buffay: Well, personally I think it's great you're giving yourself a break.
+[s10_e08_c01_u018] Monica Geller: Thank you, Pheebs!
+[s10_e08_c01_u019] Phoebe Buffay: Sure. It's just as well... I mean, last year wasn't very good. I think she's losing her touch."
+s10_e08,s10_e08_c01,Ross Geller,0,4,8,3,9,3,s10_e08_c01_u004,s10_e08_c01_u015,"[s10_e08_c01_u004] Monica Geller: We need to talk to you about something.
+[s10_e08_c01_u005] Chandler Bing: Yeah. We don't feel like we can host Thanksgiving this year.
+[s10_e08_c01_u006] #ALL#: What?
+[s10_e08_c01_u007] Phoebe Buffay: Hey!
+[s10_e08_c01_u008] Ross Geller: Are you kidding?
+[s10_e08_c01_u009] Chandler Bing: Well, it's just with uhm, work and the stress of adoption, we just don't feel like we have the energy. Plus, we don't think it's fair that every year the burden falls on us.
+[s10_e08_c01_u010] Ross Geller: That doesn't sound like you... That's Monica talking!
+[s10_e08_c01_u011] Chandler Bing: No, no! We made this decision together.
+[s10_e08_c01_u012] Ross Geller: She's putting words in your mouth!
+[s10_e08_c01_u013] Joey Tribbiani: Don't you put words in people's mouths, you put turkey in people's mouths!
+[s10_e08_c01_u014] Rachel Green: I can't believe this! This is Emma's first Thanksgiving!
+[s10_e08_c01_u015] Monica Geller: No, it's not!"
+s10_e08,s10_e08_c02,Monica Geller,0,1,7,0,8,3,s10_e08_c02_u001,s10_e08_c02_u013,"[s10_e08_c02_u001] Phoebe Buffay: Hey!
+[s10_e08_c02_u002] Rachel Green: Hi! Happy Thanksgiving!
+[s10_e08_c02_u003] Phoebe Buffay: Oh, yeah, happy needless-turkey-murder day.
+[s10_e08_c02_u004] Monica Geller: You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?
+[s10_e08_c02_u005] Phoebe Buffay: You're not making the pies yourself?
+[s10_e08_c02_u006] Monica Geller: No, no, no, I don't make chocolate pies. When I was younger I-I enter in this pie-eating contest. I ate so many that just the thought of them made me sick.
+[s10_e08_c02_u007] Rachel Green: Did you at least win the contest?
+[s10_e08_c02_u008] Monica Geller: 2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4.
+[s10_e08_c02_u009] Rachel Green: Can't wait!
+[s10_e08_c02_u010] Monica Geller: This dinner is gonna be so great! In your face, last year ""me""!
+[s10_e08_c02_u011] Phoebe Buffay: Hey Rach.
+[s10_e08_c02_u012] Rachel Green: Yeah.
+[s10_e08_c02_u013] Phoebe Buffay: What's Emma doing today?"
+s10_e08,s10_e08_c02,Phoebe Buffay,0,0,2,0,3,3,s10_e08_c02_u001,s10_e08_c02_u008,"[s10_e08_c02_u001] Phoebe Buffay: Hey!
+[s10_e08_c02_u002] Rachel Green: Hi! Happy Thanksgiving!
+[s10_e08_c02_u003] Phoebe Buffay: Oh, yeah, happy needless-turkey-murder day.
+[s10_e08_c02_u004] Monica Geller: You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?
+[s10_e08_c02_u005] Phoebe Buffay: You're not making the pies yourself?
+[s10_e08_c02_u006] Monica Geller: No, no, no, I don't make chocolate pies. When I was younger I-I enter in this pie-eating contest. I ate so many that just the thought of them made me sick.
+[s10_e08_c02_u007] Rachel Green: Did you at least win the contest?
+[s10_e08_c02_u008] Monica Geller: 2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4."
+s10_e08,s10_e08_c02,Phoebe Buffay,1,8,16,7,17,3,s10_e08_c02_u008,s10_e08_c02_u022,"[s10_e08_c02_u008] Monica Geller: 2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4.
+[s10_e08_c02_u009] Rachel Green: Can't wait!
+[s10_e08_c02_u010] Monica Geller: This dinner is gonna be so great! In your face, last year ""me""!
+[s10_e08_c02_u011] Phoebe Buffay: Hey Rach.
+[s10_e08_c02_u012] Rachel Green: Yeah.
+[s10_e08_c02_u013] Phoebe Buffay: What's Emma doing today?
+[s10_e08_c02_u014] Rachel Green: Well, let's see... uh... I know that she has a meeting with her lawyer and then she has to make a very big poop. Why?
+[s10_e08_c02_u015] Phoebe Buffay: Well, I wanna enter her in a baby beauty pageant.
+[s10_e08_c02_u016] Rachel Green: Oh my God! That's the creepiest thing I've ever heard!
+[s10_e08_c02_u017] Phoebe Buffay: Okay, but, well, before you say no, my friend Susanne is entering her kid and compared to Emma she's a real dog!
+[s10_e08_c02_u018] Rachel Green: Oh! Phoebe, all babies are beautiful!
+[s10_e08_c02_u019] Phoebe Buffay: Oh... okay.
+[s10_e08_c02_u020] Rachel Green: Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy...
+[s10_e08_c02_u021] Rachel Green: And a thousand dollars.
+[s10_e08_c02_u022] Rachel Green: ...is something I'm very interested in! Oh please, do not tell Ross. He still believes that what's in the inside is important..."
+s10_e08,s10_e08_c02,Phoebe Buffay,2,18,18,17,19,2,s10_e08_c02_u018,s10_e08_c02_u024,"[s10_e08_c02_u018] Rachel Green: Oh! Phoebe, all babies are beautiful!
+[s10_e08_c02_u019] Phoebe Buffay: Oh... okay.
+[s10_e08_c02_u020] Rachel Green: Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy...
+[s10_e08_c02_u021] Rachel Green: And a thousand dollars.
+[s10_e08_c02_u022] Rachel Green: ...is something I'm very interested in! Oh please, do not tell Ross. He still believes that what's in the inside is important...
+[s10_e08_c02_u023] Phoebe Buffay: Okay, oh, and Emma needs a cowgirl outfit for the competition.
+[s10_e08_c02_u024] Rachel Green: Where am I gonna get a cowgirl outfit on Thanksgiving?"
+s10_e08,s10_e08_c02,Phoebe Buffay,3,20,22,19,22,3,s10_e08_c02_u020,s10_e08_c02_u027,"[s10_e08_c02_u020] Rachel Green: Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy...
+[s10_e08_c02_u021] Rachel Green: And a thousand dollars.
+[s10_e08_c02_u022] Rachel Green: ...is something I'm very interested in! Oh please, do not tell Ross. He still believes that what's in the inside is important...
+[s10_e08_c02_u023] Phoebe Buffay: Okay, oh, and Emma needs a cowgirl outfit for the competition.
+[s10_e08_c02_u024] Rachel Green: Where am I gonna get a cowgirl outfit on Thanksgiving?
+[s10_e08_c02_u025] Phoebe Buffay: Well, I was thinking...
+[s10_e08_c02_u026] Rachel Green: Oh, take the clothes of Joey's Cabbage Patch Kid.
+[s10_e08_c02_u027] Phoebe Buffay: Yeah!"
+s10_e08,s10_e08_c02,Rachel Green,0,4,22,3,22,4,s10_e08_c02_u004,s10_e08_c02_u027,"[s10_e08_c02_u004] Monica Geller: You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?
+[s10_e08_c02_u005] Phoebe Buffay: You're not making the pies yourself?
+[s10_e08_c02_u006] Monica Geller: No, no, no, I don't make chocolate pies. When I was younger I-I enter in this pie-eating contest. I ate so many that just the thought of them made me sick.
+[s10_e08_c02_u007] Rachel Green: Did you at least win the contest?
+[s10_e08_c02_u008] Monica Geller: 2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4.
+[s10_e08_c02_u009] Rachel Green: Can't wait!
+[s10_e08_c02_u010] Monica Geller: This dinner is gonna be so great! In your face, last year ""me""!
+[s10_e08_c02_u011] Phoebe Buffay: Hey Rach.
+[s10_e08_c02_u012] Rachel Green: Yeah.
+[s10_e08_c02_u013] Phoebe Buffay: What's Emma doing today?
+[s10_e08_c02_u014] Rachel Green: Well, let's see... uh... I know that she has a meeting with her lawyer and then she has to make a very big poop. Why?
+[s10_e08_c02_u015] Phoebe Buffay: Well, I wanna enter her in a baby beauty pageant.
+[s10_e08_c02_u016] Rachel Green: Oh my God! That's the creepiest thing I've ever heard!
+[s10_e08_c02_u017] Phoebe Buffay: Okay, but, well, before you say no, my friend Susanne is entering her kid and compared to Emma she's a real dog!
+[s10_e08_c02_u018] Rachel Green: Oh! Phoebe, all babies are beautiful!
+[s10_e08_c02_u019] Phoebe Buffay: Oh... okay.
+[s10_e08_c02_u020] Rachel Green: Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy...
+[s10_e08_c02_u021] Rachel Green: And a thousand dollars.
+[s10_e08_c02_u022] Rachel Green: ...is something I'm very interested in! Oh please, do not tell Ross. He still believes that what's in the inside is important...
+[s10_e08_c02_u023] Phoebe Buffay: Okay, oh, and Emma needs a cowgirl outfit for the competition.
+[s10_e08_c02_u024] Rachel Green: Where am I gonna get a cowgirl outfit on Thanksgiving?
+[s10_e08_c02_u025] Phoebe Buffay: Well, I was thinking...
+[s10_e08_c02_u026] Rachel Green: Oh, take the clothes of Joey's Cabbage Patch Kid.
+[s10_e08_c02_u027] Phoebe Buffay: Yeah!"
+s10_e08,s10_e08_c03,Chandler Bing,0,0,15,0,16,3,s10_e08_c03_u001,s10_e08_c03_u021,"[s10_e08_c03_u001] Monica Geller: Did someone drop the baton again?
+[s10_e08_c03_u002] Chandler Bing: Why come all the way from Kansas to do that?
+[s10_e08_c03_u003] Monica Geller: I don't get older. I just get better!
+[s10_e08_c03_u004] Chandler Bing: You know what just occurred to me? This could be our last Thanksgiving just the two of us. I mean, we could be getting a baby soon!
+[s10_e08_c03_u005] Monica Geller: You don't know that.
+[s10_e08_c03_u006] Chandler Bing: Somebody is gonna pick us.
+[s10_e08_c03_u007] Monica Geller: Yeah, but we haven't heard a thing from the adoption agency and it has been weeks!
+[s10_e08_c03_u008] Chandler Bing: I'm telling ya! It's gonna happen. Next year it's gonna be you, me and the little Hemingway Bing. What, he's my favourite author!
+[s10_e08_c03_u009] Monica Geller: Name one of his books.
+[s10_e08_c03_u010] Chandler Bing: ""The Firm""?
+[s10_e08_c03_u011] Monica Geller: Ok, let's see... uhm, okay, the turkey is in the oven, the stuffing is ready...
+[s10_e08_c03_u012] Chandler Bing: You know, you always cook this meal all by yourself. Let me help this year.
+[s10_e08_c03_u013] Monica Geller: Oh, Chandler, that's sweet. But you don't have to do everything Doctor Phil tells you to do.
+[s10_e08_c03_u014] Chandler Bing: I'm serious, let me do something, just not the turkey or the stuffing, nothing ""high profile"".
+[s10_e08_c03_u015] Monica Geller: Ok, let's see... Oh, the cranberry sauce, it is easy to make and no-one really cares about it.
+[s10_e08_c03_u016] Chandler Bing: Tell me more.
+[s10_e08_c03_u017] Monica Geller: Okay, I'm gonna go check on something across the hall. You start by washing these Not with soap!!
+[s10_e08_c03_u018] Chandler Bing: You obviously haven't tasted my Palmolive potatoes!
+[s10_e08_c03_u019] Ross Geller: Hey! Hey, guess what Joey has!
+[s10_e08_c03_u020] Joey Tribbiani: Three tickets to today's Rangers game!!
+[s10_e08_c03_u021] Ross Geller: Dude, I wanted him to guess."
+s10_e08,s10_e08_c03,Chandler Bing,1,25,33,24,34,3,s10_e08_c03_u025,s10_e08_c03_u039,"[s10_e08_c03_u025] Ross Geller: Guess where they are?
+[s10_e08_c03_u026] Joey Tribbiani: Center ice.
+[s10_e08_c03_u027] Ross Geller: Did I do something to you?
+[s10_e08_c03_u028] Chandler Bing: Hmm, the game's at one.
+[s10_e08_c03_u029] Ross Geller: So?
+[s10_e08_c03_u030] Chandler Bing: Dinner is at four, we'll never gonna make it back.
+[s10_e08_c03_u031] Joey Tribbiani: So we'll leave before it's over, we'll be back in time.
+[s10_e08_c03_u032] Chandler Bing: You say that now, but it could take us a long time to get back home. Plus Joey could get lost and and they could have to page us to go pick him up.
+[s10_e08_c03_u033] Joey Tribbiani: Dude, two times that happened!
+[s10_e08_c03_u034] Chandler Bing: Look, Monica has been working hard all day, she didn't wanna host this thing in the first place, we shouldn't go!
+[s10_e08_c03_u035] Ross Geller: He's right, man.
+[s10_e08_c03_u036] Joey Tribbiani: Right, I guess. Alright, so see you at four.
+[s10_e08_c03_u037] Chandler Bing: Okay. And get ready to taste my very special cranberries. Or should I say... chanberries!
+[s10_e08_c03_u038] Joey Tribbiani: That's some gentle comedy, dude.
+[s10_e08_c03_u039] Ross Geller: We're still going at the game, right?"
+s10_e08,s10_e08_c03,Joey Tribbiani,0,17,23,16,24,3,s10_e08_c03_u017,s10_e08_c03_u029,"[s10_e08_c03_u017] Monica Geller: Okay, I'm gonna go check on something across the hall. You start by washing these Not with soap!!
+[s10_e08_c03_u018] Chandler Bing: You obviously haven't tasted my Palmolive potatoes!
+[s10_e08_c03_u019] Ross Geller: Hey! Hey, guess what Joey has!
+[s10_e08_c03_u020] Joey Tribbiani: Three tickets to today's Rangers game!!
+[s10_e08_c03_u021] Ross Geller: Dude, I wanted him to guess.
+[s10_e08_c03_u022] Joey Tribbiani: Oh.
+[s10_e08_c03_u023] Chandler Bing: Oh my God!
+[s10_e08_c03_u024] Joey Tribbiani: Yeah, they're great seats too!
+[s10_e08_c03_u025] Ross Geller: Guess where they are?
+[s10_e08_c03_u026] Joey Tribbiani: Center ice.
+[s10_e08_c03_u027] Ross Geller: Did I do something to you?
+[s10_e08_c03_u028] Chandler Bing: Hmm, the game's at one.
+[s10_e08_c03_u029] Ross Geller: So?"
+s10_e08,s10_e08_c03,Joey Tribbiani,1,28,36,27,36,3,s10_e08_c03_u028,s10_e08_c03_u041,"[s10_e08_c03_u028] Chandler Bing: Hmm, the game's at one.
+[s10_e08_c03_u029] Ross Geller: So?
+[s10_e08_c03_u030] Chandler Bing: Dinner is at four, we'll never gonna make it back.
+[s10_e08_c03_u031] Joey Tribbiani: So we'll leave before it's over, we'll be back in time.
+[s10_e08_c03_u032] Chandler Bing: You say that now, but it could take us a long time to get back home. Plus Joey could get lost and and they could have to page us to go pick him up.
+[s10_e08_c03_u033] Joey Tribbiani: Dude, two times that happened!
+[s10_e08_c03_u034] Chandler Bing: Look, Monica has been working hard all day, she didn't wanna host this thing in the first place, we shouldn't go!
+[s10_e08_c03_u035] Ross Geller: He's right, man.
+[s10_e08_c03_u036] Joey Tribbiani: Right, I guess. Alright, so see you at four.
+[s10_e08_c03_u037] Chandler Bing: Okay. And get ready to taste my very special cranberries. Or should I say... chanberries!
+[s10_e08_c03_u038] Joey Tribbiani: That's some gentle comedy, dude.
+[s10_e08_c03_u039] Ross Geller: We're still going at the game, right?
+[s10_e08_c03_u040] Joey Tribbiani: Yeah!
+[s10_e08_c03_u041] Ross Geller: Yeah."
+s10_e08,s10_e08_c03,Monica Geller,0,0,14,0,15,3,s10_e08_c03_u001,s10_e08_c03_u020,"[s10_e08_c03_u001] Monica Geller: Did someone drop the baton again?
+[s10_e08_c03_u002] Chandler Bing: Why come all the way from Kansas to do that?
+[s10_e08_c03_u003] Monica Geller: I don't get older. I just get better!
+[s10_e08_c03_u004] Chandler Bing: You know what just occurred to me? This could be our last Thanksgiving just the two of us. I mean, we could be getting a baby soon!
+[s10_e08_c03_u005] Monica Geller: You don't know that.
+[s10_e08_c03_u006] Chandler Bing: Somebody is gonna pick us.
+[s10_e08_c03_u007] Monica Geller: Yeah, but we haven't heard a thing from the adoption agency and it has been weeks!
+[s10_e08_c03_u008] Chandler Bing: I'm telling ya! It's gonna happen. Next year it's gonna be you, me and the little Hemingway Bing. What, he's my favourite author!
+[s10_e08_c03_u009] Monica Geller: Name one of his books.
+[s10_e08_c03_u010] Chandler Bing: ""The Firm""?
+[s10_e08_c03_u011] Monica Geller: Ok, let's see... uhm, okay, the turkey is in the oven, the stuffing is ready...
+[s10_e08_c03_u012] Chandler Bing: You know, you always cook this meal all by yourself. Let me help this year.
+[s10_e08_c03_u013] Monica Geller: Oh, Chandler, that's sweet. But you don't have to do everything Doctor Phil tells you to do.
+[s10_e08_c03_u014] Chandler Bing: I'm serious, let me do something, just not the turkey or the stuffing, nothing ""high profile"".
+[s10_e08_c03_u015] Monica Geller: Ok, let's see... Oh, the cranberry sauce, it is easy to make and no-one really cares about it.
+[s10_e08_c03_u016] Chandler Bing: Tell me more.
+[s10_e08_c03_u017] Monica Geller: Okay, I'm gonna go check on something across the hall. You start by washing these Not with soap!!
+[s10_e08_c03_u018] Chandler Bing: You obviously haven't tasted my Palmolive potatoes!
+[s10_e08_c03_u019] Ross Geller: Hey! Hey, guess what Joey has!
+[s10_e08_c03_u020] Joey Tribbiani: Three tickets to today's Rangers game!!"
+s10_e08,s10_e08_c03,Ross Geller,0,16,18,15,19,2,s10_e08_c03_u016,s10_e08_c03_u024,"[s10_e08_c03_u016] Chandler Bing: Tell me more.
+[s10_e08_c03_u017] Monica Geller: Okay, I'm gonna go check on something across the hall. You start by washing these Not with soap!!
+[s10_e08_c03_u018] Chandler Bing: You obviously haven't tasted my Palmolive potatoes!
+[s10_e08_c03_u019] Ross Geller: Hey! Hey, guess what Joey has!
+[s10_e08_c03_u020] Joey Tribbiani: Three tickets to today's Rangers game!!
+[s10_e08_c03_u021] Ross Geller: Dude, I wanted him to guess.
+[s10_e08_c03_u022] Joey Tribbiani: Oh.
+[s10_e08_c03_u023] Chandler Bing: Oh my God!
+[s10_e08_c03_u024] Joey Tribbiani: Yeah, they're great seats too!"
+s10_e08,s10_e08_c03,Ross Geller,1,20,20,19,21,2,s10_e08_c03_u020,s10_e08_c03_u026,"[s10_e08_c03_u020] Joey Tribbiani: Three tickets to today's Rangers game!!
+[s10_e08_c03_u021] Ross Geller: Dude, I wanted him to guess.
+[s10_e08_c03_u022] Joey Tribbiani: Oh.
+[s10_e08_c03_u023] Chandler Bing: Oh my God!
+[s10_e08_c03_u024] Joey Tribbiani: Yeah, they're great seats too!
+[s10_e08_c03_u025] Ross Geller: Guess where they are?
+[s10_e08_c03_u026] Joey Tribbiani: Center ice."
+s10_e08,s10_e08_c03,Ross Geller,2,22,26,21,27,3,s10_e08_c03_u022,s10_e08_c03_u032,"[s10_e08_c03_u022] Joey Tribbiani: Oh.
+[s10_e08_c03_u023] Chandler Bing: Oh my God!
+[s10_e08_c03_u024] Joey Tribbiani: Yeah, they're great seats too!
+[s10_e08_c03_u025] Ross Geller: Guess where they are?
+[s10_e08_c03_u026] Joey Tribbiani: Center ice.
+[s10_e08_c03_u027] Ross Geller: Did I do something to you?
+[s10_e08_c03_u028] Chandler Bing: Hmm, the game's at one.
+[s10_e08_c03_u029] Ross Geller: So?
+[s10_e08_c03_u030] Chandler Bing: Dinner is at four, we'll never gonna make it back.
+[s10_e08_c03_u031] Joey Tribbiani: So we'll leave before it's over, we'll be back in time.
+[s10_e08_c03_u032] Chandler Bing: You say that now, but it could take us a long time to get back home. Plus Joey could get lost and and they could have to page us to go pick him up."
+s10_e08,s10_e08_c03,Ross Geller,3,34,34,33,35,2,s10_e08_c03_u034,s10_e08_c03_u040,"[s10_e08_c03_u034] Chandler Bing: Look, Monica has been working hard all day, she didn't wanna host this thing in the first place, we shouldn't go!
+[s10_e08_c03_u035] Ross Geller: He's right, man.
+[s10_e08_c03_u036] Joey Tribbiani: Right, I guess. Alright, so see you at four.
+[s10_e08_c03_u037] Chandler Bing: Okay. And get ready to taste my very special cranberries. Or should I say... chanberries!
+[s10_e08_c03_u038] Joey Tribbiani: That's some gentle comedy, dude.
+[s10_e08_c03_u039] Ross Geller: We're still going at the game, right?
+[s10_e08_c03_u040] Joey Tribbiani: Yeah!"
+s10_e08,s10_e08_c03,Ross Geller,4,36,36,35,36,2,s10_e08_c03_u036,s10_e08_c03_u041,"[s10_e08_c03_u036] Joey Tribbiani: Right, I guess. Alright, so see you at four.
+[s10_e08_c03_u037] Chandler Bing: Okay. And get ready to taste my very special cranberries. Or should I say... chanberries!
+[s10_e08_c03_u038] Joey Tribbiani: That's some gentle comedy, dude.
+[s10_e08_c03_u039] Ross Geller: We're still going at the game, right?
+[s10_e08_c03_u040] Joey Tribbiani: Yeah!
+[s10_e08_c03_u041] Ross Geller: Yeah."
+s10_e08,s10_e08_c04,Phoebe Buffay,0,0,16,0,16,3,s10_e08_c04_u001,s10_e08_c04_u021,"[s10_e08_c04_u001] Host: This is contestant number sixteen, Rebecca...
+[s10_e08_c04_u002] Phoebe Buffay: Hey.
+[s10_e08_c04_u003] Rachel Green: Oh Phoebe, listen. Well, I think we gotta go. This place is really freaking me out. I've been watching this guy over there, I don't think he came with a kid!
+[s10_e08_c04_u004] Phoebe Buffay: We can't leave now! There was this one baby, Haley, who was favourite to win and she got croup, so she had to stay home! This competition just blew wide open, folks!
+[s10_e08_c04_u005] Rachel Green: Phoebe, I think... It's just too weird, I just saw a one year old running around with pantyhose on!
+[s10_e08_c04_u006] Phoebe Buffay: Oh, I know, we should have been more prepared. It's okay. Now, the way I see it, our real competition now is Cameron. Oh my God, they just took her sweater off. Look at those arms! Hello Michelin Man.
+[s10_e08_c04_u007] Rachel Green: Oh, Phoebe! Come on! You know what, it's already three o'clock and they haven't even gotten to Emma's group yet. We gotta go, we got dinner!
+[s10_e08_c04_u008] Phoebe Buffay: But Emma's got what it takes, she could go all the way!
+[s10_e08_c04_u009] Rachel Green: Phoebe, you have to calm down.
+[s10_e08_c04_u010] Phoebe Buffay: Okay. Rachel, the hottest babies in the Tri-State Area are in this room right now! I overheard one of the judges say that not one of them holds a candle to Emma!
+[s10_e08_c04_u011] Rachel Green: Really?
+[s10_e08_c04_u012] Phoebe Buffay: Yeah!
+[s10_e08_c04_u013] Rachel Green: You heard them say that?
+[s10_e08_c04_u014] Phoebe Buffay: Yeah!
+[s10_e08_c04_u015] Rachel Green: All right, okay. Alright, let's give to these babies something to cry about!
+[s10_e08_c04_u016] Phoebe Buffay: Good! Oh yay! Let's get down to business! Emma needs some makeup!
+[s10_e08_c04_u017] Rachel Green: No, what?
+[s10_e08_c04_u018] Phoebe Buffay: Well, she's gonna look all washed out next to the other contestants!
+[s10_e08_c04_u019] Rachel Green: No Phoebe, I am not letting you put makeup on my baby!
+[s10_e08_c04_u020] Phoebe Buffay: Why not!
+[s10_e08_c04_u021] Rachel Green: Because I already did!"
+s10_e08,s10_e08_c04,Rachel Green,0,0,16,0,16,3,s10_e08_c04_u001,s10_e08_c04_u021,"[s10_e08_c04_u001] Host: This is contestant number sixteen, Rebecca...
+[s10_e08_c04_u002] Phoebe Buffay: Hey.
+[s10_e08_c04_u003] Rachel Green: Oh Phoebe, listen. Well, I think we gotta go. This place is really freaking me out. I've been watching this guy over there, I don't think he came with a kid!
+[s10_e08_c04_u004] Phoebe Buffay: We can't leave now! There was this one baby, Haley, who was favourite to win and she got croup, so she had to stay home! This competition just blew wide open, folks!
+[s10_e08_c04_u005] Rachel Green: Phoebe, I think... It's just too weird, I just saw a one year old running around with pantyhose on!
+[s10_e08_c04_u006] Phoebe Buffay: Oh, I know, we should have been more prepared. It's okay. Now, the way I see it, our real competition now is Cameron. Oh my God, they just took her sweater off. Look at those arms! Hello Michelin Man.
+[s10_e08_c04_u007] Rachel Green: Oh, Phoebe! Come on! You know what, it's already three o'clock and they haven't even gotten to Emma's group yet. We gotta go, we got dinner!
+[s10_e08_c04_u008] Phoebe Buffay: But Emma's got what it takes, she could go all the way!
+[s10_e08_c04_u009] Rachel Green: Phoebe, you have to calm down.
+[s10_e08_c04_u010] Phoebe Buffay: Okay. Rachel, the hottest babies in the Tri-State Area are in this room right now! I overheard one of the judges say that not one of them holds a candle to Emma!
+[s10_e08_c04_u011] Rachel Green: Really?
+[s10_e08_c04_u012] Phoebe Buffay: Yeah!
+[s10_e08_c04_u013] Rachel Green: You heard them say that?
+[s10_e08_c04_u014] Phoebe Buffay: Yeah!
+[s10_e08_c04_u015] Rachel Green: All right, okay. Alright, let's give to these babies something to cry about!
+[s10_e08_c04_u016] Phoebe Buffay: Good! Oh yay! Let's get down to business! Emma needs some makeup!
+[s10_e08_c04_u017] Rachel Green: No, what?
+[s10_e08_c04_u018] Phoebe Buffay: Well, she's gonna look all washed out next to the other contestants!
+[s10_e08_c04_u019] Rachel Green: No Phoebe, I am not letting you put makeup on my baby!
+[s10_e08_c04_u020] Phoebe Buffay: Why not!
+[s10_e08_c04_u021] Rachel Green: Because I already did!"
+s10_e08,s10_e08_c05,Joey Tribbiani,0,0,9,0,9,3,s10_e08_c05_u002,s10_e08_c05_u015,"[s10_e08_c05_u002] Joey Tribbiani: Oh, Bob, get off the guy!
+[s10_e08_c05_u003] Ross Geller: Oh! What a game, huh?
+[s10_e08_c05_u004] Joey Tribbiani: I know, yeah.
+[s10_e08_c05_u005] Ross Geller: I can't believe Chandler is missing this!
+[s10_e08_c05_u006] Joey Tribbiani: Yeah. I am sorry he's not here too, but I got to say, I am really enjoying Nacho Chair.
+[s10_e08_c05_u007] Ross Geller: Yeah, I'd probably enjoy it more if you didn't keep batting my hand away.
+[s10_e08_c05_u008] Joey Tribbiani: Ohhhh! These seats are great!
+[s10_e08_c05_u009] Ross Geller: I know, I know! When I was here for Holidays on Ice I was sitting so far away Michelle Kwan couldn't read my banner!
+[s10_e08_c05_u010] Joey Tribbiani: Wow, hey, we'd better get going. If we don't leave right now, we'll be late for dinner.
+[s10_e08_c05_u011] Ross Geller: Oh, but it's a kind game! So we're a little late, you know, the girls will be there, let's stay just for one more goal.
+[s10_e08_c05_u012] Joey Tribbiani: I don't know...
+[s10_e08_c05_u013] Ross Geller: One more fight!
+[s10_e08_c05_u014] Joey Tribbiani: Okay.
+[s10_e08_c05_u015] Ross Geller: Okay."
+s10_e08,s10_e08_c05,Ross Geller,0,0,9,0,9,3,s10_e08_c05_u002,s10_e08_c05_u015,"[s10_e08_c05_u002] Joey Tribbiani: Oh, Bob, get off the guy!
+[s10_e08_c05_u003] Ross Geller: Oh! What a game, huh?
+[s10_e08_c05_u004] Joey Tribbiani: I know, yeah.
+[s10_e08_c05_u005] Ross Geller: I can't believe Chandler is missing this!
+[s10_e08_c05_u006] Joey Tribbiani: Yeah. I am sorry he's not here too, but I got to say, I am really enjoying Nacho Chair.
+[s10_e08_c05_u007] Ross Geller: Yeah, I'd probably enjoy it more if you didn't keep batting my hand away.
+[s10_e08_c05_u008] Joey Tribbiani: Ohhhh! These seats are great!
+[s10_e08_c05_u009] Ross Geller: I know, I know! When I was here for Holidays on Ice I was sitting so far away Michelle Kwan couldn't read my banner!
+[s10_e08_c05_u010] Joey Tribbiani: Wow, hey, we'd better get going. If we don't leave right now, we'll be late for dinner.
+[s10_e08_c05_u011] Ross Geller: Oh, but it's a kind game! So we're a little late, you know, the girls will be there, let's stay just for one more goal.
+[s10_e08_c05_u012] Joey Tribbiani: I don't know...
+[s10_e08_c05_u013] Ross Geller: One more fight!
+[s10_e08_c05_u014] Joey Tribbiani: Okay.
+[s10_e08_c05_u015] Ross Geller: Okay."
+s10_e08,s10_e08_c07,Joey Tribbiani,0,0,6,0,7,3,s10_e08_c07_u001,s10_e08_c07_u012,"[s10_e08_c07_u001] Joey Tribbiani: How late are we?
+[s10_e08_c07_u002] Ross Geller: Forty-five minutes.
+[s10_e08_c07_u003] Joey Tribbiani: Wow.
+[s10_e08_c07_u004] Ross Geller: Here!
+[s10_e08_c07_u005] Joey Tribbiani: Okay. Rachel and Phoebe are already there, okay? So they probably started without us. We could just slip in and no-one needs to know where we were!
+[s10_e08_c07_u006] Ross Geller: You may want to lose the foam finger!
+[s10_e08_c07_u007] Joey Tribbiani: Oh, no, no, no, no, no. You just want to put it on your hand!
+[s10_e08_c07_u008] Ross Geller: Hey!
+[s10_e08_c07_u009] Phoebe Buffay: Oh!
+[s10_e08_c07_u010] Joey Tribbiani: You are not at Thanksgiving?
+[s10_e08_c07_u011] Rachel Green: No...
+[s10_e08_c07_u012] Phoebe Buffay: No, we're late!"
+s10_e08,s10_e08_c07,Joey Tribbiani,1,13,14,12,15,2,s10_e08_c07_u013,s10_e08_c07_u020,"[s10_e08_c07_u013] Rachel Green: What are you doing here!
+[s10_e08_c07_u014] Ross Geller: We're late too!
+[s10_e08_c07_u015] Joey Tribbiani: We figured we could be late because you guys were gonna be on time.
+[s10_e08_c07_u016] Phoebe Buffay: Don't point that thing at me, Tribbiani!
+[s10_e08_c07_u017] Ross Geller: So, nobody's here? Monica's gonna kill us!
+[s10_e08_c07_u018] Joey Tribbiani: Yeah, where were you!
+[s10_e08_c07_u019] Ross Geller: Yeah, yeah, what's with the trophy!
+[s10_e08_c07_u020] Phoebe Buffay: Uh, we were at the Spelling Bee!"
+s10_e08,s10_e08_c07,Joey Tribbiani,2,27,27,26,28,2,s10_e08_c07_u027,s10_e08_c07_u033,"[s10_e08_c07_u027] Phoebe Buffay: And it looks like she put makeup on her!
+[s10_e08_c07_u028] Joey Tribbiani: Wait a second, wait a second, where have I seen that cowgirl outfit before...
+[s10_e08_c07_u029] Ross Geller: I can't believe this, she's our daughter! That you would treat her like some kind of showdog is inexcusable!
+[s10_e08_c07_u030] Rachel Green: She won a thousand dollars!
+[s10_e08_c07_u031] Ross Geller: So this is an annual thing?
+[s10_e08_c07_u032] Joey Tribbiani: Oh! That's Alicia Mae Emory's outfit!
+[s10_e08_c07_u033] Phoebe Buffay: You guys, there are people in there who are not getting any happier!"
+s10_e08,s10_e08_c07,Joey Tribbiani,3,31,31,30,32,2,s10_e08_c07_u031,s10_e08_c07_u037,"[s10_e08_c07_u031] Ross Geller: So this is an annual thing?
+[s10_e08_c07_u032] Joey Tribbiani: Oh! That's Alicia Mae Emory's outfit!
+[s10_e08_c07_u033] Phoebe Buffay: You guys, there are people in there who are not getting any happier!
+[s10_e08_c07_u034] Ross Geller: Yeah. What are we gonna do?
+[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?"
+s10_e08,s10_e08_c07,Joey Tribbiani,4,35,35,34,36,2,s10_e08_c07_u035,s10_e08_c07_u041,"[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?
+[s10_e08_c07_u038] Ross Geller: Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!
+[s10_e08_c07_u039] Phoebe Buffay: Oh, good, that's good, but you don't look like you were mugged!
+[s10_e08_c07_u040] Joey Tribbiani: No. Here.
+[s10_e08_c07_u041] Ross Geller: HEY!"
+s10_e08,s10_e08_c07,Phoebe Buffay,0,7,8,6,9,2,s10_e08_c07_u007,s10_e08_c07_u014,"[s10_e08_c07_u007] Joey Tribbiani: Oh, no, no, no, no, no. You just want to put it on your hand!
+[s10_e08_c07_u008] Ross Geller: Hey!
+[s10_e08_c07_u009] Phoebe Buffay: Oh!
+[s10_e08_c07_u010] Joey Tribbiani: You are not at Thanksgiving?
+[s10_e08_c07_u011] Rachel Green: No...
+[s10_e08_c07_u012] Phoebe Buffay: No, we're late!
+[s10_e08_c07_u013] Rachel Green: What are you doing here!
+[s10_e08_c07_u014] Ross Geller: We're late too!"
+s10_e08,s10_e08_c07,Phoebe Buffay,1,11,11,10,12,2,s10_e08_c07_u011,s10_e08_c07_u017,"[s10_e08_c07_u011] Rachel Green: No...
+[s10_e08_c07_u012] Phoebe Buffay: No, we're late!
+[s10_e08_c07_u013] Rachel Green: What are you doing here!
+[s10_e08_c07_u014] Ross Geller: We're late too!
+[s10_e08_c07_u015] Joey Tribbiani: We figured we could be late because you guys were gonna be on time.
+[s10_e08_c07_u016] Phoebe Buffay: Don't point that thing at me, Tribbiani!
+[s10_e08_c07_u017] Ross Geller: So, nobody's here? Monica's gonna kill us!"
+s10_e08,s10_e08_c07,Phoebe Buffay,2,15,15,14,16,2,s10_e08_c07_u015,s10_e08_c07_u021,"[s10_e08_c07_u015] Joey Tribbiani: We figured we could be late because you guys were gonna be on time.
+[s10_e08_c07_u016] Phoebe Buffay: Don't point that thing at me, Tribbiani!
+[s10_e08_c07_u017] Ross Geller: So, nobody's here? Monica's gonna kill us!
+[s10_e08_c07_u018] Joey Tribbiani: Yeah, where were you!
+[s10_e08_c07_u019] Ross Geller: Yeah, yeah, what's with the trophy!
+[s10_e08_c07_u020] Phoebe Buffay: Uh, we were at the Spelling Bee!
+[s10_e08_c07_u021] Rachel Green: And I won!"
+s10_e08,s10_e08_c07,Phoebe Buffay,3,32,32,31,33,2,s10_e08_c07_u032,s10_e08_c07_u038,"[s10_e08_c07_u032] Joey Tribbiani: Oh! That's Alicia Mae Emory's outfit!
+[s10_e08_c07_u033] Phoebe Buffay: You guys, there are people in there who are not getting any happier!
+[s10_e08_c07_u034] Ross Geller: Yeah. What are we gonna do?
+[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?
+[s10_e08_c07_u038] Ross Geller: Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!"
+s10_e08,s10_e08_c07,Phoebe Buffay,4,34,36,33,36,2,s10_e08_c07_u034,s10_e08_c07_u041,"[s10_e08_c07_u034] Ross Geller: Yeah. What are we gonna do?
+[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?
+[s10_e08_c07_u038] Ross Geller: Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!
+[s10_e08_c07_u039] Phoebe Buffay: Oh, good, that's good, but you don't look like you were mugged!
+[s10_e08_c07_u040] Joey Tribbiani: No. Here.
+[s10_e08_c07_u041] Ross Geller: HEY!"
+s10_e08,s10_e08_c07,Rachel Green,0,8,10,7,11,2,s10_e08_c07_u008,s10_e08_c07_u016,"[s10_e08_c07_u008] Ross Geller: Hey!
+[s10_e08_c07_u009] Phoebe Buffay: Oh!
+[s10_e08_c07_u010] Joey Tribbiani: You are not at Thanksgiving?
+[s10_e08_c07_u011] Rachel Green: No...
+[s10_e08_c07_u012] Phoebe Buffay: No, we're late!
+[s10_e08_c07_u013] Rachel Green: What are you doing here!
+[s10_e08_c07_u014] Ross Geller: We're late too!
+[s10_e08_c07_u015] Joey Tribbiani: We figured we could be late because you guys were gonna be on time.
+[s10_e08_c07_u016] Phoebe Buffay: Don't point that thing at me, Tribbiani!"
+s10_e08,s10_e08_c07,Rachel Green,1,18,22,17,23,3,s10_e08_c07_u018,s10_e08_c07_u028,"[s10_e08_c07_u018] Joey Tribbiani: Yeah, where were you!
+[s10_e08_c07_u019] Ross Geller: Yeah, yeah, what's with the trophy!
+[s10_e08_c07_u020] Phoebe Buffay: Uh, we were at the Spelling Bee!
+[s10_e08_c07_u021] Rachel Green: And I won!
+[s10_e08_c07_u022] Ross Geller: You won an adult Thanksgiving day spelling bee.
+[s10_e08_c07_u023] Rachel Green: Yes! Y-E-S. Yes!
+[s10_e08_c07_u024] Ross Geller: Let me see this... Grand Supreme Little Darling, New York Division.
+[s10_e08_c07_u025] Rachel Green: Yeah. That's me!
+[s10_e08_c07_u026] Ross Geller: You entered Emma into a Beauty Pageant?
+[s10_e08_c07_u027] Phoebe Buffay: And it looks like she put makeup on her!
+[s10_e08_c07_u028] Joey Tribbiani: Wait a second, wait a second, where have I seen that cowgirl outfit before..."
+s10_e08,s10_e08_c07,Ross Geller,0,0,5,0,6,3,s10_e08_c07_u001,s10_e08_c07_u011,"[s10_e08_c07_u001] Joey Tribbiani: How late are we?
+[s10_e08_c07_u002] Ross Geller: Forty-five minutes.
+[s10_e08_c07_u003] Joey Tribbiani: Wow.
+[s10_e08_c07_u004] Ross Geller: Here!
+[s10_e08_c07_u005] Joey Tribbiani: Okay. Rachel and Phoebe are already there, okay? So they probably started without us. We could just slip in and no-one needs to know where we were!
+[s10_e08_c07_u006] Ross Geller: You may want to lose the foam finger!
+[s10_e08_c07_u007] Joey Tribbiani: Oh, no, no, no, no, no. You just want to put it on your hand!
+[s10_e08_c07_u008] Ross Geller: Hey!
+[s10_e08_c07_u009] Phoebe Buffay: Oh!
+[s10_e08_c07_u010] Joey Tribbiani: You are not at Thanksgiving?
+[s10_e08_c07_u011] Rachel Green: No..."
+s10_e08,s10_e08_c07,Ross Geller,1,12,30,11,31,3,s10_e08_c07_u012,s10_e08_c07_u036,"[s10_e08_c07_u012] Phoebe Buffay: No, we're late!
+[s10_e08_c07_u013] Rachel Green: What are you doing here!
+[s10_e08_c07_u014] Ross Geller: We're late too!
+[s10_e08_c07_u015] Joey Tribbiani: We figured we could be late because you guys were gonna be on time.
+[s10_e08_c07_u016] Phoebe Buffay: Don't point that thing at me, Tribbiani!
+[s10_e08_c07_u017] Ross Geller: So, nobody's here? Monica's gonna kill us!
+[s10_e08_c07_u018] Joey Tribbiani: Yeah, where were you!
+[s10_e08_c07_u019] Ross Geller: Yeah, yeah, what's with the trophy!
+[s10_e08_c07_u020] Phoebe Buffay: Uh, we were at the Spelling Bee!
+[s10_e08_c07_u021] Rachel Green: And I won!
+[s10_e08_c07_u022] Ross Geller: You won an adult Thanksgiving day spelling bee.
+[s10_e08_c07_u023] Rachel Green: Yes! Y-E-S. Yes!
+[s10_e08_c07_u024] Ross Geller: Let me see this... Grand Supreme Little Darling, New York Division.
+[s10_e08_c07_u025] Rachel Green: Yeah. That's me!
+[s10_e08_c07_u026] Ross Geller: You entered Emma into a Beauty Pageant?
+[s10_e08_c07_u027] Phoebe Buffay: And it looks like she put makeup on her!
+[s10_e08_c07_u028] Joey Tribbiani: Wait a second, wait a second, where have I seen that cowgirl outfit before...
+[s10_e08_c07_u029] Ross Geller: I can't believe this, she's our daughter! That you would treat her like some kind of showdog is inexcusable!
+[s10_e08_c07_u030] Rachel Green: She won a thousand dollars!
+[s10_e08_c07_u031] Ross Geller: So this is an annual thing?
+[s10_e08_c07_u032] Joey Tribbiani: Oh! That's Alicia Mae Emory's outfit!
+[s10_e08_c07_u033] Phoebe Buffay: You guys, there are people in there who are not getting any happier!
+[s10_e08_c07_u034] Ross Geller: Yeah. What are we gonna do?
+[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae."
+s10_e08,s10_e08_c07,Ross Geller,2,33,33,32,34,2,s10_e08_c07_u033,s10_e08_c07_u039,"[s10_e08_c07_u033] Phoebe Buffay: You guys, there are people in there who are not getting any happier!
+[s10_e08_c07_u034] Ross Geller: Yeah. What are we gonna do?
+[s10_e08_c07_u035] Rachel Green: Well, I don't know, you guys figure it out, I got to put Emma down for a nap.
+[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?
+[s10_e08_c07_u038] Ross Geller: Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!
+[s10_e08_c07_u039] Phoebe Buffay: Oh, good, that's good, but you don't look like you were mugged!"
+s10_e08,s10_e08_c07,Ross Geller,3,36,36,35,36,2,s10_e08_c07_u036,s10_e08_c07_u041,"[s10_e08_c07_u036] Joey Tribbiani: All right. Hey Rach, while you're in there, throw something on Alicia Mae.
+[s10_e08_c07_u037] Phoebe Buffay: Alright, what are we gonna say?
+[s10_e08_c07_u038] Ross Geller: Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!
+[s10_e08_c07_u039] Phoebe Buffay: Oh, good, that's good, but you don't look like you were mugged!
+[s10_e08_c07_u040] Joey Tribbiani: No. Here.
+[s10_e08_c07_u041] Ross Geller: HEY!"
+s10_e08,s10_e08_c08,Chandler Bing,0,0,3,0,4,3,s10_e08_c08_u001,s10_e08_c08_u009,"[s10_e08_c08_u001] Monica Geller: Do you hear something?
+[s10_e08_c08_u002] Chandler Bing: They're out there!
+[s10_e08_c08_u003] Monica Geller: Ohhh! Let me see! Oh God, I can't believe this! They're an hour late and they're just staying out there, talking!
+[s10_e08_c08_u004] Chandler Bing: Everything is so distorted! Looks like Joey has a giant hand! Which says ""Rangers"" on it. They went to the game!
+[s10_e08_c08_u005] Monica Geller: Oooh! They are in for a world of pain!
+[s10_e08_c08_u006] Chandler Bing: Ross' shirt is torn.
+[s10_e08_c08_u007] Monica Geller: Oh! They're late and they're sloppy!
+[s10_e08_c08_u008] Rachel Green: Alright, Emma is napping... what happened to your shirt?
+[s10_e08_c08_u009] Ross Geller: I got mugged. And they stole my pocket."
+s10_e08,s10_e08_c08,Chandler Bing,1,27,31,26,32,3,s10_e08_c08_u028,s10_e08_c08_u038,"[s10_e08_c08_u028] Ross Geller: Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: ""Come on in, my butt is surprisingly hairy"".
+[s10_e08_c08_u029] Rachel Green: Alright, come on... Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together.
+[s10_e08_c08_u030] Monica Geller: No! Everything's cold. The turkey's dried out and the... the stuffing is all soggy.
+[s10_e08_c08_u031] Chandler Bing: Yeah, and there's a bowl of cranberry sauce that... what happens to cranberry sauce?
+[s10_e08_c08_u032] Monica Geller: Nothing. It's fine.
+[s10_e08_c08_u033] Chandler Bing: Oh thank God!
+[s10_e08_c08_u034] Ross Geller: Come on you guys, we're sorry, alri...? Our subway broke down.
+[s10_e08_c08_u035] Chandler Bing: That's a lie, you went to the game, I can see Joey's hand.
+[s10_e08_c08_u036] Ross Geller: FOR THE LOVE OF GOD TAKE IT OFF!!
+[s10_e08_c08_u037] Rachel Green: You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey.
+[s10_e08_c08_u038] Joey Tribbiani: I had a dream once about a fax machine that did that."
+s10_e08,s10_e08_c08,Chandler Bing,2,43,47,42,48,2,s10_e08_c08_u044,s10_e08_c08_u054,"[s10_e08_c08_u044] Phoebe Buffay: Oh yeah!
+[s10_e08_c08_u045] Monica Geller: Hey, you touch that and you will be sorry.
+[s10_e08_c08_u046] Chandler Bing: Guys, I'd listen to her. The vein is bigger than I've ever seen it.
+[s10_e08_c08_u047] Rachel Green: Huh... OH MY GOD IT'S BRUSSELS SPROUTS.
+[s10_e08_c08_u048] Ross Geller: That's worse than no food.
+[s10_e08_c08_u049] Chandler Bing: HA-HA! All you got was Monica's stinky Brussels sprouts!
+[s10_e08_c08_u050] Monica Geller: Stinky?!
+[s10_e08_c08_u051] Chandler Bing: Please let me stay on this side of the door.
+[s10_e08_c08_u052] Rachel Green: Oh, I know... I still have my old key! We can just unlock the door.
+[s10_e08_c08_u053] Phoebe Buffay: Well, I don't know if that's such a good idea. They clearly don't want to be with us.
+[s10_e08_c08_u054] Rachel Green: You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together."
+s10_e08,s10_e08_c08,Chandler Bing,3,58,59,57,60,2,s10_e08_c08_u059,s10_e08_c08_u066,"[s10_e08_c08_u059] Rachel Green: Oh!
+[s10_e08_c08_u060] Joey Tribbiani: Oh! It all looks so beautiful: the turkey, the stuffing...
+[s10_e08_c08_u061] Chandler Bing: The cranberries...?
+[s10_e08_c08_u062] Monica Geller: Oh! Enough! A monkey could have made 'em!
+[s10_e08_c08_u063] Joey Tribbiani: Hey listen guys, we feel really terrible.
+[s10_e08_c08_u064] Chandler Bing: He's doing that weird eye contact thing. Don't look at him, don't look at him!
+[s10_e08_c08_u065] Joey Tribbiani: Come on you guys, we want you to know we're very very sorry. Right guys?
+[s10_e08_c08_u066] Ross Geller: I feel terrible."
+s10_e08,s10_e08_c08,Chandler Bing,4,102,103,101,104,2,s10_e08_c08_u103,s10_e08_c08_u110,"[s10_e08_c08_u103] Ross Geller: Okay.
+[s10_e08_c08_u104] Joey Tribbiani: aaw-ahhh-aaahhh STOP! STOP! I'm worried about damaging my head.
+[s10_e08_c08_u105] Chandler Bing: A little late for that.
+[s10_e08_c08_u106] Joey Tribbiani: Alright, hurry up, you gotta do something.
+[s10_e08_c08_u107] Monica Geller: Alright, well, this does not change anything. Okay, we need to get something to grease the sides of his face.
+[s10_e08_c08_u108] Chandler Bing: Uhm, we've got turkey grease.
+[s10_e08_c08_u109] Monica Geller: Bring it.
+[s10_e08_c08_u110] Joey Tribbiani: I just wanna say that I'm sorry I referred to the vein as a seperate person..."
+s10_e08,s10_e08_c08,Chandler Bing,5,115,116,114,117,2,s10_e08_c08_u116,s10_e08_c08_u123,"[s10_e08_c08_u116] Monica Geller: Alright, we're gonna have to unscrew the chain.
+[s10_e08_c08_u117] Joey Tribbiani: Well hurry, I can't feel my ears!
+[s10_e08_c08_u118] Chandler Bing: Can you ever feel your ears?
+[s10_e08_c08_u119] Joey Tribbiani: Interesting...
+[s10_e08_c08_u120] Monica Geller: Chandler, where are your tools?
+[s10_e08_c08_u121] Chandler Bing: Oh, I left them on my bulldozer... I don't have tools!
+[s10_e08_c08_u122] Monica Geller: I do, but Rachel borrowed them.
+[s10_e08_c08_u123] Rachel Green: I lent them to Ross."
+s10_e08,s10_e08_c08,Chandler Bing,6,129,130,128,131,2,s10_e08_c08_u130,s10_e08_c08_u137,"[s10_e08_c08_u130] Monica Geller: Okay, I have to get that. Now when I get back, I want you and your friends to be gone. Thanksgiving is over. The Vein has spoken.
+[s10_e08_c08_u131] Joey Tribbiani: It's really starting to hurt.
+[s10_e08_c08_u132] Chandler Bing: Okay, look, I'm gonna pull on the door and you guys push as hard as you can. Maybe we can get enough room to wiggle him out, okay? Okay, so PUSH!
+[s10_e08_c08_u133] Phoebe Buffay: Just a sec., we're kind in the middle of something here.
+[s10_e08_c08_u134] Joey Tribbiani: Ooh! Stop putting things down my pants!
+[s10_e08_c08_u135] Chandler Bing: Come on guys, PUSH!
+[s10_e08_c08_u136] Joey Tribbiani: Yeah! Come on!
+[s10_e08_c08_u137] Chandler Bing, Joey Tribbiani, Ross Geller: PUSH! PUSH! PUSH!"
+s10_e08,s10_e08_c08,Chandler Bing,7,132,143,131,144,3,s10_e08_c08_u133,s10_e08_c08_u150,"[s10_e08_c08_u133] Phoebe Buffay: Just a sec., we're kind in the middle of something here.
+[s10_e08_c08_u134] Joey Tribbiani: Ooh! Stop putting things down my pants!
+[s10_e08_c08_u135] Chandler Bing: Come on guys, PUSH!
+[s10_e08_c08_u136] Joey Tribbiani: Yeah! Come on!
+[s10_e08_c08_u137] Chandler Bing, Joey Tribbiani, Ross Geller: PUSH! PUSH! PUSH!
+[s10_e08_c08_u138] Chandler Bing: My cranberries!
+[s10_e08_c08_u139] Joey Tribbiani: Man, I've got food all over me.
+[s10_e08_c08_u140] Chandler Bing: Argh! I can't believe what you did. Monica's gonna kill you!
+[s10_e08_c08_u141] Chandler Bing: Look! Look! Look what the... Look what... Look what the floating heads did!
+[s10_e08_c08_u142] Monica Geller: I don't care.
+[s10_e08_c08_u143] Chandler Bing: What's going on?
+[s10_e08_c08_u144] Monica Geller: That was the adoption agency...
+[s10_e08_c08_u145] Chandler Bing: And?
+[s10_e08_c08_u146] Monica Geller: WE'RE GETTING A BABY!
+[s10_e08_c08_u147] Chandler Bing: Are you serious?
+[s10_e08_c08_u148] Monica Geller: There's a pregnant woman in Ohio, and she picked us!
+[s10_e08_c08_u149] Rachel Green: I'm so happy for you!
+[s10_e08_c08_u150] Monica Geller: This Thanksgiving kicks last Thanksgiving's ass!"
+s10_e08,s10_e08_c08,Joey Tribbiani,0,13,13,12,14,2,s10_e08_c08_u013,s10_e08_c08_u019,"[s10_e08_c08_u013] Ross Geller: We know you're out there.
+[s10_e08_c08_u014] Joey Tribbiani: Who do you think its from?
+[s10_e08_c08_u015] Rachel Green: Oh, God. This is bad. This is so bad.
+[s10_e08_c08_u016] Ross Geller: Well, let's just go in there and face them.
+[s10_e08_c08_u017] Phoebe Buffay: Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy.
+[s10_e08_c08_u018] Joey Tribbiani: I hate that thing, it's like a... bolt of lightning.
+[s10_e08_c08_u019] Rachel Green: Oh, hey, I have an idea. Why don't we play rock-paper-scissors, and whoever loses goes in first. Ready? ."
+s10_e08,s10_e08_c08,Joey Tribbiani,1,15,21,14,22,3,s10_e08_c08_u015,s10_e08_c08_u028,"[s10_e08_c08_u015] Rachel Green: Oh, God. This is bad. This is so bad.
+[s10_e08_c08_u016] Ross Geller: Well, let's just go in there and face them.
+[s10_e08_c08_u017] Phoebe Buffay: Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy.
+[s10_e08_c08_u018] Joey Tribbiani: I hate that thing, it's like a... bolt of lightning.
+[s10_e08_c08_u019] Rachel Green: Oh, hey, I have an idea. Why don't we play rock-paper-scissors, and whoever loses goes in first. Ready? .
+[s10_e08_c08_u020] Joey Tribbiani: Ah-haah! I win!!
+[s10_e08_c08_u021] Ross Geller: What is that?
+[s10_e08_c08_u022] Joey Tribbiani: That's fire. Beats everything.
+[s10_e08_c08_u023] Phoebe Buffay: Oh, really? Does it beat water balloon? .
+[s10_e08_c08_u024] Joey Tribbiani: Ooh! Well played, Phoebe Buffay, well played.
+[s10_e08_c08_u025] Rachel Green: Alright, enough, enough, come on. Let's just all go in at the same time.
+[s10_e08_c08_u026] #ALL#: Alright, okay.
+[s10_e08_c08_u027] Phoebe Buffay: It's locked.
+[s10_e08_c08_u028] Ross Geller: Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: ""Come on in, my butt is surprisingly hairy""."
+s10_e08,s10_e08_c08,Joey Tribbiani,2,35,36,34,37,2,s10_e08_c08_u036,s10_e08_c08_u043,"[s10_e08_c08_u036] Ross Geller: FOR THE LOVE OF GOD TAKE IT OFF!!
+[s10_e08_c08_u037] Rachel Green: You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey.
+[s10_e08_c08_u038] Joey Tribbiani: I had a dream once about a fax machine that did that.
+[s10_e08_c08_u039] Monica Geller: That's all the turkey you're gonna get.
+[s10_e08_c08_u040] Ross Geller: How are we gonna decide who gets this?
+[s10_e08_c08_u041] Joey Tribbiani: WATER BALLOON!
+[s10_e08_c08_u042] Phoebe Buffay: What are we gonna do? I'm starving.
+[s10_e08_c08_u043] Rachel Green: Oh, I just remembered. We do have something to eat. Monica put something in our oven this morning."
+s10_e08,s10_e08_c08,Joey Tribbiani,3,51,55,50,56,2,s10_e08_c08_u052,s10_e08_c08_u062,"[s10_e08_c08_u052] Rachel Green: Oh, I know... I still have my old key! We can just unlock the door.
+[s10_e08_c08_u053] Phoebe Buffay: Well, I don't know if that's such a good idea. They clearly don't want to be with us.
+[s10_e08_c08_u054] Rachel Green: You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together.
+[s10_e08_c08_u055] Joey Tribbiani: Just get in there and make a face to face apology, you know? Look them in the eye. I know I can get them to forgive us.
+[s10_e08_c08_u056] Ross Geller: I don't know...
+[s10_e08_c08_u057] Joey Tribbiani: I'm telling ya... I can do it.
+[s10_e08_c08_u058] Ross Geller: Yeah, he can do it!
+[s10_e08_c08_u059] Rachel Green: Oh!
+[s10_e08_c08_u060] Joey Tribbiani: Oh! It all looks so beautiful: the turkey, the stuffing...
+[s10_e08_c08_u061] Chandler Bing: The cranberries...?
+[s10_e08_c08_u062] Monica Geller: Oh! Enough! A monkey could have made 'em!"
+s10_e08,s10_e08_c08,Joey Tribbiani,4,57,63,56,64,2,s10_e08_c08_u058,s10_e08_c08_u070,"[s10_e08_c08_u058] Ross Geller: Yeah, he can do it!
+[s10_e08_c08_u059] Rachel Green: Oh!
+[s10_e08_c08_u060] Joey Tribbiani: Oh! It all looks so beautiful: the turkey, the stuffing...
+[s10_e08_c08_u061] Chandler Bing: The cranberries...?
+[s10_e08_c08_u062] Monica Geller: Oh! Enough! A monkey could have made 'em!
+[s10_e08_c08_u063] Joey Tribbiani: Hey listen guys, we feel really terrible.
+[s10_e08_c08_u064] Chandler Bing: He's doing that weird eye contact thing. Don't look at him, don't look at him!
+[s10_e08_c08_u065] Joey Tribbiani: Come on you guys, we want you to know we're very very sorry. Right guys?
+[s10_e08_c08_u066] Ross Geller: I feel terrible.
+[s10_e08_c08_u067] Phoebe Buffay, Rachel Green: So, so sorry.
+[s10_e08_c08_u068] Joey Tribbiani: Now let's not ruin this day. You worked so hard. Let's move past this and try to have a nice meal all together, huh?
+[s10_e08_c08_u069] Chandler Bing: The floating heads do make a good point.
+[s10_e08_c08_u070] Monica Geller: Yeah, they do seem to feel pretty bad."
+s10_e08,s10_e08_c08,Joey Tribbiani,5,79,85,78,86,3,s10_e08_c08_u080,s10_e08_c08_u092,"[s10_e08_c08_u080] Monica Geller: Oh my God! YOU FORGOT THE PIES? Well, I cannot believe this. You force me to make dinner, then you're an hour late and you forget the one little thing that I asked you to do.
+[s10_e08_c08_u081] Ross Geller: Really girls, not cool.
+[s10_e08_c08_u082] Chandler Bing: Well, you manheads aren't any better. You lied about going to the game. You knew it would make you late, and you still went anyway.
+[s10_e08_c08_u083] Joey Tribbiani: Hey! I'm getting a little tired of this okay? We said we're sorry. It's Thanksgiving for Pete's sakes! A day of forgiveness!
+[s10_e08_c08_u084] Ross Geller: It's a day to be thankful.
+[s10_e08_c08_u085] Joey Tribbiani: Don't make me come up there!
+[s10_e08_c08_u086] Monica Geller: It's too late for apologies.
+[s10_e08_c08_u087] Joey Tribbiani: Fine! Let's just go. I don't need your stupid dinner.
+[s10_e08_c08_u088] Chandler Bing: That would be a lot more convincing if you weren't drooling.
+[s10_e08_c08_u089] Rachel Green: Ewww, is that what that is?
+[s10_e08_c08_u090] Joey Tribbiani: Sorry!
+[s10_e08_c08_u091] Phoebe Buffay: Come on you guys, let's just do our own Thanksgiving.
+[s10_e08_c08_u092] Rachel Green: Yeah! I'll cook!"
+s10_e08,s10_e08_c08,Joey Tribbiani,6,91,102,90,103,4,s10_e08_c08_u092,s10_e08_c08_u109,"[s10_e08_c08_u092] Rachel Green: Yeah! I'll cook!
+[s10_e08_c08_u093] Ross Geller: Yeah! Let's go out.
+[s10_e08_c08_u094] Rachel Green: Hey!
+[s10_e08_c08_u095] Joey Tribbiani: Yeah! You three have a nice Thanksgiving.
+[s10_e08_c08_u096] Monica Geller: The three of us?
+[s10_e08_c08_u097] Joey Tribbiani: Yeah! You, Chan, and the vein!
+[s10_e08_c08_u098] Joey Tribbiani: Ha!
+[s10_e08_c08_u099] Joey Tribbiani: Oh-oh! I'm stuck!
+[s10_e08_c08_u100] Monica Geller: Joey, that is not gonna work.
+[s10_e08_c08_u101] Joey Tribbiani: No seriously... I'm really wedged in here.
+[s10_e08_c08_u102] Phoebe Buffay: I'll pull you through.
+[s10_e08_c08_u103] Ross Geller: Okay.
+[s10_e08_c08_u104] Joey Tribbiani: aaw-ahhh-aaahhh STOP! STOP! I'm worried about damaging my head.
+[s10_e08_c08_u105] Chandler Bing: A little late for that.
+[s10_e08_c08_u106] Joey Tribbiani: Alright, hurry up, you gotta do something.
+[s10_e08_c08_u107] Monica Geller: Alright, well, this does not change anything. Okay, we need to get something to grease the sides of his face.
+[s10_e08_c08_u108] Chandler Bing: Uhm, we've got turkey grease.
+[s10_e08_c08_u109] Monica Geller: Bring it."
+s10_e08,s10_e08_c08,Joey Tribbiani,7,104,104,103,105,2,s10_e08_c08_u105,s10_e08_c08_u111,"[s10_e08_c08_u105] Chandler Bing: A little late for that.
+[s10_e08_c08_u106] Joey Tribbiani: Alright, hurry up, you gotta do something.
+[s10_e08_c08_u107] Monica Geller: Alright, well, this does not change anything. Okay, we need to get something to grease the sides of his face.
+[s10_e08_c08_u108] Chandler Bing: Uhm, we've got turkey grease.
+[s10_e08_c08_u109] Monica Geller: Bring it.
+[s10_e08_c08_u110] Joey Tribbiani: I just wanna say that I'm sorry I referred to the vein as a seperate person...
+[s10_e08_c08_u111] Monica Geller: Here you go!"
+s10_e08,s10_e08_c08,Joey Tribbiani,8,106,115,105,116,3,s10_e08_c08_u107,s10_e08_c08_u122,"[s10_e08_c08_u107] Monica Geller: Alright, well, this does not change anything. Okay, we need to get something to grease the sides of his face.
+[s10_e08_c08_u108] Chandler Bing: Uhm, we've got turkey grease.
+[s10_e08_c08_u109] Monica Geller: Bring it.
+[s10_e08_c08_u110] Joey Tribbiani: I just wanna say that I'm sorry I referred to the vein as a seperate person...
+[s10_e08_c08_u111] Monica Geller: Here you go!
+[s10_e08_c08_u112] Joey Tribbiani: Oh, that smells good!
+[s10_e08_c08_u113] Joey Tribbiani: Okay.
+[s10_e08_c08_u114] Monica Geller: Okay, try it.
+[s10_e08_c08_u115] Joey Tribbiani: It isn't working.
+[s10_e08_c08_u116] Monica Geller: Alright, we're gonna have to unscrew the chain.
+[s10_e08_c08_u117] Joey Tribbiani: Well hurry, I can't feel my ears!
+[s10_e08_c08_u118] Chandler Bing: Can you ever feel your ears?
+[s10_e08_c08_u119] Joey Tribbiani: Interesting...
+[s10_e08_c08_u120] Monica Geller: Chandler, where are your tools?
+[s10_e08_c08_u121] Chandler Bing: Oh, I left them on my bulldozer... I don't have tools!
+[s10_e08_c08_u122] Monica Geller: I do, but Rachel borrowed them."
+s10_e08,s10_e08_c08,Joey Tribbiani,9,128,134,127,135,2,s10_e08_c08_u129,s10_e08_c08_u141,"[s10_e08_c08_u129] Ross Geller: Nice!
+[s10_e08_c08_u130] Monica Geller: Okay, I have to get that. Now when I get back, I want you and your friends to be gone. Thanksgiving is over. The Vein has spoken.
+[s10_e08_c08_u131] Joey Tribbiani: It's really starting to hurt.
+[s10_e08_c08_u132] Chandler Bing: Okay, look, I'm gonna pull on the door and you guys push as hard as you can. Maybe we can get enough room to wiggle him out, okay? Okay, so PUSH!
+[s10_e08_c08_u133] Phoebe Buffay: Just a sec., we're kind in the middle of something here.
+[s10_e08_c08_u134] Joey Tribbiani: Ooh! Stop putting things down my pants!
+[s10_e08_c08_u135] Chandler Bing: Come on guys, PUSH!
+[s10_e08_c08_u136] Joey Tribbiani: Yeah! Come on!
+[s10_e08_c08_u137] Chandler Bing, Joey Tribbiani, Ross Geller: PUSH! PUSH! PUSH!
+[s10_e08_c08_u138] Chandler Bing: My cranberries!
+[s10_e08_c08_u139] Joey Tribbiani: Man, I've got food all over me.
+[s10_e08_c08_u140] Chandler Bing: Argh! I can't believe what you did. Monica's gonna kill you!
+[s10_e08_c08_u141] Chandler Bing: Look! Look! Look what the... Look what... Look what the floating heads did!"
+s10_e08,s10_e08_c08,Monica Geller,0,0,4,0,5,3,s10_e08_c08_u001,s10_e08_c08_u010,"[s10_e08_c08_u001] Monica Geller: Do you hear something?
+[s10_e08_c08_u002] Chandler Bing: They're out there!
+[s10_e08_c08_u003] Monica Geller: Ohhh! Let me see! Oh God, I can't believe this! They're an hour late and they're just staying out there, talking!
+[s10_e08_c08_u004] Chandler Bing: Everything is so distorted! Looks like Joey has a giant hand! Which says ""Rangers"" on it. They went to the game!
+[s10_e08_c08_u005] Monica Geller: Oooh! They are in for a world of pain!
+[s10_e08_c08_u006] Chandler Bing: Ross' shirt is torn.
+[s10_e08_c08_u007] Monica Geller: Oh! They're late and they're sloppy!
+[s10_e08_c08_u008] Rachel Green: Alright, Emma is napping... what happened to your shirt?
+[s10_e08_c08_u009] Ross Geller: I got mugged. And they stole my pocket.
+[s10_e08_c08_u010] Phoebe Buffay: We're just... we're trying to figure out an excuse. Hey! Ooh! How about this: We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! OR... or, we can plant PCP in the apartment and call the cops on her."
+s10_e08,s10_e08_c08,Monica Geller,1,26,28,25,29,2,s10_e08_c08_u027,s10_e08_c08_u035,"[s10_e08_c08_u027] Phoebe Buffay: It's locked.
+[s10_e08_c08_u028] Ross Geller: Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: ""Come on in, my butt is surprisingly hairy"".
+[s10_e08_c08_u029] Rachel Green: Alright, come on... Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together.
+[s10_e08_c08_u030] Monica Geller: No! Everything's cold. The turkey's dried out and the... the stuffing is all soggy.
+[s10_e08_c08_u031] Chandler Bing: Yeah, and there's a bowl of cranberry sauce that... what happens to cranberry sauce?
+[s10_e08_c08_u032] Monica Geller: Nothing. It's fine.
+[s10_e08_c08_u033] Chandler Bing: Oh thank God!
+[s10_e08_c08_u034] Ross Geller: Come on you guys, we're sorry, alri...? Our subway broke down.
+[s10_e08_c08_u035] Chandler Bing: That's a lie, you went to the game, I can see Joey's hand."
+s10_e08,s10_e08_c08,Monica Geller,2,68,68,67,69,2,s10_e08_c08_u069,s10_e08_c08_u075,"[s10_e08_c08_u069] Chandler Bing: The floating heads do make a good point.
+[s10_e08_c08_u070] Monica Geller: Yeah, they do seem to feel pretty bad.
+[s10_e08_c08_u071] Rachel Green: So bad.
+[s10_e08_c08_u072] Ross Geller: So bad.
+[s10_e08_c08_u073] Phoebe Buffay: So bad.
+[s10_e08_c08_u074] Monica Geller: Okay, okay. You two go get the dessert. And I'll let you in.
+[s10_e08_c08_u075] Rachel Green: Dessert?"
+s10_e08,s10_e08_c08,Monica Geller,3,70,76,69,77,3,s10_e08_c08_u071,s10_e08_c08_u083,"[s10_e08_c08_u071] Rachel Green: So bad.
+[s10_e08_c08_u072] Ross Geller: So bad.
+[s10_e08_c08_u073] Phoebe Buffay: So bad.
+[s10_e08_c08_u074] Monica Geller: Okay, okay. You two go get the dessert. And I'll let you in.
+[s10_e08_c08_u075] Rachel Green: Dessert?
+[s10_e08_c08_u076] Monica Geller: Yeah, I asked you and Phoebe to pick up the pies. You did remember, right?
+[s10_e08_c08_u077] Phoebe Buffay: Pies, oh, we thought you said priiiize . Here! .
+[s10_e08_c08_u078] Monica Geller: Grand Supreme Little Darling?
+[s10_e08_c08_u079] Rachel Green: Congratulatioooons!
+[s10_e08_c08_u080] Monica Geller: Oh my God! YOU FORGOT THE PIES? Well, I cannot believe this. You force me to make dinner, then you're an hour late and you forget the one little thing that I asked you to do.
+[s10_e08_c08_u081] Ross Geller: Really girls, not cool.
+[s10_e08_c08_u082] Chandler Bing: Well, you manheads aren't any better. You lied about going to the game. You knew it would make you late, and you still went anyway.
+[s10_e08_c08_u083] Joey Tribbiani: Hey! I'm getting a little tired of this okay? We said we're sorry. It's Thanksgiving for Pete's sakes! A day of forgiveness!"
+s10_e08,s10_e08_c08,Monica Geller,4,94,94,93,95,2,s10_e08_c08_u095,s10_e08_c08_u101,"[s10_e08_c08_u095] Joey Tribbiani: Yeah! You three have a nice Thanksgiving.
+[s10_e08_c08_u096] Monica Geller: The three of us?
+[s10_e08_c08_u097] Joey Tribbiani: Yeah! You, Chan, and the vein!
+[s10_e08_c08_u098] Joey Tribbiani: Ha!
+[s10_e08_c08_u099] Joey Tribbiani: Oh-oh! I'm stuck!
+[s10_e08_c08_u100] Monica Geller: Joey, that is not gonna work.
+[s10_e08_c08_u101] Joey Tribbiani: No seriously... I'm really wedged in here."
+s10_e08,s10_e08_c08,Monica Geller,5,103,112,102,113,3,s10_e08_c08_u104,s10_e08_c08_u119,"[s10_e08_c08_u104] Joey Tribbiani: aaw-ahhh-aaahhh STOP! STOP! I'm worried about damaging my head.
+[s10_e08_c08_u105] Chandler Bing: A little late for that.
+[s10_e08_c08_u106] Joey Tribbiani: Alright, hurry up, you gotta do something.
+[s10_e08_c08_u107] Monica Geller: Alright, well, this does not change anything. Okay, we need to get something to grease the sides of his face.
+[s10_e08_c08_u108] Chandler Bing: Uhm, we've got turkey grease.
+[s10_e08_c08_u109] Monica Geller: Bring it.
+[s10_e08_c08_u110] Joey Tribbiani: I just wanna say that I'm sorry I referred to the vein as a seperate person...
+[s10_e08_c08_u111] Monica Geller: Here you go!
+[s10_e08_c08_u112] Joey Tribbiani: Oh, that smells good!
+[s10_e08_c08_u113] Joey Tribbiani: Okay.
+[s10_e08_c08_u114] Monica Geller: Okay, try it.
+[s10_e08_c08_u115] Joey Tribbiani: It isn't working.
+[s10_e08_c08_u116] Monica Geller: Alright, we're gonna have to unscrew the chain.
+[s10_e08_c08_u117] Joey Tribbiani: Well hurry, I can't feel my ears!
+[s10_e08_c08_u118] Chandler Bing: Can you ever feel your ears?
+[s10_e08_c08_u119] Joey Tribbiani: Interesting..."
+s10_e08,s10_e08_c08,Monica Geller,6,114,114,113,115,2,s10_e08_c08_u115,s10_e08_c08_u121,"[s10_e08_c08_u115] Joey Tribbiani: It isn't working.
+[s10_e08_c08_u116] Monica Geller: Alright, we're gonna have to unscrew the chain.
+[s10_e08_c08_u117] Joey Tribbiani: Well hurry, I can't feel my ears!
+[s10_e08_c08_u118] Chandler Bing: Can you ever feel your ears?
+[s10_e08_c08_u119] Joey Tribbiani: Interesting...
+[s10_e08_c08_u120] Monica Geller: Chandler, where are your tools?
+[s10_e08_c08_u121] Chandler Bing: Oh, I left them on my bulldozer... I don't have tools!"
+s10_e08,s10_e08_c08,Monica Geller,7,116,118,115,119,2,s10_e08_c08_u117,s10_e08_c08_u125,"[s10_e08_c08_u117] Joey Tribbiani: Well hurry, I can't feel my ears!
+[s10_e08_c08_u118] Chandler Bing: Can you ever feel your ears?
+[s10_e08_c08_u119] Joey Tribbiani: Interesting...
+[s10_e08_c08_u120] Monica Geller: Chandler, where are your tools?
+[s10_e08_c08_u121] Chandler Bing: Oh, I left them on my bulldozer... I don't have tools!
+[s10_e08_c08_u122] Monica Geller: I do, but Rachel borrowed them.
+[s10_e08_c08_u123] Rachel Green: I lent them to Ross.
+[s10_e08_c08_u124] Ross Geller: I gave them to Joey.
+[s10_e08_c08_u125] Joey Tribbiani: I left them at the park."
+s10_e08,s10_e08_c08,Monica Geller,8,120,120,119,121,2,s10_e08_c08_u121,s10_e08_c08_u127,"[s10_e08_c08_u121] Chandler Bing: Oh, I left them on my bulldozer... I don't have tools!
+[s10_e08_c08_u122] Monica Geller: I do, but Rachel borrowed them.
+[s10_e08_c08_u123] Rachel Green: I lent them to Ross.
+[s10_e08_c08_u124] Ross Geller: I gave them to Joey.
+[s10_e08_c08_u125] Joey Tribbiani: I left them at the park.
+[s10_e08_c08_u126] Monica Geller: Oh!
+[s10_e08_c08_u127] Ross Geller: I'm finding it really hard not to mess with him."
+s10_e08,s10_e08_c08,Monica Geller,9,124,124,123,125,2,s10_e08_c08_u125,s10_e08_c08_u131,"[s10_e08_c08_u125] Joey Tribbiani: I left them at the park.
+[s10_e08_c08_u126] Monica Geller: Oh!
+[s10_e08_c08_u127] Ross Geller: I'm finding it really hard not to mess with him.
+[s10_e08_c08_u128] Phoebe Buffay: I've already stuffed a bunch of Brussel sprouts down his pants.
+[s10_e08_c08_u129] Ross Geller: Nice!
+[s10_e08_c08_u130] Monica Geller: Okay, I have to get that. Now when I get back, I want you and your friends to be gone. Thanksgiving is over. The Vein has spoken.
+[s10_e08_c08_u131] Joey Tribbiani: It's really starting to hurt."
+s10_e08,s10_e08_c08,Monica Geller,10,138,144,137,144,3,s10_e08_c08_u139,s10_e08_c08_u150,"[s10_e08_c08_u139] Joey Tribbiani: Man, I've got food all over me.
+[s10_e08_c08_u140] Chandler Bing: Argh! I can't believe what you did. Monica's gonna kill you!
+[s10_e08_c08_u141] Chandler Bing: Look! Look! Look what the... Look what... Look what the floating heads did!
+[s10_e08_c08_u142] Monica Geller: I don't care.
+[s10_e08_c08_u143] Chandler Bing: What's going on?
+[s10_e08_c08_u144] Monica Geller: That was the adoption agency...
+[s10_e08_c08_u145] Chandler Bing: And?
+[s10_e08_c08_u146] Monica Geller: WE'RE GETTING A BABY!
+[s10_e08_c08_u147] Chandler Bing: Are you serious?
+[s10_e08_c08_u148] Monica Geller: There's a pregnant woman in Ohio, and she picked us!
+[s10_e08_c08_u149] Rachel Green: I'm so happy for you!
+[s10_e08_c08_u150] Monica Geller: This Thanksgiving kicks last Thanksgiving's ass!"
+s10_e08,s10_e08_c08,Phoebe Buffay,0,21,22,20,23,2,s10_e08_c08_u021,s10_e08_c08_u029,"[s10_e08_c08_u021] Ross Geller: What is that?
+[s10_e08_c08_u022] Joey Tribbiani: That's fire. Beats everything.
+[s10_e08_c08_u023] Phoebe Buffay: Oh, really? Does it beat water balloon? .
+[s10_e08_c08_u024] Joey Tribbiani: Ooh! Well played, Phoebe Buffay, well played.
+[s10_e08_c08_u025] Rachel Green: Alright, enough, enough, come on. Let's just all go in at the same time.
+[s10_e08_c08_u026] #ALL#: Alright, okay.
+[s10_e08_c08_u027] Phoebe Buffay: It's locked.
+[s10_e08_c08_u028] Ross Geller: Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: ""Come on in, my butt is surprisingly hairy"".
+[s10_e08_c08_u029] Rachel Green: Alright, come on... Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together."
+s10_e08,s10_e08_c08,Phoebe Buffay,1,38,40,37,41,2,s10_e08_c08_u039,s10_e08_c08_u047,"[s10_e08_c08_u039] Monica Geller: That's all the turkey you're gonna get.
+[s10_e08_c08_u040] Ross Geller: How are we gonna decide who gets this?
+[s10_e08_c08_u041] Joey Tribbiani: WATER BALLOON!
+[s10_e08_c08_u042] Phoebe Buffay: What are we gonna do? I'm starving.
+[s10_e08_c08_u043] Rachel Green: Oh, I just remembered. We do have something to eat. Monica put something in our oven this morning.
+[s10_e08_c08_u044] Phoebe Buffay: Oh yeah!
+[s10_e08_c08_u045] Monica Geller: Hey, you touch that and you will be sorry.
+[s10_e08_c08_u046] Chandler Bing: Guys, I'd listen to her. The vein is bigger than I've ever seen it.
+[s10_e08_c08_u047] Rachel Green: Huh... OH MY GOD IT'S BRUSSELS SPROUTS."
+s10_e08,s10_e08_c08,Phoebe Buffay,2,71,71,70,72,2,s10_e08_c08_u072,s10_e08_c08_u078,"[s10_e08_c08_u072] Ross Geller: So bad.
+[s10_e08_c08_u073] Phoebe Buffay: So bad.
+[s10_e08_c08_u074] Monica Geller: Okay, okay. You two go get the dessert. And I'll let you in.
+[s10_e08_c08_u075] Rachel Green: Dessert?
+[s10_e08_c08_u076] Monica Geller: Yeah, I asked you and Phoebe to pick up the pies. You did remember, right?
+[s10_e08_c08_u077] Phoebe Buffay: Pies, oh, we thought you said priiiize . Here! .
+[s10_e08_c08_u078] Monica Geller: Grand Supreme Little Darling?"
+s10_e08,s10_e08_c08,Rachel Green,0,7,7,6,8,2,s10_e08_c08_u007,s10_e08_c08_u013,"[s10_e08_c08_u007] Monica Geller: Oh! They're late and they're sloppy!
+[s10_e08_c08_u008] Rachel Green: Alright, Emma is napping... what happened to your shirt?
+[s10_e08_c08_u009] Ross Geller: I got mugged. And they stole my pocket.
+[s10_e08_c08_u010] Phoebe Buffay: We're just... we're trying to figure out an excuse. Hey! Ooh! How about this: We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! OR... or, we can plant PCP in the apartment and call the cops on her.
+[s10_e08_c08_u011] Ross Geller: That would be a good way to get rid of all the PCP we have lying around.
+[s10_e08_c08_u012] Rachel Green: You know what, we just say that she said it was 5 o'clock. We'll just act casual. We're not late, we're right on time.
+[s10_e08_c08_u013] Ross Geller: We know you're out there."
+s10_e08,s10_e08_c08,Rachel Green,1,10,11,9,12,2,s10_e08_c08_u010,s10_e08_c08_u017,"[s10_e08_c08_u010] Phoebe Buffay: We're just... we're trying to figure out an excuse. Hey! Ooh! How about this: We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! OR... or, we can plant PCP in the apartment and call the cops on her.
+[s10_e08_c08_u011] Ross Geller: That would be a good way to get rid of all the PCP we have lying around.
+[s10_e08_c08_u012] Rachel Green: You know what, we just say that she said it was 5 o'clock. We'll just act casual. We're not late, we're right on time.
+[s10_e08_c08_u013] Ross Geller: We know you're out there.
+[s10_e08_c08_u014] Joey Tribbiani: Who do you think its from?
+[s10_e08_c08_u015] Rachel Green: Oh, God. This is bad. This is so bad.
+[s10_e08_c08_u016] Ross Geller: Well, let's just go in there and face them.
+[s10_e08_c08_u017] Phoebe Buffay: Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy."
+s10_e08,s10_e08_c08,Rachel Green,2,14,14,13,15,2,s10_e08_c08_u014,s10_e08_c08_u020,"[s10_e08_c08_u014] Joey Tribbiani: Who do you think its from?
+[s10_e08_c08_u015] Rachel Green: Oh, God. This is bad. This is so bad.
+[s10_e08_c08_u016] Ross Geller: Well, let's just go in there and face them.
+[s10_e08_c08_u017] Phoebe Buffay: Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy.
+[s10_e08_c08_u018] Joey Tribbiani: I hate that thing, it's like a... bolt of lightning.
+[s10_e08_c08_u019] Rachel Green: Oh, hey, I have an idea. Why don't we play rock-paper-scissors, and whoever loses goes in first. Ready? .
+[s10_e08_c08_u020] Joey Tribbiani: Ah-haah! I win!!"
+s10_e08,s10_e08_c08,Rachel Green,3,23,24,22,25,2,s10_e08_c08_u023,s10_e08_c08_u031,"[s10_e08_c08_u023] Phoebe Buffay: Oh, really? Does it beat water balloon? .
+[s10_e08_c08_u024] Joey Tribbiani: Ooh! Well played, Phoebe Buffay, well played.
+[s10_e08_c08_u025] Rachel Green: Alright, enough, enough, come on. Let's just all go in at the same time.
+[s10_e08_c08_u026] #ALL#: Alright, okay.
+[s10_e08_c08_u027] Phoebe Buffay: It's locked.
+[s10_e08_c08_u028] Ross Geller: Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: ""Come on in, my butt is surprisingly hairy"".
+[s10_e08_c08_u029] Rachel Green: Alright, come on... Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together.
+[s10_e08_c08_u030] Monica Geller: No! Everything's cold. The turkey's dried out and the... the stuffing is all soggy.
+[s10_e08_c08_u031] Chandler Bing: Yeah, and there's a bowl of cranberry sauce that... what happens to cranberry sauce?"
+s10_e08,s10_e08_c08,Rachel Green,4,41,41,40,42,2,s10_e08_c08_u042,s10_e08_c08_u048,"[s10_e08_c08_u042] Phoebe Buffay: What are we gonna do? I'm starving.
+[s10_e08_c08_u043] Rachel Green: Oh, I just remembered. We do have something to eat. Monica put something in our oven this morning.
+[s10_e08_c08_u044] Phoebe Buffay: Oh yeah!
+[s10_e08_c08_u045] Monica Geller: Hey, you touch that and you will be sorry.
+[s10_e08_c08_u046] Chandler Bing: Guys, I'd listen to her. The vein is bigger than I've ever seen it.
+[s10_e08_c08_u047] Rachel Green: Huh... OH MY GOD IT'S BRUSSELS SPROUTS.
+[s10_e08_c08_u048] Ross Geller: That's worse than no food."
+s10_e08,s10_e08_c08,Rachel Green,5,48,50,47,51,2,s10_e08_c08_u049,s10_e08_c08_u057,"[s10_e08_c08_u049] Chandler Bing: HA-HA! All you got was Monica's stinky Brussels sprouts!
+[s10_e08_c08_u050] Monica Geller: Stinky?!
+[s10_e08_c08_u051] Chandler Bing: Please let me stay on this side of the door.
+[s10_e08_c08_u052] Rachel Green: Oh, I know... I still have my old key! We can just unlock the door.
+[s10_e08_c08_u053] Phoebe Buffay: Well, I don't know if that's such a good idea. They clearly don't want to be with us.
+[s10_e08_c08_u054] Rachel Green: You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together.
+[s10_e08_c08_u055] Joey Tribbiani: Just get in there and make a face to face apology, you know? Look them in the eye. I know I can get them to forgive us.
+[s10_e08_c08_u056] Ross Geller: I don't know...
+[s10_e08_c08_u057] Joey Tribbiani: I'm telling ya... I can do it."
+s10_e08,s10_e08_c08,Rachel Green,6,69,69,68,70,2,s10_e08_c08_u070,s10_e08_c08_u076,"[s10_e08_c08_u070] Monica Geller: Yeah, they do seem to feel pretty bad.
+[s10_e08_c08_u071] Rachel Green: So bad.
+[s10_e08_c08_u072] Ross Geller: So bad.
+[s10_e08_c08_u073] Phoebe Buffay: So bad.
+[s10_e08_c08_u074] Monica Geller: Okay, okay. You two go get the dessert. And I'll let you in.
+[s10_e08_c08_u075] Rachel Green: Dessert?
+[s10_e08_c08_u076] Monica Geller: Yeah, I asked you and Phoebe to pick up the pies. You did remember, right?"
+s10_e08,s10_e08_c08,Rachel Green,7,73,73,72,74,2,s10_e08_c08_u074,s10_e08_c08_u080,"[s10_e08_c08_u074] Monica Geller: Okay, okay. You two go get the dessert. And I'll let you in.
+[s10_e08_c08_u075] Rachel Green: Dessert?
+[s10_e08_c08_u076] Monica Geller: Yeah, I asked you and Phoebe to pick up the pies. You did remember, right?
+[s10_e08_c08_u077] Phoebe Buffay: Pies, oh, we thought you said priiiize . Here! .
+[s10_e08_c08_u078] Monica Geller: Grand Supreme Little Darling?
+[s10_e08_c08_u079] Rachel Green: Congratulatioooons!
+[s10_e08_c08_u080] Monica Geller: Oh my God! YOU FORGOT THE PIES? Well, I cannot believe this. You force me to make dinner, then you're an hour late and you forget the one little thing that I asked you to do."
+s10_e08,s10_e08_c08,Rachel Green,8,86,90,85,91,2,s10_e08_c08_u087,s10_e08_c08_u097,"[s10_e08_c08_u087] Joey Tribbiani: Fine! Let's just go. I don't need your stupid dinner.
+[s10_e08_c08_u088] Chandler Bing: That would be a lot more convincing if you weren't drooling.
+[s10_e08_c08_u089] Rachel Green: Ewww, is that what that is?
+[s10_e08_c08_u090] Joey Tribbiani: Sorry!
+[s10_e08_c08_u091] Phoebe Buffay: Come on you guys, let's just do our own Thanksgiving.
+[s10_e08_c08_u092] Rachel Green: Yeah! I'll cook!
+[s10_e08_c08_u093] Ross Geller: Yeah! Let's go out.
+[s10_e08_c08_u094] Rachel Green: Hey!
+[s10_e08_c08_u095] Joey Tribbiani: Yeah! You three have a nice Thanksgiving.
+[s10_e08_c08_u096] Monica Geller: The three of us?
+[s10_e08_c08_u097] Joey Tribbiani: Yeah! You, Chan, and the vein!"
+s10_e08,s10_e08_c08,Ross Geller,0,6,12,5,13,3,s10_e08_c08_u006,s10_e08_c08_u018,"[s10_e08_c08_u006] Chandler Bing: Ross' shirt is torn.
+[s10_e08_c08_u007] Monica Geller: Oh! They're late and they're sloppy!
+[s10_e08_c08_u008] Rachel Green: Alright, Emma is napping... what happened to your shirt?
+[s10_e08_c08_u009] Ross Geller: I got mugged. And they stole my pocket.
+[s10_e08_c08_u010] Phoebe Buffay: We're just... we're trying to figure out an excuse. Hey! Ooh! How about this: We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! OR... or, we can plant PCP in the apartment and call the cops on her.
+[s10_e08_c08_u011] Ross Geller: That would be a good way to get rid of all the PCP we have lying around.
+[s10_e08_c08_u012] Rachel Green: You know what, we just say that she said it was 5 o'clock. We'll just act casual. We're not late, we're right on time.
+[s10_e08_c08_u013] Ross Geller: We know you're out there.
+[s10_e08_c08_u014] Joey Tribbiani: Who do you think its from?
+[s10_e08_c08_u015] Rachel Green: Oh, God. This is bad. This is so bad.
+[s10_e08_c08_u016] Ross Geller: Well, let's just go in there and face them.
+[s10_e08_c08_u017] Phoebe Buffay: Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy.
+[s10_e08_c08_u018] Joey Tribbiani: I hate that thing, it's like a... bolt of lightning."
+s10_e08,s10_e08_c08,Ross Geller,1,30,32,29,33,2,s10_e08_c08_u031,s10_e08_c08_u039,"[s10_e08_c08_u031] Chandler Bing: Yeah, and there's a bowl of cranberry sauce that... what happens to cranberry sauce?
+[s10_e08_c08_u032] Monica Geller: Nothing. It's fine.
+[s10_e08_c08_u033] Chandler Bing: Oh thank God!
+[s10_e08_c08_u034] Ross Geller: Come on you guys, we're sorry, alri...? Our subway broke down.
+[s10_e08_c08_u035] Chandler Bing: That's a lie, you went to the game, I can see Joey's hand.
+[s10_e08_c08_u036] Ross Geller: FOR THE LOVE OF GOD TAKE IT OFF!!
+[s10_e08_c08_u037] Rachel Green: You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey.
+[s10_e08_c08_u038] Joey Tribbiani: I had a dream once about a fax machine that did that.
+[s10_e08_c08_u039] Monica Geller: That's all the turkey you're gonna get."
+s10_e08,s10_e08_c08,Ross Geller,2,34,34,33,35,2,s10_e08_c08_u035,s10_e08_c08_u041,"[s10_e08_c08_u035] Chandler Bing: That's a lie, you went to the game, I can see Joey's hand.
+[s10_e08_c08_u036] Ross Geller: FOR THE LOVE OF GOD TAKE IT OFF!!
+[s10_e08_c08_u037] Rachel Green: You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey.
+[s10_e08_c08_u038] Joey Tribbiani: I had a dream once about a fax machine that did that.
+[s10_e08_c08_u039] Monica Geller: That's all the turkey you're gonna get.
+[s10_e08_c08_u040] Ross Geller: How are we gonna decide who gets this?
+[s10_e08_c08_u041] Joey Tribbiani: WATER BALLOON!"
+s10_e08,s10_e08_c08,Ross Geller,3,52,54,51,55,2,s10_e08_c08_u053,s10_e08_c08_u061,"[s10_e08_c08_u053] Phoebe Buffay: Well, I don't know if that's such a good idea. They clearly don't want to be with us.
+[s10_e08_c08_u054] Rachel Green: You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together.
+[s10_e08_c08_u055] Joey Tribbiani: Just get in there and make a face to face apology, you know? Look them in the eye. I know I can get them to forgive us.
+[s10_e08_c08_u056] Ross Geller: I don't know...
+[s10_e08_c08_u057] Joey Tribbiani: I'm telling ya... I can do it.
+[s10_e08_c08_u058] Ross Geller: Yeah, he can do it!
+[s10_e08_c08_u059] Rachel Green: Oh!
+[s10_e08_c08_u060] Joey Tribbiani: Oh! It all looks so beautiful: the turkey, the stuffing...
+[s10_e08_c08_u061] Chandler Bing: The cranberries...?"
+s10_e08,s10_e08_c08,Ross Geller,4,78,79,77,80,2,s10_e08_c08_u079,s10_e08_c08_u086,"[s10_e08_c08_u079] Rachel Green: Congratulatioooons!
+[s10_e08_c08_u080] Monica Geller: Oh my God! YOU FORGOT THE PIES? Well, I cannot believe this. You force me to make dinner, then you're an hour late and you forget the one little thing that I asked you to do.
+[s10_e08_c08_u081] Ross Geller: Really girls, not cool.
+[s10_e08_c08_u082] Chandler Bing: Well, you manheads aren't any better. You lied about going to the game. You knew it would make you late, and you still went anyway.
+[s10_e08_c08_u083] Joey Tribbiani: Hey! I'm getting a little tired of this okay? We said we're sorry. It's Thanksgiving for Pete's sakes! A day of forgiveness!
+[s10_e08_c08_u084] Ross Geller: It's a day to be thankful.
+[s10_e08_c08_u085] Joey Tribbiani: Don't make me come up there!
+[s10_e08_c08_u086] Monica Geller: It's too late for apologies."
+s10_e08,s10_e08_c08,Ross Geller,5,121,125,120,126,2,s10_e08_c08_u122,s10_e08_c08_u132,"[s10_e08_c08_u122] Monica Geller: I do, but Rachel borrowed them.
+[s10_e08_c08_u123] Rachel Green: I lent them to Ross.
+[s10_e08_c08_u124] Ross Geller: I gave them to Joey.
+[s10_e08_c08_u125] Joey Tribbiani: I left them at the park.
+[s10_e08_c08_u126] Monica Geller: Oh!
+[s10_e08_c08_u127] Ross Geller: I'm finding it really hard not to mess with him.
+[s10_e08_c08_u128] Phoebe Buffay: I've already stuffed a bunch of Brussel sprouts down his pants.
+[s10_e08_c08_u129] Ross Geller: Nice!
+[s10_e08_c08_u130] Monica Geller: Okay, I have to get that. Now when I get back, I want you and your friends to be gone. Thanksgiving is over. The Vein has spoken.
+[s10_e08_c08_u131] Joey Tribbiani: It's really starting to hurt.
+[s10_e08_c08_u132] Chandler Bing: Okay, look, I'm gonna pull on the door and you guys push as hard as you can. Maybe we can get enough room to wiggle him out, okay? Okay, so PUSH!"
+s10_e08,s10_e08_c09,Joey Tribbiani,0,2,3,1,3,2,s10_e08_c09_u002,s10_e08_c09_u008,"[s10_e08_c09_u002] Ross Geller: I'm just so happy you guys are finally getting a kid.
+[s10_e08_c09_u003] Phoebe Buffay: I know. Have you considered pageanting?
+[s10_e08_c09_u004] Monica Geller: I can't believe they called, and we're actually getting a baby.
+[s10_e08_c09_u005] Joey Tribbiani: Oh, I know how you feel...
+[s10_e08_c09_u006] Rachel Green: Really?
+[s10_e08_c09_u007] Joey Tribbiani: Sure. I went through the exact same thing with Alicia Mae Emory... The waiting, the wandering... Then one day... I get that call from Toys ""R"" Us... She was in stock!
+[s10_e08_c09_u008] Chandler Bing: That is the exact same thing."

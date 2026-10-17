@@ -1,0 +1,111 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u001_e1",
+          "tuples": [
+            "('have', 'we/(Monica Geller+Wendy)', 'a deal', 's01_e15_c10_u001')",
+            "('promise', 'you/(Wendy)', None, 's01_e15_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u002_e1",
+          "tuples": [
+            "('be', 'that/(Wendy)', 'who', 's01_e15_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u003_e1",
+          "tuples": [
+            "('bail', 'Wendy', None, 's01_e15_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u003_e2",
+          "tuples": [
+            "('have', 'I/(Monica Geller)', 'no waitress', 's01_e15_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u004_e1",
+          "tuples": [
+            "('be', 'that/(Wendy bailed)', 'too bad', 's01_e15_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u008_e1",
+          "tuples": [
+            "('wish', 'I/(Rachel Green)', 'I could', 's01_e15_c10_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u008_e2",
+          "tuples": [
+            "('make', 'I/(Rachel Green)', 'plans to walk around', 's01_e15_c10_u008')",
+            "('walk', 'I/(Rachel Green)', 'around', 's01_e15_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e15_c10_u009_e1",
+          "tuples": [
+            "('know', 'you/(Rachel Green)', None, 's01_e15_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u009_e2",
+          "tuples": [
+            "('run', 'you/(Rachel Green)', 'out of your wedding', 's01_e15_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u009_e3",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'there', 's01_e15_c10_u009')",
+            "('be', 'I/(Monica Geller)', 'for you', 's01_e15_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u009_e4",
+          "tuples": [
+            "('put', 'I/(Monica Geller)', 'a roof', 's01_e15_c10_u009')",
+            "('put', 'I/(Monica Geller)', 'over your head', 's01_e15_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c10_u009_e5",
+          "tuples": [
+            "('mean', \"that/(Monica's help)\", 'nothing', 's01_e15_c10_u009')",
+            "('mean', \"that/(Monica's help)\", 'to you', 's01_e15_c10_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

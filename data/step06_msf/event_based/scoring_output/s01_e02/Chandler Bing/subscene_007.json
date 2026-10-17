@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In group, TargetSpeaker initiates conversation by asking about Speaker_02’s job and voluntarily shares a personal anecdote about having an imaginary friend, showing sociable self-disclosure."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages politely and shares a vulnerable, self-deprecating comment about parents preferring the imaginary friend, showing non-boastful, cooperative tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says their parents preferred the imaginary friend over them, indicating sensitivity and possible insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking what job Speaker_02 does and references having an imaginary friend, suggesting imagination and openness to unusual experiences."
+  }
+}

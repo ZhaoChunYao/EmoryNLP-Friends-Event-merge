@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Offers help proactively (u005) and engages others with directives and advice (“You can't go out there,” u013; “You should act surprised,” u023), showing talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Reveals Speaker_02’s secret plan to Speaker_03 (u021) after extracting a promise not to tell (u019), indicating a lack of trustworthiness and straightforwardness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Handles the situation carelessly—can’t clearly state the reason (u015–u017) and then spills the surprise (u021), which quickly leads to it being exposed to others (u025), showing poor self-control and sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no clear anxiety or distress; stays calm and supportive (“Good luck, man,” u007) despite warnings."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete signs of curiosity or inventive thinking; behavior centers on managing a social situation rather than exploring new ideas."
+  }
+}

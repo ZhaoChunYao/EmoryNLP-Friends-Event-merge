@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and practically; no clear signs of outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When asked if the others are \"that bad\" (u001), TargetSpeaker defends them as pros who take their time and get the job done (u002), showing trust and generosity toward others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He praises others for being thorough and effective (u002) but provides no evidence about his own organization or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or insecurity; the blunt \"Must pee\" (u004) is a neutral physical need, not emotional distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, or openness to new ideas; comments are practical and evaluative."
+  }
+}

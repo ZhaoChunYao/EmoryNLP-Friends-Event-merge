@@ -1,0 +1,198 @@
+('use', 'I/Chandler Bing', 'your phone', 's01_e20_c06_u001')
+[s01_e20_c06_u001] Chandler Bing: Can I use your phone?
+
+('use', 'that thing in your hand', 'as a phone', 's01_e20_c06_u002')
+[s01_e20_c06_u002] Monica Geller: Yeah.. uh, but for future reference, that thing in your hand can also be used as a phone.
+
+('work', 'it/(phone)', None, 's01_e20_c06_u004')
+[s01_e20_c06_u004] Chandler Bing: Yes, it's working! Why isn't she calling me back?
+
+('call', 'she/(woman Chandler called)', 'me back', 's01_e20_c06_u004')
+[s01_e20_c06_u004] Chandler Bing: Yes, it's working! Why isn't she calling me back?
+
+('get', 'she/(woman Chandler called)', 'your message', 's01_e20_c06_u005')
+[s01_e20_c06_u005] Joey Tribbiani: Maybe she never got your message.
+
+('want', 'you/Chandler Bing', None, 's01_e20_c06_u006')
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+
+('call', 'you/Chandler Bing', 'her machine', 's01_e20_c06_u006')
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+
+('have', 'she/(woman Chandler called)', 'a lot of beeps', 's01_e20_c06_u006')
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+
+('mean', 'that/(having a lot of beeps)', None, 's01_e20_c06_u006')
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+
+('get', 'she/(woman Chandler called)', 'her messages', 's01_e20_c06_u006')
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+
+('think', 'you/Chandler Bing', 'that', 's01_e20_c06_u007')
+[s01_e20_c06_u007] Chandler Bing: Y'don't think that makes me seem a little...
+
+('make', 'that/(calling her machine)', 'me', 's01_e20_c06_u007')
+[s01_e20_c06_u007] Chandler Bing: Y'don't think that makes me seem a little...
+
+('seem', 'me/Chandler Bing', 'a little', 's01_e20_c06_u007')
+[s01_e20_c06_u007] Chandler Bing: Y'don't think that makes me seem a little...
+
+('see', 'you/Ross Geller', 'my personal ad', 's01_e20_c06_u009')
+[s01_e20_c06_u009] Chandler Bing: Ah, you obviously saw my personal ad.
+
+('answer', 'she/(woman Chandler called)', None, 's01_e20_c06_u012')
+[s01_e20_c06_u012] Chandler Bing: She answered.
+
+('see', 'you/Chandler Bing', None, 's01_e20_c06_u013')
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+
+('be', 'this/(situation)', "where you'd use that 'hello' word", 's01_e20_c06_u013')
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+
+('use', 'you/Chandler Bing', "that 'hello' word", 's01_e20_c06_u013')
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+
+('talk', 'we/Monica Geller+Chandler Bing', "about that 'hello' word", 's01_e20_c06_u013')
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+
+('talk', 'I/Chandler Bing', 'to her', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('get', 'she/(woman Chandler called)', 'my message', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('choose', 'she/(woman Chandler called)', 'not to call me', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('call', 'she/(woman Chandler called)', 'me', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('be', 'I/Chandler Bing', 'needy and snubbed', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('miss', 'I/Chandler Bing', 'just being needy', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('be', 'I/Chandler Bing', 'needy', 's01_e20_c06_u014')
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+
+('take', 'he/Barry Farber', 'it', 's01_e20_c06_u017')
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+
+('have', 'you/Rachel Green', 'dental floss', 's01_e20_c06_u019')
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?
+
+('have', 'you/Rachel Green', 'in your hair', 's01_e20_c06_u019')
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?
+
+('have', 'we/Rachel Green+Barry Farber', 'sex in his chair', 's01_e20_c06_u022')
+[s01_e20_c06_u022] Rachel Green: We ended up having sex in his chair.
+
+('say', 'I/Monica Geller', 'that', 's01_e20_c06_u023')
+[s01_e20_c06_u023] Monica Geller: You had sex in his chair?!... I said that a little too loudly, didn't I?
+
+('know', 'I/Rachel Green', None, 's01_e20_c06_u027')
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+
+('care', 'we/Rachel Green+Barry Farber', 'about each other', 's01_e20_c06_u027')
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+
+('be', 'there/(between us)', 'a history', 's01_e20_c06_u027')
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+
+('be', 'it/(Rachel and Barry)', 'like you and Carol', 's01_e20_c06_u027')
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+
+('be', 'it/(Rachel and Barry)', 'like me and Carol', 's01_e20_c06_u028')
+[s01_e20_c06_u028] Ross Geller: No! No no, it is nothing like me and Carol!
+
+('say', 'she/Carol', 'to you', 's01_e20_c06_u029')
+[s01_e20_c06_u029] Rachel Green: Please. If she said to you, "Ross, I want you on this couch, right here, right now," what would you say?
+
+('want', 'I/Carol', 'you on this couch', 's01_e20_c06_u029')
+[s01_e20_c06_u029] Rachel Green: Please. If she said to you, "Ross, I want you on this couch, right here, right now," what would you say?
+
+('be', 'you/Ross Geller', 'on this couch', 's01_e20_c06_u029')
+[s01_e20_c06_u029] Rachel Green: Please. If she said to you, "Ross, I want you on this couch, right here, right now," what would you say?
+
+('help', 'it/(if it helps)', None, 's01_e20_c06_u031')
+[s01_e20_c06_u031] Chandler Bing: If it helps, I could slide over.
+
+('slide', 'I/Chandler Bing', 'over', 's01_e20_c06_u031')
+[s01_e20_c06_u031] Chandler Bing: If it helps, I could slide over.
+
+('be', 'it/(comparison)', 'a totally different situation', 's01_e20_c06_u032')
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+
+('be', 'it/(comparison)', 'apples and oranges', 's01_e20_c06_u032')
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+
+('go', 'I/Ross Geller', None, 's01_e20_c06_u032')
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+
+('need', 'I/Ross Geller', 'a reason', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('have', 'I/Ross Geller', 'things', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('do', 'I/Ross Geller', 'things', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('do', 'I/Ross Geller', 'with my life', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('have', 'I/Ross Geller', 'a jam packed schedule', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('be', 'I/Ross Geller', 'late for keeping up', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('keep', 'I/Ross Geller', 'up with it', 's01_e20_c06_u034')
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+
+('be', 'you/Mindy', None, 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('hear', 'I/Rachel Green', None, 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('be', 'that/(news)', 'so great', 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('work', 'I/Rachel Green', None, 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('want', 'you/Mindy', None, 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('come', 'you/Mindy', 'by', 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('see', 'I/Rachel Green', 'you', 's01_e20_c06_u038')
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+
+('be', 'Mindy', None, 's01_e20_c06_u039')
+[s01_e20_c06_u039] Chandler Bing: So how's Mindy?
+
+('want', 'she/Mindy', 'to see me tomorrow', 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('sound', 'she/Mindy', 'really weird', 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('call', 'I/Rachel Green', 'Barry', 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('be', 'it/(caller identification)', 'me', 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('figure', 'I/Rachel Green', "that's where you'd be", 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('be', 'you/Barry Farber', 'there', 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+
+('be', 'that/(place)', "where you'd be", 's01_e20_c06_u040')
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!
+

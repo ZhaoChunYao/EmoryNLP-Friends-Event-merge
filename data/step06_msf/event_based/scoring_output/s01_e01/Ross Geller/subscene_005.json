@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages others about plans, suggests company for Speaker_04, and notes that Speaker_02 and Speaker_05 are coming over to help assemble furniture, indicating sociable, group-oriented behavior (u055, u057)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern that Speaker_04 might not want to be alone and accommodates their plan to stay (“Okay, sure”), reflecting kindness and cooperativeness (u057, u060)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Has a concrete plan to put together new furniture and has arranged help from friends, showing planning and organization (u057)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly, makes light conversation (about Aruba), and confidently organizes plans without showing worry or distress (u057, u060)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a casual comment about Aruba’s big lizards, there is no strong evidence of unusual curiosity or inventiveness, nor of dogmatism or caution (u057)."
+  }
+}

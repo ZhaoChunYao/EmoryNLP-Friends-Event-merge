@@ -1,0 +1,165 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c09_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'last night was great', 's01_e22_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'last night', 'great', 's01_e22_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('know', 'you/Phoebe Buffay', None, 's01_e22_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('do', 'Tracy and I', 'Ebony and Ivory', 's01_e22_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'great', 's01_e22_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('make', 'they/(people at karaoke)', 'fun of you', 's01_e22_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e22_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'like Mr. Caring Boss', 's01_e22_c09_u004')",
+            "('be', 'I/Chandler Bing', 'one of you', 's01_e22_c09_u004')",
+            "('want', 'I/Chandler Bing', 'be your buddy', 's01_e22_c09_u004')",
+            "('be', 'I/Chandler Bing', 'your buddy', 's01_e22_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'it', 's01_e22_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', 'what', 's01_e22_c09_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', \"you've gotta face it\", 's01_e22_c09_u006')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('face', 'you/Chandler Bing', 'it', 's01_e22_c09_u006')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'like the guy in the big office', 's01_e22_c09_u006')",
+            "('be', 'you/Chandler Bing', 'in the big office', 's01_e22_c09_u006')",
+            "('be', 'you/Chandler Bing', 'the one', 's01_e22_c09_u006')",
+            "('hire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')",
+            "('fire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')",
+            "('be', 'you/Chandler Bing', 'a great boss', 's01_e22_c09_u006')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('say', \"they/(Chandler's employees)\", \"you're a great boss\", 's01_e22_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', \"they/(Chandler's employees)\", None, 's01_e22_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', \"they/(Chandler's employees)\", 'your friends anymore', 's01_e22_c09_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'I/Chandler Bing', None, 's01_e22_c09_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c09_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('can', 'you/Chandler Bing', None, 's01_e22_c09_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

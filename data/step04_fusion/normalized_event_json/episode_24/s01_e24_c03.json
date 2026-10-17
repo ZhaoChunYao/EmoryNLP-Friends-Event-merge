@@ -1,0 +1,354 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u001_e1",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'this is unbelievable', 's01_e24_c03_u001')",
+            "('be', 'this/(news)', 'unbelievable', 's01_e24_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u002_e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e24_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u002_e2",
+          "tuples": [
+            "('be', 'this/(news)', 'really, really huge', 's01_e24_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u003",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u003_e1",
+          "tuples": [
+            "('be', 'it/(this news)', None, 's01_e24_c03_u003')",
+            "('be', 'it/(this news)', 'petite', 's01_e24_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u004_e1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', 'any of our lives are ever gonna be the same ever again', 's01_e24_c03_u004')",
+            "('be', 'any of our lives', 'the same ever again', 's01_e24_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u005_e1",
+          "tuples": [
+            "('be', 'there', 'a mute button', 's01_e24_c03_u005')",
+            "('be', 'a mute button', 'on this woman', 's01_e24_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u006",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u006_e1",
+          "tuples": [
+            "('think', 'I/Monica Geller', 'this is so great', 's01_e24_c03_u006')",
+            "('be', 'this/(news)', 'so great', 's01_e24_c03_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u006_e2",
+          "tuples": [
+            "('mean', 'I/Monica Geller', 'you and Ross', 's01_e24_c03_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u006_e3",
+          "tuples": [
+            "('have', 'you/Rachel Green', 'any idea', 's01_e24_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u007",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u007_e1",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'my first night in the city', 's01_e24_c03_u007')",
+            "('mention', 'he/Ross Geller', 'something about asking me out', 's01_e24_c03_u007')",
+            "('ask', 'he/Ross Geller', 'me out', 's01_e24_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u007_e2",
+          "tuples": [
+            "('happen', 'nothing', None, 's01_e24_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u007_e3",
+          "tuples": [
+            "('say', 'he/Ross Geller', 'what else', 's01_e24_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u007_e4",
+          "tuples": [
+            "('want', 'he/Ross Geller', 'to go out with me', 's01_e24_c03_u007')",
+            "('go', 'he/Ross Geller', 'out with me', 's01_e24_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u008_e1",
+          "tuples": [
+            "('be', 'he/Ross Geller', 'in love with you', 's01_e24_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u008_e2",
+          "tuples": [
+            "('mind', 'he/Ross Geller', 'getting a cup of coffee or something', 's01_e24_c03_u008')",
+            "('get', 'he/Ross Geller', 'a cup of coffee or something', 's01_e24_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u009_e1",
+          "tuples": [
+            "('talk', 'I/Rachel Green', 'to him', 's01_e24_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u010_e1",
+          "tuples": [
+            "('be', 'he/Ross Geller', 'in China', 's01_e24_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u012_e1",
+          "tuples": [
+            "('wait', 'you/Rachel Green', None, 's01_e24_c03_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u012_e2",
+          "tuples": [
+            "('leave', 'his flight', None, 's01_e24_c03_u012')",
+            "('leave', 'his flight', 'for another forty-five more minutes', 's01_e24_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u015",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u015_e1",
+          "tuples": [
+            "('make', 'you/Rachel Green', 'it/(to the airport in time)', 's01_e24_c03_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u016",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u016_e1",
+          "tuples": [
+            "('say', 'you/Rachel Green', 'what', 's01_e24_c03_u016')",
+            "('say', 'you/Rachel Green', 'to him', 's01_e24_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u017",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u017_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e24_c03_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u018",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u018_e1",
+          "tuples": [
+            "('go', 'you/Rachel Green', None, 's01_e24_c03_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u019",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u019_e1",
+          "tuples": [
+            "('be', 'he/Chandler Bing', 'right', 's01_e24_c03_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u019_e2",
+          "tuples": [
+            "('break', 'you/Rachel Green', 'his heart', 's01_e24_c03_u019')",
+            "('wait', 'that/(breaking his heart)', None, 's01_e24_c03_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u020",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u020_e1",
+          "tuples": [
+            "('be', 'it/(the news)', 'good news', 's01_e24_c03_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u020_e2",
+          "tuples": [
+            "('tell', 'you/Rachel Green', 'him', 's01_e24_c03_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u021",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u021_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e24_c03_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u021_e2",
+          "tuples": [
+            "('know', 'I/Rachel Green', 'when I see him', 's01_e24_c03_u021')",
+            "('see', 'I/Rachel Green', 'him', 's01_e24_c03_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u022",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u022_e1",
+          "tuples": [
+            "('look', 'you/Rachel Green', None, 's01_e24_c03_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u022_e2",
+          "tuples": [
+            "('help', 'this', None, 's01_e24_c03_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u024",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u024_e1",
+          "tuples": [
+            "('look', 'you/(friends)', None, 's01_e24_c03_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u024_e2",
+          "tuples": [
+            "('know', 'I/Rachel Green', 'that I cannot wait a week until I see him', 's01_e24_c03_u024')",
+            "('be', 'all I know', 'that I cannot wait a week until I see him', 's01_e24_c03_u024')",
+            "('wait', 'I/Rachel Green', 'a week', 's01_e24_c03_u024')",
+            "('wait', 'I/Rachel Green', 'until I see him', 's01_e24_c03_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u024_e3",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'this is just too big', 's01_e24_c03_u024')",
+            "('be', 'this/(news)', 'just too big', 's01_e24_c03_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u024_e4",
+          "tuples": [
+            "('have to', 'I/Rachel Green', None, 's01_e24_c03_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u024_e5",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'you/(friends)', 's01_e24_c03_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c03_u025",
+      "events": [
+        {
+          "event_id": "s01_e24_c03_u025_e1",
+          "tuples": [
+            "('love', 'I/Chandler Bing', 'you', 's01_e24_c03_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c03_u025_e2",
+          "tuples": [
+            "('deal', 'you/Rachel Green', 'with me', 's01_e24_c03_u025')"
+          ]
+        }
+      ]
+    }
+  ]
+}

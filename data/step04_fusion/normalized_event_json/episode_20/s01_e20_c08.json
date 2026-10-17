@@ -1,0 +1,361 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u003_e1",
+          "tuples": [
+            "('be', 'what', 'up', 's01_e20_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u004",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u004_e1",
+          "tuples": [
+            "('sit', 'we/(Mindy and Rachel)', None, 's01_e20_c08_u004')",
+            "('sit', 'we/(Mindy and Rachel)', 'for this', 's01_e20_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u006_e1",
+          "tuples": [
+            "('know', 'I/Mindy', None, 's01_e20_c08_u006')",
+            "('be', 'things', 'weird lately', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e2",
+          "tuples": [
+            "('be', 'you/Rachel', 'like my oldest friend', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e3",
+          "tuples": [
+            "('talk', 'I/Mindy', 'to Laurie Schaffer', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e4",
+          "tuples": [
+            "('be', 'she/Laurie Schaffer', 'all bitter now', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e5",
+          "tuples": [
+            "('lose', 'she/Laurie Schaffer', 'the weight', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e6",
+          "tuples": [
+            "('turn out', 'it', \"she doesn't have a pretty face\", 's01_e20_c08_u006')",
+            "('have', 'she/Laurie Schaffer', 'a pretty face', 's01_e20_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u006_e7",
+          "tuples": [
+            "('ask', 'I/Mindy', 'you', 's01_e20_c08_u006')",
+            "('want', 'I/Mindy', 'a straight answer', 's01_e20_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u008",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u008_e1",
+          "tuples": [
+            "('be', 'you/Rachel', 'my maid of honour', 's01_e20_c08_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u010",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u010_e1",
+          "tuples": [
+            "('be', 'that', 'so great', 's01_e20_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u011",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u011_e1",
+          "tuples": [
+            "('be', 'that', 'all you wanted to ask me', 's01_e20_c08_u011')",
+            "('want', 'you/Mindy', 'to ask me', 's01_e20_c08_u011')",
+            "('ask', 'you/Mindy', 'me', 's01_e20_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u012",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u012_e1",
+          "tuples": [
+            "('be', 'that', 'all', 's01_e20_c08_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u014",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u014_e1",
+          "tuples": [
+            "('be', 'that', 'not all', 's01_e20_c08_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u015",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u015_e1",
+          "tuples": [
+            "('be', 'it', None, 's01_e20_c08_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u016",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u016_e1",
+          "tuples": [
+            "('think', 'I/Mindy', 'Barry is seeing someone in the city', 's01_e20_c08_u016')",
+            "('see', 'Barry', 'someone', 's01_e20_c08_u016')",
+            "('see', 'Barry', 'in the city', 's01_e20_c08_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u017",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u017_e1",
+          "tuples": [
+            "('make', 'what', 'you think that', 's01_e20_c08_u017')",
+            "('think', 'you/Mindy', 'that', 's01_e20_c08_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u018",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u018_e1",
+          "tuples": [
+            "('announce', 'we/(Mindy and Barry)', 'the engagement', 's01_e20_c08_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u018_e2",
+          "tuples": [
+            "('act', 'he/Barry', 'really weird', 's01_e20_c08_u018')",
+            "('act', 'he/Barry', 'since we announced the engagement', 's01_e20_c08_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u018_e3",
+          "tuples": [
+            "('come', 'he/Barry', None, 's01_e20_c08_u018')",
+            "('smell', 'he/Barry', 'like Chanel', 's01_e20_c08_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u019",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u019_e1",
+          "tuples": [
+            "('make', 'it', 'you feel any better', 's01_e20_c08_u019')",
+            "('feel', 'you/Mindy', 'any better', 's01_e20_c08_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u019_e2",
+          "tuples": [
+            "('engage', 'I/Rachel', 'to him', 's01_e20_c08_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u019_e3",
+          "tuples": [
+            "('go', 'he/Barry', 'through a whole weird thing', 's01_e20_c08_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u020",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u020_e1",
+          "tuples": [
+            "('see', 'you/Rachel', None, 's01_e20_c08_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u020_e2",
+          "tuples": [
+            "('be', 'that', 'what I was afraid of', 's01_e20_c08_u020')",
+            "('be', 'I/Mindy', 'afraid of what', 's01_e20_c08_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u021",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u021_e1",
+          "tuples": [
+            "('be', 'what', 'what you were afraid of', 's01_e20_c08_u021')",
+            "('be', 'you/Mindy', 'afraid of what', 's01_e20_c08_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u022",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u022_e1",
+          "tuples": [
+            "('engage', 'Barry', 'to you/Rachel', 's01_e20_c08_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u022_e2",
+          "tuples": [
+            "('have', 'he and I/(Barry and Mindy)', 'a little thing', 's01_e20_c08_u022')",
+            "('have', 'he and I/(Barry and Mindy)', 'on the side', 's01_e20_c08_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u024",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u024_e1",
+          "tuples": [
+            "('know', 'I/Mindy', None, 's01_e20_c08_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u024_e2",
+          "tuples": [
+            "('propose', 'he/Barry', 'to me', 's01_e20_c08_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u024_e3",
+          "tuples": [
+            "('say', 'everyone', '\"Don\\'t do it, he\\'s just gonna do to you what he did to Rachel,\"', 's01_e20_c08_u024')",
+            "('do', 'you/Mindy', 'it', 's01_e20_c08_u024')",
+            "('do', 'he/Barry', 'to you', 's01_e20_c08_u024')",
+            "('do', 'he/Barry', 'to Rachel', 's01_e20_c08_u024')",
+            "('do', 'he/Barry', 'what', 's01_e20_c08_u024')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u024_e4",
+          "tuples": [
+            "('feel', 'I/Mindy', 'so stupid', 's01_e20_c08_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u025",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u025_e1",
+          "tuples": [
+            "('be', 'you/Mindy', 'so stupid', 's01_e20_c08_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c08_u025_e2",
+          "tuples": [
+            "('be', 'we/(Mindy and Rachel)', 'both so stupid', 's01_e20_c08_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u026",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u026_e1",
+          "tuples": [
+            "('mean', 'you/Rachel', 'what', 's01_e20_c08_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u027",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u027_e1",
+          "tuples": [
+            "('smell', 'it', 'familiar', 's01_e20_c08_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u029",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u029_e1",
+          "tuples": [
+            "('be', 'I/Rachel', 'so sorry', 's01_e20_c08_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c08_u030",
+      "events": [
+        {
+          "event_id": "s01_e20_c08_u030_e1",
+          "tuples": [
+            "('be', 'I/Mindy', 'so sorry', 's01_e20_c08_u030')"
+          ]
+        }
+      ]
+    }
+  ]
+}

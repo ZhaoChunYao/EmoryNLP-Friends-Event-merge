@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks minimally—only confirms the fact ('they did it twice' in u014) and then says 'Okay...' (u016), showing reserved, non-talkative behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker neither cooperates nor resists; simply states a fact (u014) and acknowledges (u016) without clear signs of generosity, trust, or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or diligence; only brief acknowledgments (u014, u016)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional volatility, but also no explicit display of confidence; the brief 'Okay...' (u016) is ambiguous."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imaginative ideas, or dogmatic/cautious stances; TargetSpeaker only acknowledges facts (u014, u016)."
+  }
+}

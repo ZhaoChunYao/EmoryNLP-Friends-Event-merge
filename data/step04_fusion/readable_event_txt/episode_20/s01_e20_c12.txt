@@ -1,0 +1,127 @@
+event_id: s01_e20_c12_u001_e1
+utterance_id: s01_e20_c12_u001
+  tuple: ('give', 'I/(Joey Tribbiani)', 'this', 's01_e20_c12_u001')
+
+event_id: s01_e20_c12_u001_e2
+utterance_id: s01_e20_c12_u001
+  tuple: ('be', 'Mr. Peanut', 'a better dresser', 's01_e20_c12_u001')
+
+event_id: s01_e20_c12_u001_e3
+utterance_id: s01_e20_c12_u001
+  tuple: ('mean', 'I/(Joey Tribbiani)', None, 's01_e20_c12_u001')
+
+event_id: s01_e20_c12_u001_e4
+utterance_id: s01_e20_c12_u001
+  tuple: ('get', 'he/(Mr. Peanut)', 'the monocle', 's01_e20_c12_u001')
+
+event_id: s01_e20_c12_u001_e5
+utterance_id: s01_e20_c12_u001
+  tuple: ('get', 'he/(Mr. Peanut)', 'the top hat', 's01_e20_c12_u001')
+
+event_id: s01_e20_c12_u002_e1
+utterance_id: s01_e20_c12_u002
+  tuple: ('know', 'you/(Joey Tribbiani)', "he's gay", 's01_e20_c12_u002')
+  tuple: ('be', 'he/(Mr. Peanut)', 'gay', 's01_e20_c12_u002')
+
+event_id: s01_e20_c12_u003_e1
+utterance_id: s01_e20_c12_u003
+  tuple: ('want to clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')
+  tuple: ('clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')
+
+event_id: s01_e20_c12_u003_e2
+utterance_id: s01_e20_c12_u003
+  tuple: ('out', 'you/(Phoebe Buffay)', 'Mr. Peanut', 's01_e20_c12_u003')
+
+event_id: s01_e20_c12_u005_e1
+utterance_id: s01_e20_c12_u005
+  tuple: ('be', 'this/(Danielle)', 'Danielle', 's01_e20_c12_u005')
+
+event_id: s01_e20_c12_u007_e1
+utterance_id: s01_e20_c12_u007
+  tuple: ('do', 'you/(Danielle)', None, 's01_e20_c12_u007')
+
+event_id: s01_e20_c12_u008_e1
+utterance_id: s01_e20_c12_u008
+  tuple: ('call', 'I/(Danielle)', 'you', 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e2
+utterance_id: s01_e20_c12_u008
+  tuple: ('turn out', 'it/(situation)', 'I had your number wrong', 's01_e20_c12_u008')
+  tuple: ('have', 'I/(Danielle)', 'your number wrong', 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e3
+utterance_id: s01_e20_c12_u008
+  tuple: ('get', 'I/(Danielle)', 'the right one', 's01_e20_c12_u008')
+  tuple: ('get', 'I/(Danielle)', 'from Information', 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e4
+utterance_id: s01_e20_c12_u008
+  tuple: ('be', 'there', 'no answer', 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e5
+utterance_id: s01_e20_c12_u008
+  tuple: ('think', 'I/(Danielle)', "I'd just come down here", 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e6
+utterance_id: s01_e20_c12_u008
+  tuple: ('come down', 'I/(Danielle)', None, 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u008_e7
+utterance_id: s01_e20_c12_u008
+  tuple: ('make sure', 'I/(Danielle)', 'you were okay', 's01_e20_c12_u008')
+  tuple: ('be', 'you/(Chandler Bing)', 'okay', 's01_e20_c12_u008')
+
+event_id: s01_e20_c12_u009_e1
+utterance_id: s01_e20_c12_u009
+  tuple: ('be', 'I/(Chandler Bing)', 'okay', 's01_e20_c12_u009')
+
+event_id: s01_e20_c12_u010_e1
+utterance_id: s01_e20_c12_u010
+  tuple: ('listen', 'you/(Chandler Bing)', None, 's01_e20_c12_u010')
+
+event_id: s01_e20_c12_u010_e2
+utterance_id: s01_e20_c12_u010
+  tuple: ('get together', 'we/(Danielle+Chandler Bing)', None, 's01_e20_c12_u010')
+
+event_id: s01_e20_c12_u011_e1
+utterance_id: s01_e20_c12_u011
+  tuple: ('sound', 'that/(plan)', 'good', 's01_e20_c12_u011')
+
+event_id: s01_e20_c12_u011_e2
+utterance_id: s01_e20_c12_u011
+  tuple: ('call', 'I/(Chandler Bing)', 'you', 's01_e20_c12_u011')
+
+event_id: s01_e20_c12_u011_e3
+utterance_id: s01_e20_c12_u011
+  tuple: ('call', 'you/(Danielle)', 'me', 's01_e20_c12_u011')
+
+event_id: s01_e20_c12_u012_e1
+utterance_id: s01_e20_c12_u012
+  tuple: ('get', 'you/(Danielle)', 'it', 's01_e20_c12_u012')
+
+event_id: s01_e20_c12_u017_e1
+utterance_id: s01_e20_c12_u017
+  tuple: ('go', 'you/(Chandler Bing)', None, 's01_e20_c12_u017')
+
+event_id: s01_e20_c12_u019_e1
+utterance_id: s01_e20_c12_u019
+  tuple: ('know', 'I/(Chandler Bing)', None, 's01_e20_c12_u019')
+
+event_id: s01_e20_c12_u020_e1
+utterance_id: s01_e20_c12_u020
+  tuple: ('know', 'you/(Chandler Bing)', None, 's01_e20_c12_u020')
+
+event_id: s01_e20_c12_u021_e1
+utterance_id: s01_e20_c12_u021
+  tuple: ('seem', 'she/(Danielle)', 'very nice', 's01_e20_c12_u021')
+
+event_id: s01_e20_c12_u021_e2
+utterance_id: s01_e20_c12_u021
+  tuple: ('come', 'her/(Danielle)', None, 's01_e20_c12_u021')
+  tuple: ('see', 'her/(Danielle)', 'if I was okay', 's01_e20_c12_u021')
+  tuple: ('be', 'that/(her coming to see if I was okay)', 'needy', 's01_e20_c12_u021')
+
+event_id: s01_e20_c12_u021_e3
+utterance_id: s01_e20_c12_u021
+  tuple: ('mean', 'I/(Chandler Bing)', None, 's01_e20_c12_u021')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker jumps in to interpret the date and confidently offers bold advice that the monkey will “seal the deal,” showing outgoing talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is supportive and reassuring to Speaker_02, calling the monkey a “chick magnet” to help his friend succeed."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors related to planning, organization, or careful follow-through are shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks with certainty that the monkey will “seal the deal,” indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or unconventional thinking beyond a casual joke about the monkey."
+  }
+}

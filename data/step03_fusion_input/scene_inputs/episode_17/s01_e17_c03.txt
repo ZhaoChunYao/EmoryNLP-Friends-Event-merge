@@ -1,0 +1,36 @@
+('add', 'you/Monica Geller', 'a pinch of saffron', 's01_e17_c03_u001')
+[s01_e17_c03_u001] Dr. Mitchell: ..you add a pinch of saffron, it makes all the difference.
+
+('make', 'it/(a pinch of saffron)', 'all the difference', 's01_e17_c03_u001')
+[s01_e17_c03_u001] Dr. Mitchell: ..you add a pinch of saffron, it makes all the difference.
+
+('be', 'she/Rachel Green', None, 's01_e17_c03_u004')
+[s01_e17_c03_u004] Monica Geller: Yes? ..yes, she is.
+
+('be', 'this/Rachel Green', 'my friend Rachel', 's01_e17_c03_u005')
+[s01_e17_c03_u005] Rachel Green: Hi, this is my friend Rachel.
+
+('be', 'I/Dr. Mitchell', 'Dr.Mitchell', 's01_e17_c03_u007')
+[s01_e17_c03_u007] Dr. Mitchell: Hi, err Rachel. I'm Dr.Mitchell.
+
+('be', 'I/Dr. Rosen', 'his friend, Dr.Rosen', 's01_e17_c03_u008')
+[s01_e17_c03_u008] Dr. Rosen: And I'm his friend, Dr.Rosen.
+
+('be', 'you/Dr. Mitchell', 'a little cute to be a doctor', 's01_e17_c03_u010')
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?
+
+('be', 'you/Dr. Mitchell', 'a doctor', 's01_e17_c03_u010')
+[s01_e17_c03_u010] Rachel Green: Aren't you a little cute to be a doctor?
+
+('excuse', 'you/Rachel Green', 'me/Dr. Rosen', 's01_e17_c03_u011')
+[s01_e17_c03_u011] Dr. Rosen: Excuse me?
+
+('mean', 'I/Rachel Green', 'young, young to be a doctor', 's01_e17_c03_u012')
+[s01_e17_c03_u012] Rachel Green: I meant er, young, young, I meant young, young to be a doctor. Oh good, Rach.
+
+('be', 'you/Dr. Rosen', 'a doctor', 's01_e17_c03_u012')
+[s01_e17_c03_u012] Rachel Green: I meant er, young, young, I meant young, young to be a doctor. Oh good, Rach.
+
+('thank', 'I/Monica Geller', 'you/Rachel Green', 's01_e17_c03_u013')
+[s01_e17_c03_u013] Monica Geller: Thank you.
+

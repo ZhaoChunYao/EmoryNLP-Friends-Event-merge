@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Aside from a brief directive telling Speaker_03 to go deep by moving farther away, there is no clear sign of outgoing or highly talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker reassures the anxious Speaker_04 by saying everything is going to be all right, showing support and concern."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or sloppiness/carelessness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When Speaker_04 panics about childbirth, TargetSpeaker stays calm and reassures them that everything will be all right, indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements show curiosity/inventiveness or dogmatism/caution in this brief interaction."
+  }
+}

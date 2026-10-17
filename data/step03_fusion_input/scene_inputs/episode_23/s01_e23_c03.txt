@@ -1,0 +1,96 @@
+('want', 'I/Monica Geller', 'a baby', 's01_e23_c03_u001')
+[s01_e23_c03_u001] Monica Geller: I want a baby.
+
+('get', 'I/Chandler Bing', 'an early day tomorrow', 's01_e23_c03_u002')
+[s01_e23_c03_u002] Chandler Bing: Mmmm. Not tonight, honey. I got an early day tomorrow.
+
+('get', 'you/Chandler Bing', 'up', 's01_e23_c03_u003')
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+
+('come', 'you/Chandler Bing', 'on', 's01_e23_c03_u003')
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+
+('let', 'we/Monica Geller+Chandler Bing', 'get some coffee', 's01_e23_c03_u003')
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+
+('get', 'we/Monica Geller+Chandler Bing', 'some coffee', 's01_e23_c03_u003')
+[s01_e23_c03_u003] Monica Geller: Get up. Come on. Let's get some coffee.
+
+('do', 'we/Monica Geller+Chandler Bing', 'that', 's01_e23_c03_u004')
+[s01_e23_c03_u004] Chandler Bing: Oh, ok, 'cause we never do that.
+
+('shoot', 'you/(basketball player)', None, 's01_e23_c03_u006')
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+
+('fall', 'you/(basketball player)', 'down', 's01_e23_c03_u006')
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+
+('be', 'that', 'good', 's01_e23_c03_u006')
+[s01_e23_c03_u006] Joey Tribbiani: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+
+('suck', 'they/The Knicks', None, 's01_e23_c03_u010')
+[s01_e23_c03_u010] Lydia: Oh, boy, do they suck.
+
+('listen', 'you/Lydia', None, 's01_e23_c03_u011')
+[s01_e23_c03_u011] Joey Tribbiani: Hey, listen, lady.... ...whoa.
+
+('look', 'you/Joey Tribbiani', 'at your man, Ewing', 's01_e23_c03_u012')
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+
+('know', 'you/Joey Tribbiani', 'what', 's01_e23_c03_u012')
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+
+('hit', 'he/Ewing', 'water', 's01_e23_c03_u012')
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+
+('stand', 'he/Ewing', 'on a boat', 's01_e23_c03_u012')
+[s01_e23_c03_u012] Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+
+('like', 'you/Lydia', 'who', 's01_e23_c03_u013')
+[s01_e23_c03_u013] Joey Tribbiani: Oh yeah? And who do you like?
+
+('hit', 'they/The Celtics', 'a boat', 's01_e23_c03_u015')
+[s01_e23_c03_u015] Joey Tribbiani: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+
+('wait', 'you/Lydia', None, 's01_e23_c03_u015')
+[s01_e23_c03_u015] Joey Tribbiani: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+
+('suck', 'they/The Celtics', None, 's01_e23_c03_u015')
+[s01_e23_c03_u015] Joey Tribbiani: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+
+('shut', 'you/Joey Tribbiani', 'up', 's01_e23_c03_u016')
+[s01_e23_c03_u016] Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!
+
+('know', 'you/Joey Tribbiani', None, 's01_e23_c03_u016')
+[s01_e23_c03_u016] Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!
+
+('be', 'it/The Celtics', 'a rebuilding year', 's01_e23_c03_u016')
+[s01_e23_c03_u016] Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!
+
+('let', 'you/Lydia', 'me get the father', 's01_e23_c03_u017')
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+
+('get', 'I/Joey Tribbiani', 'the father', 's01_e23_c03_u017')
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+
+('need', 'we/Joey Tribbiani+others', 'a father', 's01_e23_c03_u017')
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+
+('need', 'we/Joey Tribbiani+others', 'over here', 's01_e23_c03_u017')
+[s01_e23_c03_u017] Joey Tribbiani: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+
+('be', 'there', 'no father', 's01_e23_c03_u018')
+[s01_e23_c03_u018] Lydia: There is no father.
+
+('be', 'that', 'ok', 's01_e23_c03_u020')
+[s01_e23_c03_u020] Lydia: Ok, that's ok. I'm fine. I'm... oh!
+
+('be', 'I/Lydia', 'fine', 's01_e23_c03_u020')
+[s01_e23_c03_u020] Lydia: Ok, that's ok. I'm fine. I'm... oh!
+
+('seem', 'All the other pregnant women', 'going in here', 's01_e23_c03_u021')
+[s01_e23_c03_u021] Joey Tribbiani: Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.
+
+('go', 'All the other pregnant women', 'in here', 's01_e23_c03_u021')
+[s01_e23_c03_u021] Joey Tribbiani: Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.
+

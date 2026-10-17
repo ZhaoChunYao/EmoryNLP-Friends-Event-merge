@@ -1,0 +1,417 @@
+('hand over', 'you gals/(Rachel Green, Monica Geller, Phoebe Buffay)', 'your money now', 's01_e18_c07_u001')
+[s01_e18_c07_u001] Ross Geller: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.
+
+('go', 'we/(everyone at the table)', 'through the formality of actually playing', 's01_e18_c07_u001')
+[s01_e18_c07_u001] Ross Geller: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.
+
+('play', 'we/(everyone at the table)', None, 's01_e18_c07_u001')
+[s01_e18_c07_u001] Ross Geller: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.
+
+('be', 'that', 'fine', 's01_e18_c07_u002')
+[s01_e18_c07_u002] Rachel Green: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.
+
+('see', 'we/(Rachel Green, Monica Geller, Phoebe Buffay)', 'who has the last laugh there', 's01_e18_c07_u002')
+[s01_e18_c07_u002] Rachel Green: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.
+
+('have', 'who', 'the last laugh there', 's01_e18_c07_u002')
+[s01_e18_c07_u002] Rachel Green: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.
+
+('be', 'we/(everyone at the table)', 'done with the chit-chat', 's01_e18_c07_u003')
+[s01_e18_c07_u003] Monica Geller: OK, we done with the chit-chat? Are we ready to play some serious poker?
+
+('play', 'we/(everyone at the table)', 'some serious poker', 's01_e18_c07_u003')
+[s01_e18_c07_u003] Monica Geller: OK, we done with the chit-chat? Are we ready to play some serious poker?
+
+('look', 'you guys/(everyone at the table)', None, 's01_e18_c07_u004')
+[s01_e18_c07_u004] Phoebe Buffay: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.
+
+('follow', 'the one-eyed jack', 'me', 's01_e18_c07_u004')
+[s01_e18_c07_u004] Phoebe Buffay: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.
+
+('go', 'I/Phoebe Buffay', None, 's01_e18_c07_u004')
+[s01_e18_c07_u004] Phoebe Buffay: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.
+
+('go', 'you/Ross Geller', None, 's01_e18_c07_u006')
+[s01_e18_c07_u006] Monica Geller: Excuse me, where are you going?
+
+('go', 'I/Ross Geller', 'to the bathroom', 's01_e18_c07_u007')
+[s01_e18_c07_u007] Ross Geller: Uh... to the bathroom.
+
+('go', 'you/Ross Geller', 'to the bathroom', 's01_e18_c07_u008')
+[s01_e18_c07_u008] Monica Geller: Do you want to go to the bathroom, or do you wanna play poker?
+
+('play', 'you/Ross Geller', 'poker', 's01_e18_c07_u008')
+[s01_e18_c07_u008] Monica Geller: Do you want to go to the bathroom, or do you wanna play poker?
+
+('order', 'I/Joey Tribbiani', 'a pizza', 's01_e18_c07_u010')
+[s01_e18_c07_u010] Joey Tribbiani: Alright, well, I'm gonna order a pizza.
+
+('hear', 'I/Rachel Green', 'from that job', 's01_e18_c07_u011')
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+
+('close', 'the store', None, 's01_e18_c07_u011')
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+
+('close', 'the store', 'at nine', 's01_e18_c07_u011')
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+
+('eat', 'you/Joey Tribbiani', None, 's01_e18_c07_u011')
+[s01_e18_c07_u011] Rachel Green: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.
+
+('have', 'I/Joey Tribbiani', 'a Tic-Tac', 's01_e18_c07_u012')
+[s01_e18_c07_u012] Joey Tribbiani: That's fine. I'll just have a Tic-Tac to hold me over.
+
+('hold', 'a Tic-Tac', 'over me', 's01_e18_c07_u012')
+[s01_e18_c07_u012] Joey Tribbiani: That's fine. I'll just have a Tic-Tac to hold me over.
+
+('ante', 'everybody/(all players)', None, 's01_e18_c07_u013')
+[s01_e18_c07_u013] Monica Geller: Alright, Cincinnati, no blinds, everybody ante.
+
+('be', 'your money', 'mine', 's01_e18_c07_u016')
+[s01_e18_c07_u016] Ross Geller: Alright. : Your money's mine, Green.
+
+('be', 'your fly', 'open', 's01_e18_c07_u017')
+[s01_e18_c07_u017] Rachel Green: Your fly is open, Geller.
+
+('know', 'you guys/(everyone at the table)', 'what I just realized', 's01_e18_c07_u019')
+[s01_e18_c07_u019] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+
+('realize', 'I/Phoebe Buffay', "'Joker' is 'poker' with a 'J'", 's01_e18_c07_u019')
+[s01_e18_c07_u019] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+
+('be', "'Joker'", "'poker' with a 'J'", 's01_e18_c07_u019')
+[s01_e18_c07_u019] Phoebe Buffay: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?
+
+('be', 'that', "'joincidence' with a 'C'", 's01_e18_c07_u020')
+[s01_e18_c07_u020] Chandler Bing: Hey, that's... that's 'joincidence' with a 'C'!
+
+('be', 'I/Phoebe Buffay', 'out', 's01_e18_c07_u022')
+[s01_e18_c07_u022] Phoebe Buffay: Yeah. Um... I'm out.
+
+('be', 'I/Rachel Green', 'in', 's01_e18_c07_u023')
+[s01_e18_c07_u023] Rachel Green: I'm in.
+
+('have', 'you/Ross Geller', 'what', 's01_e18_c07_u025')
+[s01_e18_c07_u025] Joey Tribbiani: Me too. Alright, whattaya got.
+
+('hop', 'you/Rachel Green', 'out of the shower', 's01_e18_c07_u026')
+[s01_e18_c07_u026] Ross Geller: Well, you better hop outta the shower, cause... I gotta flush.
+
+('have', 'I/Ross Geller', 'a flush', 's01_e18_c07_u026')
+[s01_e18_c07_u026] Ross Geller: Well, you better hop outta the shower, cause... I gotta flush.
+
+('hop', 'you/Ross Geller', 'back in', 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('have', 'I/Rachel Green', 'four sixes', 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('win', 'I/Rachel Green', None, 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('think', 'I/Rachel Green', "I'm gonna make a little Ross pile", 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('make', 'I/Rachel Green', 'a little Ross pile', 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('think', 'I/Rachel Green', "that one was Ross's", 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('be', 'that one', "Ross's", 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('have', 'I/Rachel Green', 'your money', 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('see', 'you/Ross Geller', 'it', 's01_e18_c07_u027')
+[s01_e18_c07_u027] Rachel Green: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I thinkohthat one was Ross's. Yes! : Well, I have got your money, and you'll never see it...
+
+('make', 'I/Rachel Green', 'you look', 's01_e18_c07_u031')
+[s01_e18_c07_u031] Rachel Green: Ha, I made you look....
+
+('look', 'you/Ross Geller', None, 's01_e18_c07_u031')
+[s01_e18_c07_u031] Rachel Green: Ha, I made you look....
+
+('be', 'I/Rachel Green', 'inner', 's01_e18_c07_u033')
+[s01_e18_c07_u033] Rachel Green: I couldn't be inner. Monica?
+
+('hate', 'I/Monica Geller', 'this game', 's01_e18_c07_u035')
+[s01_e18_c07_u035] Monica Geller: I hate this game!
+
+('fold', 'I/Joey Tribbiani', None, 's01_e18_c07_u038')
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.
+
+('hit', 'who', 'in the stomach', 's01_e18_c07_u038')
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.
+
+('hit', 'who', 'by a fat guy with sores on his face', 's01_e18_c07_u038')
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.
+
+('be', 'I/Joey Tribbiani', 'out', 's01_e18_c07_u038')
+[s01_e18_c07_u038] Joey Tribbiani: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.
+
+('be', 'I/Chandler Bing', 'out', 's01_e18_c07_u042')
+[s01_e18_c07_u042] Chandler Bing: Couldn't be more out.
+
+('see', 'I/Rachel Green', 'you/Ross Geller', 's01_e18_c07_u044')
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+
+('raise', 'I/Rachel Green', 'you/Ross Geller', 's01_e18_c07_u044')
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+
+('say', 'you/Ross Geller', 'what', 's01_e18_c07_u044')
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+
+('waste', 'you/Ross Geller', 'another buck', 's01_e18_c07_u044')
+[s01_e18_c07_u044] Rachel Green: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?
+
+('tell', 'I/Rachel Green', None, 's01_e18_c07_u046')
+[s01_e18_c07_u046] Rachel Green: I'm not telling.
+
+('show', 'you/Rachel Green', 'them', 's01_e18_c07_u047')
+[s01_e18_c07_u047] Ross Geller: Come on, show them to me.
+
+('show', 'you/Rachel Green', 'to me', 's01_e18_c07_u047')
+[s01_e18_c07_u047] Ross Geller: Come on, show them to me.
+
+('get', 'you/Ross Geller', 'your hands out of there', 's01_e18_c07_u050')
+[s01_e18_c07_u050] Rachel Green: Get your hands out of there! No!
+
+('let', 'you/Rachel Green', 'me see', 's01_e18_c07_u051')
+[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+
+('see', 'me/Ross Geller', None, 's01_e18_c07_u051')
+[s01_e18_c07_u051] Ross Geller: Let me see! Show them!
+
+('have', 'I/Chandler Bing', 'dates like this', 's01_e18_c07_u052')
+[s01_e18_c07_u052] Chandler Bing: Y'know, I've had dates like this.
+
+('stand', 'you/Ross Geller', 'to lose', 's01_e18_c07_u053')
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+
+('lose', 'you/Ross Geller', None, 's01_e18_c07_u053')
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+
+('get', 'your whole face', 'red', 's01_e18_c07_u053')
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+
+('pop out', 'little veins', 'on your temple', 's01_e18_c07_u053')
+[s01_e18_c07_u053] Rachel Green: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...
+
+('match', 'that shirt', 'those pants', 's01_e18_c07_u054')
+[s01_e18_c07_u054] Phoebe Buffay: Plus that shirt doesn't really match those pants.
+
+('lose', 'I/Ross Geller', None, 's01_e18_c07_u056')
+[s01_e18_c07_u056] Ross Geller: First of all, I'm not losing...
+
+('talk', 'us/(everyone at the table)', 'about losing', 's01_e18_c07_u058')
+[s01_e18_c07_u058] Ross Geller: Let's not talk about losing. Just deal the...
+
+('deal', 'you/Rachel Green', None, 's01_e18_c07_u058')
+[s01_e18_c07_u058] Ross Geller: Let's not talk about losing. Just deal the...
+
+('be', 'it', 'about the job', 's01_e18_c07_u061')
+[s01_e18_c07_u061] Rachel Green: Excuse me. It's about the job.
+
+('be', 'you/Barbara', None, 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('understand', 'I/Rachel Green', None, 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('be', 'I/Rachel Green', 'fine', 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('be', 'you/Barbara', 'silly', 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('know', 'you/Barbara', None, 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('open', 'anything else', None, 's01_e18_c07_u063')
+[s01_e18_c07_u063] Rachel Green: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, pleaHello? Hello?
+
+('know', 'you/Rachel Green', None, 's01_e18_c07_u066')
+[s01_e18_c07_u066] Phoebe Buffay: Y'know, there's gonna be lots of other stuff.
+
+('be', 'there', 'lots of other stuff', 's01_e18_c07_u066')
+[s01_e18_c07_u066] Phoebe Buffay: Y'know, there's gonna be lots of other stuff.
+
+('be', 'we/(everyone at the table)', None, 's01_e18_c07_u067')
+[s01_e18_c07_u067] Rachel Green: Yeah... ....OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante.
+
+('look', 'Rachel Green', None, 's01_e18_c07_u068')
+[s01_e18_c07_u068] Joey Tribbiani: Look, Rachel, we don't have to do this.
+
+('do', 'we/Joey Tribbiani and Rachel Green', 'this', 's01_e18_c07_u068')
+[s01_e18_c07_u068] Joey Tribbiani: Look, Rachel, we don't have to do this.
+
+('check', 'I/Monica Geller', None, 's01_e18_c07_u070')
+[s01_e18_c07_u070] Monica Geller: Alright, check.
+
+('check', 'I/Joey Tribbiani', None, 's01_e18_c07_u071')
+[s01_e18_c07_u071] Joey Tribbiani: Check.
+
+('be', 'I/Ross Geller', 'in for fifty cents', 's01_e18_c07_u072')
+[s01_e18_c07_u072] Ross Geller: I'm in for fifty cents.
+
+('call', 'I/Chandler Bing', None, 's01_e18_c07_u073')
+[s01_e18_c07_u073] Chandler Bing: Call.
+
+('be', 'I/Phoebe Buffay', 'in', 's01_e18_c07_u074')
+[s01_e18_c07_u074] Phoebe Buffay: I'm in.
+
+('see', 'I/Rachel Green', 'your fifty cents', 's01_e18_c07_u075')
+[s01_e18_c07_u075] Rachel Green: I see your fifty cents... and I raise you... five dollars.
+
+('raise', 'I/Rachel Green', 'you five dollars', 's01_e18_c07_u075')
+[s01_e18_c07_u075] Rachel Green: I see your fifty cents... and I raise you... five dollars.
+
+('think', 'I/Ross Geller', 'it was a fifty cent limit', 's01_e18_c07_u076')
+[s01_e18_c07_u076] Ross Geller: I thought, uh... it was a fifty cent limit.
+
+('be', 'it', 'a fifty cent limit', 's01_e18_c07_u076')
+[s01_e18_c07_u076] Ross Geller: I thought, uh... it was a fifty cent limit.
+
+('lose', 'I/Rachel Green', 'a job', 's01_e18_c07_u077')
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+
+('raise', 'I/Rachel Green', 'the bet five bucks', 's01_e18_c07_u077')
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+
+('have', 'anybody', 'a problem with that', 's01_e18_c07_u077')
+[s01_e18_c07_u077] Rachel Green: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?
+
+('fold', 'I/Ross Geller', None, 's01_e18_c07_u081')
+[s01_e18_c07_u081] Ross Geller: No, I fold.
+
+('mean', 'you/Ross Geller', 'what', 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('fold', 'you/Ross Geller', None, 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('be', 'this', None, 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('think', 'I/Rachel Green', "'once the cards were dealt, I'm not a nice guy.'", 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('deal', 'the cards', None, 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('be', 'I/Ross Geller', 'not a nice guy', 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('be', 'you/Ross Geller', 'full of it', 's01_e18_c07_u082')
+[s01_e18_c07_u082] Rachel Green: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?
+
+('be', 'I/Ross Geller', 'in', 's01_e18_c07_u084')
+[s01_e18_c07_u084] Ross Geller: I'm in.
+
+('want', 'you/Ross Geller', 'how many', 's01_e18_c07_u085')
+[s01_e18_c07_u085] Rachel Green: How many you want?
+
+('take', 'dealer/Rachel Green', 'two', 's01_e18_c07_u087')
+[s01_e18_c07_u087] Rachel Green: Dealer takes two. What do you bet?
+
+('bet', 'you/Ross Geller', 'what', 's01_e18_c07_u087')
+[s01_e18_c07_u087] Rachel Green: Dealer takes two. What do you bet?
+
+('bet', 'I/Ross Geller', 'two dollars', 's01_e18_c07_u088')
+[s01_e18_c07_u088] Ross Geller: I bet two dollars.
+
+('see', 'I/Rachel Green', 'your two', 's01_e18_c07_u089')
+[s01_e18_c07_u089] Rachel Green: OK... see your two... and I raise you twenty.
+
+('raise', 'I/Rachel Green', 'you twenty', 's01_e18_c07_u089')
+[s01_e18_c07_u089] Rachel Green: OK... see your two... and I raise you twenty.
+
+('see', 'I/Ross Geller', 'your twenty', 's01_e18_c07_u090')
+[s01_e18_c07_u090] Ross Geller: I see your twenty, raise you twenty-five.
+
+('raise', 'I/Ross Geller', 'you twenty-five', 's01_e18_c07_u090')
+[s01_e18_c07_u090] Ross Geller: I see your twenty, raise you twenty-five.
+
+('see', 'I/Rachel Green', 'your twenty-five', 's01_e18_c07_u092')
+[s01_e18_c07_u092] Rachel Green: See your twenty-five...and...uh, Monica, get my purse.
+
+('get', 'Monica Geller', 'my purse', 's01_e18_c07_u092')
+[s01_e18_c07_u092] Rachel Green: See your twenty-five...and...uh, Monica, get my purse.
+
+('be', 'there', 'nothing in it', 's01_e18_c07_u094')
+[s01_e18_c07_u094] Monica Geller: Rachel, there's nothing in it.
+
+('get', 'you/Monica Geller', 'your purse', 's01_e18_c07_u095')
+[s01_e18_c07_u095] Rachel Green: OK, then get me your purse.
+
+('go', 'you/Rachel Green', 'here', 's01_e18_c07_u097')
+[s01_e18_c07_u097] Monica Geller: OK, here you go. Good luck.
+
+('thank', 'I/Rachel Green', 'you/Monica Geller', 's01_e18_c07_u098')
+[s01_e18_c07_u098] Rachel Green: : Thank you. : I saw your twenty-five, and I raise you... seven.
+
+('raise', 'I/Rachel Green', 'you seven', 's01_e18_c07_u098')
+[s01_e18_c07_u098] Rachel Green: : Thank you. : I saw your twenty-five, and I raise you... seven.
+
+('be', 'I/Ross Geller', 'a little shy', 's01_e18_c07_u101')
+[s01_e18_c07_u101] Ross Geller: : Joey, I'm a little shy.
+
+('be', 'that', 'OK', 's01_e18_c07_u102')
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+
+('ask', 'you/Ross Geller', 'me/Joey Tribbiani', 's01_e18_c07_u102')
+[s01_e18_c07_u102] Joey Tribbiani: That's OK, Ross, you can ask me. What?
+
+('need', 'you/Ross Geller', 'what', 's01_e18_c07_u104')
+[s01_e18_c07_u104] Chandler Bing: : What do you need, what do you need?
+
+('be', 'here', 'ten', 's01_e18_c07_u106')
+[s01_e18_c07_u106] Chandler Bing: Alright, here's ten.
+
+('have', 'I/Joey Tribbiani', 'five', 's01_e18_c07_u107')
+[s01_e18_c07_u107] Joey Tribbiani: Here, I got five, I got five.
+
+('thank', 'I/Ross Geller', 'you/Chandler Bing and Joey Tribbiani', 's01_e18_c07_u108')
+[s01_e18_c07_u108] Ross Geller: Thank you.
+
+('call', 'I/Ross Geller', 'your seventeen', 's01_e18_c07_u110')
+[s01_e18_c07_u110] Ross Geller: : OK, I am calling your seventeen. What do you got?
+
+('have', 'you/Rachel Green', 'what', 's01_e18_c07_u110')
+[s01_e18_c07_u110] Ross Geller: : OK, I am calling your seventeen. What do you got?
+
+('have', 'you/Rachel Green', 'me', 's01_e18_c07_u114')
+[s01_e18_c07_u114] Ross Geller: You got me.
+
+('be', 'that', 'alright', 's01_e18_c07_u116')
+[s01_e18_c07_u116] Joey Tribbiani: : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+
+('know', 'you/(everyone)', None, 's01_e18_c07_u116')
+[s01_e18_c07_u116] Joey Tribbiani: : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+
+('be', 'that', 'a tough hand to beat', 's01_e18_c07_u116')
+[s01_e18_c07_u116] Joey Tribbiani: : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+
+('beat', 'you/(generic player)', 'that hand', 's01_e18_c07_u116')
+[s01_e18_c07_u116] Joey Tribbiani: : Ahhh, that's alright. Y'know, that's a tough hand to beat.
+
+('think', 'I/Chandler Bing', 'we had them', 's01_e18_c07_u117')
+[s01_e18_c07_u117] Chandler Bing: : I thought we had them!
+
+('have', 'we/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'them', 's01_e18_c07_u117')
+[s01_e18_c07_u117] Chandler Bing: : I thought we had them!
+
+('have', 'you/(generic player)', 'the cards', 's01_e18_c07_u118')
+[s01_e18_c07_u118] Ross Geller: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is.
+
+('know', 'you/(group)', None, 's01_e18_c07_u118')
+[s01_e18_c07_u118] Ross Geller: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is.
+
+('look', 'you/(group)', None, 's01_e18_c07_u118')
+[s01_e18_c07_u118] Ross Geller: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is.
+
+('be', 'she/Rachel Green', 'happy', 's01_e18_c07_u118')
+[s01_e18_c07_u118] Ross Geller: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is.
+

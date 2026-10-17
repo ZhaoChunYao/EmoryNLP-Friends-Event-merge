@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates interaction and speaks out publicly (“Hey, Paul!”) and makes a bold teasing remark/instruction to others about rubbing Speaker_02’s neck."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Teases and disregards Speaker_02’s comfort by telling Speaker_03 to rub Speaker_02’s neck repeatedly and describing it getting red; Speaker_02 responds “shut up,” indicating the comment was inconsiderate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior about planning, organization, or diligence—only a spontaneous teasing comment."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no signs of anxiety or distress; behaves casually while joking."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or openness to new ideas in this exchange."
+  }
+}

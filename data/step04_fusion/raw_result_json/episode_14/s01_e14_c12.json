@@ -1,0 +1,201 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u001_event_1",
+          "tuples": [
+            "('do', 'you/(Kristin Riggs)', 'what', 's01_e14_c12_u001')",
+            "('do', 'you/(Kristin Riggs)', 'for a living', 's01_e14_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u002_event_1",
+          "tuples": [
+            "('work', 'I/(Kristin Riggs)', None, 's01_e14_c12_u002')",
+            "('work', 'I/(Kristin Riggs)', 'for the past few years', 's01_e14_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u002_event_2",
+          "tuples": [
+            "('be', 'which', 'funny', 's01_e14_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u003_event_1",
+          "tuples": [
+            "('think', 'I/(Carol Willick)', 'you said they could shoot the spot without you', 's01_e14_c12_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u003_event_2",
+          "tuples": [
+            "('say', 'you/(Susan Bunch)', 'they could shoot the spot without you', 's01_e14_c12_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u003_event_3",
+          "tuples": [
+            "('shoot', 'they', 'the spot', 's01_e14_c12_u003')",
+            "('shoot', 'they', 'without you', 's01_e14_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u004_event_1",
+          "tuples": [
+            "('think', 'I/(Susan Bunch)', 'they could', 's01_e14_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u004_event_2",
+          "tuples": [
+            "('try', 'I/(Susan Bunch)', 'get back as soon as I can', 's01_e14_c12_u004')",
+            "('get', 'I/(Susan Bunch)', None, 's01_e14_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u004_event_3",
+          "tuples": [
+            "('be', 'I/(Susan Bunch)', 'sorry', 's01_e14_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u005_event_1",
+          "tuples": [
+            "('be', 'that', 'funny', 's01_e14_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u005_event_2",
+          "tuples": [
+            "('think', 'you/(Kristin Riggs)', 'would it be too weird if I invited Carol over to join us', 's01_e14_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u005_event_3",
+          "tuples": [
+            "('be', 'it', 'too weird', 's01_e14_c12_u005')",
+            "('invite', 'I/(Ross Geller)', 'over Carol', 's01_e14_c12_u005')",
+            "('invite', 'I/(Ross Geller)', 'to join us', 's01_e14_c12_u005')",
+            "('join', 'Carol', 'us', 's01_e14_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u005_event_4",
+          "tuples": [
+            "('be', 'she/(Carol Willick)', 'alone now', 's01_e14_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u005_event_5",
+          "tuples": [
+            "('be', 'she/(Carol Willick)', 'pregnant', 's01_e14_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u005_event_6",
+          "tuples": [
+            "('be', 'she/(Carol Willick)', 'sad', 's01_e14_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u006",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u006_event_1",
+          "tuples": [
+            "('guess', 'I/(Kristin Riggs)', None, 's01_e14_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u007",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u007_event_1",
+          "tuples": [
+            "('be', 'you/(Kristin Riggs)', 'sure', 's01_e14_c12_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u007_event_2",
+          "tuples": [
+            "('want', 'you/(Carol Willick)', 'come over and join us', 's01_e14_c12_u007')",
+            "('come', 'you/(Carol Willick)', 'over', 's01_e14_c12_u007')",
+            "('join', 'you/(Carol Willick)', 'us', 's01_e14_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u008",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u008_event_1",
+          "tuples": [
+            "('be', 'I/(Carol Willick)', 'fine', 's01_e14_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c12_u009",
+      "events": [
+        {
+          "event_id": "s01_e14_c12_u009_event_1",
+          "tuples": [
+            "('scooch', 'these people', None, 's01_e14_c12_u009')",
+            "('scooch', 'these people', 'down', 's01_e14_c12_u009')",
+            "('scooch', 'you guys', None, 's01_e14_c12_u009')",
+            "('try', 'we/(Ross Geller and others)', 'scooch', 's01_e14_c12_u009')",
+            "('scooch', 'we/(Ross Geller and others)', None, 's01_e14_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u009_event_2",
+          "tuples": [
+            "('be', 'this', 'Carol Willick', 's01_e14_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u009_event_3",
+          "tuples": [
+            "('teach', 'Carol', 'sixth grade', 's01_e14_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c12_u009_event_4",
+          "tuples": [
+            "('do', 'Kristin', 'something', 's01_e14_c12_u009')",
+            "('be', 'that', 'her major', 's01_e14_c12_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

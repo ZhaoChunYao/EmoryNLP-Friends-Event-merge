@@ -1,0 +1,41 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e19_c01_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('check', 'I/(Rachel Green)', None, 's01_e19_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('have', 'we/(Rachel Green)', 'Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, Lemon Soother', 's01_e19_c01_u001')",
+            "('be', 'there', 'one more', 's01_e19_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('wait', 'you/(unknown)', None, 's01_e19_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'you/(unknown)', 'the guy', 's01_e19_c01_u001')",
+            "('be', 'you/(unknown)', None, 's01_e19_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('ask', 'the guy', 'for the tea', 's01_e19_c01_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

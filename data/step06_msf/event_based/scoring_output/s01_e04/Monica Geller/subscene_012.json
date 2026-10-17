@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up forcefully, tells Speaker_01 to shut up, and confidently discusses drawing Speaker_02 out, showing assertive, outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly tells Speaker_01 to shut up and labels Speaker_02 a 'preppy animal,' indicating a confrontational, less agreeable tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; only brief, reactive comments."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows no nervousness and responds with confident assertions about others."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are social judgments rather than indications of curiosity, imagination, or openness to new ideas."
+  }
+}

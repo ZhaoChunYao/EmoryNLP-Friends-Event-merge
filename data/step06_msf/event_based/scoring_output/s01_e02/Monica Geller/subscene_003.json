@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being outgoing or reserved; the behavior centers on preparing for visitors and anxiety, not sociability."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker apologizes and says they do not want to give others more reasons to criticize, showing conciliatory, non-confrontational behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They have already fluffed the pillow and keep doing it to ensure it is right, indicating meticulous effort to prepare and avoid criticism."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They apologize out of fear of criticism and are described as acting chaotic and twirly; others tell them to calm down—clear signs of nervousness and sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Their focus is on avoiding any reasons for criticism and being overly cautious about others’ judgments, with no signs of curiosity or openness."
+  }
+}

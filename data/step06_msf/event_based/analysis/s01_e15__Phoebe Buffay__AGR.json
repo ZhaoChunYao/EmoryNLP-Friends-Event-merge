@@ -1,0 +1,40 @@
+{
+  "episode": "s01_e15",
+  "character": "Phoebe Buffay",
+  "trait": "AGR",
+  "source_dir": "big_five_output_anon\\s01_e15\\Phoebe Buffay",
+  "subscene_count": 6,
+  "items": [
+    {
+      "subscene": "subscene_001",
+      "score": 1,
+      "evidence": "Quickly abandons the deceptive plan upon Speaker_01’s arrival and joins in responding that the promotion news is great, showing supportive, friendly behavior."
+    },
+    {
+      "subscene": "subscene_002",
+      "score": 1,
+      "evidence": "Actively tries to help friends by sharing a head-chef opportunity from her massage client, says she thought of the chef friend first, and considers who needs a job (u023, u025)."
+    },
+    {
+      "subscene": "subscene_003",
+      "score": 1,
+      "evidence": "Helpfully proposes a specific dish for the dinner audition, aiming to support and assist the cook."
+    },
+    {
+      "subscene": "subscene_004",
+      "score": 1,
+      "evidence": "Cooperative and compliant—checks out the features shown, sits when prompted, and is straightforward without conflict."
+    },
+    {
+      "subscene": "subscene_005",
+      "score": 1,
+      "evidence": "TargetSpeaker straightforwardly explains the situation—stating that Speaker_02 blazed up and smoked a joint (u012, u014)—to clarify what is going on."
+    },
+    {
+      "subscene": "subscene_006",
+      "score": 1,
+      "evidence": "Apologizes when causing pain and offers to adjust (“Sorry. How about over here?” “What about this?”), showing consideration for the other person."
+    }
+  ],
+  "merged_text": "[subscene_001]\nscore: 1\nevidence: Quickly abandons the deceptive plan upon Speaker_01’s arrival and joins in responding that the promotion news is great, showing supportive, friendly behavior.\n\n--------------------------------------------------------------------------------\n\n[subscene_002]\nscore: 1\nevidence: Actively tries to help friends by sharing a head-chef opportunity from her massage client, says she thought of the chef friend first, and considers who needs a job (u023, u025).\n\n--------------------------------------------------------------------------------\n\n[subscene_003]\nscore: 1\nevidence: Helpfully proposes a specific dish for the dinner audition, aiming to support and assist the cook.\n\n--------------------------------------------------------------------------------\n\n[subscene_004]\nscore: 1\nevidence: Cooperative and compliant—checks out the features shown, sits when prompted, and is straightforward without conflict.\n\n--------------------------------------------------------------------------------\n\n[subscene_005]\nscore: 1\nevidence: TargetSpeaker straightforwardly explains the situation—stating that Speaker_02 blazed up and smoked a joint (u012, u014)—to clarify what is going on.\n\n--------------------------------------------------------------------------------\n\n[subscene_006]\nscore: 1\nevidence: Apologizes when causing pain and offers to adjust (“Sorry. How about over here?” “What about this?”), showing consideration for the other person."
+}

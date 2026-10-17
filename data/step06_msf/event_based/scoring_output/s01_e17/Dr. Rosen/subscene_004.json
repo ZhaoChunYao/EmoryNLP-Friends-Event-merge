@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates social conversation by asking about work (u046) and engages with positive comments about the food (u050), showing sociable participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds supportively with “Good for you” (u048) and compliments the hummus (u050), indicating polite, cooperative, and positive tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, planning, or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or insecurity; emotional state appears neutral."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking about another’s work (u046) and openness to trying and appreciating new food (u050)."
+  }
+}

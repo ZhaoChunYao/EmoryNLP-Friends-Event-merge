@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enters cheerfully with “Knock knock!” and addresses everyone at once, initiating conversation and asking, “Any nausea?”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses polite, friendly tone; even when the wrong person answers, responds with “thanks for sharing” rather than criticizing."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps the appointment on track by clarifying the question was for the mother-to-be and giving clear instruction: “lie back.”"
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm, confident, and even playful; no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of inventive/curious thinking beyond routine professional behavior in this brief interaction."
+  }
+}

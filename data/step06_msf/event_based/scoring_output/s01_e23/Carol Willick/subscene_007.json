@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes a brief protest ('But they're not here yet!') and an exclamation ('Oh, god.'), which doesn't show outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "When told to start pushing, TargetSpeaker objects because key people aren't present, but shows no clear hostility or uncooperativeness beyond that concern."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, planning, or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows anxiety and distress about starting the delivery without others present ('But they're not here yet!') and reacts with 'Oh, god,' indicating nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "There is no indication of curiosity, inventiveness, or resistance to new ideas in these lines."
+  }
+}

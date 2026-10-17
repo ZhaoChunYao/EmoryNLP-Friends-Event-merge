@@ -1,0 +1,70 @@
+{
+  "episode": "s01_e09",
+  "character": "Rachel Green",
+  "trait": "CON",
+  "source_dir": "big_five_output_anon\\s01_e09\\Rachel Green",
+  "subscene_count": 12,
+  "items": [
+    {
+      "subscene": "subscene_001",
+      "score": 1,
+      "evidence": "She says she is trying really hard, is checking with customers about coffee, and notices a customer signaling—showing diligence and task focus despite being new."
+    },
+    {
+      "subscene": "subscene_002",
+      "score": 0,
+      "evidence": "Mixed signals: caused an earlier spill (careless) but also tracks savings precisely (“$98.50 remains”) for a trip (organized)."
+    },
+    {
+      "subscene": "subscene_003",
+      "score": 0,
+      "evidence": "He tracks a savings goal but gives an initial incorrect figure and mentions breaking a cup; these mixed signals don’t clearly show either organized efficiency or careless sloppiness."
+    },
+    {
+      "subscene": "subscene_004",
+      "score": 1,
+      "evidence": "TargetSpeaker decides to give up the Vail trip and seeing family after not making the money, indicating responsible, practical planning."
+    },
+    {
+      "subscene": "subscene_005",
+      "score": 0,
+      "evidence": "No actions indicate organization, planning, or diligence."
+    },
+    {
+      "subscene": "subscene_006",
+      "score": 0,
+      "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness."
+    },
+    {
+      "subscene": "subscene_007",
+      "score": 0,
+      "evidence": "No behaviors indicating organization or diligence are shown."
+    },
+    {
+      "subscene": "subscene_008",
+      "score": 1,
+      "evidence": "TargetSpeaker has already gotten the tickets, knows the exact departure time in five hours, and is going to get their stuff—showing planning and organization."
+    },
+    {
+      "subscene": "subscene_009",
+      "score": 0,
+      "evidence": "No clear behaviors showing organization or carelessness; “I have to go” is too vague to judge conscientiousness."
+    },
+    {
+      "subscene": "subscene_010",
+      "score": 0,
+      "evidence": "No clear behavior showing organization or diligence beyond simple compliance."
+    },
+    {
+      "subscene": "subscene_011",
+      "score": 1,
+      "evidence": "Tracks logistics and details (who has the keys, recalling earlier statement “Got the keys”) and mentions needing to get their ticket, showing planning and organization."
+    },
+    {
+      "subscene": "subscene_012",
+      "score": 0,
+      "evidence": "She denies having or claiming to have the keys but there’s no clear evidence she was responsible for them or behaved carelessly beyond the dispute (u008, u012)."
+    }
+  ],
+  "merged_text": "[subscene_001]\nscore: 1\nevidence: She says she is trying really hard, is checking with customers about coffee, and notices a customer signaling—showing diligence and task focus despite being new.\n\n--------------------------------------------------------------------------------\n\n[subscene_002]\nscore: 0\nevidence: Mixed signals: caused an earlier spill (careless) but also tracks savings precisely (“$98.50 remains”) for a trip (organized).\n\n--------------------------------------------------------------------------------\n\n[subscene_003]\nscore: 0\nevidence: He tracks a savings goal but gives an initial incorrect figure and mentions breaking a cup; these mixed signals don’t clearly show either organized efficiency or careless sloppiness.\n\n--------------------------------------------------------------------------------\n\n[subscene_004]\nscore: 1\nevidence: TargetSpeaker decides to give up the Vail trip and seeing family after not making the money, indicating responsible, practical planning.\n\n--------------------------------------------------------------------------------\n\n[subscene_005]\nscore: 0\nevidence: No actions indicate organization, planning, or diligence.\n\n--------------------------------------------------------------------------------\n\n[subscene_006]\nscore: 0\nevidence: No behavior indicating organization/efficiency or carelessness/sloppiness.\n\n--------------------------------------------------------------------------------\n\n[subscene_007]\nscore: 0\nevidence: No behaviors indicating organization or diligence are shown.\n\n--------------------------------------------------------------------------------\n\n[subscene_008]\nscore: 1\nevidence: TargetSpeaker has already gotten the tickets, knows the exact departure time in five hours, and is going to get their stuff—showing planning and organization.\n\n--------------------------------------------------------------------------------\n\n[subscene_009]\nscore: 0\nevidence: No clear behaviors showing organization or carelessness; “I have to go” is too vague to judge conscientiousness.\n\n--------------------------------------------------------------------------------\n\n[subscene_010]\nscore: 0\nevidence: No clear behavior showing organization or diligence beyond simple compliance.\n\n--------------------------------------------------------------------------------\n\n[subscene_011]\nscore: 1\nevidence: Tracks logistics and details (who has the keys, recalling earlier statement “Got the keys”) and mentions needing to get their ticket, showing planning and organization.\n\n--------------------------------------------------------------------------------\n\n[subscene_012]\nscore: 0\nevidence: She denies having or claiming to have the keys but there’s no clear evidence she was responsible for them or behaved carelessly beyond the dispute (u008, u012)."
+}

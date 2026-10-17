@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker took social initiative by coming to the coffeehouse in person, interacted with the group, and addressed everyone with a goodbye while proposing getting together later."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly came to make sure Speaker_05 was okay, explained her attempts honestly (wrong number, got the correct one, called, then came), and cooperatively suggested meeting later."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "After discovering she had the wrong number, TargetSpeaker obtained the correct number from Information, attempted calls, and when there was no answer, followed through by coming in person to check on Speaker_05."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks assertively (“you should listen to me”), calmly proposes a plan, and comfortably addresses the group, showing confidence and no visible nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, creativity, or unconventional thinking are present in this brief exchange."
+  }
+}

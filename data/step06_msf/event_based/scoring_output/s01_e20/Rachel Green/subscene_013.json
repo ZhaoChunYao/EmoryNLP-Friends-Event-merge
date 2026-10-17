@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and outspoken in a tense group moment, demanding clarity about who is being addressed and openly revealing past sexual encounters in front of others."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker uses cutting, sarcastic remarks about the affair (e.g., saying the second time Speaker_01 couldn’t have identified them), which is confrontational rather than cooperative or gentle."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence about organization or reliability; statements focus on confrontation and disclosures, not task behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker appears calm and confident while bluntly discussing sensitive details, showing no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker freely discusses taboo/sexual details and uses witty, non-cautious commentary, indicating openness rather than cautiousness."
+  }
+}

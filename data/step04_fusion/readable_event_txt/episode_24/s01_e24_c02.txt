@@ -1,0 +1,419 @@
+event_id: s01_e24_c02_u001_e1
+utterance_id: s01_e24_c02_u001
+  tuple: ('get', 'we/Monica Geller', 'the cole slaw', 's01_e24_c02_u001')
+
+event_id: s01_e24_c02_u001_e2
+utterance_id: s01_e24_c02_u001
+  tuple: ('get', 'we/Monica Geller', 'the buns', 's01_e24_c02_u001')
+
+event_id: s01_e24_c02_u002_e1
+utterance_id: s01_e24_c02_u002
+  tuple: ('get', 'we/Phoebe Buffay', 'the ground-up flesh of formerly cute cows and turkeys', 's01_e24_c02_u002')
+
+event_id: s01_e24_c02_u004_e1
+utterance_id: s01_e24_c02_u004
+  tuple: ('be', 'Men', 'here', 's01_e24_c02_u004')
+
+event_id: s01_e24_c02_u005_e1
+utterance_id: s01_e24_c02_u005
+  tuple: ('make', 'we/Joey Tribbiani', 'fire', 's01_e24_c02_u005')
+
+event_id: s01_e24_c02_u005_e2
+utterance_id: s01_e24_c02_u005
+  tuple: ('cook', 'we/Joey Tribbiani', 'meat', 's01_e24_c02_u005')
+
+event_id: s01_e24_c02_u006_e1
+utterance_id: s01_e24_c02_u006
+  tuple: ('put out', 'we/Chandler Bing', 'fire', 's01_e24_c02_u006')
+  tuple: ('put out', 'we/Chandler Bing', 'by peeing', 's01_e24_c02_u006')
+
+event_id: s01_e24_c02_u006_e2
+utterance_id: s01_e24_c02_u006
+  tuple: ('get', 'we/Chandler Bing', 'invited back', 's01_e24_c02_u006')
+
+event_id: s01_e24_c02_u008_e1
+utterance_id: s01_e24_c02_u008
+  tuple: ('call', 'Melanie', None, 's01_e24_c02_u008')
+  tuple: ('say', 'Melanie', 'she is gonna be late', 's01_e24_c02_u008')
+  tuple: ('be', 'she/Melanie', 'late', 's01_e24_c02_u008')
+
+event_id: s01_e24_c02_u010_e1
+utterance_id: s01_e24_c02_u010
+  tuple: ('go', 'things', None, 's01_e24_c02_u010')
+  tuple: ('go', 'things', 'with you two', 's01_e24_c02_u010')
+  tuple: ('become', 'she/Melanie', 'your special someone', 's01_e24_c02_u010')
+
+event_id: s01_e24_c02_u011_e1
+utterance_id: s01_e24_c02_u011
+  tuple: ('know', 'I/Joey Tribbiani', None, 's01_e24_c02_u011')
+
+event_id: s01_e24_c02_u011_e2
+utterance_id: s01_e24_c02_u011
+  tuple: ('be', 'she/Melanie', 'pretty great', 's01_e24_c02_u011')
+
+event_id: s01_e24_c02_u012_e1
+utterance_id: s01_e24_c02_u012
+  tuple: ('think', 'she/Melanie', 'of your little science project', 's01_e24_c02_u012')
+
+event_id: s01_e24_c02_u013_e1
+utterance_id: s01_e24_c02_u013
+  tuple: ('think', 'you/Monica Geller', "I'm gonna tell a girl I like that I'm also seeing a cup", 's01_e24_c02_u013')
+  tuple: ('tell', 'I/Joey Tribbiani', 'a girl I like', 's01_e24_c02_u013')
+  tuple: ('like', 'I/Joey Tribbiani', 'a girl', 's01_e24_c02_u013')
+  tuple: ('see', 'I/Joey Tribbiani', 'a cup', 's01_e24_c02_u013')
+
+event_id: s01_e24_c02_u015_e1
+utterance_id: s01_e24_c02_u015
+  tuple: ('want', 'she/Melanie', 'to have sex with me', 's01_e24_c02_u015')
+  tuple: ('have', 'she/Melanie', 'sex', 's01_e24_c02_u015')
+  tuple: ('have', 'she/Melanie', 'with me', 's01_e24_c02_u015')
+
+event_id: s01_e24_c02_u017_e1
+utterance_id: s01_e24_c02_u017
+  tuple: ('get', 'I/Joey Tribbiani', 'a week left', 's01_e24_c02_u017')
+  tuple: ('go', 'I/Joey Tribbiani', 'in the program', 's01_e24_c02_u017')
+
+event_id: s01_e24_c02_u017_e2
+utterance_id: s01_e24_c02_u017
+  tuple: ('want', 'I/Joey Tribbiani', 'to get the money', 's01_e24_c02_u017')
+  tuple: ('get', 'I/Joey Tribbiani', 'the money', 's01_e24_c02_u017')
+  tuple: ('allow', 'I/Joey Tribbiani', 'not to conduct any personal experiments', 's01_e24_c02_u017')
+  tuple: ('conduct', 'I/Joey Tribbiani', 'personal experiments', 's01_e24_c02_u017')
+  tuple: ('allow', 'I/Joey Tribbiani', 'according to the rules', 's01_e24_c02_u017')
+
+event_id: s01_e24_c02_u018_e1
+utterance_id: s01_e24_c02_u018
+  tuple: ('know', 'we/Monica Geller', 'what you mean', 's01_e24_c02_u018')
+  tuple: ('mean', 'you/Joey Tribbiani', None, 's01_e24_c02_u018')
+
+event_id: s01_e24_c02_u023_e1
+utterance_id: s01_e24_c02_u023
+  tuple: ('think', 'you/Ross Geller', 'this barbecue was gonna last', 's01_e24_c02_u023')
+  tuple: ('last', 'this barbecue', None, 's01_e24_c02_u023')
+
+event_id: s01_e24_c02_u024_e1
+utterance_id: s01_e24_c02_u024
+  tuple: ('go', 'I/Ross Geller', 'to China', 's01_e24_c02_u024')
+
+event_id: s01_e24_c02_u026_e1
+utterance_id: s01_e24_c02_u026
+  tuple: ('go', 'you/Ross Geller', 'to China', 's01_e24_c02_u026')
+
+event_id: s01_e24_c02_u027_e1
+utterance_id: s01_e24_c02_u027
+  tuple: ('find', 'someone', 'a bone', 's01_e24_c02_u027')
+
+event_id: s01_e24_c02_u027_e2
+utterance_id: s01_e24_c02_u027
+  tuple: ('want', 'we/Ross Geller', 'the bone', 's01_e24_c02_u027')
+
+event_id: s01_e24_c02_u027_e3
+utterance_id: s01_e24_c02_u027
+  tuple: ('want', 'they/(the people who found the bone)', 'us to have the bone', 's01_e24_c02_u027')
+  tuple: ('have', 'us/Ross Geller', 'the bone', 's01_e24_c02_u027')
+
+event_id: s01_e24_c02_u027_e4
+utterance_id: s01_e24_c02_u027
+  tuple: ('be', 'it/(China trip)', 'for the museum', 's01_e24_c02_u027')
+  tuple: ('go', 'I/Ross Geller', 'over there', 's01_e24_c02_u027')
+  tuple: ('try', 'I/Ross Geller', 'to persuade them to give us the bone', 's01_e24_c02_u027')
+  tuple: ('persuade', 'I/Ross Geller', 'them to give us the bone', 's01_e24_c02_u027')
+  tuple: ('give', 'they/(the people who found the bone)', 'the bone', 's01_e24_c02_u027')
+  tuple: ('give', 'they/(the people who found the bone)', 'to us', 's01_e24_c02_u027')
+  tuple: ('be', 'I/Ross Geller', 'gone', 's01_e24_c02_u027')
+  tuple: ('be', 'I/Ross Geller', 'for like a week', 's01_e24_c02_u027')
+
+event_id: s01_e24_c02_u027_e5
+utterance_id: s01_e24_c02_u027
+  tuple: ('want', 'you/(everyone there)', 'to reach me', 's01_e24_c02_u027')
+  tuple: ('reach', 'you/(everyone there)', 'me', 's01_e24_c02_u027')
+
+event_id: s01_e24_c02_u029_e1
+utterance_id: s01_e24_c02_u029
+  tuple: ('take', 'you/Monica Geller', 'it', 's01_e24_c02_u029')
+  tuple: ('take', 'you/Monica Geller', "to Carol's", 's01_e24_c02_u029')
+  tuple: ('show', 'you/Monica Geller', 'it', 's01_e24_c02_u029')
+  tuple: ('show', 'you/Monica Geller', 'to Ben', 's01_e24_c02_u029')
+  tuple: ('forget', 'he/Ben Geller', 'me', 's01_e24_c02_u029')
+
+event_id: s01_e24_c02_u032_e1
+utterance_id: s01_e24_c02_u032
+  tuple: ('be', 'I/Phoebe Buffay', 'the head', 's01_e24_c02_u032')
+
+event_id: s01_e24_c02_u032_e2
+utterance_id: s01_e24_c02_u032
+  tuple: ('be', 'this barbecue', 'very fun', 's01_e24_c02_u032')
+
+event_id: s01_e24_c02_u033_e1
+utterance_id: s01_e24_c02_u033
+  tuple: ('be', 'Rachel Green', 'here', 's01_e24_c02_u033')
+
+event_id: s01_e24_c02_u033_e2
+utterance_id: s01_e24_c02_u033
+  tuple: ('want', 'I/Ross Geller', 'to wish her a happy birthday before I left', 's01_e24_c02_u033')
+  tuple: ('wish', 'I/Ross Geller', 'her a happy birthday', 's01_e24_c02_u033')
+  tuple: ('leave', 'I/Ross Geller', None, 's01_e24_c02_u033')
+
+event_id: s01_e24_c02_u034_e1
+utterance_id: s01_e24_c02_u034
+  tuple: ('be', 'she/Rachel Green', 'out', 's01_e24_c02_u034')
+  tuple: ('have', 'she/Rachel Green', 'drinks', 's01_e24_c02_u034')
+  tuple: ('have', 'she/Rachel Green', 'with Carl', 's01_e24_c02_u034')
+
+event_id: s01_e24_c02_u035_e1
+utterance_id: s01_e24_c02_u035
+  tuple: ('be', 'who', 'Carl', 's01_e24_c02_u035')
+
+event_id: s01_e24_c02_u036_e1
+utterance_id: s01_e24_c02_u036
+  tuple: ('meet', 'she/Rachel Green', 'that guy', 's01_e24_c02_u036')
+  tuple: ('meet', 'she/Rachel Green', 'at the coffeehouse', 's01_e24_c02_u036')
+
+event_id: s01_e24_c02_u041_e1
+utterance_id: s01_e24_c02_u041
+  tuple: ('go', 'I/Ross Geller', None, 's01_e24_c02_u041')
+  tuple: ('say', 'I/Ross Geller', 'goodbye to the guys', 's01_e24_c02_u041')
+
+event_id: s01_e24_c02_u042_e1
+utterance_id: s01_e24_c02_u042
+  tuple: ('tell', 'you/Ross Geller', 'that bone story', 's01_e24_c02_u042')
+  tuple: ('tell', 'you/Ross Geller', 'to them', 's01_e24_c02_u042')
+
+event_id: s01_e24_c02_u047_e1
+utterance_id: s01_e24_c02_u047
+  tuple: ('go', 'I/Ross Geller', 'to China', 's01_e24_c02_u047')
+
+event_id: s01_e24_c02_u049_e1
+utterance_id: s01_e24_c02_u049
+  tuple: ('know', 'you guys/Joey Tribbiani and Chandler Bing', 'who Carl is', 's01_e24_c02_u049')
+
+event_id: s01_e24_c02_u051_e1
+utterance_id: s01_e24_c02_u051
+  tuple: ('have', 'Rachel Green', 'drinks', 's01_e24_c02_u051')
+  tuple: ('have', 'Rachel Green', 'with him', 's01_e24_c02_u051')
+
+event_id: s01_e24_c02_u052_e1
+utterance_id: s01_e24_c02_u052
+  tuple: ('do', 'she/Rachel Green', 'that', 's01_e24_c02_u052')
+
+event_id: s01_e24_c02_u052_e2
+utterance_id: s01_e24_c02_u052
+  tuple: ('show', 'she/Rachel Green', 'any interest in you/Ross Geller', 's01_e24_c02_u052')
+
+event_id: s01_e24_c02_u053_e1
+utterance_id: s01_e24_c02_u053
+  tuple: ('forget', 'you/Ross Geller', 'about her', 's01_e24_c02_u053')
+
+event_id: s01_e24_c02_u054_e1
+utterance_id: s01_e24_c02_u054
+  tuple: ('be', 'he/Chandler Bing', 'right', 's01_e24_c02_u054')
+
+event_id: s01_e24_c02_u054_e2
+utterance_id: s01_e24_c02_u054
+  tuple: ('move on', 'you/Ross Geller', None, 's01_e24_c02_u054')
+
+event_id: s01_e24_c02_u054_e3
+utterance_id: s01_e24_c02_u054
+  tuple: ('go', 'you/Ross Geller', 'to China', 's01_e24_c02_u054')
+
+event_id: s01_e24_c02_u054_e4
+utterance_id: s01_e24_c02_u054
+  tuple: ('eat', 'you/Ross Geller', 'Chinese food', 's01_e24_c02_u054')
+
+event_id: s01_e24_c02_u055_e1
+utterance_id: s01_e24_c02_u055
+  tuple: ('call', 'they/(people there)', 'it food', 's01_e24_c02_u055')
+
+event_id: s01_e24_c02_u056_e1
+utterance_id: s01_e24_c02_u056
+  tuple: ('guess', 'I/Ross Geller', None, 's01_e24_c02_u056')
+
+event_id: s01_e24_c02_u056_e2
+utterance_id: s01_e24_c02_u056
+  tuple: ('know', 'I/Ross Geller', None, 's01_e24_c02_u056')
+
+event_id: s01_e24_c02_u056_e3
+utterance_id: s01_e24_c02_u056
+  tuple: ('give', 'you/Joey Tribbiani and Chandler Bing', 'this', 's01_e24_c02_u056')
+  tuple: ('give', 'you/Joey Tribbiani and Chandler Bing', 'to her', 's01_e24_c02_u056')
+  tuple: ('give', 'you/Joey Tribbiani and Chandler Bing', 'for me', 's01_e24_c02_u056')
+
+event_id: s01_e24_c02_u057_e1
+utterance_id: s01_e24_c02_u057
+  tuple: ('look out', 'we/Joey Tribbiani and Chandler Bing', 'for you/Ross Geller', 's01_e24_c02_u057')
+
+event_id: s01_e24_c02_u059_e1
+utterance_id: s01_e24_c02_u059
+  tuple: ('want', 'we/Joey Tribbiani and Chandler Bing', 'you/Ross Geller to be happy', 's01_e24_c02_u059')
+  tuple: ('be', 'you/Ross Geller', 'happy', 's01_e24_c02_u059')
+
+event_id: s01_e24_c02_u059_e2
+utterance_id: s01_e24_c02_u059
+  tuple: ('have', 'I/Joey Tribbiani', 'a couple beers', 's01_e24_c02_u059')
+  tuple: ('have', 'I/Joey Tribbiani', 'in me', 's01_e24_c02_u059')
+
+event_id: s01_e24_c02_u059_e3
+utterance_id: s01_e24_c02_u059
+  tuple: ('love', 'I/Joey Tribbiani', 'you/Ross Geller', 's01_e24_c02_u059')
+
+event_id: s01_e24_c02_u060_e1
+utterance_id: s01_e24_c02_u060
+  tuple: ('be', 'I/Chandler Bing', 'on my first', 's01_e24_c02_u060')
+
+event_id: s01_e24_c02_u060_e2
+utterance_id: s01_e24_c02_u060
+  tuple: ('think', 'I/Chandler Bing', 'you are nice', 's01_e24_c02_u060')
+  tuple: ('be', 'you/Ross Geller', 'nice', 's01_e24_c02_u060')
+
+event_id: s01_e24_c02_u062_e1
+utterance_id: s01_e24_c02_u062
+  tuple: ('start', 'me and my friends', 'this whole fruit basket business', 's01_e24_c02_u062')
+
+event_id: s01_e24_c02_u062_e2
+utterance_id: s01_e24_c02_u062
+  tuple: ('call', 'we/Melanie and friends', "ourselves 'The Three Basketeers'", 's01_e24_c02_u062')
+
+event_id: s01_e24_c02_u065_e1
+utterance_id: s01_e24_c02_u065
+  tuple: ('like', 'everybody', 'their burgers', 's01_e24_c02_u065')
+
+event_id: s01_e24_c02_u068_e1
+utterance_id: s01_e24_c02_u068
+  tuple: ('go', 'it', None, 's01_e24_c02_u068')
+
+event_id: s01_e24_c02_u068_e2
+utterance_id: s01_e24_c02_u068
+  tuple: ('hold up', 'you/Joey Tribbiani', None, 's01_e24_c02_u068')
+
+event_id: s01_e24_c02_u069_e1
+utterance_id: s01_e24_c02_u069
+  tuple: ('think', 'she/Melanie', "tonight is the night we're gonna complete the transaction", 's01_e24_c02_u069')
+  tuple: ('be', 'tonight', "the night we're gonna complete the transaction", 's01_e24_c02_u069')
+  tuple: ('complete', 'we/Joey Tribbiani and Melanie', 'the transaction', 's01_e24_c02_u069')
+
+event_id: s01_e24_c02_u072_e1
+utterance_id: s01_e24_c02_u072
+  tuple: ('think', 'you/Joey Tribbiani', 'about being there for her', 's01_e24_c02_u072')
+  tuple: ('be there', 'you/Joey Tribbiani', 'for her', 's01_e24_c02_u072')
+
+event_id: s01_e24_c02_u073_e1
+utterance_id: s01_e24_c02_u073
+  tuple: ('mean', 'you/Monica Geller', 'what', 's01_e24_c02_u073')
+
+event_id: s01_e24_c02_u077_e1
+utterance_id: s01_e24_c02_u077
+  tuple: ('think', 'you/Joey Tribbiani', 'about it', 's01_e24_c02_u077')
+
+event_id: s01_e24_c02_u079_e1
+utterance_id: s01_e24_c02_u079
+  tuple: ('guess', 'I/Rachel Green', 'this is from ...', 's01_e24_c02_u079')
+
+event_id: s01_e24_c02_u081_e1
+utterance_id: s01_e24_c02_u081
+  tuple: ('thank', 'I/Rachel Green', 'Melanie', 's01_e24_c02_u081')
+
+event_id: s01_e24_c02_u082_e1
+utterance_id: s01_e24_c02_u082
+  tuple: ('be', 'this one right here', 'from me', 's01_e24_c02_u082')
+
+event_id: s01_e24_c02_u083_e1
+utterance_id: s01_e24_c02_u083
+  tuple: ('be', 'it', 'light', 's01_e24_c02_u083')
+  tuple: ('rattle', 'it', None, 's01_e24_c02_u083')
+  tuple: ('be', 'it', 'Travel Scrabble', 's01_e24_c02_u083')
+
+event_id: s01_e24_c02_u083_e2
+utterance_id: s01_e24_c02_u083
+  tuple: ('thank', 'I/Rachel Green', 'you/Chandler Bing', 's01_e24_c02_u083')
+
+event_id: s01_e24_c02_u085_e1
+utterance_id: s01_e24_c02_u085
+  tuple: ('be', 'this one', 'from Joey', 's01_e24_c02_u085')
+  tuple: ('feel', 'it', 'like a book', 's01_e24_c02_u085')
+  tuple: ('think', 'I/Rachel Green', 'it is a book', 's01_e24_c02_u085')
+  tuple: ('be', 'it', 'a book', 's01_e24_c02_u085')
+
+event_id: s01_e24_c02_u086_e1
+utterance_id: s01_e24_c02_u086
+  tuple: ('be', 'it', 'Dr. Seuss', 's01_e24_c02_u086')
+
+event_id: s01_e24_c02_u087_e1
+utterance_id: s01_e24_c02_u087
+  tuple: ('get', 'that book', 'me', 's01_e24_c02_u087')
+  tuple: ('get', 'that book', 'through some tough times', 's01_e24_c02_u087')
+
+event_id: s01_e24_c02_u088_e1
+utterance_id: s01_e24_c02_u088
+  tuple: ('be', 'a little child', 'inside this man', 's01_e24_c02_u088')
+
+event_id: s01_e24_c02_u089_e1
+utterance_id: s01_e24_c02_u089
+  tuple: ('say', 'the doctors', 'he will die if they remove it', 's01_e24_c02_u089')
+  tuple: ('remove', 'they/the doctors', 'it', 's01_e24_c02_u089')
+  tuple: ('die', 'he/Joey Tribbiani', None, 's01_e24_c02_u089')
+
+event_id: s01_e24_c02_u091_e1
+utterance_id: s01_e24_c02_u091
+  tuple: ('be', 'this', 'from who', 's01_e24_c02_u091')
+
+event_id: s01_e24_c02_u093_e1
+utterance_id: s01_e24_c02_u093
+  tuple: ('remember', 'he/Ross Geller', None, 's01_e24_c02_u093')
+
+event_id: s01_e24_c02_u095_e1
+utterance_id: s01_e24_c02_u095
+  tuple: ('be', 'it', 'months ago', 's01_e24_c02_u095')
+  tuple: ('walk', 'we/Rachel Green and Ross Geller', None, 's01_e24_c02_u095')
+  tuple: ('walk', 'we/Rachel Green and Ross Geller', 'by this antique store', 's01_e24_c02_u095')
+
+event_id: s01_e24_c02_u095_e2
+utterance_id: s01_e24_c02_u095
+  tuple: ('see', 'I/Rachel Green', 'this pin', 's01_e24_c02_u095')
+  tuple: ('see', 'I/Rachel Green', 'in the window', 's01_e24_c02_u095')
+
+event_id: s01_e24_c02_u095_e3
+utterance_id: s01_e24_c02_u095
+  tuple: ('tell', 'I/Rachel Green', 'him/Ross Geller', 's01_e24_c02_u095')
+  tuple: ('have', 'my grandmother', 'one', 's01_e24_c02_u095')
+  tuple: ('have', 'my grandmother', 'when I was a little girl', 's01_e24_c02_u095')
+  tuple: ('be', 'I/Rachel Green', 'a little girl', 's01_e24_c02_u095')
+
+event_id: s01_e24_c02_u095_e4
+utterance_id: s01_e24_c02_u095
+  tuple: ('believe', 'I/Rachel Green', 'he remembered', 's01_e24_c02_u095')
+  tuple: ('remember', 'he/Ross Geller', None, 's01_e24_c02_u095')
+
+event_id: s01_e24_c02_u096_e1
+utterance_id: s01_e24_c02_u096
+  tuple: ('play', 'you/Rachel Green', 'it', 's01_e24_c02_u096')
+  tuple: ('play', 'you/Rachel Green', 'on a plane', 's01_e24_c02_u096')
+
+event_id: s01_e24_c02_u097_e1
+utterance_id: s01_e24_c02_u097
+  tuple: ('be', 'it', 'so pretty', 's01_e24_c02_u097')
+  tuple: ('cost', 'this/the pin', 'him a fortune', 's01_e24_c02_u097')
+
+event_id: s01_e24_c02_u098_e1
+utterance_id: s01_e24_c02_u098
+  tuple: ('believe', 'I/Monica Geller', 'he did this', 's01_e24_c02_u098')
+  tuple: ('do', 'he/Ross Geller', 'this', 's01_e24_c02_u098')
+
+event_id: s01_e24_c02_u099_e1
+utterance_id: s01_e24_c02_u099
+  tuple: ('remember', 'you/Ross Geller', 'back in college', 's01_e24_c02_u099')
+  tuple: ('fall in love', 'he/Ross Geller', 'with Carol', 's01_e24_c02_u099')
+  tuple: ('buy', 'he/Ross Geller', 'that ridiculously expensive crystal duck', 's01_e24_c02_u099')
+  tuple: ('buy', 'he/Ross Geller', 'for her', 's01_e24_c02_u099')
+
+event_id: s01_e24_c02_u101_e1
+utterance_id: s01_e24_c02_u101
+  tuple: ('say', 'you/Chandler Bing', 'what', 's01_e24_c02_u101')
+
+event_id: s01_e24_c02_u107_e1
+utterance_id: s01_e24_c02_u107
+  tuple: ('keep', 'you/Chandler Bing', 'rubbing your head', 's01_e24_c02_u107')
+
+event_id: s01_e24_c02_u107_e2
+utterance_id: s01_e24_c02_u107
+  tuple: ('turn back', 'that', 'time', 's01_e24_c02_u107')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives task-focused directions in the kitchen but shows no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Accommodates others by promising tater tots for Speaker_03’s tradition and keeping mashed potatoes lumpy for Speaker_05; even offers to make three kinds of potatoes."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks details (whipped vs. lumpy), corrects the process, and organizes the meal plan (multiple potato preparations) to meet people’s needs."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently corrects others and sets plans without showing worry or distress; a brief exclamation (“Ah!”) is not sustained anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Flexibly adapts the menu to include different styles (tater tots and lumpy mash) and offers variety by making three kinds of potatoes, showing openness to others’ traditions."
+  }
+}

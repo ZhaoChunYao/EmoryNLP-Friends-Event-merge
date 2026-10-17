@@ -1,0 +1,151 @@
+event_id: s01_e11_c06_u001_e1
+utterance_id: s01_e11_c06_u001
+  tuple: ('be', 'Chandler', 'here', 's01_e11_c06_u001')
+
+event_id: s01_e11_c06_u004_e1
+utterance_id: s01_e11_c06_u004
+  tuple: ('tell', 'you/Joey Tribbiani', None, 's01_e11_c06_u004')
+  tuple: ('think', 'I/Ross Geller', "we don't need to tell Chandler", 's01_e11_c06_u004')
+  tuple: ('need', 'we/Ross Geller+Joey Tribbiani', 'to tell Chandler', 's01_e11_c06_u004')
+  tuple: ('tell', 'we/Ross Geller+Joey Tribbiani', 'Chandler Bing', 's01_e11_c06_u004')
+
+event_id: s01_e11_c06_u004_e2
+utterance_id: s01_e11_c06_u004
+  tuple: ('be', 'it/(last night)', 'just a kiss', 's01_e11_c06_u004')
+
+event_id: s01_e11_c06_u007_e1
+utterance_id: s01_e11_c06_u007
+  tuple: ('break', 'you/Ross Geller', 'the code', 's01_e11_c06_u007')
+
+event_id: s01_e11_c06_u009_e1
+utterance_id: s01_e11_c06_u009
+  tuple: ('kiss', 'you/(generic)', "your friend's mom", 's01_e11_c06_u009')
+
+event_id: s01_e11_c06_u009_e2
+utterance_id: s01_e11_c06_u009
+  tuple: ('be', 'Sisters', 'okay', 's01_e11_c06_u009')
+
+event_id: s01_e11_c06_u011_e1
+utterance_id: s01_e11_c06_u011
+  tuple: ('do', 'you guys/Ross Geller+Joey Tribbiani', 'out here', 's01_e11_c06_u011')
+
+event_id: s01_e11_c06_u012_e1
+utterance_id: s01_e11_c06_u012
+  tuple: ('discuss', 'Joey and I/Joey Tribbiani+Ross Geller', 'getting in an early morning racquetball game', 's01_e11_c06_u012')
+  tuple: ('get', 'Joey and I/Joey Tribbiani+Ross Geller', 'in an early morning racquetball game', 's01_e11_c06_u012')
+
+event_id: s01_e11_c06_u012_e2
+utterance_id: s01_e11_c06_u012
+  tuple: ('oversleep', 'somebody', None, 's01_e11_c06_u012')
+
+event_id: s01_e11_c06_u013_e1
+utterance_id: s01_e11_c06_u013
+  tuple: ('have', 'you/Ross Geller', 'your racket', 's01_e11_c06_u013')
+
+event_id: s01_e11_c06_u014_e1
+utterance_id: s01_e11_c06_u014
+  tuple: ('restring', "it/(Ross's racket)", None, 's01_e11_c06_u014')
+
+event_id: s01_e11_c06_u014_e2
+utterance_id: s01_e11_c06_u014
+  tuple: ('suppose', 'somebody', 'to bring me one', 's01_e11_c06_u014')
+  tuple: ('bring', 'somebody', 'one', 's01_e11_c06_u014')
+
+event_id: s01_e11_c06_u015_e1
+utterance_id: s01_e11_c06_u015
+  tuple: ('call', 'you/Ross Geller', None, 's01_e11_c06_u015')
+
+event_id: s01_e11_c06_u015_e2
+utterance_id: s01_e11_c06_u015
+  tuple: ('leave', 'you/Ross Geller', 'your grip size', 's01_e11_c06_u015')
+
+event_id: s01_e11_c06_u016_e1
+utterance_id: s01_e11_c06_u016
+  tuple: ('spend', 'you guys/Ross Geller+Joey Tribbiani', 'waaaay too much time together', 's01_e11_c06_u016')
+
+event_id: s01_e11_c06_u017_e1
+utterance_id: s01_e11_c06_u017
+  tuple: ('be', 'I/Ross Geller', 'scum', 's01_e11_c06_u017')
+
+event_id: s01_e11_c06_u018_e1
+utterance_id: s01_e11_c06_u018
+  tuple: ('let', 'you/Ross Geller', 'this happen', 's01_e11_c06_u018')
+  tuple: ('happen', 'this/(the kiss incident)', None, 's01_e11_c06_u018')
+
+event_id: s01_e11_c06_u019_e1
+utterance_id: s01_e11_c06_u019
+  tuple: ('know', 'I/Ross Geller', None, 's01_e11_c06_u019')
+
+event_id: s01_e11_c06_u019_e2
+utterance_id: s01_e11_c06_u019
+  tuple: ('be like', 'it/(the situation)', "she's a regular mom", 's01_e11_c06_u019')
+  tuple: ('be', "she/Chandler's mom", 'a regular mom', 's01_e11_c06_u019')
+
+event_id: s01_e11_c06_u019_e3
+utterance_id: s01_e11_c06_u019
+  tuple: ('be', "she/Chandler's mom", 'sexy', 's01_e11_c06_u019')
+
+event_id: s01_e11_c06_u020_e1
+utterance_id: s01_e11_c06_u020
+  tuple: ('think', 'you/Ross Geller', 'my mom is sexy', 's01_e11_c06_u020')
+  tuple: ('be', 'my mom/Gloria Tribbiani', 'sexy', 's01_e11_c06_u020')
+
+event_id: s01_e11_c06_u022_e1
+utterance_id: s01_e11_c06_u022
+  tuple: ('have', 'I/Joey Tribbiani', 'you know that Gloria Tribbiani was a handsome woman in her day', 's01_e11_c06_u022')
+  tuple: ('know', 'you/Ross Geller', 'that Gloria Tribbiani was a handsome woman in her day', 's01_e11_c06_u022')
+  tuple: ('be', 'Gloria Tribbiani', 'a handsome woman in her day', 's01_e11_c06_u022')
+
+event_id: s01_e11_c06_u022_e2
+utterance_id: s01_e11_c06_u022
+  tuple: ('think', 'you/Ross Geller', "it's easy giving birth to seven children", 's01_e11_c06_u022')
+  tuple: ('be', 'it/(giving birth to seven children)', 'easy', 's01_e11_c06_u022')
+
+event_id: s01_e11_c06_u023_e1
+utterance_id: s01_e11_c06_u023
+  tuple: ('think', 'I/Ross Geller', "we're getting into a weird area here", 's01_e11_c06_u023')
+  tuple: ('get', 'we/Ross Geller+Joey Tribbiani', 'into a weird area', 's01_e11_c06_u023')
+
+event_id: s01_e11_c06_u029_e1
+utterance_id: s01_e11_c06_u029
+  tuple: ('forget', 'he/Ross Geller', 'to leave his grip size', 's01_e11_c06_u029')
+  tuple: ('leave', 'he/Ross Geller', 'his grip size', 's01_e11_c06_u029')
+
+event_id: s01_e11_c06_u030_e1
+utterance_id: s01_e11_c06_u030
+  tuple: ('get', 'he/Joey Tribbiani', 'the goggles', 's01_e11_c06_u030')
+
+event_id: s01_e11_c06_u031_e1
+utterance_id: s01_e11_c06_u031
+  tuple: ('sound', 'it', 'like you two have issues', 's01_e11_c06_u031')
+  tuple: ('have', 'you two/Ross Geller+Joey Tribbiani', 'issues', 's01_e11_c06_u031')
+
+event_id: s01_e11_c06_u036_e1
+utterance_id: s01_e11_c06_u036
+  tuple: ('wait', 'they/Rachel Green+Paolo', 'for me to do this', 's01_e11_c06_u036')
+  tuple: ('do', 'me/Ross Geller', 'this', 's01_e11_c06_u036')
+
+event_id: s01_e11_c06_u038_e1
+utterance_id: s01_e11_c06_u038
+  tuple: ('tell', 'you/Ross Geller', 'him/Chandler Bing', 's01_e11_c06_u038')
+
+event_id: s01_e11_c06_u039_e1
+utterance_id: s01_e11_c06_u039
+  tuple: ('tell', 'I/Ross Geller', 'him/Chandler Bing', 's01_e11_c06_u039')
+
+event_id: s01_e11_c06_u040_e1
+utterance_id: s01_e11_c06_u040
+  tuple: ('tell', 'you/Ross Geller', None, 's01_e11_c06_u040')
+
+event_id: s01_e11_c06_u040_e2
+utterance_id: s01_e11_c06_u040
+  tuple: ('tell', 'his mother/Nora Bing', None, 's01_e11_c06_u040')
+
+event_id: s01_e11_c06_u043_e1
+utterance_id: s01_e11_c06_u043
+  tuple: ('wear', 'he/Ross Geller', 'a jockstrap', 's01_e11_c06_u043')
+
+event_id: s01_e11_c06_u044_e1
+utterance_id: s01_e11_c06_u044
+  tuple: ('ask', 'I/Monica Geller', 'what', 's01_e11_c06_u044')
+

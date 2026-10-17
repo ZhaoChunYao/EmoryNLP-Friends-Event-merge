@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes a brief quip in a group and asks a question, but there is not enough to show clearly outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When Speaker_01 worries that keeping the extra $500 would be like stealing, TargetSpeaker dismissively says it would be like shopping, showing a flippant, unsympathetic stance toward Speaker_01’s ethical concern."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, diligence, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker shows no signs of anxiety, sensitivity, or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity, imaginative thinking, or dogmatic rigidity is present."
+  }
+}

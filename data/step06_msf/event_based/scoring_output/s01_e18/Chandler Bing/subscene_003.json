@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief factual comments about the poker game and Speaker_02 crying; no clear sign of being particularly outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker gives a candid, direct account of events (they played poker; then Speaker_02 cried), showing straightforwardness without embellishment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness; only recounting events."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display their own stress, sensitivity, or confidence—just reports on others."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or rigid dogmatism in the brief factual statements."
+  }
+}

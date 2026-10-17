@@ -1,0 +1,85 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c12_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('nap', 'they/(unknown)', None, 's01_e04_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c12_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'they/(unknown)', 'sex', 's01_e04_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c12_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('shut up', 'you/(Rachel Green)', None, 's01_e04_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c12_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/(Monica Geller)', 'what George is like', 's01_e04_c12_u006')",
+            "('be', 'George', 'like', 's01_e04_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c12_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/(Monica Geller)', 'he is shy', 's01_e04_c12_u007')",
+            "('be', 'he/(George)', 'shy', 's01_e04_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c12_u009",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/(Monica Geller)', 'you have to draw him out', 's01_e04_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('draw', 'you/(Rachel Green)', 'him out', 's01_e04_c12_u009')",
+            "('do', 'you/(Rachel Green)', None, 's01_e04_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'he/(George)', 'a preppy animal', 's01_e04_c12_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+event_id: s01_e01_c08_u001_e1
+utterance_id: s01_e01_c08_u001
+  tuple: ('walk out', 'she', None, 's01_e01_c08_u001')
+  tuple: ('walk out', 'she', 'on me', 's01_e01_c08_u001')
+
+event_id: s01_e01_c08_u002_e1
+utterance_id: s01_e01_c08_u002
+  tuple: ('want', 'you/(Paul the Wine Guy)', 'spell it out with noodles', 's01_e01_c08_u002')
+
+event_id: s01_e01_c08_u002_e2
+utterance_id: s01_e01_c08_u002
+  tuple: ('spell', 'you/(Paul the Wine Guy)', 'it out', 's01_e01_c08_u002')
+  tuple: ('spell', 'you/(Paul the Wine Guy)', 'with noodles', 's01_e01_c08_u002')
+
+event_id: s01_e01_c08_u003_e1
+utterance_id: s01_e01_c08_u003
+  tuple: ('be', 'it', 'more of a fifth date kinda revelation', 's01_e01_c08_u003')
+
+event_id: s01_e01_c08_u004_e1
+utterance_id: s01_e01_c08_u004
+  tuple: ('be', 'there', 'a fifth date', 's01_e01_c08_u004')
+
+event_id: s01_e01_c08_u005_e1
+utterance_id: s01_e01_c08_u005
+  tuple: ('be', 'there', None, 's01_e01_c08_u005')
+
+event_id: s01_e01_c08_u006_e1
+utterance_id: s01_e01_c08_u006
+  tuple: ('think', 'I/(Monica Geller)', 'there is', 's01_e01_c08_u006')
+
+event_id: s01_e01_c08_u006_e2
+utterance_id: s01_e01_c08_u006
+  tuple: ('say', 'you/(Paul the Wine Guy)', None, 's01_e01_c08_u006')
+
+event_id: s01_e01_c08_u007_e1
+utterance_id: s01_e01_c08_u007
+  tuple: ('leave', 'she', 'me', 's01_e01_c08_u007')
+
+event_id: s01_e01_c08_u007_e2
+utterance_id: s01_e01_c08_u007
+  tuple: ('perform', 'I/(Paul the Wine Guy)', None, 's01_e01_c08_u007')
+
+event_id: s01_e01_c08_u008_e1
+utterance_id: s01_e01_c08_u008
+  tuple: ('be', 'I/(Monica Geller)', 'so sorry', 's01_e01_c08_u008')
+
+event_id: s01_e01_c08_u009_e1
+utterance_id: s01_e01_c08_u009
+  tuple: ('be', 'it', 'okay', 's01_e01_c08_u009')
+
+event_id: s01_e01_c08_u010_e1
+utterance_id: s01_e01_c08_u010
+  tuple: ('know', 'I/(Monica Geller)', 'being spit on is probably not what you need right now', 's01_e01_c08_u010')
+  tuple: ('be', 'being spit on', 'probably not what you need right now', 's01_e01_c08_u010')
+  tuple: ('be spit on', 'you/(Paul the Wine Guy)', None, 's01_e01_c08_u010')
+  tuple: ('need', 'you/(Paul the Wine Guy)', 'what', 's01_e01_c08_u010')
+
+event_id: s01_e01_c08_u012_e1
+utterance_id: s01_e01_c08_u012
+  tuple: ('be', 'I/(Monica Geller)', 'glad', 's01_e01_c08_u012')
+
+event_id: s01_e01_c08_u012_e2
+utterance_id: s01_e01_c08_u012
+  tuple: ('smash', 'you/(Paul the Wine Guy)', 'her watch', 's01_e01_c08_u012')
+
+event_id: s01_e01_c08_u013_e1
+utterance_id: s01_e01_c08_u013
+  tuple: ('think', 'you/(Monica Geller)', 'you might want that fifth date', 's01_e01_c08_u013')
+  tuple: ('want', 'you/(Monica Geller)', 'that fifth date', 's01_e01_c08_u013')
+
+event_id: s01_e01_c08_u014_e1
+utterance_id: s01_e01_c08_u014
+  tuple: ('do', 'I/(Monica Geller)', None, 's01_e01_c08_u014')
+

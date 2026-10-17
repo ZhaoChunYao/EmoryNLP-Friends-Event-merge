@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is very upbeat and talkative, asking multiple questions and saying they “can’t stop smiling,” and responds enthusiastically with “Big time!”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and warmth by asking how Speaker_03 slept and if they talked to someone, and cooperatively tempers expectations with “we’re getting a little ahead of ourselves.”"
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States a clear plan to focus on responsibilities: “just going to get up, go to work and not think about [Speaker_05].”"
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Displays excitement rather than anxiety, but there’s no strong evidence of either nervousness or notable emotional stability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a light analogy (“it’s like that. With feelings.”), there’s no clear sign of curiosity, creativity, or unconventional thinking."
+  }
+}

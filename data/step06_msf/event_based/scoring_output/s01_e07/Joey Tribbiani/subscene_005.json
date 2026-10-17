@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives a dramatic “Bwah-hah-hah!” and proactively brings up a party obligation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite saying it’s not the best time, brings up that Speaker_02 has to throw a party, showing pushiness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Acknowledges the timing is bad yet raises the topic anyway, suggesting impulsive, poorly timed planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Acts bold and playful (scary laugh) and confidently presses the issue despite the setting."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or unconventional thinking beyond a playful laugh."
+  }
+}

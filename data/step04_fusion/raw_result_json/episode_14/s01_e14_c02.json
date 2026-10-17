@@ -1,0 +1,262 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c02_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'this', 's01_e14_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'what', 's01_e14_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('take', 'Roger', 'her out tomorrow night', 's01_e14_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('remember', 'you/Phoebe Buffay', 'why you dumped the guy', 's01_e14_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('dump', 'you/Phoebe Buffay', 'the guy', 's01_e14_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/Roger', 'creepy', 's01_e14_c02_u005')",
+            "('be', 'he/Roger', 'mean', 's01_e14_c02_u005')",
+            "('be', 'he/Roger', 'a little frightening', 's01_e14_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it', \"nice to have a date on Valentine's Day\", 's01_e14_c02_u005')",
+            "('have', 'I/Phoebe Buffay', 'a date', 's01_e14_c02_u005')",
+            "('have', 'I/Phoebe Buffay', \"on Valentine's Day\", 's01_e14_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/Phoebe Buffay', 'out with a creepy guy', 's01_e14_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'I/Monica Geller', None, 's01_e14_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('do', 'I/Monica Geller', None, 's01_e14_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you guys/(Monica Geller, Phoebe Buffay, Joey Tribbiani, Chandler Bing)', None, 's01_e14_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('depend', 'tomorrow night', 'on how tonight goes', 's01_e14_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go', 'tonight', None, 's01_e14_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/Joey Tribbiani', 'about tonight', 's01_e14_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('dare', 'you/Chandler Bing', 'bail on me', 's01_e14_c02_u010')",
+            "('bail', 'you/Chandler Bing', 'on me', 's01_e14_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'The only reason', 'because I said I could bring a friend for her friend', 's01_e14_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('go', 'she/(Joey’s date)', 'out with me', 's01_e14_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('say', 'I/Joey Tribbiani', 'I could bring a friend for her friend', 's01_e14_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('bring', 'I/Joey Tribbiani', 'a friend', 's01_e14_c02_u010')",
+            "('bring', 'I/Joey Tribbiani', 'for her friend', 's01_e14_c02_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', None, 's01_e14_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('sound', 'her friend', 'like such a...', 's01_e14_c02_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Joey Tribbiani', None, 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('come', 'you/Chandler Bing', 'on', 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'she/(her friend)', 'needy', 's01_e14_c02_u012')",
+            "('be', 'she/(her friend)', 'vulnerable', 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', 'cha-ching', 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('look', 'you/Chandler Bing', None, 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'out with a woman', 's01_e14_c02_u012')",
+            "('be', 'you/Chandler Bing', 'out since Janice', 's01_e14_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('do', 'you/Chandler Bing', 'this', 's01_e14_c02_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'she/(the woman Ross asked)', 'yes', 's01_e14_c02_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c02_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Ross Geller', 'the egg', 's01_e14_c02_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

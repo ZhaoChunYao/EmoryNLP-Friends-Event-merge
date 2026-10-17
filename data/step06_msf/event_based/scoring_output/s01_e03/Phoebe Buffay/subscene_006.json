@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates but shows no clear outgoing or energetic behavior beyond normal conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They ask whether anyone wants the rest of the Pop-Tart (u010), offering to share food."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They complain about stepping in gum and ask 'what is up with the universe' (u014), showing sensitivity/negative affect to minor mishaps."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "The rhetorical, philosophical remark 'what is up with the universe' (u014) suggests curiosity and abstract thinking."
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e10_c05_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('tell', 'Ross Geller', 'something', 's01_e10_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('mean', \"the phrase 'no date pact'\", 'what', 's01_e10_c05_u001')",
+            "('mean', \"the phrase 'no date pact'\", 'to you', 's01_e10_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'Monica Geller', 'sorry', 's01_e10_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it', 'just that Chandler has somebody', 's01_e10_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('have', 'Chandler', 'somebody', 's01_e10_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('have', 'Phoebe', 'somebody', 's01_e10_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('think', 'Monica Geller', \"I'd ask Fun Bobby\", 's01_e10_c05_u002')",
+            "('ask', 'Monica Geller', 'Fun Bobby', 's01_e10_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'more than one Fun Bobby', 's01_e10_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'a Fun Bob', 's01_e10_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'we/(all present)', None, 's01_e10_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'there', 'no room', 's01_e10_c05_u008')",
+            "('be', 'there', 'for milk', 's01_e10_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'there', None, 's01_e10_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'three of you', 'dates', 's01_e10_c05_u010')",
+            "('have', 'three of you', 'on our no-date evening', 's01_e10_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('catch', 'Paolo', 'an earlier flight', 's01_e10_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('meet', 'I/Joey Tribbiani', 'this really hot single mom', 's01_e10_c05_u016')",
+            "('meet', 'I/Joey Tribbiani', 'at the store', 's01_e10_c05_u016')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'an elf', 'what', 's01_e10_c05_u016')",
+            "('do', 'an elf', None, 's01_e10_c05_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'the only one', 's01_e10_c05_u017')",
+            "('stand', 'I/Ross Geller', None, 's01_e10_c05_u017')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('drop', 'the ball', None, 's01_e10_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'we/(Rachel and friends)', 'a big party', 's01_e10_c05_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'no-one', 'who is with who', 's01_e10_c05_u018')",
+            "('be', 'who', None, 's01_e10_c05_u018')",
+            "('be', 'who', 'with who', 's01_e10_c05_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'this', 'not what I needed right now', 's01_e10_c05_u019')",
+            "('need', 'I/Ross Geller', 'this', 's01_e10_c05_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'what', 'the matter', 's01_e10_c05_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'Marcel', 's01_e10_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('keep', 'he/Marcel', 'shutting me out', 's01_e10_c05_u021')",
+            "('shut', 'he/Marcel', 'out me', 's01_e10_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('walk', 'he/Marcel', 'around', 's01_e10_c05_u021')",
+            "('drag', 'he/Marcel', 'his hands', 's01_e10_c05_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'so weird', 's01_e10_c05_u022')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'I/Chandler Bing', 'such a blast', 's01_e10_c05_u022')",
+            "('have', 'I/Chandler Bing', 'with him', 's01_e10_c05_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('play', 'we/(Chandler Bing and Marcel)', None, 's01_e10_c05_u024')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('watch', 'we/(Chandler Bing and Marcel)', 'TV', 's01_e10_c05_u024')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'that juggling thing', 'amazing', 's01_e10_c05_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u026",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('figure', 'I/Chandler Bing', 'you taught him that', 's01_e10_c05_u026')",
+            "('teach', 'you/Ross Geller', 'that', 's01_e10_c05_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u028",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'not that big a deal', 's01_e10_c05_u028')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('ball', 'he/Marcel', 'up socks and a melon', 's01_e10_c05_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u031",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Max', 'everybody', 's01_e10_c05_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u032",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'you/Phoebe Buffay', 'David', 's01_e10_c05_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u033",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/David', 'around', 's01_e10_c05_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u034",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'you/Phoebe Buffay', 'him', 's01_e10_c05_u034')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('tell', 'you/Phoebe Buffay', 'to pack his bags', 's01_e10_c05_u034')",
+            "('pack', 'him/David', 'his bags', 's01_e10_c05_u034')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('go', 'we/(Max and David)', 'to Minsk', 's01_e10_c05_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u036",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it/Minsk', None, 's01_e10_c05_u036')",
+            "('be', 'it/Minsk', 'in Russia', 's01_e10_c05_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u037",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'where Minsk is', 's01_e10_c05_u037')",
+            "('be', 'Minsk', None, 's01_e10_c05_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u038",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'we/(Max and David)', 'the grant', 's01_e10_c05_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c05_u039",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('leave', 'you/Max', None, 's01_e10_c05_u039')"
+          ]
+        }
+      ]
+    }
+  ]
+}

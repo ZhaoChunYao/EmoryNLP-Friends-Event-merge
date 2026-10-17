@@ -1,0 +1,72 @@
+('mean', 'I/Monica Geller', None, 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('let', 'I/Monica Geller', 'them meet him', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('meet', "them/(Monica's friends)", 'him', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('bring', 'I/Monica Geller', 'a guy home', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('be', "they/(Monica's friends)", 'within five minutes', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('be', "they/(Monica's friends)", 'all over him', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('be', "they/(Monica's friends)", 'like coyotes', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('pick', 'coyotes', 'off the weak members', 's01_e03_c04_u001')
+[s01_e03_c04_u001] Monica Geller: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+
+('listen', 'you/Monica Geller', None, 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('see', 'who/Paula', 'more than her fair share of bad beef', 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('tell', 'I/Paula', 'you', 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('be', "that/(Monica's friends being all over him)", 'not such a terrible thing', 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('mean', 'I/Paula', None, 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('be', "they/(Monica's friends)", 'your friends', 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('look', "they/(Monica's friends)", 'out after you', 's01_e03_c04_u002')
+[s01_e03_c04_u002] Paula: Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.
+
+('know', 'I/Monica Geller', None, 's01_e03_c04_u003')
+[s01_e03_c04_u003] Monica Geller: I know. I just wish that once, I'd bring a guy home that they actually liked.
+
+('wish', 'I/Monica Geller', "that once I'd bring a guy home that they actually liked", 's01_e03_c04_u003')
+[s01_e03_c04_u003] Monica Geller: I know. I just wish that once, I'd bring a guy home that they actually liked.
+
+('bring', 'I/Monica Geller', 'a guy home', 's01_e03_c04_u003')
+[s01_e03_c04_u003] Monica Geller: I know. I just wish that once, I'd bring a guy home that they actually liked.
+
+('like', "they/(Monica's friends)", 'a guy', 's01_e03_c04_u003')
+[s01_e03_c04_u003] Monica Geller: I know. I just wish that once, I'd bring a guy home that they actually liked.
+
+('realise', 'you/Monica Geller', 'the odds of that happening are a little slimmer if they never get to meet the guy', 's01_e03_c04_u004')
+[s01_e03_c04_u004] Paula: Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
+
+('happen', "that/(Monica's friends liking the guy)", None, 's01_e03_c04_u004')
+[s01_e03_c04_u004] Paula: Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
+
+('be', 'the odds of that happening', 'a little slimmer', 's01_e03_c04_u004')
+[s01_e03_c04_u004] Paula: Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
+
+('get', "they/(Monica's friends)", 'to meet the guy', 's01_e03_c04_u004')
+[s01_e03_c04_u004] Paula: Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
+
+('meet', "they/(Monica's friends)", 'the guy', 's01_e03_c04_u004')
+[s01_e03_c04_u004] Paula: Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
+

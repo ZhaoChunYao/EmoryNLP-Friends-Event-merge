@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives a brief greeting ('Hey!') and a factual note that Speaker_01 is here doing something; no clear outgoing or reserved behavior is shown."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interaction is neutral and polite but provides no clear sign of warmth, trust, generosity, or the opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors showing organization/efficiency or carelessness/sloppiness are present."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or marked confidence are displayed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not express curiosity, ideas, or rigidity about the Minsk topic; others discuss it."
+  }
+}

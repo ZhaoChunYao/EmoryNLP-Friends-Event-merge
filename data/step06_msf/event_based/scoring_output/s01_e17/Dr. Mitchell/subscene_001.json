@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Opens the exchange by proactively advising on the dish, addresses others by name, and introduces himself, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives helpful, straightforward cooking advice (“add a pinch of saffron… makes all the difference”), aiming to improve someone else’s dish."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows attention to detail and care with a precise recommendation (“a pinch of saffron”) and confidence it affects the outcome."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks assertively about what should be added and its impact, with no signs of worry beyond a brief hesitation; overall demeanor appears confident."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggests using saffron—a distinctive, creative choice—indicating openness to inventive culinary ideas."
+  }
+}

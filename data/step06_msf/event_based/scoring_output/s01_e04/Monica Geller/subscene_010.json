@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly (asks if the light is still out) and then tells someone to shut up; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker (with Speaker_04) tells Speaker_01 to shut up, a confrontational and uncooperative response."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior shown related to organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear indications of nervousness, sensitivity, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear behavior indicating curiosity, imagination, or cautious/dogmatic thinking."
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "tuples": [
+    {
+      "verb": "think",
+      "subject": "I/(Chandler Bing)",
+      "object": "this is the episode of Three's Company where there's some kind of misunderstanding",
+      "uid": "s01_e02_c03_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(episode)",
+      "object": "the episode of Three's Company",
+      "uid": "s01_e02_c03_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "there/(existential)",
+      "object": "some kind of misunderstanding",
+      "uid": "s01_e02_c03_u001"
+    },
+    {
+      "verb": "see",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "this one",
+      "uid": "s01_e02_c03_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "through with that",
+      "uid": "s01_e02_c03_u003"
+    },
+    {
+      "verb": "slow",
+      "subject": "the swallowing",
+      "object": "me",
+      "uid": "s01_e02_c03_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(ball of paper)",
+      "object": "whose little ball of paper",
+      "uid": "s01_e02_c03_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(ball of paper)",
+      "object": "mine",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "write",
+      "subject": "I/(Chandler Bing)",
+      "object": "a note",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "write",
+      "subject": "I/(Chandler Bing)",
+      "object": "to myself",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "realize",
+      "subject": "I/(Chandler Bing)",
+      "object": "I didn't need it",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "need",
+      "subject": "I/(Chandler Bing)",
+      "object": "it",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "ball",
+      "subject": "I/(Chandler Bing)",
+      "object": "it",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "wish",
+      "subject": "I/(Chandler Bing)",
+      "object": "I was dead",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Chandler Bing)",
+      "object": "dead",
+      "uid": "s01_e02_c03_u006"
+    },
+    {
+      "verb": "fluff",
+      "subject": "she/(Monica Geller)",
+      "object": "that pillow",
+      "uid": "s01_e02_c03_u008"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e02_c03_u008"
+    },
+    {
+      "verb": "fluff",
+      "subject": "you/(Monica Geller)",
+      "object": "that",
+      "uid": "s01_e02_c03_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(situation)",
+      "object": "fine",
+      "uid": "s01_e02_c03_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "sorry",
+      "uid": "s01_e02_c03_u009"
+    },
+    {
+      "verb": "want",
+      "subject": "I/(Monica Geller)",
+      "object": "to give them any more ammunition than they already have",
+      "uid": "s01_e02_c03_u009"
+    },
+    {
+      "verb": "give",
+      "subject": "I/(Monica Geller)",
+      "object": "them any more ammunition",
+      "uid": "s01_e02_c03_u009"
+    },
+    {
+      "verb": "have",
+      "subject": "they/(Monica's parents)",
+      "object": "ammunition",
+      "uid": "s01_e02_c03_u009"
+    },
+    {
+      "verb": "know",
+      "subject": "we all/(group of friends)",
+      "object": "how cruel a parent can be about the flatness of a child's pillow",
+      "uid": "s01_e02_c03_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "a parent",
+      "object": "cruel",
+      "uid": "s01_e02_c03_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "a parent",
+      "object": "about the flatness of a child's pillow",
+      "uid": "s01_e02_c03_u010"
+    },
+    {
+      "verb": "scare",
+      "subject": "you/(Monica Geller)",
+      "object": "me",
+      "uid": "s01_e02_c03_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "like all chaotic and twirly",
+      "uid": "s01_e02_c03_u011"
+    },
+    {
+      "verb": "calm",
+      "subject": "you/(Monica Geller)",
+      "object": "down",
+      "uid": "s01_e02_c03_u012"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Monica Geller)",
+      "object": "Ross getting all chaotic and twirly every time they come",
+      "uid": "s01_e02_c03_u012"
+    },
+    {
+      "verb": "get",
+      "subject": "Ross Geller",
+      "object": "all chaotic and twirly",
+      "uid": "s01_e02_c03_u012"
+    },
+    {
+      "verb": "come",
+      "subject": "they/(Monica and Ross's parents)",
+      "object": null,
+      "uid": "s01_e02_c03_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "my parents/(Monica Geller)",
+      "object": "concerned",
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "do",
+      "subject": "Ross Geller",
+      "object": "no wrong",
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(Ross Geller)",
+      "object": "the Prince",
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "have",
+      "subject": "they/(Monica's parents)",
+      "object": "some big ceremony",
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "be born",
+      "subject": "I/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "have",
+      "subject": "they/(Monica's parents)",
+      "object": "before I was born",
+      "uid": "s01_e02_c03_u013"
+    },
+    {
+      "verb": "get",
+      "subject": "Ugly Naked Guy",
+      "object": "a Thighmaster",
+      "uid": "s01_e02_c03_u016"
+    },
+    {
+      "verb": "see",
+      "subject": "anybody",
+      "object": "my engagement ring",
+      "uid": "s01_e02_c03_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Rachel's engagement ring)",
+      "object": "beautiful",
+      "uid": "s01_e02_c03_u020"
+    },
+    {
+      "verb": "touch",
+      "subject": "you/(Rachel Green)",
+      "object": "that",
+      "uid": "s01_e02_c03_u022"
+    },
+    {
+      "verb": "dread",
+      "subject": "I/(Rachel Green)",
+      "object": "tomorrow",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "give",
+      "subject": "I/(Rachel Green)",
+      "object": "it back to him",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/(Barry)",
+      "object": "me",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "the girl in the veil who stomped on your heart in front of your entire family",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "stomp",
+      "subject": "I/(Rachel Green)",
+      "object": "on your heart",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "stomp",
+      "subject": "I/(Rachel Green)",
+      "object": "in front of your entire family",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "return",
+      "subject": "I/(Rachel Green)",
+      "object": "the ring",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "make",
+      "subject": "which/(without the ring)",
+      "object": "it so much harder",
+      "uid": "s01_e02_c03_u023"
+    },
+    {
+      "verb": "find",
+      "subject": "we/(friends in apartment)",
+      "object": "it",
+      "uid": "s01_e02_c03_u024"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(Rachel Green)",
+      "object": "it",
+      "uid": "s01_e02_c03_u026"
+    },
+    {
+      "verb": "have",
+      "subject": "you/(Rachel Green)",
+      "object": "on it",
+      "uid": "s01_e02_c03_u026"
+    },
+    {
+      "verb": "lose",
+      "subject": "she/(Rachel Green)",
+      "object": "it",
+      "uid": "s01_e02_c03_u027"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(people in general)",
+      "object": "a lot of 'doy'",
+      "uid": "s01_e02_c03_u028"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Rachel Green)",
+      "object": "I had it this morning",
+      "uid": "s01_e02_c03_u029"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Rachel Green)",
+      "object": "it",
+      "uid": "s01_e02_c03_u029"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Rachel Green)",
+      "object": "I had it when I was in the kitchen with...",
+      "uid": "s01_e02_c03_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "in the kitchen with...",
+      "uid": "s01_e02_c03_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "mad",
+      "uid": "s01_e02_c03_u031"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Rachel Green)",
+      "object": null,
+      "uid": "s01_e02_c03_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "sorry",
+      "uid": "s01_e02_c03_u033"
+    },
+    {
+      "verb": "give",
+      "subject": "I/(Monica Geller)",
+      "object": "you one job",
+      "uid": "s01_e02_c03_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "those noodles",
+      "object": "straight",
+      "uid": "s01_e02_c03_u035"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Monica Geller)",
+      "object": "that is not how you look for an engagement ring in a lasagne",
+      "uid": "s01_e02_c03_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(Monica's method)",
+      "object": "not how you look for an engagement ring in a lasagne",
+      "uid": "s01_e02_c03_u036"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(generic person)",
+      "object": "for an engagement ring",
+      "uid": "s01_e02_c03_u036"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(generic person)",
+      "object": "in a lasagne",
+      "uid": "s01_e02_c03_u036"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Monica Geller)",
+      "object": "it",
+      "uid": "s01_e02_c03_u037"
+    },
+    {
+      "verb": "go",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "in",
+      "uid": "s01_e02_c03_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(Ross's hi)",
+      "object": "not a happy hi",
+      "uid": "s01_e02_c03_u041"
+    },
+    {
+      "verb": "be",
+      "subject": "Carol",
+      "object": "pregnant",
+      "uid": "s01_e02_c03_u042"
+    },
+    {
+      "verb": "find",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "it",
+      "uid": "s01_e02_c03_u043"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Monica Geller)",
+      "object": "that",
+      "uid": "s01_e02_c03_u045"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Monica Geller)",
+      "object": "for another two hours",
+      "uid": "s01_e02_c03_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "where I am right about now",
+      "uid": "s01_e02_c03_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "right about now",
+      "uid": "s01_e02_c03_u045"
+    },
+    {
+      "verb": "put",
+      "subject": "it/(Carol's pregnancy)",
+      "object": "that whole pillow thing",
+      "uid": "s01_e02_c03_u046"
+    },
+    {
+      "verb": "put",
+      "subject": "it/(Carol's pregnancy)",
+      "object": "in perspective",
+      "uid": "s01_e02_c03_u046"
+    },
+    {
+      "verb": "fit",
+      "subject": "you/(Ross Geller)",
+      "object": "into this whole thing",
+      "uid": "s01_e02_c03_u047"
+    },
+    {
+      "verb": "say",
+      "subject": "Carol",
+      "object": "she and Susan want me to be involved",
+      "uid": "s01_e02_c03_u048"
+    },
+    {
+      "verb": "want",
+      "subject": "she and Susan",
+      "object": "me to be involved",
+      "uid": "s01_e02_c03_u048"
+    },
+    {
+      "verb": "be involved",
+      "subject": "I/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e02_c03_u048"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "comfortable with it",
+      "uid": "s01_e02_c03_u048"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(decision about involvement)",
+      "object": "entirely up to me",
+      "uid": "s01_e02_c03_u048"
+    },
+    {
+      "verb": "be",
+      "subject": "she/(Carol)",
+      "object": "so great",
+      "uid": "s01_e02_c03_u049"
+    },
+    {
+      "verb": "miss",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "her",
+      "uid": "s01_e02_c03_u049"
+    },
+    {
+      "verb": "mean",
+      "subject": "she/(Carol)",
+      "object": "by 'involved'",
+      "uid": "s01_e02_c03_u050"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e02_c03_u051"
+    },
+    {
+      "verb": "be",
+      "subject": "the biggest part of your job",
+      "object": "done",
+      "uid": "s01_e02_c03_u051"
+    },
+    {
+      "verb": "want",
+      "subject": "they/(Carol and Susan)",
+      "object": "me to go down to this sonogram thing with them tomorrow",
+      "uid": "s01_e02_c03_u052"
+    },
+    {
+      "verb": "go",
+      "subject": "I/(Ross Geller)",
+      "object": "down to this sonogram thing",
+      "uid": "s01_e02_c03_u052"
+    },
+    {
+      "verb": "go",
+      "subject": "I/(Ross Geller)",
+      "object": "down with them",
+      "uid": "s01_e02_c03_u052"
+    },
+    {
+      "verb": "do",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e02_c03_u053"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "no idea",
+      "uid": "s01_e02_c03_u054"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Ross Geller)",
+      "object": "what",
+      "uid": "s01_e02_c03_u054"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "a father",
+      "uid": "s01_e02_c03_u054"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(lasagne)",
+      "object": "still ruined",
+      "uid": "s01_e02_c03_u056"
+    }
+  ]
+}

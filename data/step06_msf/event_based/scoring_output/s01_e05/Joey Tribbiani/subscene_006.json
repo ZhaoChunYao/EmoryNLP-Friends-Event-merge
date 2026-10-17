@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the conversation, gives unsolicited detailed comments, and openly discusses sexual experiences (“So, you and Angela, huh?”; describes eating noises; shares that Speaker_03 was too much in bed)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Bluntly undermines Speaker_01’s relationship (“not going to last”) and brings up intimate sexual history with Speaker_03, showing tactlessness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; only casual conversation and opinions."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and candidly without signs of anxiety or sensitivity, including sharing intimate details and firm judgments."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses imaginative, sensory-rich descriptions (“cute nibbly noise… like a happy little squirrel or a weasel”) and shows curiosity/attention to quirky details."
+  }
+}

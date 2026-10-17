@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates interaction by introducing self to a new person, offers help, and engages in light social talk (responds to a joke)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Thoughtfully brings ice chips, asks if anything else is needed, and affirms another’s joke—cooperative and considerate."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Anticipates needs (“thought that Speaker_03 might like some ice chips”) and follows through, indicating reliability."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability, but also no explicit displays of calm under stress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity, inventiveness, or preference for new ideas in the exchange."
+  }
+}

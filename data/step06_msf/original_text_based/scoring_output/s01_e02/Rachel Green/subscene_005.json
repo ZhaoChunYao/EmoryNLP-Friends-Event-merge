@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaks briefly and hesitantly, only asking a name and then seeking confirmation (“Are Speaker_01 sure?”), indicating reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of generosity or uncooperativeness; the brief, polite question doesn’t strongly indicate agreeableness either way."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or reliability in the exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Seeks reassurance (“Are Speaker_01 sure?”), suggesting nervousness or insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Displays cautiousness by asking for confirmation before proceeding (“Are Speaker_01 sure?”)."
+  }
+}

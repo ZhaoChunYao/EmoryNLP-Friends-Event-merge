@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and socially forward: boasts that multiple people had a thing for them (u006) and drives the conversation by volunteering info and gossip (u009, u017, u019)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Untrustworthy and inconsiderate: suggests deceiving others about a friend’s job—\"Well, [they] don't have to know that\" (u011); gossips about someone and their parents (u017); makes a cutting remark about leaving someone at the altar (u019)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless with facts: admits not knowing details about the caller yet already told them a friend \"had a restaurant\" (u009) and then dismisses the inaccuracy (u011)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence rather than anxiety: boasts about admirers (u006) and remains unfazed when challenged, brushing it off as \"an expression\" (u021)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or openness to new ideas; contributions are mainly social gossip and teasing."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly shares personal test results with the group, jokes that the amuse-bouche is amusing, and engages cooperatively by agreeing to split the appetizer."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker responds cooperatively and generously, offering to split the small appetizer and showing no signs of hostility or deceit."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mixed/weak signals: completed eight and a half hours of tests (possible diligence) but also mentions having only a grape in five hours (suggests poor planning). No clear, strong pattern."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker is upset by the test outcome (“it’s unbelievable”), others try to cheer TargetSpeaker up, indicating sensitivity and negative affect."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker rejects a conventional path (“ideally suited for data processing”) and says they should be doing something really cool, indicating preference for novelty/creativity."
+  }
+}

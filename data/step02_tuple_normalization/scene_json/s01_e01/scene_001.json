@@ -1,0 +1,826 @@
+{
+  "tuples": [
+    {
+      "verb": "tell",
+      "subject": "I/Monica Geller",
+      "object": "nothing",
+      "uid": "s01_e01_c01_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "he",
+      "object": "some guy",
+      "uid": "s01_e01_c01_u001"
+    },
+    {
+      "verb": "work",
+      "subject": "I/Monica Geller",
+      "object": "with some guy",
+      "uid": "s01_e01_c01_u001"
+    },
+    {
+      "verb": "go out",
+      "subject": "you/Monica Geller",
+      "object": "with the guy",
+      "uid": "s01_e01_c01_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "something wrong",
+      "uid": "s01_e01_c01_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "Joey Tribbiani",
+      "object": "nice",
+      "uid": "s01_e01_c01_u003"
+    },
+    {
+      "verb": "have",
+      "subject": "he",
+      "object": "a hump",
+      "uid": "s01_e01_c01_u003"
+    },
+    {
+      "verb": "have",
+      "subject": "he",
+      "object": "a hairpiece",
+      "uid": "s01_e01_c01_u003"
+    },
+    {
+      "verb": "eat",
+      "subject": "he",
+      "object": "chalk",
+      "uid": "s01_e01_c01_u004"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Phoebe Buffay",
+      "object": "her to go through what I went through with Carl",
+      "uid": "s01_e01_c01_u006"
+    },
+    {
+      "verb": "go through",
+      "subject": "she/Monica Geller",
+      "object": "what I went through",
+      "uid": "s01_e01_c01_u006"
+    },
+    {
+      "verb": "go through",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e01_c01_u006"
+    },
+    {
+      "verb": "go through",
+      "subject": "I/Phoebe Buffay",
+      "object": "with Carl",
+      "uid": "s01_e01_c01_u006"
+    },
+    {
+      "verb": "relax",
+      "subject": "everybody",
+      "object": null,
+      "uid": "s01_e01_c01_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "not even a date",
+      "uid": "s01_e01_c01_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "two people going out to dinner",
+      "uid": "s01_e01_c01_u007"
+    },
+    {
+      "verb": "go out",
+      "subject": "two people",
+      "object": "to dinner",
+      "uid": "s01_e01_c01_u007"
+    },
+    {
+      "verb": "have",
+      "subject": "two people",
+      "object": "sex",
+      "uid": "s01_e01_c01_u007"
+    },
+    {
+      "verb": "sound",
+      "subject": "it",
+      "object": "like a date",
+      "uid": "s01_e01_c01_u008"
+    },
+    {
+      "verb": "sound",
+      "subject": "it",
+      "object": "to me",
+      "uid": "s01_e01_c01_u008"
+    },
+    {
+      "verb": "be back",
+      "subject": "I/Chandler Bing",
+      "object": "in high school",
+      "uid": "s01_e01_c01_u010"
+    },
+    {
+      "verb": "stand",
+      "subject": "I/Chandler Bing",
+      "object": "in the middle of the cafeteria",
+      "uid": "s01_e01_c01_u010"
+    },
+    {
+      "verb": "realize",
+      "subject": "I/Chandler Bing",
+      "object": "I am totally naked",
+      "uid": "s01_e01_c01_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "totally naked",
+      "uid": "s01_e01_c01_u010"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(ALL)",
+      "object": "that dream",
+      "uid": "s01_e01_c01_u011"
+    },
+    {
+      "verb": "look down",
+      "subject": "I/Chandler Bing",
+      "object": null,
+      "uid": "s01_e01_c01_u012"
+    },
+    {
+      "verb": "realize",
+      "subject": "I/Chandler Bing",
+      "object": "there is a phone there",
+      "uid": "s01_e01_c01_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "a phone",
+      "uid": "s01_e01_c01_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "right",
+      "uid": "s01_e01_c01_u014"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "that dream",
+      "uid": "s01_e01_c01_u015"
+    },
+    {
+      "verb": "ring",
+      "subject": "the phone",
+      "object": null,
+      "uid": "s01_e01_c01_u017"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Chandler Bing",
+      "object": "what to do",
+      "uid": "s01_e01_c01_u017"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Chandler Bing",
+      "object": "what",
+      "uid": "s01_e01_c01_u017"
+    },
+    {
+      "verb": "start",
+      "subject": "everybody",
+      "object": "looking at me",
+      "uid": "s01_e01_c01_u017"
+    },
+    {
+      "verb": "look at",
+      "subject": "everybody",
+      "object": "me",
+      "uid": "s01_e01_c01_u017"
+    },
+    {
+      "verb": "look at",
+      "subject": "they/(everybody in cafeteria)",
+      "object": "you/Chandler Bing",
+      "uid": "s01_e01_c01_u018"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Chandler Bing",
+      "object": "I'd better answer it",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "answer",
+      "subject": "I/Chandler Bing",
+      "object": "it",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "turn out",
+      "subject": "it",
+      "object": "it's my mother",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "my mother",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "which",
+      "object": "very-very weird",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "call",
+      "subject": "she/(Chandler's mother)",
+      "object": "me",
+      "uid": "s01_e01_c01_u019"
+    },
+    {
+      "verb": "say",
+      "subject": "this guy",
+      "object": "hello",
+      "uid": "s01_e01_c01_u022"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Joey Tribbiani",
+      "object": "to kill myself",
+      "uid": "s01_e01_c01_u022"
+    },
+    {
+      "verb": "kill",
+      "subject": "I/Joey Tribbiani",
+      "object": "myself",
+      "uid": "s01_e01_c01_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "okay",
+      "uid": "s01_e01_c01_u023"
+    },
+    {
+      "verb": "feel like",
+      "subject": "I/Ross Geller",
+      "object": "someone reached down my throat",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "reach",
+      "subject": "someone",
+      "object": "down my throat",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "grab",
+      "subject": "someone",
+      "object": "my small intestine",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "pull",
+      "subject": "someone",
+      "object": "it",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "pull",
+      "subject": "someone",
+      "object": "out of my mouth",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "tie",
+      "subject": "someone",
+      "object": "it",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "tie",
+      "subject": "someone",
+      "object": "around my neck",
+      "uid": "s01_e01_c01_u024"
+    },
+    {
+      "verb": "move out",
+      "subject": "Carol",
+      "object": "her stuff",
+      "uid": "s01_e01_c01_u026"
+    },
+    {
+      "verb": "let",
+      "subject": "me/Monica Geller",
+      "object": "get you some coffee",
+      "uid": "s01_e01_c01_u028"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Monica Geller",
+      "object": "you some coffee",
+      "uid": "s01_e01_c01_u028"
+    },
+    {
+      "verb": "stop",
+      "subject": "you/Phoebe Buffay",
+      "object": "cleansing my aura",
+      "uid": "s01_e01_c01_u031"
+    },
+    {
+      "verb": "cleanse",
+      "subject": "you/Phoebe Buffay",
+      "object": "my aura",
+      "uid": "s01_e01_c01_u031"
+    },
+    {
+      "verb": "leave",
+      "subject": "you/Phoebe Buffay",
+      "object": "my aura",
+      "uid": "s01_e01_c01_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "murky",
+      "uid": "s01_e01_c01_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "fine",
+      "uid": "s01_e01_c01_u033"
+    },
+    {
+      "verb": "hope",
+      "subject": "I/Ross Geller",
+      "object": "she'll be very happy",
+      "uid": "s01_e01_c01_u033"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Carol",
+      "object": "very happy",
+      "uid": "s01_e01_c01_u033"
+    },
+    {
+      "verb": "do not",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e01_c01_u034"
+    },
+    {
+      "verb": "do not",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e01_c01_u035"
+    },
+    {
+      "verb": "leave",
+      "subject": "she/Carol",
+      "object": "me",
+      "uid": "s01_e01_c01_u035"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Ross Geller",
+      "object": "she was a lesbian",
+      "uid": "s01_e01_c01_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Carol",
+      "object": "a lesbian",
+      "uid": "s01_e01_c01_u036"
+    },
+    {
+      "verb": "fixate",
+      "subject": "everyone",
+      "object": "on that",
+      "uid": "s01_e01_c01_u037"
+    },
+    {
+      "verb": "know",
+      "subject": "she/Carol",
+      "object": null,
+      "uid": "s01_e01_c01_u037"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e01_c01_u037"
+    },
+    {
+      "verb": "wish",
+      "subject": "I/Chandler Bing",
+      "object": "I was a lesbian",
+      "uid": "s01_e01_c01_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "a lesbian",
+      "uid": "s01_e01_c01_u038"
+    },
+    {
+      "verb": "say",
+      "subject": "I/Chandler Bing",
+      "object": "that",
+      "uid": "s01_e01_c01_u038"
+    },
+    {
+      "verb": "say out loud",
+      "subject": "I/Chandler Bing",
+      "object": "that",
+      "uid": "s01_e01_c01_u038"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Ross Geller",
+      "object": "mom and dad",
+      "uid": "s01_e01_c01_u039"
+    },
+    {
+      "verb": "seem",
+      "subject": "they/(Ross and Monica's parents)",
+      "object": "to take it pretty well",
+      "uid": "s01_e01_c01_u039"
+    },
+    {
+      "verb": "take",
+      "subject": "they/(Ross and Monica's parents)",
+      "object": "it",
+      "uid": "s01_e01_c01_u039"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Monica Geller",
+      "object": "that hysterical phone call",
+      "uid": "s01_e01_c01_u040"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Monica Geller",
+      "object": "from a woman",
+      "uid": "s01_e01_c01_u040"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Monica and Ross's mother)",
+      "object": "grandchildren",
+      "uid": "s01_e01_c01_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "that hysterical phone call",
+      "object": "what",
+      "uid": "s01_e01_c01_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "a wrong number",
+      "uid": "s01_e01_c01_u040"
+    },
+    {
+      "verb": "look",
+      "subject": "Ross Geller",
+      "object": null,
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "feel",
+      "subject": "you/Ross Geller",
+      "object": "a lot of pain",
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "angry",
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "hurt",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Joey Tribbiani",
+      "object": "you/Ross Geller",
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "the answer",
+      "object": null,
+      "uid": "s01_e01_c01_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "single",
+      "uid": "s01_e01_c01_u044"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Ross Geller",
+      "object": "some hormones",
+      "uid": "s01_e01_c01_u044"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Ross Geller",
+      "object": "to be single",
+      "uid": "s01_e01_c01_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "single",
+      "uid": "s01_e01_c01_u045"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Ross Geller",
+      "object": "to be married again",
+      "uid": "s01_e01_c01_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "married again",
+      "uid": "s01_e01_c01_u045"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Chandler Bing",
+      "object": "a million dollars",
+      "uid": "s01_e01_c01_u047"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Rachel Green",
+      "object": "to your building",
+      "uid": "s01_e01_c01_u049"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Monica Geller",
+      "object": "there",
+      "uid": "s01_e01_c01_u049"
+    },
+    {
+      "verb": "say",
+      "subject": "this guy with a big hammer",
+      "object": "you might be here",
+      "uid": "s01_e01_c01_u049"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Monica Geller",
+      "object": "here",
+      "uid": "s01_e01_c01_u049"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Waitress",
+      "object": "you some coffee",
+      "uid": "s01_e01_c01_u050"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "Rachel",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "everybody",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "Chandler",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "Phoebe",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "Joey",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/Rachel Green",
+      "object": "my brother Ross",
+      "uid": "s01_e01_c01_u051"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Rachel Green",
+      "object": "to tell us now",
+      "uid": "s01_e01_c01_u055"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Rachel Green",
+      "object": "us",
+      "uid": "s01_e01_c01_u055"
+    },
+    {
+      "verb": "wait",
+      "subject": "we/(group at Central Perk)",
+      "object": "for four wet bridesmaids",
+      "uid": "s01_e01_c01_u055"
+    },
+    {
+      "verb": "wait",
+      "subject": "we/(group at Central Perk)",
+      "object": null,
+      "uid": "s01_e01_c01_u055"
+    },
+    {
+      "verb": "start",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "in the room",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "keep",
+      "subject": "we/(wedding party)",
+      "object": "all the presents",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "look at",
+      "subject": "I/Rachel Green",
+      "object": "this gravy boat",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "realize",
+      "subject": "I/Rachel Green",
+      "object": "that I was more turned on by this gravy boat than by Barry",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "turn on",
+      "subject": "I/Rachel Green",
+      "object": "by this gravy boat",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Rachel Green",
+      "object": "really freaked out",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "hit",
+      "subject": "it",
+      "object": "me",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "look like",
+      "subject": "Barry",
+      "object": "Mr. Potato Head",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Rachel Green",
+      "object": "he looked familiar",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "look",
+      "subject": "he/Barry",
+      "object": "familiar",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "get out",
+      "subject": "I/Rachel Green",
+      "object": "of there",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "start",
+      "subject": "I/Rachel Green",
+      "object": "wondering why am I doing this",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "wonder",
+      "subject": "I/Rachel Green",
+      "object": "why am I doing this and who am I doing this for",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Rachel Green",
+      "object": "this",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Rachel Green",
+      "object": "for who",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Rachel Green",
+      "object": "where to go",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Rachel Green",
+      "object": "where",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Rachel Green",
+      "object": "that you and I have kinda drifted apart",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "drift apart",
+      "subject": "you and I/Monica Geller & Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Monica Geller",
+      "object": "the only person I knew who lived here in the city",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Rachel Green",
+      "object": "who lived here in the city",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "live",
+      "subject": "you/Monica Geller",
+      "object": "here in the city",
+      "uid": "s01_e01_c01_u056"
+    },
+    {
+      "verb": "invite",
+      "subject": "you/Monica Geller",
+      "object": "to the wedding",
+      "uid": "s01_e01_c01_u057"
+    },
+    {
+      "verb": "hope",
+      "subject": "I/Rachel Green",
+      "object": "that wouldn't be an issue",
+      "uid": "s01_e01_c01_u058"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "an issue",
+      "uid": "s01_e01_c01_u058"
+    }
+  ]
+}

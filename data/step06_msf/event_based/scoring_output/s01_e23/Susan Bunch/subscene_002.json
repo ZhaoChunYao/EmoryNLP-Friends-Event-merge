@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes a light joke (“Swiss quartz, ha, ha”) and actively engages by volunteering to get the ice chips."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to get ice chips for someone else and says will be right back, showing helpfulness and cooperation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Promptly takes responsibility for the task and commits to return soon (“I’m getting the ice chips… I’ll be right back”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confident, calm initiative in taking charge of the task with no signs of worry or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or unconventional thinking in the brief exchange."
+  }
+}

@@ -1,0 +1,45 @@
+('pick', 'you/Chandler Bing', 'one', 's01_e12_c09_u001')
+[s01_e12_c09_u001] Joey Tribbiani: Will you pick one, just pick one! Here, how about that one?
+
+('be', 'That', 'patio furniture', 's01_e12_c09_u002')
+[s01_e12_c09_u002] Chandler Bing: That's patio furniture!
+
+('come', 'people', 'in', 's01_e12_c09_u003')
+[s01_e12_c09_u003] Joey Tribbiani: So what, like people are gonna come in and think, "Uh-oh, I'm outside again?" Of course!
+
+('think', 'people', "I'm outside again?", 's01_e12_c09_u003')
+[s01_e12_c09_u003] Joey Tribbiani: So what, like people are gonna come in and think, "Uh-oh, I'm outside again?" Of course!
+
+('be', 'I/(people)', 'outside again', 's01_e12_c09_u003')
+[s01_e12_c09_u003] Joey Tribbiani: So what, like people are gonna come in and think, "Uh-oh, I'm outside again?" Of course!
+
+('know', 'I/Joey Tribbiani', None, 's01_e12_c09_u005')
+[s01_e12_c09_u005] Joey Tribbiani: I don't know, birds just don't say, "Hello, sit here, eat something."
+
+('say', 'birds', 'Hello, sit here, eat something.', 's01_e12_c09_u005')
+[s01_e12_c09_u005] Joey Tribbiani: I don't know, birds just don't say, "Hello, sit here, eat something."
+
+('sit', 'you/(people)', None, 's01_e12_c09_u005')
+[s01_e12_c09_u005] Joey Tribbiani: I don't know, birds just don't say, "Hello, sit here, eat something."
+
+('eat', 'you/(people)', 'something', 's01_e12_c09_u005')
+[s01_e12_c09_u005] Joey Tribbiani: I don't know, birds just don't say, "Hello, sit here, eat something."
+
+('pick', 'you/Joey Tribbiani', 'one', 's01_e12_c09_u006')
+[s01_e12_c09_u006] Chandler Bing: You pick one.
+
+('forget', 'you/Joey Tribbiani', 'about the birds', 's01_e12_c09_u008')
+[s01_e12_c09_u008] Chandler Bing: Oh, so, forget about the birds, but big red insects suggest fine dining!
+
+('suggest', 'big red insects', 'fine dining', 's01_e12_c09_u008')
+[s01_e12_c09_u008] Chandler Bing: Oh, so, forget about the birds, but big red insects suggest fine dining!
+
+('want', 'you/Chandler Bing', 'get the birds', 's01_e12_c09_u009')
+[s01_e12_c09_u009] Joey Tribbiani: Fine, you want to get the birds, get the birds!
+
+('get', 'you/Chandler Bing', 'the birds', 's01_e12_c09_u009')
+[s01_e12_c09_u009] Joey Tribbiani: Fine, you want to get the birds, get the birds!
+
+('like', 'Kip', 'the birds', 's01_e12_c09_u010')
+[s01_e12_c09_u010] Chandler Bing: Not like that, I won't! Kip would have liked the birds!
+

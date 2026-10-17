@@ -1,0 +1,158 @@
+event_id: s01_e13_c10_u001_e1
+utterance_id: s01_e13_c10_u001
+  tuple: ('do', 'you/Gloria', 'what', 's01_e13_c10_u001')
+
+event_id: s01_e13_c10_u002_e1
+utterance_id: s01_e13_c10_u002
+  tuple: ('come', 'I/Gloria', 'to give you this and this', 's01_e13_c10_u002')
+
+event_id: s01_e13_c10_u002_e2
+utterance_id: s01_e13_c10_u002
+  tuple: ('give', 'I/Gloria', 'this and this', 's01_e13_c10_u002')
+
+event_id: s01_e13_c10_u004_e1
+utterance_id: s01_e13_c10_u004
+  tuple: ('fill', 'you/Joey', "your father's head with all that garbage about making things right", 's01_e13_c10_u004')
+  tuple: ('make', 'things', 'right', 's01_e13_c10_u004')
+
+event_id: s01_e13_c10_u004_e2
+utterance_id: s01_e13_c10_u004
+  tuple: ('be', 'things', 'fine', 's01_e13_c10_u004')
+
+event_id: s01_e13_c10_u004_e3
+utterance_id: s01_e13_c10_u004
+  tuple: ('be', 'chicken', 'in there', 's01_e13_c10_u004')
+
+event_id: s01_e13_c10_u004_e4
+utterance_id: s01_e13_c10_u004
+  tuple: ('put', 'you/Joey', 'it', 's01_e13_c10_u004')
+
+event_id: s01_e13_c10_u005_e1
+utterance_id: s01_e13_c10_u005
+  tuple: ('hold on', 'you/Gloria', None, 's01_e13_c10_u005')
+
+event_id: s01_e13_c10_u005_e2
+utterance_id: s01_e13_c10_u005
+  tuple: ('know', 'you/Gloria', None, 's01_e13_c10_u005')
+
+event_id: s01_e13_c10_u006_e1
+utterance_id: s01_e13_c10_u006
+  tuple: ('know', 'I/Gloria', None, 's01_e13_c10_u006')
+
+event_id: s01_e13_c10_u006_e2
+utterance_id: s01_e13_c10_u006
+  tuple: ('think', 'you/Joey', 'what', 's01_e13_c10_u006')
+
+event_id: s01_e13_c10_u006_e3
+utterance_id: s01_e13_c10_u006
+  tuple: ('be', 'your father', 'no James Bond', 's01_e13_c10_u006')
+
+event_id: s01_e13_c10_u006_e4
+utterance_id: s01_e13_c10_u006
+  tuple: ('hear', 'you/Joey', 'some of his cover stories', 's01_e13_c10_u006')
+  tuple: ('sleep', 'I/your father', "over my accountant's", 's01_e13_c10_u006')
+  tuple: ('be', 'that', 'what', 's01_e13_c10_u006')
+
+event_id: s01_e13_c10_u008_e1
+utterance_id: s01_e13_c10_u008
+  tuple: ('remember', 'you/Joey', 'how your father used to be', 's01_e13_c10_u008')
+
+event_id: s01_e13_c10_u008_e2
+utterance_id: s01_e13_c10_u008
+  tuple: ('yell', 'your father', None, 's01_e13_c10_u008')
+  tuple: ('make', 'nothing', 'him happy', 's01_e13_c10_u008')
+
+event_id: s01_e13_c10_u008_e3
+utterance_id: s01_e13_c10_u008
+  tuple: ('be', 'he/your father', 'happy', 's01_e13_c10_u008')
+  tuple: ('be', 'it', 'nice', 's01_e13_c10_u008')
+  tuple: ('have', 'he/your father', 'a hobby', 's01_e13_c10_u008')
+
+event_id: s01_e13_c10_u009_e1
+utterance_id: s01_e13_c10_u009
+  tuple: ('mean', 'I/Joey', 'to be disrespectful', 's01_e13_c10_u009')
+  tuple: ('be', 'I/Joey', 'disrespectful', 's01_e13_c10_u009')
+
+event_id: s01_e13_c10_u009_e2
+utterance_id: s01_e13_c10_u009
+  tuple: ('talk', 'you/Gloria', 'about what', 's01_e13_c10_u009')
+
+event_id: s01_e13_c10_u009_e3
+utterance_id: s01_e13_c10_u009
+  tuple: ('mean', 'I/Joey', None, 's01_e13_c10_u009')
+
+event_id: s01_e13_c10_u010_e1
+utterance_id: s01_e13_c10_u010
+  tuple: ('be', 'I/Gloria', 'fine', 's01_e13_c10_u010')
+
+event_id: s01_e13_c10_u010_e2
+utterance_id: s01_e13_c10_u010
+  tuple: ('be', 'there', 'no her', 's01_e13_c10_u010')
+
+event_id: s01_e13_c10_u010_e3
+utterance_id: s01_e13_c10_u010
+  tuple: ('look', 'your father', 'like Sting', 's01_e13_c10_u010')
+
+event_id: s01_e13_c10_u010_e4
+utterance_id: s01_e13_c10_u010
+  tuple: ('tell', 'I/Gloria', 'you something else', 's01_e13_c10_u010')
+
+event_id: s01_e13_c10_u010_e5
+utterance_id: s01_e13_c10_u010
+  tuple: ('come', 'that poodle-stuffer', 'along', 's01_e13_c10_u010')
+  tuple: ('be', 'he/your father', 'so ashamed of himself', 's01_e13_c10_u010')
+  tuple: ('be', 'he/your father', 'more attentive', 's01_e13_c10_u010')
+  tuple: ('be', 'he/your father', 'more loving', 's01_e13_c10_u010')
+  tuple: ('be', 'it', "like every day's our anniversary", 's01_e13_c10_u010')
+  tuple: ('be', 'every day', 'our anniversary', 's01_e13_c10_u010')
+
+event_id: s01_e13_c10_u011_e1
+utterance_id: s01_e13_c10_u011
+  tuple: ('be', 'I/Joey', 'happy for you/Gloria', 's01_e13_c10_u011')
+
+event_id: s01_e13_c10_u012_e1
+utterance_id: s01_e13_c10_u012
+  tuple: ('be', 'you/Joey', None, 's01_e13_c10_u012')
+
+event_id: s01_e13_c10_u012_e2
+utterance_id: s01_e13_c10_u012
+  tuple: ('be', 'everything', 'screwed up', 's01_e13_c10_u012')
+
+event_id: s01_e13_c10_u012_e3
+utterance_id: s01_e13_c10_u012
+  tuple: ('want', 'I/Gloria', 'it the way it was', 's01_e13_c10_u012')
+
+event_id: s01_e13_c10_u013_e1
+utterance_id: s01_e13_c10_u013
+  tuple: ('be', 'I/Joey', 'sorry', 's01_e13_c10_u013')
+
+event_id: s01_e13_c10_u013_e2
+utterance_id: s01_e13_c10_u013
+  tuple: ('do', 'I/Joey', "what I thought you'd want", 's01_e13_c10_u013')
+  tuple: ('think', 'I/Joey', 'you would want', 's01_e13_c10_u013')
+  tuple: ('want', 'you/Gloria', None, 's01_e13_c10_u013')
+
+event_id: s01_e13_c10_u014_e1
+utterance_id: s01_e13_c10_u014
+  tuple: ('know', 'I/Gloria', 'you did', 's01_e13_c10_u014')
+
+event_id: s01_e13_c10_u014_e2
+utterance_id: s01_e13_c10_u014
+  tuple: ('tell', 'you/Joey', 'me', 's01_e13_c10_u014')
+
+event_id: s01_e13_c10_u014_e3
+utterance_id: s01_e13_c10_u014
+  tuple: ('see', 'you/Joey', 'her', 's01_e13_c10_u014')
+
+event_id: s01_e13_c10_u015_e1
+utterance_id: s01_e13_c10_u015
+  tuple: ('be', 'you/Gloria', 'ten times prettier than she is', 's01_e13_c10_u015')
+
+event_id: s01_e13_c10_u016_e1
+utterance_id: s01_e13_c10_u016
+  tuple: ('be', 'that', 'sweet', 's01_e13_c10_u016')
+
+event_id: s01_e13_c10_u016_e2
+utterance_id: s01_e13_c10_u016
+  tuple: ('take', 'I/Gloria', 'her', 's01_e13_c10_u016')
+

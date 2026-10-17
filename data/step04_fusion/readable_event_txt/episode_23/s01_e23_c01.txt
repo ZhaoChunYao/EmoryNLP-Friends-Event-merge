@@ -1,0 +1,144 @@
+event_id: s01_e23_c01_u001_e1
+utterance_id: s01_e23_c01_u001
+  tuple: ('be', 'She/Carol Willick', 'here', 's01_e23_c01_u001')
+
+event_id: s01_e23_c01_u001_e2
+utterance_id: s01_e23_c01_u001
+  tuple: ('have', 'She/Carol Willick', 'my baby', 's01_e23_c01_u001')
+
+event_id: s01_e23_c01_u002_e1
+utterance_id: s01_e23_c01_u002
+  tuple: ('be', 'I/Monica Geller', "sure everything's fine", 's01_e23_c01_u002')
+  tuple: ('be', 'everything', 'fine', 's01_e23_c01_u002')
+
+event_id: s01_e23_c01_u002_e2
+utterance_id: s01_e23_c01_u002
+  tuple: ('break', 'her water', None, 's01_e23_c01_u002')
+
+event_id: s01_e23_c01_u003_e1
+utterance_id: s01_e23_c01_u003
+  tuple: ('know', 'I/Ross Geller', None, 's01_e23_c01_u003')
+
+event_id: s01_e23_c01_u003_e2
+utterance_id: s01_e23_c01_u003
+  tuple: ('speak', 'I/Ross Geller', 'to her', 's01_e23_c01_u003')
+  tuple: ('say', 'she/Carol Willick', 'she had already passed the mucus plug', 's01_e23_c01_u003')
+
+event_id: s01_e23_c01_u003_e3
+utterance_id: s01_e23_c01_u003
+  tuple: ('pass', 'she/Carol Willick', 'the mucus plug', 's01_e23_c01_u003')
+
+event_id: s01_e23_c01_u005_e1
+utterance_id: s01_e23_c01_u005
+  tuple: ('know', 'we/(Ross Geller+Monica Geller+Joey Tribbiani+Chandler Bing+Rachel Green)', 'that', 's01_e23_c01_u005')
+
+event_id: s01_e23_c01_u006_e1
+utterance_id: s01_e23_c01_u006
+  tuple: ('do', 'you/Joey Tribbiani', 'what', 's01_e23_c01_u006')
+
+event_id: s01_e23_c01_u006_e2
+utterance_id: s01_e23_c01_u006
+  tuple: ('have', 'you/Joey Tribbiani', 'a baby', 's01_e23_c01_u006')
+
+event_id: s01_e23_c01_u007_e1
+utterance_id: s01_e23_c01_u007
+  tuple: ('be', 'I/Joey Tribbiani', "in the waitin' room", 's01_e23_c01_u007')
+
+event_id: s01_e23_c01_u007_e2
+utterance_id: s01_e23_c01_u007
+  tuple: ('hand out', 'I/Joey Tribbiani', 'cigars', 's01_e23_c01_u007')
+
+event_id: s01_e23_c01_u008_e1
+utterance_id: s01_e23_c01_u008
+  tuple: ('make', 'Joey Tribbiani', "arrangements to have his baby in a movie from the 50's", 's01_e23_c01_u008')
+  tuple: ('have', 'Joey Tribbiani', 'his baby', 's01_e23_c01_u008')
+  tuple: ('have', 'Joey Tribbiani', 'in a movie', 's01_e23_c01_u008')
+  tuple: ('have', 'Joey Tribbiani', "from the 50's", 's01_e23_c01_u008')
+
+event_id: s01_e23_c01_u009_e1
+utterance_id: s01_e23_c01_u009
+  tuple: ('believe', 'I/Ross Geller', 'this', 's01_e23_c01_u009')
+
+event_id: s01_e23_c01_u009_e2
+utterance_id: s01_e23_c01_u009
+  tuple: ('give birth', 'she/Carol Willick', None, 's01_e23_c01_u009')
+  tuple: ('give birth', 'she/Carol Willick', 'in the cab', 's01_e23_c01_u009')
+
+event_id: s01_e23_c01_u010_e1
+utterance_id: s01_e23_c01_u010
+  tuple: ('relax', 'you/Ross Geller', None, 's01_e23_c01_u010')
+
+event_id: s01_e23_c01_u010_e2
+utterance_id: s01_e23_c01_u010
+  tuple: ('be', 'It/(cab fare)', 'like two dollars', 's01_e23_c01_u010')
+  tuple: ('be', 'It/(cab fare)', 'for the first contraction', 's01_e23_c01_u010')
+  tuple: ('be', 'It/(cab fare)', 'fifty cents', 's01_e23_c01_u010')
+  tuple: ('be', 'It/(cab fare)', 'for each additional contraction', 's01_e23_c01_u010')
+
+event_id: s01_e23_c01_u012_e1
+utterance_id: s01_e23_c01_u012
+  tuple: ('be', 'it/(Chandler making a joke)', 'ok', 's01_e23_c01_u012')
+  tuple: ('do', 'Chandler Bing', 'it', 's01_e23_c01_u012')
+
+event_id: s01_e23_c01_u013_e1
+utterance_id: s01_e23_c01_u013
+  tuple: ('pick', 'you/Rachel Green', 'your moments', 's01_e23_c01_u013')
+
+event_id: s01_e23_c01_u015_e1
+utterance_id: s01_e23_c01_u015
+  tuple: ('miss', 'I/Phoebe Buffay', 'it', 's01_e23_c01_u015')
+
+event_id: s01_e23_c01_u017_e1
+utterance_id: s01_e23_c01_u017
+  tuple: ('be', 'what', 'with the guitar', 's01_e23_c01_u017')
+
+event_id: s01_e23_c01_u018_e1
+utterance_id: s01_e23_c01_u018
+  tuple: ('think', 'I/Phoebe Buffay', 'we might be here for awhile', 's01_e23_c01_u018')
+  tuple: ('be', 'we/(Monica Geller+Chandler Bing+Phoebe Buffay+Rachel Green+Ross Geller+Joey Tribbiani)', 'here', 's01_e23_c01_u018')
+  tuple: ('be', 'we/(Monica Geller+Chandler Bing+Phoebe Buffay+Rachel Green+Ross Geller+Joey Tribbiani)', 'for awhile', 's01_e23_c01_u018')
+
+event_id: s01_e23_c01_u018_e2
+utterance_id: s01_e23_c01_u018
+  tuple: ('know', 'you/(everyone)', None, 's01_e23_c01_u018')
+
+event_id: s01_e23_c01_u018_e3
+utterance_id: s01_e23_c01_u018
+  tuple: ('get', 'things', 'musical', 's01_e23_c01_u018')
+
+event_id: s01_e23_c01_u020_e1
+utterance_id: s01_e23_c01_u020
+  tuple: ('be', 'you/(Susan Bunch+Carol Willick)', None, 's01_e23_c01_u020')
+
+event_id: s01_e23_c01_u021_e1
+utterance_id: s01_e23_c01_u021
+  tuple: ('stop', 'we/(Susan Bunch+Carol Willick)', 'at the gift shop', 's01_e23_c01_u021')
+
+event_id: s01_e23_c01_u022_e1
+utterance_id: s01_e23_c01_u022
+  tuple: ('look', 'I/Carol Willick', 'at stuffed animals', 's01_e23_c01_u022')
+
+event_id: s01_e23_c01_u022_e2
+utterance_id: s01_e23_c01_u022
+  tuple: ('want', 'Susan Bunch', 'a Chunky', 's01_e23_c01_u022')
+
+event_id: s01_e23_c01_u023_e1
+utterance_id: s01_e23_c01_u023
+  tuple: ('have', 'we/(Ross Geller+Carol Willick+Susan Bunch)', 'a baby', 's01_e23_c01_u023')
+
+event_id: s01_e23_c01_u023_e2
+utterance_id: s01_e23_c01_u023
+  tuple: ('stop', 'you/Susan Bunch', 'for Chunkys', 's01_e23_c01_u023')
+
+event_id: s01_e23_c01_u024_e1
+utterance_id: s01_e23_c01_u024
+  tuple: ('have', 'I/Chandler Bing', 'that bumper sticker', 's01_e23_c01_u024')
+
+event_id: s01_e23_c01_u026_e1
+utterance_id: s01_e23_c01_u026
+  tuple: ('see', 'you/Rachel Green', 'what I mean', 's01_e23_c01_u026')
+
+event_id: s01_e23_c01_u026_e2
+utterance_id: s01_e23_c01_u026
+  tuple: ('mean', 'I/Chandler Bing', 'what', 's01_e23_c01_u026')
+

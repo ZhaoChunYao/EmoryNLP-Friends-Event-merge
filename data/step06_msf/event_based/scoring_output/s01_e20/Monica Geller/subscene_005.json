@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up readily to point out floss in someone’s hair and later blurts a reaction loudly (“You had sex in his chair?”), showing outgoing, uninhibited behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helpfully and straightforwardly tells another person they have dental floss in their hair."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits repeating “You had sex in his chair?” too loudly, a careless social mistake that causes others to overhear."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Beyond noting the loudness of the comment, there is no clear sign of anxiety, sensitivity, or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear behavior indicating curiosity, imagination, or openness to new ideas; the loud reaction reflects surprise more than openness."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c12_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('welcome', 'I/Monica Geller', 'Frannie', 's01_e01_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'Florida', None, 's01_e01_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Monica Geller', 'sex', 's01_e01_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Franny', 'that', 's01_e01_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/Franny', 'you', 's01_e01_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('push', 'I/Franny', 'my Aunt Roz', 's01_e01_c12_u005')",
+            "('push', 'I/Franny', 'through Parrot Jungle', 's01_e01_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Franny', 'Paul', 's01_e01_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Franny', 'Paul', 's01_e01_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('mean', 'you/Franny', 'you know Paul like I know Paul', 's01_e01_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'I/Monica Geller', 'Paul', 's01_e01_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c12_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('kid', 'you/Monica Geller', None, 's01_e01_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('take', 'I/Franny', 'credit', 's01_e01_c12_u009')",
+            "('take', 'I/Franny', 'for Paul', 's01_e01_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('know', 'you/Monica Geller', None, 's01_e01_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'there', 'no snap', 's01_e01_c12_u009')",
+            "('be', 'there', 'before me', 's01_e01_c12_u009')",
+            "('be', 'there', 'in his turtle', 's01_e01_c12_u009')",
+            "('be', 'there', 'for two years', 's01_e01_c12_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

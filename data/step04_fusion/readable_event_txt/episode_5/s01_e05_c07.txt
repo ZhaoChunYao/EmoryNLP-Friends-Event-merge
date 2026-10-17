@@ -1,0 +1,157 @@
+event_id: s01_e05_c07_u001_e1
+utterance_id: s01_e05_c07_u001
+  tuple: ('come', 'Woman', 'through', 's01_e05_c07_u001')
+
+event_id: s01_e05_c07_u001_e2
+utterance_id: s01_e05_c07_u001
+  tuple: ('move', 'you/(others in laundromat)', None, 's01_e05_c07_u001')
+
+event_id: s01_e05_c07_u002_e1
+utterance_id: s01_e05_c07_u002
+  tuple: ('excuse', 'you/(Woman)', 'me', 's01_e05_c07_u002')
+
+event_id: s01_e05_c07_u002_e2
+utterance_id: s01_e05_c07_u002
+  tuple: ('use', 'Rachel Green', 'that machine', 's01_e05_c07_u002')
+
+event_id: s01_e05_c07_u004_e1
+utterance_id: s01_e05_c07_u004
+  tuple: ('save', 'Rachel Green', 'it', 's01_e05_c07_u004')
+  tuple: ('put', 'Rachel Green', 'my basket', 's01_e05_c07_u004')
+  tuple: ('put', 'Rachel Green', 'on top', 's01_e05_c07_u004')
+
+event_id: s01_e05_c07_u005_e1
+utterance_id: s01_e05_c07_u005
+  tuple: ('be', 'Woman', 'sorry', 's01_e05_c07_u005')
+
+event_id: s01_e05_c07_u005_e2
+utterance_id: s01_e05_c07_u005
+  tuple: ('be', 'that/(basket)', 'your basket', 's01_e05_c07_u005')
+
+event_id: s01_e05_c07_u005_e3
+utterance_id: s01_e05_c07_u005
+  tuple: ('be', 'it/(basket)', 'really pretty', 's01_e05_c07_u005')
+
+event_id: s01_e05_c07_u005_e4
+utterance_id: s01_e05_c07_u005
+  tuple: ('see', 'Woman', 'suds', 's01_e05_c07_u005')
+
+event_id: s01_e05_c07_u009_e1
+utterance_id: s01_e05_c07_u009
+  tuple: ('go', 'what/(situation)', 'on', 's01_e05_c07_u009')
+
+event_id: s01_e05_c07_u010_e1
+utterance_id: s01_e05_c07_u010
+  tuple: ('take', 'that horrible woman', 'my machine', 's01_e05_c07_u010')
+
+event_id: s01_e05_c07_u011_e1
+utterance_id: s01_e05_c07_u011
+  tuple: ('be', 'your basket', 'on top', 's01_e05_c07_u011')
+
+event_id: s01_e05_c07_u012_e1
+utterance_id: s01_e05_c07_u012
+  tuple: ('be', 'there/(existential)', 'no suds', 's01_e05_c07_u012')
+
+event_id: s01_e05_c07_u015_e1
+utterance_id: s01_e05_c07_u015
+  tuple: ('hold', 'you/(Woman)', 'on a second', 's01_e05_c07_u015')
+
+event_id: s01_e05_c07_u015_e2
+utterance_id: s01_e05_c07_u015
+  tuple: ('be', 'that/(machine)', "my friend's machine", 's01_e05_c07_u015')
+
+event_id: s01_e05_c07_u016_e1
+utterance_id: s01_e05_c07_u016
+  tuple: ('be', 'her stuff', None, 's01_e05_c07_u016')
+  tuple: ('be', 'her stuff', 'in it/(machine)', 's01_e05_c07_u016')
+
+event_id: s01_e05_c07_u017_e1
+utterance_id: s01_e05_c07_u017
+  tuple: ('be', 'that/(rule claim)', 'not the rule', 's01_e05_c07_u017')
+  tuple: ('know', 'you/(Woman)', 'it', 's01_e05_c07_u017')
+
+event_id: s01_e05_c07_u019_e1
+utterance_id: s01_e05_c07_u019
+  tuple: ('be', 'show', 'over', 's01_e05_c07_u019')
+
+event_id: s01_e05_c07_u019_e2
+utterance_id: s01_e05_c07_u019
+  tuple: ('do', 'we/(Ross Geller & Rachel Green)', 'laundry', 's01_e05_c07_u019')
+  tuple: ('let', 'us/(Ross Geller & Rachel Green)', 'do laundry', 's01_e05_c07_u019')
+
+event_id: s01_e05_c07_u020_e1
+utterance_id: s01_e05_c07_u020
+  tuple: ('be', 'that/(what Ross did)', 'amazing', 's01_e05_c07_u020')
+
+event_id: s01_e05_c07_u020_e2
+utterance_id: s01_e05_c07_u020
+  tuple: ('send', 'I/(Rachel Green)', 'back soup', 's01_e05_c07_u020')
+
+event_id: s01_e05_c07_u021_e1
+utterance_id: s01_e05_c07_u021
+  tuple: ('need', 'you/(Rachel Green)', 'detergent', 's01_e05_c07_u021')
+
+event_id: s01_e05_c07_u023_e1
+utterance_id: s01_e05_c07_u023
+  tuple: ('be', 'what/(detergent)', 'that', 's01_e05_c07_u023')
+
+event_id: s01_e05_c07_u024_e1
+utterance_id: s01_e05_c07_u024
+  tuple: ('be', 'it/(detergent)', 'new', 's01_e05_c07_u024')
+  tuple: ('be', 'it/(detergent)', 'German', 's01_e05_c07_u024')
+  tuple: ('be', 'it/(detergent)', 'extra-tough', 's01_e05_c07_u024')
+
+event_id: s01_e05_c07_u026_e1
+utterance_id: s01_e05_c07_u026
+  tuple: ('separate', 'you/(Rachel Green)', 'those', 's01_e05_c07_u026')
+
+event_id: s01_e05_c07_u027_e1
+utterance_id: s01_e05_c07_u027
+  tuple: ('be', 'I/(Rachel Green)', 'a total laundry spaz', 's01_e05_c07_u027')
+
+event_id: s01_e05_c07_u027_e2
+utterance_id: s01_e05_c07_u027
+  tuple: ('use', 'I/(Rachel Green)', 'one machine for shirts and another machine for pants', 's01_e05_c07_u027')
+
+event_id: s01_e05_c07_u028_e1
+utterance_id: s01_e05_c07_u028
+  tuple: ('do', 'you/(Rachel Green)', 'before this', 's01_e05_c07_u028')
+
+event_id: s01_e05_c07_u029_e1
+utterance_id: s01_e05_c07_u029
+  tuple: ('know', 'I/(Rachel Green)', 'other people', 's01_e05_c07_u029')
+
+event_id: s01_e05_c07_u029_e2
+utterance_id: s01_e05_c07_u029
+  tuple: ('catch', 'you/(Ross Geller)', 'me', 's01_e05_c07_u029')
+
+event_id: s01_e05_c07_u029_e3
+utterance_id: s01_e05_c07_u029
+  tuple: ('be', 'I/(Rachel Green)', 'a laundry virgin', 's01_e05_c07_u029')
+
+event_id: s01_e05_c07_u030_e1
+utterance_id: s01_e05_c07_u030
+  tuple: ('worry', 'you/(Rachel Green)', None, 's01_e05_c07_u030')
+
+event_id: s01_e05_c07_u030_e2
+utterance_id: s01_e05_c07_u030
+  tuple: ('use', 'I/(Ross Geller)', 'the gentle cycle', 's01_e05_c07_u030')
+
+event_id: s01_e05_c07_u030_e3
+utterance_id: s01_e05_c07_u030
+  tuple: ('want', 'you/(Rachel Green)', 'use one machine for all your whites, a whole nother machine for colors, and a third for your delicates', 's01_e05_c07_u030')
+  tuple: ('be', 'that/(your delicates)', 'your bras and your under-panty things', 's01_e05_c07_u030')
+
+event_id: s01_e05_c07_u031_e1
+utterance_id: s01_e05_c07_u031
+  tuple: ('be', 'these/(panties)', 'white cotton panties', 's01_e05_c07_u031')
+
+event_id: s01_e05_c07_u031_e2
+utterance_id: s01_e05_c07_u031
+  tuple: ('go', 'they/(panties)', 'with whites', 's01_e05_c07_u031')
+  tuple: ('go', 'they/(panties)', 'with delicates', 's01_e05_c07_u031')
+
+event_id: s01_e05_c07_u032_e1
+utterance_id: s01_e05_c07_u032
+  tuple: ('be', 'that/(classification question)', 'a judgment call', 's01_e05_c07_u032')
+

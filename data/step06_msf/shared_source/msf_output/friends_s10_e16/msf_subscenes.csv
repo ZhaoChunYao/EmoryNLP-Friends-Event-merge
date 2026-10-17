@@ -1,0 +1,753 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e16,s10_e16_c01,Chandler Bing,0,3,5,2,6,2,s10_e16_c01_u003,s10_e16_c01_u011,"[s10_e16_c01_u003] Joey Tribbiani: Just flip!
+[s10_e16_c01_u004] Rachel Green: Ha, tails!
+[s10_e16_c01_u005] Joey Tribbiani: Damnit!
+[s10_e16_c01_u006] Chandler Bing: Hey!
+[s10_e16_c01_u007] Joey Tribbiani: Hey!
+[s10_e16_c01_u008] Chandler Bing: So we thought we'd throw you little going away party around seven.
+[s10_e16_c01_u009] Rachel Green: Oh, that sounds good!
+[s10_e16_c01_u010] Monica Geller: Hey, Rach, you're leaving tomorrow, shouldn't you be packing?
+[s10_e16_c01_u011] Rachel Green: It's all done!"
+s10_e16,s10_e16_c01,Chandler Bing,1,14,16,13,17,2,s10_e16_c01_u014,s10_e16_c01_u022,"[s10_e16_c01_u014] Monica Geller: Ok, so you've done some good work! What about your carry-ons?
+[s10_e16_c01_u015] Rachel Green: Oh, well. Everything that I need is in here and my travel documents are on the counter organized in the order that I will be needing them.
+[s10_e16_c01_u016] Monica Geller: Oh my God! I have nothing left to teach you!
+[s10_e16_c01_u017] Chandler Bing: Where's your passport?
+[s10_e16_c01_u018] Rachel Green: It should be right next to my plane ticket.
+[s10_e16_c01_u019] Chandler Bing: Well, it's not.
+[s10_e16_c01_u020] Rachel Green: What? Maybe I put it in here . Oh, oh, it's not in there! Oh, no! I must have packed it in one of these boxes!
+[s10_e16_c01_u021] Monica Geller: Here, let me help you.
+[s10_e16_c01_u022] Rachel Green: Shoot. Oh, I can't believe I did this!"
+s10_e16,s10_e16_c01,Chandler Bing,2,18,18,17,18,2,s10_e16_c01_u018,s10_e16_c01_u023,"[s10_e16_c01_u018] Rachel Green: It should be right next to my plane ticket.
+[s10_e16_c01_u019] Chandler Bing: Well, it's not.
+[s10_e16_c01_u020] Rachel Green: What? Maybe I put it in here . Oh, oh, it's not in there! Oh, no! I must have packed it in one of these boxes!
+[s10_e16_c01_u021] Monica Geller: Here, let me help you.
+[s10_e16_c01_u022] Rachel Green: Shoot. Oh, I can't believe I did this!
+[s10_e16_c01_u023] Chandler Bing: At what point did it stop being funny that I took her passport? OPENING SEQUENCE."
+s10_e16,s10_e16_c01,Joey Tribbiani,0,0,4,0,5,3,s10_e16_c01_u001,s10_e16_c01_u010,"[s10_e16_c01_u001] Joey Tribbiani: All right, all right, all right, let's play one more time, ok? And remember, if I win you do not move to Paris.
+[s10_e16_c01_u002] Rachel Green: Ok! Can't believe I'm risking this again, but you're on! All right Joe, you remember the rules! Heads I win, tails you lose.
+[s10_e16_c01_u003] Joey Tribbiani: Just flip!
+[s10_e16_c01_u004] Rachel Green: Ha, tails!
+[s10_e16_c01_u005] Joey Tribbiani: Damnit!
+[s10_e16_c01_u006] Chandler Bing: Hey!
+[s10_e16_c01_u007] Joey Tribbiani: Hey!
+[s10_e16_c01_u008] Chandler Bing: So we thought we'd throw you little going away party around seven.
+[s10_e16_c01_u009] Rachel Green: Oh, that sounds good!
+[s10_e16_c01_u010] Monica Geller: Hey, Rach, you're leaving tomorrow, shouldn't you be packing?"
+s10_e16,s10_e16_c01,Monica Geller,0,7,13,6,14,3,s10_e16_c01_u007,s10_e16_c01_u019,"[s10_e16_c01_u007] Joey Tribbiani: Hey!
+[s10_e16_c01_u008] Chandler Bing: So we thought we'd throw you little going away party around seven.
+[s10_e16_c01_u009] Rachel Green: Oh, that sounds good!
+[s10_e16_c01_u010] Monica Geller: Hey, Rach, you're leaving tomorrow, shouldn't you be packing?
+[s10_e16_c01_u011] Rachel Green: It's all done!
+[s10_e16_c01_u012] Monica Geller: Oh, yeah, right! And after I took a shower this morning I just threw my towel on the floor! Oh God, it hurts to even joke about it.
+[s10_e16_c01_u013] Rachel Green: I know... Honey, seriously, I did it all. The luggage that I'm taking is in the bedroom, this is Emma's Paris stuff, these are the boxes that I'm having shipped, and that's the sandwich that I made for the plane...
+[s10_e16_c01_u014] Monica Geller: Ok, so you've done some good work! What about your carry-ons?
+[s10_e16_c01_u015] Rachel Green: Oh, well. Everything that I need is in here and my travel documents are on the counter organized in the order that I will be needing them.
+[s10_e16_c01_u016] Monica Geller: Oh my God! I have nothing left to teach you!
+[s10_e16_c01_u017] Chandler Bing: Where's your passport?
+[s10_e16_c01_u018] Rachel Green: It should be right next to my plane ticket.
+[s10_e16_c01_u019] Chandler Bing: Well, it's not."
+s10_e16,s10_e16_c01,Rachel Green,0,0,1,0,2,2,s10_e16_c01_u001,s10_e16_c01_u007,"[s10_e16_c01_u001] Joey Tribbiani: All right, all right, all right, let's play one more time, ok? And remember, if I win you do not move to Paris.
+[s10_e16_c01_u002] Rachel Green: Ok! Can't believe I'm risking this again, but you're on! All right Joe, you remember the rules! Heads I win, tails you lose.
+[s10_e16_c01_u003] Joey Tribbiani: Just flip!
+[s10_e16_c01_u004] Rachel Green: Ha, tails!
+[s10_e16_c01_u005] Joey Tribbiani: Damnit!
+[s10_e16_c01_u006] Chandler Bing: Hey!
+[s10_e16_c01_u007] Joey Tribbiani: Hey!"
+s10_e16,s10_e16_c01,Rachel Green,1,6,18,5,18,3,s10_e16_c01_u006,s10_e16_c01_u023,"[s10_e16_c01_u006] Chandler Bing: Hey!
+[s10_e16_c01_u007] Joey Tribbiani: Hey!
+[s10_e16_c01_u008] Chandler Bing: So we thought we'd throw you little going away party around seven.
+[s10_e16_c01_u009] Rachel Green: Oh, that sounds good!
+[s10_e16_c01_u010] Monica Geller: Hey, Rach, you're leaving tomorrow, shouldn't you be packing?
+[s10_e16_c01_u011] Rachel Green: It's all done!
+[s10_e16_c01_u012] Monica Geller: Oh, yeah, right! And after I took a shower this morning I just threw my towel on the floor! Oh God, it hurts to even joke about it.
+[s10_e16_c01_u013] Rachel Green: I know... Honey, seriously, I did it all. The luggage that I'm taking is in the bedroom, this is Emma's Paris stuff, these are the boxes that I'm having shipped, and that's the sandwich that I made for the plane...
+[s10_e16_c01_u014] Monica Geller: Ok, so you've done some good work! What about your carry-ons?
+[s10_e16_c01_u015] Rachel Green: Oh, well. Everything that I need is in here and my travel documents are on the counter organized in the order that I will be needing them.
+[s10_e16_c01_u016] Monica Geller: Oh my God! I have nothing left to teach you!
+[s10_e16_c01_u017] Chandler Bing: Where's your passport?
+[s10_e16_c01_u018] Rachel Green: It should be right next to my plane ticket.
+[s10_e16_c01_u019] Chandler Bing: Well, it's not.
+[s10_e16_c01_u020] Rachel Green: What? Maybe I put it in here . Oh, oh, it's not in there! Oh, no! I must have packed it in one of these boxes!
+[s10_e16_c01_u021] Monica Geller: Here, let me help you.
+[s10_e16_c01_u022] Rachel Green: Shoot. Oh, I can't believe I did this!
+[s10_e16_c01_u023] Chandler Bing: At what point did it stop being funny that I took her passport? OPENING SEQUENCE."
+s10_e16,s10_e16_c02,Erica,0,0,7,0,8,3,s10_e16_c02_u001,s10_e16_c02_u013,"[s10_e16_c02_u001] Monica Geller: Oh, wow, can you believe you're like three weeks away?
+[s10_e16_c02_u002] Erica: I know.
+[s10_e16_c02_u003] Monica Geller: You don't mind me touching your belly, do you?
+[s10_e16_c02_u004] Erica: No, I don't mind you touching my belly, but right now your hand is kind of blocking the part where the baby is gonna come out.
+[s10_e16_c02_u005] Ross Geller: Hey!
+[s10_e16_c02_u006] Erica: Hi.
+[s10_e16_c02_u007] Ross Geller: Hey Erica, welcome back to town! Wow, look how big you've gotten.
+[s10_e16_c02_u008] Erica: That's because I'm pregnant!
+[s10_e16_c02_u009] Ross Geller: Right, no, I understand.
+[s10_e16_c02_u010] Erica: Oh, ok. I'm just always afraid that people think I'm just fat with big breasts.
+[s10_e16_c02_u011] Ross Geller: No, no, I knew .
+[s10_e16_c02_u012] Monica Geller: Okay, well, stop staring at them.
+[s10_e16_c02_u013] Ross Geller: She brought them up! I didn't realize you were coming back so soon!"
+s10_e16,s10_e16_c02,Erica,1,9,9,8,10,2,s10_e16_c02_u009,s10_e16_c02_u015,"[s10_e16_c02_u009] Ross Geller: Right, no, I understand.
+[s10_e16_c02_u010] Erica: Oh, ok. I'm just always afraid that people think I'm just fat with big breasts.
+[s10_e16_c02_u011] Ross Geller: No, no, I knew .
+[s10_e16_c02_u012] Monica Geller: Okay, well, stop staring at them.
+[s10_e16_c02_u013] Ross Geller: She brought them up! I didn't realize you were coming back so soon!
+[s10_e16_c02_u014] Erica: Hey, well, in a couple of weeks I won't be able to travel.
+[s10_e16_c02_u015] Monica Geller: Yeah, and I wanted her to get to know the doctors and get settled into the hotel."
+s10_e16,s10_e16_c02,Erica,2,13,13,12,14,2,s10_e16_c02_u013,s10_e16_c02_u019,"[s10_e16_c02_u013] Ross Geller: She brought them up! I didn't realize you were coming back so soon!
+[s10_e16_c02_u014] Erica: Hey, well, in a couple of weeks I won't be able to travel.
+[s10_e16_c02_u015] Monica Geller: Yeah, and I wanted her to get to know the doctors and get settled into the hotel.
+[s10_e16_c02_u016] Ross Geller: Hotel? Why isn't she staying with you guys?
+[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product..."
+s10_e16,s10_e16_c02,Erica,3,16,17,15,18,2,s10_e16_c02_u016,s10_e16_c02_u023,"[s10_e16_c02_u016] Ross Geller: Hotel? Why isn't she staying with you guys?
+[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product...
+[s10_e16_c02_u020] Monica Geller: Ross! She's giving us her baby. She can eat you if she wants.
+[s10_e16_c02_u021] Erica: I'll be right back.
+[s10_e16_c02_u022] Ross Geller: Oh man, I can't believe you guys are leaving this place.
+[s10_e16_c02_u023] Monica Geller: Oh, I know. I know. Hey, you know, you can take it if you want! The lease is still in Nana's name."
+s10_e16,s10_e16_c02,Monica Geller,0,0,0,0,1,2,s10_e16_c02_u001,s10_e16_c02_u006,"[s10_e16_c02_u001] Monica Geller: Oh, wow, can you believe you're like three weeks away?
+[s10_e16_c02_u002] Erica: I know.
+[s10_e16_c02_u003] Monica Geller: You don't mind me touching your belly, do you?
+[s10_e16_c02_u004] Erica: No, I don't mind you touching my belly, but right now your hand is kind of blocking the part where the baby is gonna come out.
+[s10_e16_c02_u005] Ross Geller: Hey!
+[s10_e16_c02_u006] Erica: Hi."
+s10_e16,s10_e16_c02,Monica Geller,1,10,16,9,17,2,s10_e16_c02_u010,s10_e16_c02_u022,"[s10_e16_c02_u010] Erica: Oh, ok. I'm just always afraid that people think I'm just fat with big breasts.
+[s10_e16_c02_u011] Ross Geller: No, no, I knew .
+[s10_e16_c02_u012] Monica Geller: Okay, well, stop staring at them.
+[s10_e16_c02_u013] Ross Geller: She brought them up! I didn't realize you were coming back so soon!
+[s10_e16_c02_u014] Erica: Hey, well, in a couple of weeks I won't be able to travel.
+[s10_e16_c02_u015] Monica Geller: Yeah, and I wanted her to get to know the doctors and get settled into the hotel.
+[s10_e16_c02_u016] Ross Geller: Hotel? Why isn't she staying with you guys?
+[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product...
+[s10_e16_c02_u020] Monica Geller: Ross! She's giving us her baby. She can eat you if she wants.
+[s10_e16_c02_u021] Erica: I'll be right back.
+[s10_e16_c02_u022] Ross Geller: Oh man, I can't believe you guys are leaving this place."
+s10_e16,s10_e16_c02,Monica Geller,2,18,24,17,24,3,s10_e16_c02_u018,s10_e16_c02_u029,"[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product...
+[s10_e16_c02_u020] Monica Geller: Ross! She's giving us her baby. She can eat you if she wants.
+[s10_e16_c02_u021] Erica: I'll be right back.
+[s10_e16_c02_u022] Ross Geller: Oh man, I can't believe you guys are leaving this place.
+[s10_e16_c02_u023] Monica Geller: Oh, I know. I know. Hey, you know, you can take it if you want! The lease is still in Nana's name.
+[s10_e16_c02_u024] Ross Geller: No, no. This will always be your place. It would be too sad. Plus, how much a month does it cost to feed Joey?
+[s10_e16_c02_u025] Monica Geller: Yeah, it takes two incomes.
+[s10_e16_c02_u026] Ross Geller: Hey, is Chandler here? We talked about catching a movie.
+[s10_e16_c02_u027] Monica Geller: Oh, no. He doesn't have time for that. But if you want, you can go help him and Joey pack up the guest room.
+[s10_e16_c02_u028] Ross Geller: Mhm, packing - sexy cheerleader comedy.
+[s10_e16_c02_u029] Monica Geller: Mhm, helpful brother - creepy loner at teen movie."
+s10_e16,s10_e16_c02,Ross Geller,0,2,12,1,13,3,s10_e16_c02_u002,s10_e16_c02_u018,"[s10_e16_c02_u002] Erica: I know.
+[s10_e16_c02_u003] Monica Geller: You don't mind me touching your belly, do you?
+[s10_e16_c02_u004] Erica: No, I don't mind you touching my belly, but right now your hand is kind of blocking the part where the baby is gonna come out.
+[s10_e16_c02_u005] Ross Geller: Hey!
+[s10_e16_c02_u006] Erica: Hi.
+[s10_e16_c02_u007] Ross Geller: Hey Erica, welcome back to town! Wow, look how big you've gotten.
+[s10_e16_c02_u008] Erica: That's because I'm pregnant!
+[s10_e16_c02_u009] Ross Geller: Right, no, I understand.
+[s10_e16_c02_u010] Erica: Oh, ok. I'm just always afraid that people think I'm just fat with big breasts.
+[s10_e16_c02_u011] Ross Geller: No, no, I knew .
+[s10_e16_c02_u012] Monica Geller: Okay, well, stop staring at them.
+[s10_e16_c02_u013] Ross Geller: She brought them up! I didn't realize you were coming back so soon!
+[s10_e16_c02_u014] Erica: Hey, well, in a couple of weeks I won't be able to travel.
+[s10_e16_c02_u015] Monica Geller: Yeah, and I wanted her to get to know the doctors and get settled into the hotel.
+[s10_e16_c02_u016] Ross Geller: Hotel? Why isn't she staying with you guys?
+[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!"
+s10_e16,s10_e16_c02,Ross Geller,1,14,15,13,16,2,s10_e16_c02_u014,s10_e16_c02_u021,"[s10_e16_c02_u014] Erica: Hey, well, in a couple of weeks I won't be able to travel.
+[s10_e16_c02_u015] Monica Geller: Yeah, and I wanted her to get to know the doctors and get settled into the hotel.
+[s10_e16_c02_u016] Ross Geller: Hotel? Why isn't she staying with you guys?
+[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product...
+[s10_e16_c02_u020] Monica Geller: Ross! She's giving us her baby. She can eat you if she wants.
+[s10_e16_c02_u021] Erica: I'll be right back."
+s10_e16,s10_e16_c02,Ross Geller,2,17,24,16,24,3,s10_e16_c02_u017,s10_e16_c02_u029,"[s10_e16_c02_u017] Monica Geller: Because we're moving in a couple of days and it just didn't make sense.
+[s10_e16_c02_u018] Erica: Plus hotels are fun! My room has this little fridge full of free snacks!
+[s10_e16_c02_u019] Ross Geller: Erica, those things aren't free. In fact they have one of the highest mark-ups of any consumer product...
+[s10_e16_c02_u020] Monica Geller: Ross! She's giving us her baby. She can eat you if she wants.
+[s10_e16_c02_u021] Erica: I'll be right back.
+[s10_e16_c02_u022] Ross Geller: Oh man, I can't believe you guys are leaving this place.
+[s10_e16_c02_u023] Monica Geller: Oh, I know. I know. Hey, you know, you can take it if you want! The lease is still in Nana's name.
+[s10_e16_c02_u024] Ross Geller: No, no. This will always be your place. It would be too sad. Plus, how much a month does it cost to feed Joey?
+[s10_e16_c02_u025] Monica Geller: Yeah, it takes two incomes.
+[s10_e16_c02_u026] Ross Geller: Hey, is Chandler here? We talked about catching a movie.
+[s10_e16_c02_u027] Monica Geller: Oh, no. He doesn't have time for that. But if you want, you can go help him and Joey pack up the guest room.
+[s10_e16_c02_u028] Ross Geller: Mhm, packing - sexy cheerleader comedy.
+[s10_e16_c02_u029] Monica Geller: Mhm, helpful brother - creepy loner at teen movie."
+s10_e16,s10_e16_c03,Chandler Bing,0,1,12,0,12,2,s10_e16_c03_u001,s10_e16_c03_u017,"[s10_e16_c03_u001] Ross Geller: What are you guys doing?
+[s10_e16_c03_u002] Joey Tribbiani: Try it, I can't feel a thing!
+[s10_e16_c03_u003] Monica Geller: Are, are you kidding? This is packing?
+[s10_e16_c03_u004] Chandler Bing: We're taking a break!
+[s10_e16_c03_u005] Monica Geller: From?
+[s10_e16_c03_u006] Chandler Bing: Jumping on the bed?
+[s10_e16_c03_u007] Monica Geller: All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!
+[s10_e16_c03_u008] Ross Geller: You got it! . All right, she's right, we gotta get serious. Let's put styrofoam peanuts down his pants and kick him!
+[s10_e16_c03_u009] Chandler Bing: No, no, no, guys. She's right. We should get to work. I'll take stuff out of the closet, Joey you pack 'em and Ross you re-pack whatever Joey packs.
+[s10_e16_c03_u010] Joey Tribbiani: You guys hear a ringing?
+[s10_e16_c03_u011] Chandler Bing: What the hell is this?
+[s10_e16_c03_u012] Joey Tribbiani: Hey! Handcuffs! And fur line, nice! I didn't know you guys had it in ya!
+[s10_e16_c03_u013] Ross Geller: Chandler, you don't have a sister so you can't understand how much this bums me out.
+[s10_e16_c03_u014] Chandler Bing: I didn't know Monica had these!
+[s10_e16_c03_u015] Joey Tribbiani: Mhm, maybe she used them with another boyfriend. Maybe Richard!
+[s10_e16_c03_u016] Chandler Bing: Why would she use them with Richard and not me? I can be kinky! I once did a naked dance for her... with scarves!
+[s10_e16_c03_u017] Ross Geller: Bumming hard, guys, bumming hard."
+s10_e16,s10_e16_c03,Joey Tribbiani,0,7,11,6,12,2,s10_e16_c03_u007,s10_e16_c03_u017,"[s10_e16_c03_u007] Monica Geller: All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!
+[s10_e16_c03_u008] Ross Geller: You got it! . All right, she's right, we gotta get serious. Let's put styrofoam peanuts down his pants and kick him!
+[s10_e16_c03_u009] Chandler Bing: No, no, no, guys. She's right. We should get to work. I'll take stuff out of the closet, Joey you pack 'em and Ross you re-pack whatever Joey packs.
+[s10_e16_c03_u010] Joey Tribbiani: You guys hear a ringing?
+[s10_e16_c03_u011] Chandler Bing: What the hell is this?
+[s10_e16_c03_u012] Joey Tribbiani: Hey! Handcuffs! And fur line, nice! I didn't know you guys had it in ya!
+[s10_e16_c03_u013] Ross Geller: Chandler, you don't have a sister so you can't understand how much this bums me out.
+[s10_e16_c03_u014] Chandler Bing: I didn't know Monica had these!
+[s10_e16_c03_u015] Joey Tribbiani: Mhm, maybe she used them with another boyfriend. Maybe Richard!
+[s10_e16_c03_u016] Chandler Bing: Why would she use them with Richard and not me? I can be kinky! I once did a naked dance for her... with scarves!
+[s10_e16_c03_u017] Ross Geller: Bumming hard, guys, bumming hard."
+s10_e16,s10_e16_c03,Monica Geller,0,0,4,0,5,3,s10_e16_c03_u001,s10_e16_c03_u010,"[s10_e16_c03_u001] Ross Geller: What are you guys doing?
+[s10_e16_c03_u002] Joey Tribbiani: Try it, I can't feel a thing!
+[s10_e16_c03_u003] Monica Geller: Are, are you kidding? This is packing?
+[s10_e16_c03_u004] Chandler Bing: We're taking a break!
+[s10_e16_c03_u005] Monica Geller: From?
+[s10_e16_c03_u006] Chandler Bing: Jumping on the bed?
+[s10_e16_c03_u007] Monica Geller: All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!
+[s10_e16_c03_u008] Ross Geller: You got it! . All right, she's right, we gotta get serious. Let's put styrofoam peanuts down his pants and kick him!
+[s10_e16_c03_u009] Chandler Bing: No, no, no, guys. She's right. We should get to work. I'll take stuff out of the closet, Joey you pack 'em and Ross you re-pack whatever Joey packs.
+[s10_e16_c03_u010] Joey Tribbiani: You guys hear a ringing?"
+s10_e16,s10_e16_c03,Ross Geller,0,12,12,11,12,2,s10_e16_c03_u012,s10_e16_c03_u017,"[s10_e16_c03_u012] Joey Tribbiani: Hey! Handcuffs! And fur line, nice! I didn't know you guys had it in ya!
+[s10_e16_c03_u013] Ross Geller: Chandler, you don't have a sister so you can't understand how much this bums me out.
+[s10_e16_c03_u014] Chandler Bing: I didn't know Monica had these!
+[s10_e16_c03_u015] Joey Tribbiani: Mhm, maybe she used them with another boyfriend. Maybe Richard!
+[s10_e16_c03_u016] Chandler Bing: Why would she use them with Richard and not me? I can be kinky! I once did a naked dance for her... with scarves!
+[s10_e16_c03_u017] Ross Geller: Bumming hard, guys, bumming hard."
+s10_e16,s10_e16_c04,Chandler Bing,0,20,20,19,21,2,s10_e16_c04_u021,s10_e16_c04_u027,"[s10_e16_c04_u021] Ross Geller: Oh, man! I can't believe she's actually leaving. How am I gonna say goodbye to Rachel?
+[s10_e16_c04_u022] Chandler Bing: I know, she's been such a big part of my life. And it feels like when Melrose Place got cancelled. I mean... oh, forget it. I miss Melrose Place!
+[s10_e16_c04_u023] Joey Tribbiani: You know, I had a chance to stop her too!
+[s10_e16_c04_u024] Ross Geller: Yeah?
+[s10_e16_c04_u025] Joey Tribbiani: Who loses fifty seven coin tosses in a row? Head she wins, tails I lose. Wait a minute...
+[s10_e16_c04_u026] Chandler Bing: Yes, Joe?
+[s10_e16_c04_u027] Joey Tribbiani: I forgot to pick up my dry cleaning!"
+s10_e16,s10_e16_c04,Joey Tribbiani,0,6,10,5,11,2,s10_e16_c04_u006,s10_e16_c04_u017,"[s10_e16_c04_u006] Ross Geller: Rock on! Phoebe : Wow, this is quite a spread! What is all this stuff?
+[s10_e16_c04_u007] Monica Geller: Well, I thought this would be a great opportunity to use up all the food that I don't want to move to the new house with me! So, enjoy: smoke oyster casserole with a breakfast cereal crust, kidney beans in their own juices, and for dessert, a questionable orange.
+[s10_e16_c04_u008] Joey Tribbiani: Hey.
+[s10_e16_c04_u009] Chandler Bing: Hey.
+[s10_e16_c04_u010] Ross Geller: Hey, where's Rach?
+[s10_e16_c04_u011] Joey Tribbiani: Oh, she's putting Emma down, she'll be over in a second.
+[s10_e16_c04_u012] Ross Geller: Great.
+[s10_e16_c04_u013] Joey Tribbiani: Now it just hit her that she's leaving and she's kind of emotional so no one say anything to set her off, ok?
+[s10_e16_c04_u014] Monica Geller: Yeah.
+[s10_e16_c04_u015] #ALL#: Hey Rach, hey you.
+[s10_e16_c04_u016] Ross Geller: Here she is!
+[s10_e16_c04_u017] Rachel Green: Hi you guys!"
+s10_e16,s10_e16_c04,Joey Tribbiani,1,12,12,11,13,2,s10_e16_c04_u012,s10_e16_c04_u019,"[s10_e16_c04_u012] Ross Geller: Great.
+[s10_e16_c04_u013] Joey Tribbiani: Now it just hit her that she's leaving and she's kind of emotional so no one say anything to set her off, ok?
+[s10_e16_c04_u014] Monica Geller: Yeah.
+[s10_e16_c04_u015] #ALL#: Hey Rach, hey you.
+[s10_e16_c04_u016] Ross Geller: Here she is!
+[s10_e16_c04_u017] Rachel Green: Hi you guys!
+[s10_e16_c04_u018] Joey Tribbiani: What did I just say?
+[s10_e16_c04_u019] Rachel Green: No, no, no. It's ok. I'm gonna be fine."
+s10_e16,s10_e16_c04,Joey Tribbiani,2,19,23,18,24,3,s10_e16_c04_u020,s10_e16_c04_u030,"[s10_e16_c04_u020] Monica Geller: Come here, I'll make you a drink.
+[s10_e16_c04_u021] Ross Geller: Oh, man! I can't believe she's actually leaving. How am I gonna say goodbye to Rachel?
+[s10_e16_c04_u022] Chandler Bing: I know, she's been such a big part of my life. And it feels like when Melrose Place got cancelled. I mean... oh, forget it. I miss Melrose Place!
+[s10_e16_c04_u023] Joey Tribbiani: You know, I had a chance to stop her too!
+[s10_e16_c04_u024] Ross Geller: Yeah?
+[s10_e16_c04_u025] Joey Tribbiani: Who loses fifty seven coin tosses in a row? Head she wins, tails I lose. Wait a minute...
+[s10_e16_c04_u026] Chandler Bing: Yes, Joe?
+[s10_e16_c04_u027] Joey Tribbiani: I forgot to pick up my dry cleaning!
+[s10_e16_c04_u028] Phoebe Buffay: You doing ok?
+[s10_e16_c04_u029] Rachel Green: Well, I've been better.
+[s10_e16_c04_u030] Phoebe Buffay: Uh-hmm."
+s10_e16,s10_e16_c04,Phoebe Buffay,0,0,2,0,3,3,s10_e16_c04_u001,s10_e16_c04_u008,"[s10_e16_c04_u001] Phoebe Buffay: Hey!
+[s10_e16_c04_u002] Monica Geller: Hey! Where's Mike?
+[s10_e16_c04_u003] Phoebe Buffay: Oh, he has a gig. I kinda like being married to a rock star, you know. My husband has a gig.
+[s10_e16_c04_u004] Ross Geller: Yeah? Yeah, where is it?
+[s10_e16_c04_u005] Phoebe Buffay: Oh, he's playing organ for a children's roller-skating party.
+[s10_e16_c04_u006] Ross Geller: Rock on! Phoebe : Wow, this is quite a spread! What is all this stuff?
+[s10_e16_c04_u007] Monica Geller: Well, I thought this would be a great opportunity to use up all the food that I don't want to move to the new house with me! So, enjoy: smoke oyster casserole with a breakfast cereal crust, kidney beans in their own juices, and for dessert, a questionable orange.
+[s10_e16_c04_u008] Joey Tribbiani: Hey."
+s10_e16,s10_e16_c04,Phoebe Buffay,1,24,30,23,31,3,s10_e16_c04_u025,s10_e16_c04_u037,"[s10_e16_c04_u025] Joey Tribbiani: Who loses fifty seven coin tosses in a row? Head she wins, tails I lose. Wait a minute...
+[s10_e16_c04_u026] Chandler Bing: Yes, Joe?
+[s10_e16_c04_u027] Joey Tribbiani: I forgot to pick up my dry cleaning!
+[s10_e16_c04_u028] Phoebe Buffay: You doing ok?
+[s10_e16_c04_u029] Rachel Green: Well, I've been better.
+[s10_e16_c04_u030] Phoebe Buffay: Uh-hmm.
+[s10_e16_c04_u031] Rachel Green: You guys are gonna come and visit me, right?
+[s10_e16_c04_u032] Phoebe Buffay: Yes! You know, in six months the Statute of Limitations runs out and I can travel internationally again!
+[s10_e16_c04_u033] Rachel Green: I'm gonna miss you so much.
+[s10_e16_c04_u034] Phoebe Buffay: I know.
+[s10_e16_c04_u035] Rachel Green: You know what? Uhm, I have some goodbye stuff that I wanted to say to each of you and I was gonna save it until the end of the night, but come here .
+[s10_e16_c04_u036] Ross Geller: Hey, what do you think they're doing in there?
+[s10_e16_c04_u037] Joey Tribbiani: Huh, if I had to guess I'd say Rachel is putting on the bubble wrap and Phoebe is doing the punching."
+s10_e16,s10_e16_c04,Rachel Green,0,13,15,12,16,2,s10_e16_c04_u013,s10_e16_c04_u022,"[s10_e16_c04_u013] Joey Tribbiani: Now it just hit her that she's leaving and she's kind of emotional so no one say anything to set her off, ok?
+[s10_e16_c04_u014] Monica Geller: Yeah.
+[s10_e16_c04_u015] #ALL#: Hey Rach, hey you.
+[s10_e16_c04_u016] Ross Geller: Here she is!
+[s10_e16_c04_u017] Rachel Green: Hi you guys!
+[s10_e16_c04_u018] Joey Tribbiani: What did I just say?
+[s10_e16_c04_u019] Rachel Green: No, no, no. It's ok. I'm gonna be fine.
+[s10_e16_c04_u020] Monica Geller: Come here, I'll make you a drink.
+[s10_e16_c04_u021] Ross Geller: Oh, man! I can't believe she's actually leaving. How am I gonna say goodbye to Rachel?
+[s10_e16_c04_u022] Chandler Bing: I know, she's been such a big part of my life. And it feels like when Melrose Place got cancelled. I mean... oh, forget it. I miss Melrose Place!"
+s10_e16,s10_e16_c04,Rachel Green,1,25,31,24,31,3,s10_e16_c04_u026,s10_e16_c04_u037,"[s10_e16_c04_u026] Chandler Bing: Yes, Joe?
+[s10_e16_c04_u027] Joey Tribbiani: I forgot to pick up my dry cleaning!
+[s10_e16_c04_u028] Phoebe Buffay: You doing ok?
+[s10_e16_c04_u029] Rachel Green: Well, I've been better.
+[s10_e16_c04_u030] Phoebe Buffay: Uh-hmm.
+[s10_e16_c04_u031] Rachel Green: You guys are gonna come and visit me, right?
+[s10_e16_c04_u032] Phoebe Buffay: Yes! You know, in six months the Statute of Limitations runs out and I can travel internationally again!
+[s10_e16_c04_u033] Rachel Green: I'm gonna miss you so much.
+[s10_e16_c04_u034] Phoebe Buffay: I know.
+[s10_e16_c04_u035] Rachel Green: You know what? Uhm, I have some goodbye stuff that I wanted to say to each of you and I was gonna save it until the end of the night, but come here .
+[s10_e16_c04_u036] Ross Geller: Hey, what do you think they're doing in there?
+[s10_e16_c04_u037] Joey Tribbiani: Huh, if I had to guess I'd say Rachel is putting on the bubble wrap and Phoebe is doing the punching."
+s10_e16,s10_e16_c04,Ross Geller,0,1,3,0,4,2,s10_e16_c04_u001,s10_e16_c04_u009,"[s10_e16_c04_u001] Phoebe Buffay: Hey!
+[s10_e16_c04_u002] Monica Geller: Hey! Where's Mike?
+[s10_e16_c04_u003] Phoebe Buffay: Oh, he has a gig. I kinda like being married to a rock star, you know. My husband has a gig.
+[s10_e16_c04_u004] Ross Geller: Yeah? Yeah, where is it?
+[s10_e16_c04_u005] Phoebe Buffay: Oh, he's playing organ for a children's roller-skating party.
+[s10_e16_c04_u006] Ross Geller: Rock on! Phoebe : Wow, this is quite a spread! What is all this stuff?
+[s10_e16_c04_u007] Monica Geller: Well, I thought this would be a great opportunity to use up all the food that I don't want to move to the new house with me! So, enjoy: smoke oyster casserole with a breakfast cereal crust, kidney beans in their own juices, and for dessert, a questionable orange.
+[s10_e16_c04_u008] Joey Tribbiani: Hey.
+[s10_e16_c04_u009] Chandler Bing: Hey."
+s10_e16,s10_e16_c04,Ross Geller,1,5,5,4,6,2,s10_e16_c04_u005,s10_e16_c04_u011,"[s10_e16_c04_u005] Phoebe Buffay: Oh, he's playing organ for a children's roller-skating party.
+[s10_e16_c04_u006] Ross Geller: Rock on! Phoebe : Wow, this is quite a spread! What is all this stuff?
+[s10_e16_c04_u007] Monica Geller: Well, I thought this would be a great opportunity to use up all the food that I don't want to move to the new house with me! So, enjoy: smoke oyster casserole with a breakfast cereal crust, kidney beans in their own juices, and for dessert, a questionable orange.
+[s10_e16_c04_u008] Joey Tribbiani: Hey.
+[s10_e16_c04_u009] Chandler Bing: Hey.
+[s10_e16_c04_u010] Ross Geller: Hey, where's Rach?
+[s10_e16_c04_u011] Joey Tribbiani: Oh, she's putting Emma down, she'll be over in a second."
+s10_e16,s10_e16_c04,Ross Geller,2,7,11,6,12,2,s10_e16_c04_u007,s10_e16_c04_u018,"[s10_e16_c04_u007] Monica Geller: Well, I thought this would be a great opportunity to use up all the food that I don't want to move to the new house with me! So, enjoy: smoke oyster casserole with a breakfast cereal crust, kidney beans in their own juices, and for dessert, a questionable orange.
+[s10_e16_c04_u008] Joey Tribbiani: Hey.
+[s10_e16_c04_u009] Chandler Bing: Hey.
+[s10_e16_c04_u010] Ross Geller: Hey, where's Rach?
+[s10_e16_c04_u011] Joey Tribbiani: Oh, she's putting Emma down, she'll be over in a second.
+[s10_e16_c04_u012] Ross Geller: Great.
+[s10_e16_c04_u013] Joey Tribbiani: Now it just hit her that she's leaving and she's kind of emotional so no one say anything to set her off, ok?
+[s10_e16_c04_u014] Monica Geller: Yeah.
+[s10_e16_c04_u015] #ALL#: Hey Rach, hey you.
+[s10_e16_c04_u016] Ross Geller: Here she is!
+[s10_e16_c04_u017] Rachel Green: Hi you guys!
+[s10_e16_c04_u018] Joey Tribbiani: What did I just say?"
+s10_e16,s10_e16_c04,Ross Geller,3,18,19,17,20,2,s10_e16_c04_u019,s10_e16_c04_u026,"[s10_e16_c04_u019] Rachel Green: No, no, no. It's ok. I'm gonna be fine.
+[s10_e16_c04_u020] Monica Geller: Come here, I'll make you a drink.
+[s10_e16_c04_u021] Ross Geller: Oh, man! I can't believe she's actually leaving. How am I gonna say goodbye to Rachel?
+[s10_e16_c04_u022] Chandler Bing: I know, she's been such a big part of my life. And it feels like when Melrose Place got cancelled. I mean... oh, forget it. I miss Melrose Place!
+[s10_e16_c04_u023] Joey Tribbiani: You know, I had a chance to stop her too!
+[s10_e16_c04_u024] Ross Geller: Yeah?
+[s10_e16_c04_u025] Joey Tribbiani: Who loses fifty seven coin tosses in a row? Head she wins, tails I lose. Wait a minute...
+[s10_e16_c04_u026] Chandler Bing: Yes, Joe?"
+s10_e16,s10_e16_c05,Phoebe Buffay,0,0,0,0,0,2,s10_e16_c05_u001,s10_e16_c05_u005,"[s10_e16_c05_u001] Rachel Green: Oh, Pheebs, I don't even know where to start.
+[s10_e16_c05_u002] Phoebe Buffay: Ok well, before you do, I know we weren't supposed to get you going away presents, but I do have something for you.
+[s10_e16_c05_u003] Rachel Green: Oh, oh. . What is this?
+[s10_e16_c05_u004] Phoebe Buffay: It's a cotton swab with a bit of my saliva on it, so that if they perfect the cloning process while you are over there, you can use the DNA to create your own Pheebs!
+[s10_e16_c05_u005] Rachel Green: I'm gonna throw this away, but thank you so much for the gesture!"
+s10_e16,s10_e16_c05,Rachel Green,0,0,0,0,0,3,s10_e16_c05_u001,s10_e16_c05_u005,"[s10_e16_c05_u001] Rachel Green: Oh, Pheebs, I don't even know where to start.
+[s10_e16_c05_u002] Phoebe Buffay: Ok well, before you do, I know we weren't supposed to get you going away presents, but I do have something for you.
+[s10_e16_c05_u003] Rachel Green: Oh, oh. . What is this?
+[s10_e16_c05_u004] Phoebe Buffay: It's a cotton swab with a bit of my saliva on it, so that if they perfect the cloning process while you are over there, you can use the DNA to create your own Pheebs!
+[s10_e16_c05_u005] Rachel Green: I'm gonna throw this away, but thank you so much for the gesture!"
+s10_e16,s10_e16_c06,Chandler Bing,0,0,7,0,8,3,s10_e16_c06_u001,s10_e16_c06_u013,"[s10_e16_c06_u001] Monica Geller: Chandler? I was just in our bedroom and I found these on my pillow.
+[s10_e16_c06_u002] Chandler Bing: Oh, yes. I decided to leave these out for you in case Richard stops by and you wanna engage on a little light bondage and moustache play!
+[s10_e16_c06_u003] Monica Geller: What are you talking about? These aren't mine.
+[s10_e16_c06_u004] Chandler Bing: Oh yeah, right! Good luck getting another scarf dance from me!
+[s10_e16_c06_u005] Monica Geller: That would be a terrible punishment. But, I'm serious, I've never seen these before.
+[s10_e16_c06_u006] Chandler Bing: Really? Then what are they doing in our guestroom?
+[s10_e16_c06_u007] Monica Geller: Rachel used to live in that room.
+[s10_e16_c06_u008] Chandler Bing: Rachel... with handcuffs! Interesting!
+[s10_e16_c06_u009] Monica Geller: Joey's bare ass!
+[s10_e16_c06_u010] Chandler Bing: . Well played.
+[s10_e16_c06_u011] Rachel Green: I love you Phoebe.
+[s10_e16_c06_u012] Phoebe Buffay: I love you too. Please don't... Don't turn into... you know... French bitch!
+[s10_e16_c06_u013] Rachel Green: All right. Well, if I gonna do this, I'd better keep going."
+s10_e16,s10_e16_c06,Monica Geller,0,0,6,0,7,3,s10_e16_c06_u001,s10_e16_c06_u012,"[s10_e16_c06_u001] Monica Geller: Chandler? I was just in our bedroom and I found these on my pillow.
+[s10_e16_c06_u002] Chandler Bing: Oh, yes. I decided to leave these out for you in case Richard stops by and you wanna engage on a little light bondage and moustache play!
+[s10_e16_c06_u003] Monica Geller: What are you talking about? These aren't mine.
+[s10_e16_c06_u004] Chandler Bing: Oh yeah, right! Good luck getting another scarf dance from me!
+[s10_e16_c06_u005] Monica Geller: That would be a terrible punishment. But, I'm serious, I've never seen these before.
+[s10_e16_c06_u006] Chandler Bing: Really? Then what are they doing in our guestroom?
+[s10_e16_c06_u007] Monica Geller: Rachel used to live in that room.
+[s10_e16_c06_u008] Chandler Bing: Rachel... with handcuffs! Interesting!
+[s10_e16_c06_u009] Monica Geller: Joey's bare ass!
+[s10_e16_c06_u010] Chandler Bing: . Well played.
+[s10_e16_c06_u011] Rachel Green: I love you Phoebe.
+[s10_e16_c06_u012] Phoebe Buffay: I love you too. Please don't... Don't turn into... you know... French bitch!"
+s10_e16,s10_e16_c06,Monica Geller,1,13,17,12,18,3,s10_e16_c06_u013,s10_e16_c06_u023,"[s10_e16_c06_u013] Rachel Green: All right. Well, if I gonna do this, I'd better keep going.
+[s10_e16_c06_u014] Phoebe Buffay: Ok.
+[s10_e16_c06_u015] Rachel Green: Ok. Monica?
+[s10_e16_c06_u016] Monica Geller: Yeah?
+[s10_e16_c06_u017] Rachel Green: Can you come here with me for a minute?
+[s10_e16_c06_u018] Monica Geller: Sure.
+[s10_e16_c06_u019] Phoebe Buffay: Are you wearing waterproof mascara?
+[s10_e16_c06_u020] Monica Geller: No.
+[s10_e16_c06_u021] Phoebe Buffay: Oh, you're so screwed.
+[s10_e16_c06_u022] Ross Geller: Hey. What was that all about?
+[s10_e16_c06_u023] Phoebe Buffay: She's gonna say goodbye to each of us individually."
+s10_e16,s10_e16_c06,Phoebe Buffay,0,9,11,8,12,2,s10_e16_c06_u009,s10_e16_c06_u017,"[s10_e16_c06_u009] Monica Geller: Joey's bare ass!
+[s10_e16_c06_u010] Chandler Bing: . Well played.
+[s10_e16_c06_u011] Rachel Green: I love you Phoebe.
+[s10_e16_c06_u012] Phoebe Buffay: I love you too. Please don't... Don't turn into... you know... French bitch!
+[s10_e16_c06_u013] Rachel Green: All right. Well, if I gonna do this, I'd better keep going.
+[s10_e16_c06_u014] Phoebe Buffay: Ok.
+[s10_e16_c06_u015] Rachel Green: Ok. Monica?
+[s10_e16_c06_u016] Monica Geller: Yeah?
+[s10_e16_c06_u017] Rachel Green: Can you come here with me for a minute?"
+s10_e16,s10_e16_c06,Phoebe Buffay,1,16,21,15,21,3,s10_e16_c06_u016,s10_e16_c06_u026,"[s10_e16_c06_u016] Monica Geller: Yeah?
+[s10_e16_c06_u017] Rachel Green: Can you come here with me for a minute?
+[s10_e16_c06_u018] Monica Geller: Sure.
+[s10_e16_c06_u019] Phoebe Buffay: Are you wearing waterproof mascara?
+[s10_e16_c06_u020] Monica Geller: No.
+[s10_e16_c06_u021] Phoebe Buffay: Oh, you're so screwed.
+[s10_e16_c06_u022] Ross Geller: Hey. What was that all about?
+[s10_e16_c06_u023] Phoebe Buffay: She's gonna say goodbye to each of us individually.
+[s10_e16_c06_u024] Ross Geller: Are you kidding? Oh my God...
+[s10_e16_c06_u025] Phoebe Buffay: Yeah, I know, it's gonna be even worse for you... God... Ross, get ready to do some serious crying.
+[s10_e16_c06_u026] Ross Geller: Oh, man, I'm not going to be able to handle this. Now I know how my students feel at the end of each year. And why they act out by giving me such bad evaluations."
+s10_e16,s10_e16_c06,Rachel Green,0,8,14,7,15,3,s10_e16_c06_u008,s10_e16_c06_u020,"[s10_e16_c06_u008] Chandler Bing: Rachel... with handcuffs! Interesting!
+[s10_e16_c06_u009] Monica Geller: Joey's bare ass!
+[s10_e16_c06_u010] Chandler Bing: . Well played.
+[s10_e16_c06_u011] Rachel Green: I love you Phoebe.
+[s10_e16_c06_u012] Phoebe Buffay: I love you too. Please don't... Don't turn into... you know... French bitch!
+[s10_e16_c06_u013] Rachel Green: All right. Well, if I gonna do this, I'd better keep going.
+[s10_e16_c06_u014] Phoebe Buffay: Ok.
+[s10_e16_c06_u015] Rachel Green: Ok. Monica?
+[s10_e16_c06_u016] Monica Geller: Yeah?
+[s10_e16_c06_u017] Rachel Green: Can you come here with me for a minute?
+[s10_e16_c06_u018] Monica Geller: Sure.
+[s10_e16_c06_u019] Phoebe Buffay: Are you wearing waterproof mascara?
+[s10_e16_c06_u020] Monica Geller: No."
+s10_e16,s10_e16_c06,Ross Geller,0,19,21,18,21,3,s10_e16_c06_u019,s10_e16_c06_u026,"[s10_e16_c06_u019] Phoebe Buffay: Are you wearing waterproof mascara?
+[s10_e16_c06_u020] Monica Geller: No.
+[s10_e16_c06_u021] Phoebe Buffay: Oh, you're so screwed.
+[s10_e16_c06_u022] Ross Geller: Hey. What was that all about?
+[s10_e16_c06_u023] Phoebe Buffay: She's gonna say goodbye to each of us individually.
+[s10_e16_c06_u024] Ross Geller: Are you kidding? Oh my God...
+[s10_e16_c06_u025] Phoebe Buffay: Yeah, I know, it's gonna be even worse for you... God... Ross, get ready to do some serious crying.
+[s10_e16_c06_u026] Ross Geller: Oh, man, I'm not going to be able to handle this. Now I know how my students feel at the end of each year. And why they act out by giving me such bad evaluations."
+s10_e16,s10_e16_c07,Monica Geller,0,0,3,0,3,3,s10_e16_c07_u001,s10_e16_c07_u008,"[s10_e16_c07_u001] Rachel Green: Mon... Okay... I've gotta... just say what it is I'm gonna say... None of the amazing things that have happened to me in the last ten years, would have happened if it wasn't for you. No-one has been more like a sister to me...
+[s10_e16_c07_u002] Monica Geller: I know what you mean. You're like a sister to me too.
+[s10_e16_c07_u003] Rachel Green: I wouldn't know what I'm gonna do without you...
+[s10_e16_c07_u004] Monica Geller: You're the best friend I ever had.
+[s10_e16_c07_u005] Rachel Green: 
+[s10_e16_c07_u006] Monica Geller: What?
+[s10_e16_c07_u007] Rachel Green: I... I... I...
+[s10_e16_c07_u008] Monica Geller: That is so sweet."
+s10_e16,s10_e16_c07,Rachel Green,0,0,3,0,3,3,s10_e16_c07_u001,s10_e16_c07_u008,"[s10_e16_c07_u001] Rachel Green: Mon... Okay... I've gotta... just say what it is I'm gonna say... None of the amazing things that have happened to me in the last ten years, would have happened if it wasn't for you. No-one has been more like a sister to me...
+[s10_e16_c07_u002] Monica Geller: I know what you mean. You're like a sister to me too.
+[s10_e16_c07_u003] Rachel Green: I wouldn't know what I'm gonna do without you...
+[s10_e16_c07_u004] Monica Geller: You're the best friend I ever had.
+[s10_e16_c07_u005] Rachel Green: 
+[s10_e16_c07_u006] Monica Geller: What?
+[s10_e16_c07_u007] Rachel Green: I... I... I...
+[s10_e16_c07_u008] Monica Geller: That is so sweet."
+s10_e16,s10_e16_c08,Chandler Bing,0,0,12,0,12,3,s10_e16_c08_u001,s10_e16_c08_u017,"[s10_e16_c08_u001] Ross Geller: Oh no, she took down Monica... And I'm the crier in the family. Oh God! I could be next. Maybe she won't talk with me if it looks like we're deep in converstation. Oh, so that thing you said about the thing. It really made me think about that other thing.
+[s10_e16_c08_u002] Chandler Bing: Uh, Rach?
+[s10_e16_c08_u003] Ross Geller: Well it's okay. Chandler is talking to her.
+[s10_e16_c08_u004] Joey Tribbiani: I really made you think about that thing uh?
+[s10_e16_c08_u005] Chandler Bing: Uh, Rach... I think I have something that belongs to you.
+[s10_e16_c08_u006] Rachel Green: Oh, I'm sure gonna miss pretending to laugh at your weird jokes that I don't get.
+[s10_e16_c08_u007] Chandler Bing: No, no, no... They're really yours. We... found them in your old room.
+[s10_e16_c08_u008] Rachel Green: Well, these aren't mine. Maybe Monica used to use them with...
+[s10_e16_c08_u009] Chandler Bing: Don't say Richard! Well, if they're not Monica's and they're not yours, then whose are they?
+[s10_e16_c08_u010] Rachel Green: Well, I think you're forgetting the kinkiest former resident of that room.
+[s10_e16_c08_u011] Chandler Bing: Pheebs!
+[s10_e16_c08_u012] Phoebe Buffay: Yeah!
+[s10_e16_c08_u013] Chandler Bing: I think these are yours.
+[s10_e16_c08_u014] Phoebe Buffay: These are not mine... Look how flimsy they are, come on! Good God! You try to hang a guy from a waterpipe with these, they'll snap like a piece of licorice.
+[s10_e16_c08_u015] Rachel Green: Can I talk to you alone for a minute?
+[s10_e16_c08_u016] Chandler Bing: Sure. You don't really handcuff guys to waterpipes do you?
+[s10_e16_c08_u017] Phoebe Buffay: Where do you think Mike really is?"
+s10_e16,s10_e16_c08,Phoebe Buffay,0,9,12,8,12,2,s10_e16_c08_u009,s10_e16_c08_u017,"[s10_e16_c08_u009] Chandler Bing: Don't say Richard! Well, if they're not Monica's and they're not yours, then whose are they?
+[s10_e16_c08_u010] Rachel Green: Well, I think you're forgetting the kinkiest former resident of that room.
+[s10_e16_c08_u011] Chandler Bing: Pheebs!
+[s10_e16_c08_u012] Phoebe Buffay: Yeah!
+[s10_e16_c08_u013] Chandler Bing: I think these are yours.
+[s10_e16_c08_u014] Phoebe Buffay: These are not mine... Look how flimsy they are, come on! Good God! You try to hang a guy from a waterpipe with these, they'll snap like a piece of licorice.
+[s10_e16_c08_u015] Rachel Green: Can I talk to you alone for a minute?
+[s10_e16_c08_u016] Chandler Bing: Sure. You don't really handcuff guys to waterpipes do you?
+[s10_e16_c08_u017] Phoebe Buffay: Where do you think Mike really is?"
+s10_e16,s10_e16_c08,Rachel Green,0,3,7,2,8,3,s10_e16_c08_u003,s10_e16_c08_u013,"[s10_e16_c08_u003] Ross Geller: Well it's okay. Chandler is talking to her.
+[s10_e16_c08_u004] Joey Tribbiani: I really made you think about that thing uh?
+[s10_e16_c08_u005] Chandler Bing: Uh, Rach... I think I have something that belongs to you.
+[s10_e16_c08_u006] Rachel Green: Oh, I'm sure gonna miss pretending to laugh at your weird jokes that I don't get.
+[s10_e16_c08_u007] Chandler Bing: No, no, no... They're really yours. We... found them in your old room.
+[s10_e16_c08_u008] Rachel Green: Well, these aren't mine. Maybe Monica used to use them with...
+[s10_e16_c08_u009] Chandler Bing: Don't say Richard! Well, if they're not Monica's and they're not yours, then whose are they?
+[s10_e16_c08_u010] Rachel Green: Well, I think you're forgetting the kinkiest former resident of that room.
+[s10_e16_c08_u011] Chandler Bing: Pheebs!
+[s10_e16_c08_u012] Phoebe Buffay: Yeah!
+[s10_e16_c08_u013] Chandler Bing: I think these are yours."
+s10_e16,s10_e16_c08,Ross Geller,0,0,0,0,1,2,s10_e16_c08_u001,s10_e16_c08_u006,"[s10_e16_c08_u001] Ross Geller: Oh no, she took down Monica... And I'm the crier in the family. Oh God! I could be next. Maybe she won't talk with me if it looks like we're deep in converstation. Oh, so that thing you said about the thing. It really made me think about that other thing.
+[s10_e16_c08_u002] Chandler Bing: Uh, Rach?
+[s10_e16_c08_u003] Ross Geller: Well it's okay. Chandler is talking to her.
+[s10_e16_c08_u004] Joey Tribbiani: I really made you think about that thing uh?
+[s10_e16_c08_u005] Chandler Bing: Uh, Rach... I think I have something that belongs to you.
+[s10_e16_c08_u006] Rachel Green: Oh, I'm sure gonna miss pretending to laugh at your weird jokes that I don't get."
+s10_e16,s10_e16_c09,Chandler Bing,0,0,2,0,2,2,s10_e16_c09_u001,s10_e16_c09_u007,"[s10_e16_c09_u001] Rachel Green: Oh honey...
+[s10_e16_c09_u002] Chandler Bing: Let me just say something... Because once we get into this, I'm gonna get all uncomfortable and probably make some stupid joke... I just want to say that I... I love you... And, I'm gonna miss you. And I'm so sad that you're leaving.
+[s10_e16_c09_u003] Rachel Green: Oh, you know what? Let's not say anything else. I love you.
+[s10_e16_c09_u004] Chandler Bing: Ooh, not so tight... I'm sorry, just give me one more chance.
+[s10_e16_c09_u005] Rachel Green: Okay. Oh...
+[s10_e16_c09_u006] Rachel Green: Oh!
+[s10_e16_c09_u007] Chandler Bing: I'm sor... Just go. Just go. I can't, I can't."
+s10_e16,s10_e16_c09,Rachel Green,0,0,2,0,2,3,s10_e16_c09_u001,s10_e16_c09_u007,"[s10_e16_c09_u001] Rachel Green: Oh honey...
+[s10_e16_c09_u002] Chandler Bing: Let me just say something... Because once we get into this, I'm gonna get all uncomfortable and probably make some stupid joke... I just want to say that I... I love you... And, I'm gonna miss you. And I'm so sad that you're leaving.
+[s10_e16_c09_u003] Rachel Green: Oh, you know what? Let's not say anything else. I love you.
+[s10_e16_c09_u004] Chandler Bing: Ooh, not so tight... I'm sorry, just give me one more chance.
+[s10_e16_c09_u005] Rachel Green: Okay. Oh...
+[s10_e16_c09_u006] Rachel Green: Oh!
+[s10_e16_c09_u007] Chandler Bing: I'm sor... Just go. Just go. I can't, I can't."
+s10_e16,s10_e16_c10,Chandler Bing,0,0,2,0,3,2,s10_e16_c10_u001,s10_e16_c10_u009,"[s10_e16_c10_u001] Monica Geller: So, I guess you're next. You're ready?
+[s10_e16_c10_u002] Ross Geller: I don't think so.
+[s10_e16_c10_u003] Chandler Bing: Oh, you're definately not. I haven't cried like that in years.
+[s10_e16_c10_u004] Monica Geller: You cried yesterday at the six o'clock news.
+[s10_e16_c10_u005] Chandler Bing: That old woman was being scammed by her mechanic.
+[s10_e16_c10_u006] Ross Geller: God! I can't believe she saved me for last. Why are they taking so long?
+[s10_e16_c10_u007] Phoebe Buffay: I don't know. But, God, Joey seems to be handling it suprisingly well.
+[s10_e16_c10_u008] #ALL#: No, no, no, no!
+[s10_e16_c10_u009] Ross Geller: Okay, here we go..."
+s10_e16,s10_e16_c10,Monica Geller,0,0,0,0,1,2,s10_e16_c10_u001,s10_e16_c10_u006,"[s10_e16_c10_u001] Monica Geller: So, I guess you're next. You're ready?
+[s10_e16_c10_u002] Ross Geller: I don't think so.
+[s10_e16_c10_u003] Chandler Bing: Oh, you're definately not. I haven't cried like that in years.
+[s10_e16_c10_u004] Monica Geller: You cried yesterday at the six o'clock news.
+[s10_e16_c10_u005] Chandler Bing: That old woman was being scammed by her mechanic.
+[s10_e16_c10_u006] Ross Geller: God! I can't believe she saved me for last. Why are they taking so long?"
+s10_e16,s10_e16_c10,Rachel Green,0,6,10,5,10,3,s10_e16_c10_u006,s10_e16_c10_u016,"[s10_e16_c10_u006] Ross Geller: God! I can't believe she saved me for last. Why are they taking so long?
+[s10_e16_c10_u007] Phoebe Buffay: I don't know. But, God, Joey seems to be handling it suprisingly well.
+[s10_e16_c10_u008] #ALL#: No, no, no, no!
+[s10_e16_c10_u009] Ross Geller: Okay, here we go...
+[s10_e16_c10_u010] Rachel Green: Oh... Well...
+[s10_e16_c10_u011] Ross Geller: Yeah...
+[s10_e16_c10_u012] Rachel Green: I think I'm gonna take off.
+[s10_e16_c10_u013] Ross Geller: Huh?
+[s10_e16_c10_u014] Rachel Green: Oh, you guys. This was an amazing night. Thank you so much. I love you. Good night.
+[s10_e16_c10_u015] Ross Geller: What? I don't get a goodbye?
+[s10_e16_c10_u016] Joey Tribbiani: Lucky bastard!"
+s10_e16,s10_e16_c10,Ross Geller,0,1,1,0,2,2,s10_e16_c10_u001,s10_e16_c10_u007,"[s10_e16_c10_u001] Monica Geller: So, I guess you're next. You're ready?
+[s10_e16_c10_u002] Ross Geller: I don't think so.
+[s10_e16_c10_u003] Chandler Bing: Oh, you're definately not. I haven't cried like that in years.
+[s10_e16_c10_u004] Monica Geller: You cried yesterday at the six o'clock news.
+[s10_e16_c10_u005] Chandler Bing: That old woman was being scammed by her mechanic.
+[s10_e16_c10_u006] Ross Geller: God! I can't believe she saved me for last. Why are they taking so long?
+[s10_e16_c10_u007] Phoebe Buffay: I don't know. But, God, Joey seems to be handling it suprisingly well."
+s10_e16,s10_e16_c10,Ross Geller,1,3,10,2,10,3,s10_e16_c10_u003,s10_e16_c10_u016,"[s10_e16_c10_u003] Chandler Bing: Oh, you're definately not. I haven't cried like that in years.
+[s10_e16_c10_u004] Monica Geller: You cried yesterday at the six o'clock news.
+[s10_e16_c10_u005] Chandler Bing: That old woman was being scammed by her mechanic.
+[s10_e16_c10_u006] Ross Geller: God! I can't believe she saved me for last. Why are they taking so long?
+[s10_e16_c10_u007] Phoebe Buffay: I don't know. But, God, Joey seems to be handling it suprisingly well.
+[s10_e16_c10_u008] #ALL#: No, no, no, no!
+[s10_e16_c10_u009] Ross Geller: Okay, here we go...
+[s10_e16_c10_u010] Rachel Green: Oh... Well...
+[s10_e16_c10_u011] Ross Geller: Yeah...
+[s10_e16_c10_u012] Rachel Green: I think I'm gonna take off.
+[s10_e16_c10_u013] Ross Geller: Huh?
+[s10_e16_c10_u014] Rachel Green: Oh, you guys. This was an amazing night. Thank you so much. I love you. Good night.
+[s10_e16_c10_u015] Ross Geller: What? I don't get a goodbye?
+[s10_e16_c10_u016] Joey Tribbiani: Lucky bastard!"
+s10_e16,s10_e16_c11,Monica Geller,0,6,6,5,7,2,s10_e16_c11_u006,s10_e16_c11_u012,"[s10_e16_c11_u006] Phoebe Buffay: You know, maybe she was just really spent from our talk. It was pretty intense.
+[s10_e16_c11_u007] Monica Geller: Yeah. Mine too.
+[s10_e16_c11_u008] Chandler Bing: Mine was a humdinger.
+[s10_e16_c11_u009] Ross Geller: O-kay... I mean, don't I deserve anything? I mean, a few tears, a cursory hug? NOT FROM YOU!
+[s10_e16_c11_u010] Phoebe Buffay: Ross, if you're this upset, you should go and talk to her.
+[s10_e16_c11_u011] Monica Geller: And say what? ""You owe me a goodbye"", I mean, he's got more pride than that.
+[s10_e16_c11_u012] Ross Geller: THE HELL I DO!"
+s10_e16,s10_e16_c11,Phoebe Buffay,0,5,5,4,6,2,s10_e16_c11_u005,s10_e16_c11_u011,"[s10_e16_c11_u005] Ross Geller: No, I don't think so.
+[s10_e16_c11_u006] Phoebe Buffay: You know, maybe she was just really spent from our talk. It was pretty intense.
+[s10_e16_c11_u007] Monica Geller: Yeah. Mine too.
+[s10_e16_c11_u008] Chandler Bing: Mine was a humdinger.
+[s10_e16_c11_u009] Ross Geller: O-kay... I mean, don't I deserve anything? I mean, a few tears, a cursory hug? NOT FROM YOU!
+[s10_e16_c11_u010] Phoebe Buffay: Ross, if you're this upset, you should go and talk to her.
+[s10_e16_c11_u011] Monica Geller: And say what? ""You owe me a goodbye"", I mean, he's got more pride than that."
+s10_e16,s10_e16_c11,Rachel Green,0,11,12,10,12,2,s10_e16_c11_u011,s10_e16_c11_u017,"[s10_e16_c11_u011] Monica Geller: And say what? ""You owe me a goodbye"", I mean, he's got more pride than that.
+[s10_e16_c11_u012] Ross Geller: THE HELL I DO!
+[s10_e16_c11_u013] Ross Geller: I don't get a goodbye?
+[s10_e16_c11_u014] Rachel Green: What?
+[s10_e16_c11_u015] Ross Geller: Everyone gets a goodbye but me? What have I got to do to get a goodbye, huh? Be best friends with you? Uh, go out with you? Have a baby with you? Oh wait a minute, wait a minute, I did all those things.
+[s10_e16_c11_u016] Rachel Green: Ross...
+[s10_e16_c11_u017] Ross Geller: Oh no, maybe it's me, I'm just not giving you enough credit. Uh, I mean it is difficult to say goodbye to five people. Uh, goodbye, goodbye, goodbye, goodbye, good... IT'S PHYSICALLY IMPOSSIBLE. You know what? After all we've been through, I can't believe this is how you want to leave things between us. Have a, have a good time in Paris."
+s10_e16,s10_e16_c11,Ross Geller,0,0,2,0,3,3,s10_e16_c11_u001,s10_e16_c11_u008,"[s10_e16_c11_u001] Ross Geller: Unbelievable. She says goodbye to everyone but me.
+[s10_e16_c11_u002] Monica Geller: Well, maybe she thought that with all of your history it could be, you know, implicit.
+[s10_e16_c11_u003] Ross Geller: Well, it needs to be plicit.
+[s10_e16_c11_u004] Joey Tribbiani: All right, let's think about this. I mean, there's got to be an explanation. Uh... did you do anything to make her mad?
+[s10_e16_c11_u005] Ross Geller: No, I don't think so.
+[s10_e16_c11_u006] Phoebe Buffay: You know, maybe she was just really spent from our talk. It was pretty intense.
+[s10_e16_c11_u007] Monica Geller: Yeah. Mine too.
+[s10_e16_c11_u008] Chandler Bing: Mine was a humdinger."
+s10_e16,s10_e16_c11,Ross Geller,1,4,4,3,5,2,s10_e16_c11_u004,s10_e16_c11_u010,"[s10_e16_c11_u004] Joey Tribbiani: All right, let's think about this. I mean, there's got to be an explanation. Uh... did you do anything to make her mad?
+[s10_e16_c11_u005] Ross Geller: No, I don't think so.
+[s10_e16_c11_u006] Phoebe Buffay: You know, maybe she was just really spent from our talk. It was pretty intense.
+[s10_e16_c11_u007] Monica Geller: Yeah. Mine too.
+[s10_e16_c11_u008] Chandler Bing: Mine was a humdinger.
+[s10_e16_c11_u009] Ross Geller: O-kay... I mean, don't I deserve anything? I mean, a few tears, a cursory hug? NOT FROM YOU!
+[s10_e16_c11_u010] Phoebe Buffay: Ross, if you're this upset, you should go and talk to her."
+s10_e16,s10_e16_c11,Ross Geller,2,7,12,6,12,3,s10_e16_c11_u007,s10_e16_c11_u017,"[s10_e16_c11_u007] Monica Geller: Yeah. Mine too.
+[s10_e16_c11_u008] Chandler Bing: Mine was a humdinger.
+[s10_e16_c11_u009] Ross Geller: O-kay... I mean, don't I deserve anything? I mean, a few tears, a cursory hug? NOT FROM YOU!
+[s10_e16_c11_u010] Phoebe Buffay: Ross, if you're this upset, you should go and talk to her.
+[s10_e16_c11_u011] Monica Geller: And say what? ""You owe me a goodbye"", I mean, he's got more pride than that.
+[s10_e16_c11_u012] Ross Geller: THE HELL I DO!
+[s10_e16_c11_u013] Ross Geller: I don't get a goodbye?
+[s10_e16_c11_u014] Rachel Green: What?
+[s10_e16_c11_u015] Ross Geller: Everyone gets a goodbye but me? What have I got to do to get a goodbye, huh? Be best friends with you? Uh, go out with you? Have a baby with you? Oh wait a minute, wait a minute, I did all those things.
+[s10_e16_c11_u016] Rachel Green: Ross...
+[s10_e16_c11_u017] Ross Geller: Oh no, maybe it's me, I'm just not giving you enough credit. Uh, I mean it is difficult to say goodbye to five people. Uh, goodbye, goodbye, goodbye, goodbye, good... IT'S PHYSICALLY IMPOSSIBLE. You know what? After all we've been through, I can't believe this is how you want to leave things between us. Have a, have a good time in Paris."
+s10_e16,s10_e16_c12,Chandler Bing,0,7,8,6,9,2,s10_e16_c12_u007,s10_e16_c12_u014,"[s10_e16_c12_u007] Phoebe Buffay: I thought I was going home to go to bed, but I'm sensing there's something less fun for me to do here.
+[s10_e16_c12_u008] Monica Geller: We're moving in a couple of days and we've got a lot of packing to do. It would be great if you guys could pitch in.
+[s10_e16_c12_u009] Chandler Bing: Joey and I can finish up in the guest room.
+[s10_e16_c12_u010] Joey Tribbiani: Oh, yeah, yeah, good idea.
+[s10_e16_c12_u011] Monica Geller: Oh no! You and Phoebe are gonna help me in here.
+[s10_e16_c12_u012] Chandler Bing: You couldn't be cool.
+[s10_e16_c12_u013] Monica Geller: Okay, we're gonna start in the kitchen. Plates get put into plate protectors and stacked ten to a box. The silverware gets bundled in rubber bands and then bubble wrapped. Got it?
+[s10_e16_c12_u014] Joey Tribbiani, Phoebe Buffay: Yeah."
+s10_e16,s10_e16_c12,Chandler Bing,1,11,11,10,12,2,s10_e16_c12_u011,s10_e16_c12_u017,"[s10_e16_c12_u011] Monica Geller: Oh no! You and Phoebe are gonna help me in here.
+[s10_e16_c12_u012] Chandler Bing: You couldn't be cool.
+[s10_e16_c12_u013] Monica Geller: Okay, we're gonna start in the kitchen. Plates get put into plate protectors and stacked ten to a box. The silverware gets bundled in rubber bands and then bubble wrapped. Got it?
+[s10_e16_c12_u014] Joey Tribbiani, Phoebe Buffay: Yeah.
+[s10_e16_c12_u015] Monica Geller: Good! Now I need you to be careful and efficient. And remember, if I am harsh with you, it is only because you are doing it wrong.
+[s10_e16_c12_u016] Chandler Bing: Hey Mon, I think I figured out whose handcuffs they are.
+[s10_e16_c12_u017] Monica Geller: You did? How?"
+s10_e16,s10_e16_c12,Chandler Bing,2,13,17,12,18,2,s10_e16_c12_u013,s10_e16_c12_u023,"[s10_e16_c12_u013] Monica Geller: Okay, we're gonna start in the kitchen. Plates get put into plate protectors and stacked ten to a box. The silverware gets bundled in rubber bands and then bubble wrapped. Got it?
+[s10_e16_c12_u014] Joey Tribbiani, Phoebe Buffay: Yeah.
+[s10_e16_c12_u015] Monica Geller: Good! Now I need you to be careful and efficient. And remember, if I am harsh with you, it is only because you are doing it wrong.
+[s10_e16_c12_u016] Chandler Bing: Hey Mon, I think I figured out whose handcuffs they are.
+[s10_e16_c12_u017] Monica Geller: You did? How?
+[s10_e16_c12_u018] Chandler Bing: Well, I was cleaning out the closet and I found some pictures of them... being used.
+[s10_e16_c12_u019] Monica Geller: Oh my God! Let me see.
+[s10_e16_c12_u020] Joey Tribbiani: Who's that dirty old lady?
+[s10_e16_c12_u021] Chandler Bing: Monica's grandmother.
+[s10_e16_c12_u022] Monica Geller: Nana liked it rough!
+[s10_e16_c12_u023] Erica: Hi!"
+s10_e16,s10_e16_c12,Chandler Bing,3,27,31,26,32,2,s10_e16_c12_u028,s10_e16_c12_u038,"[s10_e16_c12_u028] Monica Geller: Erica, are you okay?
+[s10_e16_c12_u029] Erica: Yeah, you know, maybe I ate too much. I keep getting these stomach aches. They come and go like every few minutes.
+[s10_e16_c12_u030] Monica Geller: Oh my God!
+[s10_e16_c12_u031] Chandler Bing: Relax! We just get her some antacids.
+[s10_e16_c12_u032] Monica Geller: She doesn't have a stomach ache, she's in labor.
+[s10_e16_c12_u033] Chandler Bing: Oh my God!
+[s10_e16_c12_u034] Phoebe Buffay: Yeah, you got to get to the hospital.
+[s10_e16_c12_u035] Monica Geller: All right, Chandler get the coats. Erica let's go. Phoebe and Joey, keep packing! Oh my God we're gonna have a baby. All right. We're gonna have a baby! OH MY GOD, WE'RE GONNA HAVE A BABY! Oh God, oh God, I got to sit down, I got to sit down. Ooh!
+[s10_e16_c12_u036] Chandler Bing: Honey, it's gonna be okay.
+[s10_e16_c12_u037] Erica: You can do this. Just breathe.
+[s10_e16_c12_u038] Monica Geller: Okay, okay... Okay, I feel a little better."
+s10_e16,s10_e16_c12,Erica,0,21,25,20,26,2,s10_e16_c12_u021,s10_e16_c12_u032,"[s10_e16_c12_u021] Chandler Bing: Monica's grandmother.
+[s10_e16_c12_u022] Monica Geller: Nana liked it rough!
+[s10_e16_c12_u023] Erica: Hi!
+[s10_e16_c12_u024] #ALL#: Hey!
+[s10_e16_c12_u025] Joey Tribbiani: Come on here, have a seat.
+[s10_e16_c12_u026] Phoebe Buffay: How was your night?
+[s10_e16_c12_u027] Erica: Oh, it was okay. I went to a movie with my cousin and then out for dinner. We went to this place that had... Ooh... Hoo... ooh... Anyway, they had these really amazing cheeseburgers.
+[s10_e16_c12_u028] Monica Geller: Erica, are you okay?
+[s10_e16_c12_u029] Erica: Yeah, you know, maybe I ate too much. I keep getting these stomach aches. They come and go like every few minutes.
+[s10_e16_c12_u030] Monica Geller: Oh my God!
+[s10_e16_c12_u031] Chandler Bing: Relax! We just get her some antacids.
+[s10_e16_c12_u032] Monica Geller: She doesn't have a stomach ache, she's in labor."
+s10_e16,s10_e16_c12,Erica,1,33,35,32,36,2,s10_e16_c12_u034,s10_e16_c12_u042,"[s10_e16_c12_u034] Phoebe Buffay: Yeah, you got to get to the hospital.
+[s10_e16_c12_u035] Monica Geller: All right, Chandler get the coats. Erica let's go. Phoebe and Joey, keep packing! Oh my God we're gonna have a baby. All right. We're gonna have a baby! OH MY GOD, WE'RE GONNA HAVE A BABY! Oh God, oh God, I got to sit down, I got to sit down. Ooh!
+[s10_e16_c12_u036] Chandler Bing: Honey, it's gonna be okay.
+[s10_e16_c12_u037] Erica: You can do this. Just breathe.
+[s10_e16_c12_u038] Monica Geller: Okay, okay... Okay, I feel a little better.
+[s10_e16_c12_u039] Erica: Ooh! Are you sure?
+[s10_e16_c12_u040] Monica Geller: Oh... Yes, I'm sure. Oh honey, let's go. Okay bye everyone.
+[s10_e16_c12_u041] Joey Tribbiani: Chandler, wait, wait, wait...
+[s10_e16_c12_u042] Chandler Bing: What?"
+s10_e16,s10_e16_c12,Joey Tribbiani,0,19,19,18,20,2,s10_e16_c12_u019,s10_e16_c12_u026,"[s10_e16_c12_u019] Monica Geller: Oh my God! Let me see.
+[s10_e16_c12_u020] Joey Tribbiani: Who's that dirty old lady?
+[s10_e16_c12_u021] Chandler Bing: Monica's grandmother.
+[s10_e16_c12_u022] Monica Geller: Nana liked it rough!
+[s10_e16_c12_u023] Erica: Hi!
+[s10_e16_c12_u024] #ALL#: Hey!
+[s10_e16_c12_u025] Joey Tribbiani: Come on here, have a seat.
+[s10_e16_c12_u026] Phoebe Buffay: How was your night?"
+s10_e16,s10_e16_c12,Joey Tribbiani,1,37,37,36,37,2,s10_e16_c12_u038,s10_e16_c12_u043,"[s10_e16_c12_u038] Monica Geller: Okay, okay... Okay, I feel a little better.
+[s10_e16_c12_u039] Erica: Ooh! Are you sure?
+[s10_e16_c12_u040] Monica Geller: Oh... Yes, I'm sure. Oh honey, let's go. Okay bye everyone.
+[s10_e16_c12_u041] Joey Tribbiani: Chandler, wait, wait, wait...
+[s10_e16_c12_u042] Chandler Bing: What?
+[s10_e16_c12_u043] Joey Tribbiani: If you get a second, find out where she got that cheeseburger."
+s10_e16,s10_e16_c12,Monica Geller,0,3,18,2,19,3,s10_e16_c12_u003,s10_e16_c12_u025,"[s10_e16_c12_u003] Phoebe Buffay: Tell me about it.
+[s10_e16_c12_u004] Chandler Bing: Well, you can't say we don't know how to throw a party.
+[s10_e16_c12_u005] Phoebe Buffay: All right, I think I'm gonna head out.
+[s10_e16_c12_u006] Monica Geller: Uh, where do you think you're going?
+[s10_e16_c12_u007] Phoebe Buffay: I thought I was going home to go to bed, but I'm sensing there's something less fun for me to do here.
+[s10_e16_c12_u008] Monica Geller: We're moving in a couple of days and we've got a lot of packing to do. It would be great if you guys could pitch in.
+[s10_e16_c12_u009] Chandler Bing: Joey and I can finish up in the guest room.
+[s10_e16_c12_u010] Joey Tribbiani: Oh, yeah, yeah, good idea.
+[s10_e16_c12_u011] Monica Geller: Oh no! You and Phoebe are gonna help me in here.
+[s10_e16_c12_u012] Chandler Bing: You couldn't be cool.
+[s10_e16_c12_u013] Monica Geller: Okay, we're gonna start in the kitchen. Plates get put into plate protectors and stacked ten to a box. The silverware gets bundled in rubber bands and then bubble wrapped. Got it?
+[s10_e16_c12_u014] Joey Tribbiani, Phoebe Buffay: Yeah.
+[s10_e16_c12_u015] Monica Geller: Good! Now I need you to be careful and efficient. And remember, if I am harsh with you, it is only because you are doing it wrong.
+[s10_e16_c12_u016] Chandler Bing: Hey Mon, I think I figured out whose handcuffs they are.
+[s10_e16_c12_u017] Monica Geller: You did? How?
+[s10_e16_c12_u018] Chandler Bing: Well, I was cleaning out the closet and I found some pictures of them... being used.
+[s10_e16_c12_u019] Monica Geller: Oh my God! Let me see.
+[s10_e16_c12_u020] Joey Tribbiani: Who's that dirty old lady?
+[s10_e16_c12_u021] Chandler Bing: Monica's grandmother.
+[s10_e16_c12_u022] Monica Geller: Nana liked it rough!
+[s10_e16_c12_u023] Erica: Hi!
+[s10_e16_c12_u024] #ALL#: Hey!
+[s10_e16_c12_u025] Joey Tribbiani: Come on here, have a seat."
+s10_e16,s10_e16_c12,Monica Geller,1,24,30,23,31,3,s10_e16_c12_u025,s10_e16_c12_u037,"[s10_e16_c12_u025] Joey Tribbiani: Come on here, have a seat.
+[s10_e16_c12_u026] Phoebe Buffay: How was your night?
+[s10_e16_c12_u027] Erica: Oh, it was okay. I went to a movie with my cousin and then out for dinner. We went to this place that had... Ooh... Hoo... ooh... Anyway, they had these really amazing cheeseburgers.
+[s10_e16_c12_u028] Monica Geller: Erica, are you okay?
+[s10_e16_c12_u029] Erica: Yeah, you know, maybe I ate too much. I keep getting these stomach aches. They come and go like every few minutes.
+[s10_e16_c12_u030] Monica Geller: Oh my God!
+[s10_e16_c12_u031] Chandler Bing: Relax! We just get her some antacids.
+[s10_e16_c12_u032] Monica Geller: She doesn't have a stomach ache, she's in labor.
+[s10_e16_c12_u033] Chandler Bing: Oh my God!
+[s10_e16_c12_u034] Phoebe Buffay: Yeah, you got to get to the hospital.
+[s10_e16_c12_u035] Monica Geller: All right, Chandler get the coats. Erica let's go. Phoebe and Joey, keep packing! Oh my God we're gonna have a baby. All right. We're gonna have a baby! OH MY GOD, WE'RE GONNA HAVE A BABY! Oh God, oh God, I got to sit down, I got to sit down. Ooh!
+[s10_e16_c12_u036] Chandler Bing: Honey, it's gonna be okay.
+[s10_e16_c12_u037] Erica: You can do this. Just breathe."
+s10_e16,s10_e16_c12,Monica Geller,2,32,36,31,37,2,s10_e16_c12_u033,s10_e16_c12_u043,"[s10_e16_c12_u033] Chandler Bing: Oh my God!
+[s10_e16_c12_u034] Phoebe Buffay: Yeah, you got to get to the hospital.
+[s10_e16_c12_u035] Monica Geller: All right, Chandler get the coats. Erica let's go. Phoebe and Joey, keep packing! Oh my God we're gonna have a baby. All right. We're gonna have a baby! OH MY GOD, WE'RE GONNA HAVE A BABY! Oh God, oh God, I got to sit down, I got to sit down. Ooh!
+[s10_e16_c12_u036] Chandler Bing: Honey, it's gonna be okay.
+[s10_e16_c12_u037] Erica: You can do this. Just breathe.
+[s10_e16_c12_u038] Monica Geller: Okay, okay... Okay, I feel a little better.
+[s10_e16_c12_u039] Erica: Ooh! Are you sure?
+[s10_e16_c12_u040] Monica Geller: Oh... Yes, I'm sure. Oh honey, let's go. Okay bye everyone.
+[s10_e16_c12_u041] Joey Tribbiani: Chandler, wait, wait, wait...
+[s10_e16_c12_u042] Chandler Bing: What?
+[s10_e16_c12_u043] Joey Tribbiani: If you get a second, find out where she got that cheeseburger."
+s10_e16,s10_e16_c12,Phoebe Buffay,0,0,4,0,5,3,s10_e16_c12_u001,s10_e16_c12_u010,"[s10_e16_c12_u001] Monica Geller: I hope Ross isn't too upset.
+[s10_e16_c12_u002] Joey Tribbiani: I'm sure he's not more bummed out than I am.
+[s10_e16_c12_u003] Phoebe Buffay: Tell me about it.
+[s10_e16_c12_u004] Chandler Bing: Well, you can't say we don't know how to throw a party.
+[s10_e16_c12_u005] Phoebe Buffay: All right, I think I'm gonna head out.
+[s10_e16_c12_u006] Monica Geller: Uh, where do you think you're going?
+[s10_e16_c12_u007] Phoebe Buffay: I thought I was going home to go to bed, but I'm sensing there's something less fun for me to do here.
+[s10_e16_c12_u008] Monica Geller: We're moving in a couple of days and we've got a lot of packing to do. It would be great if you guys could pitch in.
+[s10_e16_c12_u009] Chandler Bing: Joey and I can finish up in the guest room.
+[s10_e16_c12_u010] Joey Tribbiani: Oh, yeah, yeah, good idea."
+s10_e16,s10_e16_c13,Rachel Green,0,0,4,0,4,3,s10_e16_c13_u001,s10_e16_c13_u009,"[s10_e16_c13_u001] Rachel Green: You really think I didn't say goodbye to you because I don't care?
+[s10_e16_c13_u002] Ross Geller: That's what it seemed like.
+[s10_e16_c13_u003] Rachel Green: I cannot believe that after ten years, you do not know ONE thing about me.
+[s10_e16_c13_u004] Ross Geller: Fine, then why didn't you say something?
+[s10_e16_c13_u005] Rachel Green: Because it is too damn hard Ross. I can't even begin to explain to you how much I'm gonna miss you. When I think about not seeing you every day, it makes me not want to go... Okay, so if you think that I didn't say goodbye to you because you don't mean as much to me as everybody else, you're wrong. It's because you mean more to me. So there, all right, there's your goodbye... Oh!
+[s10_e16_c13_u006] Ross Geller: Rach!
+[s10_e16_c13_u007] Rachel Green: What?
+[s10_e16_c13_u008] Ross Geller: You keep, you keep... You can't...
+[s10_e16_c13_u009] Rachel Green: WHAT?"
+s10_e16,s10_e16_c13,Ross Geller,0,0,4,0,4,3,s10_e16_c13_u001,s10_e16_c13_u009,"[s10_e16_c13_u001] Rachel Green: You really think I didn't say goodbye to you because I don't care?
+[s10_e16_c13_u002] Ross Geller: That's what it seemed like.
+[s10_e16_c13_u003] Rachel Green: I cannot believe that after ten years, you do not know ONE thing about me.
+[s10_e16_c13_u004] Ross Geller: Fine, then why didn't you say something?
+[s10_e16_c13_u005] Rachel Green: Because it is too damn hard Ross. I can't even begin to explain to you how much I'm gonna miss you. When I think about not seeing you every day, it makes me not want to go... Okay, so if you think that I didn't say goodbye to you because you don't mean as much to me as everybody else, you're wrong. It's because you mean more to me. So there, all right, there's your goodbye... Oh!
+[s10_e16_c13_u006] Ross Geller: Rach!
+[s10_e16_c13_u007] Rachel Green: What?
+[s10_e16_c13_u008] Ross Geller: You keep, you keep... You can't...
+[s10_e16_c13_u009] Rachel Green: WHAT?"
+s10_e16,s10_e16_c14,Joey Tribbiani,0,0,2,0,2,3,s10_e16_c14_u001,s10_e16_c14_u007,"[s10_e16_c14_u001] Joey Tribbiani: A little more.
+[s10_e16_c14_u002] Phoebe Buffay: Okay.
+[s10_e16_c14_u003] Joey Tribbiani: A little more, a little more. A little more... All right. Okay, all right, let's do this.
+[s10_e16_c14_u004] Phoebe Buffay: All right, ready?
+[s10_e16_c14_u005] Joey Tribbiani: Yeah. All right, now give me your best shot.
+[s10_e16_c14_u006] Phoebe Buffay: All right, here it goes...
+[s10_e16_c14_u007] Joey Tribbiani: Doesn't work..."
+s10_e16,s10_e16_c14,Phoebe Buffay,0,0,2,0,2,3,s10_e16_c14_u001,s10_e16_c14_u007,"[s10_e16_c14_u001] Joey Tribbiani: A little more.
+[s10_e16_c14_u002] Phoebe Buffay: Okay.
+[s10_e16_c14_u003] Joey Tribbiani: A little more, a little more. A little more... All right. Okay, all right, let's do this.
+[s10_e16_c14_u004] Phoebe Buffay: All right, ready?
+[s10_e16_c14_u005] Joey Tribbiani: Yeah. All right, now give me your best shot.
+[s10_e16_c14_u006] Phoebe Buffay: All right, here it goes...
+[s10_e16_c14_u007] Joey Tribbiani: Doesn't work..."

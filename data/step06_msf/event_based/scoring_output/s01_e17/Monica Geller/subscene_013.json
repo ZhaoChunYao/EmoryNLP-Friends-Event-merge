@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks minimally (says a couple of names and a brief 'Hi'), without clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker participates in thanking Speaker_01 and offers a polite greeting ('Hi'), showing friendliness and cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or diligence; the brief name exchanges do not indicate conscientious behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety, stress, or insecurity are shown in the brief interaction."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, imagination, or unconventional thinking in the short exchange."
+  }
+}

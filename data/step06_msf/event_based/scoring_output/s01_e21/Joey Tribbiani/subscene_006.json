@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively states they plan to read for a role in an audition and promptly provides their name when asked, indicating willingness to engage publicly."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of warmth, generosity, or uncooperativeness beyond routine compliance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Stating the intended role and giving a name is standard procedure; no strong evidence of exceptional organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of nervousness or of pronounced confidence are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity, creativity, or resistance to new ideas are present."
+  }
+}

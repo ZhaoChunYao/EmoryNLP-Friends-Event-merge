@@ -1,0 +1,38 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e13_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e13_c13_u001_e1",
+          "tuples": [
+            "('go', 'what', 'on', 's01_e13_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c13_u002",
+      "events": [
+        {
+          "event_id": "s01_e13_c13_u002_e1",
+          "tuples": [
+            "('clear', 'you/(Phoebe Buffay, Monica Geller)', 'the tracks', 's01_e13_c13_u002')",
+            "('clear', 'you/(Phoebe Buffay, Monica Geller)', 'for the boobie payback express', 's01_e13_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e13_c13_u003_e1",
+          "tuples": [
+            "('do', 'you/(Joey Tribbiani)', 'what', 's01_e13_c13_u003')"
+          ]
+        }
+      ]
+    }
+  ]
+}

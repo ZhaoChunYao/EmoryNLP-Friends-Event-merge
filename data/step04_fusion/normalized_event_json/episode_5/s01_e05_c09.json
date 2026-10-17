@@ -1,0 +1,83 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e05_c09_u003_e1",
+          "tuples": [
+            "('be', 'you/Bob', 'a lucky man', 's01_e05_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c09_u003_e2",
+          "tuples": [
+            "('know', 'you/Bob', 'what I miss the most about her', 's01_e05_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c09_u003_e3",
+          "tuples": [
+            "('miss', 'I/Joey Tribbiani', 'about her', 's01_e05_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c09_u003_e4",
+          "tuples": [
+            "('eat', 'she/Angela', None, 's01_e05_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e05_c09_u004_e1",
+          "tuples": [
+            "('notice', 'I/Bob', None, 's01_e05_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e05_c09_u005_e1",
+          "tuples": [
+            "('listen', 'you/Bob', 'for it', 's01_e05_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e05_c09_u006_e1",
+          "tuples": [
+            "('be', 'Monica', 'great', 's01_e05_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c09_u007",
+      "events": [
+        {
+          "event_id": "s01_e05_c09_u007_e1",
+          "tuples": [
+            "('last', 'it/(Bob–Monica relationship)', None, 's01_e05_c09_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c09_u007_e2",
+          "tuples": [
+            "('be', 'She/Monica', 'too much for me in bed', 's01_e05_c09_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+event_id: s01_e05_c10_u001_e1
+utterance_id: s01_e05_c10_u001
+  tuple: ('tell', 'I/Monica Geller', 'you', 's01_e05_c10_u001')
+
+event_id: s01_e05_c10_u001_e2
+utterance_id: s01_e05_c10_u001
+  tuple: ('be', 'Bob', 'terrific', 's01_e05_c10_u001')
+
+event_id: s01_e05_c10_u002_e1
+utterance_id: s01_e05_c10_u002
+  tuple: ('be', 'he/Bob', None, 's01_e05_c10_u002')
+
+event_id: s01_e05_c10_u003_e1
+utterance_id: s01_e05_c10_u003
+  tuple: ('be', 'It', 'so great', 's01_e05_c10_u003')
+  tuple: ('meet', 'I/Monica Geller', 'a guy', 's01_e05_c10_u003')
+
+event_id: s01_e05_c10_u003_e2
+utterance_id: s01_e05_c10_u003
+  tuple: ('be', 'a guy', 'smart and funny', 's01_e05_c10_u003')
+
+event_id: s01_e05_c10_u003_e3
+utterance_id: s01_e05_c10_u003
+  tuple: ('have', 'a guy', 'an emotional age', 's01_e05_c10_u003')
+  tuple: ('have', 'a guy', 'beyond like eight', 's01_e05_c10_u003')
+
+event_id: s01_e05_c10_u004_e1
+utterance_id: s01_e05_c10_u004
+  tuple: ('know', 'You/Monica Geller', 'what else', 's01_e05_c10_u004')
+
+event_id: s01_e05_c10_u004_e2
+utterance_id: s01_e05_c10_u004
+  tuple: ('be', 'He/Bob', 'unbelievable', 's01_e05_c10_u004')
+  tuple: ('be', 'He/Bob', 'in bed', 's01_e05_c10_u004')
+
+event_id: s01_e05_c10_u005_e1
+utterance_id: s01_e05_c10_u005
+  tuple: ('tell', 'My brother', 'me', 's01_e05_c10_u005')
+
+event_id: s01_e05_c10_u005_e2
+utterance_id: s01_e05_c10_u005
+  tuple: ('lose', 'he/(my brother)', 'his virginity', 's01_e05_c10_u005')
+
+event_id: s01_e05_c10_u006_e1
+utterance_id: s01_e05_c10_u006
+  tuple: ('be', 'That', 'nice', 's01_e05_c10_u006')
+

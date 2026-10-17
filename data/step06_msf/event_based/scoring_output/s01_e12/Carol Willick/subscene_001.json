@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Welcomes Speaker_01 in, volunteers the amniocentesis news, enthusiastically says “Totally and completely healthy!” and initiates asking if he wants to know the baby’s sex—engaged and talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Checks if the lasagna is vegetarian and notes Speaker_03 doesn’t eat meat—considerate of others’ needs and cooperative tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Attends to details (verifies food fits dietary restriction) and has completed and clearly reports medical test results."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently and cheerfully announces “Totally and completely healthy!” with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Willing to discuss knowing the baby’s sex, but no strong evidence of curiosity or unconventional thinking beyond that."
+  }
+}

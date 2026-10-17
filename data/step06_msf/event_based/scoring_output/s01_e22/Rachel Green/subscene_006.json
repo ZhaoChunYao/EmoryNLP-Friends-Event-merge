@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At u008, TargetSpeaker initiates group small-talk by asking if others have checked out the new bathroom hand-dryers, engaging others in conversation."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of generosity or antagonism; he simply asks a question and confirms a fact (u008–u010)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization or carelessness; only brief comments about hand-dryers (u008–u010)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of nervousness or pronounced confidence; his remarks are neutral and brief (u008–u010)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He shows curiosity about a new feature by asking if others have tried the new hand-dryers (u008)."
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c15_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u001_e1",
+          "tuples": [
+            "('end up', 'I/Chandler Bing', 'telling her everything', 's01_e16_c15_u001')",
+            "('tell', 'I/Chandler Bing', 'her', 's01_e16_c15_u001')",
+            "('tell', 'I/Chandler Bing', 'everything', 's01_e16_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u002_e1",
+          "tuples": [
+            "('take', 'she/(unknown)', 'it', 's01_e16_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u003_e1",
+          "tuples": [
+            "('be', 'you/(generic)', 'in a similar situation', 's01_e16_c15_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u003_e2",
+          "tuples": [
+            "('leave', 'you/(generic)', 'your hand', 's01_e16_c15_u003')",
+            "('leave', 'you/(generic)', 'on the desk', 's01_e16_c15_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u004_e1",
+          "tuples": [
+            "('think', 'I/Monica Geller', 'I get how to do this', 's01_e16_c15_u004')",
+            "('get', 'I/Monica Geller', 'how to do this', 's01_e16_c15_u004')",
+            "('do', 'I/Monica Geller', 'this', 's01_e16_c15_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u006_e1",
+          "tuples": [
+            "('turn', 'we/(group)', 'off this', 's01_e16_c15_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u006_e2",
+          "tuples": [
+            "('make', 'we/(group)', 'it', 's01_e16_c15_u006')",
+            "('make', 'we/(group)', 'them', 's01_e16_c15_u006')",
+            "('go away', 'they/(unknown)', None, 's01_e16_c15_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u006_e3",
+          "tuples": [
+            "('watch', 'I/Phoebe Buffay', None, 's01_e16_c15_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u007_e1",
+          "tuples": [
+            "('be', 'they/(unknown)', 'gone', 's01_e16_c15_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u009_e1",
+          "tuples": [
+            "('be', 'you/Phoebe Buffay', 'alright', 's01_e16_c15_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u010",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u010_e1",
+          "tuples": [
+            "('be', 'it/(situation)', 'this whole stupid Ursula thing', 's01_e16_c15_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u011_e1",
+          "tuples": [
+            "('ask', 'I/Rachel Green', None, 's01_e16_c15_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u011_e2",
+          "tuples": [
+            "('go out', 'he/Joey Tribbiani', 'with her', 's01_e16_c15_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u011_e3",
+          "tuples": [
+            "('be', 'it/(situation)', 'really so terrible', 's01_e16_c15_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u012",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u012_e1",
+          "tuples": [
+            "('say', 'I/Phoebe Buffay', \"she's like evil or anything\", 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e2",
+          "tuples": [
+            "('be', 'she/Ursula', 'like evil', 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e3",
+          "tuples": [
+            "('break', 'she/Ursula', 'my stuff', 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e4",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'eight', 's01_e16_c15_u012')",
+            "('let', 'I/Phoebe Buffay', 'her', 's01_e16_c15_u012')",
+            "('have', 'she/Ursula', 'my Judy Jetson thermos', 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e5",
+          "tuples": [
+            "('throw', 'she/Ursula', 'it', 's01_e16_c15_u012')",
+            "('throw', 'she/Ursula', 'under the bus', 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e6",
+          "tuples": [
+            "('be', 'there', 'Randy Brown', 's01_e16_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u012_e7",
+          "tuples": [
+            "('have', 'you/(Rachel Green & Monica Geller)', 'a boyfriend', 's01_e16_c15_u012')",
+            "('be', 'who/(a boyfriend)', 'like your best friend', 's01_e16_c15_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u014",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u014_e1",
+          "tuples": [
+            "('be', 'he/Randy Brown', 'that', 's01_e16_c15_u014')",
+            "('be', 'he/Randy Brown', 'for me', 's01_e16_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u014_e2",
+          "tuples": [
+            "('steal', 'she/Ursula', 'him', 's01_e16_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u014_e3",
+          "tuples": [
+            "('break', 'she/Ursula', 'his heart', 's01_e16_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u014_e4",
+          "tuples": [
+            "('talk', 'he/Randy Brown', 'to me', 's01_e16_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u014_e5",
+          "tuples": [
+            "('say', 'he/Randy Brown', \"he didn't wanna be around anything that looked like either one of us\", 's01_e16_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u014_e6",
+          "tuples": [
+            "('want', 'he/Randy Brown', 'to be around anything that looked like either one of us', 's01_e16_c15_u014')",
+            "('be', 'he/Randy Brown', 'around anything that looked like either one of us', 's01_e16_c15_u014')",
+            "('look', 'anything', 'like either one of us', 's01_e16_c15_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u016",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u016_e1",
+          "tuples": [
+            "('mean', 'I/Phoebe Buffay', None, 's01_e16_c15_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u016_e2",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'Joey is not my boyfriend, or my thermos, or anything', 's01_e16_c15_u016')",
+            "('be', 'Joey', 'my boyfriend', 's01_e16_c15_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u017",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u017_e1",
+          "tuples": [
+            "('lose', 'you/Phoebe Buffay', 'him', 's01_e16_c15_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u018",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u018_e1",
+          "tuples": [
+            "('talk', 'you/Phoebe Buffay', 'to Joey', 's01_e16_c15_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u020",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u020_e1",
+          "tuples": [
+            "('know', 'he/Joey Tribbiani', 'this stuff', 's01_e16_c15_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u020_e2",
+          "tuples": [
+            "('know', 'he/Joey Tribbiani', 'how you felt', 's01_e16_c15_u020')",
+            "('feel', 'you/Phoebe Buffay', None, 's01_e16_c15_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u021",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u021_e1",
+          "tuples": [
+            "('fall in love', 'he/Joey Tribbiani', 'with her', 's01_e16_c15_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u022",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u022_e1",
+          "tuples": [
+            "('go out', 'they/(Joey Tribbiani & Ursula)', None, 's01_e16_c15_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u022_e2",
+          "tuples": [
+            "('sleep together', 'they/(Joey Tribbiani & Ursula)', None, 's01_e16_c15_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u022_e3",
+          "tuples": [
+            "('mean', 'I/Rachel Green', None, 's01_e16_c15_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c15_u022_e4",
+          "tuples": [
+            "('be', 'that/(relationship status)', 'serious', 's01_e16_c15_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c15_u029",
+      "events": [
+        {
+          "event_id": "s01_e16_c15_u029_e1",
+          "tuples": [
+            "('help', 'we/(Ursula & coworker)', 'you', 's01_e16_c15_u029')"
+          ]
+        }
+      ]
+    }
+  ]
+}

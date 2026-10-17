@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only offers a brief apology and a short clarifying question (“Relieved?”), which is not enough to clearly indicate outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly apologizes (“is currently really sorry”), showing straightforwardness and concern for the other person’s feelings."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors related to organization, planning, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Expressing remorse alone does not clearly indicate anxiety or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A single clarifying question (“Relieved?”) shows mild curiosity but not enough to indicate a clear tendency toward openness or dogmatism."
+  }
+}

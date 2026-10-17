@@ -1,0 +1,140 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u001_e1",
+          "tuples": [
+            "('excuse', 'you/(Receptionist)', 'me', 's01_e04_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u002_e1",
+          "tuples": [
+            "('say', 'it/(candy bar wrapper)', \"to call this number if you're not completely satisfied with this candy bar\", 's01_e04_c09_u002')",
+            "('call', 'you/(Receptionist)', 'this number', 's01_e04_c09_u002')",
+            "('be', 'you/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')",
+            "('be', 'you/(Receptionist)', 'with this candy bar', 's01_e04_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u002_e2",
+          "tuples": [
+            "('be', 'I/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u003_e1",
+          "tuples": [
+            "('listen', 'you/(Receptionist)', None, 's01_e04_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u003_e2",
+          "tuples": [
+            "('be', 'it/(situation)', 'kind of an emergency', 's01_e04_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u003_e3",
+          "tuples": [
+            "('guess', 'I/(Chandler Bing)', 'you know that', 's01_e04_c09_u003')",
+            "('know', 'you/(Receptionist)', 'that', 's01_e04_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u003_e4",
+          "tuples": [
+            "('be', 'we/(Chandler Bing + Receptionist)', 'in the predicament room', 's01_e04_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u004_e1",
+          "tuples": [
+            "('hold on', 'you/(Ross Geller)', None, 's01_e04_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u004_e2",
+          "tuples": [
+            "('fill out', 'you/(Ross Geller)', 'these', 's01_e04_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u004_e3",
+          "tuples": [
+            "('sit', 'you/(Ross Geller)', 'over there', 's01_e04_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u005_e1",
+          "tuples": [
+            "('look', 'you/(Receptionist)', None, 's01_e04_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u005_e2",
+          "tuples": [
+            "('make', 'I/(Ross Geller)', 'any trouble', 's01_e04_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u005_e3",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'in a lot of pain', 's01_e04_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c09_u005_e4",
+          "tuples": [
+            "('be', 'my face', 'dented', 's01_e04_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u006_e1",
+          "tuples": [
+            "('wait', 'you/(Ross Geller)', 'your turn', 's01_e04_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c09_u007",
+      "events": [
+        {
+          "event_id": "s01_e04_c09_u007_e1",
+          "tuples": [
+            "('think', 'you/(Receptionist)', 'how long it will be', 's01_e04_c09_u007')",
+            "('be', 'it/(wait time)', 'how long', 's01_e04_c09_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

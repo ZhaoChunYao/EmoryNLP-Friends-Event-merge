@@ -1,0 +1,269 @@
+event_id: s01_e13_c02_u001_e1
+utterance_id: s01_e13_c02_u001
+  tuple: ('tell', 'you/Roger', 'the story', 's01_e13_c02_u001')
+  tuple: ('tell', 'you/Roger', 'about your patient', 's01_e13_c02_u001')
+
+event_id: s01_e13_c02_u001_e2
+utterance_id: s01_e13_c02_u001
+  tuple: ('think', 'your patient', 'things', 's01_e13_c02_u001')
+  tuple: ('be', 'things', 'like other things', 's01_e13_c02_u001')
+
+event_id: s01_e13_c02_u001_e3
+utterance_id: s01_e13_c02_u001
+  tuple: ('ring', 'the phone', None, 's01_e13_c02_u001')
+
+event_id: s01_e13_c02_u001_e4
+utterance_id: s01_e13_c02_u001
+  tuple: ('take', 'she/your patient', 'a shower', 's01_e13_c02_u001')
+
+event_id: s01_e13_c02_u002_e1
+utterance_id: s01_e13_c02_u002
+  tuple: ('be', 'that/the story', 'it', 's01_e13_c02_u002')
+
+event_id: s01_e13_c02_u004_e1
+utterance_id: s01_e13_c02_u004
+  tuple: ('tell', 'you/Phoebe Buffay', 'it', 's01_e13_c02_u004')
+
+event_id: s01_e13_c02_u005_e1
+utterance_id: s01_e13_c02_u005
+  tuple: ('go', 'you/Roger', None, 's01_e13_c02_u005')
+
+event_id: s01_e13_c02_u005_e2
+utterance_id: s01_e13_c02_u005
+  tuple: ('talk', 'we/Phoebe Buffay and friends', 'about you/Roger', 's01_e13_c02_u005')
+
+event_id: s01_e13_c02_u006_e1
+utterance_id: s01_e13_c02_u006
+  tuple: ('miss', 'I/Roger', 'you/Phoebe Buffay', 's01_e13_c02_u006')
+
+event_id: s01_e13_c02_u007_e1
+utterance_id: s01_e13_c02_u007
+  tuple: ('be', 'he/Roger', 'great', 's01_e13_c02_u007')
+
+event_id: s01_e13_c02_u008_e1
+utterance_id: s01_e13_c02_u008
+  tuple: ('be', 'he/Roger', 'so cute', 's01_e13_c02_u008')
+
+event_id: s01_e13_c02_u008_e2
+utterance_id: s01_e13_c02_u008
+  tuple: ('seem', 'he/Roger', None, 's01_e13_c02_u008')
+  tuple: ('like', 'he/Roger', 'you/Phoebe Buffay', 's01_e13_c02_u008')
+
+event_id: s01_e13_c02_u009_e1
+utterance_id: s01_e13_c02_u009
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e13_c02_u009')
+
+event_id: s01_e13_c02_u009_e2
+utterance_id: s01_e13_c02_u009
+  tuple: ('be', 'he/Roger', 'not too shrinky', 's01_e13_c02_u009')
+
+event_id: s01_e13_c02_u009_e3
+utterance_id: s01_e13_c02_u009
+  tuple: ('know', 'you/everyone', None, 's01_e13_c02_u009')
+
+event_id: s01_e13_c02_u010_e1
+utterance_id: s01_e13_c02_u010
+  tuple: ('think', 'you/Phoebe Buffay', None, 's01_e13_c02_u010')
+  tuple: ('do', 'you/Phoebe Buffay', 'it on his couch', 's01_e13_c02_u010')
+
+event_id: s01_e13_c02_u011_e1
+utterance_id: s01_e13_c02_u011
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e13_c02_u011')
+
+event_id: s01_e13_c02_u011_e2
+utterance_id: s01_e13_c02_u011
+  tuple: ('think', 'I/Phoebe Buffay', 'that', 's01_e13_c02_u011')
+  tuple: ('be', 'that', 'a little weird', 's01_e13_c02_u011')
+
+event_id: s01_e13_c02_u011_e3
+utterance_id: s01_e13_c02_u011
+  tuple: ('know', 'you/everyone', None, 's01_e13_c02_u011')
+
+event_id: s01_e13_c02_u012_e1
+utterance_id: s01_e13_c02_u012
+  tuple: ('want', 'any of you guys', 'anything else', 's01_e13_c02_u012')
+
+event_id: s01_e13_c02_u013_e1
+utterance_id: s01_e13_c02_u013
+  tuple: ('have', 'I/Chandler Bing', 'one of those', 's01_e13_c02_u013')
+
+event_id: s01_e13_c02_u014_e1
+utterance_id: s01_e13_c02_u014
+  tuple: ('be', 'I/Rachel Green', 'sorry', 's01_e13_c02_u014')
+
+event_id: s01_e13_c02_u014_e2
+utterance_id: s01_e13_c02_u014
+  tuple: ('be', 'we/Rachel Green+Central Perk', 'out of those', 's01_e13_c02_u014')
+
+event_id: s01_e13_c02_u016_e1
+utterance_id: s01_e13_c02_u016
+  tuple: ('miss', 'I/Roger', 'something', 's01_e13_c02_u016')
+
+event_id: s01_e13_c02_u017_e1
+utterance_id: s01_e13_c02_u017
+  tuple: ('be', 'she/Rachel Green', 'still upset', 's01_e13_c02_u017')
+
+event_id: s01_e13_c02_u017_e2
+utterance_id: s01_e13_c02_u017
+  tuple: ('see', 'I/Chandler Bing', 'her boobies', 's01_e13_c02_u017')
+
+event_id: s01_e13_c02_u018_e1
+utterance_id: s01_e13_c02_u018
+  tuple: ('do', 'you/Chandler Bing', None, 's01_e13_c02_u018')
+  tuple: ('see', 'you/Chandler Bing', 'her boobies', 's01_e13_c02_u018')
+
+event_id: s01_e13_c02_u019_e1
+utterance_id: s01_e13_c02_u019
+  tuple: ('be', 'it/the incident', 'an accident', 's01_e13_c02_u019')
+
+event_id: s01_e13_c02_u019_e2
+utterance_id: s01_e13_c02_u019
+  tuple: ('be', 'I/Chandler Bing', 'across the street', 's01_e13_c02_u019')
+  tuple: ('be', 'I/Chandler Bing', 'with a telescope', 's01_e13_c02_u019')
+  tuple: ('be', 'I/Chandler Bing', 'with a box of donuts', 's01_e13_c02_u019')
+
+event_id: s01_e13_c02_u020_e1
+utterance_id: s01_e13_c02_u020
+  tuple: ('change', 'we/everyone', 'the subject', 's01_e13_c02_u020')
+
+event_id: s01_e13_c02_u021_e1
+utterance_id: s01_e13_c02_u021
+  tuple: ('be', 'these/her breasts', 'not her boobies', 's01_e13_c02_u021')
+  tuple: ('be', 'these/her breasts', 'her breasts', 's01_e13_c02_u021')
+
+event_id: s01_e13_c02_u022_e1
+utterance_id: s01_e13_c02_u022
+  tuple: ('hope', 'I/Rachel Green', 'for more of a change', 's01_e13_c02_u022')
+
+event_id: s01_e13_c02_u023_e1
+utterance_id: s01_e13_c02_u023
+  tuple: ('know', 'I/Chandler Bing', None, 's01_e13_c02_u023')
+
+event_id: s01_e13_c02_u023_e2
+utterance_id: s01_e13_c02_u023
+  tuple: ('be', 'you/Rachel Green', 'so embarrassed', 's01_e13_c02_u023')
+
+event_id: s01_e13_c02_u023_e3
+utterance_id: s01_e13_c02_u023
+  tuple: ('be', 'they/her breasts', 'very nice boobies', 's01_e13_c02_u023')
+
+event_id: s01_e13_c02_u024_e1
+utterance_id: s01_e13_c02_u024
+  tuple: ('be', 'they/her breasts', 'nice', 's01_e13_c02_u024')
+
+event_id: s01_e13_c02_u024_e2
+utterance_id: s01_e13_c02_u024
+  tuple: ('be', 'that', 'it', 's01_e13_c02_u024')
+
+event_id: s01_e13_c02_u024_e3
+utterance_id: s01_e13_c02_u024
+  tuple: ('be', 'mittens', 'nice', 's01_e13_c02_u024')
+
+event_id: s01_e13_c02_u026_e1
+utterance_id: s01_e13_c02_u026
+  tuple: ('be', 'you/Chandler Bing', 'so funny', 's01_e13_c02_u026')
+  tuple: ('be', 'he/Chandler Bing', 'really funny', 's01_e13_c02_u026')
+
+event_id: s01_e13_c02_u026_e2
+utterance_id: s01_e13_c02_u026
+  tuple: ('want', 'I/Roger', 'to be there', 's01_e13_c02_u026')
+  tuple: ('be', 'I/Roger', 'there', 's01_e13_c02_u026')
+
+event_id: s01_e13_c02_u026_e3
+utterance_id: s01_e13_c02_u026
+  tuple: ('stop', 'the laughter', None, 's01_e13_c02_u026')
+
+event_id: s01_e13_c02_u027_e1
+utterance_id: s01_e13_c02_u027
+  tuple: ('mean', 'you/Roger', 'by that', 's01_e13_c02_u027')
+
+event_id: s01_e13_c02_u028_e1
+utterance_id: s01_e13_c02_u028
+  tuple: ('seem', 'it', None, 's01_e13_c02_u028')
+  tuple: ('have', 'you/Chandler Bing', 'intimacy issues', 's01_e13_c02_u028')
+
+event_id: s01_e13_c02_u028_e2
+utterance_id: s01_e13_c02_u028
+  tuple: ('use', 'you/Chandler Bing', 'your humour', 's01_e13_c02_u028')
+  tuple: ('keep', 'you/Chandler Bing', 'people at a distance', 's01_e13_c02_u028')
+
+event_id: s01_e13_c02_u028_e3
+utterance_id: s01_e13_c02_u028
+  tuple: ('know', 'you/everyone', None, 's01_e13_c02_u028')
+
+event_id: s01_e13_c02_u030_e1
+utterance_id: s01_e13_c02_u030
+  tuple: ('mean', 'I/Roger', None, 's01_e13_c02_u030')
+
+event_id: s01_e13_c02_u030_e2
+utterance_id: s01_e13_c02_u030
+  tuple: ('meet', 'I/Roger', 'you/Chandler Bing', 's01_e13_c02_u030')
+
+event_id: s01_e13_c02_u030_e3
+utterance_id: s01_e13_c02_u030
+  tuple: ('know', 'I/Roger', 'you/Chandler Bing', 's01_e13_c02_u030')
+  tuple: ('know', 'I/Roger', 'from Adam', 's01_e13_c02_u030')
+
+event_id: s01_e13_c02_u030_e4
+utterance_id: s01_e13_c02_u030
+  tuple: ('divorce', 'Parents', None, 's01_e13_c02_u030')
+
+event_id: s01_e13_c02_u030_e5
+utterance_id: s01_e13_c02_u030
+  tuple: ('hit', 'you/Chandler Bing', 'puberty', 's01_e13_c02_u030')
+
+event_id: s01_e13_c02_u031_e1
+utterance_id: s01_e13_c02_u031
+  tuple: ('know', 'you/Roger', 'that', 's01_e13_c02_u031')
+
+event_id: s01_e13_c02_u032_e1
+utterance_id: s01_e13_c02_u032
+  tuple: ('be', "it/Chandler's background", 'textbook', 's01_e13_c02_u032')
+
+event_id: s01_e13_c02_u034_e1
+utterance_id: s01_e13_c02_u034
+  tuple: ('know', 'you all/friends group', 'my dad', 's01_e13_c02_u034')
+
+event_id: s01_e13_c02_u036_e1
+utterance_id: s01_e13_c02_u036
+  tuple: ('be', 'you/Joey Tribbiani Sr.', 'in the city', 's01_e13_c02_u036')
+
+event_id: s01_e13_c02_u037_e1
+utterance_id: s01_e13_c02_u037
+  tuple: ('get', 'I/Joey Tribbiani Sr.', 'a job midtown', 's01_e13_c02_u037')
+
+event_id: s01_e13_c02_u037_e2
+utterance_id: s01_e13_c02_u037
+  tuple: ('figure', 'I/Joey Tribbiani Sr.', None, 's01_e13_c02_u037')
+  tuple: ('be', 'I/Joey Tribbiani Sr.', 'better off', 's01_e13_c02_u037')
+  tuple: ('stay', 'I/Joey Tribbiani Sr.', 'with the kid', 's01_e13_c02_u037')
+  tuple: ('haul', 'I/Joey Tribbiani Sr.', 'my ass on the ferry', 's01_e13_c02_u037')
+
+event_id: s01_e13_c02_u037_e3
+utterance_id: s01_e13_c02_u037
+  tuple: ('know', 'I/Joey Tribbiani Sr.', 'this one/Roger', 's01_e13_c02_u037')
+
+event_id: s01_e13_c02_u038_e1
+utterance_id: s01_e13_c02_u038
+  tuple: ('be', 'this/person', 'my friend Roger', 's01_e13_c02_u038')
+
+event_id: s01_e13_c02_u040_e1
+utterance_id: s01_e13_c02_u040
+  tuple: ('meet', 'I/Joey Tribbiani Sr.', 'you/Roger', 's01_e13_c02_u040')
+
+event_id: s01_e13_c02_u042_e1
+utterance_id: s01_e13_c02_u042
+  tuple: ('happen', 'what', 'to the puppet guy', 's01_e13_c02_u042')
+
+event_id: s01_e13_c02_u044_e1
+utterance_id: s01_e13_c02_u044
+  tuple: ('excuse', 'you/everyone', 'me', 's01_e13_c02_u044')
+
+event_id: s01_e13_c02_u044_e2
+utterance_id: s01_e13_c02_u044
+  tuple: ('be', 'the wife/Ross's wife', None, 's01_e13_c02_u044')
+
+event_id: s01_e13_c02_u044_e3
+utterance_id: s01_e13_c02_u044
+  tuple: ('say', 'Chandler Bing', 'something funny', 's01_e13_c02_u044')
+

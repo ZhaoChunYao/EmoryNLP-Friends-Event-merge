@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly jokes about his high-school experience and sex in front of others, volunteering personal details."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He mocks Speaker_02 by saying he thought Speaker_02’s image in the photo was an alp."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, efficiency, or their opposites."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He discusses potentially awkward topics (sex, boarding school) in a lighthearted, confident manner without signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A joke about sexuality is present, but there is not enough evidence of curiosity or rigidity to judge openness."
+  }
+}

@@ -1,0 +1,21 @@
+event_id: s01_e23_c11_u001_e1
+utterance_id: s01_e23_c11_u001
+  tuple: ('do', 'you/Lydia', 'it', 's01_e23_c11_u001')
+  tuple: ('push', 'you/Lydia', "'em way out", 's01_e23_c11_u001')
+
+event_id: s01_e23_c11_u001_e2
+utterance_id: s01_e23_c11_u001
+  tuple: ('come', 'you/Lydia', 'on', 's01_e23_c11_u001')
+
+event_id: s01_e23_c11_u001_e3
+utterance_id: s01_e23_c11_u001
+  tuple: ('get', 'we/Joey Tribbiani+Lydia', 'that ball', 's01_e23_c11_u001')
+
+event_id: s01_e23_c11_u001_e4
+utterance_id: s01_e23_c11_u001
+  tuple: ('move', 'we/Joey Tribbiani+Lydia', None, 's01_e23_c11_u001')
+
+event_id: s01_e23_c11_u001_e5
+utterance_id: s01_e23_c11_u001
+  tuple: ('be', 'I/Joey Tribbiani', None, 's01_e23_c11_u001')
+

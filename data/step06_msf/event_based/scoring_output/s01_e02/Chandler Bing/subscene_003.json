@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes a bold, public assertion about others and then loudly exclaims “Ew, ew, ew…” repeatedly, showing expressive, energetic behavior rather than reserve."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker labels Speaker_02 and Speaker_03 as “cruel” and generalizes that “everyone knows this,” and later reacts with dismissive disgust (“Ew, ew, ew…”), indicating a critical, less agreeable stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicates organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The repeated “Ew, ew, ew…” shows a strong, immediate negative emotional reaction, suggesting sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or actions indicate curiosity, imagination, or resistance to new ideas."
+  }
+}

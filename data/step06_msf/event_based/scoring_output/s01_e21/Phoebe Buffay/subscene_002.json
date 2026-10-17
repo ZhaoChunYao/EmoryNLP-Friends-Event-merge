@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "States understanding of the routine (u018) and promptly announces partnering with Speaker_02 when told to grab partners (u024), showing active engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperatively follows instructions to pair up and straightforwardly relays that Speaker_01 is 'it' and that they are partnering with Speaker_02 (u024)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Says they understand the routine (u018) and organizes a partner immediately when prompted (u024), indicating attentiveness and orderliness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Expresses confidence by saying they understand the routine (u018) and calmly confirms a partner (u024), not showing nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity; actions reflect following directions rather than exploring new ideas."
+  }
+}

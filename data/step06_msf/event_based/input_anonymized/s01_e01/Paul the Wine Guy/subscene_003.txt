@@ -1,0 +1,21 @@
+Episode: s01_e01
+Scene: s01_e01_c11
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e01_c11_u007 → s01_e01_c11_u015
+Peak window: 7 → 7
+
+Dialogue:
+  [s01_e01_c11_u007]
+  1. Speaker_01 says that Lenny and Squigy are here.
+  [s01_e01_c11_u008] Speaker_02: Morning. Good morning.
+  [s01_e01_c11_u009] TargetSpeaker: Morning.
+  [s01_e01_c11_u010] Speaker_03: Morning, Paul.
+  [s01_e01_c11_u011] Speaker_04: Hello, Paul.
+  [s01_e01_c11_u012]
+  1. Speaker_05 asks whether TargetSpeaker's name is Paul.
+  [s01_e01_c11_u013] Unknown Speaker: 
+  [s01_e01_c11_u014]
+  1. TargetSpeaker says that TargetSpeaker thanks Speaker_03, Speaker_04, Speaker_01, and Speaker_05.
+  [s01_e01_c11_u015]
+  1. Speaker_01 tells TargetSpeaker to stop thanking everyone.

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker volunteers a detailed, personal story to the group about the antique-store pin and childhood memory, showing talkative, outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses warm appreciation that Speaker_04 remembered the pin and credits their thoughtfulness, indicating friendliness and gratitude."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization or carelessness; the speaker simply recounts a memory and reacts to a gift."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The reaction is surprised and appreciative, without signs of anxiety, irritation, or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Interest in an antique pin tied to a nostalgic, aesthetic memory of a grandmother reflects openness to experience and sentimental/aesthetic appreciation."
+  }
+}

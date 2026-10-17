@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He initiates and drives the conversation with multiple questions (u001, u005, u007, u009), reacts openly (“Oww! Big ring!” u003), gives a bold compliment (u015) and playful reassurance (u017)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is polite and supportive: says he doesn’t mean to be disrespectful and asks for her perspective (u009), expresses happiness for her (u011), apologizes (u013), and reassures her with a compliment and encouragement (u015, u017)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He claims he acted based on what he thought she would want (u013) and seeks facts (u005), but there is no strong evidence of organization or diligence versus carelessness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "After being slapped twice, he stays composed—briefly notes the ring (u003) and proceeds calmly with questions and empathy (u005, u009, u011, u013)—showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He actively seeks and considers her viewpoint (u009) and asks about the situation to understand it (u005), showing curiosity and openness to information that challenges his assumptions."
+  }
+}

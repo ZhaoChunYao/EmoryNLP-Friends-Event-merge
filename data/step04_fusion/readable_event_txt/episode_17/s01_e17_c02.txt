@@ -1,0 +1,147 @@
+event_id: s01_e17_c02_u001_e1
+utterance_id: s01_e17_c02_u001
+  tuple: ('have', 'I/(Ross Geller)', 'a dream last night where I was playing football with my kid', 's01_e17_c02_u001')
+  tuple: ('play', 'I/(Ross Geller)', 'football', 's01_e17_c02_u001')
+  tuple: ('play', 'I/(Ross Geller)', 'with my kid', 's01_e17_c02_u001')
+
+event_id: s01_e17_c02_u002_e1
+utterance_id: s01_e17_c02_u002
+  tuple: ('be', "That/(Ross's dream)", 'nice', 's01_e17_c02_u002')
+
+event_id: s01_e17_c02_u003_e1
+utterance_id: s01_e17_c02_u003
+  tuple: ('be', 'I/(Ross Geller)', 'on this field', 's01_e17_c02_u003')
+  tuple: ('hike', 'they/(teammates)', 'me the baby', 's01_e17_c02_u003')
+  tuple: ('know', 'I/(Ross Geller)', "I've gotta do something 'cause the Tampa Bay defence is comin' right at me", 's01_e17_c02_u003')
+  tuple: ('do', 'I/(Ross Geller)', 'something', 's01_e17_c02_u003')
+  tuple: ('come', 'the Tampa Bay defence', 'at me', 's01_e17_c02_u003')
+
+event_id: s01_e17_c02_u004_e1
+utterance_id: s01_e17_c02_u004
+  tuple: ('have', 'Tampa Bay', 'a terrible team', 's01_e17_c02_u004')
+
+event_id: s01_e17_c02_u005_e1
+utterance_id: s01_e17_c02_u005
+  tuple: ('be', 'it/(situation)', 'just me and the baby', 's01_e17_c02_u005')
+  tuple: ('think', 'I/(Ross Geller)', 'they can take us', 's01_e17_c02_u005')
+  tuple: ('take', 'they/(Tampa Bay defence)', 'us', 's01_e17_c02_u005')
+  tuple: ('heave', 'I/(Ross Geller)', 'it', 's01_e17_c02_u005')
+  tuple: ('heave', 'I/(Ross Geller)', 'down field', 's01_e17_c02_u005')
+
+event_id: s01_e17_c02_u006_e1
+utterance_id: s01_e17_c02_u006
+  tuple: ('be', 'you/(Ross Geller)', 'crazy', 's01_e17_c02_u006')
+
+event_id: s01_e17_c02_u006_e2
+utterance_id: s01_e17_c02_u006
+  tuple: ('be', 'That/(the thing thrown)', 'a baby', 's01_e17_c02_u006')
+
+event_id: s01_e17_c02_u007_e1
+utterance_id: s01_e17_c02_u007
+  tuple: ('take', 'he/(Ross Geller)', 'the sack', 's01_e17_c02_u007')
+
+event_id: s01_e17_c02_u008_e1
+utterance_id: s01_e17_c02_u008
+  tuple: ('be', 'I/(Ross Geller)', 'down field', 's01_e17_c02_u008')
+  tuple: ('realise', 'I/(Ross Geller)', "that I'm the one who's supposed to catch him", 's01_e17_c02_u008')
+  tuple: ('be', 'I/(Ross Geller)', 'the one', 's01_e17_c02_u008')
+  tuple: ('catch', 'who/(Ross Geller)', 'him', 's01_e17_c02_u008')
+  tuple: ('know', 'I/(Ross Geller)', "there is no way I'm gonna get there in time", 's01_e17_c02_u008')
+  tuple: ('be', 'there/(existential)', 'no way', 's01_e17_c02_u008')
+  tuple: ('get', 'I/(Ross Geller)', 'there', 's01_e17_c02_u008')
+  tuple: ('get', 'I/(Ross Geller)', 'in time', 's01_e17_c02_u008')
+  tuple: ('run', 'I/(Ross Geller)', None, 's01_e17_c02_u008')
+
+event_id: s01_e17_c02_u008_e2
+utterance_id: s01_e17_c02_u008
+  tuple: ('be', 'that/(the moment)', 'when I woke up', 's01_e17_c02_u008')
+  tuple: ('wake up', 'I/(Ross Geller)', None, 's01_e17_c02_u008')
+
+event_id: s01_e17_c02_u008_e3
+utterance_id: s01_e17_c02_u008
+  tuple: ('be', 'I/(Ross Geller)', 'so not ready to be a father', 's01_e17_c02_u008')
+  tuple: ('be', 'I/(Ross Geller)', 'a father', 's01_e17_c02_u008')
+
+event_id: s01_e17_c02_u009_e1
+utterance_id: s01_e17_c02_u009
+  tuple: ('be', 'you/(Ross Geller)', 'fine', 's01_e17_c02_u009')
+
+event_id: s01_e17_c02_u009_e2
+utterance_id: s01_e17_c02_u009
+  tuple: ('be', 'you/(Ross Geller)', 'one of the most caring, most responsible men in North America', 's01_e17_c02_u009')
+  tuple: ('be', 'you/(Ross Geller)', 'in North America', 's01_e17_c02_u009')
+
+event_id: s01_e17_c02_u009_e3
+utterance_id: s01_e17_c02_u009
+  tuple: ('make', 'you/(Ross Geller)', 'a great dad', 's01_e17_c02_u009')
+
+event_id: s01_e17_c02_u010_e1
+utterance_id: s01_e17_c02_u010
+  tuple: ('need', 'you/(Ross Geller) and the baby', 'better blocking', 's01_e17_c02_u010')
+
+event_id: s01_e17_c02_u012_e1
+utterance_id: s01_e17_c02_u012
+  tuple: ('be', 'either one of you guys', 'to the Rainbow Room', 's01_e17_c02_u012')
+
+event_id: s01_e17_c02_u012_e2
+utterance_id: s01_e17_c02_u012
+  tuple: ('be', 'it/(the Rainbow Room)', 'real expensive', 's01_e17_c02_u012')
+
+event_id: s01_e17_c02_u013_e1
+utterance_id: s01_e17_c02_u013
+  tuple: ('order', 'you/(Joey Tribbiani)', 'stuff', 's01_e17_c02_u013')
+
+event_id: s01_e17_c02_u014_e1
+utterance_id: s01_e17_c02_u014
+  tuple: ('take', 'I/(Joey Tribbiani)', 'Ursula', 's01_e17_c02_u014')
+
+event_id: s01_e17_c02_u014_e2
+utterance_id: s01_e17_c02_u014
+  tuple: ('be', 'it/(tonight)', 'her birthday', 's01_e17_c02_u014')
+
+event_id: s01_e17_c02_u016_e1
+utterance_id: s01_e17_c02_u016
+  tuple: ('be', "that/(Phoebe's birthday)", None, 's01_e17_c02_u016')
+
+event_id: s01_e17_c02_u018_e1
+utterance_id: s01_e17_c02_u018
+  tuple: ('be', 'the odds', 'of that happening', 's01_e17_c02_u018')
+  tuple: ('happen', 'that/(the coincidence)', None, 's01_e17_c02_u018')
+
+event_id: s01_e17_c02_u020_e1
+utterance_id: s01_e17_c02_u020
+  tuple: ('take', 'you/(Unknown Speaker)', 'your time', 's01_e17_c02_u020')
+
+event_id: s01_e17_c02_u022_e1
+utterance_id: s01_e17_c02_u022
+  tuple: ('be', 'it/(found item)', None, 's01_e17_c02_u022')
+
+event_id: s01_e17_c02_u022_e2
+utterance_id: s01_e17_c02_u022
+  tuple: ('do', 'you/(Joey Tribbiani)', None, 's01_e17_c02_u022')
+
+event_id: s01_e17_c02_u023_e1
+utterance_id: s01_e17_c02_u023
+  tuple: ('do', 'I/(Joey Tribbiani)', None, 's01_e17_c02_u023')
+
+event_id: s01_e17_c02_u023_e2
+utterance_id: s01_e17_c02_u023
+  tuple: ('want', 'I/(Joey Tribbiani)', 'to do anything to screw it up with Ursula', 's01_e17_c02_u023')
+  tuple: ('do', 'I/(Joey Tribbiani)', 'anything', 's01_e17_c02_u023')
+  tuple: ('screw up', 'I/(Joey Tribbiani)', 'it', 's01_e17_c02_u023')
+  tuple: ('screw up', 'I/(Joey Tribbiani)', 'with Ursula', 's01_e17_c02_u023')
+
+event_id: s01_e17_c02_u025_e1
+utterance_id: s01_e17_c02_u025
+  tuple: ('be', 'she/(Phoebe Buffay)', 'my friend', 's01_e17_c02_u025')
+  tuple: ('understand', 'she/(Phoebe Buffay)', None, 's01_e17_c02_u025')
+
+event_id: s01_e17_c02_u026_e1
+utterance_id: s01_e17_c02_u026
+  tuple: ('try', 'you/(Joey Tribbiani)', 'something like that', 's01_e17_c02_u026')
+  tuple: ('try', 'you/(Joey Tribbiani)', 'on my birthday', 's01_e17_c02_u026')
+
+event_id: s01_e17_c02_u026_e2
+utterance_id: s01_e17_c02_u026
+  tuple: ('stare', 'you/(Joey Tribbiani)', 'at the business end of a hissy fit', 's01_e17_c02_u026')
+

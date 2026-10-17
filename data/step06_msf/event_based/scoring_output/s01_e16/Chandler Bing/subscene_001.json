@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Outspoken and assertive: complains about the long wait, makes a humorous cartoon analogy, and directly tells the waitress to wait."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Displays impatience and confrontational tone: calls the wait unbelievable, tells the waitress to wait, and uses a mocking cartoon/‘ham’ remark."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; mentions the wait time but nothing about task management."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows frustration and impatience about the service delay, calling it unbelievable."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses imaginative, creative imagery by describing the situation as a cartoon and saying someone would look like a ham."
+  }
+}

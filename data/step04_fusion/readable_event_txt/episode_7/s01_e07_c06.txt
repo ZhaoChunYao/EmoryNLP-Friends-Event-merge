@@ -1,0 +1,33 @@
+event_id: s01_e07_c06_u001_e1
+utterance_id: s01_e07_c06_u001
+  tuple: ('be', 'It', 'fourteen and a half minutes', 's01_e07_c06_u001')
+
+event_id: s01_e07_c06_u001_e2
+utterance_id: s01_e07_c06_u001
+  tuple: ('say', 'you/Chandler Bing', 'one word', 's01_e07_c06_u001')
+
+event_id: s01_e07_c06_u001_e3
+utterance_id: s01_e07_c06_u001
+  tuple: ('do', 'you/Chandler Bing', 'something', 's01_e07_c06_u001')
+  tuple: ('make', 'you/Chandler Bing', 'contact', 's01_e07_c06_u001')
+  tuple: ('smile', 'you/Chandler Bing', None, 's01_e07_c06_u001')
+
+event_id: s01_e07_c06_u003_e1
+utterance_id: s01_e07_c06_u003
+  tuple: ('go', 'you/Chandler Bing', None, 's01_e07_c06_u003')
+
+event_id: s01_e07_c06_u005_e1
+utterance_id: s01_e07_c06_u005
+  tuple: ('scare', 'you/Chandler Bing', None, 's01_e07_c06_u005')
+
+event_id: s01_e07_c06_u006_e1
+utterance_id: s01_e07_c06_u006
+  tuple: ('like', 'you/Chandler Bing', 'to call somebody', 's01_e07_c06_u006')
+  tuple: ('call', 'you/Chandler Bing', 'somebody', 's01_e07_c06_u006')
+
+event_id: s01_e07_c06_u007_e1
+utterance_id: s01_e07_c06_u007
+  tuple: ('go', 'I/Chandler Bing', None, 's01_e07_c06_u007')
+  tuple: ('go', 'I/Chandler Bing', 'to high school', 's01_e07_c06_u007')
+  tuple: ('go', 'I/Chandler Bing', 'with about 300 guys', 's01_e07_c06_u007')
+

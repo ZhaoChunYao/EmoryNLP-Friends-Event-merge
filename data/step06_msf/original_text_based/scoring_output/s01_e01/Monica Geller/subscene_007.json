@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead in the conversation with advice ('Okay, look...') and openly confronts another person ('stop hitting on Speaker_02!'), showing assertive, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Supportive and straightforward toward Speaker_02 ('this is probably for the best... Independence. Taking control of your life') and protectively calls out inappropriate behavior toward her."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing personal organization or diligence; offering advice and enforcing a social norm does not demonstrate own planning/efficiency."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and decisively and confidently sets boundaries ('stop hitting on Speaker_02!'), with no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages change and autonomy ('for the best... Independence. Taking control of your life'), indicating openness to new experiences and nonconformity."
+  }
+}

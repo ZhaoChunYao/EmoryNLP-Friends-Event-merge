@@ -1,0 +1,93 @@
+event_id: s01_e03_c01_u003_e1
+utterance_id: s01_e03_c01_u003
+  tuple: ('go', 'it/(the date)', None, 's01_e03_c01_u003')
+
+event_id: s01_e03_c01_u004_e1
+utterance_id: s01_e03_c01_u004
+  tuple: ('walk', "he/(Phoebe's date)", 'me', 's01_e03_c01_u004')
+  tuple: ('walk', "he/(Phoebe's date)", 'to the subway', 's01_e03_c01_u004')
+
+event_id: s01_e03_c01_u004_e2
+utterance_id: s01_e03_c01_u004
+  tuple: ('say', "he/(Phoebe's date)", 'We should do this again', 's01_e03_c01_u004')
+  tuple: ('do', "we/(Phoebe Buffay+Phoebe's date)", 'this again', 's01_e03_c01_u004')
+
+event_id: s01_e03_c01_u006_e1
+utterance_id: s01_e03_c01_u006
+  tuple: ('be', 'that/(he said "we should do it again")', 'good', 's01_e03_c01_u006')
+
+event_id: s01_e03_c01_u007_e1
+utterance_id: s01_e03_c01_u007
+  tuple: ('mean', 'We should do this again', 'You will never see me naked', 's01_e03_c01_u007')
+  tuple: ('see', 'you/(Phoebe Buffay)', 'me', 's01_e03_c01_u007')
+
+event_id: s01_e03_c01_u009_e1
+utterance_id: s01_e03_c01_u009
+  tuple: ('be', 'it/(the euphemism)', 'like dating language', 's01_e03_c01_u009')
+
+event_id: s01_e03_c01_u009_e2
+utterance_id: s01_e03_c01_u009
+  tuple: ('mean', "It's not you", 'It is you', 's01_e03_c01_u009')
+  tuple: ('be', 'it/(the problem)', 'not you', 's01_e03_c01_u009')
+  tuple: ('be', 'it/(the problem)', 'you', 's01_e03_c01_u009')
+
+event_id: s01_e03_c01_u010_e1
+utterance_id: s01_e03_c01_u010
+  tuple: ('mean', "You're such a nice guy", "I'm gonna be dating leather-wearing alcoholics and complaining about them to you", 's01_e03_c01_u010')
+  tuple: ('be', 'you/(generic)', 'such a nice guy', 's01_e03_c01_u010')
+  tuple: ('be', 'I/(speaker of phrase)', 'dating leather-wearing alcoholics and complaining about them to you', 's01_e03_c01_u010')
+  tuple: ('date', 'I/(speaker of phrase)', 'leather-wearing alcoholics', 's01_e03_c01_u010')
+  tuple: ('complain', 'I/(speaker of phrase)', 'about them', 's01_e03_c01_u010')
+  tuple: ('complain', 'I/(speaker of phrase)', 'to you', 's01_e03_c01_u010')
+
+event_id: s01_e03_c01_u011_e1
+utterance_id: s01_e03_c01_u011
+  tuple: ('mean', 'I think we should see other people', 'Ha, ha, I already am', 's01_e03_c01_u011')
+  tuple: ('think', 'I/(speaker of phrase)', 'we should see other people', 's01_e03_c01_u011')
+  tuple: ('see', 'we/(the couple)', 'other people', 's01_e03_c01_u011')
+  tuple: ('be', 'I/(speaker of phrase)', None, 's01_e03_c01_u011')
+
+event_id: s01_e03_c01_u012_e1
+utterance_id: s01_e03_c01_u012
+  tuple: ('know', 'everybody', 'this', 's01_e03_c01_u012')
+
+event_id: s01_e03_c01_u013_e1
+utterance_id: s01_e03_c01_u013
+  tuple: ('cushion', 'it/(this practice)', 'the blow', 's01_e03_c01_u013')
+
+event_id: s01_e03_c01_u014_e1
+utterance_id: s01_e03_c01_u014
+  tuple: ('be', 'it/(this practice)', "like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm", 's01_e03_c01_u014')
+  tuple: ('be', 'you/(generic)', 'a kid', 's01_e03_c01_u014')
+
+event_id: s01_e03_c01_u014_e2
+utterance_id: s01_e03_c01_u014
+  tuple: ('put', 'your parents/(generic you)', 'your dog', 's01_e03_c01_u014')
+  tuple: ('put', 'your parents/(generic you)', 'to sleep', 's01_e03_c01_u014')
+
+event_id: s01_e03_c01_u014_e3
+utterance_id: s01_e03_c01_u014
+  tuple: ('tell', 'they/(your parents)', 'you', 's01_e03_c01_u014')
+  tuple: ('tell', 'they/(your parents)', 'it went off to live on some farm', 's01_e03_c01_u014')
+  tuple: ('go', 'it/(your dog)', 'off', 's01_e03_c01_u014')
+  tuple: ('live', 'it/(your dog)', None, 's01_e03_c01_u014')
+  tuple: ('live', 'it/(your dog)', 'on some farm', 's01_e03_c01_u014')
+
+event_id: s01_e03_c01_u015_e1
+utterance_id: s01_e03_c01_u015
+  tuple: ('be', 'that/(Chandler\'s remark)', 'funny', 's01_e03_c01_u015')
+
+event_id: s01_e03_c01_u015_e2
+utterance_id: s01_e03_c01_u015
+  tuple: ('send', 'our parents/(Ross Geller+Monica Geller)', 'our dog', 's01_e03_c01_u015')
+  tuple: ('send', 'our parents/(Ross Geller+Monica Geller)', 'off', 's01_e03_c01_u015')
+  tuple: ('live', 'our dog/(Ross Geller+Monica Geller)', None, 's01_e03_c01_u015')
+  tuple: ('live', 'our dog/(Ross Geller+Monica Geller)', 'on a farm', 's01_e03_c01_u015')
+
+event_id: s01_e03_c01_u017_e1
+utterance_id: s01_e03_c01_u017
+  tuple: ('have', 'they/(the Millners)', 'this unbelievable farm', 's01_e03_c01_u017')
+  tuple: ('have', 'they/(the Millners)', 'horses', 's01_e03_c01_u017')
+  tuple: ('chase', 'he/(Chi Chi)', 'rabbits', 's01_e03_c01_u017')
+  tuple: ('be', 'it/(the farm)', None, 's01_e03_c01_u017')
+

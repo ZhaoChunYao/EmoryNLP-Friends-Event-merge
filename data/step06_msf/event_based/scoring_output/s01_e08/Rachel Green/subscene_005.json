@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks only briefly (u005, u007, u009), gives a short acknowledgment (“Hm-m”) and a simple factual confirmation, and does not initiate conversation—suggesting a reserved presence."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker cooperatively clarifies for Speaker_04 about the earrings (u005) and answers straightforwardly about the shoes from Italy (u009), showing helpful, direct communication."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness; TargetSpeaker only asks a clarifying question and provides a factual answer."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or irritability; responses are neutral and composed (“Hm-m,” simple confirmations)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or dogmatism; contributions are limited to straightforward facts."
+  }
+}

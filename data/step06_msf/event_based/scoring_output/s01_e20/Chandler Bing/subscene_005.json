@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives a brief emphatic “Yes!” without engaging further; this doesn’t clearly indicate outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When asked “Why?”, TargetSpeaker replies, “I have my reasons,” which is evasive and not straightforward."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior shows planning, organization, or carelessness—only short responses."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "There are no signs of anxiety, insecurity, or strong emotional reactivity in the brief replies."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "He offers no ideas or curiosity; the evasive answer doesn’t clearly show openness or closed-mindedness."
+  }
+}

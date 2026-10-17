@@ -1,0 +1,80 @@
+event_id: s01_e22_c09_u001_e1
+utterance_id: s01_e22_c09_u001
+  tuple: ('think', 'I/Chandler Bing', 'last night was great', 's01_e22_c09_u001')
+
+event_id: s01_e22_c09_u001_e2
+utterance_id: s01_e22_c09_u001
+  tuple: ('be', 'last night', 'great', 's01_e22_c09_u001')
+
+event_id: s01_e22_c09_u001_e3
+utterance_id: s01_e22_c09_u001
+  tuple: ('know', 'you/Phoebe Buffay', None, 's01_e22_c09_u001')
+
+event_id: s01_e22_c09_u001_e4
+utterance_id: s01_e22_c09_u001
+  tuple: ('do', 'Tracy and I', 'Ebony and Ivory', 's01_e22_c09_u001')
+
+event_id: s01_e22_c09_u002_e1
+utterance_id: s01_e22_c09_u002
+  tuple: ('be', 'you/Chandler Bing', 'great', 's01_e22_c09_u002')
+
+event_id: s01_e22_c09_u002_e2
+utterance_id: s01_e22_c09_u002
+  tuple: ('make', 'they/(people at karaoke)', 'fun of you', 's01_e22_c09_u002')
+
+event_id: s01_e22_c09_u004_e1
+utterance_id: s01_e22_c09_u004
+  tuple: ('know', 'you/Chandler Bing', None, 's01_e22_c09_u004')
+
+event_id: s01_e22_c09_u004_e2
+utterance_id: s01_e22_c09_u004
+  tuple: ('be', 'you/Chandler Bing', 'like Mr. Caring Boss', 's01_e22_c09_u004')
+  tuple: ('be', 'I/Chandler Bing', 'one of you', 's01_e22_c09_u004')
+  tuple: ('want', 'I/Chandler Bing', 'be your buddy', 's01_e22_c09_u004')
+  tuple: ('be', 'I/Chandler Bing', 'your buddy', 's01_e22_c09_u004')
+
+event_id: s01_e22_c09_u005_e1
+utterance_id: s01_e22_c09_u005
+  tuple: ('get', 'I/Chandler Bing', 'it', 's01_e22_c09_u005')
+
+event_id: s01_e22_c09_u006_e1
+utterance_id: s01_e22_c09_u006
+  tuple: ('know', 'you/Chandler Bing', 'what', 's01_e22_c09_u006')
+
+event_id: s01_e22_c09_u006_e2
+utterance_id: s01_e22_c09_u006
+  tuple: ('think', 'I/Phoebe Buffay', "you've gotta face it", 's01_e22_c09_u006')
+
+event_id: s01_e22_c09_u006_e3
+utterance_id: s01_e22_c09_u006
+  tuple: ('face', 'you/Chandler Bing', 'it', 's01_e22_c09_u006')
+
+event_id: s01_e22_c09_u006_e4
+utterance_id: s01_e22_c09_u006
+  tuple: ('be', 'you/Chandler Bing', 'like the guy in the big office', 's01_e22_c09_u006')
+  tuple: ('be', 'you/Chandler Bing', 'in the big office', 's01_e22_c09_u006')
+  tuple: ('be', 'you/Chandler Bing', 'the one', 's01_e22_c09_u006')
+  tuple: ('hire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')
+  tuple: ('fire', 'you/Chandler Bing', 'them', 's01_e22_c09_u006')
+  tuple: ('be', 'you/Chandler Bing', 'a great boss', 's01_e22_c09_u006')
+
+event_id: s01_e22_c09_u006_e5
+utterance_id: s01_e22_c09_u006
+  tuple: ('say', "they/(Chandler's employees)", "you're a great boss", 's01_e22_c09_u006')
+
+event_id: s01_e22_c09_u007_e1
+utterance_id: s01_e22_c09_u007
+  tuple: ('do', "they/(Chandler's employees)", None, 's01_e22_c09_u007')
+
+event_id: s01_e22_c09_u008_e1
+utterance_id: s01_e22_c09_u008
+  tuple: ('be', "they/(Chandler's employees)", 'your friends anymore', 's01_e22_c09_u008')
+
+event_id: s01_e22_c09_u009_e1
+utterance_id: s01_e22_c09_u009
+  tuple: ('want', 'I/Chandler Bing', None, 's01_e22_c09_u009')
+
+event_id: s01_e22_c09_u010_e1
+utterance_id: s01_e22_c09_u010
+  tuple: ('can', 'you/Chandler Bing', None, 's01_e22_c09_u010')
+

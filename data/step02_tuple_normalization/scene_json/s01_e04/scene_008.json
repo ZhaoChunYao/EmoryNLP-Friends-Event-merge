@@ -1,0 +1,76 @@
+{
+  "tuples": [
+    {
+      "verb": "get",
+      "subject": "you/(players)",
+      "object": "him",
+      "uid": "s01_e04_c08_u001"
+    },
+    {
+      "verb": "laugh",
+      "subject": "you/(pal)",
+      "object": null,
+      "uid": "s01_e04_c08_u001"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e04_c08_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "all you need",
+      "uid": "s01_e04_c08_u002"
+    },
+    {
+      "verb": "need",
+      "subject": "you/(Ross Geller)",
+      "object": "a bunch of toothless guys hitting each other with sticks",
+      "uid": "s01_e04_c08_u002"
+    },
+    {
+      "verb": "hit",
+      "subject": "a bunch of toothless guys",
+      "object": "each other",
+      "uid": "s01_e04_c08_u002"
+    },
+    {
+      "verb": "hit",
+      "subject": "a bunch of toothless guys",
+      "object": "with sticks",
+      "uid": "s01_e04_c08_u002"
+    },
+    {
+      "verb": "pass",
+      "subject": "you/(players)",
+      "object": "it",
+      "uid": "s01_e04_c08_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(player)",
+      "object": "open",
+      "uid": "s01_e04_c08_u004"
+    },
+    {
+      "verb": "shoot",
+      "subject": "you/(players)",
+      "object": null,
+      "uid": "s01_e04_c08_u005"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e04_c08_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing and Ross Geller)",
+      "object": "on that TV thing",
+      "uid": "s01_e04_c08_u007"
+    }
+  ]
+}

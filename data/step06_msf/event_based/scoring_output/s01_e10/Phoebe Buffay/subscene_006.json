@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Mostly brief, functional replies ('Hello?', 'Hi.' u001–u003) with one excited remark (u005); no clear outgoing or reserved behavior overall."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Expresses positive support ('going to Minsk is so exciting', u005), stays polite, and is non-manipulative, respecting the other’s autonomy (refuses to decide for them, u012, u016, u018), and keeps a light, friendly tone (u024)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps decision-making boundaries clear and organized ('I can't make the decision for you... it's your decision', u016–u018) and, when pressed, gives a clear directive ('You should stay here', u020)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles repeated pressure calmly and assertively without signs of distress (u012, u016, u018) and even makes a light joke (u024), indicating confidence and emotional steadiness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/creativity or dogmatism; discussion stays practical about who should decide (u012–u020)."
+  }
+}

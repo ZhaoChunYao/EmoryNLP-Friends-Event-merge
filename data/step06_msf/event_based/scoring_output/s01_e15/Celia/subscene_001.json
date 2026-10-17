@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and drives a sexual/risqué exchange, prompting Speaker_01 to 'talk dirty' and 'say something hot,' and affirms 'Yes...' when asked 'here?', showing bold, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is frank and straightforward about their desire (e.g., saying Speaker_01 is planning to 'talk dirty' and to say 'something hot'), with no signs of deceit or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "The dialogue is playful teasing with no indications of organization, reliability, or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows confidence and lack of anxiety, pressing the topic and agreeing to do it 'here' without hesitation or nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages and welcomes risqué, unconventional conversation ('talk dirty,' 'something hot'), indicating curiosity and openness."
+  }
+}

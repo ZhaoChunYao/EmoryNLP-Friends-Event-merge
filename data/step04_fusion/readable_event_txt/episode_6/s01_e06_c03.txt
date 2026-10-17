@@ -1,0 +1,228 @@
+event_id: s01_e06_c03_u003_e1
+utterance_id: s01_e06_c03_u003
+  tuple: ('be', 'this line', 'passion', 's01_e06_c03_u003')
+
+event_id: s01_e06_c03_u003_e2
+utterance_id: s01_e06_c03_u003
+  tuple: ('be', 'this', 'just a line', 's01_e06_c03_u003')
+
+event_id: s01_e06_c03_u004_e1
+utterance_id: s01_e06_c03_u004
+  tuple: ('believe', 'I/Chandler Bing', "I've been here almost seven seconds and you haven't asked me how my date went", 's01_e06_c03_u004')
+  tuple: ('be', 'I/Chandler Bing', 'here', 's01_e06_c03_u004')
+  tuple: ('ask', 'you/#ALL#', 'me/Chandler Bing', 's01_e06_c03_u004')
+  tuple: ('go', 'my date', None, 's01_e06_c03_u004')
+
+event_id: s01_e06_c03_u005_e1
+utterance_id: s01_e06_c03_u005
+  tuple: ('be', 'your date', None, 's01_e06_c03_u005')
+
+event_id: s01_e06_c03_u006_e1
+utterance_id: s01_e06_c03_u006
+  tuple: ('be', 'it/(the date)', 'unbelievable', 's01_e06_c03_u006')
+
+event_id: s01_e06_c03_u006_e2
+utterance_id: s01_e06_c03_u006
+  tuple: ('meet', 'I/Chandler Bing', 'anyone like her', 's01_e06_c03_u006')
+
+event_id: s01_e06_c03_u006_e3
+utterance_id: s01_e06_c03_u006
+  tuple: ('have', 'she/Aurora', 'the most amazing life', 's01_e06_c03_u006')
+
+event_id: s01_e06_c03_u006_e4
+utterance_id: s01_e06_c03_u006
+  tuple: ('be', 'she/Aurora', 'in the Israeli army', 's01_e06_c03_u006')
+
+event_id: s01_e06_c03_u008_e1
+utterance_id: s01_e06_c03_u008
+  tuple: ('hit', 'none of the bullets', 'the engine block', 's01_e06_c03_u008')
+  tuple: ('make', 'we/Aurora+companions', 'to the border', 's01_e06_c03_u008')
+
+event_id: s01_e06_c03_u008_e2
+utterance_id: s01_e06_c03_u008
+  tuple: ('talk', 'I/Aurora', 'about myself', 's01_e06_c03_u008')
+  tuple: ('be', 'I/Aurora', 'sorry', 's01_e06_c03_u008')
+
+event_id: s01_e06_c03_u008_e3
+utterance_id: s01_e06_c03_u008
+  tuple: ('tell', 'you/Chandler Bing', 'one of your stories', 's01_e06_c03_u008')
+
+event_id: s01_e06_c03_u009_e1
+utterance_id: s01_e06_c03_u009
+  tuple: ('get', 'I/Chandler Bing', 'on the subway', 's01_e06_c03_u009')
+  tuple: ('be', 'it/(the subway ride)', 'at night', 's01_e06_c03_u009')
+  tuple: ('ride', 'I/Chandler Bing', 'it', 's01_e06_c03_u009')
+  tuple: ('ride', 'I/Chandler Bing', 'to Brooklyn', 's01_e06_c03_u009')
+  tuple: ('ride', 'I/Chandler Bing', 'for the hell of it', 's01_e06_c03_u009')
+
+event_id: s01_e06_c03_u010_e1
+utterance_id: s01_e06_c03_u010
+  tuple: ('talk', 'we/Chandler Bing+Aurora', 'until like two', 's01_e06_c03_u010')
+  tuple: ('be', 'it/(the evening)', 'this perfect evening', 's01_e06_c03_u010')
+
+event_id: s01_e06_c03_u011_e1
+utterance_id: s01_e06_c03_u011
+  tuple: ('realize', 'we/Aurora+Rick', 'we were in Yammon', 's01_e06_c03_u011')
+  tuple: ('be', 'we/Aurora+Rick', 'in Yammon', 's01_e06_c03_u011')
+
+event_id: s01_e06_c03_u012_e1
+utterance_id: s01_e06_c03_u012
+  tuple: ('be', 'I/Chandler Bing', 'sorry', 's01_e06_c03_u012')
+
+event_id: s01_e06_c03_u012_e2
+utterance_id: s01_e06_c03_u012
+  tuple: ('be', "'we'", None, 's01_e06_c03_u012')
+
+event_id: s01_e06_c03_u013_e1
+utterance_id: s01_e06_c03_u013
+  tuple: ('be', "'we'", 'me and Rick', 's01_e06_c03_u013')
+
+event_id: s01_e06_c03_u014_e1
+utterance_id: s01_e06_c03_u014
+  tuple: ('be', 'Rick', 'who', 's01_e06_c03_u014')
+
+event_id: s01_e06_c03_u018_e1
+utterance_id: s01_e06_c03_u018
+  tuple: ('be', 'you/Aurora', 'divorced', 's01_e06_c03_u018')
+
+event_id: s01_e06_c03_u020_e1
+utterance_id: s01_e06_c03_u020
+  tuple: ('be', 'I/Chandler Bing', 'sorry', 's01_e06_c03_u020')
+
+event_id: s01_e06_c03_u020_e2
+utterance_id: s01_e06_c03_u020
+  tuple: ('be', 'you/Aurora', 'widowed', 's01_e06_c03_u020')
+
+event_id: s01_e06_c03_u021_e1
+utterance_id: s01_e06_c03_u021
+  tuple: ('be', 'I/Aurora', 'still married', 's01_e06_c03_u021')
+
+event_id: s01_e06_c03_u022_e1
+utterance_id: s01_e06_c03_u022
+  tuple: ('tell', 'you/Aurora', 'me/Chandler Bing', 's01_e06_c03_u022')
+  tuple: ('think', 'you/Aurora', 'your husband would feel about you sitting here with me', 's01_e06_c03_u022')
+  tuple: ('feel', 'your husband', 'about you sitting here with me', 's01_e06_c03_u022')
+  tuple: ('sit', 'you/Aurora', 'here', 's01_e06_c03_u022')
+  tuple: ('sit', 'you/Aurora', 'with me/Chandler Bing', 's01_e06_c03_u022')
+  tuple: ('slide', 'you/Aurora', 'your foot', 's01_e06_c03_u022')
+  tuple: ('slide', 'you/Aurora', 'up my pant leg', 's01_e06_c03_u022')
+  tuple: ('count', 'you/Aurora', 'the change', 's01_e06_c03_u022')
+  tuple: ('count', 'you/Aurora', 'in my pocket', 's01_e06_c03_u022')
+
+event_id: s01_e06_c03_u023_e1
+utterance_id: s01_e06_c03_u023
+  tuple: ('worry', 'you/Aurora', None, 's01_e06_c03_u023')
+  tuple: ('imagine', 'I/Aurora', "he'd be okay with you", 's01_e06_c03_u023')
+  tuple: ('be', "he/Aurora's husband", 'okay with you', 's01_e06_c03_u023')
+  tuple: ('be', "he/Aurora's husband", 'okay with Ethan', 's01_e06_c03_u023')
+
+event_id: s01_e06_c03_u024_e1
+utterance_id: s01_e06_c03_u024
+  tuple: ('be', 'there', 'an Ethan', 's01_e06_c03_u024')
+
+event_id: s01_e06_c03_u025_e1
+utterance_id: s01_e06_c03_u025
+  tuple: ('be', 'Ethan', 'my boyfriend', 's01_e06_c03_u025')
+
+event_id: s01_e06_c03_u027_e1
+utterance_id: s01_e06_c03_u027
+  tuple: ('explain', 'you/Aurora', 'something', 's01_e06_c03_u027')
+  tuple: ('explain', 'you/Aurora', 'to me/Chandler Bing', 's01_e06_c03_u027')
+  tuple: ('imagine', 'you/Aurora', 'us having a relationship', 's01_e06_c03_u027')
+  tuple: ('have', 'you/Aurora', 'a husband and a boyfriend', 's01_e06_c03_u027')
+  tuple: ('have', 'us/Chandler Bing+Aurora', 'a relationship', 's01_e06_c03_u027')
+
+event_id: s01_e06_c03_u028_e1
+utterance_id: s01_e06_c03_u028
+  tuple: ('suppose', 'I/Aurora', 'mainly sexual', 's01_e06_c03_u028')
+
+event_id: s01_e06_c03_u030_e1
+utterance_id: s01_e06_c03_u030
+  tuple: ('be', 'I/Monica Geller', 'sorry', 's01_e06_c03_u030')
+  tuple: ('work out', 'it/(the date)', None, 's01_e06_c03_u030')
+
+event_id: s01_e06_c03_u031_e1
+utterance_id: s01_e06_c03_u031
+  tuple: ('see', 'I/Chandler Bing', 'her/Aurora', 's01_e06_c03_u031')
+  tuple: ('see', 'I/Chandler Bing', 'on Thursday', 's01_e06_c03_u031')
+
+event_id: s01_e06_c03_u031_e2
+utterance_id: s01_e06_c03_u031
+  tuple: ('listen', 'you/Monica Geller', 'to the story', 's01_e06_c03_u031')
+
+event_id: s01_e06_c03_u032_e1
+utterance_id: s01_e06_c03_u032
+  tuple: ('listen', 'you/Chandler Bing', 'to the story', 's01_e06_c03_u032')
+
+event_id: s01_e06_c03_u032_e2
+utterance_id: s01_e06_c03_u032
+  tuple: ('be', 'this', 'twisted', 's01_e06_c03_u032')
+
+event_id: s01_e06_c03_u032_e3
+utterance_id: s01_e06_c03_u032
+  tuple: ('get', 'you/Chandler Bing', 'involved with a woman like this', 's01_e06_c03_u032')
+
+event_id: s01_e06_c03_u033_e1
+utterance_id: s01_e06_c03_u033
+  tuple: ('have', 'I/Chandler Bing', 'some trouble', 's01_e06_c03_u033')
+  tuple: ('have', 'I/Chandler Bing', 'with it', 's01_e06_c03_u033')
+  tuple: ('have', 'I/Chandler Bing', 'at first', 's01_e06_c03_u033')
+
+event_id: s01_e06_c03_u033_e2
+utterance_id: s01_e06_c03_u033
+  tuple: ('look', 'I/Chandler Bing', 'at it', 's01_e06_c03_u033')
+  tuple: ('be', 'the way I look at it', None, 's01_e06_c03_u033')
+  tuple: ('get', 'I/Chandler Bing', 'all the good stuff', 's01_e06_c03_u033')
+  tuple: ('be', 'this', "every guy's fantasy", 's01_e06_c03_u033')
+
+event_id: s01_e06_c03_u034_e1
+utterance_id: s01_e06_c03_u034
+  tuple: ('be', 'that', 'not true', 's01_e06_c03_u034')
+
+event_id: s01_e06_c03_u034_e2
+utterance_id: s01_e06_c03_u034
+  tuple: ('be', 'this', 'your fantasy', 's01_e06_c03_u034')
+
+event_id: s01_e06_c03_u035_e1
+utterance_id: s01_e06_c03_u035
+  tuple: ('be', "it/(Ross's fantasy)", None, 's01_e06_c03_u035')
+
+event_id: s01_e06_c03_u036_e1
+utterance_id: s01_e06_c03_u036
+  tuple: ('mind', 'you guys/Chandler Bing+Ross Geller+Joey Tribbiani', 'going out with someone else', 's01_e06_c03_u036')
+  tuple: ('go out', 'you guys/Chandler Bing+Ross Geller+Joey Tribbiani', 'with someone else', 's01_e06_c03_u036')
+  tuple: ('go out', 'who', 'with someone else', 's01_e06_c03_u036')
+
+event_id: s01_e06_c03_u037_e1
+utterance_id: s01_e06_c03_u037
+  tuple: ('do', 'I/Joey Tribbiani', 'it', 's01_e06_c03_u037')
+
+event_id: s01_e06_c03_u039_e1
+utterance_id: s01_e06_c03_u039
+  tuple: ('be', 'I/Joey Tribbiani', 'with a woman', 's01_e06_c03_u039')
+  tuple: ('need', 'I/Joey Tribbiani', "to know that I'm going out with more people than she is", 's01_e06_c03_u039')
+  tuple: ('know', 'I/Joey Tribbiani', "that I'm going out with more people than she is", 's01_e06_c03_u039')
+  tuple: ('go out', 'I/Joey Tribbiani', 'with more people', 's01_e06_c03_u039')
+  tuple: ('be', 'she/(the woman)', None, 's01_e06_c03_u039')
+
+event_id: s01_e06_c03_u040_e1
+utterance_id: s01_e06_c03_u040
+  tuple: ('be', 'monogamy', 'a tricky concept', 's01_e06_c03_u040')
+
+event_id: s01_e06_c03_u042_e1
+utterance_id: s01_e06_c03_u042
+  tuple: ('know', 'you/#ALL#', None, 's01_e06_c03_u042')
+
+event_id: s01_e06_c03_u043_e1
+utterance_id: s01_e06_c03_u043
+  tuple: ('kid', 'we/#ALL#', None, 's01_e06_c03_u043')
+
+event_id: s01_e06_c03_u043_e2
+utterance_id: s01_e06_c03_u043
+  tuple: ('tell', 'you/Ross Geller', 'us/#ALL#', 's01_e06_c03_u043')
+
+event_id: s01_e06_c03_u045_e1
+utterance_id: s01_e06_c03_u045
+  tuple: ('be', 'there', 'a theory', 's01_e06_c03_u045')
+  tuple: ('put forth', 'Richard Leakey', 'a theory', 's01_e06_c03_u045')
+

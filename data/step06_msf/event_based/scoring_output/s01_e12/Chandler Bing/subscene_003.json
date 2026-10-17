@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes a couple of suggestions/questions (asks about birds in u004, comments on designs in u008) but shows no clear outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They both propose and dismiss options (asks about birds in u004, later tells Speaker_01 to forget the bird design in u008) without clear signs of either warmth/cooperation or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating planning, organization, or carelessness; they simply discuss design options (u004, u008)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and without hesitation, e.g., instructs “forget about the bird design” and confidently asserts “ladybugs… suggest fine dining” (u008), showing composure rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and imaginative association: proposes an alternative (“What about the birds?” u004) and creatively links ladybugs to fine dining (u008)."
+  }
+}

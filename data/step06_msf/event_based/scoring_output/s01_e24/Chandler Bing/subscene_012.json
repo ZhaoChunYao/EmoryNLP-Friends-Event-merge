@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks a couple of questions (about fruit and about S1’s approach) but shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker directly questions S1’s ‘it’s all for her’ approach; this is straightforward but not clearly warm or hostile."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No signs of planning or disorganization; TargetSpeaker merely restates the win and asks questions."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or sensitivity; TargetSpeaker speaks matter-of-factly."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows curiosity by inquiring about resources (fruit) and by probing whether S1 will stick with a particular strategy."
+  }
+}

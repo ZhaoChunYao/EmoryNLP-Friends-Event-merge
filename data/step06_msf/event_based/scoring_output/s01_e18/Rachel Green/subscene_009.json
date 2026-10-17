@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, minimal replies and a short question (e.g., “No.” at u019, “Why?” at u021, and “Oh my God!” at u024), showing reserved communication rather than outgoing talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Provides a clear, straightforward description of the job (“shopping for a living as an assistant buyer,” u015) and responds directly to questions without conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicating organization or carelessness is shown in this brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "An exclamation (“Oh my God!”, u024) is a normal reaction to shocking news and does not clearly indicate heightened nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity by asking for the reasoning (“Why?”, u021)."
+  }
+}

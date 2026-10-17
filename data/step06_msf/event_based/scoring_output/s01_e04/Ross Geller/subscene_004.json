@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker says he will pass on attending the hockey game, thinks he should go home instead, and is going to go home, indicating preference to be alone over a social outing."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "He declines the invitation without hostility or conflict; no clear signs of either generosity/straightforward kindness or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors showing organization or carelessness; he simply changes plans to go home and think."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "After recalling the intimate significance of October twentieth, he says he is going to go home and think about Speaker_03 and Speaker_04, showing rumination and emotional sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity, creativity, or dogmatism; he discusses a personal memory but does not explore new ideas or experiences."
+  }
+}

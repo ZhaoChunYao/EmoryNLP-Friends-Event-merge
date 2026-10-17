@@ -1,0 +1,166 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u001_e1",
+          "tuples": [
+            "('help', 'you/Nurse Sizemore', 'me', 's01_e17_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u001_e2",
+          "tuples": [
+            "('swallow', 'my monkey', \"a 'K'\", 's01_e17_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u003",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u003_e1",
+          "tuples": [
+            "('go', 'you/Ross Geller', 'get that animal outta here', 's01_e17_c11_u003')",
+            "('get', 'you/Ross Geller', 'that animal', 's01_e17_c11_u003')",
+            "('get', 'you/Ross Geller', 'outta here', 's01_e17_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u004_e1",
+          "tuples": [
+            "('understand', 'you/Nurse Sizemore', None, 's01_e17_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u004_e2",
+          "tuples": [
+            "('be', 'the animal hospital', 'way across town', 's01_e17_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u004_e3",
+          "tuples": [
+            "('choke', 'he/Marcel', None, 's01_e17_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u004_e4",
+          "tuples": [
+            "('know', 'I/Ross Geller', 'what else to do', 's01_e17_c11_u004')",
+            "('do', 'I/Ross Geller', 'what else', 's01_e17_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u005_e1",
+          "tuples": [
+            "('go on', 'what', None, 's01_e17_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u007_e1",
+          "tuples": [
+            "('swallow', 'Marcel', 'a Scrabble tile', 's01_e17_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u010",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u010_e1",
+          "tuples": [
+            "('excuse', 'you/Ross Geller', 'me', 's01_e17_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u010_e2",
+          "tuples": [
+            "('be', 'This hospital', 'for people', 's01_e17_c11_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u011_e1",
+          "tuples": [
+            "('be', 'he/Marcel', 'people', 's01_e17_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u011_e2",
+          "tuples": [
+            "('have', 'he/Marcel', 'a name', 's01_e17_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u011_e3",
+          "tuples": [
+            "('watch', 'he/Marcel', 'Jeopardy!', 's01_e17_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u011_e4",
+          "tuples": [
+            "('touch', 'he/Marcel', 'himself', 's01_e17_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u011_e5",
+          "tuples": [
+            "('watch', 'nobody', None, 's01_e17_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c11_u011_e6",
+          "tuples": [
+            "('have', 'you/Nurse Sizemore', 'a heart', 's01_e17_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u013",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u013_e1",
+          "tuples": [
+            "('take', 'I/Dr. Mitchell', 'a look at him', 's01_e17_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c11_u015",
+      "events": [
+        {
+          "event_id": "s01_e17_c11_u015_e1",
+          "tuples": [
+            "('thank', 'Monica Geller, Rachel Green', 'you', 's01_e17_c11_u015')"
+          ]
+        }
+      ]
+    }
+  ]
+}

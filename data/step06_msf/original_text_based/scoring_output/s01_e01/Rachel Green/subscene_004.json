@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Declines a social invitation and chooses to be alone: \"thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day.\""
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely and with thanks while declining: \"Well actually thanks, but I think I'm just gonna hang out here tonight.\""
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization, planning, or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mentions a long day but shows no explicit signs of anxiety, irritability, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, dogmatism, or caution beyond ordinary context."
+  }
+}

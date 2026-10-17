@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages readily in banter and jokes (e.g., describes the skull as 'a big face without skin,' comments on books), and asks social questions like whether Speaker_02 talks about TargetSpeaker to the baby."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes critical/insensitive remarks, saying reading to the unborn baby would mean Speaker_02 is 'crazy' and that Speaker_02 is 'not serious,' and teases about their 'books about being a lesbian.'"
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States a clear responsibility and follow-through: came to pick up the skull borrowed for a class and 'has to get [it] back to the museum.'"
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and no signs of anxiety, openly teasing and challenging Speaker_02 without hesitation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses the idea of prenatal hearing/reading as 'crazy' and 'not serious' rather than considering it, indicating a closed-minded stance."
+  }
+}

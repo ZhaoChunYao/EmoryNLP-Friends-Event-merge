@@ -1,0 +1,104 @@
+event_id: s01_e23_c02_u001_e1
+utterance_id: s01_e23_c02_u001
+  tuple: ('stop', 'I/(Ross Geller)', 'for a Chunky', 's01_e23_c02_u001')
+
+event_id: s01_e23_c02_u002_e1
+utterance_id: s01_e23_c02_u002
+  tuple: ('let', 'you/(Ross Geller)', 'it', 's01_e23_c02_u002')
+  tuple: ('go', 'it/(the issue)', None, 's01_e23_c02_u002')
+
+event_id: s01_e23_c02_u003_e1
+utterance_id: s01_e23_c02_u003
+  tuple: ('get', 'I/(Susan Bunch)', 'an extra one', 's01_e23_c02_u003')
+
+event_id: s01_e23_c02_u003_e2
+utterance_id: s01_e23_c02_u003
+  tuple: ('want', 'you/(Ross Geller)', 'this', 's01_e23_c02_u003')
+
+event_id: s01_e23_c02_u006_e1
+utterance_id: s01_e23_c02_u006
+  tuple: ('do', 'my favorite parenting team', None, 's01_e23_c02_u006')
+
+event_id: s01_e23_c02_u008_e1
+utterance_id: s01_e23_c02_u008
+  tuple: ('understand', 'I/(Dr. Franzblau)', "you're thinking of having a baby", 's01_e23_c02_u008')
+  tuple: ('think', 'you/(Carol Willick)', 'of having a baby', 's01_e23_c02_u008')
+  tuple: ('have', 'you/(Carol Willick)', 'a baby', 's01_e23_c02_u008')
+
+event_id: s01_e23_c02_u008_e2
+utterance_id: s01_e23_c02_u008
+  tuple: ('see', 'I/(Dr. Franzblau)', "you're nine months pregnant", 's01_e23_c02_u008')
+  tuple: ('be', 'you/(Carol Willick)', 'nine months pregnant', 's01_e23_c02_u008')
+  tuple: ('be', 'that/(being nine months pregnant)', 'a good start', 's01_e23_c02_u008')
+
+event_id: s01_e23_c02_u008_e3
+utterance_id: s01_e23_c02_u008
+  tuple: ('do', 'you/(Carol Willick)', 'with your contractions', 's01_e23_c02_u008')
+
+event_id: s01_e23_c02_u009_e1
+utterance_id: s01_e23_c02_u009
+  tuple: ('love', 'I/(Carol Willick)', 'them', 's01_e23_c02_u009')
+
+event_id: s01_e23_c02_u009_e2
+utterance_id: s01_e23_c02_u009
+  tuple: ('be', 'Each one', 'like a little party in my uterus', 's01_e23_c02_u009')
+
+event_id: s01_e23_c02_u010_e1
+utterance_id: s01_e23_c02_u010
+  tuple: ('be', 'they/(contractions)', 'every four minutes', 's01_e23_c02_u010')
+  tuple: ('last', 'they/(contractions)', '55 seconds', 's01_e23_c02_u010')
+
+event_id: s01_e23_c02_u013_e1
+utterance_id: s01_e23_c02_u013
+  tuple: ('allow', 'I/(Carol Willick)', 'to drink anything', 's01_e23_c02_u013')
+  tuple: ('drink', 'I/(Carol Willick)', 'anything', 's01_e23_c02_u013')
+
+event_id: s01_e23_c02_u014_e1
+utterance_id: s01_e23_c02_u014
+  tuple: ('be', 'they/(ice chips)', "at the nurses' station", 's01_e23_c02_u014')
+
+event_id: s01_e23_c02_u015_e1
+utterance_id: s01_e23_c02_u015
+  tuple: ('get', 'I/(Ross Geller)', 'it', 's01_e23_c02_u015')
+
+event_id: s01_e23_c02_u016_e1
+utterance_id: s01_e23_c02_u016
+  tuple: ('get', 'I/(Susan Bunch)', 'it', 's01_e23_c02_u016')
+
+event_id: s01_e23_c02_u016_e2
+utterance_id: s01_e23_c02_u016
+  tuple: ('be', 'I/(Susan Bunch)', 'right back', 's01_e23_c02_u016')
+
+event_id: s01_e23_c02_u019_e1
+utterance_id: s01_e23_c02_u019
+  tuple: ('think', 'I/(Rachel Green)', 'you might like some ice chips', 's01_e23_c02_u019')
+  tuple: ('like', 'you/(Carol Willick)', 'some ice chips', 's01_e23_c02_u019')
+
+event_id: s01_e23_c02_u021_e1
+utterance_id: s01_e23_c02_u021
+  tuple: ('need', 'you/(Carol Willick)', 'anything else', 's01_e23_c02_u021')
+
+event_id: s01_e23_c02_u021_e2
+utterance_id: s01_e23_c02_u021
+  tuple: ('believe', 'I/(Rachel Green)', "we've met", 's01_e23_c02_u021')
+  tuple: ('meet', 'we/(Rachel Green & Dr. Franzblau)', None, 's01_e23_c02_u021')
+
+event_id: s01_e23_c02_u021_e3
+utterance_id: s01_e23_c02_u021
+  tuple: ('be', 'I/(Rachel Green)', 'Rachel Green', 's01_e23_c02_u021')
+  tuple: ('be', 'I/(Rachel Green)', "Carol's ex-husband's sister's roommate", 's01_e23_c02_u021')
+
+event_id: s01_e23_c02_u022_e1
+utterance_id: s01_e23_c02_u022
+  tuple: ('be', 'it/(the meeting)', 'nice to meet you', 's01_e23_c02_u022')
+  tuple: ('meet', 'I/(Dr. Franzblau)', 'you', 's01_e23_c02_u022')
+
+event_id: s01_e23_c02_u022_e2
+utterance_id: s01_e23_c02_u022
+  tuple: ('be', 'I/(Dr. Franzblau)', 'Dr. Franzblau', 's01_e23_c02_u022')
+  tuple: ('be', 'I/(Dr. Franzblau)', "your roommate's brother's ex-wife's obstetrician", 's01_e23_c02_u022')
+
+event_id: s01_e23_c02_u023_e1
+utterance_id: s01_e23_c02_u023
+  tuple: ('be', 'that/(joke)', 'funny', 's01_e23_c02_u023')
+

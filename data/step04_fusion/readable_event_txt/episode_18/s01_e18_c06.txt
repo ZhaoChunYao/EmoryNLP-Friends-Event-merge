@@ -1,0 +1,121 @@
+event_id: s01_e18_c06_u001_e1
+utterance_id: s01_e18_c06_u001
+  tuple: ('owe', 'Phoebs', '$7.50', 's01_e18_c06_u001')
+
+event_id: s01_e18_c06_u001_e2
+utterance_id: s01_e18_c06_u001
+  tuple: ('owe', 'you/Monica Geller', '$10', 's01_e18_c06_u001')
+
+event_id: s01_e18_c06_u001_e3
+utterance_id: s01_e18_c06_u001
+  tuple: ('owe', 'you/Rachel Green', 'fifteen big ones', 's01_e18_c06_u001')
+
+event_id: s01_e18_c06_u002_e1
+utterance_id: s01_e18_c06_u002
+  tuple: ('teach', 'you/(Monica Geller, Rachel Green, Phoebe Buffay)', 'us Cross-Eyed Mary', 's01_e18_c06_u002')
+
+event_id: s01_e18_c06_u002_e2
+utterance_id: s01_e18_c06_u002
+  tuple: ('play', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'that at our regular game', 's01_e18_c06_u002')
+
+event_id: s01_e18_c06_u003_e1
+utterance_id: s01_e18_c06_u003
+  tuple: ('be', 'my $7.50', 'here', 's01_e18_c06_u003')
+
+event_id: s01_e18_c06_u003_e2
+utterance_id: s01_e18_c06_u003
+  tuple: ('think', 'I/Phoebe Buffay', 'you should know that this money is cursed', 's01_e18_c06_u003')
+  tuple: ('know', 'you/(Ross Geller, Monica Geller, Chandler Bing, Joey Tribbiani, Rachel Green)', 'that this money is cursed', 's01_e18_c06_u003')
+  tuple: ('be', 'this money', 'cursed', 's01_e18_c06_u003')
+
+event_id: s01_e18_c06_u005_e1
+utterance_id: s01_e18_c06_u005
+  tuple: ('curse', 'I/Phoebe Buffay', 'it', 's01_e18_c06_u005')
+
+event_id: s01_e18_c06_u005_e2
+utterance_id: s01_e18_c06_u005
+  tuple: ('happen', 'bad things', 'to he who spends it', 's01_e18_c06_u005')
+  tuple: ('spend', 'he who', 'it', 's01_e18_c06_u005')
+
+event_id: s01_e18_c06_u006_e1
+utterance_id: s01_e18_c06_u006
+  tuple: ('be', 'that', 'alright', 's01_e18_c06_u006')
+
+event_id: s01_e18_c06_u006_e2
+utterance_id: s01_e18_c06_u006
+  tuple: ('take', 'I/Chandler Bing', 'it', 's01_e18_c06_u006')
+
+event_id: s01_e18_c06_u006_e3
+utterance_id: s01_e18_c06_u006
+  tuple: ('happen', 'Bad things', 'to me', 's01_e18_c06_u006')
+
+event_id: s01_e18_c06_u006_e4
+utterance_id: s01_e18_c06_u006
+  tuple: ('break', 'I/Chandler Bing', "'em up with a movie", 's01_e18_c06_u006')
+
+event_id: s01_e18_c06_u007_e1
+utterance_id: s01_e18_c06_u007
+  tuple: ('leave', 'that', 'the big Green poker machine', 's01_e18_c06_u007')
+
+event_id: s01_e18_c06_u007_e2
+utterance_id: s01_e18_c06_u007
+  tuple: ('owe', 'the big Green poker machine', 'fifteen', 's01_e18_c06_u007')
+
+event_id: s01_e18_c06_u008_e1
+utterance_id: s01_e18_c06_u008
+  tuple: ('be', 'I/Rachel Green', 'a man', 's01_e18_c06_u008')
+
+event_id: s01_e18_c06_u008_e2
+utterance_id: s01_e18_c06_u008
+  tuple: ('have', 'I/Rachel Green', 'a penis', 's01_e18_c06_u008')
+
+event_id: s01_e18_c06_u008_e3
+utterance_id: s01_e18_c06_u008
+  tuple: ('win', 'I/Rachel Green', 'money to exert my power over women', 's01_e18_c06_u008')
+
+event_id: s01_e18_c06_u008_e4
+utterance_id: s01_e18_c06_u008
+  tuple: ('exert', 'I/Rachel Green', 'my power', 's01_e18_c06_u008')
+  tuple: ('exert', 'I/Rachel Green', 'over women', 's01_e18_c06_u008')
+
+event_id: s01_e18_c06_u009_e1
+utterance_id: s01_e18_c06_u009
+  tuple: ('know', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'what', 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e2
+utterance_id: s01_e18_c06_u009
+  tuple: ('be', 'this', 'not over', 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e3
+utterance_id: s01_e18_c06_u009
+  tuple: ('play', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', 'you', 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e4
+utterance_id: s01_e18_c06_u009
+  tuple: ('win', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e5
+utterance_id: s01_e18_c06_u009
+  tuple: ('lose', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e6
+utterance_id: s01_e18_c06_u009
+  tuple: ('beg', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e7
+utterance_id: s01_e18_c06_u009
+  tuple: ('laugh', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e8
+utterance_id: s01_e18_c06_u009
+  tuple: ('take', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', 'every last dime you have', 's01_e18_c06_u009')
+  tuple: ('have', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'every last dime', 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u009_e9
+utterance_id: s01_e18_c06_u009
+  tuple: ('hate', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'yourselves', 's01_e18_c06_u009')
+
+event_id: s01_e18_c06_u010_e1
+utterance_id: s01_e18_c06_u010
+  tuple: ('step', 'you/Monica Geller', 'on my point', 's01_e18_c06_u010')
+

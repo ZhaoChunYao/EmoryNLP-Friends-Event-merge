@@ -1,0 +1,934 @@
+{
+  "tuples": [
+    {
+      "verb": "get",
+      "subject": "we/Monica Geller",
+      "object": "the cole slaw",
+      "uid": "s01_e24_c02_u001"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Monica Geller",
+      "object": "the buns",
+      "uid": "s01_e24_c02_u001"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Phoebe Buffay",
+      "object": "the ground-up flesh of formerly cute cows and turkeys",
+      "uid": "s01_e24_c02_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "Men",
+      "object": "here",
+      "uid": "s01_e24_c02_u004"
+    },
+    {
+      "verb": "make",
+      "subject": "we/Joey Tribbiani",
+      "object": "fire",
+      "uid": "s01_e24_c02_u005"
+    },
+    {
+      "verb": "cook",
+      "subject": "we/Joey Tribbiani",
+      "object": "meat",
+      "uid": "s01_e24_c02_u005"
+    },
+    {
+      "verb": "put out",
+      "subject": "we/Chandler Bing",
+      "object": "fire",
+      "uid": "s01_e24_c02_u006"
+    },
+    {
+      "verb": "put out",
+      "subject": "we/Chandler Bing",
+      "object": "by peeing",
+      "uid": "s01_e24_c02_u006"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Chandler Bing",
+      "object": "invited back",
+      "uid": "s01_e24_c02_u006"
+    },
+    {
+      "verb": "call",
+      "subject": "Melanie",
+      "object": null,
+      "uid": "s01_e24_c02_u008"
+    },
+    {
+      "verb": "say",
+      "subject": "Melanie",
+      "object": "she is gonna be late",
+      "uid": "s01_e24_c02_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Melanie",
+      "object": "late",
+      "uid": "s01_e24_c02_u008"
+    },
+    {
+      "verb": "go",
+      "subject": "things",
+      "object": null,
+      "uid": "s01_e24_c02_u010"
+    },
+    {
+      "verb": "go",
+      "subject": "things",
+      "object": "with you two",
+      "uid": "s01_e24_c02_u010"
+    },
+    {
+      "verb": "become",
+      "subject": "she/Melanie",
+      "object": "your special someone",
+      "uid": "s01_e24_c02_u010"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e24_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Melanie",
+      "object": "pretty great",
+      "uid": "s01_e24_c02_u011"
+    },
+    {
+      "verb": "think",
+      "subject": "she/Melanie",
+      "object": "of your little science project",
+      "uid": "s01_e24_c02_u012"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Monica Geller",
+      "object": "I'm gonna tell a girl I like that I'm also seeing a cup",
+      "uid": "s01_e24_c02_u013"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Joey Tribbiani",
+      "object": "a girl I like",
+      "uid": "s01_e24_c02_u013"
+    },
+    {
+      "verb": "like",
+      "subject": "I/Joey Tribbiani",
+      "object": "a girl",
+      "uid": "s01_e24_c02_u013"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Joey Tribbiani",
+      "object": "a cup",
+      "uid": "s01_e24_c02_u013"
+    },
+    {
+      "verb": "want",
+      "subject": "she/Melanie",
+      "object": "to have sex with me",
+      "uid": "s01_e24_c02_u015"
+    },
+    {
+      "verb": "have",
+      "subject": "she/Melanie",
+      "object": "sex",
+      "uid": "s01_e24_c02_u015"
+    },
+    {
+      "verb": "have",
+      "subject": "she/Melanie",
+      "object": "with me",
+      "uid": "s01_e24_c02_u015"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani",
+      "object": "a week left",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Joey Tribbiani",
+      "object": "in the program",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Joey Tribbiani",
+      "object": "to get the money",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani",
+      "object": "the money",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "allow",
+      "subject": "I/Joey Tribbiani",
+      "object": "not to conduct any personal experiments",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "conduct",
+      "subject": "I/Joey Tribbiani",
+      "object": "personal experiments",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "allow",
+      "subject": "I/Joey Tribbiani",
+      "object": "according to the rules",
+      "uid": "s01_e24_c02_u017"
+    },
+    {
+      "verb": "know",
+      "subject": "we/Monica Geller",
+      "object": "what you mean",
+      "uid": "s01_e24_c02_u018"
+    },
+    {
+      "verb": "mean",
+      "subject": "you/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e24_c02_u018"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Ross Geller",
+      "object": "this barbecue was gonna last",
+      "uid": "s01_e24_c02_u023"
+    },
+    {
+      "verb": "last",
+      "subject": "this barbecue",
+      "object": null,
+      "uid": "s01_e24_c02_u023"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": "to China",
+      "uid": "s01_e24_c02_u024"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Ross Geller",
+      "object": "to China",
+      "uid": "s01_e24_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(China trip)",
+      "object": "for the museum",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "find",
+      "subject": "someone",
+      "object": "a bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "want",
+      "subject": "we/Ross Geller",
+      "object": "the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "want",
+      "subject": "they/(the people who found the bone)",
+      "object": "us to have the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "have",
+      "subject": "us/Ross Geller",
+      "object": "the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": "over there",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "try",
+      "subject": "I/Ross Geller",
+      "object": "to persuade them to give us the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "persuade",
+      "subject": "I/Ross Geller",
+      "object": "them to give us the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "give",
+      "subject": "they/(the people who found the bone)",
+      "object": "the bone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "give",
+      "subject": "they/(the people who found the bone)",
+      "object": "to us",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "gone",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "for like a week",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "want",
+      "subject": "you/(everyone there)",
+      "object": "to reach me",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "reach",
+      "subject": "you/(everyone there)",
+      "object": "me",
+      "uid": "s01_e24_c02_u027"
+    },
+    {
+      "verb": "take",
+      "subject": "you/Monica Geller",
+      "object": "it",
+      "uid": "s01_e24_c02_u029"
+    },
+    {
+      "verb": "take",
+      "subject": "you/Monica Geller",
+      "object": "to Carol's",
+      "uid": "s01_e24_c02_u029"
+    },
+    {
+      "verb": "show",
+      "subject": "you/Monica Geller",
+      "object": "it",
+      "uid": "s01_e24_c02_u029"
+    },
+    {
+      "verb": "show",
+      "subject": "you/Monica Geller",
+      "object": "to Ben",
+      "uid": "s01_e24_c02_u029"
+    },
+    {
+      "verb": "forget",
+      "subject": "he/Ben Geller",
+      "object": "me",
+      "uid": "s01_e24_c02_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Phoebe Buffay",
+      "object": "the head",
+      "uid": "s01_e24_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "this barbecue",
+      "object": "very fun",
+      "uid": "s01_e24_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "Rachel Green",
+      "object": "here",
+      "uid": "s01_e24_c02_u033"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Ross Geller",
+      "object": "to wish her a happy birthday before I left",
+      "uid": "s01_e24_c02_u033"
+    },
+    {
+      "verb": "wish",
+      "subject": "I/Ross Geller",
+      "object": "her a happy birthday",
+      "uid": "s01_e24_c02_u033"
+    },
+    {
+      "verb": "leave",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u033"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Rachel Green",
+      "object": "out",
+      "uid": "s01_e24_c02_u034"
+    },
+    {
+      "verb": "have",
+      "subject": "she/Rachel Green",
+      "object": "drinks",
+      "uid": "s01_e24_c02_u034"
+    },
+    {
+      "verb": "have",
+      "subject": "she/Rachel Green",
+      "object": "with Carl",
+      "uid": "s01_e24_c02_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "who",
+      "object": "Carl",
+      "uid": "s01_e24_c02_u035"
+    },
+    {
+      "verb": "meet",
+      "subject": "she/Rachel Green",
+      "object": "that guy",
+      "uid": "s01_e24_c02_u036"
+    },
+    {
+      "verb": "meet",
+      "subject": "she/Rachel Green",
+      "object": "at the coffeehouse",
+      "uid": "s01_e24_c02_u036"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u041"
+    },
+    {
+      "verb": "say",
+      "subject": "I/Ross Geller",
+      "object": "goodbye to the guys",
+      "uid": "s01_e24_c02_u041"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Ross Geller",
+      "object": "that bone story",
+      "uid": "s01_e24_c02_u042"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Ross Geller",
+      "object": "to them",
+      "uid": "s01_e24_c02_u042"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": "to China",
+      "uid": "s01_e24_c02_u047"
+    },
+    {
+      "verb": "know",
+      "subject": "you guys/Joey Tribbiani and Chandler Bing",
+      "object": "who Carl is",
+      "uid": "s01_e24_c02_u049"
+    },
+    {
+      "verb": "have",
+      "subject": "Rachel Green",
+      "object": "drinks",
+      "uid": "s01_e24_c02_u051"
+    },
+    {
+      "verb": "have",
+      "subject": "Rachel Green",
+      "object": "with him",
+      "uid": "s01_e24_c02_u051"
+    },
+    {
+      "verb": "do",
+      "subject": "she/Rachel Green",
+      "object": "that",
+      "uid": "s01_e24_c02_u052"
+    },
+    {
+      "verb": "show",
+      "subject": "she/Rachel Green",
+      "object": "any interest in you/Ross Geller",
+      "uid": "s01_e24_c02_u052"
+    },
+    {
+      "verb": "forget",
+      "subject": "you/Ross Geller",
+      "object": "about her",
+      "uid": "s01_e24_c02_u053"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Chandler Bing",
+      "object": "right",
+      "uid": "s01_e24_c02_u054"
+    },
+    {
+      "verb": "move on",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u054"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Ross Geller",
+      "object": "to China",
+      "uid": "s01_e24_c02_u054"
+    },
+    {
+      "verb": "eat",
+      "subject": "you/Ross Geller",
+      "object": "Chinese food",
+      "uid": "s01_e24_c02_u054"
+    },
+    {
+      "verb": "call",
+      "subject": "they/(people there)",
+      "object": "it food",
+      "uid": "s01_e24_c02_u055"
+    },
+    {
+      "verb": "guess",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u056"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u056"
+    },
+    {
+      "verb": "give",
+      "subject": "you/Joey Tribbiani and Chandler Bing",
+      "object": "this",
+      "uid": "s01_e24_c02_u056"
+    },
+    {
+      "verb": "give",
+      "subject": "you/Joey Tribbiani and Chandler Bing",
+      "object": "to her",
+      "uid": "s01_e24_c02_u056"
+    },
+    {
+      "verb": "give",
+      "subject": "you/Joey Tribbiani and Chandler Bing",
+      "object": "for me",
+      "uid": "s01_e24_c02_u056"
+    },
+    {
+      "verb": "look out",
+      "subject": "we/Joey Tribbiani and Chandler Bing",
+      "object": "for you/Ross Geller",
+      "uid": "s01_e24_c02_u057"
+    },
+    {
+      "verb": "want",
+      "subject": "we/Joey Tribbiani and Chandler Bing",
+      "object": "you/Ross Geller to be happy",
+      "uid": "s01_e24_c02_u059"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "happy",
+      "uid": "s01_e24_c02_u059"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "a couple beers",
+      "uid": "s01_e24_c02_u059"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "in me",
+      "uid": "s01_e24_c02_u059"
+    },
+    {
+      "verb": "love",
+      "subject": "I/Joey Tribbiani",
+      "object": "you/Ross Geller",
+      "uid": "s01_e24_c02_u059"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "on my first",
+      "uid": "s01_e24_c02_u060"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Chandler Bing",
+      "object": "you are nice",
+      "uid": "s01_e24_c02_u060"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "nice",
+      "uid": "s01_e24_c02_u060"
+    },
+    {
+      "verb": "start",
+      "subject": "me and my friends",
+      "object": "this whole fruit basket business",
+      "uid": "s01_e24_c02_u062"
+    },
+    {
+      "verb": "call",
+      "subject": "we/Melanie and friends",
+      "object": "ourselves 'The Three Basketeers'",
+      "uid": "s01_e24_c02_u062"
+    },
+    {
+      "verb": "like",
+      "subject": "everybody",
+      "object": "their burgers",
+      "uid": "s01_e24_c02_u065"
+    },
+    {
+      "verb": "go",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e24_c02_u068"
+    },
+    {
+      "verb": "hold up",
+      "subject": "you/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e24_c02_u068"
+    },
+    {
+      "verb": "think",
+      "subject": "she/Melanie",
+      "object": "tonight is the night we're gonna complete the transaction",
+      "uid": "s01_e24_c02_u069"
+    },
+    {
+      "verb": "be",
+      "subject": "tonight",
+      "object": "the night we're gonna complete the transaction",
+      "uid": "s01_e24_c02_u069"
+    },
+    {
+      "verb": "complete",
+      "subject": "we/Joey Tribbiani and Melanie",
+      "object": "the transaction",
+      "uid": "s01_e24_c02_u069"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Joey Tribbiani",
+      "object": "about being there for her",
+      "uid": "s01_e24_c02_u072"
+    },
+    {
+      "verb": "be there",
+      "subject": "you/Joey Tribbiani",
+      "object": "for her",
+      "uid": "s01_e24_c02_u072"
+    },
+    {
+      "verb": "mean",
+      "subject": "you/Monica Geller",
+      "object": "what",
+      "uid": "s01_e24_c02_u073"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Joey Tribbiani",
+      "object": "about it",
+      "uid": "s01_e24_c02_u077"
+    },
+    {
+      "verb": "guess",
+      "subject": "I/Rachel Green",
+      "object": "this is from ...",
+      "uid": "s01_e24_c02_u079"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Rachel Green",
+      "object": "Melanie",
+      "uid": "s01_e24_c02_u081"
+    },
+    {
+      "verb": "be",
+      "subject": "this one right here",
+      "object": "from me",
+      "uid": "s01_e24_c02_u082"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "light",
+      "uid": "s01_e24_c02_u083"
+    },
+    {
+      "verb": "rattle",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e24_c02_u083"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "Travel Scrabble",
+      "uid": "s01_e24_c02_u083"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Rachel Green",
+      "object": "you/Chandler Bing",
+      "uid": "s01_e24_c02_u083"
+    },
+    {
+      "verb": "be",
+      "subject": "this one",
+      "object": "from Joey",
+      "uid": "s01_e24_c02_u085"
+    },
+    {
+      "verb": "feel",
+      "subject": "it",
+      "object": "like a book",
+      "uid": "s01_e24_c02_u085"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "it is a book",
+      "uid": "s01_e24_c02_u085"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "a book",
+      "uid": "s01_e24_c02_u085"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "Dr. Seuss",
+      "uid": "s01_e24_c02_u086"
+    },
+    {
+      "verb": "get",
+      "subject": "that book",
+      "object": "me",
+      "uid": "s01_e24_c02_u087"
+    },
+    {
+      "verb": "get",
+      "subject": "that book",
+      "object": "through some tough times",
+      "uid": "s01_e24_c02_u087"
+    },
+    {
+      "verb": "be",
+      "subject": "a little child",
+      "object": "inside this man",
+      "uid": "s01_e24_c02_u088"
+    },
+    {
+      "verb": "say",
+      "subject": "the doctors",
+      "object": "he will die if they remove it",
+      "uid": "s01_e24_c02_u089"
+    },
+    {
+      "verb": "remove",
+      "subject": "they/the doctors",
+      "object": "it",
+      "uid": "s01_e24_c02_u089"
+    },
+    {
+      "verb": "die",
+      "subject": "he/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e24_c02_u089"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "from who",
+      "uid": "s01_e24_c02_u091"
+    },
+    {
+      "verb": "remember",
+      "subject": "he/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u093"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "months ago",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "walk",
+      "subject": "we/Rachel Green and Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "walk",
+      "subject": "we/Rachel Green and Ross Geller",
+      "object": "by this antique store",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "this pin",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "in the window",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Rachel Green",
+      "object": "him/Ross Geller",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "have",
+      "subject": "my grandmother",
+      "object": "one",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "have",
+      "subject": "my grandmother",
+      "object": "when I was a little girl",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "a little girl",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "believe",
+      "subject": "I/Rachel Green",
+      "object": "he remembered",
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "remember",
+      "subject": "he/Ross Geller",
+      "object": null,
+      "uid": "s01_e24_c02_u095"
+    },
+    {
+      "verb": "play",
+      "subject": "you/Rachel Green",
+      "object": "it",
+      "uid": "s01_e24_c02_u096"
+    },
+    {
+      "verb": "play",
+      "subject": "you/Rachel Green",
+      "object": "on a plane",
+      "uid": "s01_e24_c02_u096"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "so pretty",
+      "uid": "s01_e24_c02_u097"
+    },
+    {
+      "verb": "cost",
+      "subject": "this/the pin",
+      "object": "him a fortune",
+      "uid": "s01_e24_c02_u097"
+    },
+    {
+      "verb": "believe",
+      "subject": "I/Monica Geller",
+      "object": "he did this",
+      "uid": "s01_e24_c02_u098"
+    },
+    {
+      "verb": "do",
+      "subject": "he/Ross Geller",
+      "object": "this",
+      "uid": "s01_e24_c02_u098"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/Ross Geller",
+      "object": "back in college",
+      "uid": "s01_e24_c02_u099"
+    },
+    {
+      "verb": "fall in love",
+      "subject": "he/Ross Geller",
+      "object": "with Carol",
+      "uid": "s01_e24_c02_u099"
+    },
+    {
+      "verb": "buy",
+      "subject": "he/Ross Geller",
+      "object": "that ridiculously expensive crystal duck",
+      "uid": "s01_e24_c02_u099"
+    },
+    {
+      "verb": "buy",
+      "subject": "he/Ross Geller",
+      "object": "for her",
+      "uid": "s01_e24_c02_u099"
+    },
+    {
+      "verb": "say",
+      "subject": "you/Chandler Bing",
+      "object": "what",
+      "uid": "s01_e24_c02_u101"
+    },
+    {
+      "verb": "keep",
+      "subject": "you/Chandler Bing",
+      "object": "rubbing your head",
+      "uid": "s01_e24_c02_u107"
+    },
+    {
+      "verb": "turn back",
+      "subject": "that",
+      "object": "time",
+      "uid": "s01_e24_c02_u107"
+    }
+  ]
+}

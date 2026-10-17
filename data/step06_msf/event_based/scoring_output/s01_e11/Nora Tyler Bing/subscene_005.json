@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being especially outgoing or especially reserved; the exchange is logistical and apologetic rather than socially energetic or withdrawn."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Speaker_01 states TargetSpeaker kissed Speaker_02, and TargetSpeaker admits it was \"stupid,\" apologizes, and promises it won’t happen again—indicating a breach of trust despite contrition."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker says she doesn’t know how the kiss happened and has to promise it will never happen again, suggesting impulsive/careless behavior rather than organized self-control."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "After apologizing, TargetSpeaker anxiously asks if they are okay now, showing worry and insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker is traveling to Lisbon and is distributing copies of her own book, indicating creative pursuits and openness to experience."
+  }
+}

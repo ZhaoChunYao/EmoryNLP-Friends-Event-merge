@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Mentions having waited to go on a date and tells another to calm down, but shows no clear outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Tries to de‑escalate by telling Speaker_01 to calm down and stop yelling; is described as having set Speaker_01 up on a date, which is helpful/considerate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete actions indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Explicitly says they are nervous and cannot go to the bathroom when nervous."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity/imagination or dogmatism/caution."
+  }
+}

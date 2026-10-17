@@ -1,0 +1,215 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e10_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u001_e1",
+          "tuples": [
+            "('be', \"today's particle accelerators\", 'nowhere near powerful enough to simulate these conditions', 's01_e10_c04_u001')",
+            "('simulate', \"today's particle accelerators\", 'these conditions', 's01_e10_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u001_e2",
+          "tuples": [
+            "('test', 'you/Phoebe Buffay', 'this theory', 's01_e10_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u002_e1",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', 'a question', 's01_e10_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u004_e1",
+          "tuples": [
+            "('plan', 'you/David', 'on kissing me ever', 's01_e10_c04_u004')",
+            "('kiss', 'you/David', 'me', 's01_e10_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u005_e1",
+          "tuples": [
+            "('be', \"that/(Phoebe Buffay's question)\", 'a valid question', 's01_e10_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u005_e2",
+          "tuples": [
+            "('be', 'the answer', 'yes', 's01_e10_c04_u005')",
+            "('be', 'I/David', None, 's01_e10_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u005_e3",
+          "tuples": [
+            "('want', 'I/David', 'it to be this phenomenal kiss that happened at this phenomenal moment', 's01_e10_c04_u005')",
+            "('be', 'it/(the kiss)', 'this phenomenal kiss that happened at this phenomenal moment', 's01_e10_c04_u005')",
+            "('happen', 'that/(the kiss)', 'at this phenomenal moment', 's01_e10_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u005_e4",
+          "tuples": [
+            "('be', 'it/(the reason)', 'you', 's01_e10_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u007_e1",
+          "tuples": [
+            "('wait', 'I/David', None, 's01_e10_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u007_e2",
+          "tuples": [
+            "('be', 'the kiss', 'more phenomenal', 's01_e10_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u007_e3",
+          "tuples": [
+            "('reach', 'we/(David and Phoebe Buffay)', \"a place where it's just gotta be one of those things where I just like sweep everything off the table and throw you down on it\", 's01_e10_c04_u007')",
+            "('be', 'it/(the situation)', 'one of those things where I just like sweep everything off the table and throw you down on it', 's01_e10_c04_u007')",
+            "('like', 'I/David', 'sweep everything off the table and throw you down on it', 's01_e10_c04_u007')",
+            "('sweep', 'I/David', 'everything', 's01_e10_c04_u007')",
+            "('sweep', 'I/David', 'off the table', 's01_e10_c04_u007')",
+            "('throw', 'I/David', 'you', 's01_e10_c04_u007')",
+            "('throw', 'I/David', 'down on it', 's01_e10_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u007_e4",
+          "tuples": [
+            "('be', 'I/David', 'not really a sweeping sorta fella', 's01_e10_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u008",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u008_e1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', 'you are a sweeping sorta fella', 's01_e10_c04_u008')",
+            "('be', 'you/David', 'a sweeping sorta fella', 's01_e10_c04_u008')",
+            "('be', 'you/David', 'a sweeper', 's01_e10_c04_u008')",
+            "('trap', 'you/David', \"inside a physicist's body\", 's01_e10_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u010_e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'sure of it', 's01_e10_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u010_e2",
+          "tuples": [
+            "('do', 'you/David', 'it', 's01_e10_c04_u010')",
+            "('sweep', 'you/David', None, 's01_e10_c04_u010')",
+            "('throw', 'you/David', 'me', 's01_e10_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u013",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u013_e1",
+          "tuples": [
+            "('know', 'you/Phoebe Buffay', 'what', 's01_e10_c04_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u013_e2",
+          "tuples": [
+            "('be', 'this/(an item on the table)', 'really expensive', 's01_e10_c04_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u013_e3",
+          "tuples": [
+            "('take', 'I/David', None, 's01_e10_c04_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u013_e4",
+          "tuples": [
+            "('be', 'this/(an item on the table)', 'a gift', 's01_e10_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u014_e1",
+          "tuples": [
+            "('tidy', 'you/David', None, 's01_e10_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u015_e1",
+          "tuples": [
+            "('want', 'you/Phoebe Buffay', 'me to actually throw you', 's01_e10_c04_u015')",
+            "('throw', 'me/David', 'you', 's01_e10_c04_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c04_u015_e2",
+          "tuples": [
+            "('want', 'you/Phoebe Buffay', 'to hop', 's01_e10_c04_u015')",
+            "('hop', 'you/Phoebe Buffay', None, 's01_e10_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c04_u016",
+      "events": [
+        {
+          "event_id": "s01_e10_c04_u016_e1",
+          "tuples": [
+            "('hop', 'I/Phoebe Buffay', None, 's01_e10_c04_u016')"
+          ]
+        }
+      ]
+    }
+  ]
+}

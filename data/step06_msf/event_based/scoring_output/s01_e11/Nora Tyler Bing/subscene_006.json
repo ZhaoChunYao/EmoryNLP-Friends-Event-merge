@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes a brief welfare check and a polite greeting (“asking whether Speaker_03 is okay”; “Mr. Geller.”), not showing notably outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She shows concern for another (“asking whether Speaker_03 is okay”) and addresses someone politely (“Mr. Geller.”), indicating cooperative, considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Her actions are limited to a quick check-in and greeting; there is no evidence of organization/efficiency or of carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; she responds calmly (“Alright.”) but there’s insufficient evidence for high or low neuroticism."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting imaginative ideas, preferences, or dogmatic views; a welfare question and greeting don’t indicate openness or its opposite."
+  }
+}

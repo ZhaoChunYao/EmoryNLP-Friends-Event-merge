@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes two brief, task-focused remarks (notes the remote is taken and says “Great.”), with no clear outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They report a problem and give a terse “Great.” showing mild frustration but no clear hostility or cooperation toward others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "They notice the remote issue but take no organizing or problem-solving steps; no signs of carelessness either."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker reacts with a terse, likely sarcastic “Great.” and Speaker_02 tells them to relax, indicating visible tension/frustration."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity, creativity, or rigidity about ideas are present."
+  }
+}

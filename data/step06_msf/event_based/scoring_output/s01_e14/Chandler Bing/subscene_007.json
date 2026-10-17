@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages, immediately asks for clarification about the action they cannot do, and directly asserts that Speaker_02 cannot leave the double date, taking charge of the social situation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is confrontational and unaccommodating, telling Speaker_02, “you cannot leave with Speaker_03 and abandon me,” prioritizing their own needs over others’ plans."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker insists on honoring the commitment to the planned double date and pushes to maintain the arrangement instead of allowing an impulsive change."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The use of emotional language like “abandon me” suggests insecurity and sensitivity about being left during the date."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or openness to new ideas; the dialogue focuses on social logistics and boundaries."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, practical statements and does not display notably outgoing or talkative behavior beyond offering help."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers assistance (says they can help Speaker_03 and Speaker_01) and answers honestly that they have not seen the monkey."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization, planning, or carelessness is shown in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional instability; responses are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or resistance to new ideas is presented in the dialogue."
+  }
+}

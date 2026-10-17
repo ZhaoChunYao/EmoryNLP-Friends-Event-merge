@@ -1,0 +1,49 @@
+event_id: s01_e07_c17_u001_e1
+utterance_id: s01_e07_c17_u001
+  tuple: ('let', 'you/(Jill Goodacre)', 'us', 's01_e07_c17_u001')
+  tuple: ('see', 'we/(Chandler Bing+Jill Goodacre)', None, 's01_e07_c17_u001')
+
+event_id: s01_e07_c17_u001_e2
+utterance_id: s01_e07_c17_u001
+  tuple: ('blow', 'you/(Chandler Bing)', 'a bubble', 's01_e07_c17_u001')
+  tuple: ('be', 'a bubble', 'good', 's01_e07_c17_u001')
+  tuple: ('get', 'it/(a bubble)', 'a boyish charm', 's01_e07_c17_u001')
+  tuple: ('be', 'it/(a bubble)', 'impish', 's01_e07_c17_u001')
+  tuple: ('go', 'we/(Chandler Bing+Jill Goodacre)', None, 's01_e07_c17_u001')
+
+event_id: s01_e07_c17_u003_e1
+utterance_id: s01_e07_c17_u003
+  tuple: ('be', 'it/(situation)', 'OK', 's01_e07_c17_u003')
+
+event_id: s01_e07_c17_u003_e2
+utterance_id: s01_e07_c17_u003
+  tuple: ('need', 'I/(Chandler Bing)', 'reach over and put it in my mouth', 's01_e07_c17_u003')
+  tuple: ('reach', 'I/(Chandler Bing)', None, 's01_e07_c17_u003')
+  tuple: ('put', 'I/(Chandler Bing)', 'it/(gum)', 's01_e07_c17_u003')
+  tuple: ('put', 'I/(Chandler Bing)', 'in my mouth', 's01_e07_c17_u003')
+
+event_id: s01_e07_c17_u004_e1
+utterance_id: s01_e07_c17_u004
+  tuple: ('be', 'we/(Chandler Bing+Jill Goodacre)', 'back on track', 's01_e07_c17_u004')
+
+event_id: s01_e07_c17_u004_e2
+utterance_id: s01_e07_c17_u004
+  tuple: ('chew', 'I/(Chandler Bing)', "someone else's gum", 's01_e07_c17_u004')
+  tuple: ('be', 'this/(gum)', 'not my gum', 's01_e07_c17_u004')
+
+event_id: s01_e07_c17_u004_e3
+utterance_id: s01_e07_c17_u004
+  tuple: ('choke', 'you/(Chandler Bing)', None, 's01_e07_c17_u004')
+
+event_id: s01_e07_c17_u006_e1
+utterance_id: s01_e07_c17_u006
+  tuple: ('be', 'you/(Chandler Bing)', 'alright', 's01_e07_c17_u006')
+
+event_id: s01_e07_c17_u008_e1
+utterance_id: s01_e07_c17_u008
+  tuple: ('be', 'that/(help)', 'better', 's01_e07_c17_u008')
+
+event_id: s01_e07_c17_u009_e1
+utterance_id: s01_e07_c17_u009
+  tuple: ('be', 'that/(help)', None, 's01_e07_c17_u009')
+

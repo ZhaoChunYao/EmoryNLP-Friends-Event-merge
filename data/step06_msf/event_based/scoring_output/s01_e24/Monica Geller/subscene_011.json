@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In a group setting, TargetSpeaker talks freely, jokes, and engages—e.g., proposing \"we'd be like friends-in-law,\" saying it would be like starting on the fifteenth date, and affirming others with \"Another good point.\""
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker frames things positively for Speaker_01 (points out the \"best part\"—already knowing everything about Speaker_02) and agrees with others (\"Another good point\"), showing supportive, cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He offers impressions and jokes but shows no clear signs of planning, organization, or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He speaks light‑heartedly and confidently, emphasizing positives and showing no signs of worry or nervousness during the discussion."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He uses creative analogies and reframing (\"friends-in-law,\" \"starting on the fifteenth date\"), indicating imaginative, open thinking."
+  }
+}

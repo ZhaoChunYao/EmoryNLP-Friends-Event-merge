@@ -1,0 +1,35 @@
+event_id: s01_e17_c14_u001_e1
+utterance_id: s01_e17_c14_u001
+  tuple: ('estar', 'it/(el pollo General Tso)', None, 's01_e17_c14_u001')
+
+event_id: s01_e17_c14_u002_e1
+utterance_id: s01_e17_c14_u002
+  tuple: ('pedir', 'who/(unknown)', 'el pollo General Tso', 's01_e17_c14_u002')
+  tuple: ('pedir', 'someone/(unknown)', 'a quién', 's01_e17_c14_u002')
+
+event_id: s01_e17_c14_u003_e1
+utterance_id: s01_e17_c14_u003
+  tuple: ('ser', 'it/(the orderer)', 'General Tso', 's01_e17_c14_u003')
+
+event_id: s01_e17_c14_u005_e1
+utterance_id: s01_e17_c14_u005
+  tuple: ('mirar', 'you/(everyone)', None, 's01_e17_c14_u005')
+
+event_id: s01_e17_c14_u005_e2
+utterance_id: s01_e17_c14_u005
+  tuple: ('hacer', 'el viejo desnudo', 'el hula hoop', 's01_e17_c14_u005')
+
+event_id: s01_e17_c14_u012_e1
+utterance_id: s01_e17_c14_u012
+  tuple: ('mirar', 'you/Ross Geller', None, 's01_e17_c14_u012')
+
+event_id: s01_e17_c14_u012_e2
+utterance_id: s01_e17_c14_u012
+  tuple: ('llevar', 'Marcel', 'el control remoto', 's01_e17_c14_u012')
+
+event_id: s01_e17_c14_u013_e1
+utterance_id: s01_e17_c14_u013
+  tuple: ('suceder', 'what/(happened)', None, 's01_e17_c14_u013')
+  tuple: ('ser', 'lo que sucedio', 'que no le gusta la tele', 's01_e17_c14_u013')
+  tuple: ('gustar', 'Marcel', 'la tele', 's01_e17_c14_u013')
+

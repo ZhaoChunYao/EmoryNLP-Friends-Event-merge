@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is very glad about the call, openly shares many details about her day, and talks enthusiastically about the gift and sock combinations."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She brings a thoughtful gift (Bullwinkle socks), tailored to his existing Rocky socks, and kindly offers flexible ways he can wear them."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "After getting bad photo proofs, she says she 'blew off the rest of the day' and went shopping, showing low diligence."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She reports having a 'supremely awful day' and is clearly upset by the bad proofs, indicating strong negative affect."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She chooses playful, themed socks and suggests creative mix-and-match options, showing imagination and flexibility."
+  }
+}

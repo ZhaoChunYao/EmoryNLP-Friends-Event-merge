@@ -1,0 +1,56 @@
+event_id: s01_e16_c07_u001_e1
+utterance_id: s01_e16_c07_u001
+  tuple: ('go', "it/Mr. Douglas's situation", None, 's01_e16_c07_u001')
+
+event_id: s01_e16_c07_u002_e1
+utterance_id: s01_e16_c07_u002
+  tuple: ('be', "it/Mr. Douglas's situation", 'better', 's01_e16_c07_u002')
+
+event_id: s01_e16_c07_u002_e2
+utterance_id: s01_e16_c07_u002
+  tuple: ('be', 'The Annual Net Usage Statistics', 'in', 's01_e16_c07_u002')
+
+event_id: s01_e16_c07_u004_e1
+utterance_id: s01_e16_c07_u004
+  tuple: ('be', 'it/ANUS report', 'pretty ugly', 's01_e16_c07_u004')
+
+event_id: s01_e16_c07_u004_e2
+utterance_id: s01_e16_c07_u004
+  tuple: ('see', 'we/Mr. Douglas', 'an ANUS this bad since the seventies', 's01_e16_c07_u004')
+
+event_id: s01_e16_c07_u005_e1
+utterance_id: s01_e16_c07_u005
+  tuple: ('mean', 'this/ANUS report', 'what', 's01_e16_c07_u005')
+
+event_id: s01_e16_c07_u006_e1
+utterance_id: s01_e16_c07_u006
+  tuple: ('lay off', 'we/Mr. Douglas', 'people in every department', 's01_e16_c07_u006')
+
+event_id: s01_e16_c07_u007_e1
+utterance_id: s01_e16_c07_u007
+  tuple: ('listen', 'you/Mr. Douglas', None, 's01_e16_c07_u007')
+
+event_id: s01_e16_c07_u007_e2
+utterance_id: s01_e16_c07_u007
+  tuple: ('know', 'I/Chandler Bing', 'I came in late last week', 's01_e16_c07_u007')
+
+event_id: s01_e16_c07_u007_e3
+utterance_id: s01_e16_c07_u007
+  tuple: ('come in', 'I/Chandler Bing', None, 's01_e16_c07_u007')
+
+event_id: s01_e16_c07_u007_e4
+utterance_id: s01_e16_c07_u007
+  tuple: ('sleep', 'I/Chandler Bing', 'funny', 's01_e16_c07_u007')
+
+event_id: s01_e16_c07_u007_e5
+utterance_id: s01_e16_c07_u007
+  tuple: ('be', 'my hair', 'very very', 's01_e16_c07_u007')
+
+event_id: s01_e16_c07_u008_e1
+utterance_id: s01_e16_c07_u008
+  tuple: ('relax', 'you/Chandler Bing', None, 's01_e16_c07_u008')
+
+event_id: s01_e16_c07_u008_e2
+utterance_id: s01_e16_c07_u008
+  tuple: ('fire', 'you/Chandler Bing', 'anyone', 's01_e16_c07_u008')
+

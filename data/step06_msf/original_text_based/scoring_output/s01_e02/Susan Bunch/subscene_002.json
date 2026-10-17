@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives only terse one-word replies ('Speaker_01.' at u006; 'Speaker_03.' at u010) and does not engage or elaborate, indicating reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Replies are factual and neutral without signs of hostility or generosity; no clear cooperative or uncooperative behavior shown."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Brief corrections provide no evidence of organization/efficiency or of carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional reactivity; tone appears calm and neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expression of curiosity or novel ideas; only simple confirmations are given."
+  }
+}

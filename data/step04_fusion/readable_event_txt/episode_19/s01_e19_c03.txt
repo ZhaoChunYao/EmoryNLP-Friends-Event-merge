@@ -1,0 +1,175 @@
+event_id: s01_e19_c03_u001_e1
+utterance_id: s01_e19_c03_u001
+  tuple: ('bring', 'Marcel', 'the rice', 's01_e19_c03_u001')
+  tuple: ('come', 'Marcel', None, 's01_e19_c03_u001')
+  tuple: ('come', 'Marcel', 'here', 's01_e19_c03_u001')
+  tuple: ('give', 'Marcel', 'the rice', 's01_e19_c03_u001')
+
+event_id: s01_e19_c03_u001_e2
+utterance_id: s01_e19_c03_u001
+  tuple: ('thank', 'Ross Geller', 'you/Marcel', 's01_e19_c03_u001')
+
+event_id: s01_e19_c03_u001_e3
+utterance_id: s01_e19_c03_u001
+  tuple: ('see', 'Ross Geller', "he's finally mastered the difference between 'bring me the' and 'pee in the'", 's01_e19_c03_u001')
+  tuple: ('master', 'Marcel', "the difference between 'bring me the' and 'pee in the'", 's01_e19_c03_u001')
+
+event_id: s01_e19_c03_u004_e1
+utterance_id: s01_e19_c03_u004
+  tuple: ('be', 'I/Rachel Green', 'sorry', 's01_e19_c03_u004')
+
+event_id: s01_e19_c03_u004_e2
+utterance_id: s01_e19_c03_u004
+  tuple: ('be', 'this', 'so stupid', 's01_e19_c03_u004')
+
+event_id: s01_e19_c03_u004_e3
+utterance_id: s01_e19_c03_u004
+  tuple: ('give up', 'I/Rachel Green', 'Barry', 's01_e19_c03_u004')
+
+event_id: s01_e19_c03_u004_e4
+utterance_id: s01_e19_c03_u004
+  tuple: ('be', 'I/Rachel Green', 'for them', 's01_e19_c03_u004')
+  tuple: ('be', 'I/Rachel Green', 'happy', 's01_e19_c03_u004')
+
+event_id: s01_e19_c03_u006_e1
+utterance_id: s01_e19_c03_u006
+  tuple: ('guess', 'I/Rachel Green', 'it would be different if I were with somebody', 's01_e19_c03_u006')
+  tuple: ('be', 'it', 'different', 's01_e19_c03_u006')
+  tuple: ('be', 'I/Rachel Green', 'with somebody', 's01_e19_c03_u006')
+
+event_id: s01_e19_c03_u007_e1
+utterance_id: s01_e19_c03_u007
+  tuple: ('happen', 'what', None, 's01_e19_c03_u007')
+  tuple: ('happen', 'what', "to 'Forget relationships! I'm done with men!'", 's01_e19_c03_u007')
+
+event_id: s01_e19_c03_u008_e1
+utterance_id: s01_e19_c03_u008
+  tuple: ('know', 'I/Rachel Green', None, 's01_e19_c03_u008')
+
+event_id: s01_e19_c03_u008_e2
+utterance_id: s01_e19_c03_u008
+  tuple: ('guess', 'I/Rachel Green', "it's not about no guys, it's about the right guy", 's01_e19_c03_u008')
+  tuple: ('be', 'it', 'about no guys', 's01_e19_c03_u008')
+  tuple: ('be', 'it', 'about the right guy', 's01_e19_c03_u008')
+
+event_id: s01_e19_c03_u008_e3
+utterance_id: s01_e19_c03_u008
+  tuple: ('mean', 'I/Rachel Green', None, 's01_e19_c03_u008')
+
+event_id: s01_e19_c03_u008_e4
+utterance_id: s01_e19_c03_u008
+  tuple: ('be', 'it', 'with Barry', 's01_e19_c03_u008')
+  tuple: ('be', 'it', 'safe', 's01_e19_c03_u008')
+  tuple: ('be', 'it', 'easy', 's01_e19_c03_u008')
+  tuple: ('be', 'there', 'no heat', 's01_e19_c03_u008')
+
+event_id: s01_e19_c03_u008_e5
+utterance_id: s01_e19_c03_u008
+  tuple: ('be', 'it', 'with Paolo', 's01_e19_c03_u008')
+  tuple: ('be', 'that', 'all there was', 's01_e19_c03_u008')
+  tuple: ('be', 'there', 'all', 's01_e19_c03_u008')
+  tuple: ('be', 'there', 'heat', 's01_e19_c03_u008')
+  tuple: ('be', 'it', 'just this raw, animal, sexual...', 's01_e19_c03_u008')
+
+event_id: s01_e19_c03_u009_e1
+utterance_id: s01_e19_c03_u009
+  tuple: ('get', 'I/Ross Geller', 'it', 's01_e19_c03_u009')
+
+event_id: s01_e19_c03_u009_e2
+utterance_id: s01_e19_c03_u009
+  tuple: ('be', 'I/Ross Geller', 'there', 's01_e19_c03_u009')
+
+event_id: s01_e19_c03_u010_e1
+utterance_id: s01_e19_c03_u010
+  tuple: ('think', 'you/Ross Geller', 'you can ever have both', 's01_e19_c03_u010')
+  tuple: ('have', 'you/Ross Geller', 'both', 's01_e19_c03_u010')
+  tuple: ('be', 'someone', 'like your best friend', 's01_e19_c03_u010')
+  tuple: ('make', 'someone', 'your toes curl', 's01_e19_c03_u010')
+  tuple: ('curl', 'your toes', None, 's01_e19_c03_u010')
+
+event_id: s01_e19_c03_u011_e1
+utterance_id: s01_e19_c03_u011
+  tuple: ('be', 'it', 'funny', 's01_e19_c03_u011')
+  tuple: ('think', 'you/Rachel Green', 'someone could curl your toes', 's01_e19_c03_u011')
+  tuple: ('curl', 'someone', 'your toes', 's01_e19_c03_u011')
+  tuple: ('be', 'someone', 'the one who...', 's01_e19_c03_u011')
+
+event_id: s01_e19_c03_u014_e1
+utterance_id: s01_e19_c03_u014
+  tuple: ('get', 'Ross Geller', 'interrupted', 's01_e19_c03_u014')
+
+event_id: s01_e19_c03_u015_e1
+utterance_id: s01_e19_c03_u015
+  tuple: ('be', 'the movie', None, 's01_e19_c03_u015')
+
+event_id: s01_e19_c03_u020_e1
+utterance_id: s01_e19_c03_u020
+  tuple: ('be', 'I/Phoebe Buffay', 'sorry', 's01_e19_c03_u020')
+  tuple: ('be', 'it', 'one of those movies', 's01_e19_c03_u020')
+  tuple: ('be', 'it', 'with guns', 's01_e19_c03_u020')
+  tuple: ('be', 'it', 'with bombs', 's01_e19_c03_u020')
+  tuple: ('be', 'it', 'with buses going really fast', 's01_e19_c03_u020')
+  tuple: ('go', 'buses', None, 's01_e19_c03_u020')
+
+event_id: s01_e19_c03_u021_e1
+utterance_id: s01_e19_c03_u021
+  tuple: ('need', 'I/Joey Tribbiani', 'violence', 's01_e19_c03_u021')
+  tuple: ('enjoy', 'I/Joey Tribbiani', 'a movie', 's01_e19_c03_u021')
+  tuple: ('be', 'there', 'a little nudity', 's01_e19_c03_u021')
+
+event_id: s01_e19_c03_u022_e1
+utterance_id: s01_e19_c03_u022
+  tuple: ('be', 'there', 'nudity', 's01_e19_c03_u022')
+
+event_id: s01_e19_c03_u023_e1
+utterance_id: s01_e19_c03_u023
+  tuple: ('mean', 'I/Joey Tribbiani', 'female nudity', 's01_e19_c03_u023')
+
+event_id: s01_e19_c03_u023_e2
+utterance_id: s01_e19_c03_u023
+  tuple: ('need', 'I/Joey Tribbiani', 'to see Lou Grant frolicking', 's01_e19_c03_u023')
+  tuple: ('see', 'I/Joey Tribbiani', 'Lou Grant frolicking', 's01_e19_c03_u023')
+  tuple: ('frolic', 'Lou Grant', None, 's01_e19_c03_u023')
+
+event_id: s01_e19_c03_u025_e1
+utterance_id: s01_e19_c03_u025
+  tuple: ('go', 'I/Ross Geller', None, 's01_e19_c03_u025')
+  tuple: ('go', 'we/Ross Geller+Marcel', 'take a bath', 's01_e19_c03_u025')
+  tuple: ('go', 'we/Ross Geller+Marcel', None, 's01_e19_c03_u025')
+  tuple: ('take', 'we/Ross Geller+Marcel', 'a bath', 's01_e19_c03_u025')
+
+event_id: s01_e19_c03_u026_e1
+utterance_id: s01_e19_c03_u026
+  tuple: ('be', 'they/Ross Geller+Rachel Green', 'friends', 's01_e19_c03_u026')
+
+event_id: s01_e19_c03_u027_e1
+utterance_id: s01_e19_c03_u027
+  tuple: ('see', 'I/Rachel Green', 'you/Ross Geller', 's01_e19_c03_u027')
+
+event_id: s01_e19_c03_u028_e1
+utterance_id: s01_e19_c03_u028
+  tuple: ('be', 'that', 'right', 's01_e19_c03_u028')
+
+event_id: s01_e19_c03_u028_e2
+utterance_id: s01_e19_c03_u028
+  tuple: ('spend', 'you/Marcel', 'tomorrow', 's01_e19_c03_u028')
+  tuple: ('spend', 'you/Marcel', "at Aunt Rachel's", 's01_e19_c03_u028')
+  tuple: ('be', 'you/Marcel', None, 's01_e19_c03_u028')
+
+event_id: s01_e19_c03_u029_e1
+utterance_id: s01_e19_c03_u029
+  tuple: ('hang on', 'you/all', None, 's01_e19_c03_u029')
+
+event_id: s01_e19_c03_u029_e2
+utterance_id: s01_e19_c03_u029
+  tuple: ('get', 'Aunt Monica', 'a say', 's01_e19_c03_u029')
+  tuple: ('get', 'Aunt Monica', 'in this', 's01_e19_c03_u029')
+
+event_id: s01_e19_c03_u030_e1
+utterance_id: s01_e19_c03_u030
+  tuple: ('unclench', 'you/Monica Geller', None, 's01_e19_c03_u030')
+
+event_id: s01_e19_c03_u030_e2
+utterance_id: s01_e19_c03_u030
+  tuple: ('be', 'you/Monica Geller', 'there', 's01_e19_c03_u030')
+

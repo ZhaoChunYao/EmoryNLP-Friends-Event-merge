@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages in lively banter about how designs affect people and volunteers another option unprompted ('All right, how about the ladybugs?')."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Defers to the other person's preference at the end: says Speaker_01 wants the bird design and tells them to get it."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Is expected to pick one item but first says Speaker_01 will pick, then criticizes the bird design, proposes ladybugs, and finally tells them to get birds—showing indecision rather than organized decision-making."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or irritation; comments remain matter-of-fact and playful while considering options."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Imagines how designs influence perception ('people are going to come in and think they are outside again') and interprets symbolic messaging about inviting people to eat; creatively suggests ladybugs as an alternative."
+  }
+}

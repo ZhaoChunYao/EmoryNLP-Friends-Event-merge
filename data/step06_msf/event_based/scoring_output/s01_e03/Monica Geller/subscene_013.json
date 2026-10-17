@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only a brief greeting and a curt reply that the other already knows how the meeting went, avoiding elaboration and showing reserved, non‑talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperatively answers the group’s question by sharing that Speaker_03 said he will really miss everyone, conveying a considerate, supportive message."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Reluctant to discuss the meeting and is acknowledged by others as having had a rough day, suggesting he is upset or stressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/inventiveness or of dogmatism/caution."
+  }
+}

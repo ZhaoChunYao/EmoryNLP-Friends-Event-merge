@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker alerts others that the peeper is back and tells Speaker_03 to get down now, taking initiative and giving directives."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Warning about the peeper and urging Speaker_03 to get down shows concern for others’ safety."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Notices the peeper’s return and promptly issues a clear, practical instruction (“get down now”)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or of pronounced calm beyond factual statements."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or dogmatism in the brief, practical responses."
+  }
+}

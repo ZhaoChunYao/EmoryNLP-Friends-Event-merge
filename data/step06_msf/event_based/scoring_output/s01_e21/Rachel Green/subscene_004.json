@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly clarifies and interprets others’ statements without displaying notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker cooperates by interpreting the instructor’s intent, but there is no clear evidence of warmth, generosity, or conflict to judge agreeableness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker clarifies the group’s goal (identifying the woman) and seeks the precise meaning of the instruction to dance (u004, u009), indicating attentiveness and task-focused organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or strong negative emotion; also no explicit displays of confident self-assurance."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Beyond interpreting what the instructor means, there is no clear display of curiosity, creativity, or willingness to try something new."
+  }
+}

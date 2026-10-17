@@ -1,0 +1,126 @@
+('be', 'it', 'a line', 's01_e01_c13_u001')
+[s01_e01_c13_u001] Joey Tribbiani: Of course it was a line!
+
+('do', 'anybody', 'something', 's01_e01_c13_u002')
+[s01_e01_c13_u002] Monica Geller: Why?! Why? Why, why would anybody do something like that?
+
+('do', 'anybody', 'like that', 's01_e01_c13_u002')
+[s01_e01_c13_u002] Monica Geller: Why?! Why? Why, why would anybody do something like that?
+
+('assume', 'I/Ross Geller', "we're looking for an answer more sophisticated than 'to get you into bed'", 's01_e01_c13_u003')
+[s01_e01_c13_u003] Ross Geller: I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+
+('look', 'we/(group)', 'for an answer', 's01_e01_c13_u003')
+[s01_e01_c13_u003] Ross Geller: I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+
+('get', 'someone', 'you', 's01_e01_c13_u003')
+[s01_e01_c13_u003] Ross Geller: I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+
+('get', 'someone', 'into bed', 's01_e01_c13_u003')
+[s01_e01_c13_u003] Ross Geller: I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+
+('hate', 'I/Monica Geller', 'men', 's01_e01_c13_u004')
+[s01_e01_c13_u004] Monica Geller: I hate men! I hate men!
+
+('hate', 'you/Monica Geller', None, 's01_e01_c13_u005')
+[s01_e01_c13_u005] Phoebe Buffay: Oh no, don't hate, you don't want to put that out into the universe.
+
+('want', 'you/Monica Geller', 'to put that out into the universe', 's01_e01_c13_u005')
+[s01_e01_c13_u005] Phoebe Buffay: Oh no, don't hate, you don't want to put that out into the universe.
+
+('put', 'you/Monica Geller', 'that', 's01_e01_c13_u005')
+[s01_e01_c13_u005] Phoebe Buffay: Oh no, don't hate, you don't want to put that out into the universe.
+
+('put', 'you/Monica Geller', 'out that', 's01_e01_c13_u005')
+[s01_e01_c13_u005] Phoebe Buffay: Oh no, don't hate, you don't want to put that out into the universe.
+
+('put', 'you/Monica Geller', 'into the universe', 's01_e01_c13_u005')
+[s01_e01_c13_u005] Phoebe Buffay: Oh no, don't hate, you don't want to put that out into the universe.
+
+('be', 'it', 'me', 's01_e01_c13_u006')
+[s01_e01_c13_u006] Monica Geller: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+
+('be', 'it', 'like I have some sort of beacon that only dogs and men with severe emotional problems can hear', 's01_e01_c13_u006')
+[s01_e01_c13_u006] Monica Geller: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+
+('have', 'I/Monica Geller', 'some sort of beacon', 's01_e01_c13_u006')
+[s01_e01_c13_u006] Monica Geller: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+
+('hear', 'only dogs and men with severe emotional problems', 'that', 's01_e01_c13_u006')
+[s01_e01_c13_u006] Monica Geller: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+
+('come', 'you/Monica Geller', None, 's01_e01_c13_u007')
+[s01_e01_c13_u007] Phoebe Buffay: All right, c'mere, gimme your feet.
+
+('give', 'you/Monica Geller', 'your feet', 's01_e01_c13_u007')
+[s01_e01_c13_u007] Phoebe Buffay: All right, c'mere, gimme your feet.
+
+('think', 'I/Monica Geller', 'he was nice', 's01_e01_c13_u008')
+[s01_e01_c13_u008] Monica Geller: I just thought he was nice, y'know?
+
+('be', "he/(Monica's date)", 'nice', 's01_e01_c13_u008')
+[s01_e01_c13_u008] Monica Geller: I just thought he was nice, y'know?
+
+('believe', 'I/Joey Tribbiani', "you didn't know it was a line", 's01_e01_c13_u009')
+[s01_e01_c13_u009] Joey Tribbiani: I can't believe you didn't know it was a line!
+
+('know', 'you/Monica Geller', 'it was a line', 's01_e01_c13_u009')
+[s01_e01_c13_u009] Joey Tribbiani: I can't believe you didn't know it was a line!
+
+('guess', 'you/(group)', 'what', 's01_e01_c13_u011')
+[s01_e01_c13_u011] Rachel Green: Guess what?
+
+('get', 'you/Rachel Green', 'a job', 's01_e01_c13_u012')
+[s01_e01_c13_u012] Ross Geller: You got a job?
+
+('kid', 'you/Ross Geller', None, 's01_e01_c13_u013')
+[s01_e01_c13_u013] Rachel Green: Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+
+('train', 'I/Rachel Green', None, 's01_e01_c13_u013')
+[s01_e01_c13_u013] Rachel Green: Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+
+('train', 'I/Rachel Green', 'for nothing', 's01_e01_c13_u013')
+[s01_e01_c13_u013] Rachel Green: Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+
+('laugh', 'I/Rachel Green', None, 's01_e01_c13_u013')
+[s01_e01_c13_u013] Rachel Green: Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+
+('laugh', 'I/Rachel Green', 'out of twelve interviews', 's01_e01_c13_u013')
+[s01_e01_c13_u013] Rachel Green: Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+
+('be', 'you/Rachel Green', 'upbeat', 's01_e01_c13_u014')
+[s01_e01_c13_u014] Chandler Bing: And yet you're surprisingly upbeat.
+
+('be', 'you/Chandler Bing', None, 's01_e01_c13_u015')
+[s01_e01_c13_u015] Rachel Green: You would be too if you found John and David boots on sale, fifty percent off!
+
+('find', 'you/Chandler Bing', 'John and David boots', 's01_e01_c13_u015')
+[s01_e01_c13_u015] Rachel Green: You would be too if you found John and David boots on sale, fifty percent off!
+
+('find', 'you/Chandler Bing', 'on sale', 's01_e01_c13_u015')
+[s01_e01_c13_u015] Rachel Green: You would be too if you found John and David boots on sale, fifty percent off!
+
+('find', 'you/Chandler Bing', 'off fifty percent', 's01_e01_c13_u015')
+[s01_e01_c13_u015] Rachel Green: You would be too if you found John and David boots on sale, fifty percent off!
+
+('know', 'you/Rachel Green', 'me', 's01_e01_c13_u016')
+[s01_e01_c13_u016] Chandler Bing: Oh, how well you know me...
+
+('be', 'they/(boots)', "my new 'I don't need a job, I don't need my parents, I've got great boots' boots", 's01_e01_c13_u017')
+[s01_e01_c13_u017] Rachel Green: They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!
+
+('need', 'I/Rachel Green', 'a job', 's01_e01_c13_u017')
+[s01_e01_c13_u017] Rachel Green: They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!
+
+('need', 'I/Rachel Green', 'my parents', 's01_e01_c13_u017')
+[s01_e01_c13_u017] Rachel Green: They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!
+
+('get', 'I/Rachel Green', 'great boots', 's01_e01_c13_u017')
+[s01_e01_c13_u017] Rachel Green: They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!
+
+('pay', 'you/Rachel Green', 'for them', 's01_e01_c13_u018')
+[s01_e01_c13_u018] Monica Geller: How'd you pay for them?
+
+('pay', "who/(Rachel Green's father)", 'for that', 's01_e01_c13_u020')
+[s01_e01_c13_u020] Monica Geller: And who pays for that?
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the social interaction by introducing everyone ('this is... this is everybody') and prompting a public story ('tell the group now what happened'), joking about 'four wet bridesmaids'—comfortable directing a group."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Behaves inclusively and helpfully by introducing people and inviting the story; is straightforward about the situation ('I was not invited to the wedding')."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows organizing behavior by systematically introducing people and moving the conversation along by asking to tell the story rather than waiting."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure—hosts the group, makes a light joke, and calmly states not being invited without signs of anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and receptiveness by urging to hear what happened and uses imaginative phrasing ('four wet bridesmaids')."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes jokes in the group and speaks up multiple times (e.g., quips about the library card; confidently declares the gathering is finished and offers a couch)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Welcomes Speaker_02 to the real world, checks if Speaker_01 will be okay, and offers a place to sleep—supportive and considerate."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes/ends the session (“the evening’s gathering is finished”) and responsibly instructs returning Speaker_06’s watch to where it was found."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays calm, confident humor (“the real world sucks… you’re going to love it”) and shows no signs of anxiety while managing the situation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking; comments are practical and humorous rather than exploratory."
+  }
+}

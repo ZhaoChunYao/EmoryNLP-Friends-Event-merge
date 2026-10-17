@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief pain reactions (“Eeeee!”, “Aaaaah!”, “Aaaaahhh!!”) and a single “No.” (u002, u004, u006, u008); this is a reflexive response to pain, not sociable talkativeness."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They simply express discomfort and say “No.” (u006); no clear signs of generosity/hostility or cooperation/conflict beyond straightforward feedback."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, diligence, or carelessness; the speaker is only reacting to pain."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Repeated intense screams and quick rejection when pressure is applied (u002, u004, u006, u008) show high sensitivity and distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or openness to new experiences; the speaker only reacts to painful stimuli."
+  }
+}

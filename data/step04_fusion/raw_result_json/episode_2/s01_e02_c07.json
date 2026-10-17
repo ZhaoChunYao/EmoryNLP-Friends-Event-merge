@@ -1,0 +1,111 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c07_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'you/Rachel Green', 'in', 's01_e02_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Barry Farber', 'sure', 's01_e02_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'fine', 's01_e02_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'Robbie', 'here', 's01_e02_c07_u004')",
+            "('be', 'Robbie', 'for hours', 's01_e02_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'you/Rachel Green', None, 's01_e02_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'okay', 's01_e02_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('look', 'you/Barry Farber', 'great', 's01_e02_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('gag', 'Jason Greenstein', None, 's01_e02_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Barry Farber', 'right there', 's01_e02_c07_u010')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/Barry Farber', 'back in a sec', 's01_e02_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c07_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('dump', 'I/Rachel Green', 'him', 's01_e02_c07_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

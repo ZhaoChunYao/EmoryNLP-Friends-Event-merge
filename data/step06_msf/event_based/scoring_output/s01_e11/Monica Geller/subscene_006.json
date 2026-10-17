@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker enters and asks the group what they are doing, then repeats the question; this is neutral social engagement without clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The direct question shows neither friendliness nor hostility; no evidence of trustworthiness, generosity, or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness—only repeating a question."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or emotional volatility; the tone is simply inquisitive."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking what others are doing is basic situational inquiry, not evidence of inventiveness or open-minded exploration."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates the group activity by saying they are going to eat now and actively leads the conversation, openly confronting others and issuing a forceful warning about the disc."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Calls Speaker_02 \"completely wrong\" and threatens Speaker_05 with \"very, very big trouble\" if the button is pressed, showing confrontational, non-accommodating behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes the group to eat and proactively tries to prevent Speaker_05 from pressing the button to avoid trouble, indicating responsibility and control."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Becomes defensive about accusations of loving Speaker_03 and reacts strongly to the prospect of the disc being played, showing sensitivity and anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses others’ claims as completely wrong and refuses to allow the disc to be played again, indicating rigidity rather than openness to others’ input."
+  }
+}

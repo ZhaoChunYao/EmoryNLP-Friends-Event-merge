@@ -1,0 +1,129 @@
+('let', 'you/Ross Geller', 'it', 's01_e22_c05_u001')
+[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+
+('go', 'it/(the dream)', None, 's01_e22_c05_u001')
+[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+
+('be', "it/(Ross's dream)", 'a dream', 's01_e22_c05_u001')
+[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+
+('mean', "it/(Ross's dream)", None, 's01_e22_c05_u001')
+[s01_e22_c05_u001] Joey Tribbiani: Would you let it go Ross. It was just a dream. It doesn't mean...
+
+('be', 'this/(the moment)', 'it', 's01_e22_c05_u003')
+[s01_e22_c05_u003] Ross Geller: Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.
+
+('be', 'it/(the moment)', 'baby time', 's01_e22_c05_u003')
+[s01_e22_c05_u003] Ross Geller: Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.
+
+('relax', 'you/Ross Geller', None, 's01_e22_c05_u004')
+[s01_e22_c05_u004] Joey Tribbiani: All right, relax, relax. Just relax, just relax. Be cool, be cool.
+
+('be', 'you/Ross Geller', 'cool', 's01_e22_c05_u004')
+[s01_e22_c05_u004] Joey Tribbiani: All right, relax, relax. Just relax, just relax. Be cool, be cool.
+
+('beep', 'I/Ross Geller', None, 's01_e22_c05_u006')
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+
+('be', 'Andr', 'here', 's01_e22_c05_u006')
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+
+('be', 'I/Ross Geller', 'sure', 's01_e22_c05_u006')
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+
+('perform', 'I/Ross Geller', 'those kind of services', 's01_e22_c05_u006')
+[s01_e22_c05_u006] Ross Geller: Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.
+
+('want', 'you/(caller)', '55-JUMBO', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('be', 'that/(the number)', 'right', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('believe', 'you/(caller)', 'me', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('want', 'you/(caller)', 'me', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('judge', 'I/Ross Geller', 'by his number', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('be', 'I/Ross Geller', 'a huge disappointment', 's01_e22_c05_u008')
+[s01_e22_c05_u008] Ross Geller: Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. All rightie, bye bye.
+
+('be', 'the first day', None, 's01_e22_c05_u010')
+[s01_e22_c05_u010] Joey Tribbiani: Hey, hey. How was the first day?
+
+('be', 'Everyone', 'so nice', 's01_e22_c05_u011')
+[s01_e22_c05_u011] Phoebe Buffay: Oh, exellent. Everyone was so, so nice.
+
+('pay', 'it/(the situation)', 'to know the man who wears my shoes', 's01_e22_c05_u012')
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+
+('know', 'you/Phoebe Buffay', 'the man', 's01_e22_c05_u012')
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+
+('wear', 'the man', 'my shoes', 's01_e22_c05_u012')
+[s01_e22_c05_u012] Chandler Bing: See, it pays to know the man who wears my shoes. Me.
+
+('tell', 'I/Phoebe Buffay', 'anybody', 's01_e22_c05_u013')
+[s01_e22_c05_u013] Phoebe Buffay: No, I didn't tell anybody that I knew you.
+
+('know', 'I/Phoebe Buffay', 'you', 's01_e22_c05_u013')
+[s01_e22_c05_u013] Phoebe Buffay: No, I didn't tell anybody that I knew you.
+
+('know', 'you/Chandler Bing', None, 's01_e22_c05_u015')
+[s01_e22_c05_u015] Phoebe Buffay: Oh, because, you know... they don't like you.
+
+('like', 'they/(everyone at work)', 'you/Chandler Bing', 's01_e22_c05_u015')
+[s01_e22_c05_u015] Phoebe Buffay: Oh, because, you know... they don't like you.
+
+('think', 'I/Phoebe Buffay', 'that', 's01_e22_c05_u017')
+[s01_e22_c05_u017] Phoebe Buffay: I thought you knew that.
+
+('know', 'you/Chandler Bing', 'that', 's01_e22_c05_u017')
+[s01_e22_c05_u017] Phoebe Buffay: I thought you knew that.
+
+('like', 'they/(everyone at work)', 'me/Chandler Bing', 's01_e22_c05_u018')
+[s01_e22_c05_u018] Chandler Bing: Noho. Who doesn't they like me?
+
+('talk', 'you/Chandler Bing', 'about what', 's01_e22_c05_u020')
+[s01_e22_c05_u020] Chandler Bing: What are you talking about?
+
+('feel', 'you/Chandler Bing', 'bad', 's01_e22_c05_u021')
+[s01_e22_c05_u021] Phoebe Buffay: Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like "Mr. Boss Man". You know, Mr. Bing. Mr. Bing, "Boss Man Bing".
+
+('promote', 'you/Chandler Bing', None, 's01_e22_c05_u021')
+[s01_e22_c05_u021] Phoebe Buffay: Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like "Mr. Boss Man". You know, Mr. Bing. Mr. Bing, "Boss Man Bing".
+
+('be', 'you/Chandler Bing', 'like Mr. Boss Man', 's01_e22_c05_u021')
+[s01_e22_c05_u021] Phoebe Buffay: Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like "Mr. Boss Man". You know, Mr. Bing. Mr. Bing, "Boss Man Bing".
+
+('believe', 'I/Chandler Bing', 'it', 's01_e22_c05_u023')
+[s01_e22_c05_u023] Chandler Bing: I can't belive it.
+
+('do', 'they/(everyone at work)', 'you/Chandler Bing', 's01_e22_c05_u024')
+[s01_e22_c05_u024] Phoebe Buffay: Yeah, yeah. They even do you.
+
+('do', 'they/(everyone at work)', 'me/Chandler Bing', 's01_e22_c05_u025')
+[s01_e22_c05_u025] Chandler Bing: They do me?
+
+('be', 'that report', 'any later', 's01_e22_c05_u026')
+[s01_e22_c05_u026] Phoebe Buffay: You know like... uh okay... uh... 'Could that report be any later?'
+
+('sound', 'I/Chandler Bing', 'like that', 's01_e22_c05_u028')
+[s01_e22_c05_u028] Chandler Bing: I don't sound like that.
+
+('do', 'you/Chandler Bing', None, 's01_e22_c05_u030')
+[s01_e22_c05_u030] Joey Tribbiani: Oh... Yeah, you do.
+
+('be', 'The hills', 'alive with the sound of music', 's01_e22_c05_u031')
+[s01_e22_c05_u031] Ross Geller: 'The hills were alive with the sound of music.'
+
+('be', 'That/(impression)', 'so not true', 's01_e22_c05_u036')
+[s01_e22_c05_u036] Chandler Bing: Okay, I don't sound like that. That is so not true.
+
+('shut up', 'you/(Joey Tribbiani, Phoebe Buffay, Ross Geller)', None, 's01_e22_c05_u038')
+[s01_e22_c05_u038] Chandler Bing: That is so not... That is so not... That... Oh, shut up!
+

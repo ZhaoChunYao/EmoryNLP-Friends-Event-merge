@@ -1,0 +1,353 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c14_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'cold', 's01_e12_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('finish', 'she/(neighbor woman)', 'throwing his clothes off the balcony', 's01_e12_c14_u004')",
+            "('throw', 'she/(neighbor woman)', 'his clothes', 's01_e12_c14_u004')",
+            "('throw', 'she/(neighbor woman)', 'off the balcony', 's01_e12_c14_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'there', 'a lot of gesturing and arm-waving', 's01_e12_c14_u004')",
+            "('be', 'that', 'either \"How could you?\" or \"Enormous breasts!\"', 's01_e12_c14_u004')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('come', 'he/Paolo', 'here', 's01_e12_c14_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'I/Paolo', 'good-bye', 's01_e12_c14_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/Monica Geller', 'for what you did to Rachel', 's01_e12_c14_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('do', 'you/Paolo', 'to Rachel', 's01_e12_c14_u009')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'five of these', 's01_e12_c14_u009')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('heat', 'you/Paolo', 'it', 's01_e12_c14_u009')",
+            "('heat', 'you/Paolo', 'at 375', 's01_e12_c14_u009')",
+            "('heat', 'you/Paolo', 'until the cheese bubbles', 's01_e12_c14_u009')",
+            "('bubble', 'the cheese', None, 's01_e12_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'to tell you', 's01_e12_c14_u011')",
+            "('tell', 'I/Ross Geller', 'you/Paolo', 's01_e12_c14_u011')",
+            "('think', 'I/Ross Geller', 'I speak for everyone when I say...', 's01_e12_c14_u011')",
+            "('speak', 'I/Ross Geller', 'for everyone', 's01_e12_c14_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(everyone)', 'at her', 's01_e12_c14_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Ross Geller', \"just one of us should go out there so she's not overwhelmed\", 's01_e12_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go', 'one of us', 'out there', 's01_e12_c14_u013')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'she/Rachel Green', 'not overwhelmed', 's01_e12_c14_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'right', 's01_e12_c14_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'all right', 's01_e12_c14_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'better', 's01_e12_c14_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('come', 'you/Rachel Green', 'here', 's01_e12_c14_u021')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e12_c14_u021')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('deserve', 'you/Rachel Green', 'so much better', 's01_e12_c14_u021')",
+            "('deserve', 'you/Rachel Green', 'than him', 's01_e12_c14_u021')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'with a guy who knows what he has when he has you', 's01_e12_c14_u021')",
+            "('know', 'a guy', 'what he has', 's01_e12_c14_u021')",
+            "('have', 'he/(a guy)', 'you/Rachel Green', 's01_e12_c14_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u024",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'so sick of guys', 's01_e12_c14_u024')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'to look at another guy', 's01_e12_c14_u024')",
+            "('look', 'I/Rachel Green', 'at another guy', 's01_e12_c14_u024')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'to think about another guy', 's01_e12_c14_u024')",
+            "('think', 'I/Rachel Green', 'about another guy', 's01_e12_c14_u024')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'to be near another guy', 's01_e12_c14_u024')",
+            "('be', 'I/Rachel Green', 'near another guy', 's01_e12_c14_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u026",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'so great', 's01_e12_c14_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u031",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'ok', 's01_e12_c14_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u032",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'any cookies', 'left', 's01_e12_c14_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u034",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'that swearing off guys altogether is the answer', 's01_e12_c14_u034')",
+            "('be', 'swearing off guys altogether', 'the answer', 's01_e12_c14_u034')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'that what you need is to develop a more sophisticated screening process', 's01_e12_c14_u034')",
+            "('need', 'you/Rachel Green', 'to develop a more sophisticated screening process', 's01_e12_c14_u034')",
+            "('be', 'what you need', 'to develop a more sophisticated screening process', 's01_e12_c14_u034')",
+            "('develop', 'you/Rachel Green', 'a more sophisticated screening process', 's01_e12_c14_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u035",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('need', 'I/Rachel Green', 'to be by myself for a while', 's01_e12_c14_u035')",
+            "('be', 'I/Rachel Green', 'by myself', 's01_e12_c14_u035')",
+            "('be', 'I/Rachel Green', 'for a while', 's01_e12_c14_u035')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('figure', 'I/Rachel Green', 'out what I want', 's01_e12_c14_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u036",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'not all guys', 'a Paolo', 's01_e12_c14_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u037",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'sure', 's01_e12_c14_u037')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('grow', 'your little boy', 'up to be one', 's01_e12_c14_u037')",
+            "('be', 'your little boy', 'one', 's01_e12_c14_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u052",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'we/(Chandler Bing+Joey Tribbiani+Ross Geller)', 'that', 's01_e12_c14_u052')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c14_u053",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a son', 's01_e12_c14_u053')"
+          ]
+        }
+      ]
+    }
+  ]
+}

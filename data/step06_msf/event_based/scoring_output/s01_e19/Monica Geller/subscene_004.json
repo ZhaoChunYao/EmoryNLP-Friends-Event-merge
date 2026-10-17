@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly reports an incident and mentions their shoes; no clear signs of outgoing, energetic, or especially reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They neither help nor hinder others and use neutral language; no evidence of generosity or untrustworthiness/hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness—just a factual report about the shoe incident."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite an unpleasant event, they show no clear anxiety or emotional instability, but also no explicit display of calm confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A brief aesthetic detail about 'cute little black shoes' does not show curiosity or imaginative thinking; no dogmatic/cautious stance either."
+  }
+}

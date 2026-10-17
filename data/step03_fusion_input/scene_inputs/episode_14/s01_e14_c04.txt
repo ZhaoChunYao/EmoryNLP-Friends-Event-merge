@@ -1,0 +1,66 @@
+('make', 'I/Chandler Bing', 'a break', 's01_e14_c04_u001')
+[s01_e14_c04_u001] Chandler Bing: Ok, I'm makin' a break for it, I'm goin' out the window.
+
+('make', 'I/Chandler Bing', 'for it', 's01_e14_c04_u001')
+[s01_e14_c04_u001] Chandler Bing: Ok, I'm makin' a break for it, I'm goin' out the window.
+
+('go', 'I/Chandler Bing', 'out the window', 's01_e14_c04_u001')
+[s01_e14_c04_u001] Chandler Bing: Ok, I'm makin' a break for it, I'm goin' out the window.
+
+('wait', 'I/Joey Tribbiani', 'to go out with Lorraine', 's01_e14_c04_u002')
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+
+('wait', 'I/Joey Tribbiani', 'for like, forever', 's01_e14_c04_u002')
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+
+('go', 'I/Joey Tribbiani', 'out with Lorraine', 's01_e14_c04_u002')
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+
+('calm', 'you/Chandler Bing', 'down', 's01_e14_c04_u002')
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+
+('calm', 'you/Joey Tribbiani', 'down', 's01_e14_c04_u003')
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+
+('set', 'you/Joey Tribbiani', 'me', 's01_e14_c04_u003')
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+
+('set', 'you/Joey Tribbiani', 'up with the woman', 's01_e14_c04_u003')
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+
+('dump', 'I/Chandler Bing', 'the woman', 's01_e14_c04_u003')
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+
+('dump', 'I/Chandler Bing', 'in the last five months', 's01_e14_c04_u003')
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+
+('stop', 'you/Chandler Bing', "yellin'", 's01_e14_c04_u004')
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+
+('yell', 'you/Chandler Bing', None, 's01_e14_c04_u004')
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+
+('make', 'you/Chandler Bing', 'me nervous', 's01_e14_c04_u004')
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+
+('go', 'I/Joey Tribbiani', None, 's01_e14_c04_u004')
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+
+('be', 'I/Joey Tribbiani', 'nervous', 's01_e14_c04_u004')
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+
+('be', 'I/Chandler Bing', 'sorry', 's01_e14_c04_u005')
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!
+
+('be', 'you/Joey Tribbiani', 'right', 's01_e14_c04_u005')
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!
+
+('come', 'you/Joey Tribbiani', 'on', 's01_e14_c04_u005')
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!
+
+('do', 'you/Joey Tribbiani', 'it', 's01_e14_c04_u005')
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!
+
+('go', 'you/Joey Tribbiani', None, 's01_e14_c04_u005')
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!
+

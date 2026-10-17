@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a brief greeting and a short factual response (“Hey!”; “Uh, let’s see… [names]… no.”) without notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperatively tries to help identify Carl by thinking through possible names out loud before answering no; straightforward and helpful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Listing a few names shows some effort, but there’s no clear sign of organized, efficient behavior or its opposite."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Calm, neutral tone (“Uh, let’s see…”) with no signs of anxiety, irritation, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behaviors indicating curiosity, creativity, or resistance to new ideas are shown in this brief exchange."
+  }
+}

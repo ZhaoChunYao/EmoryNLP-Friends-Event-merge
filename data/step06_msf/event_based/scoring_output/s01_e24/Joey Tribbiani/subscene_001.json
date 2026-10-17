@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He openly addresses the group, urges everyone to 'come on,' and casually explains his participation in a fertility study to them."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He asks for help while being reminded he already owes money ('17 jillion dollars... including waffles') and insists 'I'll pay you back this time,' showing unreliability and some evasiveness about the research at first ('uh... science')."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "A history of unpaid debts and needing to borrow again indicates poor follow-through and responsibility, despite later citing a plan to repay via the study."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He downplays the situation ('it's not that big a deal') and speaks matter-of-factly about the schedule and payment, showing comfort and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He volunteers for an unconventional fertility study and treats it as normal, indicating willingness to try nontraditional experiences."
+  }
+}

@@ -1,0 +1,105 @@
+('stop', 'I/(Ross Geller)', 'for a Chunky', 's01_e23_c02_u001')
+[s01_e23_c02_u001] Ross Geller: Stopped for a Chunky.
+
+('let', 'you/(Ross Geller)', 'it', 's01_e23_c02_u002')
+[s01_e23_c02_u002] Carol Willick: Let it go, Ross.
+
+('go', 'it/(the issue)', None, 's01_e23_c02_u002')
+[s01_e23_c02_u002] Carol Willick: Let it go, Ross.
+
+('get', 'I/(Susan Bunch)', 'an extra one', 's01_e23_c02_u003')
+[s01_e23_c02_u003] Susan Bunch: I got an extra one. You want this?
+
+('want', 'you/(Ross Geller)', 'this', 's01_e23_c02_u003')
+[s01_e23_c02_u003] Susan Bunch: I got an extra one. You want this?
+
+('do', 'my favorite parenting team', None, 's01_e23_c02_u006')
+[s01_e23_c02_u006] Dr. Franzblau: Hey, how's my favorite parenting team doing?
+
+('understand', 'I/(Dr. Franzblau)', "you're thinking of having a baby", 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('think', 'you/(Carol Willick)', 'of having a baby', 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('have', 'you/(Carol Willick)', 'a baby', 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('see', 'I/(Dr. Franzblau)', "you're nine months pregnant", 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('be', 'you/(Carol Willick)', 'nine months pregnant', 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('be', 'that/(being nine months pregnant)', 'a good start', 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('do', 'you/(Carol Willick)', 'with your contractions', 's01_e23_c02_u008')
+[s01_e23_c02_u008] Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+
+('love', 'I/(Carol Willick)', 'them', 's01_e23_c02_u009')
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+
+('be', 'Each one', 'like a little party in my uterus', 's01_e23_c02_u009')
+[s01_e23_c02_u009] Carol Willick: Oh, I love them. Each one's like a little party in my uterus.
+
+('be', 'they/(contractions)', 'every four minutes', 's01_e23_c02_u010')
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+
+('last', 'they/(contractions)', '55 seconds', 's01_e23_c02_u010')
+[s01_e23_c02_u010] Susan Bunch: They're every four minutes and last 55 seconds.
+
+('allow', 'I/(Carol Willick)', 'to drink anything', 's01_e23_c02_u013')
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+
+('drink', 'I/(Carol Willick)', 'anything', 's01_e23_c02_u013')
+[s01_e23_c02_u013] Carol Willick: Am I allowed to drink anything?
+
+('be', 'they/(ice chips)', "at the nurses' station", 's01_e23_c02_u014')
+[s01_e23_c02_u014] Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.
+
+('get', 'I/(Ross Geller)', 'it', 's01_e23_c02_u015')
+[s01_e23_c02_u015] Ross Geller: I'll get it.
+
+('get', 'I/(Susan Bunch)', 'it', 's01_e23_c02_u016')
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back.
+
+('be', 'I/(Susan Bunch)', 'right back', 's01_e23_c02_u016')
+[s01_e23_c02_u016] Susan Bunch: No, I'm getting it. I'll be right back.
+
+('think', 'I/(Rachel Green)', 'you might like some ice chips', 's01_e23_c02_u019')
+[s01_e23_c02_u019] Rachel Green: Hi, I thought you might like some ice chips.
+
+('like', 'you/(Carol Willick)', 'some ice chips', 's01_e23_c02_u019')
+[s01_e23_c02_u019] Rachel Green: Hi, I thought you might like some ice chips.
+
+('need', 'you/(Carol Willick)', 'anything else', 's01_e23_c02_u021')
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+
+('believe', 'I/(Rachel Green)', "we've met", 's01_e23_c02_u021')
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+
+('meet', 'we/(Rachel Green & Dr. Franzblau)', None, 's01_e23_c02_u021')
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+
+('be', 'I/(Rachel Green)', 'Rachel Green', 's01_e23_c02_u021')
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+
+('be', 'I/(Rachel Green)', "Carol's ex-husband's sister's roommate", 's01_e23_c02_u021')
+[s01_e23_c02_u021] Rachel Green: And if you need anything else, I do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+
+('be', 'it/(the meeting)', 'nice to meet you', 's01_e23_c02_u022')
+[s01_e23_c02_u022] Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+
+('meet', 'I/(Dr. Franzblau)', 'you', 's01_e23_c02_u022')
+[s01_e23_c02_u022] Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+
+('be', 'I/(Dr. Franzblau)', 'Dr. Franzblau', 's01_e23_c02_u022')
+[s01_e23_c02_u022] Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+
+('be', 'I/(Dr. Franzblau)', "your roommate's brother's ex-wife's obstetrician", 's01_e23_c02_u022')
+[s01_e23_c02_u022] Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+
+('be', 'that/(joke)', 'funny', 's01_e23_c02_u023')
+[s01_e23_c02_u023] Rachel Green: Oh, that's funny!
+

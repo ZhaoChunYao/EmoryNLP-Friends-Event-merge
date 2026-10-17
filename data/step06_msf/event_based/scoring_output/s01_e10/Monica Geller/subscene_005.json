@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief comments; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker complains that Speaker_04 always has to bring Speaker_03 here and objects to Speaker_03 playing with TargetSpeaker's spatulas (u024, u026), showing irritation and low accommodation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Concern that Speaker_03 is playing with TargetSpeaker's spatulas (u024) suggests protectiveness over tools and maintaining order/cleanliness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mild irritation is expressed, but there are no signs of anxiety, nervousness, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity/inventiveness or dogmatism/caution beyond a simple complaint."
+  }
+}

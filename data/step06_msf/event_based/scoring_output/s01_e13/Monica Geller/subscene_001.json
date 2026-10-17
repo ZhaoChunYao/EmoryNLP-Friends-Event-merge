@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Answers the phone and invites Speaker_04 and Speaker_05 to come up to the apartment, showing sociability and willingness to host."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Aside from a simple invitation, there is no clear behavior showing trustworthiness/generosity or the opposite."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Neutral, calm interaction; no signs of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or openness to new ideas, nor of dogmatism/caution."
+  }
+}

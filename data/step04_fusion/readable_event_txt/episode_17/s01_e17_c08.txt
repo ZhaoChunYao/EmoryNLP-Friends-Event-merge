@@ -1,0 +1,101 @@
+event_id: s01_e17_c08_u004_e1
+utterance_id: s01_e17_c08_u004
+  tuple: ('get', 'you/Ursula', 'a minute', 's01_e17_c08_u004')
+
+event_id: s01_e17_c08_u005_e1
+utterance_id: s01_e17_c08_u005
+  tuple: ('work', 'I/Ursula', None, 's01_e17_c08_u005')
+
+event_id: s01_e17_c08_u010_e1
+utterance_id: s01_e17_c08_u010
+  tuple: ('get', 'I/Phoebe', 'a birthday present', 's01_e17_c08_u010')
+
+event_id: s01_e17_c08_u012_e1
+utterance_id: s01_e17_c08_u012
+  tuple: ('remember', 'you/Phoebe', None, 's01_e17_c08_u012')
+
+event_id: s01_e17_c08_u012_e2
+utterance_id: s01_e17_c08_u012
+  tuple: ('be', 'it/thermos', 'a Judy Jetson thermos', 's01_e17_c08_u012')
+
+event_id: s01_e17_c08_u015_e1
+utterance_id: s01_e17_c08_u015
+  tuple: ('get', 'I/Ursula', 'something', 's01_e17_c08_u015')
+  tuple: ('get', 'I/Ursula', 'for you', 's01_e17_c08_u015')
+
+event_id: s01_e17_c08_u017_e1
+utterance_id: s01_e17_c08_u017
+  tuple: ('know', 'you/Ursula', 'I was coming', 's01_e17_c08_u017')
+  tuple: ('come', 'I/Phoebe', None, 's01_e17_c08_u017')
+
+event_id: s01_e17_c08_u020_e1
+utterance_id: s01_e17_c08_u020
+  tuple: ('believe', 'I/Phoebe', 'you did this', 's01_e17_c08_u020')
+  tuple: ('do', 'you/Ursula', 'this', 's01_e17_c08_u020')
+
+event_id: s01_e17_c08_u024_e1
+utterance_id: s01_e17_c08_u024
+  tuple: ('be', 'what', 'the deal with you and Joey', 's01_e17_c08_u024')
+
+event_id: s01_e17_c08_u025_e1
+utterance_id: s01_e17_c08_u025
+  tuple: ('be', 'he/Joey', 'so great', 's01_e17_c08_u025')
+
+event_id: s01_e17_c08_u025_e2
+utterance_id: s01_e17_c08_u025
+  tuple: ('be', 'that/relationship with Joey', 'over', 's01_e17_c08_u025')
+
+event_id: s01_e17_c08_u027_e1
+utterance_id: s01_e17_c08_u027
+  tuple: ('know', 'he/Joey', None, 's01_e17_c08_u027')
+
+event_id: s01_e17_c08_u029_e1
+utterance_id: s01_e17_c08_u029
+  tuple: ('know', 'you/Ursula', None, 's01_e17_c08_u029')
+
+event_id: s01_e17_c08_u029_e2
+utterance_id: s01_e17_c08_u029
+  tuple: ('be', 'he/Joey', 'really nutsy', 's01_e17_c08_u029')
+  tuple: ('be', 'he/Joey', 'about you', 's01_e17_c08_u029')
+
+event_id: s01_e17_c08_u030_e1
+utterance_id: s01_e17_c08_u030
+  tuple: ('be', 'he/Joey', None, 's01_e17_c08_u030')
+
+event_id: s01_e17_c08_u031_e1
+utterance_id: s01_e17_c08_u031
+  tuple: ('get', 'you/Ursula', 'me', 's01_e17_c08_u031')
+
+event_id: s01_e17_c08_u034_e1
+utterance_id: s01_e17_c08_u034
+  tuple: ('excuse', 'you/(waiter)', 'me', 's01_e17_c08_u034')
+
+event_id: s01_e17_c08_u034_e2
+utterance_id: s01_e17_c08_u034
+  tuple: ('come', 'this/dish', 'with a side salad', 's01_e17_c08_u034')
+
+event_id: s01_e17_c08_u036_e1
+utterance_id: s01_e17_c08_u036
+  tuple: ('call', 'you/Ursula', 'him', 's01_e17_c08_u036')
+
+event_id: s01_e17_c08_u037_e1
+utterance_id: s01_e17_c08_u037
+  tuple: ('think', 'you/Phoebe', 'he likes me', 's01_e17_c08_u037')
+  tuple: ('like', 'he/Joey', 'me', 's01_e17_c08_u037')
+
+event_id: s01_e17_c08_u039_e1
+utterance_id: s01_e17_c08_u039
+  tuple: ('be', 'he/Joey', 'so smart', 's01_e17_c08_u039')
+
+event_id: s01_e17_c08_u039_e2
+utterance_id: s01_e17_c08_u039
+  tuple: ('figure', 'he/Joey', 'out it', 's01_e17_c08_u039')
+
+event_id: s01_e17_c08_u039_e3
+utterance_id: s01_e17_c08_u039
+  tuple: ('want', 'you/Phoebe', 'some chicken', 's01_e17_c08_u039')
+
+event_id: s01_e17_c08_u041_e1
+utterance_id: s01_e17_c08_u041
+  tuple: ('change', 'you/Phoebe', None, 's01_e17_c08_u041')
+

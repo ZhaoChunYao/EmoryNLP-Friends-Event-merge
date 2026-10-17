@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and coordinates a group prank plan (“we should all act like we already know”) and actively manages the interaction, speaking up again to call it off when Speaker_01 arrives."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Quickly abandons the deceptive plan upon Speaker_01’s arrival and joins in responding that the promotion news is great, showing supportive, friendly behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Suggests a plan then immediately drops it; no clear evidence of organization or carelessness related to tasks or follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and ease while orchestrating and then changing the plan without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Proposes a playful, imaginative pretense for greeting Speaker_01, indicating creativity and openness to novel social ideas."
+  }
+}

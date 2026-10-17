@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly (offers congratulations and states card needs) without clear signs of outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds supportively with “Congratulations!” when another player has a straight."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Asks for specific cards during the draw, which is against the game’s rules and prompts correction—showing careless rule-following."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; emotional state not clearly indicated."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or unconventional thinking beyond the rule-violating request, which doesn’t indicate openness by itself."
+  }
+}

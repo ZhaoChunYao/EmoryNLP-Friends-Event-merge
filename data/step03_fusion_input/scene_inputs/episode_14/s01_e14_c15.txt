@@ -1,0 +1,207 @@
+('be', 'It', 'not true', 's01_e14_c15_u001')
+[s01_e14_c15_u001] Carol Willick: It's not true. I never called your mother a wolverine.
+
+('call', 'I/(Carol Willick)', 'your mother a wolverine', 's01_e14_c15_u001')
+[s01_e14_c15_u001] Carol Willick: It's not true. I never called your mother a wolverine.
+
+('do', 'you/(Carol Willick)', 'so', 's01_e14_c15_u002')
+[s01_e14_c15_u002] Ross Geller: You did so. I swear, I swear How long has she been in the bathroom?
+
+('be', "she/(Ross's date)", None, 's01_e14_c15_u002')
+[s01_e14_c15_u002] Ross Geller: You did so. I swear, I swear How long has she been in the bathroom?
+
+('be', "she/(Ross's date)", 'in the bathroom', 's01_e14_c15_u002')
+[s01_e14_c15_u002] Ross Geller: You did so. I swear, I swear How long has she been in the bathroom?
+
+('think', 'I/(Carol Willick)', "she's in the bathroom", 's01_e14_c15_u003')
+[s01_e14_c15_u003] Carol Willick: Uh, I don't think she's in the bathroom. Her coat is gone.
+
+('be', 'Her coat', 'gone', 's01_e14_c15_u003')
+[s01_e14_c15_u003] Carol Willick: Uh, I don't think she's in the bathroom. Her coat is gone.
+
+('be', 'it', 'cold', 's01_e14_c15_u004')
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+
+('be', 'it', 'in there', 's01_e14_c15_u004')
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+
+('screw up', 'I/(Ross Geller)', 'the first date I had in 9 years', 's01_e14_c15_u004')
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+
+('have', 'I/(Ross Geller)', None, 's01_e14_c15_u004')
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+
+('have', 'I/(Ross Geller)', 'in 9 years', 's01_e14_c15_u004')
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+
+('be', 'That', 'it', 's01_e14_c15_u005')
+[s01_e14_c15_u005] Carol Willick: That could be it.
+
+('know', 'you/(Carol Willick)', None, 's01_e14_c15_u006')
+[s01_e14_c15_u006] Ross Geller: Oh, god. You know, this is still pretty hot.
+
+('be', 'this', 'still pretty hot', 's01_e14_c15_u006')
+[s01_e14_c15_u006] Ross Geller: Oh, god. You know, this is still pretty hot.
+
+('smile', 'you/(Ross Geller)', None, 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('be', 'they/(dates)', None, 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('be', 'they/(dates)', 'like this', 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('stay', 'Some women', None, 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('stay', 'Some women', 'through dinner', 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('be', 'that', 'not funny', 's01_e14_c15_u007')
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+
+('be', 'it', "just the whole 'getting on with your life' thing", 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('have to', 'I/(Ross Geller)', None, 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('sit', 'I/(Ross Geller)', None, 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('sit', 'I/(Ross Geller)', 'with this cute woman', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', "she/(Ross's date)", 'perfectly nice', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'I/(Ross Geller)', 'here', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('talk', 'I/(Ross Geller)', None, 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('talk', 'I/(Ross Geller)', 'to you/(Carol Willick)', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'it', 'easy', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'it', 'fun', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'here', 'a wacky thought', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('say', 'you/(Carol Willick)', 'you and I give it another shot', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('give', 'you and I/(Carol Willick and Ross Geller)', 'it another shot', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('know', 'I/(Ross Geller)', "what you're gonna say", 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('say', 'you/(Carol Willick)', None, 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'you/(Carol Willick)', 'a lesbian', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('say', 'you/(Carol Willick)', 'we just put that aside for now', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('put', 'we/(Ross Geller and Carol Willick)', 'that aside', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('put', 'we/(Ross Geller and Carol Willick)', 'for now', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('stick', 'us/(Ross Geller and Carol Willick)', 'a pin', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('stick', 'us/(Ross Geller and Carol Willick)', 'in it', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'we/(Ross Geller and Carol Willick)', 'great', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('deny', 'you/(Carol Willick)', 'it', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('carry', 'you/(Carol Willick)', 'my baby', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'that', 'perfect', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('see', 'you/(Carol Willick)', None, 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('say', 'you/(Carol Willick)', 'that', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('be', 'there', 'something', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('love', 'I/(Ross Geller)', 'you/(Carol Willick)', 's01_e14_c15_u008')
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+
+('love', 'I/(Carol Willick)', 'you/(Ross Geller)', 's01_e14_c15_u010')
+[s01_e14_c15_u010] Carol Willick: Oh, I love you too. But...
+
+('know', 'you/(Ross Geller)', 'that thing you put over here with the pin in it', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('put', 'you/(Ross Geller)', 'that thing', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('put', 'you/(Ross Geller)', 'over here', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('put', 'you/(Ross Geller)', 'with the pin', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('put', 'you/(Ross Geller)', 'in it', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('be', 'it', 'time to take the pin out', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('take', 'we/(Ross Geller and Carol Willick)', 'out the pin', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('find', 'you/(Ross Geller)', 'someone', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('know', 'I/(Carol Willick)', 'you will', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('wait', 'The right woman', None, 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('wait', 'The right woman', 'for you/(Ross Geller)', 's01_e14_c15_u012')
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+
+('be', 'That', 'easy', 's01_e14_c15_u013')
+[s01_e14_c15_u013] Ross Geller: That's easy for you to say, you found one already.
+
+('be', 'That', 'for you', 's01_e14_c15_u013')
+[s01_e14_c15_u013] Ross Geller: That's easy for you to say, you found one already.
+
+('find', 'you/(Carol Willick)', 'one', 's01_e14_c15_u013')
+[s01_e14_c15_u013] Ross Geller: That's easy for you to say, you found one already.
+
+('need', 'you/(Ross Geller)', 'all', 's01_e14_c15_u014')
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+
+('be', 'All you need', 'a woman who likes men', 's01_e14_c15_u014')
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+
+('like', 'a woman', 'men', 's01_e14_c15_u014')
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+
+('be', 'you/(Ross Geller)', 'set', 's01_e14_c15_u014')
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+

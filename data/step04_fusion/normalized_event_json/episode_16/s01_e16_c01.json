@@ -1,0 +1,168 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u001_e1",
+          "tuples": [
+            "('be', 'This/(situation)', 'unbelievable', 's01_e16_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u001_e2",
+          "tuples": [
+            "('be', 'It/(wait time)', 'like a half an hour', 's01_e16_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u001_e3",
+          "tuples": [
+            "('be', 'this/(situation)', 'a cartoon', 's01_e16_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u001_e4",
+          "tuples": [
+            "('look', 'you/(Joey Tribbiani)', 'like a ham', 's01_e16_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u003_e1",
+          "tuples": [
+            "('be', 'there/(existential)', 'the waitress', 's01_e16_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u003_e2",
+          "tuples": [
+            "('excuse', 'you/(Ursula)', 'me/(Joey Tribbiani)', 's01_e16_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u005_e1",
+          "tuples": [
+            "('be', 'It/(the waitress)', 'Phoebe', 's01_e16_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u007_e1",
+          "tuples": [
+            "('be', 'that/(order)', 'all', 's01_e16_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u008_e1",
+          "tuples": [
+            "('wait', 'you/(Ursula)', None, 's01_e16_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u008_e2",
+          "tuples": [
+            "('do', 'you/(Ursula)', 'what', 's01_e16_c01_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u009_e1",
+          "tuples": [
+            "('be', 'I/(Ursula)', 'over there', 's01_e16_c01_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u009_e2",
+          "tuples": [
+            "('say', 'you/(Joey Tribbiani)', 'Excuse me, hello Miss', 's01_e16_c01_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u009_e3",
+          "tuples": [
+            "('be', 'I/(Ursula)', 'here', 's01_e16_c01_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u010",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u010_e1",
+          "tuples": [
+            "('work', 'you/(Ursula)', 'here', 's01_e16_c01_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u011_e1",
+          "tuples": [
+            "('be', 'it/(this place)', 'close to where I live', 's01_e16_c01_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u011_e2",
+          "tuples": [
+            "('live', 'I/(Ursula)', None, 's01_e16_c01_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c01_u011_e3",
+          "tuples": [
+            "('be', 'the aprons', 'really cute', 's01_e16_c01_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u012",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u012_e1",
+          "tuples": [
+            "('start', 'we/(Chandler Bing and Ursula)', 'over', 's01_e16_c01_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c01_u013",
+      "events": [
+        {
+          "event_id": "s01_e16_c01_u013_e1",
+          "tuples": [
+            "('be', 'I/(Ursula)', 'over here', 's01_e16_c01_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

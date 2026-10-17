@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the group discussion about decision-making (u001), keeps proposing and debating baby names (u009), and uses humor/sarcasm in front of others (u012), showing outgoing, assertive engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Pushes back on Speaker_01’s choice, quips that the name sounds like Mouse and proposes an alternative (u009), then pointedly invokes a broken past agreement to reopen the decision (u012), showing a confrontational, non-compliant stance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Raises concern about how important decisions will be made and asks for a concrete example (u001, u003), indicating planning and organizational focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite potential conflict, speaks with poise and asserts renegotiation — things change, roll with the punches, and believes the new name is on the table (u012) — reflecting confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Explicitly endorses flexibility and adapting to change (u012) and considers alternative options for the name (u009), indicating openness."
+  }
+}

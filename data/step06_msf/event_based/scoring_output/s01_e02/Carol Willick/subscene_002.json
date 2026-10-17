@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly prompts that Speaker_02 remembers Speaker_01 and then says Speaker_03’s name; minimal, neutral social engagement without clear outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Statements are neutral and facilitative, with no clear acts of kindness/cooperation or conflict/untrustworthiness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about planning, organization, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or notable calm/confidence in the brief remarks."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or closed-mindedness are present."
+  }
+}

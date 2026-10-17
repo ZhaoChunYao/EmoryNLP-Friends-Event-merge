@@ -1,0 +1,102 @@
+('believe', 'I/(Chandler Bing)', 'we are even having this discussion', 's01_e19_c04_u001')
+[s01_e19_c04_u001] Chandler Bing: I can't believe we are even having this discussion.
+
+('have', 'we/(Chandler Bing and Joey Tribbiani)', 'this discussion', 's01_e19_c04_u001')
+[s01_e19_c04_u001] Chandler Bing: I can't believe we are even having this discussion.
+
+('agree', 'I/(Joey Tribbiani)', None, 's01_e19_c04_u002')
+[s01_e19_c04_u002] Joey Tribbiani: I agree. I'm, like, in disbelief.
+
+('be', 'I/(Joey Tribbiani)', 'in disbelief', 's01_e19_c04_u002')
+[s01_e19_c04_u002] Joey Tribbiani: I agree. I'm, like, in disbelief.
+
+('mean', 'I/(Chandler Bing)', None, 's01_e19_c04_u003')
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+
+('think', 'you/(Ross Geller)', "if things were gonna happen with Rachel, they would've happened already", 's01_e19_c04_u003')
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+
+('happen', 'things', None, 's01_e19_c04_u003')
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+
+('happen', 'things', 'with Rachel', 's01_e19_c04_u003')
+[s01_e19_c04_u003] Chandler Bing: I mean, don't you think if things were gonna happen with Rachel, they would've happened already?
+
+('tell', 'I/(Ross Geller)', 'you', 's01_e19_c04_u004')
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+
+('say', 'she/(Rachel Green)', "she's looking for a relationship with someone exactly like me", 's01_e19_c04_u004')
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+
+('look', 'she/(Rachel Green)', 'for a relationship', 's01_e19_c04_u004')
+[s01_e19_c04_u004] Ross Geller: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+
+('say', 'she/(Rachel Green)', 'that', 's01_e19_c04_u005')
+[s01_e19_c04_u005] Joey Tribbiani: She really said that?
+
+('add', 'I/(Ross Geller)', "the 'exactly like me' part", 's01_e19_c04_u006')
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+
+('say', 'she/(Rachel Green)', "she's looking for someone", 's01_e19_c04_u006')
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+
+('look', 'she/(Rachel Green)', 'for someone', 's01_e19_c04_u006')
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+
+('be', 'someone', 'there tonight', 's01_e19_c04_u006')
+[s01_e19_c04_u006] Ross Geller: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+
+('think', 'I/(Ross Geller)', "it's perfect", 's01_e19_c04_u008')
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+
+('be', 'it/(the plan)', 'perfect', 's01_e19_c04_u008')
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+
+('be', 'it/(the plan)', 'the two of us', 's01_e19_c04_u008')
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+
+('spend', 'she/(Rachel Green)', 'all day taking care of my monkey', 's01_e19_c04_u008')
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+
+('take care', 'she/(Rachel Green)', 'of my monkey', 's01_e19_c04_u008')
+[s01_e19_c04_u008] Ross Geller: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+
+('remember', 'I/(Chandler Bing)', 'the last time I got a girl to take care of my monkey', 's01_e19_c04_u009')
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+
+('get', 'I/(Chandler Bing)', 'a girl to take care of my monkey', 's01_e19_c04_u009')
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+
+('take care', 'a girl', 'of my monkey', 's01_e19_c04_u009')
+[s01_e19_c04_u009] Chandler Bing: I can't remember the last time I got a girl to take care of my monkey.
+
+('figure', 'I/(Ross Geller)', "after work I'd go pick up a bottle of wine, go over there and try to woo her", 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('go', 'I/(Ross Geller)', 'pick up a bottle of wine', 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('pick', 'I/(Ross Geller)', 'up a bottle of wine', 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('go', 'I/(Ross Geller)', 'over there', 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('try', 'I/(Ross Geller)', 'to woo her', 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('woo', 'I/(Ross Geller)', 'her', 's01_e19_c04_u010')
+[s01_e19_c04_u010] Ross Geller: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+
+('know', 'you/(Ross Geller)', 'what you should do', 's01_e19_c04_u011')
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.
+
+('do', 'you/(Ross Geller)', 'what', 's01_e19_c04_u011')
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.
+
+('take', 'you/(Ross Geller)', "her back to the 1890's", 's01_e19_c04_u011')
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.
+
+('use', 'that phrase', None, 's01_e19_c04_u011')
+[s01_e19_c04_u011] Chandler Bing: Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.
+

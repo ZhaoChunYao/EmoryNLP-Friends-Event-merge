@@ -1,0 +1,188 @@
+event_id: s01_e24_c10_u001_e1
+utterance_id: s01_e24_c10_u001
+  tuple: ('say', "I/(Carl (Rachel's date))", None, 's01_e24_c10_u001')
+  tuple: ('mean', "I/(Carl (Rachel's date))", None, 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u001_e2
+utterance_id: s01_e24_c10_u001
+  tuple: ('see', "I/(Carl (Rachel's date))", 'one more picture of Ed Begley, Jr. in that stupid electric car', 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u001_e3
+utterance_id: s01_e24_c10_u001
+  tuple: ('shoot', "I/(Carl (Rachel's date))", 'myself', 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u001_e4
+utterance_id: s01_e24_c10_u001
+  tuple: ('get', 'you/(Rachel Green)', 'me wrong', 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u001_e5
+utterance_id: s01_e24_c10_u001
+  tuple: ('be', "I/(Carl (Rachel's date))", 'against environmental issues', 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u001_e6
+utterance_id: s01_e24_c10_u001
+  tuple: ('be', 'it/(the problem)', 'that guy', 's01_e24_c10_u001')
+
+event_id: s01_e24_c10_u003_e1
+utterance_id: s01_e24_c10_u003
+  tuple: ('believe', 'I/(Ross Geller)', 'you would rather go out with him than me', 's01_e24_c10_u003')
+  tuple: ('go', 'you/(Rachel Green)', 'out with him', 's01_e24_c10_u003')
+
+event_id: s01_e24_c10_u004_e1
+utterance_id: s01_e24_c10_u004
+  tuple: ('excuse', 'you/(Ross Geller)', 'me', 's01_e24_c10_u004')
+
+event_id: s01_e24_c10_u004_e2
+utterance_id: s01_e24_c10_u004
+  tuple: ('try', 'I/(Rachel Green)', 'to have a date here', 's01_e24_c10_u004')
+  tuple: ('have', 'I/(Rachel Green)', 'a date here', 's01_e24_c10_u004')
+
+event_id: s01_e24_c10_u005_e1
+utterance_id: s01_e24_c10_u005
+  tuple: ('stop', 'you/(Rachel Green)', 'thinking about me', 's01_e24_c10_u005')
+  tuple: ('think', 'you/(Rachel Green)', 'about me', 's01_e24_c10_u005')
+
+event_id: s01_e24_c10_u008_e1
+utterance_id: s01_e24_c10_u008
+  tuple: ('think', 'I/(Rachel Green)', 'about you', 's01_e24_c10_u008')
+
+event_id: s01_e24_c10_u009_e1
+utterance_id: s01_e24_c10_u009
+  tuple: ('get', 'I/(Ross Geller)', 'it', 's01_e24_c10_u009')
+
+event_id: s01_e24_c10_u009_e2
+utterance_id: s01_e24_c10_u009
+  tuple: ('see', 'you/(Rachel Green)', 'in this guy', 's01_e24_c10_u009')
+  tuple: ('see', 'you/(Rachel Green)', 'what', 's01_e24_c10_u009')
+
+event_id: s01_e24_c10_u010_e1
+utterance_id: s01_e24_c10_u010
+  tuple: ('be', "he/(Carl (Rachel's date))", 'a very nice guy', 's01_e24_c10_u010')
+
+event_id: s01_e24_c10_u011_e1
+utterance_id: s01_e24_c10_u011
+  tuple: ('mean', "I/(Carl (Rachel's date))", None, 's01_e24_c10_u011')
+
+event_id: s01_e24_c10_u011_e2
+utterance_id: s01_e24_c10_u011
+  tuple: ('come', 'you/(Ed Begley, Jr.)', None, 's01_e24_c10_u011')
+  tuple: ('get', 'you/(Ed Begley, Jr.)', 'a real car', 's01_e24_c10_u011')
+
+event_id: s01_e24_c10_u012_e1
+utterance_id: s01_e24_c10_u012
+  tuple: ('come', 'you/(Rachel Green)', None, 's01_e24_c10_u012')
+  tuple: ('give', 'you/(Rachel Green)', 'us a chance', 's01_e24_c10_u012')
+
+event_id: s01_e24_c10_u013_e1
+utterance_id: s01_e24_c10_u013
+  tuple: ('be', 'it/(dating Ross Geller)', 'too hard', 's01_e24_c10_u013')
+
+event_id: s01_e24_c10_u014_e1
+utterance_id: s01_e24_c10_u014
+  tuple: ('get', 'it/(dating Ross Geller)', 'weird for everyone else', 's01_e24_c10_u014')
+
+event_id: s01_e24_c10_u014_e2
+utterance_id: s01_e24_c10_u014
+  tuple: ('care', 'who', 'about them', 's01_e24_c10_u014')
+
+event_id: s01_e24_c10_u014_e3
+utterance_id: s01_e24_c10_u014
+  tuple: ('be', 'this/(their relationship)', 'about us', 's01_e24_c10_u014')
+
+event_id: s01_e24_c10_u014_e4
+utterance_id: s01_e24_c10_u014
+  tuple: ('be', 'I/(Ross Geller)', 'in love with you', 's01_e24_c10_u014')
+  tuple: ('be', 'I/(Ross Geller)', 'in love since the ninth grade', 's01_e24_c10_u014')
+
+event_id: s01_e24_c10_u015_e1
+utterance_id: s01_e24_c10_u015
+  tuple: ('be', 'you/(Ross Geller)', 'like my best friend', 's01_e24_c10_u015')
+
+event_id: s01_e24_c10_u016_e1
+utterance_id: s01_e24_c10_u016
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e24_c10_u016')
+
+event_id: s01_e24_c10_u017_e1
+utterance_id: s01_e24_c10_u017
+  tuple: ('break up', 'we/(Ross Geller and Rachel Green)', None, 's01_e24_c10_u017')
+
+event_id: s01_e24_c10_u017_e2
+utterance_id: s01_e24_c10_u017
+  tuple: ('lose', 'I/(Rachel Green)', 'you', 's01_e24_c10_u017')
+
+event_id: s01_e24_c10_u018_e1
+utterance_id: s01_e24_c10_u018
+  tuple: ('make', 'what', 'you think we are going to break up', 's01_e24_c10_u018')
+  tuple: ('think', 'you/(Rachel Green)', 'we are going to break up', 's01_e24_c10_u018')
+
+event_id: s01_e24_c10_u019_e1
+utterance_id: s01_e24_c10_u019
+  tuple: ('be', 'you/(Ross Geller)', 'involved with someone', 's01_e24_c10_u019')
+  tuple: ('break up', 'you/(Ross Geller)', None, 's01_e24_c10_u019')
+
+event_id: s01_e24_c10_u020_e1
+utterance_id: s01_e24_c10_u020
+  tuple: ('happen', 'it/(a successful relationship)', 'once', 's01_e24_c10_u020')
+
+event_id: s01_e24_c10_u020_e2
+utterance_id: s01_e24_c10_u020
+  tuple: ('know', 'you/(Rachel Green) and I/(Ross Geller)', 'we are perfect for each other', 's01_e24_c10_u020')
+  tuple: ('be', 'we/(Ross Geller and Rachel Green)', 'perfect for each other', 's01_e24_c10_u020')
+
+event_id: s01_e24_c10_u020_e3
+utterance_id: s01_e24_c10_u020
+  tuple: ('be', 'you/(Rachel Green)', 'attracted to me', 's01_e24_c10_u020')
+
+event_id: s01_e24_c10_u021_e1
+utterance_id: s01_e24_c10_u021
+  tuple: ('know', 'I/(Rachel Green)', None, 's01_e24_c10_u021')
+
+event_id: s01_e24_c10_u021_e2
+utterance_id: s01_e24_c10_u021
+  tuple: ('look', 'I/(Rachel Green)', 'at you', 's01_e24_c10_u021')
+
+event_id: s01_e24_c10_u022_e1
+utterance_id: s01_e24_c10_u022
+  tuple: ('start', 'you/(Rachel Green)', 'looking', 's01_e24_c10_u022')
+  tuple: ('look', 'you/(Rachel Green)', None, 's01_e24_c10_u022')
+
+event_id: s01_e24_c10_u025_e1
+utterance_id: s01_e24_c10_u025
+  tuple: ('know', 'you/(Rachel Green)', 'I am going to be the guy caught behind this hammerhead in traffic', 's01_e24_c10_u025')
+  tuple: ('be', "I/(Carl (Rachel's date))", 'the guy caught behind this hammerhead in traffic', 's01_e24_c10_u025')
+
+event_id: s01_e24_c10_u026_e1
+utterance_id: s01_e24_c10_u026
+  tuple: ('be', "you/(Carl (Rachel's date))", 'right', 's01_e24_c10_u026')
+
+event_id: s01_e24_c10_u027_e1
+utterance_id: s01_e24_c10_u027
+  tuple: ('know', 'you/(Rachel Green)', None, 's01_e24_c10_u027')
+
+event_id: s01_e24_c10_u028_e1
+utterance_id: s01_e24_c10_u028
+  tuple: ('know', "you/(Carl (Rachel's date))", 'what', 's01_e24_c10_u028')
+
+event_id: s01_e24_c10_u030_e1
+utterance_id: s01_e24_c10_u030
+  tuple: ('forget', 'I/(Rachel Green)', 'I am supposed to pick up a friend at the airport', 's01_e24_c10_u030')
+  tuple: ('be', 'I/(Rachel Green)', 'supposed to pick up a friend at the airport', 's01_e24_c10_u030')
+  tuple: ('pick up', 'I/(Rachel Green)', 'a friend at the airport', 's01_e24_c10_u030')
+
+event_id: s01_e24_c10_u030_e2
+utterance_id: s01_e24_c10_u030
+  tuple: ('be', 'I/(Rachel Green)', 'sorry', 's01_e24_c10_u030')
+  tuple: ('mean', 'I/(Rachel Green)', 'I am sorry', 's01_e24_c10_u030')
+
+event_id: s01_e24_c10_u030_e3
+utterance_id: s01_e24_c10_u030
+  tuple: ('want', "you/(Carl (Rachel's date))", 'to stay', 's01_e24_c10_u030')
+  tuple: ('stay', "you/(Carl (Rachel's date))", None, 's01_e24_c10_u030')
+  tuple: ('want', "you/(Carl (Rachel's date))", 'to finish your drinks', 's01_e24_c10_u030')
+  tuple: ('finish', "you/(Carl (Rachel's date))", 'your drinks', 's01_e24_c10_u030')
+  tuple: ('do', "you/(Carl (Rachel's date))", None, 's01_e24_c10_u030')
+
+event_id: s01_e24_c10_u030_e4
+utterance_id: s01_e24_c10_u030
+  tuple: ('go', 'I/(Rachel Green)', None, 's01_e24_c10_u030')
+

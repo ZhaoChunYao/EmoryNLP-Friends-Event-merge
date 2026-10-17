@@ -1,0 +1,27 @@
+('thank', 'Monica Geller', 'you', 's01_e05_c05_u001')
+[s01_e05_c05_u001] Monica Geller: Thank you. So what does this Bob guy look like? Is he tall? Short?
+
+('look', 'this Bob guy', 'like what', 's01_e05_c05_u001')
+[s01_e05_c05_u001] Monica Geller: Thank you. So what does this Bob guy look like? Is he tall? Short?
+
+('be', 'he/Bob', 'tall', 's01_e05_c05_u001')
+[s01_e05_c05_u001] Monica Geller: Thank you. So what does this Bob guy look like? Is he tall? Short?
+
+('be', 'he/Bob', 'short', 's01_e05_c05_u001')
+[s01_e05_c05_u001] Monica Geller: Thank you. So what does this Bob guy look like? Is he tall? Short?
+
+('meet', 'you/Joey Tribbiani', 'Bob', 's01_e05_c05_u005')
+[s01_e05_c05_u005] Monica Geller: You've never met Bob, have you?
+
+('be', 'he/Bob', None, 's01_e05_c05_u006')
+[s01_e05_c05_u006] Joey Tribbiani: No, but he's...
+
+('know', 'we/Monica Geller+Joey Tribbiani', 'this guy could be horribly...', 's01_e05_c05_u007')
+[s01_e05_c05_u007] Monica Geller: Oh my god, Joey, for all we know this guy could be horribly...
+
+('be', 'this guy', None, 's01_e05_c05_u007')
+[s01_e05_c05_u007] Monica Geller: Oh my god, Joey, for all we know this guy could be horribly...
+
+('shut', 'I/Monica Geller', 'up', 's01_e05_c05_u010')
+[s01_e05_c05_u010] Monica Geller: ...horribly attractive. I'll be shutting up now.
+

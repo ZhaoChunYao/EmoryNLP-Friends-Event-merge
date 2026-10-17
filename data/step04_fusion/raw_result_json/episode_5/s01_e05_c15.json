@@ -1,0 +1,232 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c15_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Rachel Green', 'the clothes clean', 's01_e05_c15_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'that', 'the important part', 's01_e05_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('guess', 'I/Rachel Green', None, 's01_e05_c15_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('look', 'everything', 'like jammies', 's01_e05_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'sorry', 's01_e05_c15_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('excuse', 'you/Woman', 'me', 's01_e05_c15_u004')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('have', 'we/Rachel Green+Ross Geller', 'this cart', 's01_e05_c15_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Woman', 'a 24-inch waist', 's01_e05_c15_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('lose', 'you/Rachel Green', 'things', 's01_e05_c15_u005')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('come on', 'you/Rachel Green', None, 's01_e05_c15_u005')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('get', 'you/Rachel Green', 'outta my way', 's01_e05_c15_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Woman', None, 's01_e05_c15_u007')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'clear', 's01_e05_c15_u007')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'this', 'our cart', 's01_e05_c15_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'there', 'any clothes', 's01_e05_c15_u008')",
+            "('be', 'any clothes', 'in it', 's01_e05_c15_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('quit', 'you/Woman', 'making up rules', 's01_e05_c15_u009')",
+            "('make up', 'you/Woman', 'rules', 's01_e05_c15_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('let go', 'you/Rachel Green', None, 's01_e05_c15_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/Woman', None, 's01_e05_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'you/Woman', 'this cart', 's01_e05_c15_u012')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('take', 'you/Woman', 'me with it', 's01_e05_c15_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'you/Ross Geller', 'that', 's01_e05_c15_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'incredible', 's01_e05_c15_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'I/Rachel Green', 'this without you', 's01_e05_c15_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'more clothes', 'in the dryer', 's01_e05_c15_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'fine', 's01_e05_c15_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c15_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'sure', 's01_e05_c15_u019')"
+          ]
+        }
+      ]
+    }
+  ]
+}

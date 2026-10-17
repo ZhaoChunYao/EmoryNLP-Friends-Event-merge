@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively speaks up in the group and forcefully corrects Speaker_02: “You are that obsessive… remember I lived with you,” showing assertive, outgoing participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly contradicts and criticizes Speaker_02, calling them obsessive and mocking with an alarm sound, which is confrontational rather than cooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "TargetSpeaker only reports others’ actions and a past living situation; no behavior shows organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently challenges Speaker_02 in front of others (“You are that obsessive… remember I lived with you”) without signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or creativity versus dogmatism; statements focus on disputing another person’s claim."
+  }
+}

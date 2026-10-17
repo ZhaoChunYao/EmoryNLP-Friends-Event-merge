@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly thanks for the drink and notes an issue with the cinnamon stick; no clear sign of being notably outgoing or talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly thanks Speaker_01 for the hot cider and raises the pencil/eraser mix-up politely."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "TargetSpeaker shows no behavior about planning or diligence; they simply acknowledge and report the mix-up."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display anxiety or distress—just a neutral observation—so no clear tendency toward nervousness or unusual calm is shown."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or inventive thinking; the remark is a straightforward observation about the eraser on the cinnamon stick."
+  }
+}

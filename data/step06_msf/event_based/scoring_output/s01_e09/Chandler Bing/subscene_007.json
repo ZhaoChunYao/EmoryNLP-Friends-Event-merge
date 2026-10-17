@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and delivers a group toast and enthusiastically joins others' toasts (“Here, here!”), showing outgoing, talkative engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "The toast expresses gratitude for everyone being together and is received as “very sweet,” indicating warmth and cooperative intent despite playful teasing."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior shows organization or diligence; proposing a spontaneous toast doesn’t indicate conscientiousness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm, humorous delivery of a public toast and comfort addressing the group suggest confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He embraces the unexpected Thanksgiving and creatively reframes misfortunes as a positive that brought them together."
+  }
+}

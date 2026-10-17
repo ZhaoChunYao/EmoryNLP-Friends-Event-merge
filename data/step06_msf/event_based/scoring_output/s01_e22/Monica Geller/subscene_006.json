@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or outgoing energy; the speaker mainly manages a tense situation rather than seeking interaction for its own sake."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational and unsympathetic: tells Speaker_01 to focus (u003), challenges him with \"what were you thinking\" about hiding his age (u005), orders \"don’t say you’re falling in love with me\" (u007) and \"fall out of love with me\" (u011)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Concerned with rules and consequences: says what they did was wrong (u001), highlights potential felony in 48 states (u005), urges focusing now (u003), and notes it’s a school night, implying responsibility (u011)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays worry and guilt: labels the act wrong (u001), fears legal consequences (\"felon in 48 states,\" u005), and reacts anxiously to declarations of love by shutting them down (u007, u011)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Cautious and rule-bound rather than exploratory: prioritizes legality and conventional norms (felony concern, u005; school night, u011) and dismisses romantic spontaneity (u007, u011)."
+  }
+}

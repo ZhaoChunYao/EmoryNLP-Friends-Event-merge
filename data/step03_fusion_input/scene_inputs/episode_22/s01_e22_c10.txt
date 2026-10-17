@@ -1,0 +1,159 @@
+('have', 'Carol and I', 'a new system', 's01_e22_c10_u002')
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+
+('punch', 'she/(Carol)', 'in 911', 's01_e22_c10_u002')
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+
+('mean', 'it/(911)', "she's having a baby", 's01_e22_c10_u002')
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+
+('have', 'she/(Carol)', 'a baby', 's01_e22_c10_u002')
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+
+('ignore', 'I/(Ross Geller)', 'it', 's01_e22_c10_u002')
+[s01_e22_c10_u002] Ross Geller: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+
+('get', 'he/(Andre)', 'a call', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('get', 'he/(Andre)', 'from who I think was our cousin Nathan', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('think', 'I/(Ross Geller)', 'who was our cousin Nathan', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('be', 'who', 'our cousin Nathan', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('be', 'it', 'a little more than I needed to know', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('need', 'I/(Ross Geller)', 'to know', 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('know', 'I/(Ross Geller)', None, 's01_e22_c10_u004')
+[s01_e22_c10_u004] Ross Geller: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+
+('be', 'that/(hey)', 'my opener', 's01_e22_c10_u007')
+[s01_e22_c10_u007] Monica Geller: That was gonna be my opener.
+
+('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'those new hand-dryers', 's01_e22_c10_u008')
+[s01_e22_c10_u008] Rachel Green: Hey, did you guys check out those new hand-dryers in the bathroom?
+
+('check out', 'you guys/(Ross Geller and Joey Tribbiani)', 'in the bathroom', 's01_e22_c10_u008')
+[s01_e22_c10_u008] Rachel Green: Hey, did you guys check out those new hand-dryers in the bathroom?
+
+('think', 'I/(Ross Geller)', 'that was just a rumour', 's01_e22_c10_u009')
+[s01_e22_c10_u009] Ross Geller: I thought that was just a rumour.
+
+('be', 'that', 'just a rumour', 's01_e22_c10_u009')
+[s01_e22_c10_u009] Ross Geller: I thought that was just a rumour.
+
+('be', 'they/(hand-dryers)', 'here already', 's01_e22_c10_u011')
+[s01_e22_c10_u011] Joey Tribbiani: They're here already?
+
+('look', 'you/(Monica Geller)', None, 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('tell', 'I/(Ethan)', 'you something', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'I/(Ethan)', 'not 17', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('say', 'I/(Ethan)', "so that you'd think I was cute and vunerable", 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('think', 'you/(Monica Geller)', 'I was cute and vunerable', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'I/(Ethan)', 'cute and vunerable', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'I/(Ethan)', 'actually 30', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('have', 'I/(Ethan)', 'a wife', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('have', 'I/(Ethan)', 'a job', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'I/(Ethan)', 'your Congressman', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'this', 'ridiculous', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'we/(Ethan and Monica Geller)', 'great together', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('talk', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('make', 'we/(Ethan and Monica Geller)', 'each other laugh', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('laugh', 'we/(Ethan and Monica Geller)', None, 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('have', 'I/(Ethan)', 'no frame of graft', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('think', 'I/(Ethan)', 'that was great', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'that/(sex)', 'great', 's01_e22_c10_u013')
+[s01_e22_c10_u013] Ethan: All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great.
+
+('be', 'it/(sex)', None, 's01_e22_c10_u014')
+[s01_e22_c10_u014] Monica Geller: It was.
+
+('be', 'what', 'the problem', 's01_e22_c10_u015')
+[s01_e22_c10_u015] Ethan: Then, what's the problem?
+
+('be', 'it/(relationship with Ethan)', 'icky', 's01_e22_c10_u016')
+[s01_e22_c10_u016] Monica Geller: Ethan, it's um... it's icky.
+
+('throw', 'you/(Monica Geller)', "this away because it's icky", 's01_e22_c10_u017')
+[s01_e22_c10_u017] Ethan: Icky? You're actually gonna throw this away because it's icky?
+
+('throw away', 'you/(Monica Geller)', 'this', 's01_e22_c10_u017')
+[s01_e22_c10_u017] Ethan: Icky? You're actually gonna throw this away because it's icky?
+
+('be', 'this', 'easy for me either', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('be', 'this', 'for me', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('wish', 'I/(Monica Geller)', 'things were different', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('be', 'things', 'different', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('be', 'you/(Ethan)', 'a few years older', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('be', 'I/(Monica Geller)', 'a few years younger', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('live', 'we/(Monica Geller and Ethan)', None, 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('live', 'we/(Monica Geller and Ethan)', 'in biblical times', 's01_e22_c10_u018')
+[s01_e22_c10_u018] Monica Geller: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+
+('say', 'you/(Monica Geller)', 'it', 's01_e22_c10_u019')
+[s01_e22_c10_u019] Ethan: No, don't say it.
+
+('love', 'I/(Monica Geller)', 'you', 's01_e22_c10_u020')
+[s01_e22_c10_u020] Monica Geller: ...love you.
+
+('be', 'your hands/(Joey Tribbiani)', 'still wet', 's01_e22_c10_u022')
+[s01_e22_c10_u022] Ross Geller: Are you're hands still wet?
+
+('dry', 'us/(Rachel Green and Joey Tribbiani)', "'em again", 's01_e22_c10_u024')
+[s01_e22_c10_u024] Rachel Green: Let's dry 'em again.
+

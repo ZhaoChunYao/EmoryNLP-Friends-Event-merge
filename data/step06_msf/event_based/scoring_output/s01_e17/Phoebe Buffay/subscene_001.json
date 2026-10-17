@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Responds enthusiastically to a surprise party, says everyone they love is in the room, and engages socially by asking about another person."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Compliments the party (“great”), reassures others it wasn’t scary, expresses love for everyone, and shows concern by asking where someone is."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or diligence in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles the surprise calmly and says it was not at all scary, showing composure and confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from situational curiosity (“what is going on”), there’s no strong sign of imaginative or unconventional thinking."
+  }
+}

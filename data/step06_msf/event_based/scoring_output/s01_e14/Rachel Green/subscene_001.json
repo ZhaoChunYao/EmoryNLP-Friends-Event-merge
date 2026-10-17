@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates social discussion by asking what Speaker_02 is planning to do and later asks several people about their plans for Valentine’s Day."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforwardly advises Speaker_02 to remember why they dumped Speaker_03, showing protective concern."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Seeks clarity and prompts planning about tomorrow night’s activities, indicating an organized, plan-ahead approach."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or heightened sensitivity; emotional state not evident."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Urges sticking with the prior decision to avoid the ex, taking a cautious stance rather than exploring new possibilities."
+  }
+}

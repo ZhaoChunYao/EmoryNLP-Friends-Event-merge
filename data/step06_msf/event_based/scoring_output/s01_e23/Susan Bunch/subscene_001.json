@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief contributions; aside from a small joke (“Swiss quartz, ha, ha”), there’s no clear sign of being especially outgoing or talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives straightforward, helpful information about the contractions and engages in light, friendly banter, indicating cooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Reports precise timing of contractions (“every four minutes and last 55 seconds”), showing careful monitoring and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm enough to joke (“Swiss quartz, ha, ha”) and provide precise details during a stressful situation, indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or unconventional thinking; a simple joke alone is insufficient to infer high openness."
+  }
+}

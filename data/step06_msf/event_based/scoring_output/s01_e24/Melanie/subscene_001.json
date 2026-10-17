@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She talks openly about a recent sexual encounter, eagerly plans “something fun” to do, and enthusiastically promises a gift—outgoing engagement rather than reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She promises a big fruit basket and warmly praises Speaker_01 as a generous giver, openly admitting her earlier misjudgment—generous and straightforward."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness beyond a casual promise of a gift; insufficient evidence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A brief stammer (“M-Me again?”) and “I don’t know how to explain” suggest momentary nerves, but she otherwise remains positive and composed; mixed/weak evidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She revises her prior expectation about him (“nothing like I expected,” not self-centered) and is willing to try new things (“find something fun”), indicating openness."
+  }
+}

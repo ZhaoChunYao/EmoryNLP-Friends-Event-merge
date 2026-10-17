@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Publicly volunteers a confession about the valentine and engages directly in the group conversation (u010)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Admits to deceiving Speaker_01 by making a valentine seem from Speaker_04 and makes a slightly patronizing remark (“big girl”) (u010, u012)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays composed when reminded of an embarrassing incident, matter-of-factly explaining it was from laughing (u014)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows inventive, playful behavior by creating a fake valentine scenario (u010, u012)."
+  }
+}

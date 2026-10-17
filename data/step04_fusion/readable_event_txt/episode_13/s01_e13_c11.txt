@@ -1,0 +1,81 @@
+event_id: s01_e13_c11_u001_e1
+utterance_id: s01_e13_c11_u001
+  tuple: ('be', 'what', 'wrong', 's01_e13_c11_u001')
+
+event_id: s01_e13_c11_u003_e1
+utterance_id: s01_e13_c11_u003
+  tuple: ('come', 'you/Phoebe Buffay', 'on', 's01_e13_c11_u003')
+
+event_id: s01_e13_c11_u004_e1
+utterance_id: s01_e13_c11_u004
+  tuple: ('be', 'it', 'nothing', 's01_e13_c11_u004')
+
+event_id: s01_e13_c11_u004_e2
+utterance_id: s01_e13_c11_u004
+  tuple: ('be', 'I/Phoebe Buffay', 'fine', 's01_e13_c11_u004')
+
+event_id: s01_e13_c11_u004_e3
+utterance_id: s01_e13_c11_u004
+  tuple: ('be', 'it', 'my friends', 's01_e13_c11_u004')
+
+event_id: s01_e13_c11_u004_e4
+utterance_id: s01_e13_c11_u004
+  tuple: ('have', "they/(Phoebe Buffay's friends)", 'a liking problem', 's01_e13_c11_u004')
+  tuple: ('have', "they/(Phoebe Buffay's friends)", 'with you', 's01_e13_c11_u004')
+  tuple: ('do', "they/(Phoebe Buffay's friends)", None, 's01_e13_c11_u004')
+
+event_id: s01_e13_c11_u006_e1
+utterance_id: s01_e13_c11_u006
+  tuple: ('see', "they/(Phoebe Buffay's friends)", 'all the wonderfulness that I see', 's01_e13_c11_u006')
+  tuple: ('see', 'I/Phoebe Buffay', 'that', 's01_e13_c11_u006')
+  tuple: ('see', "they/(Phoebe Buffay's friends)", 'all the good stuff and all the sweet stuff', 's01_e13_c11_u006')
+
+event_id: s01_e13_c11_u006_e2
+utterance_id: s01_e13_c11_u006
+  tuple: ('think', "they/(Phoebe Buffay's friends)", "you're a little...", 's01_e13_c11_u006')
+  tuple: ('be', 'you/Roger', 'a little...', 's01_e13_c11_u006')
+
+event_id: s01_e13_c11_u010_e1
+utterance_id: s01_e13_c11_u010
+  tuple: ('do', 'I/Phoebe Buffay', None, 's01_e13_c11_u010')
+
+event_id: s01_e13_c11_u011_e1
+utterance_id: s01_e13_c11_u011
+  tuple: ('be', 'I/Roger', 'not at all surprised', 's01_e13_c11_u011')
+  tuple: ('feel', "they/(Phoebe Buffay's friends)", 'that way', 's01_e13_c11_u011')
+
+event_id: s01_e13_c11_u012_e1
+utterance_id: s01_e13_c11_u012
+  tuple: ('be', 'you/Roger', 'not', 's01_e13_c11_u012')
+
+event_id: s01_e13_c11_u012_e2
+utterance_id: s01_e13_c11_u012
+  tuple: ('see', 'you/Roger', None, 's01_e13_c11_u012')
+
+event_id: s01_e13_c11_u012_e3
+utterance_id: s01_e13_c11_u012
+  tuple: ('be', 'that', "why you're so great", 's01_e13_c11_u012')
+  tuple: ('be', 'you/Roger', 'so great', 's01_e13_c11_u012')
+
+event_id: s01_e13_c11_u013_e1
+utterance_id: s01_e13_c11_u013
+  tuple: ('be', 'it', 'quite typical behaviour', 's01_e13_c11_u013')
+  tuple: ('have', 'you/Phoebe Buffay', 'this kind of dysfunctional group dynamic', 's01_e13_c11_u013')
+  tuple: ('sit', 'you/Phoebe Buffay', None, 's01_e13_c11_u013')
+  tuple: ('sit', 'you/Phoebe Buffay', 'in your stupid coffee house', 's01_e13_c11_u013')
+  tuple: ('sit', 'you/Phoebe Buffay', 'with your stupid big cups', 's01_e13_c11_u013')
+  tuple: ('have', 'cups', 'nipples', 's01_e13_c11_u013')
+  tuple: ('have', 'cups', 'on them', 's01_e13_c11_u013')
+  tuple: ('be', 'you/Phoebe Buffay', "like all 'Oh, define me! Define me! Love me, I need love!'", 's01_e13_c11_u013')
+  tuple: ('define', 'you/Phoebe Buffay', 'me', 's01_e13_c11_u013')
+  tuple: ('love', 'you/Phoebe Buffay', 'me', 's01_e13_c11_u013')
+  tuple: ('need', 'I/(someone in your group)', 'love', 's01_e13_c11_u013')
+
+event_id: s01_e13_c11_u013_e2
+utterance_id: s01_e13_c11_u013
+  tuple: ('know', 'you/Phoebe Buffay', None, 's01_e13_c11_u013')
+
+event_id: s01_e13_c11_u013_e3
+utterance_id: s01_e13_c11_u013
+  tuple: ('be', 'I/Roger', 'sorry', 's01_e13_c11_u013')
+

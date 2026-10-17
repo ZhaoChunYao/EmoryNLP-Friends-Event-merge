@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks for a description and says “Really?”, participating minimally without clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear warmth, cooperation, or antagonism; the comments are neutral and informational."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or unusual calm; reactions are neutral."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly asks for a description of the newborn’s appearance (curiosity about details)."
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u001_e1",
+          "tuples": [
+            "('be', 'It/(the service)', 'a really beautiful service', 's01_e08_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u002_e1",
+          "tuples": [
+            "('come', 'sweetheart', 'here', 's01_e08_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u002_e2",
+          "tuples": [
+            "('know', 'you/(Monica Geller)', None, 's01_e08_c10_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u002_e3",
+          "tuples": [
+            "('think', 'I/(Judy Geller)', 'it might be time for you to start using night cream', 's01_e08_c10_u002')",
+            "('be', 'it/(expletive)', 'time', 's01_e08_c10_u002')",
+            "('be', 'it/(expletive)', 'for you', 's01_e08_c10_u002')",
+            "('start', 'you/(Monica Geller)', 'using night cream', 's01_e08_c10_u002')",
+            "('use', 'you/(Monica Geller)', 'night cream', 's01_e08_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u005_e1",
+          "tuples": [
+            "('sound', 'your overcoat', 'remarkably like Brent Mussberger', 's01_e08_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u006_e1",
+          "tuples": [
+            "('check', 'you/(Chandler Bing)', 'out it', 's01_e08_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u007_e1",
+          "tuples": [
+            "('watch', 'you/(Joey Tribbiani)', 'a football game', 's01_e08_c10_u007')",
+            "('watch', 'you/(Joey Tribbiani)', 'at a funeral', 's01_e08_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u008_e1",
+          "tuples": [
+            "('be', 'it/(the pre-game)', 'the pre-game', 's01_e08_c10_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u008_e2",
+          "tuples": [
+            "('watch', 'I/(Joey Tribbiani)', 'it', 's01_e08_c10_u008')",
+            "('watch', 'I/(Joey Tribbiani)', 'at the reception', 's01_e08_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u009_e1",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'a frightening, frightening man', 's01_e08_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u012",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u012_e1",
+          "tuples": [
+            "('hope', 'I/(Ross Geller)', 'they are not ruined', 's01_e08_c10_u012')",
+            "('be', \"they/(Rachel Green's new Paolo shoes)\", 'not ruined', 's01_e08_c10_u012')",
+            "('ruin', \"they/(Rachel Green's new Paolo shoes)\", None, 's01_e08_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u014",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u014_e1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e08_c10_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u014_e2",
+          "tuples": [
+            "('be', 'Nana', 'gone', 's01_e08_c10_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u014_e3",
+          "tuples": [
+            "('be', 'there/(existential)', 'something', 's01_e08_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c10_u016",
+      "events": [
+        {
+          "event_id": "s01_e08_c10_u016_e1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'fine', 's01_e08_c10_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c10_u016_e2",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'my worst fear realised', 's01_e08_c10_u016')",
+            "('realise', 'my worst fear', None, 's01_e08_c10_u016')"
+          ]
+        }
+      ]
+    }
+  ]
+}

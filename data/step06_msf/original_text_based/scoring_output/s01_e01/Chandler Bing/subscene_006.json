@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives a long, animated explanation to the group and follows with a quick joke (“Stay out of TargetSpeaker freezer!”), showing talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Snaps “Stay out of TargetSpeaker freezer!”, asserting a hard boundary rather than being accommodating or generous."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness in the provided lines."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Describes intense heartbreak (“...ripped Speaker_01 heart out”) and explains avoiding relationships because of it, showing sensitivity and anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "States they avoid relationships (“that is why ... don’t do it”), indicating cautiousness and reluctance to engage in new experiences."
+  }
+}

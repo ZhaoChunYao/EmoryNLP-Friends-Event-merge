@@ -1,0 +1,284 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c09_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'up to what', 's01_e02_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'a job', 's01_e02_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/(Rachel Green got a job)', 'great', 's01_e02_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Barry Farber', 'so tanned', 's01_e02_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'I/Barry Farber', 'to Aruba', 's01_e02_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/Barry Farber', 'on our honeymoon', 's01_e02_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hurt', 'this/(dental procedure)', None, 's01_e02_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'I/Barry Farber', 'with Mindy', 's01_e02_c09_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'we/(Barry Farber and Mindy)', 'kind of a thing now', 's01_e02_c09_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Barry Farber', 'plugs', 's01_e02_c09_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('take', 'they/(plugs)', None, 's01_e02_c09_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Barry Farber', 'lenses', 's01_e02_c09_u014')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('hate', 'you/Barry Farber', 'sticking your finger in your eye', 's01_e02_c09_u014')",
+            "('stick', 'you/Barry Farber', 'your finger', 's01_e02_c09_u014')",
+            "('stick', 'you/Barry Farber', 'in your eye', 's01_e02_c09_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e02_c09_u015')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Barry Farber', 'to thank you', 's01_e02_c09_u015')",
+            "('thank', 'I/Barry Farber', 'you', 's01_e02_c09_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('see', 'you/Rachel Green', None, 's01_e02_c09_u017')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'I/Barry Farber', 'to hurt you', 's01_e02_c09_u017')",
+            "('hurt', 'I/Barry Farber', 'you', 's01_e02_c09_u017')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('want', 'I/Barry Farber', 'to hurt anyone', 's01_e02_c09_u017')",
+            "('hurt', 'I/Barry Farber', 'in my life', 's01_e02_c09_u017')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('be', 'I/Barry Farber', 'an orthodontist', 's01_e02_c09_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Rachel Green', None, 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'right', 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('mean', 'I/Barry Farber', None, 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('think', 'I/Barry Farber', 'we were happy', 's01_e02_c09_u019')",
+            "('be', 'we/(Barry Farber and Rachel Green)', 'happy', 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('be', 'we/(Barry Farber and Rachel Green)', 'not happy', 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('be', 'I/Barry Farber', 'happy', 's01_e02_c09_u019')",
+            "('be', 'I/Barry Farber', 'with Mindy', 's01_e02_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('spit', 'you/Robbie', None, 's01_e02_c09_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('guess', 'I/Rachel Green', 'this belongs to you', 's01_e02_c09_u022')",
+            "('belong', 'this/(ring)', 'to you', 's01_e02_c09_u022')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('thank', 'I/Rachel Green', 'you', 's01_e02_c09_u022')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('give', 'you/Barry Farber', 'it', 's01_e02_c09_u022')",
+            "('give', 'you/Barry Farber', 'to me', 's01_e02_c09_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c09_u023",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('thank', 'I/Barry Farber', 'you', 's01_e02_c09_u023')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('give', 'you/Rachel Green', 'it back', 's01_e02_c09_u023')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker mainly calls out drink orders while serving; no clear indication of being especially outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker promptly admits the mistake (giving a pencil instead of a cinnamon stick) and apologizes, showing politeness and straightforwardness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker accidentally gave a pencil in place of a cinnamon stick, indicating a careless mix-up while serving."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "On discovering the mistake, TargetSpeaker simply acknowledges it and apologizes without showing anxiety or emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, creativity, or rigidity is shown in the exchange."
+  }
+}

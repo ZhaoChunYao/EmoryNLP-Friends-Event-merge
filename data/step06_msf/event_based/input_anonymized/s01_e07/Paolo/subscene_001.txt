@@ -1,0 +1,21 @@
+Episode: s01_e07
+Scene: s01_e07_c16
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e07_c16_u005 → s01_e07_c16_u013
+Peak window: 5 → 7
+
+Dialogue:
+  [s01_e07_c16_u005] Speaker_01: Hi!
+  [s01_e07_c16_u006] Speaker_02: And Ross.
+  [s01_e07_c16_u007] Speaker_01: Hi!
+  [s01_e07_c16_u008] TargetSpeaker: 
+  [s01_e07_c16_u009]
+  1. Speaker_02 says TargetSpeaker does not speak much English.
+  [s01_e07_c16_u010] TargetSpeaker: Monopoly!
+  [s01_e07_c16_u011]
+  1. Speaker_02 tells everyone to look at TargetSpeaker recognizing the game 'Monopoly'.
+  [s01_e07_c16_u012]
+  1. Speaker_03 asks where TargetSpeaker came from.
+  [s01_e07_c16_u013]
+  1. Speaker_02 says Speaker_02 thinks TargetSpeaker came from Italy.

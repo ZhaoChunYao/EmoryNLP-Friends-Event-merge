@@ -1,0 +1,104 @@
+event_id: s01_e09_c03_u001_e1
+utterance_id: s01_e09_c03_u001
+  tuple: ('be', 'Carol', 'here', 's01_e09_c03_u001')
+
+event_id: s01_e09_c03_u002_e1
+utterance_id: s01_e09_c03_u002
+  tuple: ('be', 'she/Carol', 'at a faculty meeting', 's01_e09_c03_u002')
+
+event_id: s01_e09_c03_u003_e1
+utterance_id: s01_e09_c03_u003
+  tuple: ('come', 'I/Ross Geller', 'by to pick up my skull', 's01_e09_c03_u003')
+  tuple: ('pick', 'I/Ross Geller', 'up my skull', 's01_e09_c03_u003')
+
+event_id: s01_e09_c03_u003_e2
+utterance_id: s01_e09_c03_u003
+  tuple: ('come', 'you/Ross Geller', 'in', 's01_e09_c03_u003')
+
+event_id: s01_e09_c03_u004_e1
+utterance_id: s01_e09_c03_u004
+  tuple: ('borrow', 'Carol', 'it', 's01_e09_c03_u004')
+  tuple: ('borrow', 'Carol', 'for a class', 's01_e09_c03_u004')
+
+event_id: s01_e09_c03_u004_e2
+utterance_id: s01_e09_c03_u004
+  tuple: ('get', 'I/Ross Geller', 'it back to the museum', 's01_e09_c03_u004')
+
+event_id: s01_e09_c03_u005_e1
+utterance_id: s01_e09_c03_u005
+  tuple: ('look', 'it/the skull', 'like what', 's01_e09_c03_u005')
+
+event_id: s01_e09_c03_u007_e1
+utterance_id: s01_e09_c03_u007
+  tuple: ('be', 'I/Susan Bunch', 'familiar', 's01_e09_c03_u007')
+  tuple: ('be', 'I/Susan Bunch', 'with the concept', 's01_e09_c03_u007')
+
+event_id: s01_e09_c03_u007_e2
+utterance_id: s01_e09_c03_u007
+  tuple: ('look', 'we/Susan Bunch and Ross Geller', 'for it', 's01_e09_c03_u007')
+
+event_id: s01_e09_c03_u008_e1
+utterance_id: s01_e09_c03_u008
+  tuple: ('have', 'you guys/Susan and Carol', 'a lot of books', 's01_e09_c03_u008')
+  tuple: ('have', 'you guys/Susan and Carol', "about bein' a lesbian", 's01_e09_c03_u008')
+
+event_id: s01_e09_c03_u009_e1
+utterance_id: s01_e09_c03_u009
+  tuple: ('know', 'you/Ross Geller', None, 's01_e09_c03_u009')
+
+event_id: s01_e09_c03_u009_e2
+utterance_id: s01_e09_c03_u009
+  tuple: ('take', 'you/Ross Geller', 'a course', 's01_e09_c03_u009')
+
+event_id: s01_e09_c03_u009_e3
+utterance_id: s01_e09_c03_u009
+  tuple: ('let', 'they/authorities', 'you', 's01_e09_c03_u009')
+  tuple: ('do', 'you/Ross Geller', 'it', 's01_e09_c03_u009')
+
+event_id: s01_e09_c03_u011_e1
+utterance_id: s01_e09_c03_u011
+  tuple: ('read', 'I/Susan Bunch', 'it', 's01_e09_c03_u011')
+  tuple: ('read', 'I/Susan Bunch', 'to the baby', 's01_e09_c03_u011')
+
+event_id: s01_e09_c03_u012_e1
+utterance_id: s01_e09_c03_u012
+  tuple: ('be born', 'the baby', None, 's01_e09_c03_u012')
+
+event_id: s01_e09_c03_u012_e2
+utterance_id: s01_e09_c03_u012
+  tuple: ('mean', 'that', 'you are crazy', 's01_e09_c03_u012')
+  tuple: ('be', 'you/Susan Bunch', 'crazy', 's01_e09_c03_u012')
+
+event_id: s01_e09_c03_u013_e1
+utterance_id: s01_e09_c03_u013
+  tuple: ('think', 'you/Ross Geller', 'they can hear sounds in there', 's01_e09_c03_u013')
+  tuple: ('hear', 'they/unborn babies', 'sounds', 's01_e09_c03_u013')
+  tuple: ('hear', 'they/unborn babies', 'in there', 's01_e09_c03_u013')
+
+event_id: s01_e09_c03_u014_e1
+utterance_id: s01_e09_c03_u014
+  tuple: ('be', 'you/Susan Bunch', 'not serious', 's01_e09_c03_u014')
+
+event_id: s01_e09_c03_u014_e2
+utterance_id: s01_e09_c03_u014
+  tuple: ('mean', 'I/Ross Geller', None, 's01_e09_c03_u014')
+
+event_id: s01_e09_c03_u014_e3
+utterance_id: s01_e09_c03_u014
+  tuple: ('talk', 'you/Susan Bunch', None, 's01_e09_c03_u014')
+  tuple: ('talk', 'you/Susan Bunch', 'to it', 's01_e09_c03_u014')
+
+event_id: s01_e09_c03_u015_e1
+utterance_id: s01_e09_c03_u015
+  tuple: ('want', 'I/Susan Bunch', 'the baby to know my voice', 's01_e09_c03_u015')
+  tuple: ('know', 'the baby', 'my voice', 's01_e09_c03_u015')
+
+event_id: s01_e09_c03_u016_e1
+utterance_id: s01_e09_c03_u016
+  tuple: ('talk', 'you/Susan Bunch', 'about me', 's01_e09_c03_u016')
+
+event_id: s01_e09_c03_u019_e1
+utterance_id: s01_e09_c03_u019
+  tuple: ('refer', 'we/Susan Bunch and Carol', 'to you', 's01_e09_c03_u019')
+  tuple: ('refer', 'we/Susan Bunch and Carol', 'as Bobo the Sperm Guy', 's01_e09_c03_u019')
+

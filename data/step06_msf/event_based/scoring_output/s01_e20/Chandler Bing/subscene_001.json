@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He enthusiastically tells a group of friends about his first date and boasts it was one of the greatest ever, showing talkative, outgoing energy."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is boastful about the date, plans to conceal his feelings and not call yet, and calls a friend “insane,” indicating less straightforwardness and lower warmth."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He deliberately plans not to call the day after to avoid seeming needy and insists he’s right about this timing, showing controlled, planned behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He worries about appearing needy and shapes his actions around that concern, reflecting sensitivity to social evaluation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He follows a cautious, rule-bound dating script (withholding feelings and delaying contact) rather than being open or spontaneous."
+  }
+}

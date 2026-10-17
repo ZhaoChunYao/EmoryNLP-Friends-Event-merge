@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is socially engaging—expresses gladness that Speaker_01 and Speaker_05 are there and initiates light conversation by repeatedly asking about Speaker_05’s hair (u004, u006, u008)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker warmly says they are glad Speaker_01 and Speaker_05 are there (u004), showing friendliness and appreciation; the hair comments seem playful rather than hostile."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; brief small talk about hair in a tense context doesn’t firmly indicate conscientiousness level."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker reports being fine and behaves calm/playful in the moment (u004, u006, u008), showing no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from noticing and speculating about hair differences, there’s no strong indication of curiosity, imagination, or rigidity."
+  }
+}

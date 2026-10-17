@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief, practical remarks (notes the lights still up; instructs to fill out and return a hospital form), with no clear signs of outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker’s comments are procedural (asks for a hospital form to be completed and returned) and a neutral observation about lights; no clear generosity/warmth or antagonism/boastfulness shown."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker organizes next steps by telling Speaker_02 to fill out the hospital form and bring it back, showing task focus and procedural efficiency."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker remains matter-of-fact and composed, but there’s no strong indication of either anxiety or pronounced confidence beyond routine instruction."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No discussion of new ideas or curiosity; focus is on standard procedure (hospital form)."
+  }
+}

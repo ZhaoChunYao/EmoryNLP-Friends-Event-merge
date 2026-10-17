@@ -1,0 +1,36 @@
+event_id: s01_e07_c11_u001_e1
+utterance_id: s01_e07_c11_u001
+  tuple: ('be', 'this', 'so nice', 's01_e07_c11_u001')
+
+event_id: s01_e07_c11_u002_e1
+utterance_id: s01_e07_c11_u002
+  tuple: ('have', 'I/Ross Geller', 'a question', 's01_e07_c11_u002')
+  tuple: ('be', 'it', 'not so much a question as more of a general wondering... ment', 's01_e07_c11_u002')
+
+event_id: s01_e07_c11_u004_e1
+utterance_id: s01_e07_c11_u004
+  tuple: ('go', 'it', None, 's01_e07_c11_u004')
+
+event_id: s01_e07_c11_u004_e2
+utterance_id: s01_e07_c11_u004
+  tuple: ('want', 'I/Ross Geller', 'for a while now', 's01_e07_c11_u004')
+
+event_id: s01_e07_c11_u006_e1
+utterance_id: s01_e07_c11_u006
+  tuple: ('be', 'that', 'right', 's01_e07_c11_u006')
+
+event_id: s01_e07_c11_u007_e1
+utterance_id: s01_e07_c11_u007
+  tuple: ('look', 'you/Ross Geller', 'at the little cat', 's01_e07_c11_u007')
+
+event_id: s01_e07_c11_u010_e1
+utterance_id: s01_e07_c11_u010
+  tuple: ('be', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'on top of the world', 's01_e07_c11_u010')
+  tuple: ('look', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'down on creation', 's01_e07_c11_u010')
+  tuple: ('find', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'the only explanation', 's01_e07_c11_u010')
+  tuple: ('be', 'the only explanation I can find', "the wonders I've found ever since", 's01_e07_c11_u010')
+
+event_id: s01_e07_c11_u010_e2
+utterance_id: s01_e07_c11_u010
+  tuple: ('find', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'the wonders', 's01_e07_c11_u010')
+

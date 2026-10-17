@@ -1,0 +1,130 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Chandler Bing,subscene_003.json,AGR,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c04
+Subscene index for speaker: 003
+Main speaker: Chandler Bing
+UID span: s01_e01_c04_u001 → s01_e01_c04_u016
+Peak window: 0 → 8
+
+Dialogue:
+  [s01_e01_c04_u001]
+  1. Ross Geller says Ross Geller is supposed to attach a brackety thing to the side pieces using a bunch of the little worm guys.
+  2. Ross Geller says Ross Geller does not have a brackety thing.
+  3. Ross Geller says Ross Geller sees none of the little worm guys.
+  4. Ross Geller says Ross Geller cannot feel Ross Geller's legs.
+  [s01_e01_c04_u002] Unknown Speaker: 
+  [s01_e01_c04_u003]
+  1. Joey Tribbiani says Joey Tribbiani and Chandler Bing have a bookcase here.
+  [s01_e01_c04_u004]
+  1. Chandler Bing says the bookcase is a beautiful thing.
+  [s01_e01_c04_u005]
+  1. Joey Tribbiani says Joey Tribbiani is asking what the L-shaped bracket is.
+  [s01_e01_c04_u006]
+  1. Chandler Bing says the object is an L-shaped bracket.
+  [s01_e01_c04_u007]
+  1. Joey Tribbiani says Joey Tribbiani is asking where the L-shaped bracket goes.
+  [s01_e01_c04_u008]
+  1. Chandler Bing says Chandler Bing has no idea where the L-shaped bracket goes.
+  [s01_e01_c04_u009] Unknown Speaker: 
+  [s01_e01_c04_u010] Joey Tribbiani: Done with the bookcase!
+  [s01_e01_c04_u011] Chandler Bing: All finished!
+  [s01_e01_c04_u012]
+  1. Ross Geller says the beer Ross Geller is referring to was Carol Willick's favorite beer.
+  2. Ross Geller says Carol Willick always drank the beer out of the can.
+  3. Ross Geller says Ross Geller should have known that Carol Willick always drank the beer out of the can.
+  [s01_e01_c04_u013]
+  1. Joey Tribbiani says Ross Geller is about to start talking about Carol Willick in a depressing way.
+  2. Joey Tribbiani says Joey Tribbiani and Chandler Bing will leave if Ross Geller starts talking about Carol Willick in a depressing way.
+  [s01_e01_c04_u014]
+  1. Chandler Bing says Ross Geller would spoil the group's fun of building the bookcase by talking about Carol Willick.
+  [s01_e01_c04_u015]
+  1. Joey Tribbiani says Ross Geller should let Joey Tribbiani ask Ross Geller a question.
+  2. Joey Tribbiani says Joey Tribbiani is asking Ross Geller a question.
+  3. Joey Tribbiani says Carol Willick got the furniture, the stereo, and the good TV.
+  4. Joey Tribbiani says Joey Tribbiani is asking what Ross Geller got.
+  [s01_e01_c04_u016] Ross Geller: You guys.
+","Episode: s01_e01
+Scene: s01_e01_c04
+Subscene index for speaker: 003
+Main speaker: Chandler Bing
+UID span: s01_e01_c04_u001 → s01_e01_c04_u016
+Peak window: 0 → 8
+
+Dialogue:
+  [s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+  [s01_e01_c04_u002] Unknown Speaker: 
+  [s01_e01_c04_u003] Joey Tribbiani: I'm thinking we've got a bookcase here.
+  [s01_e01_c04_u004] Chandler Bing: It's a beautiful thing.
+  [s01_e01_c04_u005] Joey Tribbiani: What's this?
+  [s01_e01_c04_u006] Chandler Bing: I would have to say that is an 'L'-shaped bracket.
+  [s01_e01_c04_u007] Joey Tribbiani: Which goes where?
+  [s01_e01_c04_u008] Chandler Bing: I have no idea.
+  [s01_e01_c04_u009] Unknown Speaker: 
+  [s01_e01_c04_u010] Joey Tribbiani: Done with the bookcase!
+  [s01_e01_c04_u011] Chandler Bing: All finished!
+  [s01_e01_c04_u012] Ross Geller: This was Carol's favorite beer. She always drank it out of the can, I should have known.
+  [s01_e01_c04_u013] Joey Tribbiani: Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.
+  [s01_e01_c04_u014] Chandler Bing: Yes, please don't spoil all this fun.
+  [s01_e01_c04_u015] Joey Tribbiani: Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?
+  [s01_e01_c04_u016] Ross Geller: You guys.
+","Helps by identifying the L-shaped bracket when asked and aims to keep the group's mood positive, saying talk about Speaker_03 would spoil the fun while building.","Dismisses a friend’s emotional moment with sarcasm: “Yes, please don’t spoil all this fun,” showing low empathy/support.",,,
+s01_e01,Chandler Bing,subscene_006.json,AGR,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c07
+Subscene index for speaker: 006
+Main speaker: Chandler Bing
+UID span: s01_e01_c07_u004 → s01_e01_c07_u009
+Peak window: 4 → 4
+
+Dialogue:
+  [s01_e01_c07_u004]
+  1. Ross Geller says stopping himself from repeatedly saying he is divorced only took Ross Geller an hour.
+  [s01_e01_c07_u005]
+  1. Chandler Bing says Ross Geller should pay attention to what Chandler Bing is saying right now.
+  2. Chandler Bing says Ross Geller needs to understand Chandler Bing and Joey Tribbiani’s perspective.
+  3. Chandler Bing says Chandler Bing and Joey Tribbiani have not had a relationship that lasted longer than a Mento.
+  4. Chandler Bing says Ross Geller had Carol Willick’s love for four years.
+  5. Chandler Bing says Carol Willick ripped Ross Geller’s heart out at the end of four years of closeness and sharing.
+  6. Chandler Bing says Carol Willick ripping Ross Geller’s heart out is why Chandler Bing and Joey Tribbiani avoid serious relationships.
+  7. Chandler Bing says Chandler Bing does not think that explanation was Chandler Bing’s intended point.
+  [s01_e01_c07_u006]
+  1. Ross Geller says he is about to tell Chandler Bing and Joey Tribbiani what the scariest part is.
+  2. Ross Geller says there is a scariest part to his situation.
+  3. Ross Geller says there might be only one woman for everybody.
+  4. Ross Geller says a person such as Chandler Bing might get only one woman and then have no other partner.
+  5. Ross Geller says someone ends up with only one woman.
+  6. Ross Geller says that would be the end of that person’s romantic options.
+  7. Ross Geller says that in his case there was only one woman for Carol Willick.
+  [s01_e01_c07_u007]
+  1. Joey Tribbiani asks what Ross Geller is talking about.
+  2. Joey Tribbiani says Ross Geller’s claim that there is only one woman for each person is like saying there is only one ice cream flavor for Ross Geller.
+  3. Joey Tribbiani says Ross Geller is saying there is only one ice cream flavor for Ross Geller.
+  4. Joey Tribbiani restates that the claim would be that there is only one ice cream flavor for Ross Geller.
+  5. Joey Tribbiani asks Ross Geller to let Joey Tribbiani speak.
+  6. Joey Tribbiani says Joey Tribbiani will tell Ross Geller something.
+  7. Joey Tribbiani says there are lots of ice cream flavors, like Rocky Road, Cookie Dough, and Cherry Vanilla.
+  8. Joey Tribbiani says Ross Geller could get those ice creams with Jimmies, nuts, or whipped cream.
+  9. Joey Tribbiani says Ross Geller’s divorce is the best thing that has ever happened to Ross Geller.
+  10. Joey Tribbiani says Ross Geller got married when Ross Geller was about eight years old.
+  11. Joey Tribbiani says Joey Tribbiani welcomes Ross Geller back to the world.
+  12. Joey Tribbiani says Ross Geller should grab a spoon.
+  [s01_e01_c07_u008]
+  1. Ross Geller says Ross Geller does not know whether Ross Geller is hungry or horny.
+  2. Ross Geller says Ross Geller might be hungry.
+  3. Ross Geller says Ross Geller might be horny.
+  [s01_e01_c07_u009]
+  1. Chandler Bing says Ross Geller must stay out of Chandler Bing’s freezer.
+","Episode: s01_e01
+Scene: s01_e01_c07
+Subscene index for speaker: 006
+Main speaker: Chandler Bing
+UID span: s01_e01_c07_u004 → s01_e01_c07_u009
+Peak window: 4 → 4
+
+Dialogue:
+  [s01_e01_c07_u004] Ross Geller: That only took me an hour.
+  [s01_e01_c07_u005] Chandler Bing: Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!
+  [s01_e01_c07_u006] Ross Geller: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+  [s01_e01_c07_u007] Joey Tribbiani: What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!
+  [s01_e01_c07_u008] Ross Geller: I honestly don't know if I'm hungry or horny.
+  [s01_e01_c07_u009] Chandler Bing: Stay out of my freezer!
+","He urges understanding of his and Speaker_02’s perspective, acknowledges Speaker_01’s pain (“she ripped your heart out”) and frames their stance around it, which is straightforward and empathetic rather than combative.","Snaps “Stay out of TargetSpeaker freezer!”, asserting a hard boundary rather than being accommodating or generous.",,,

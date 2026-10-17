@@ -1,0 +1,39 @@
+event_id: s01_e06_c09_u001_e1
+utterance_id: s01_e06_c09_u001
+  tuple: ('bother', 'it/(unknown)', 'you', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e2
+utterance_id: s01_e06_c09_u001
+  tuple: ('go', 'you/(unknown)', 'out', 's01_e06_c09_u001')
+  tuple: ('get', 'you/(unknown)', 'the shoes', 's01_e06_c09_u001')
+  tuple: ('do', 'you/(unknown)', 'this', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e3
+utterance_id: s01_e06_c09_u001
+  tuple: ('be', 'This/(unknown)', 'stupid', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e4
+utterance_id: s01_e06_c09_u001
+  tuple: ('prove', 'I/(Monica Geller)', 'anything', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e5
+utterance_id: s01_e06_c09_u001
+  tuple: ('get', 'I/(Monica Geller)', 'them', 's01_e06_c09_u001')
+  tuple: ('go', 'I/(Monica Geller)', None, 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e6
+utterance_id: s01_e06_c09_u001
+  tuple: ('know', 'everyone', None, 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e7
+utterance_id: s01_e06_c09_u001
+  tuple: ('wake', 'I/(Monica Geller)', 'up', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e8
+utterance_id: s01_e06_c09_u001
+  tuple: ('put', 'I/(Monica Geller)', 'them back', 's01_e06_c09_u001')
+
+event_id: s01_e06_c09_u001_e9
+utterance_id: s01_e06_c09_u001
+  tuple: ('need', 'I/(Monica Geller)', 'help', 's01_e06_c09_u001')
+

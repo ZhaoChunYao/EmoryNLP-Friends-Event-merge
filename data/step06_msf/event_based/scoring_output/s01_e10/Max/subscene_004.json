@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of outgoing or reserved behavior; TargetSpeaker simply states a travel decision."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Says the trip won’t be the same without Speaker_04 (considerate) but proceeds anyway; no clear sign of generosity or uncooperativeness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "“Has decided to go to Minsk without Speaker_04” and “it will still be Minsk” show decisiveness and sticking to a plan."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and confidently about going alone, showing no anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Willing to travel to Minsk even without the companion, indicating adventurousness and openness to experience."
+  }
+}

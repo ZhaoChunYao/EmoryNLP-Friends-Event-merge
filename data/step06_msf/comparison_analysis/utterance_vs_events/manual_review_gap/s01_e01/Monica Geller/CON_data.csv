@@ -1,0 +1,107 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Monica Geller,subscene_009.json,CON,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c02
+Subscene index for speaker: 009
+Main speaker: Monica Geller
+UID span: s01_e01_c02_u026 → s01_e01_c02_u052
+Peak window: 22 → 39
+
+Dialogue:
+  [s01_e01_c02_u026]
+  1. Chandler Bing says someone should not do that again.
+  2. Chandler Bing says the sound that was just made is a horrible sound.
+  [s01_e01_c02_u027]
+  1. Paul the Wine Guy says his name is Paul.
+  [s01_e01_c02_u028]
+  1. Monica Geller says the time is 6:30.
+  2. Monica Geller says someone should buzz Paul the Wine Guy in.
+  [s01_e01_c02_u029]
+  1. Joey Tribbiani says, 'Who is Paul the Wine Guy?'
+  [s01_e01_c02_u030] Ross Geller: Paul the Wine Guy, Paul?
+  [s01_e01_c02_u031]
+  1. Joey Tribbiani says Monica Geller's 'not a real date' tonight is with Paul the Wine Guy.
+  [s01_e01_c02_u032]
+  1. Ross Geller says Paul the Wine Guy finally asked Monica Geller out.
+  [s01_e01_c02_u033] Monica Geller: Yes!
+  [s01_e01_c02_u034]
+  1. Chandler Bing says this moment is a 'Dear Diary' moment.
+  [s01_e01_c02_u035]
+  1. Monica Geller says Rachel Green should wait.
+  2. Monica Geller says Monica Geller can cancel the date with Paul the Wine Guy.
+  [s01_e01_c02_u036]
+  1. Rachel Green says Monica Geller should go on the date with Paul the Wine Guy.
+  2. Rachel Green says Monica Geller going on the date would be fine.
+  [s01_e01_c02_u037]
+  1. Monica Geller asks whether Rachel Green is okay.
+  2. Monica Geller asks whether Rachel Green wants Monica Geller to stay.
+  3. Monica Geller says Monica Geller can stay.
+  [s01_e01_c02_u038]
+  1. Ross Geller says Monica Geller staying would be good.
+  [s01_e01_c02_u039] Monica Geller: Really?
+  [s01_e01_c02_u040]
+  1. Ross Geller says Monica Geller should go on the date with Paul the Wine Guy.
+  2. Ross Geller says the person is Paul the Wine Guy.
+  [s01_e01_c02_u041]
+  1. Phoebe Buffay says she does not understand what the phrase 'Paul the Wine Guy' means.
+  2. Phoebe Buffay says Paul the Wine Guy might sell wine.
+  3. Phoebe Buffay says Paul the Wine Guy might drink wine.
+  4. Phoebe Buffay says Paul the Wine Guy might just complain a lot.
+  [s01_e01_c02_u042] Unknown Speaker: 
+  [s01_e01_c02_u043]
+  1. Monica Geller tells Paul the Wine Guy to come in.
+  2. Monica Geller says to Paul the Wine Guy, 'This is everybody.'
+  3. Monica Geller says to everybody, 'This is Paul the Wine Guy.'
+  [s01_e01_c02_u044] #ALL#: Hey! Paul! Hi! The Wine Guy! Hey!
+  [s01_e01_c02_u045]
+  1. Chandler Bing says Chandler Bing is sorry.
+  2. Chandler Bing says Chandler Bing did not catch Paul the Wine Guy's name.
+  3. Chandler Bing says Paul the Wine Guy's name is Paul.
+  [s01_e01_c02_u046]
+  1. Monica Geller says Monica Geller will be right back.
+  2. Monica Geller says Monica Geller has to go.
+  [s01_e01_c02_u047] Ross Geller: A wandering?
+  [s01_e01_c02_u048]
+  1. Monica Geller says Monica Geller will change.
+  2. Monica Geller tells Paul the Wine Guy to sit down.
+  [s01_e01_c02_u049]
+  1. Phoebe Buffay says Phoebe Buffay just pulled out four eyelashes.
+  2. Phoebe Buffay says pulling out four eyelashes cannot be good.
+  [s01_e01_c02_u050] Unknown Speaker: 
+  [s01_e01_c02_u051] Joey Tribbiani: Hey, Paul!
+  [s01_e01_c02_u052] Paul the Wine Guy: Yeah?
+","Episode: s01_e01
+Scene: s01_e01_c02
+Subscene index for speaker: 009
+Main speaker: Monica Geller
+UID span: s01_e01_c02_u026 → s01_e01_c02_u052
+Peak window: 22 → 39
+
+Dialogue:
+  [s01_e01_c02_u026] Chandler Bing: Please don't do that again, it's a horrible sound.
+  [s01_e01_c02_u027] Paul the Wine Guy: It's, uh, it's Paul.
+  [s01_e01_c02_u028] Monica Geller: Oh God, is it 6:30? Buzz him in!
+  [s01_e01_c02_u029] Joey Tribbiani: Who's Paul?
+  [s01_e01_c02_u030] Ross Geller: Paul the Wine Guy, Paul?
+  [s01_e01_c02_u031] Monica Geller: Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
+  [s01_e01_c02_u032] Ross Geller: He finally asked you out?
+  [s01_e01_c02_u033] Monica Geller: Yes!
+  [s01_e01_c02_u034] Chandler Bing: Ooh, this is a Dear Diary moment.
+  [s01_e01_c02_u035] Monica Geller: Rach, wait, I can cancel...
+  [s01_e01_c02_u036] Rachel Green: Please, no, go, that'd be fine!
+  [s01_e01_c02_u037] Monica Geller: Are, are you okay? I mean, do you want me to stay?
+  [s01_e01_c02_u038] Ross Geller: That'd be good...
+  [s01_e01_c02_u039] Monica Geller: Really?
+  [s01_e01_c02_u040] Ross Geller: No, go on! It's Paul the Wine Guy!
+  [s01_e01_c02_u041] Phoebe Buffay: What does that mean? Does he sell it, drink it, or just complain a lot?
+  [s01_e01_c02_u042] Unknown Speaker: 
+  [s01_e01_c02_u043] Monica Geller: Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul.
+  [s01_e01_c02_u044] #ALL#: Hey! Paul! Hi! The Wine Guy! Hey!
+  [s01_e01_c02_u045] Chandler Bing: I'm sorry, I didn't catch your name. Paul, was it?
+  [s01_e01_c02_u046] Monica Geller: Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah...
+  [s01_e01_c02_u047] Ross Geller: A wandering?
+  [s01_e01_c02_u048] Monica Geller: Change! Okay, sit down. Two seconds.
+  [s01_e01_c02_u049] Phoebe Buffay: Ooh, I just pulled out four eyelashes. That can't be good.
+  [s01_e01_c02_u050] Unknown Speaker: 
+  [s01_e01_c02_u051] Joey Tribbiani: Hey, Paul!
+  [s01_e01_c02_u052] Paul the Wine Guy: Yeah?
+","She is time-aware and organized—states it’s 6:30 and coordinates buzzing Paul in (u028), then promptly plans to change and directs Paul to sit (u046–u048).","Surprised by the time and unprepared, rushing to change after the guest arrives (“Oh God, is it 6:30?… I’ll be right back… Change! Two seconds.”).",,,

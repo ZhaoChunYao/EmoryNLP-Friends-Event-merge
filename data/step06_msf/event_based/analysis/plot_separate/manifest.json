@@ -1,0 +1,53 @@
+{
+  "input_root": "big_five_output_anon",
+  "output_dir": "analysis\\plot_separate",
+  "characters": [
+    "rachel",
+    "ross",
+    "joey",
+    "chandler",
+    "monica",
+    "phoebe"
+  ],
+  "traits": [
+    "EXT",
+    "AGR",
+    "CON",
+    "NEU",
+    "OPN"
+  ],
+  "total_records": 1246,
+  "total_plots_written": 30,
+  "files_written": [
+    "chandler\\chandler_AGR.png",
+    "chandler\\chandler_CON.png",
+    "chandler\\chandler_EXT.png",
+    "chandler\\chandler_NEU.png",
+    "chandler\\chandler_OPN.png",
+    "joey\\joey_AGR.png",
+    "joey\\joey_CON.png",
+    "joey\\joey_EXT.png",
+    "joey\\joey_NEU.png",
+    "joey\\joey_OPN.png",
+    "monica\\monica_AGR.png",
+    "monica\\monica_CON.png",
+    "monica\\monica_EXT.png",
+    "monica\\monica_NEU.png",
+    "monica\\monica_OPN.png",
+    "phoebe\\phoebe_AGR.png",
+    "phoebe\\phoebe_CON.png",
+    "phoebe\\phoebe_EXT.png",
+    "phoebe\\phoebe_NEU.png",
+    "phoebe\\phoebe_OPN.png",
+    "rachel\\rachel_AGR.png",
+    "rachel\\rachel_CON.png",
+    "rachel\\rachel_EXT.png",
+    "rachel\\rachel_NEU.png",
+    "rachel\\rachel_OPN.png",
+    "ross\\ross_AGR.png",
+    "ross\\ross_CON.png",
+    "ross\\ross_EXT.png",
+    "ross\\ross_NEU.png",
+    "ross\\ross_OPN.png"
+  ]
+}

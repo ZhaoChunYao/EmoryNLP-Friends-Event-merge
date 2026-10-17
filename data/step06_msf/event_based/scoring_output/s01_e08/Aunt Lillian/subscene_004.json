@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, task-focused remarks and does not display notably talkative or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They state preferences matter-of-factly without showing hostility or unusually cooperative/conciliatory behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They specify clear requirements—asking for a slimmer heel (u012) and insisting the color be burgundy (u014)—showing attention to detail and standards."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or emotional volatility are shown."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "They reject the alternative silver option and insist the color should be burgundy (u014), indicating low willingness to try alternatives."
+  }
+}

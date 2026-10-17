@@ -1,0 +1,493 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c04_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'you/(Rachel Green)', 'my nipples', 's01_e15_c04_u001')",
+            "('see', 'you/(Rachel Green)', 'through this shirt', 's01_e15_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u002",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('worry', 'you/(Chandler Bing)', None, 's01_e15_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'sure', 's01_e15_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'they/(Chandler Bing’s nipples)', 'there', 's01_e15_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'you/(Chandler Bing)', None, 's01_e15_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'an appointment to see Dr. Robert Pillman, career counselor a-gogo', 's01_e15_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('see', 'I/(Chandler Bing)', 'Dr. Robert Pillman', 's01_e15_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('add', 'I/(Chandler Bing)', 'the \"a-gogo.\"', 's01_e15_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you guys/(friends in the living room)', 'what you want to do', 's01_e15_c04_u006')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('want', 'you/(friends in the living room)', 'to do', 's01_e15_c04_u006')",
+            "('do', 'you/(friends in the living room)', 'what', 's01_e15_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', None, 's01_e15_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u008",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you guys in the living room/(friends in the living room)', 'what you want to do', 's01_e15_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('know', 'you/(friends in the living room)', None, 's01_e15_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('have', 'you/(friends in the living room)', 'goals', 's01_e15_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('have', 'you/(friends in the living room)', 'dreams', 's01_e15_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'a dream', 's01_e15_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('love', 'I/(Monica Geller)', 'my life', 's01_e15_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u013",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'the meeting with the guy', 'great', 's01_e15_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u014",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('show', 'he/(the guy Monica met)', \"where the restaurant's going to be\", 's01_e15_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'the restaurant', None, 's01_e15_c04_u014')",
+            "('be', 'it/(the restaurant location)', 'this cute little place', 's01_e15_c04_u014')",
+            "('be', 'it/(the restaurant location)', 'on 10th Street', 's01_e15_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u015",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('own', 'it/(the place)', None, 's01_e15_c04_u015')",
+            "('own', 'it/(the place)', 'by a blonde woman', 's01_e15_c04_u015')",
+            "('own', 'it/(the place)', 'by some bears', 's01_e15_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u016",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('cook', 'I/(Monica Geller)', 'dinner', 's01_e15_c04_u016')",
+            "('cook', 'I/(Monica Geller)', 'for him', 's01_e15_c04_u016')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('want', 'he/(the guy Monica met)', 'you/(Phoebe Buffay) to be here', 's01_e15_c04_u016')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'here', 's01_e15_c04_u016')",
+            "('be', 'which/(Phoebe being here)', 'great', 's01_e15_c04_u016')",
+            "('be', 'which/(Phoebe being here)', 'for me', 's01_e15_c04_u016')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('ooh', 'you/(Phoebe Buffay)', None, 's01_e15_c04_u016')",
+            "('ahh', 'you/(Phoebe Buffay)', None, 's01_e15_c04_u016')",
+            "('make', 'you/(Phoebe Buffay)', 'yummy noises', 's01_e15_c04_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u017",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('make', 'you/(Monica Geller)', 'what', 's01_e15_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u020",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/(Monica Geller)', None, 's01_e15_c04_u020')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'it/(the Monday dinner audition)', 'so great', 's01_e15_c04_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u021",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/(Phoebe Buffay)', 'what you could make', 's01_e15_c04_u021')",
+            "('know', 'I/(Phoebe Buffay)', None, 's01_e15_c04_u021')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('make', 'you/(Monica Geller)', None, 's01_e15_c04_u021')",
+            "('make', 'you/(Monica Geller)', 'that thing', 's01_e15_c04_u021')",
+            "('make', 'you/(Monica Geller)', 'with the stuff', 's01_e15_c04_u021')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('know', 'you/(Monica Geller)', None, 's01_e15_c04_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u022",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'anybody', 'a good date place in the neighborhood', 's01_e15_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u023",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('finish', 'you/(Ross Geller)', 'a 32-ounce steak', 's01_e15_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'it/(the 32-ounce steak at Tony’s)', 'free', 's01_e15_c04_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u024",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'anybody', 'a good place', 's01_e15_c04_u024')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('date', 'you/(generic)', 'a puma', 's01_e15_c04_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u025",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go out', 'you/(Ross Geller)', 'with who', 's01_e15_c04_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u026",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'this/(Ross’s date)', 'the bug lady', 's01_e15_c04_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u027",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('love', 'I/(Rachel Green)', 'you/(Ross Geller)', 's01_e15_c04_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u028",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'her name/(Ross’s date)', 'Celia', 's01_e15_c04_u028')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'she/(Celia)', 'a bug lady', 's01_e15_c04_u028')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'she/(Celia)', 'curator', 's01_e15_c04_u028')",
+            "('be', 'she/(Celia)', 'of insects', 's01_e15_c04_u028')",
+            "('be', 'she/(Celia)', 'at the museum', 's01_e15_c04_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u029",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('do', 'you guys/(Ross Geller and Celia)', 'what', 's01_e15_c04_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u030",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', \"we could go out to dinner and then maybe bring her back to my place and I'd introduce her to my monkey\", 's01_e15_c04_u030')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('go out', 'we/(Ross Geller and Celia)', 'to dinner', 's01_e15_c04_u030')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('bring', 'I/(Ross Geller)', 'her/(Celia)', 's01_e15_c04_u030')",
+            "('bring', 'I/(Ross Geller)', 'to my place', 's01_e15_c04_u030')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('introduce', 'I/(Ross Geller)', 'her/(Celia)', 's01_e15_c04_u030')",
+            "('introduce', 'I/(Ross Geller)', 'to my monkey', 's01_e15_c04_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u031",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('speak', 'he/(Ross Geller)', 'metaphorically', 's01_e15_c04_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u032",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'you/(Ross Geller)', None, 's01_e15_c04_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u033",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e15_c04_u033')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('hope', 'I/(Ross Geller)', None, 's01_e15_c04_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c04_u034",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('tell', 'I/(Joey Tribbiani)', 'you/(Ross Geller)', 's01_e15_c04_u034')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'that monkey/(Marcel)', 'a chick magnet', 's01_e15_c04_u034')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('take', 'she/(Celia)', 'one look', 's01_e15_c04_u034')",
+            "('take', 'she/(Celia)', 'at his furry, cute little face', 's01_e15_c04_u034')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('seal', 'it/(that look)', 'the deal', 's01_e15_c04_u034')"
+          ]
+        }
+      ]
+    }
+  ]
+}

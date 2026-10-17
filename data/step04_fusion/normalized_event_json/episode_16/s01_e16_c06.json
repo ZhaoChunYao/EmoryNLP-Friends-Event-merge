@@ -1,0 +1,198 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u002_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'late', 's01_e16_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u002_e2",
+          "tuples": [
+            "('be', 'Carol', None, 's01_e16_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u003_e1",
+          "tuples": [
+            "('be', 'Carol', 'stuck at school', 's01_e16_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u003_e2",
+          "tuples": [
+            "('go', 'you/Ross Geller', None, 's01_e16_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u003_e3",
+          "tuples": [
+            "('get', 'I/Susan Bunch', 'the information', 's01_e16_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u004_e1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'I should stay', 's01_e16_c06_u004')",
+            "('stay', 'I/Ross Geller', None, 's01_e16_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u004_e2",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'we should both know whats going on', 's01_e16_c06_u004')",
+            "('know', 'we/(Ross Geller+Susan Bunch)', 'whats going on', 's01_e16_c06_u004')",
+            "('go', 'what', 'on', 's01_e16_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u005_e1",
+          "tuples": [
+            "('be', 'this', 'fun', 's01_e16_c06_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u006_e1",
+          "tuples": [
+            "('start', 'we/(Teacher+class)', 'with some basic third stage breathing exercises', 's01_e16_c06_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u006_e2",
+          "tuples": [
+            "('get', 'you/(Mommies)', 'on your back', 's01_e16_c06_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u006_e3",
+          "tuples": [
+            "('support', 'you/(coaches)', 'Mummys head', 's01_e16_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u009_e1",
+          "tuples": [
+            "('suppose', 'I/Susan Bunch', 'to be the mommy', 's01_e16_c06_u009')",
+            "('be', 'I/Susan Bunch', 'the mommy', 's01_e16_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u010_e1",
+          "tuples": [
+            "('play', 'I/Ross Geller', 'my sperm card', 's01_e16_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u011_e1",
+          "tuples": [
+            "('see', 'I/Susan Bunch', 'why I should have to miss out on the coaching training just because Im a woman', 's01_e16_c06_u011')",
+            "('miss out', 'I/Susan Bunch', 'on the coaching training', 's01_e16_c06_u011')",
+            "('be', 'I/Susan Bunch', 'a woman', 's01_e16_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u012",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u012_e1",
+          "tuples": [
+            "('see', 'I/Ross Geller', None, 's01_e16_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c06_u012_e2",
+          "tuples": [
+            "('propose', 'you/Susan Bunch', 'to do', 's01_e16_c06_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u013_e1",
+          "tuples": [
+            "('flip', 'I/Susan Bunch', 'you', 's01_e16_c06_u013')",
+            "('flip', 'I/Susan Bunch', 'for it', 's01_e16_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u014_e1",
+          "tuples": [
+            "('flip', 'you/Ross Geller', 'me', 's01_e16_c06_u014')",
+            "('flip', 'you/Ross Geller', 'for it', 's01_e16_c06_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u017",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u017_e1",
+          "tuples": [
+            "('take', 'Mommies', 'a nice deep cleansing breath', 's01_e16_c06_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c06_u019",
+      "events": [
+        {
+          "event_id": "s01_e16_c06_u019_e1",
+          "tuples": [
+            "('imagine', 'you/(Mommies)', 'your vagina is opening like a flower', 's01_e16_c06_u019')",
+            "('open', 'your vagina', 'like a flower', 's01_e16_c06_u019')"
+          ]
+        }
+      ]
+    }
+  ]
+}

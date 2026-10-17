@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up assertively in a group, interjecting and repeatedly asserting a decision (“Hello? It’s not gonna be Speaker_02.”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "States the decision plainly and transparently, explaining there was prior discussion with others (“we talked about Speaker_02”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "References and upholds a prior discussion/decision, indicating planning and follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confident, firm “No” responses with no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses the option outright and repeats that it won’t happen, showing little openness to alternatives."
+  }
+}

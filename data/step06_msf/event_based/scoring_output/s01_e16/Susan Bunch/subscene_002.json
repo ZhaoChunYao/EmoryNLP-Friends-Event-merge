@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Makes a brief correction ('Carol, not me.') and a simple reassurance ('we're fine') without clear signs of being outgoing or notably reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely corrects a misunderstanding and then reassures others ('we're fine'), aiming to smooth over tension—straightforward and cooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization or diligence; only a correction and a reassurance."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly reassures the group ('we're fine'), showing composure rather than anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, or rigid dogmatism."
+  }
+}

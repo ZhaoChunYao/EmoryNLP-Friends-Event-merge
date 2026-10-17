@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively jokes and performs lines (“Look, Speaker_01, TargetSpeaker'm a real live Speaker_01.” and continues with a song), engaging energetically in the banter."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After Speaker_01 says they will not take this abuse, TargetSpeaker says “You're right, I'm sorry” but immediately continues the teasing song, showing playful but unaccommodating sarcasm."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Only casual teasing is shown; no indications of organization or reliability/irresponsibility."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker displays confident, carefree joking without signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a creative Pinocchio reference and improvises a playful song, indicating imaginative, playful behavior."
+  }
+}

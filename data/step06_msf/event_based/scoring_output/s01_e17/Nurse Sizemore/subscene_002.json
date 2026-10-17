@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks “Why?” and makes a blunt comment; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker calls Speaker_01 an idiot, showing rudeness and low cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization or carelessness regarding tasks."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, anxiety, or notable calmness are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a brief “Why?” there is no evidence of curiosity or openness to new ideas."
+  }
+}

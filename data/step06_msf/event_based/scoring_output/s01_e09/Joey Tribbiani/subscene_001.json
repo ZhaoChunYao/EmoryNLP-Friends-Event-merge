@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group with an energetic “Hey, hey” and makes a bold public announcement about being an actor and model, showing outgoing, attention-seeking behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Self-promotional claim of being “now an actor and model” comes off as boastful rather than modest or accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization, diligence, or carelessness is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently declares new roles without any sign of nervousness or sensitivity to others’ reactions."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Wearing makeup and identifying as an actor/model suggests artistic experimentation and curiosity."
+  }
+}

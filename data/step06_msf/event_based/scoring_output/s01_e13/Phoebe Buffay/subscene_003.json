@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group and takes the lead in addressing everyone about a dinner invitation, initiating group interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Communicates Speaker_02’s request plainly and politely asks the group what’s going on, showing a cooperative, straightforward approach."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Fulfills a coordinating task by relaying plans and inviting multiple people to a dinner gathering."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional volatility; tone is matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Beyond a basic inquiry about what’s happening, there’s no clear behavior indicating curiosity about ideas or unconventional thinking."
+  }
+}

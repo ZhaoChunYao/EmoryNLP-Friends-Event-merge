@@ -1,0 +1,45 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e15_c05_u001_event_1",
+          "tuples": [
+            "('worry', 'Celia', None, 's01_e15_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c05_u001_event_2",
+          "tuples": [
+            "('scream', 'Celia', None, 's01_e15_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c05_u001_event_3",
+          "tuples": [
+            "('hurt', 'He/Marcel', 'you', 's01_e15_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e15_c05_u002_event_1",
+          "tuples": [
+            "('stand', 'I/Celia', 'this', 's01_e15_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c05_u002_event_2",
+          "tuples": [
+            "('get', 'He/Marcel', 'his claws', 's01_e15_c05_u002')",
+            "('get', 'He/Marcel', 'in my...', 's01_e15_c05_u002')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+('help', '#ALL#', None, 's01_e23_c09_u001')
+[s01_e23_c09_u001] #ALL#: Help!
+
+('have', 'Ross Geller', 'baby', 's01_e23_c09_u002')
+[s01_e23_c09_u002] Ross Geller: I'm having a baby in here! Ok, everyone stand back. Ow.
+
+('have', 'Ross Geller', 'in here', 's01_e23_c09_u002')
+[s01_e23_c09_u002] Ross Geller: I'm having a baby in here! Ok, everyone stand back. Ow.
+
+('stand back', 'everyone', None, 's01_e23_c09_u002')
+[s01_e23_c09_u002] Ross Geller: I'm having a baby in here! Ok, everyone stand back. Ow.
+

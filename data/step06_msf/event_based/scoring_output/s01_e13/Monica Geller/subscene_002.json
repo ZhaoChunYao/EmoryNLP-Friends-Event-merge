@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly asks to return to a point and makes one assertion; no clear sign of being outgoing or energetic."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker confronts Speaker_01 by saying he thinks TargetSpeaker is a failure, showing suspicion and a confrontational tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, or carelessness are shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "By stating that Speaker_01 thinks they are a failure, TargetSpeaker reveals insecurity and sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker asks to go back to the point about the sibling issue, showing curiosity and willingness to explore psychological explanations."
+  }
+}

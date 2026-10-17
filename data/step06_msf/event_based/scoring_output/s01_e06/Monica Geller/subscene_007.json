@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and functionally, sets a boundary (“don’t tell me what you do in the bathroom”) and doesn’t engage in social small talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Grants permission generously (“use whatever items you want”) and protects another’s privacy by directing someone not to enter the occupied bathroom."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Manages bathroom access responsibly, gives clear instructions and a warning, and follows up (“I warned you about entering the bathroom”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows calm, firm control and sets boundaries without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asks “For what?” showing momentary curiosity, but then declines details (“don’t tell me what you do”), with no other signs of imagination or openness."
+  }
+}

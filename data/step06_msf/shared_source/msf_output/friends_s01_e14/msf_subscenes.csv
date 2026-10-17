@@ -1,0 +1,542 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e14,s01_e14_c01,Chandler Bing,0,8,8,7,9,2,s01_e14_c01_u008,s01_e14_c01_u014,"[s01_e14_c01_u008] Ross Geller: Hey.
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+[s01_e14_c01_u014] Ross Geller: I think it's insane."
+s01_e14,s01_e14_c01,Chandler Bing,1,10,12,9,12,3,s01_e14_c01_u010,s01_e14_c01_u018,"[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend.
+[s01_e14_c01_u016] Unknown Speaker: 
+[s01_e14_c01_u017] Joey Tribbiani: Think it'll work?
+[s01_e14_c01_u018] Chandler Bing: No, it's suicide. The man's got an egg."
+s01_e14,s01_e14_c01,Joey Tribbiani,0,0,0,0,1,2,s01_e14_c01_u001,s01_e14_c01_u006,"[s01_e14_c01_u001] Joey Tribbiani: I'm tellin' you Ross, she wants you.
+[s01_e14_c01_u002] Ross Geller: She barely knows me. We just live in the same building.
+[s01_e14_c01_u003] Chandler Bing: Any contact?
+[s01_e14_c01_u004] Ross Geller: She lent me an egg once.
+[s01_e14_c01_u005] Joey Tribbiani: You're in!
+[s01_e14_c01_u006] Ross Geller: Aw, right."
+s01_e14,s01_e14_c01,Joey Tribbiani,1,7,9,6,10,2,s01_e14_c01_u007,s01_e14_c01_u015,"[s01_e14_c01_u007] Woman: Hi, Ross.
+[s01_e14_c01_u008] Ross Geller: Hey.
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend."
+s01_e14,s01_e14_c01,Joey Tribbiani,2,11,11,10,12,2,s01_e14_c01_u011,s01_e14_c01_u018,"[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend.
+[s01_e14_c01_u016] Unknown Speaker: 
+[s01_e14_c01_u017] Joey Tribbiani: Think it'll work?
+[s01_e14_c01_u018] Chandler Bing: No, it's suicide. The man's got an egg."
+s01_e14,s01_e14_c01,Ross Geller,0,0,7,0,8,3,s01_e14_c01_u001,s01_e14_c01_u013,"[s01_e14_c01_u001] Joey Tribbiani: I'm tellin' you Ross, she wants you.
+[s01_e14_c01_u002] Ross Geller: She barely knows me. We just live in the same building.
+[s01_e14_c01_u003] Chandler Bing: Any contact?
+[s01_e14_c01_u004] Ross Geller: She lent me an egg once.
+[s01_e14_c01_u005] Joey Tribbiani: You're in!
+[s01_e14_c01_u006] Ross Geller: Aw, right.
+[s01_e14_c01_u007] Woman: Hi, Ross.
+[s01_e14_c01_u008] Ross Geller: Hey.
+[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning."
+s01_e14,s01_e14_c01,Ross Geller,1,9,10,8,11,2,s01_e14_c01_u009,s01_e14_c01_u017,"[s01_e14_c01_u009] Chandler Bing: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
+[s01_e14_c01_u010] Joey Tribbiani: Excuse me, could we get an egg over here, still in the shell? Thanks.
+[s01_e14_c01_u011] Ross Geller: An egg?
+[s01_e14_c01_u012] Joey Tribbiani: Yeah, you're gonna go up to her and say, ""Here's your egg back, I'm returning your egg.""
+[s01_e14_c01_u013] Chandler Bing: I think it's winning.
+[s01_e14_c01_u014] Ross Geller: I think it's insane.
+[s01_e14_c01_u015] Chandler Bing: She'll love it. Go with the egg, my friend.
+[s01_e14_c01_u016] Unknown Speaker: 
+[s01_e14_c01_u017] Joey Tribbiani: Think it'll work?"
+s01_e14,s01_e14_c02,Chandler Bing,0,6,9,5,9,2,s01_e14_c02_u006,s01_e14_c02_u014,"[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+[s01_e14_c02_u007] Rachel Green: Well, what are you guys doing tomorrow night?
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes.
+[s01_e14_c02_u009] Chandler Bing: Oh, uh, listen, about tonight...
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+[s01_e14_c02_u011] Chandler Bing: Yes, I know, but her friend sounds like such a...
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+[s01_e14_c02_u013] Ross Geller: Hi. She said yes.
+[s01_e14_c02_u014] Chandler Bing: Yes! Way to go, man! Still got the egg, huh?"
+s01_e14,s01_e14_c02,Joey Tribbiani,0,5,9,4,9,3,s01_e14_c02_u005,s01_e14_c02_u014,"[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+[s01_e14_c02_u007] Rachel Green: Well, what are you guys doing tomorrow night?
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes.
+[s01_e14_c02_u009] Chandler Bing: Oh, uh, listen, about tonight...
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+[s01_e14_c02_u011] Chandler Bing: Yes, I know, but her friend sounds like such a...
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+[s01_e14_c02_u013] Ross Geller: Hi. She said yes.
+[s01_e14_c02_u014] Chandler Bing: Yes! Way to go, man! Still got the egg, huh?"
+s01_e14,s01_e14_c02,Monica Geller,0,0,2,0,3,2,s01_e14_c02_u001,s01_e14_c02_u008,"[s01_e14_c02_u001] Monica Geller: You can not do this.
+[s01_e14_c02_u002] Rachel Green: Do what, do what?
+[s01_e14_c02_u003] Monica Geller: Roger wants to take her out tomorrow night.
+[s01_e14_c02_u004] Rachel Green: No! Phoebes! Don't you remember why you dumped the guy?
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+[s01_e14_c02_u007] Rachel Green: Well, what are you guys doing tomorrow night?
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes."
+s01_e14,s01_e14_c02,Rachel Green,0,0,3,0,4,2,s01_e14_c02_u001,s01_e14_c02_u009,"[s01_e14_c02_u001] Monica Geller: You can not do this.
+[s01_e14_c02_u002] Rachel Green: Do what, do what?
+[s01_e14_c02_u003] Monica Geller: Roger wants to take her out tomorrow night.
+[s01_e14_c02_u004] Rachel Green: No! Phoebes! Don't you remember why you dumped the guy?
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+[s01_e14_c02_u007] Rachel Green: Well, what are you guys doing tomorrow night?
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes.
+[s01_e14_c02_u009] Chandler Bing: Oh, uh, listen, about tonight..."
+s01_e14,s01_e14_c03,Chandler Bing,0,0,3,0,3,3,s01_e14_c03_u001,s01_e14_c03_u009,"[s01_e14_c03_u001] Joey Tribbiani: How do I look?
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+[s01_e14_c03_u003] Lorraine: Hi, Joey. Well well, look what you brought. Very nice.
+[s01_e14_c03_u004] Chandler Bing: ...And what did you bring?
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+[s01_e14_c03_u006] Chandler Bing: Janice?
+[s01_e14_c03_u007] Unknown Speaker: 
+[s01_e14_c03_u008] Janice Litman Goralnik: Oh.... my.... God.
+[s01_e14_c03_u009] Chandler Bing: Hey, it's Janice."
+s01_e14,s01_e14_c03,Lorraine,0,0,2,0,3,2,s01_e14_c03_u001,s01_e14_c03_u009,"[s01_e14_c03_u001] Joey Tribbiani: How do I look?
+[s01_e14_c03_u002] Chandler Bing: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.
+[s01_e14_c03_u003] Lorraine: Hi, Joey. Well well, look what you brought. Very nice.
+[s01_e14_c03_u004] Chandler Bing: ...And what did you bring?
+[s01_e14_c03_u005] Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.
+[s01_e14_c03_u006] Chandler Bing: Janice?
+[s01_e14_c03_u007] Unknown Speaker: 
+[s01_e14_c03_u008] Janice Litman Goralnik: Oh.... my.... God.
+[s01_e14_c03_u009] Chandler Bing: Hey, it's Janice."
+s01_e14,s01_e14_c04,Chandler Bing,0,0,0,0,0,3,s01_e14_c04_u001,s01_e14_c04_u005,"[s01_e14_c04_u001] Chandler Bing: Ok, I'm makin' a break for it, I'm goin' out the window.
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!"
+s01_e14,s01_e14_c04,Joey Tribbiani,0,0,0,0,0,2,s01_e14_c04_u001,s01_e14_c04_u005,"[s01_e14_c04_u001] Chandler Bing: Ok, I'm makin' a break for it, I'm goin' out the window.
+[s01_e14_c04_u002] Joey Tribbiani: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
+[s01_e14_c04_u003] Chandler Bing: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!
+[s01_e14_c04_u004] Joey Tribbiani: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.
+[s01_e14_c04_u005] Chandler Bing: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!"
+s01_e14,s01_e14_c05,Monica Geller,0,0,5,0,6,3,s01_e14_c05_u001,s01_e14_c05_u011,"[s01_e14_c05_u001] Rachel Green: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.
+[s01_e14_c05_u002] Monica Geller: Which one was Pete Carney?
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. ""Was it good for you?""
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-""I-win""-guy. ""I win! I win!"" I went out with the guy for two monthsI didn't get to win once.
+[s01_e14_c05_u005] Rachel Green: How did we end up with these jerks? We're good people!
+[s01_e14_c05_u006] Monica Geller: I don't know. Maybe we're some kinda magnets.
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+[s01_e14_c05_u008] Monica Geller: There's more beer, right?
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+[s01_e14_c05_u010] Rachel Green: Pheebes, this woman is voluntarily bald.
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect."
+s01_e14,s01_e14_c05,Monica Geller,1,7,7,6,8,2,s01_e14_c05_u007,s01_e14_c05_u013,"[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+[s01_e14_c05_u008] Monica Geller: There's more beer, right?
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+[s01_e14_c05_u010] Rachel Green: Pheebes, this woman is voluntarily bald.
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+[s01_e14_c05_u012] Monica Geller: Ok, well, what kind of ritual?
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us."
+s01_e14,s01_e14_c05,Monica Geller,2,11,11,10,12,2,s01_e14_c05_u011,s01_e14_c05_u017,"[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+[s01_e14_c05_u012] Monica Geller: Ok, well, what kind of ritual?
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+[s01_e14_c05_u014] Rachel Green: Or?
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+[s01_e14_c05_u016] Monica Geller: Burning's good.
+[s01_e14_c05_u017] Rachel Green: Burning's good. Yeah, I got stuff to burn."
+s01_e14,s01_e14_c05,Phoebe Buffay,0,4,12,3,12,3,s01_e14_c05_u004,s01_e14_c05_u017,"[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-""I-win""-guy. ""I win! I win!"" I went out with the guy for two monthsI didn't get to win once.
+[s01_e14_c05_u005] Rachel Green: How did we end up with these jerks? We're good people!
+[s01_e14_c05_u006] Monica Geller: I don't know. Maybe we're some kinda magnets.
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+[s01_e14_c05_u008] Monica Geller: There's more beer, right?
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+[s01_e14_c05_u010] Rachel Green: Pheebes, this woman is voluntarily bald.
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+[s01_e14_c05_u012] Monica Geller: Ok, well, what kind of ritual?
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+[s01_e14_c05_u014] Rachel Green: Or?
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+[s01_e14_c05_u016] Monica Geller: Burning's good.
+[s01_e14_c05_u017] Rachel Green: Burning's good. Yeah, I got stuff to burn."
+s01_e14,s01_e14_c05,Rachel Green,0,0,2,0,3,3,s01_e14_c05_u001,s01_e14_c05_u008,"[s01_e14_c05_u001] Rachel Green: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.
+[s01_e14_c05_u002] Monica Geller: Which one was Pete Carney?
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. ""Was it good for you?""
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-""I-win""-guy. ""I win! I win!"" I went out with the guy for two monthsI didn't get to win once.
+[s01_e14_c05_u005] Rachel Green: How did we end up with these jerks? We're good people!
+[s01_e14_c05_u006] Monica Geller: I don't know. Maybe we're some kinda magnets.
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+[s01_e14_c05_u008] Monica Geller: There's more beer, right?"
+s01_e14,s01_e14_c05,Rachel Green,1,9,9,8,10,2,s01_e14_c05_u009,s01_e14_c05_u015,"[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+[s01_e14_c05_u010] Rachel Green: Pheebes, this woman is voluntarily bald.
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+[s01_e14_c05_u012] Monica Geller: Ok, well, what kind of ritual?
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+[s01_e14_c05_u014] Rachel Green: Or?
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks."
+s01_e14,s01_e14_c05,Rachel Green,2,12,12,11,12,2,s01_e14_c05_u012,s01_e14_c05_u017,"[s01_e14_c05_u012] Monica Geller: Ok, well, what kind of ritual?
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+[s01_e14_c05_u014] Rachel Green: Or?
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+[s01_e14_c05_u016] Monica Geller: Burning's good.
+[s01_e14_c05_u017] Rachel Green: Burning's good. Yeah, I got stuff to burn."
+s01_e14,s01_e14_c06,Chandler Bing,0,2,3,1,4,2,s01_e14_c06_u002,s01_e14_c06_u011,"[s01_e14_c06_u002] Joey Tribbiani: Good for you. Uh, quarters or rolls of quarters?
+[s01_e14_c06_u003] Janice Litman Goralnik: By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.
+[s01_e14_c06_u004] Chandler Bing: That's OK.
+[s01_e14_c06_u005] Janice Litman Goralnik: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.
+[s01_e14_c06_u006] Unknown Speaker: 
+[s01_e14_c06_u007] Joey Tribbiani: We can't do that.
+[s01_e14_c06_u008] Chandler Bing: What? What can't you do?
+[s01_e14_c06_u009] Joey Tribbiani: Uh, can I talk to you for a second, over there?
+[s01_e14_c06_u010] Unknown Speaker: 
+[s01_e14_c06_u011] Joey Tribbiani: Uh, we might be leaving now."
+s01_e14,s01_e14_c06,Chandler Bing,1,5,9,4,10,2,s01_e14_c06_u005,s01_e14_c06_u017,"[s01_e14_c06_u005] Janice Litman Goralnik: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.
+[s01_e14_c06_u006] Unknown Speaker: 
+[s01_e14_c06_u007] Joey Tribbiani: We can't do that.
+[s01_e14_c06_u008] Chandler Bing: What? What can't you do?
+[s01_e14_c06_u009] Joey Tribbiani: Uh, can I talk to you for a second, over there?
+[s01_e14_c06_u010] Unknown Speaker: 
+[s01_e14_c06_u011] Joey Tribbiani: Uh, we might be leaving now.
+[s01_e14_c06_u012] Chandler Bing: Tell me it's ""you and me"" we.
+[s01_e14_c06_u013] Joey Tribbiani: She said she wants to slather my body with stuff and then lick it off. I'm not even sure what slathering is, but I definitely want to be a part of it.
+[s01_e14_c06_u014] Chandler Bing: Ok, you can not do this to me.
+[s01_e14_c06_u015] Joey Tribbiani: You're right, I'm sorry. You're right.
+[s01_e14_c06_u016] Lorraine: Uh, can we have three chocolate mousses to go please?
+[s01_e14_c06_u017] Joey Tribbiani: I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler."
+s01_e14,s01_e14_c06,Chandler Bing,2,11,22,10,22,3,s01_e14_c06_u013,s01_e14_c06_u030,"[s01_e14_c06_u013] Joey Tribbiani: She said she wants to slather my body with stuff and then lick it off. I'm not even sure what slathering is, but I definitely want to be a part of it.
+[s01_e14_c06_u014] Chandler Bing: Ok, you can not do this to me.
+[s01_e14_c06_u015] Joey Tribbiani: You're right, I'm sorry. You're right.
+[s01_e14_c06_u016] Lorraine: Uh, can we have three chocolate mousses to go please?
+[s01_e14_c06_u017] Joey Tribbiani: I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler.
+[s01_e14_c06_u018] Chandler Bing: I hope she throws up on you.
+[s01_e14_c06_u019] Unknown Speaker: 
+[s01_e14_c06_u020] Chandler Bing: So...
+[s01_e14_c06_u021] Janice Litman Goralnik: Just us.
+[s01_e14_c06_u022] Chandler Bing: Oh, what a crappy night!
+[s01_e14_c06_u023] Janice Litman Goralnik: Although, I have enjoyed the fact that, uh your shirt's been stickin' outta your zipper ever since you came back from the bathroom.
+[s01_e14_c06_u024] Chandler Bing: Excuse me. How ya doin'?
+[s01_e14_c06_u025] Janice Litman Goralnik: So, do we have the best friends or what?
+[s01_e14_c06_u026] Chandler Bing: Joey's not a friend. He's...a stupid man who left us his credit card. Another drink? Some dessert? A big screen TV?
+[s01_e14_c06_u027] Janice Litman Goralnik: I will go for that drink.
+[s01_e14_c06_u028] Chandler Bing: You got it. Good woman! Could we get a bottle of your most overpriced champagne?
+[s01_e14_c06_u029] Janice Litman Goralnik: Each.
+[s01_e14_c06_u030] Chandler Bing: That's right, each. Oh, and a uh Rob Roy. I've always wanted to know..."
+s01_e14,s01_e14_c06,Janice Litman Goralnik,0,0,2,0,3,2,s01_e14_c06_u001,s01_e14_c06_u009,"[s01_e14_c06_u001] Lorraine: You know, ever since I was little, I've been able to pick up quarters with my toes.
+[s01_e14_c06_u002] Joey Tribbiani: Good for you. Uh, quarters or rolls of quarters?
+[s01_e14_c06_u003] Janice Litman Goralnik: By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.
+[s01_e14_c06_u004] Chandler Bing: That's OK.
+[s01_e14_c06_u005] Janice Litman Goralnik: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.
+[s01_e14_c06_u006] Unknown Speaker: 
+[s01_e14_c06_u007] Joey Tribbiani: We can't do that.
+[s01_e14_c06_u008] Chandler Bing: What? What can't you do?
+[s01_e14_c06_u009] Joey Tribbiani: Uh, can I talk to you for a second, over there?"
+s01_e14,s01_e14_c06,Janice Litman Goralnik,1,15,22,14,22,3,s01_e14_c06_u017,s01_e14_c06_u030,"[s01_e14_c06_u017] Joey Tribbiani: I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler.
+[s01_e14_c06_u018] Chandler Bing: I hope she throws up on you.
+[s01_e14_c06_u019] Unknown Speaker: 
+[s01_e14_c06_u020] Chandler Bing: So...
+[s01_e14_c06_u021] Janice Litman Goralnik: Just us.
+[s01_e14_c06_u022] Chandler Bing: Oh, what a crappy night!
+[s01_e14_c06_u023] Janice Litman Goralnik: Although, I have enjoyed the fact that, uh your shirt's been stickin' outta your zipper ever since you came back from the bathroom.
+[s01_e14_c06_u024] Chandler Bing: Excuse me. How ya doin'?
+[s01_e14_c06_u025] Janice Litman Goralnik: So, do we have the best friends or what?
+[s01_e14_c06_u026] Chandler Bing: Joey's not a friend. He's...a stupid man who left us his credit card. Another drink? Some dessert? A big screen TV?
+[s01_e14_c06_u027] Janice Litman Goralnik: I will go for that drink.
+[s01_e14_c06_u028] Chandler Bing: You got it. Good woman! Could we get a bottle of your most overpriced champagne?
+[s01_e14_c06_u029] Janice Litman Goralnik: Each.
+[s01_e14_c06_u030] Chandler Bing: That's right, each. Oh, and a uh Rob Roy. I've always wanted to know..."
+s01_e14,s01_e14_c06,Joey Tribbiani,0,1,1,0,2,2,s01_e14_c06_u001,s01_e14_c06_u008,"[s01_e14_c06_u001] Lorraine: You know, ever since I was little, I've been able to pick up quarters with my toes.
+[s01_e14_c06_u002] Joey Tribbiani: Good for you. Uh, quarters or rolls of quarters?
+[s01_e14_c06_u003] Janice Litman Goralnik: By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.
+[s01_e14_c06_u004] Chandler Bing: That's OK.
+[s01_e14_c06_u005] Janice Litman Goralnik: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.
+[s01_e14_c06_u006] Unknown Speaker: 
+[s01_e14_c06_u007] Joey Tribbiani: We can't do that.
+[s01_e14_c06_u008] Chandler Bing: What? What can't you do?"
+s01_e14,s01_e14_c06,Joey Tribbiani,1,3,12,2,13,3,s01_e14_c06_u003,s01_e14_c06_u021,"[s01_e14_c06_u003] Janice Litman Goralnik: By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.
+[s01_e14_c06_u004] Chandler Bing: That's OK.
+[s01_e14_c06_u005] Janice Litman Goralnik: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.
+[s01_e14_c06_u006] Unknown Speaker: 
+[s01_e14_c06_u007] Joey Tribbiani: We can't do that.
+[s01_e14_c06_u008] Chandler Bing: What? What can't you do?
+[s01_e14_c06_u009] Joey Tribbiani: Uh, can I talk to you for a second, over there?
+[s01_e14_c06_u010] Unknown Speaker: 
+[s01_e14_c06_u011] Joey Tribbiani: Uh, we might be leaving now.
+[s01_e14_c06_u012] Chandler Bing: Tell me it's ""you and me"" we.
+[s01_e14_c06_u013] Joey Tribbiani: She said she wants to slather my body with stuff and then lick it off. I'm not even sure what slathering is, but I definitely want to be a part of it.
+[s01_e14_c06_u014] Chandler Bing: Ok, you can not do this to me.
+[s01_e14_c06_u015] Joey Tribbiani: You're right, I'm sorry. You're right.
+[s01_e14_c06_u016] Lorraine: Uh, can we have three chocolate mousses to go please?
+[s01_e14_c06_u017] Joey Tribbiani: I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler.
+[s01_e14_c06_u018] Chandler Bing: I hope she throws up on you.
+[s01_e14_c06_u019] Unknown Speaker: 
+[s01_e14_c06_u020] Chandler Bing: So...
+[s01_e14_c06_u021] Janice Litman Goralnik: Just us."
+s01_e14,s01_e14_c08,Chandler Bing,0,5,6,4,7,2,s01_e14_c08_u007,s01_e14_c08_u016,"[s01_e14_c08_u007] Monica Geller: Ohhh, Chandler, sorry! Hey, Janice.
+[s01_e14_c08_u008] Janice Litman Goralnik: Hi, Monica.
+[s01_e14_c08_u009] Chandler Bing: Ok, well, this was very special.
+[s01_e14_c08_u010] Monica Geller: Rach, come see who's out here!
+[s01_e14_c08_u011] Unknown Speaker: 
+[s01_e14_c08_u012] Rachel Green: Oh my god. Janice, hi!
+[s01_e14_c08_u013] Chandler Bing: Janice is gonna go away now.
+[s01_e14_c08_u014] Monica Geller: I'll be right back.
+[s01_e14_c08_u015] Unknown Speaker: 
+[s01_e14_c08_u016] Rachel Green: Oh, Joey, look who it is."
+s01_e14,s01_e14_c08,Chandler Bing,1,9,9,8,10,2,s01_e14_c08_u012,s01_e14_c08_u019,"[s01_e14_c08_u012] Rachel Green: Oh my god. Janice, hi!
+[s01_e14_c08_u013] Chandler Bing: Janice is gonna go away now.
+[s01_e14_c08_u014] Monica Geller: I'll be right back.
+[s01_e14_c08_u015] Unknown Speaker: 
+[s01_e14_c08_u016] Rachel Green: Oh, Joey, look who it is.
+[s01_e14_c08_u017] Joey Tribbiani: Whoa.
+[s01_e14_c08_u018] Chandler Bing: Oh, good, Joey's home now.
+[s01_e14_c08_u019] Janice Litman Goralnik: This is so fun. This is like a reunion in the hall."
+s01_e14,s01_e14_c08,Janice Litman Goralnik,0,0,2,0,3,2,s01_e14_c08_u001,s01_e14_c08_u010,"[s01_e14_c08_u001] Janice Litman Goralnik: Oh, I miss you already. Can you believe this happened?
+[s01_e14_c08_u002] Chandler Bing: No... no! And yet it did. Good-bye, Janice.
+[s01_e14_c08_u003] Janice Litman Goralnik: Kiss me!
+[s01_e14_c08_u004] Unknown Speaker: 
+[s01_e14_c08_u005] Monica Geller: Oh, Chandler, sorry.
+[s01_e14_c08_u006] Unknown Speaker: 
+[s01_e14_c08_u007] Monica Geller: Ohhh, Chandler, sorry! Hey, Janice.
+[s01_e14_c08_u008] Janice Litman Goralnik: Hi, Monica.
+[s01_e14_c08_u009] Chandler Bing: Ok, well, this was very special.
+[s01_e14_c08_u010] Monica Geller: Rach, come see who's out here!"
+s01_e14,s01_e14_c08,Janice Litman Goralnik,1,12,12,11,12,2,s01_e14_c08_u016,s01_e14_c08_u022,"[s01_e14_c08_u016] Rachel Green: Oh, Joey, look who it is.
+[s01_e14_c08_u017] Joey Tribbiani: Whoa.
+[s01_e14_c08_u018] Chandler Bing: Oh, good, Joey's home now.
+[s01_e14_c08_u019] Janice Litman Goralnik: This is so fun. This is like a reunion in the hall.
+[s01_e14_c08_u020] Unknown Speaker: 
+[s01_e14_c08_u021] Monica Geller: Oh, hi, Ross. Yeah. There's someone I want you to say hi to. He just happened to call.
+[s01_e14_c08_u022] Janice Litman Goralnik: Hi, Ross. Yes, it's me. How did you know?"
+s01_e14,s01_e14_c08,Monica Geller,0,0,4,0,5,3,s01_e14_c08_u001,s01_e14_c08_u013,"[s01_e14_c08_u001] Janice Litman Goralnik: Oh, I miss you already. Can you believe this happened?
+[s01_e14_c08_u002] Chandler Bing: No... no! And yet it did. Good-bye, Janice.
+[s01_e14_c08_u003] Janice Litman Goralnik: Kiss me!
+[s01_e14_c08_u004] Unknown Speaker: 
+[s01_e14_c08_u005] Monica Geller: Oh, Chandler, sorry.
+[s01_e14_c08_u006] Unknown Speaker: 
+[s01_e14_c08_u007] Monica Geller: Ohhh, Chandler, sorry! Hey, Janice.
+[s01_e14_c08_u008] Janice Litman Goralnik: Hi, Monica.
+[s01_e14_c08_u009] Chandler Bing: Ok, well, this was very special.
+[s01_e14_c08_u010] Monica Geller: Rach, come see who's out here!
+[s01_e14_c08_u011] Unknown Speaker: 
+[s01_e14_c08_u012] Rachel Green: Oh my god. Janice, hi!
+[s01_e14_c08_u013] Chandler Bing: Janice is gonna go away now."
+s01_e14,s01_e14_c08,Monica Geller,1,6,7,5,8,2,s01_e14_c08_u008,s01_e14_c08_u017,"[s01_e14_c08_u008] Janice Litman Goralnik: Hi, Monica.
+[s01_e14_c08_u009] Chandler Bing: Ok, well, this was very special.
+[s01_e14_c08_u010] Monica Geller: Rach, come see who's out here!
+[s01_e14_c08_u011] Unknown Speaker: 
+[s01_e14_c08_u012] Rachel Green: Oh my god. Janice, hi!
+[s01_e14_c08_u013] Chandler Bing: Janice is gonna go away now.
+[s01_e14_c08_u014] Monica Geller: I'll be right back.
+[s01_e14_c08_u015] Unknown Speaker: 
+[s01_e14_c08_u016] Rachel Green: Oh, Joey, look who it is.
+[s01_e14_c08_u017] Joey Tribbiani: Whoa."
+s01_e14,s01_e14_c08,Rachel Green,0,7,8,6,9,2,s01_e14_c08_u009,s01_e14_c08_u018,"[s01_e14_c08_u009] Chandler Bing: Ok, well, this was very special.
+[s01_e14_c08_u010] Monica Geller: Rach, come see who's out here!
+[s01_e14_c08_u011] Unknown Speaker: 
+[s01_e14_c08_u012] Rachel Green: Oh my god. Janice, hi!
+[s01_e14_c08_u013] Chandler Bing: Janice is gonna go away now.
+[s01_e14_c08_u014] Monica Geller: I'll be right back.
+[s01_e14_c08_u015] Unknown Speaker: 
+[s01_e14_c08_u016] Rachel Green: Oh, Joey, look who it is.
+[s01_e14_c08_u017] Joey Tribbiani: Whoa.
+[s01_e14_c08_u018] Chandler Bing: Oh, good, Joey's home now."
+s01_e14,s01_e14_c09,Kristin,0,0,3,0,3,3,s01_e14_c09_u001,s01_e14_c09_u010,"[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+[s01_e14_c09_u002] Unknown Speaker: 
+[s01_e14_c09_u003] Kristin: That's funny. Who are they?
+[s01_e14_c09_u004] Ross Geller: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+[s01_e14_c09_u005] Kristin: You mean they're lovers.
+[s01_e14_c09_u006] Ross Geller: If you wanna put a label on it.
+[s01_e14_c09_u007] Kristin: Wow, uh, anything else I should know?
+[s01_e14_c09_u008] Ross Geller: Nope, nope, that's it.
+[s01_e14_c09_u009] Unknown Speaker: 
+[s01_e14_c09_u010] Ross Geller: Oh, and she's pregnant with my baby. I always forget that part. Helloo!"
+s01_e14,s01_e14_c09,Ross Geller,0,0,3,0,3,3,s01_e14_c09_u001,s01_e14_c09_u010,"[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+[s01_e14_c09_u002] Unknown Speaker: 
+[s01_e14_c09_u003] Kristin: That's funny. Who are they?
+[s01_e14_c09_u004] Ross Geller: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+[s01_e14_c09_u005] Kristin: You mean they're lovers.
+[s01_e14_c09_u006] Ross Geller: If you wanna put a label on it.
+[s01_e14_c09_u007] Kristin: Wow, uh, anything else I should know?
+[s01_e14_c09_u008] Ross Geller: Nope, nope, that's it.
+[s01_e14_c09_u009] Unknown Speaker: 
+[s01_e14_c09_u010] Ross Geller: Oh, and she's pregnant with my baby. I always forget that part. Helloo!"
+s01_e14,s01_e14_c10,Monica Geller,0,0,1,0,2,2,s01_e14_c10_u001,s01_e14_c10_u007,"[s01_e14_c10_u001] Phoebe Buffay: Ok, so now we need, um sage branches and the sacramental wine.
+[s01_e14_c10_u002] Monica Geller: All I have is, is oregano and a Fresca.
+[s01_e14_c10_u003] Phoebe Buffay: Um, that's ok! Ok. All right. Now we need the semen of a righteous man.
+[s01_e14_c10_u004] Rachel Green: Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.
+[s01_e14_c10_u005] Monica Geller: Can we just start throwing things in?
+[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts."
+s01_e14,s01_e14_c10,Monica Geller,1,4,4,3,5,2,s01_e14_c10_u004,s01_e14_c10_u010,"[s01_e14_c10_u004] Rachel Green: Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.
+[s01_e14_c10_u005] Monica Geller: Can we just start throwing things in?
+[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts.
+[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked.
+[s01_e14_c10_u010] Rachel Green: Hey he's wearing a sweater."
+s01_e14,s01_e14_c10,Monica Geller,2,6,9,5,9,2,s01_e14_c10_u006,s01_e14_c10_u014,"[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts.
+[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked.
+[s01_e14_c10_u010] Rachel Green: Hey he's wearing a sweater.
+[s01_e14_c10_u011] Monica Geller: No.
+[s01_e14_c10_u012] Phoebe Buffay, Rachel Green: Eww!
+[s01_e14_c10_u013] Rachel Green: And here we have the last of Paulo's grappa.
+[s01_e14_c10_u014] Monica Geller: Hey, Rachel, isn't that stuff almost pure..."
+s01_e14,s01_e14_c10,Phoebe Buffay,0,0,5,0,6,2,s01_e14_c10_u001,s01_e14_c10_u011,"[s01_e14_c10_u001] Phoebe Buffay: Ok, so now we need, um sage branches and the sacramental wine.
+[s01_e14_c10_u002] Monica Geller: All I have is, is oregano and a Fresca.
+[s01_e14_c10_u003] Phoebe Buffay: Um, that's ok! Ok. All right. Now we need the semen of a righteous man.
+[s01_e14_c10_u004] Rachel Green: Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.
+[s01_e14_c10_u005] Monica Geller: Can we just start throwing things in?
+[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts.
+[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked.
+[s01_e14_c10_u010] Rachel Green: Hey he's wearing a sweater.
+[s01_e14_c10_u011] Monica Geller: No."
+s01_e14,s01_e14_c10,Rachel Green,0,2,3,1,4,2,s01_e14_c10_u002,s01_e14_c10_u009,"[s01_e14_c10_u002] Monica Geller: All I have is, is oregano and a Fresca.
+[s01_e14_c10_u003] Phoebe Buffay: Um, that's ok! Ok. All right. Now we need the semen of a righteous man.
+[s01_e14_c10_u004] Rachel Green: Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.
+[s01_e14_c10_u005] Monica Geller: Can we just start throwing things in?
+[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts.
+[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked."
+s01_e14,s01_e14_c10,Rachel Green,1,5,6,4,7,2,s01_e14_c10_u005,s01_e14_c10_u012,"[s01_e14_c10_u005] Monica Geller: Can we just start throwing things in?
+[s01_e14_c10_u006] Phoebe Buffay: Ok, yeah, ok. Oh, OK.
+[s01_e14_c10_u007] Rachel Green: Ok, Barry's letters. Adam Ritter's boxer shorts.
+[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked.
+[s01_e14_c10_u010] Rachel Green: Hey he's wearing a sweater.
+[s01_e14_c10_u011] Monica Geller: No.
+[s01_e14_c10_u012] Phoebe Buffay, Rachel Green: Eww!"
+s01_e14,s01_e14_c10,Rachel Green,2,8,9,7,9,2,s01_e14_c10_u008,s01_e14_c10_u014,"[s01_e14_c10_u008] Phoebe Buffay: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.
+[s01_e14_c10_u009] Monica Geller: Look, here's a picture of Scotty Jared naked.
+[s01_e14_c10_u010] Rachel Green: Hey he's wearing a sweater.
+[s01_e14_c10_u011] Monica Geller: No.
+[s01_e14_c10_u012] Phoebe Buffay, Rachel Green: Eww!
+[s01_e14_c10_u013] Rachel Green: And here we have the last of Paulo's grappa.
+[s01_e14_c10_u014] Monica Geller: Hey, Rachel, isn't that stuff almost pure..."
+s01_e14,s01_e14_c11,Chandler Bing,0,0,2,0,2,3,s01_e14_c11_u001,s01_e14_c11_u009,"[s01_e14_c11_u001] Chandler Bing: How can I dump this woman on Valentine's day?
+[s01_e14_c11_u002] Joey Tribbiani: I don't know. You dumped her on New Year's.
+[s01_e14_c11_u003] Chandler Bing: Oh, man. In my next life, I'm coming back as a toilet brush.
+[s01_e14_c11_u004] Unknown Speaker: 
+[s01_e14_c11_u005] Janice Litman Goralnik: Hello, funny Valentine.
+[s01_e14_c11_u006] Chandler Bing: Hi, Just Janice.
+[s01_e14_c11_u007] Janice Litman Goralnik: Hello, Joey, our little matchmaker. I could just kiss you all over, and I'm gonna!
+[s01_e14_c11_u008] Unknown Speaker: 
+[s01_e14_c11_u009] Joey Tribbiani: If you don't do it, I will."
+s01_e14,s01_e14_c11,Janice Litman Goralnik,0,1,2,0,2,2,s01_e14_c11_u001,s01_e14_c11_u009,"[s01_e14_c11_u001] Chandler Bing: How can I dump this woman on Valentine's day?
+[s01_e14_c11_u002] Joey Tribbiani: I don't know. You dumped her on New Year's.
+[s01_e14_c11_u003] Chandler Bing: Oh, man. In my next life, I'm coming back as a toilet brush.
+[s01_e14_c11_u004] Unknown Speaker: 
+[s01_e14_c11_u005] Janice Litman Goralnik: Hello, funny Valentine.
+[s01_e14_c11_u006] Chandler Bing: Hi, Just Janice.
+[s01_e14_c11_u007] Janice Litman Goralnik: Hello, Joey, our little matchmaker. I could just kiss you all over, and I'm gonna!
+[s01_e14_c11_u008] Unknown Speaker: 
+[s01_e14_c11_u009] Joey Tribbiani: If you don't do it, I will."
+s01_e14,s01_e14_c12,Kristin,0,1,1,0,2,2,s01_e14_c12_u001,s01_e14_c12_u007,"[s01_e14_c12_u001] Ross Geller: So, um, what do you do for a living?
+[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+[s01_e14_c12_u006] Kristin: I guess.
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?"
+s01_e14,s01_e14_c12,Ross Geller,0,0,0,0,1,2,s01_e14_c12_u001,s01_e14_c12_u006,"[s01_e14_c12_u001] Ross Geller: So, um, what do you do for a living?
+[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+[s01_e14_c12_u006] Kristin: I guess."
+s01_e14,s01_e14_c12,Ross Geller,1,2,4,1,4,3,s01_e14_c12_u002,s01_e14_c12_u009,"[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+[s01_e14_c12_u006] Kristin: I guess.
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?
+[s01_e14_c12_u008] Carol Willick: Oh, no no no. I'm fine. I'm fine.
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!"
+s01_e14,s01_e14_c13,Fireman No. 1,0,0,0,0,1,2,s01_e14_c13_u001,s01_e14_c13_u006,"[s01_e14_c13_u001] Fireman No. 1: What do we got there?
+[s01_e14_c13_u002] Fireman No. 2: A piece of something: boxer shorts, greeting cards, and what looks like a half-charred pictureWow, that guy's hairier than the Chief!
+[s01_e14_c13_u003] Monica Geller: You know, it's a really funny story how this happened.
+[s01_e14_c13_u004] Fireman No. 3: It's all right. It's all right. You don't have to explain. This isn't the first boyfriend bonfire that we've seen get out of control.
+[s01_e14_c13_u005] Fireman No. 1: You're our third call tonight.
+[s01_e14_c13_u006] Rachel Green: Really?"
+s01_e14,s01_e14_c14,Chandler Bing,0,0,9,0,9,3,s01_e14_c14_u001,s01_e14_c14_u015,"[s01_e14_c14_u001] Janice Litman Goralnik: I brought you something.
+[s01_e14_c14_u002] Chandler Bing: Is it loaded? Oh, little candy hearts. Chan and Jan Forever.
+[s01_e14_c14_u003] Janice Litman Goralnik: I had them made special.
+[s01_e14_c14_u004] Chandler Bing: Ok, Janice. Janice. Hey, Janice. Look, there's no way for me to tell you this. At least there's no new way for me to tell you this. I just don't things are gonna work out.
+[s01_e14_c14_u005] Janice Litman Goralnik: That's fine.
+[s01_e14_c14_u006] Chandler Bing: It is?
+[s01_e14_c14_u007] Janice Litman Goralnik: Mmm-hmm. Because I know that this isn't the end.
+[s01_e14_c14_u008] Chandler Bing: Oh no, you see, actually it is.
+[s01_e14_c14_u009] Janice Litman Goralnik: No, it isn't, because you won't let that happen. Don't you know it yet? You love me, Chandler Bing.
+[s01_e14_c14_u010] Chandler Bing: Oh, no I don't.
+[s01_e14_c14_u011] Janice Litman Goralnik: Well then ask yourself this. Why do you think we keep ending up together? New Year's? Who invited who? Valentine's? Who asked who into whose bed?
+[s01_e14_c14_u012] Chandler Bing: I did, but...
+[s01_e14_c14_u013] Janice Litman Goralnik: You seek me out. Something deep in your soul calls out to me like a foghorn. Janice, Janice. You want me. You need me. You can't live without me. And you know it. You just don't know you know it. See ya.
+[s01_e14_c14_u014] Unknown Speaker: 
+[s01_e14_c14_u015] Chandler Bing: Call me!"
+s01_e14,s01_e14_c14,Janice Litman Goralnik,0,0,9,0,9,3,s01_e14_c14_u001,s01_e14_c14_u015,"[s01_e14_c14_u001] Janice Litman Goralnik: I brought you something.
+[s01_e14_c14_u002] Chandler Bing: Is it loaded? Oh, little candy hearts. Chan and Jan Forever.
+[s01_e14_c14_u003] Janice Litman Goralnik: I had them made special.
+[s01_e14_c14_u004] Chandler Bing: Ok, Janice. Janice. Hey, Janice. Look, there's no way for me to tell you this. At least there's no new way for me to tell you this. I just don't things are gonna work out.
+[s01_e14_c14_u005] Janice Litman Goralnik: That's fine.
+[s01_e14_c14_u006] Chandler Bing: It is?
+[s01_e14_c14_u007] Janice Litman Goralnik: Mmm-hmm. Because I know that this isn't the end.
+[s01_e14_c14_u008] Chandler Bing: Oh no, you see, actually it is.
+[s01_e14_c14_u009] Janice Litman Goralnik: No, it isn't, because you won't let that happen. Don't you know it yet? You love me, Chandler Bing.
+[s01_e14_c14_u010] Chandler Bing: Oh, no I don't.
+[s01_e14_c14_u011] Janice Litman Goralnik: Well then ask yourself this. Why do you think we keep ending up together? New Year's? Who invited who? Valentine's? Who asked who into whose bed?
+[s01_e14_c14_u012] Chandler Bing: I did, but...
+[s01_e14_c14_u013] Janice Litman Goralnik: You seek me out. Something deep in your soul calls out to me like a foghorn. Janice, Janice. You want me. You need me. You can't live without me. And you know it. You just don't know you know it. See ya.
+[s01_e14_c14_u014] Unknown Speaker: 
+[s01_e14_c14_u015] Chandler Bing: Call me!"
+s01_e14,s01_e14_c15,Carol Willick,0,0,9,0,9,3,s01_e14_c15_u001,s01_e14_c15_u016,"[s01_e14_c15_u001] Carol Willick: It's not true. I never called your mother a wolverine.
+[s01_e14_c15_u002] Ross Geller: You did so. I swear, I swear How long has she been in the bathroom?
+[s01_e14_c15_u003] Carol Willick: Uh, I don't think she's in the bathroom. Her coat is gone.
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+[s01_e14_c15_u005] Carol Willick: That could be it.
+[s01_e14_c15_u006] Ross Geller: Oh, god. You know, this is still pretty hot.
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole ""getting on with your life"" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+[s01_e14_c15_u009] Unknown Speaker: 
+[s01_e14_c15_u010] Carol Willick: Oh, I love you too. But...
+[s01_e14_c15_u011] Ross Geller: No but, no but.
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+[s01_e14_c15_u013] Ross Geller: That's easy for you to say, you found one already.
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+[s01_e14_c15_u015] Unknown Speaker: 
+[s01_e14_c15_u016] Carol Willick: Not her."
+s01_e14,s01_e14_c15,Ross Geller,0,0,9,0,9,3,s01_e14_c15_u001,s01_e14_c15_u016,"[s01_e14_c15_u001] Carol Willick: It's not true. I never called your mother a wolverine.
+[s01_e14_c15_u002] Ross Geller: You did so. I swear, I swear How long has she been in the bathroom?
+[s01_e14_c15_u003] Carol Willick: Uh, I don't think she's in the bathroom. Her coat is gone.
+[s01_e14_c15_u004] Ross Geller: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+[s01_e14_c15_u005] Carol Willick: That could be it.
+[s01_e14_c15_u006] Ross Geller: Oh, god. You know, this is still pretty hot.
+[s01_e14_c15_u007] Carol Willick: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
+[s01_e14_c15_u008] Ross Geller: No, it's just...you know the whole ""getting on with your life"" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+[s01_e14_c15_u009] Unknown Speaker: 
+[s01_e14_c15_u010] Carol Willick: Oh, I love you too. But...
+[s01_e14_c15_u011] Ross Geller: No but, no but.
+[s01_e14_c15_u012] Carol Willick: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.
+[s01_e14_c15_u013] Ross Geller: That's easy for you to say, you found one already.
+[s01_e14_c15_u014] Carol Willick: All you need is a woman who likes men and you'll be set.
+[s01_e14_c15_u015] Unknown Speaker: 
+[s01_e14_c15_u016] Carol Willick: Not her."
+s01_e14,s01_e14_c16,Fireman No. 3,0,0,0,0,1,2,s01_e14_c16_u001,s01_e14_c16_u006,"[s01_e14_c16_u001] Fireman No. 3: We get off around midnight, why don't we pick you up then?
+[s01_e14_c16_u002] Rachel Green: So, um, will you bring the truck?
+[s01_e14_c16_u003] Fireman No. 3: I'll even let you ring the bell.
+[s01_e14_c16_u004] Rachel Green: Oh, my god.
+[s01_e14_c16_u005] Phoebe Buffay: See, there you go, the cleansing works!
+[s01_e14_c16_u006] Monica Geller: They're nice guys."
+s01_e14,s01_e14_c16,Rachel Green,0,0,2,0,2,2,s01_e14_c16_u001,s01_e14_c16_u007,"[s01_e14_c16_u001] Fireman No. 3: We get off around midnight, why don't we pick you up then?
+[s01_e14_c16_u002] Rachel Green: So, um, will you bring the truck?
+[s01_e14_c16_u003] Fireman No. 3: I'll even let you ring the bell.
+[s01_e14_c16_u004] Rachel Green: Oh, my god.
+[s01_e14_c16_u005] Phoebe Buffay: See, there you go, the cleansing works!
+[s01_e14_c16_u006] Monica Geller: They're nice guys.
+[s01_e14_c16_u007] Rachel Green: Oh, they're firemen guys."

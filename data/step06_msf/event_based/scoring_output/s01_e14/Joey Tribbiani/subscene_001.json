@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the conversation about a possible romance, confidently telling Speaker_01 that Speaker_02 wants them and declaring, “you’re in.”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Frames the situation positively and encouragingly toward Speaker_01, suggesting support rather than criticism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness; statements are social judgments rather than task-related behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with certainty and no hesitation (“Speaker_02 wants you,” “you’re in”), indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or openness to new ideas; comments focus on simple social gossip."
+  }
+}

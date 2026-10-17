@@ -1,0 +1,24 @@
+('be', 'this/Bactine', 'just Bactine', 's01_e07_c12_u001')
+[s01_e07_c12_u001] Monica Geller: This is just Bactine. It won't hurt.
+
+('hurt', 'it/Bactine', None, 's01_e07_c12_u001')
+[s01_e07_c12_u001] Monica Geller: This is just Bactine. It won't hurt.
+
+('be', 'that/wax', 'wax', 's01_e07_c12_u003')
+[s01_e07_c12_u003] Joey Tribbiani: Sorry, that was wax.
+
+('be', 'poor little Tooty', 'scared to death', 's01_e07_c12_u004')
+[s01_e07_c12_u004] Phoebe Buffay: Oh, poor little Tooty is scared to death. We should find his owner.
+
+('find', 'we/Phoebe+Monica+Joey+Ross+Rachel', 'his owner', 's01_e07_c12_u004')
+[s01_e07_c12_u004] Phoebe Buffay: Oh, poor little Tooty is scared to death. We should find his owner.
+
+('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'poor little Tooty', 's01_e07_c12_u005')
+[s01_e07_c12_u005] Ross Geller: Why don't we just put 'poor little Tooty' out in the hall?
+
+('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'in the hall', 's01_e07_c12_u005')
+[s01_e07_c12_u005] Ross Geller: Why don't we just put 'poor little Tooty' out in the hall?
+
+('get', 'he/poor little Tooty', 'trampled', 's01_e07_c12_u006')
+[s01_e07_c12_u006] Rachel Green: During a blackout? He'd get trampled!
+

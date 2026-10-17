@@ -1,0 +1,56 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c13_u002",
+      "events": [
+        {
+          "event_id": "s01_e03_c13_u002_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'really sorry', 's01_e03_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e03_c13_u003_e1",
+          "tuples": [
+            "('be', 'I/Alan', 'sorry too', 's01_e03_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c13_u003_e2",
+          "tuples": [
+            "('tell', 'I/Alan', 'you', 's01_e03_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c13_u003_e3",
+          "tuples": [
+            "('be', 'I/Alan', 'a little relieved', 's01_e03_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c13_u005",
+      "events": [
+        {
+          "event_id": "s01_e03_c13_u005_e1",
+          "tuples": [
+            "('have', 'I/Alan', 'a great time', 's01_e03_c13_u005')",
+            "('have', 'I/Alan', 'with you', 's01_e03_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c13_u005_e2",
+          "tuples": [
+            "('stand', 'I/Alan', 'your friends', 's01_e03_c13_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

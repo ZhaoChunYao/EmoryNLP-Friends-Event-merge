@@ -1,0 +1,169 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u001_e1",
+          "tuples": [
+            "('be', 'the game', None, 's01_e03_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u003_e1",
+          "tuples": [
+            "('win', 'We/(group)', None, 's01_e03_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c06_u003_e2",
+          "tuples": [
+            "('thank', 'We/(group)', 'you', 's01_e03_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u004_e1",
+          "tuples": [
+            "('have', 'I/(Monica)', 'one question', 's01_e03_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c06_u004_e2",
+          "tuples": [
+            "('be', 'that/(we won)', 'possible', 's01_e03_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u006_e1",
+          "tuples": [
+            "('be', 'he/(Alan)', 'unbelievable', 's01_e03_c06_u006')",
+            "('like', 'he/(Alan)', 'that Bugs Bunny cartoon', 's01_e03_c06_u006')",
+            "('play', 'Bugs', 'all the positions', 's01_e03_c06_u006')",
+            "('be', 'it/(scenario)', 'instead of Bugs', 's01_e03_c06_u006')",
+            "('be', 'it/(scenario)', 'first base-Alan', 's01_e03_c06_u006')",
+            "('be', 'it/(scenario)', 'second base-Alan', 's01_e03_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u007_e1",
+          "tuples": [
+            "('mean', 'I/(Rachel)', None, 's01_e03_c06_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c06_u007_e2",
+          "tuples": [
+            "('like', 'it/(game experience)', None, 's01_e03_c06_u007')",
+            "('like', 'it/(game experience)', 'he made us into a team', 's01_e03_c06_u007')",
+            "('make', 'he/(Alan)', 'us', 's01_e03_c06_u007')",
+            "('make', 'he/(Alan)', 'into a team', 's01_e03_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u008",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u008_e1",
+          "tuples": [
+            "('show', 'we/(group)', 'a thing or two', 's01_e03_c06_u008')",
+            "('show', 'we/(group)', 'those Hassidic jewellers', 's01_e03_c06_u008')",
+            "('show', 'we/(group)', 'about softball', 's01_e03_c06_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u009_e1",
+          "tuples": [
+            "('ask', 'I/(Monica)', 'a question', 's01_e03_c06_u009')",
+            "('ask', 'I/(Monica)', 'you guys', 's01_e03_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c06_u009_e2",
+          "tuples": [
+            "('think', 'you/(group)', 'that Alan is maybe sometimes', 's01_e03_c06_u009')",
+            "('be', 'Alan', None, 's01_e03_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u011_e1",
+          "tuples": [
+            "('know', 'I/(Monica)', None, 's01_e03_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u012",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u012_e1",
+          "tuples": [
+            "('be', \"That/(Monica's suggestion)\", 'impossible', 's01_e03_c06_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c06_u012_e2",
+          "tuples": [
+            "('be', 'You/(generic)', 'too Alan', 's01_e03_c06_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u013_e1",
+          "tuples": [
+            "('be', 'it/(reason we adore Alan)', 'his innate Alan-ness', 's01_e03_c06_u013')",
+            "('adore', 'we/(group)', 'his innate Alan-ness', 's01_e03_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e03_c06_u014_e1",
+          "tuples": [
+            "('have', 'I/(Chandler)', 'a gallon', 's01_e03_c06_u014')",
+            "('have', 'I/(Chandler)', 'of Alan', 's01_e03_c06_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

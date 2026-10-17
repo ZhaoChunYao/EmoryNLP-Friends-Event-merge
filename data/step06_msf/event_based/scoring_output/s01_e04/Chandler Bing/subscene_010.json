@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages the group—teases (says Speaker_01 is kidding), asserts opinions (praises Speaker_04 in Silence of the Lambs), and presses Speaker_02 to admit they had fun."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker calls Speaker_02 a 'freak' and pressures them to admit having fun, showing low warmth and consideration."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization, planning, or reliability."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks assertively and shows no signs of anxiety or sensitivity while challenging Speaker_02 and voicing strong opinions."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Apart from a casual movie opinion, there is no clear sign of curiosity/novelty-seeking or dogmatism."
+  }
+}

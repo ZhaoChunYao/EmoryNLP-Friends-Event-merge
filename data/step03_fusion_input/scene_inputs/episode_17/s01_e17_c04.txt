@@ -1,0 +1,108 @@
+('say', 'he/(doctor)', 'it was just a sprain', 's01_e17_c04_u001')
+[s01_e17_c04_u001] Rachel Green: ..so, he said it was just a sprain, and that was it.
+
+('be', "it/(Rachel's injury)", 'just a sprain', 's01_e17_c04_u001')
+[s01_e17_c04_u001] Rachel Green: ..so, he said it was just a sprain, and that was it.
+
+('be', 'that/(the outcome)', 'it', 's01_e17_c04_u001')
+[s01_e17_c04_u001] Rachel Green: ..so, he said it was just a sprain, and that was it.
+
+('leave out', 'you/Rachel Green', 'the stupid part', 's01_e17_c04_u002')
+[s01_e17_c04_u002] Monica Geller: Uh, you left out the stupid part.
+
+('ask out', 'the very cute, cute, cute doctors', 'us', 's01_e17_c04_u003')
+[s01_e17_c04_u003] Rachel Green: Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said "yes."
+
+('ask out', 'the very cute, cute, cute doctors', 'for tomorrow night', 's01_e17_c04_u003')
+[s01_e17_c04_u003] Rachel Green: Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said "yes."
+
+('say', 'I/Rachel Green', 'yes', 's01_e17_c04_u003')
+[s01_e17_c04_u003] Rachel Green: Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said "yes."
+
+('think', 'I/Monica Geller', "it's totally insane", 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('be', 'it/(dating the doctors)', 'totally insane', 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('work', 'they/(the doctors)', 'for the hospital', 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('be', 'it/(dating the doctors)', 'like returning to the scene of the crime', 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('know', 'you/Rachel Green', None, 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('say', 'I/Monica Geller', 'we blow off the dates', 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('blow off', 'we/(Monica Geller+Rachel Green)', 'the dates', 's01_e17_c04_u004')
+[s01_e17_c04_u004] Monica Geller: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+
+('be', 'they/(the doctors)', 'cute', 's01_e17_c04_u005')
+[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+
+('be', 'they/(the doctors)', 'doctors', 's01_e17_c04_u005')
+[s01_e17_c04_u005] Rachel Green: What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!
+
+('learn', 'we/(Monica Geller+Rachel Green+Chandler Bing+Ross Geller)', 'what', 's01_e17_c04_u006')
+[s01_e17_c04_u006] Chandler Bing: Alright, what have we learned so far?
+
+('do', 'you/(The Whole Party)', 'what', 's01_e17_c04_u010')
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+
+('scare', 'you/(The Whole Party)', 'the crap', 's01_e17_c04_u010')
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+
+('scare', 'you/(The Whole Party)', 'outta me', 's01_e17_c04_u010')
+[s01_e17_c04_u010] Ross Geller: What the hell are you doing? You scared the crap outta me.
+
+('be', 'that/(the crash)', 'the cake', 's01_e17_c04_u011')
+[s01_e17_c04_u011] Rachel Green: Was that the cake?
+
+('get', 'I/Ross Geller', 'a lemon schmush', 's01_e17_c04_u012')
+[s01_e17_c04_u012] Ross Geller: Yeah, yeah. I got a lemon schmush.
+
+('be', 'she/Phoebe Buffay', 'here', 's01_e17_c04_u013')
+[s01_e17_c04_u013] Monica Geller: Come on, she'll be here any minute.
+
+('hope', 'I/Rachel Green', "it's okay", 's01_e17_c04_u015')
+[s01_e17_c04_u015] Rachel Green: I hope it's okay.
+
+('be', 'it/(the cake)', 'okay', 's01_e17_c04_u015')
+[s01_e17_c04_u015] Rachel Green: I hope it's okay.
+
+('make', 'we/(Monica Geller+Chandler Bing+Ross Geller+Rachel Green)', "a 'B' out of one of those roses", 's01_e17_c04_u019')
+[s01_e17_c04_u019] Monica Geller: Well maybe we can make a, a, a 'B' out of one of those roses.
+
+('use', 'we/(Monica Geller+Chandler Bing+Ross Geller+Rachel Green)', 'our special cake tools', 's01_e17_c04_u021')
+[s01_e17_c04_u021] Ross Geller: Yeah, we'll just use our special cake tools.
+
+('go on', 'what', None, 's01_e17_c04_u022')
+[s01_e17_c04_u022] Phoebe Buffay: Hey, what's going on?
+
+('be', 'this/(the surprise party)', 'so great', 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('be', 'this/(the surprise party)', 'not at all scary', 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('find', 'you/Monica Geller', 'Betty', 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('love', 'I/Phoebe Buffay', 'everybody', 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('be', 'everybody', None, 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('be', 'everybody', 'in the same room', 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('be', 'Joey', None, 's01_e17_c04_u025')
+[s01_e17_c04_u025] Phoebe Buffay: oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?
+
+('see', 'you/(unknown)', 'Betty', 's01_e17_c04_u027')
+[s01_e17_c04_u027] Chandler Bing: Did you see Betty?
+

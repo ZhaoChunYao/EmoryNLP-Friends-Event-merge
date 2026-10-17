@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly to clarify ('what is going on?', 'What?') and offers wine, but shows no clear outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperates and helps by offering to get Speaker_01 some wine and aligns politely with Speaker_03."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proactively addresses a need (dryness) by offering to get wine, indicating attentiveness and responsibility."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed during the tense revelation about drug use and confidently states alignment ('I'm with Speaker_03') while offering a practical solution."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking 'what is going on?' is basic clarification; no clear signs of imaginative or open-minded exploration."
+  }
+}

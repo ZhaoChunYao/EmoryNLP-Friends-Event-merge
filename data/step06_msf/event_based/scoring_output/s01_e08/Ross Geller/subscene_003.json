@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives a very brief reply (“Twice.”) and remains subdued; does not display outgoing or energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is straightforward and honest about feelings, openly saying they don’t know how to feel and that it doesn’t feel right yet."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or carefulness in the exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses confusion and discomfort about emotions (“don’t know how to feel,” “feels weird,” “don’t feel right yet”) after the loss."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "While reflective about feelings, there is no clear sign of curiosity, imagination, or unconventional thinking."
+  }
+}

@@ -1,0 +1,25 @@
+event_id: s01_e03_c13_u002_e1
+utterance_id: s01_e03_c13_u002
+  tuple: ('be', 'I/Monica Geller', 'really sorry', 's01_e03_c13_u002')
+
+event_id: s01_e03_c13_u003_e1
+utterance_id: s01_e03_c13_u003
+  tuple: ('be', 'I/Alan', 'sorry too', 's01_e03_c13_u003')
+
+event_id: s01_e03_c13_u003_e2
+utterance_id: s01_e03_c13_u003
+  tuple: ('tell', 'I/Alan', 'you', 's01_e03_c13_u003')
+
+event_id: s01_e03_c13_u003_e3
+utterance_id: s01_e03_c13_u003
+  tuple: ('be', 'I/Alan', 'a little relieved', 's01_e03_c13_u003')
+
+event_id: s01_e03_c13_u005_e1
+utterance_id: s01_e03_c13_u005
+  tuple: ('have', 'I/Alan', 'a great time', 's01_e03_c13_u005')
+  tuple: ('have', 'I/Alan', 'with you', 's01_e03_c13_u005')
+
+event_id: s01_e03_c13_u005_e2
+utterance_id: s01_e03_c13_u005
+  tuple: ('stand', 'I/Alan', 'your friends', 's01_e03_c13_u005')
+

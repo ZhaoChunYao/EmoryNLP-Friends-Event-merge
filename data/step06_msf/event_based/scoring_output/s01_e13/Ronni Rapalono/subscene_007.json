@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and politely but does not show clear outgoing or reserved behavior beyond basic greetings and short answers."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and cooperative: greets (“Hi”), thanks the host, accepts guidance, and answers a question helpfully about shower time."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows responsibility and planning by noting prior permission to use the shower and providing a specific time estimate (“about five minutes”)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; remains calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or resistance to new ideas; interaction is purely practical."
+  }
+}

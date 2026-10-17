@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker merely reports others’ wishes and an upcoming appointment; no clear sign of being especially outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They neither agree nor refuse involvement; they state it’s their choice based on comfort, without showing either accommodating generosity or uncooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mentioning a sonogram tomorrow is just relaying plans; there’s no clear behavior showing organization, planning, or follow-through."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They emphasize that getting involved depends on their personal comfort and that the decision is entirely up to them, suggesting sensitivity/unease about the situation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "They do not express curiosity or eagerness to try something new, nor do they reject it outright; stance is neutral and cautious without clear openness or dogmatism."
+  }
+}

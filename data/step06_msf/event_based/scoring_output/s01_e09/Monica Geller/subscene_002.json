@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proposes hosting Thanksgiving dinner at her place and engages friends about their plans, acting as the social organizer."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to cook Thanksgiving for everyone and agrees to make mashed potatoes the way Speaker_03 likes despite her own view."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Takes charge of planning the holiday, tracks who is available, and focuses on proper preparation details (how mashed potatoes are ‘supposed’ to be made)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently about hosting and cooking with no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "States potatoes aren’t supposed to have lumps (rule-focused) but is willing to try making them with lumps; mixed signals with no clear leaning."
+  }
+}

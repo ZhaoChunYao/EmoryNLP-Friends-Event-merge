@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks minimally (asks if Speaker_01 is okay and then says 'What?'); no clear sign of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker immediately checks on Speaker_01’s well-being by asking if they are okay, showing concern and consideration."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or reliability in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or pronounced calm; response is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or rigidity in views from the short interaction."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker recounts incidents about the monkey and answering machine but shows no clear signs of being either outgoing/energetic or reserved/solitary."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "They accuse Speaker_01 of “testing” them, say the monkey is “acting out” and “out of control,” and note erased messages were “supposedly by accident,” showing suspicion and a critical tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from noticing repeated incidents (three days in a row), there is no concrete behavior showing organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They express uncertainty and distress (“does not know whether… testing or acting out,” “out of control”) and repeatedly complain about problems, indicating stress and sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicate curiosity/inventiveness or dogmatism/caution in this exchange."
+  }
+}

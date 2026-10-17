@@ -1,0 +1,186 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u001_e1",
+          "tuples": [
+            "('work', 'we/(Joey Tribbiani+Girl)', None, 's01_e09_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u002_e1",
+          "tuples": [
+            "('do', 'we/(Joey Tribbiani+Girl)', None, 's01_e09_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u003_e1",
+          "tuples": [
+            "('be', 'you/(Girl)', 'the Obsession girl', 's01_e09_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c05_u003_e2",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'the Aramis guy', 's01_e09_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u005_e1",
+          "tuples": [
+            "('tell', 'I/(Joey Tribbiani)', 'you', 's01_e09_c05_u005')",
+            "('be', 'you/(Girl)', 'the best', 's01_e09_c05_u005')",
+            "('be', 'you/(Girl)', 'in the business', 's01_e09_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u006_e1",
+          "tuples": [
+            "('get', 'you/(Joey Tribbiani)', 'out', 's01_e09_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u007_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'serious', 's01_e09_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c05_u007_e2",
+          "tuples": [
+            "('be', 'you/(Girl)', 'amazing', 's01_e09_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c05_u007_e3",
+          "tuples": [
+            "('know', 'you/(Girl)', 'when to spritz', 's01_e09_c05_u007')",
+            "('know', 'you/(Girl)', 'when to lay back', 's01_e09_c05_u007')",
+            "('spritz', 'you/(Girl)', None, 's01_e09_c05_u007')",
+            "('lay', 'you/(Girl)', 'back', 's01_e09_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u008_e1",
+          "tuples": [
+            "('know', 'you/(Joey Tribbiani)', 'what that means to me', 's01_e09_c05_u008')",
+            "('mean', 'that/(compliment)', 'to me', 's01_e09_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u009",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u009_e1",
+          "tuples": [
+            "('smell', 'you/(Girl)', 'great', 's01_e09_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c05_u009_e2",
+          "tuples": [
+            "('wear', 'you/(Girl)', 'what', 's01_e09_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u011_e1",
+          "tuples": [
+            "('listen', 'you/(Girl)', None, 's01_e09_c05_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c05_u011_e2",
+          "tuples": [
+            "('want', 'you/(Girl)', 'go get a drink or something', 's01_e09_c05_u011')",
+            "('go', 'you/(Girl)', 'get a drink or something', 's01_e09_c05_u011')",
+            "('get', 'you/(Girl)', 'a drink or something', 's01_e09_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u013",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u013_e1",
+          "tuples": [
+            "('be', 'what/(problem)', 'wrong', 's01_e09_c05_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u014",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u014_e1",
+          "tuples": [
+            "('remember', 'I/(Girl)', 'I have to do something', 's01_e09_c05_u014')",
+            "('do', 'I/(Girl)', 'something', 's01_e09_c05_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u016",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u016_e1",
+          "tuples": [
+            "('leave', 'I/(Girl)', None, 's01_e09_c05_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c05_u017",
+      "events": [
+        {
+          "event_id": "s01_e09_c05_u017_e1",
+          "tuples": [
+            "('wait', 'you/(Girl)', None, 's01_e09_c05_u017')"
+          ]
+        }
+      ]
+    }
+  ]
+}

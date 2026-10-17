@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up during labor—complains that Speaker_01 and Speaker_02 are going to kill them and directs Speaker_02 to count faster—showing assertive, expressive engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Accuses the helpers of 'going to kill me' and impatiently orders Speaker_02 to count faster, indicating irritability and low cooperativeness in the moment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about planning or careful organization; TargetSpeaker is reacting to contractions rather than managing tasks."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "The dramatic statement 'you’re going to kill me' and impatience about the counting show anxiety and stress sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or rigidity are shown in the brief exchanges."
+  }
+}

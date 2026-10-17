@@ -1,0 +1,465 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c03_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'they/(unspecified)', \"it's the same as the distance from the tip of a guy's thumb to the tip of his index finger\", 's01_e03_c03_u001')",
+            "('be', 'it/(unspecified measure)', \"the same as the distance from the tip of a guy's thumb to the tip of his index finger\", 's01_e03_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that/(thumb-index measure claim)', 'ridiculous', 's01_e03_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('use', 'I/Ross Geller', 'either thumb', 's01_e03_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('tell', 'you/#ALL#', 'me', 's01_e03_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'pretty good at this', 's01_e03_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('work', 'I/Phoebe Buffay', None, 's01_e03_c03_u010')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(problem)', 'my bank', 's01_e03_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'they/(the bank)', 'what', 's01_e03_c03_u011')",
+            "('do', 'they/(the bank)', 'to you', 's01_e03_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(problem)', 'nothing', 's01_e03_c03_u012')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('go', 'I/Phoebe Buffay', 'through my mail', 's01_e03_c03_u012')",
+            "('open', 'I/Phoebe Buffay', 'up their monthly statement', 's01_e03_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'five hundred extra dollars', 's01_e03_c03_u014')",
+            "('be', 'five hundred extra dollars', 'in my account', 's01_e03_c03_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u016",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', 'to go down there', 's01_e03_c03_u016')",
+            "('go', 'I/Phoebe Buffay', 'down there', 's01_e03_c03_u016')",
+            "('deal', 'I/Phoebe Buffay', 'with them', 's01_e03_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('talk', 'you/Phoebe Buffay', 'about what', 's01_e03_c03_u017')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('keep', 'you/Phoebe Buffay', 'it', 's01_e03_c03_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u018",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(extra $500)', 'not mine', 's01_e03_c03_u018')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('earn', 'I/Phoebe Buffay', 'it', 's01_e03_c03_u018')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(extra $500)', 'like stealing', 's01_e03_c03_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('spend', 'you/Phoebe Buffay', 'it', 's01_e03_c03_u019')",
+            "('be', 'it/(extra $500)', 'like shopping', 's01_e03_c03_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'we/(Phoebe Buffay + friends)', 'I bought a really great pair of shoes', 's01_e03_c03_u020')",
+            "('buy', 'I/Phoebe Buffay', 'a really great pair of shoes', 's01_e03_c03_u020')",
+            "('know', 'you/#ALL#', \"what I'd hear\", 's01_e03_c03_u020')",
+            "('hear', 'I/Phoebe Buffay', 'what', 's01_e03_c03_u020')",
+            "('hear', 'I/Phoebe Buffay', 'with every step I took', 's01_e03_c03_u020')",
+            "('take', 'I/Phoebe Buffay', 'every step', 's01_e03_c03_u020')",
+            "('be', 'I/Phoebe Buffay', 'happy', 's01_e03_c03_u020')",
+            "('skip', 'I/Phoebe Buffay', None, 's01_e03_c03_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u021",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'we/(Monica Geller + friends)', 'with you', 's01_e03_c03_u021')",
+            "('get', 'we/(Monica Geller + friends)', 'it', 's01_e03_c03_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u023",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('enjoy', 'I/Phoebe Buffay', 'it', 's01_e03_c03_u023')",
+            "('be', 'it', 'like this giant karmic debt', 's01_e03_c03_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u024",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'you/Chandler Bing', 'what', 's01_e03_c03_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u028",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this', 'what', 's01_e03_c03_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u029",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('smoke', 'I/Chandler Bing', None, 's01_e03_c03_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u030",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('believe', 'I/Phoebe Buffay', 'you', 's01_e03_c03_u030')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'so good', 's01_e03_c03_u030')",
+            "('be', 'you/Chandler Bing', 'for three years', 's01_e03_c03_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u031",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this', 'my reward', 's01_e03_c03_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u032",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('hold', 'you/Chandler Bing', 'on a second', 's01_e03_c03_u032')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'you/Chandler Bing', 'about what you went through the last time you quit', 's01_e03_c03_u032')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('go', 'you/Chandler Bing', 'through what', 's01_e03_c03_u032')",
+            "('quit', 'you/Chandler Bing', None, 's01_e03_c03_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u033",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('quit', 'I/Chandler Bing', None, 's01_e03_c03_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u035",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('put', 'I/Chandler Bing', 'out it', 's01_e03_c03_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u036",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('drink', 'I/Phoebe Buffay', 'this', 's01_e03_c03_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u037",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'I/Monica Geller', 'change', 's01_e03_c03_u037')",
+            "('change', 'I/Monica Geller', None, 's01_e03_c03_u037')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'a date', 's01_e03_c03_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u039",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'it/(Monica–Alan relationship)', 'pretty good', 's01_e03_c03_u039')",
+            "('be', 'it/(Monica–Alan relationship)', 'nice', 's01_e03_c03_u039')",
+            "('have', 'we/(Monica Geller + Alan)', 'fun', 's01_e03_c03_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u040",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'we/(friends)', 'to meet the guy', 's01_e03_c03_u040')",
+            "('meet', 'we/(friends)', 'the guy', 's01_e03_c03_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u041",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'we/(friends)', None, 's01_e03_c03_u041')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'today', 'Monday', 's01_e03_c03_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u043",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('happen', 'what', None, 's01_e03_c03_u043')",
+            "('happen', 'what', 'with Steve', 's01_e03_c03_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u044",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('love', 'we/(friends)', 'Schhteve', 's01_e03_c03_u044')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'Schhteve', 'schhexy', 's01_e03_c03_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u045",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('look', 'you/#ALL#', None, 's01_e03_c03_u045')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('know', 'I/Monica Geller', 'how I feel about him yet', 's01_e03_c03_u045')",
+            "('feel', 'I/Monica Geller', 'about him', 's01_e03_c03_u045')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('give', 'you/#ALL#', 'me a chance to figure that out', 's01_e03_c03_u045')",
+            "('figure', 'I/Monica Geller', 'out that', 's01_e03_c03_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c03_u046",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('meet', 'we/(friends)', 'him', 's01_e03_c03_u046')"
+          ]
+        }
+      ]
+    }
+  ]
+}

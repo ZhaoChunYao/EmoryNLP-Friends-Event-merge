@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives a brief warning and says they will be right back (u010, u014), without showing outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker warns that someone is coming and will see Speaker_01 in the hallway (u010) and reassures others by saying they will be right back (u014), suggesting cooperative, considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from a quick warning (u010) and a brief departure (u014), there is no clear evidence of organized or efficient planning versus carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The warning about someone coming (u010) is not accompanied by signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicate curiosity, inventiveness, or rigidity/dogmatism."
+  }
+}

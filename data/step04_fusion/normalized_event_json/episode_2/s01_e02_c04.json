@@ -1,0 +1,485 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u001_e1",
+          "tuples": [
+            "('call', \"Martha Ludwin's daughter\", 'you', 's01_e02_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u001_e2",
+          "tuples": [
+            "('be', 'that curry taste', 'what', 's01_e02_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u004_e1",
+          "tuples": [
+            "('think', 'I/Ross Geller', \"they're great\", 's01_e02_c04_u004')",
+            "('be', 'they/the food', 'great', 's01_e02_c04_u004')",
+            "('do', 'I/Ross Geller', None, 's01_e02_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u005_e1",
+          "tuples": [
+            "('remember', 'you/Monica Geller', 'the Ludwins', 's01_e02_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u005_e2",
+          "tuples": [
+            "('have', 'The big one', 'a thing for you', 's01_e02_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u006_e1",
+          "tuples": [
+            "('have', 'they all/the Ludwins', 'a thing for him', 's01_e02_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u008",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u008_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'sorry', 's01_e02_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u009_e1",
+          "tuples": [
+            "('graduate', \"she/Martha Ludwin's daughter\", None, 's01_e02_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u009_e2",
+          "tuples": [
+            "('want', \"she/Martha Ludwin's daughter\", 'to be something in cooking or food', 's01_e02_c04_u009')",
+            "('be', \"she/Martha Ludwin's daughter\", 'something', 's01_e02_c04_u009')",
+            "('be', \"she/Martha Ludwin's daughter\", 'in cooking', 's01_e02_c04_u009')",
+            "('be', \"she/Martha Ludwin's daughter\", 'in food', 's01_e02_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u009_e3",
+          "tuples": [
+            "('know', 'I/Judy Geller', None, 's01_e02_c04_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u009_e4",
+          "tuples": [
+            "('tell', 'I/Judy Geller', 'her', 's01_e02_c04_u009')",
+            "('have', 'you/Monica Geller', 'a restaurant', 's01_e02_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u010_e1",
+          "tuples": [
+            "('have', 'I/Monica Geller', 'a restaurant', 's01_e02_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u010_e2",
+          "tuples": [
+            "('work', 'I/Monica Geller', 'in a restaurant', 's01_e02_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u011_e1",
+          "tuples": [
+            "('know', 'they/unknown', 'that', 's01_e02_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u012",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u012_e1",
+          "tuples": [
+            "('come', 'you/Ross Geller', None, 's01_e02_c04_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u012_e2",
+          "tuples": [
+            "('help', 'you/Ross Geller', 'me', 's01_e02_c04_u012')",
+            "('help', 'you/Ross Geller', 'with the spaghetti', 's01_e02_c04_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u014_e1",
+          "tuples": [
+            "('have', 'we/Geller family', 'spaghetti', 's01_e02_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u014_e2",
+          "tuples": [
+            "('be', 'that/meal', 'easy', 's01_e02_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u015_e1",
+          "tuples": [
+            "('know', 'I/Monica Geller', 'this is going to sound unbelievably selfish', 's01_e02_c04_u015')",
+            "('sound', 'this/request', 'unbelievably selfish', 's01_e02_c04_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u015_e2",
+          "tuples": [
+            "('plan', 'you/Ross Geller', 'on bringing up the whole baby/lesbian thing', 's01_e02_c04_u015')",
+            "('bring', 'you/Ross Geller', 'up the whole baby/lesbian thing', 's01_e02_c04_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u015_e3",
+          "tuples": [
+            "('think', 'I/Monica Geller', 'it might take some of the heat off me', 's01_e02_c04_u015')",
+            "('take', 'it/topic', 'some of the heat', 's01_e02_c04_u015')",
+            "('take', 'it/topic', 'off me', 's01_e02_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u017",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u017_e1",
+          "tuples": [
+            "('do', 'Rachel Green', 'to her life', 's01_e02_c04_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u017_e2",
+          "tuples": [
+            "('run', 'we/Judy Geller and Jack Geller', 'into her parents', 's01_e02_c04_u017')",
+            "('run', 'we/Judy Geller and Jack Geller', 'at the club', 's01_e02_c04_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u017_e3",
+          "tuples": [
+            "('play', \"they/Rachel Green's parents\", None, 's01_e02_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u018_e1",
+          "tuples": [
+            "('tell', 'I/Ross Geller', 'you what they spent on that wedding', 's01_e02_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u018_e2",
+          "tuples": [
+            "('spend', \"they/Rachel Green's parents\", 'what', 's01_e02_c04_u018')",
+            "('spend', \"they/Rachel Green's parents\", 'on that wedding', 's01_e02_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u018_e3",
+          "tuples": [
+            "('be', 'forty thousand dollars', 'a lot of money', 's01_e02_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u019",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u019_e1",
+          "tuples": [
+            "('have', 'she/Rachel Green', 'the chance to leave a man at the altar', 's01_e02_c04_u019')",
+            "('leave', 'she/Rachel Green', 'a man', 's01_e02_c04_u019')",
+            "('leave', 'she/Rachel Green', 'at the altar', 's01_e02_c04_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u020",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u020_e1",
+          "tuples": [
+            "('mean', 'that/comment', 'what', 's01_e02_c04_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u021",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u021_e1",
+          "tuples": [
+            "('be', 'it/that comment', 'an expression', 's01_e02_c04_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u022",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u022_e1",
+          "tuples": [
+            "('be', 'it/that comment', None, 's01_e02_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u023",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u023_e1",
+          "tuples": [
+            "('listen', 'you/Monica Geller', 'to your mother', 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e2",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'independent', 's01_e02_c04_u023')",
+            "('be', 'you/Monica Geller', None, 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e3",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'a kid', 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e4",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'chubby', 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e5",
+          "tuples": [
+            "('have', 'you/Monica Geller', 'no friends', 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e6",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'just fine', 's01_e02_c04_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u023_e7",
+          "tuples": [
+            "('read', 'you/Monica Geller', None, 's01_e02_c04_u023')",
+            "('read', 'you/Monica Geller', 'in your room', 's01_e02_c04_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u025",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u025_e1",
+          "tuples": [
+            "('be', 'there', 'people like Ross', 's01_e02_c04_u025')",
+            "('need', 'people like Ross', 'to shoot for the stars', 's01_e02_c04_u025')",
+            "('shoot', 'people like Ross', 'for the stars', 's01_e02_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u025_e2",
+          "tuples": [
+            "('get', 'his papers', 'published', 's01_e02_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u025_e3",
+          "tuples": [
+            "('be', 'Other people', 'satisfied with staying where they are', 's01_e02_c04_u025')",
+            "('stay', 'they/Other people', 'where they are', 's01_e02_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u025_e4",
+          "tuples": [
+            "('tell', 'I/Ross Geller', 'you', 's01_e02_c04_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u025_e5",
+          "tuples": [
+            "('be', 'these', 'the people', 's01_e02_c04_u025')",
+            "('get', 'people', 'cancer', 's01_e02_c04_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u027",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u027_e1",
+          "tuples": [
+            "('read', 'I/Ross Geller', 'about these women trying to have it all', 's01_e02_c04_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u027_e2",
+          "tuples": [
+            "('try', 'these women', 'to have it all', 's01_e02_c04_u027')",
+            "('have', 'these women', 'it all', 's01_e02_c04_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u027_e3",
+          "tuples": [
+            "('thank', 'I/Ross Geller', 'God', 's01_e02_c04_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u027_e4",
+          "tuples": [
+            "('seem', 'Our Little Harmonica', 'to have that problem', 's01_e02_c04_u027')",
+            "('have', 'Our Little Harmonica', 'that problem', 's01_e02_c04_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u028",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u028_e1",
+          "tuples": [
+            "('go', 'what', 'on with you/Ross Geller', 's01_e02_c04_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u029",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u029_e1",
+          "tuples": [
+            "('realise', 'I/Ross Geller', 'you guys have been wondering what exactly happened between Carol and me', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e2",
+          "tuples": [
+            "('wonder', 'you guys/Judy Geller, Jack Geller, and Monica Geller', 'what exactly happened between Carol and me', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e3",
+          "tuples": [
+            "('happen', 'what exactly', None, 's01_e02_c04_u029')",
+            "('happen', 'what exactly', 'between Carol and me', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e4",
+          "tuples": [
+            "('be', 'here', 'the deal', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e5",
+          "tuples": [
+            "('be', 'Carol', 'a lesbian', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e6",
+          "tuples": [
+            "('live', 'she/Carol', 'with a woman named Susan', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e7",
+          "tuples": [
+            "('be', 'she/Carol', 'pregnant with my child', 's01_e02_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c04_u029_e8",
+          "tuples": [
+            "('raise', 'she and Susan', 'the baby', 's01_e02_c04_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c04_u031",
+      "events": [
+        {
+          "event_id": "s01_e02_c04_u031_e1",
+          "tuples": [
+            "('know', 'you/Ross Geller', 'about this', 's01_e02_c04_u031')"
+          ]
+        }
+      ]
+    }
+  ]
+}

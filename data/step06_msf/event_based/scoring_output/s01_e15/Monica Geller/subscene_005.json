@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is planning to host a dinner as an audition and enthusiastically predicts the guest will “ooh” and “ahh” and make yummy noises, and wants Speaker_03 to be there (u016)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear acts of generosity or untrustworthiness; her comments are self-focused about impressing others but not unfriendly or boastfully dismissive."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She admits she does not know what she is going to make for the important Monday night dinner audition (u020), suggesting lack of planning/organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She remains upbeat and confident, saying the audition is going to be great despite not knowing the dish yet (u020)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of trying something novel or being closed-minded; the dish and approach are unspecified."
+  }
+}

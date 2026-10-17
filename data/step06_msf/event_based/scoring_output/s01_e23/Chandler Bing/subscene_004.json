@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively starts a personal proposal about having a baby together at 40 if both are single (u012) and engages in the exchange, showing initiative and talkativeness."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "When pressed about why Speaker_02 wouldn’t be married, TargetSpeaker avoids answering (u016, u018) and deflects (u020). This is not straightforward, but seems intended to avoid hurting feelings; no clear trustworthy vs. unreliable behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "The hypothetical pact (u012) is playful and not evidence of organization or careful follow-through; subsequent evasiveness provides no sign of efficiency or planning."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Under pressure, TargetSpeaker responds with “No, no, no” (u016), hesitates (“Uh, uh,” u018), and blurts a non-sequitur (u020), indicating anxiety and nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Proposes an unconventional, imaginative plan to have a baby with a friend at 40 if both are single (u012), reflecting openness to novel ideas."
+  }
+}

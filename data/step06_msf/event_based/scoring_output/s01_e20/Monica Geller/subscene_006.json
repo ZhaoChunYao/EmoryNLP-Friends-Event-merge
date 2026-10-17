@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes a few brief, practical remarks (e.g., suggests calling her, reminds about needing to pee) without notably outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives helpful, pragmatic advice—tells Speaker_05 to take his phone with him and suggests he call her; reminds him he has to pee. A brief tease (“Do you?”) is mild, overall supportive."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows organized, practical thinking by advising Speaker_05 to take the phone to avoid missing calls and by keeping track of the immediate task (reminding he has to pee)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident, even teasing lightly (“Do you?”), with no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Offers straightforward, conventional solutions (just call her); no clear signs of curiosity or unconventional ideas."
+  }
+}

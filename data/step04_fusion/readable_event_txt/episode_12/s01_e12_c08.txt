@@ -1,0 +1,60 @@
+event_id: s01_e12_c08_u001_e1
+utterance_id: s01_e12_c08_u001
+  tuple: ('happen', 'what', None, 's01_e12_c08_u001')
+
+event_id: s01_e12_c08_u002_e1
+utterance_id: s01_e12_c08_u002
+  tuple: ('come', "he/(Phoebe's client)", 'for a massage', 's01_e12_c08_u002')
+
+event_id: s01_e12_c08_u002_e2
+utterance_id: s01_e12_c08_u002
+  tuple: ('be', 'everything', 'fine', 's01_e12_c08_u002')
+
+event_id: s01_e12_c08_u006_e1
+utterance_id: s01_e12_c08_u006
+  tuple: ('be', 'you/(Phoebe Buffay)', 'sure', 's01_e12_c08_u006')
+
+event_id: s01_e12_c08_u009_e1
+utterance_id: s01_e12_c08_u009
+  tuple: ('be', 'I/(Phoebe Buffay)', 'sure', 's01_e12_c08_u009')
+
+event_id: s01_e12_c08_u009_e2
+utterance_id: s01_e12_c08_u009
+  tuple: ('be', 'his hands', 'the problem anymore', 's01_e12_c08_u009')
+
+event_id: s01_e12_c08_u010_e1
+utterance_id: s01_e12_c08_u010
+  tuple: ('be', 'it/(unknown)', None, 's01_e12_c08_u010')
+
+event_id: s01_e12_c08_u011_e1
+utterance_id: s01_e12_c08_u011
+  tuple: ('camp', 'boy scouts', 'under there', 's01_e12_c08_u011')
+
+event_id: s01_e12_c08_u019_e1
+utterance_id: s01_e12_c08_u019
+  tuple: ('thank', 'I/(Ross Geller)', 'Rach', 's01_e12_c08_u019')
+
+event_id: s01_e12_c08_u021_e1
+utterance_id: s01_e12_c08_u021
+  tuple: ('be', 'you/(Phoebe Buffay)', None, 's01_e12_c08_u021')
+  tuple: ('do', 'you/(Phoebe Buffay)', 'what', 's01_e12_c08_u021')
+
+event_id: s01_e12_c08_u022_e1
+utterance_id: s01_e12_c08_u022
+  tuple: ('tell', 'you/(Phoebe Buffay)', 'her', 's01_e12_c08_u022')
+  tuple: ('be', 'it/(telling her)', 'your moral obligation', 's01_e12_c08_u022')
+  tuple: ('be', 'it/(telling her)', 'as a friend', 's01_e12_c08_u022')
+  tuple: ('be', 'it/(telling her)', 'as a woman', 's01_e12_c08_u022')
+  tuple: ('think', 'I/(Ross Geller)', "it's a feminist issue", 's01_e12_c08_u022')
+  tuple: ('be', 'it/(telling her)', 'a feminist issue', 's01_e12_c08_u022')
+
+event_id: s01_e12_c08_u024_e1
+utterance_id: s01_e12_c08_u024
+  tuple: ('be', 'that/(feminist issue)', 'where I went', 's01_e12_c08_u024')
+  tuple: ('go', 'I/(Joey Tribbiani)', None, 's01_e12_c08_u024')
+
+event_id: s01_e12_c08_u025_e1
+utterance_id: s01_e12_c08_u025
+  tuple: ('be', 'she/(Rachel Green)', None, 's01_e12_c08_u025')
+  tuple: ('hate', 'she/(Rachel Green)', 'me', 's01_e12_c08_u025')
+

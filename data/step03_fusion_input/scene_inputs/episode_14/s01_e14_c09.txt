@@ -1,0 +1,66 @@
+('say', 'I/Ross Geller', 'if dogs do experience jet lag', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('experience', 'dogs', 'jet lag', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('fly', 'a dog', None, 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('fly', 'a dog', 'from New York', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('fly', 'a dog', 'to Los Angeles', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('lose', 'he/a dog', 'three hours', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('lose', 'he/a dog', 'like a week and a half', 's01_e14_c09_u001')
+[s01_e14_c09_u001] Ross Geller: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+
+('be', "that/Ross's comment", 'funny', 's01_e14_c09_u003')
+[s01_e14_c09_u003] Kristin: That's funny. Who are they?
+
+('be', 'they/the two women', 'who', 's01_e14_c09_u003')
+[s01_e14_c09_u003] Kristin: That's funny. Who are they?
+
+('be', 'The blond woman', 'my ex-wife', 's01_e14_c09_u004')
+[s01_e14_c09_u004] Ross Geller: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+
+('touch', 'the woman', 'her', 's01_e14_c09_u004')
+[s01_e14_c09_u004] Ross Geller: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+
+('be', 'the woman touching her', 'her close, personal friend', 's01_e14_c09_u004')
+[s01_e14_c09_u004] Ross Geller: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+
+('mean', 'you/Ross Geller', "they're lovers", 's01_e14_c09_u005')
+[s01_e14_c09_u005] Kristin: You mean they're lovers.
+
+('be', 'they/the two women', 'lovers', 's01_e14_c09_u005')
+[s01_e14_c09_u005] Kristin: You mean they're lovers.
+
+('want', 'you/Kristin', 'to put a label on it', 's01_e14_c09_u006')
+[s01_e14_c09_u006] Ross Geller: If you wanna put a label on it.
+
+('put', 'you/Kristin', 'a label', 's01_e14_c09_u006')
+[s01_e14_c09_u006] Ross Geller: If you wanna put a label on it.
+
+('put', 'you/Kristin', 'on it', 's01_e14_c09_u006')
+[s01_e14_c09_u006] Ross Geller: If you wanna put a label on it.
+
+('know', 'I/Kristin', 'anything else', 's01_e14_c09_u007')
+[s01_e14_c09_u007] Kristin: Wow, uh, anything else I should know?
+
+('be', 'that/everything', 'it', 's01_e14_c09_u008')
+[s01_e14_c09_u008] Ross Geller: Nope, nope, that's it.
+
+('be', 'she/my ex-wife', 'pregnant', 's01_e14_c09_u010')
+[s01_e14_c09_u010] Ross Geller: Oh, and she's pregnant with my baby. I always forget that part. Helloo!
+
+('be pregnant', 'she/my ex-wife', 'with my baby', 's01_e14_c09_u010')
+[s01_e14_c09_u010] Ross Geller: Oh, and she's pregnant with my baby. I always forget that part. Helloo!
+
+('forget', 'I/Ross Geller', 'that part', 's01_e14_c09_u010')
+[s01_e14_c09_u010] Ross Geller: Oh, and she's pregnant with my baby. I always forget that part. Helloo!
+

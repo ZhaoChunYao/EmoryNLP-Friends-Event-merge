@@ -1,0 +1,68 @@
+event_id: s01_e17_c10_u001_e1
+utterance_id: s01_e17_c10_u001
+  tuple: ('say', 'you/(Ross Geller)', 'you never feel like a father', 's01_e17_c10_u001')
+
+event_id: s01_e17_c10_u001_e2
+utterance_id: s01_e17_c10_u001
+  tuple: ('feel', 'you/(Ross Geller)', None, 's01_e17_c10_u001')
+  tuple: ('feel', 'you/(Ross Geller)', 'like a father', 's01_e17_c10_u001')
+
+event_id: s01_e17_c10_u003_e1
+utterance_id: s01_e17_c10_u003
+  tuple: ('say', 'you/(Ross Geller)', 'your son never feels connected to you, as one', 's01_e17_c10_u003')
+
+event_id: s01_e17_c10_u003_e2
+utterance_id: s01_e17_c10_u003
+  tuple: ('feel', 'your son', 'connected to you', 's01_e17_c10_u003')
+  tuple: ('feel', 'your son', 'as one', 's01_e17_c10_u003')
+
+event_id: s01_e17_c10_u003_e3
+utterance_id: s01_e17_c10_u003
+  tuple: ('say', 'you/(Ross Geller)', 'all of his relationships are affected by this', 's01_e17_c10_u003')
+
+event_id: s01_e17_c10_u003_e4
+utterance_id: s01_e17_c10_u003
+  tuple: ('affect', 'all of his relationships', 'by this', 's01_e17_c10_u003')
+
+event_id: s01_e17_c10_u004_e1
+utterance_id: s01_e17_c10_u004
+  tuple: ('have', 'you/(Chandler Bing)', 'a point', 's01_e17_c10_u004')
+
+event_id: s01_e17_c10_u005_e1
+utterance_id: s01_e17_c10_u005
+  tuple: ('know', 'you/(Ross Geller)', None, 's01_e17_c10_u005')
+
+event_id: s01_e17_c10_u005_e2
+utterance_id: s01_e17_c10_u005
+  tuple: ('think', 'you/(Ross Geller)', 'I would', 's01_e17_c10_u005')
+
+event_id: s01_e17_c10_u007_e1
+utterance_id: s01_e17_c10_u007
+  tuple: ('be', 'what', 'up with the simian', 's01_e17_c10_u007')
+
+event_id: s01_e17_c10_u008_e1
+utterance_id: s01_e17_c10_u008
+  tuple: ('be', 'it/(the simian)', 'just a fur ball', 's01_e17_c10_u008')
+
+event_id: s01_e17_c10_u009_e1
+utterance_id: s01_e17_c10_u009
+  tuple: ('be', 'it/(the game)', 'whose turn', 's01_e17_c10_u009')
+
+event_id: s01_e17_c10_u010_e1
+utterance_id: s01_e17_c10_u010
+  tuple: ('get', 'I/(Ross Geller)', '43 points', 's01_e17_c10_u010')
+  tuple: ('get', 'I/(Ross Geller)', "for 'KIDNEY'", 's01_e17_c10_u010')
+
+event_id: s01_e17_c10_u011_e1
+utterance_id: s01_e17_c10_u011
+  tuple: ('get', 'you/(Ross Geller)', 'zero points', 's01_e17_c10_u011')
+  tuple: ('get', 'you/(Ross Geller)', "for 'IDNEY'", 's01_e17_c10_u011')
+
+event_id: s01_e17_c10_u012_e1
+utterance_id: s01_e17_c10_u012
+  tuple: ('have', 'I/(Ross Geller)', "a 'K'", 's01_e17_c10_u012')
+
+event_id: s01_e17_c10_u012_e2
+utterance_id: s01_e17_c10_u012
+  tuple: ('be', "my 'K'", 'where', 's01_e17_c10_u012')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and sustains conversation, asks about Speaker_03’s feelings (u019), and delivers extended advice and plans (u025) rather than staying quiet."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to help clean up (u017), gives tactful advice to avoid saying “dumped” and to spare Speaker_04’s feelings, and compliments Speaker_03 (u025)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proposes concrete plans—he will see Speaker_04 to return the ring and coordinates others to the OB/GYN (u025); proactively offers help with cleaning (u017)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly, gives structured guidance, and takes charge of tasks (u025) without showing anxiety; his remark about complications (u027) lacks distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Gives practical, conventional advice; no clear signs of unusual curiosity or inventive thinking in the exchange."
+  }
+}

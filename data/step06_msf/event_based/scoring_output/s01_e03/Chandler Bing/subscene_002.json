@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge and talks a lot, directing the interaction: tells Speaker_01 to smoke now, relax the hand, try a puff, look at TargetSpeaker, and declares “we are going to smoke now.”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Pushes past boundaries and teases: insists “give the cigarette to me” and, after refusal, says “it’s fine”; also jabs that the awkward smoking attempt is why Speaker_02 smokes alone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows structured coaching and task focus: gives specific feedback (“previous line reading was really good”) and step-by-step instructions on how to hold and use the cigarette, keeping the exercise on track."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure, issuing firm corrections like “Not so much!” and “Hey!” without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses imaginative reframing: “don’t think of the cigarette as a cigarette… think of it as the thing missing from your hand… holding it makes you feel right and complete.”"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c08_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'Andr', 'there', 's01_e22_c08_u001')",
+            "('be', 'Andr', 'in like 45 minutes', 's01_e22_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('tell', 'you/Rachel Green', 'me', 's01_e22_c08_u002')",
+            "('tell', 'you/Rachel Green', 'about the last dream', 's01_e22_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('come', 'you/Rachel Green', 'on', 's01_e22_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('forget', 'you/Chandler Bing', 'it', 's01_e22_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'I/Chandler Bing', 'anything', 's01_e22_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'not the only one there', 's01_e22_c08_u005')",
+            "('be', 'Joey Tribbiani', 'there', 's01_e22_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'anybody else', 's01_e22_c08_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'sure', 's01_e22_c08_u009')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('hand out', 'nobody', 'mints or anything', 's01_e22_c08_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(the dream)', 'just the three of us', 's01_e22_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(the dream)', 'like you and Chandler', 's01_e22_c08_u012')",
+            "('be', 'it/(the dream)', 'like you and me', 's01_e22_c08_u012')",
+            "('be', 'it/(the dream)', 'like you and me and Chandler', 's01_e22_c08_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'you/Joey Tribbiani', 'what', 's01_e22_c08_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'times', 's01_e22_c08_u015')",
+            "('be', 'it/(the dream)', 'not even me', 's01_e22_c08_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that', 'so sweet', 's01_e22_c08_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('call', 'Ethan', None, 's01_e22_c08_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u026",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'you/Monica Geller', 'him', 's01_e22_c08_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u027",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'you/(everyone)', None, 's01_e22_c08_u027')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('work out', 'things', None, 's01_e22_c08_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u028",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have to do with', 'this', 'the fact that he needs a note to get out of gym', 's01_e22_c08_u028')",
+            "('need', 'he/Ethan', 'a note', 's01_e22_c08_u028')",
+            "('get out', 'he/Ethan', 'of gym', 's01_e22_c08_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u030",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'I/Rachel Green', 'anything', 's01_e22_c08_u030')",
+            "('swear', 'I/Rachel Green', None, 's01_e22_c08_u030')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('stop by', 'he/Ethan', None, 's01_e22_c08_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u031",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e22_c08_u031')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('talk', 'you/Rachel Green', None, 's01_e22_c08_u031')",
+            "('talk', 'you/Rachel Green', 'to him', 's01_e22_c08_u031')",
+            "('ask', 'you/Rachel Green', 'him', 's01_e22_c08_u031')",
+            "('be', 'which one', 'the strongest Power Ranger', 's01_e22_c08_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u034",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'my life', 'so amusing', 's01_e22_c08_u034')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('drop', 'we/(everyone)', 'it', 's01_e22_c08_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u036",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'morphin time', 's01_e22_c08_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u040",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'I/Phoebe Buffay', None, 's01_e22_c08_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u041",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/Phoebe Buffay', None, 's01_e22_c08_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u042",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'I/Phoebe Buffay', 'a birthday party', 's01_e22_c08_u042')",
+            "('have', 'I/Phoebe Buffay', 'with some work people', 's01_e22_c08_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u043",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('tell', 'nobody', 'me', 's01_e22_c08_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u044",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e22_c08_u044')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that', 'a part of the whole them-not-liking-you-extravaganza', 's01_e22_c08_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u045",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'this', 's01_e22_c08_u045')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'these people', 'my friends', 's01_e22_c08_u045')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'in charge', 's01_e22_c08_u045')",
+            "('mean', 'just because I am in charge', 'I am a different person', 's01_e22_c08_u045')",
+            "('be', 'I/Chandler Bing', 'a different person', 's01_e22_c08_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u046",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e22_c08_u046')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('come', 'you/Chandler Bing', None, 's01_e22_c08_u046')",
+            "('hang out', 'you/Chandler Bing', None, 's01_e22_c08_u046')",
+            "('hang out', 'you/Chandler Bing', 'with them', 's01_e22_c08_u046')",
+            "('let', 'you/Chandler Bing', 'them', 's01_e22_c08_u046')",
+            "('see', 'them/(work people)', 'what a great guy you still are', 's01_e22_c08_u046')",
+            "('be', 'you/Chandler Bing', 'a great guy', 's01_e22_c08_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u047",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'you/Phoebe Buffay', 'I should', 's01_e22_c08_u047')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u048",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'I/Phoebe Buffay', None, 's01_e22_c08_u048')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c08_u052",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'we/(Phoebe Buffay & Chandler Bing)', None, 's01_e22_c08_u052')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'to be the geek that invited the boss', 's01_e22_c08_u052')",
+            "('be', 'I/Phoebe Buffay', 'the geek that invited the boss', 's01_e22_c08_u052')",
+            "('invite', 'the geek', 'the boss', 's01_e22_c08_u052')"
+          ]
+        }
+      ]
+    }
+  ]
+}

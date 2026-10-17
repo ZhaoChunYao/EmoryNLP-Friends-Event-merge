@@ -1,0 +1,962 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c02_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('guess', 'I/(Monica Geller)', 'that he bought her the big pipe organ', 's01_e01_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('buy', 'he/(unknown)', 'the big pipe organ', 's01_e01_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'she/(unknown)', 'not happy about it', 's01_e01_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('decide', 'you/(Monica Geller)', None, 's01_e01_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'whatever Christine is having', 's01_e01_c02_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('have', 'Christine', 'whatever', 's01_e01_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('marry', 'I/(Rachel Green)', 'him/(Barry Farber)', 's01_e01_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'sorry', 's01_e01_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('love', 'I/(Rachel Green)', 'him/(Barry Farber)', 's01_e01_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('matter', 'it/(the marriage decision)', 'to me/(Rachel Green)', 's01_e01_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('let', 'I/(Phoebe Buffay)', 'go of my hair', 's01_e01_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('fall', 'my head', 'off', 's01_e01_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('wear', 'she/(unknown)', 'those pants', 's01_e01_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('say', 'I/(Joey Tribbiani)', 'push her down the stairs', 's01_e01_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('push', 'I/(Joey Tribbiani)', 'down the stairs', 's01_e01_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('push', 'Chandler Bing, Joey Tribbiani, Phoebe Buffay, Ross Geller', 'down the stairs', 's01_e01_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/(Dr. Leonard Green)', 'to me/(Rachel Green)', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(the situation)', 'like', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('tell', 'everyone', 'me/(Rachel Green)', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'a shoe', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('stop', 'I/(Rachel Green)', None, 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e6",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', '‘What if I don’t wanna be a shoe? What if I wanna be a purse or a hat?’', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e7",
+          "tuples": [
+            "('want', 'I/(Rachel Green)', 'to be a shoe', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e8",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'a shoe', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e9",
+          "tuples": [
+            "('want', 'I/(Rachel Green)', 'to be a purse', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e10",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'a purse', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e11",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', 'I want you to buy me a hat', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e12",
+          "tuples": [
+            "('want', 'I/(Rachel Green)', 'you/(Dr. Leonard Green) to buy me a hat', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e13",
+          "tuples": [
+            "('buy', 'you/(Dr. Leonard Green)', 'a hat', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e14",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', 'I am a ha-', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e15",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'a ha-', 's01_e01_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "e16",
+          "tuples": [
+            "('be', \"it/(what I'm saying)\", 'a metaphor', 's01_e01_c02_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'you/(Rachel Green)', 'where he’d have trouble', 's01_e01_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('have', 'he/(Dr. Leonard Green)', 'trouble', 's01_e01_c02_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('look', 'you/(Dr. Leonard Green)', None, 's01_e01_c02_u013')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(this)', 'my life', 's01_e01_c02_u013')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('stay', 'I/(Rachel Green)', 'with Monica', 's01_e01_c02_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('guess', 'I/(Monica Geller)', 'we’ve established who’s staying here with Monica', 's01_e01_c02_u014')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('establish', 'we/(Monica Geller and Rachel Green)', 'who’s staying here with Monica', 's01_e01_c02_u014')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('stay', 'who/(Rachel Green)', 'with Monica', 's01_e01_c02_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that/(the decision)', 'my decision', 's01_e01_c02_u015')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('need', 'I/(Rachel Green)', 'your money', 's01_e01_c02_u015')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('wait', 'you/(Dr. Leonard Green)', None, 's01_e01_c02_u015')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', 'maybe', 's01_e01_c02_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('breathe', 'you/(Rachel Green)', None, 's01_e01_c02_u017')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that/(breathing)', 'it', 's01_e01_c02_u017')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('try', 'you/(Rachel Green)', 'to think of nice calm things', 's01_e01_c02_u017')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('think', 'you/(Rachel Green)', 'of nice calm things', 's01_e01_c02_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u018",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'these/(things Phoebe is listing)', 'a few', 's01_e01_c02_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'all better now', 's01_e01_c02_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('help', 'I/(Phoebe Buffay)', None, 's01_e01_c02_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u021",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('look', 'you/(Rachel Green)', None, 's01_e01_c02_u021')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'this/(situation)', 'probably for the best', 's01_e01_c02_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u022",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('need', 'you/(Rachel Green)', 'anything', 's01_e01_c02_u022')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('come', 'you/(Rachel Green)', 'to Joey', 's01_e01_c02_u022')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('live', 'Joey Tribbiani and Chandler Bing', 'across the hall', 's01_e01_c02_u022')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'he/(Chandler Bing)', 'away', 's01_e01_c02_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u023",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('stop', 'Joey Tribbiani', 'hitting on her', 's01_e01_c02_u023')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('hit', 'you/(Joey Tribbiani)', 'on her', 's01_e01_c02_u023')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(today)', 'her wedding day', 's01_e01_c02_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u024",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there/(existential)', 'a rule or something', 's01_e01_c02_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u026",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'you/(unknown)', 'that', 's01_e01_c02_u026')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(the sound)', 'a horrible sound', 's01_e01_c02_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u027",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(name)', 'Paul', 's01_e01_c02_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u028",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(time)', '6:30', 's01_e01_c02_u028')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('buzz', 'you/(unknown)', 'in him', 's01_e01_c02_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u029",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'who/(unknown person identity)', 'Paul', 's01_e01_c02_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u031",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', \"your 'not a real date' tonight\", 'Paul the Wine Guy', 's01_e01_c02_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u032",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('ask', 'he/(Paul the Wine Guy)', 'out you/(Monica Geller)', 's01_e01_c02_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u034",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this/(moment)', 'a Dear Diary moment', 's01_e01_c02_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u035",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('wait', 'you/(Rachel Green)', None, 's01_e01_c02_u035')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('cancel', 'I/(Monica Geller)', None, 's01_e01_c02_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u036",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/(Monica Geller)', None, 's01_e01_c02_u036')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that/(the plan)', 'fine', 's01_e01_c02_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u037",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'okay', 's01_e01_c02_u037')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('want', 'you/(Rachel Green)', 'me/(Monica Geller) to stay', 's01_e01_c02_u037')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('stay', 'me/(Monica Geller)', None, 's01_e01_c02_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u038",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'that/(that idea)', 'good', 's01_e01_c02_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u040",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/(Monica Geller)', 'on', 's01_e01_c02_u040')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(Paul the Wine Guy)', 'Paul the Wine Guy', 's01_e01_c02_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u041",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('mean', 'that/(that phrase)', None, 's01_e01_c02_u041')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('sell', 'he/(Paul the Wine Guy)', 'it/(wine)', 's01_e01_c02_u041')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('drink', 'he/(Paul the Wine Guy)', 'it/(wine)', 's01_e01_c02_u041')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('complain', 'he/(Paul the Wine Guy)', None, 's01_e01_c02_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u043",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'you/(Paul the Wine Guy)', 'in', 's01_e01_c02_u043')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'this/(Paul)', 'everybody', 's01_e01_c02_u043')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'this/(everybody)', 'Paul', 's01_e01_c02_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u045",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'sorry', 's01_e01_c02_u045')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('catch', 'I/(Chandler Bing)', 'your name', 's01_e01_c02_u045')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(your name)', 'Paul', 's01_e01_c02_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u046",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'right back', 's01_e01_c02_u046')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('go', 'I/(Monica Geller)', None, 's01_e01_c02_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u048",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('change', 'you/(Monica Geller)', None, 's01_e01_c02_u048')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('sit', 'you/(Paul the Wine Guy)', None, 's01_e01_c02_u048')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u049",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('pull', 'I/(Phoebe Buffay)', 'out four eyelashes', 's01_e01_c02_u049')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that/(pulling eyelashes)', 'good', 's01_e01_c02_u049')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u053",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('like', 'she/(Monica Geller)', 'it', 's01_e01_c02_u053')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('rub', 'you/(Paul the Wine Guy)', 'her neck', 's01_e01_c02_u053')",
+            "('rub', 'you/(Paul the Wine Guy)', 'in the same spot', 's01_e01_c02_u053')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('start', 'it/(her neck)', 'to get a little red', 's01_e01_c02_u053')",
+            "('get', 'it/(her neck)', 'a little red', 's01_e01_c02_u053')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u054",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('shut up', 'you/(Joey Tribbiani)', None, 's01_e01_c02_u054')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u055",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'up to tonight', 's01_e01_c02_u055')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u056",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('suppose', 'I/(Rachel Green)', 'to be headed for Aruba on my honeymoon', 's01_e01_c02_u056')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('head', 'I/(Rachel Green)', 'for Aruba', 's01_e01_c02_u056')",
+            "('head', 'I/(Rachel Green)', 'on my honeymoon', 's01_e01_c02_u056')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u057",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'you/(Rachel Green)', 'your honeymoon', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('talk', 'you/(generic)', 'about your big lizards', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('feel', 'you/(Rachel Green)', 'like being alone tonight', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'alone tonight', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('come', 'Joey and Chandler', 'over', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e6",
+          "tuples": [
+            "('help', 'Joey and Chandler', 'me/(Ross Geller)', 's01_e01_c02_u057')"
+          ]
+        },
+        {
+          "event_id": "e7",
+          "tuples": [
+            "('put together', 'me/(Ross Geller)', 'my new furniture', 's01_e01_c02_u057')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u058",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing and Joey Tribbiani)', 'very excited', 's01_e01_c02_u058')",
+            "('be', 'we/(Chandler Bing and Joey Tribbiani)', 'excited about it', 's01_e01_c02_u058')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u059",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', 'I am just gonna hang out here tonight', 's01_e01_c02_u059')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('hang', 'I/(Rachel Green)', None, 's01_e01_c02_u059')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(day)', 'kinda a long day', 's01_e01_c02_u059')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u061",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'you/(Phoebe Buffay)', 'to help', 's01_e01_c02_u061')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('help', 'you/(Phoebe Buffay)', None, 's01_e01_c02_u061')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c02_u062",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('wish', 'I/(Phoebe Buffay)', 'I could', 's01_e01_c02_u062')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('can', 'I/(Phoebe Buffay)', None, 's01_e01_c02_u062')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('want', 'I/(Phoebe Buffay)', 'to', 's01_e01_c02_u062')"
+          ]
+        }
+      ]
+    }
+  ]
+}

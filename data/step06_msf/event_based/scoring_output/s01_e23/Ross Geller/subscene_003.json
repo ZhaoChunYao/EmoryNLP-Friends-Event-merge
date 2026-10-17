@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks where two people have been and makes one directive; no clear sign of being especially outgoing or talkative."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker firmly tells Speaker_06 not to stop for a candy bar during this time, which is assertive but not hostile or untrustworthy."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "In an urgent hospital context, TargetSpeaker prioritizes efficiency by saying Speaker_06 should not stop for Chunky candy bars and checks where people have been, focusing on timely, organized behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear expressions of anxiety or emotional volatility; statements are practical and focused."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of creativity/curiosity or rigidity/dogmatism in the brief exchanges."
+  }
+}

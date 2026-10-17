@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively tries to recruit a waitress and assertively negotiates pay (“Ten dollars an hour.” then “Twelve dollars an hour.”), taking charge of the conversation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Pressures and guilt-trips Speaker_02 by invoking past favors (“I was there for you… put a roof over your head… my help means nothing to you”) to coerce compliance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Task-focused and solution-oriented after being left without a waitress; immediately seeks a replacement and adjusts the offer efficiently (raises wage to secure help)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses hurt and insecurity (“my help means nothing to you”) and dwells on an emotionally charged past event to influence the other person."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, creativity, or rigidity; interaction centers on practical problem-solving and persuasion."
+  }
+}

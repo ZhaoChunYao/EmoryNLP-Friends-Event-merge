@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively and assertively engages: expresses disbelief about Speaker_03 not dating Speaker_04 (u014), explains the Flintstones belief issue (u016), tosses in a quip (u018), bluntly claims Speaker_03 still wants Speaker_01 (u020), and makes a pop-culture joke (u022)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is confrontational and sarcastic toward Speaker_03—\"cannot believe\" them and insists they want Speaker_01 (u014, u020), capped with a mocking pop-culture jab (u022)—prioritizing criticism over harmony, despite briefly praising Speaker_04 (u014)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior related to organization, planning, or diligence is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Tone is confident and playful with no signs of anxiety; boldly challenges and jokes with others (u014, u020, u022)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows imaginative, humorous thinking through quirky references—\"...little playthings with yarn?\" (u018) and \"the sarcastic sister from What's Happening\" (u022)—and remains appreciative of Speaker_04 despite an odd belief (u014, u016)."
+  }
+}

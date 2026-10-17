@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Bursts in with an enthusiastic 'Yo-hooo!', says she and a friend crashed an embassy party, is very drunk, and excitedly declares 'water rules' and plans to go to the Big Apple Circus—outgoing, energetic behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Admits 'I am lying right now' and did not call despite knowing a friend was worried, showing untrustworthiness and low consideration."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Ignores work obligations (restaurant called asking if she’ll show up; she plans to go to the circus), is very drunk, and rejects being the person who pays bills promptly—careless and disorganized."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays carefree, confident behavior with no signs of worry about consequences; adopts a playful persona ('Monana') rather than showing anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Eagerly pursues novel experiences (crashing an embassy party, going to the circus) and experiments with a new identity, rejecting routine roles."
+  }
+}

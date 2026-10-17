@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is loud and highly expressive (others say only dogs can hear him) and takes charge by telling everyone to stop arguing; he engages actively in the group and hosts the Thanksgiving dinner."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is combative and sarcastic—argues with Speaker_02 in a sharp back-and-forth (“Why?” “Because!”) and snaps at Speaker_04 (“you wanted lumps… now you get a lump”), showing irritability and blame."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He took responsibility for hosting his first Thanksgiving, worked hard, and organized multiple dishes tailored to each person’s preferences (different potato styles, peas and onions for one person, tater tots for another)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He shows high stress and negative affect—lamenting that everything is his responsibility, declaring the dinner is all burned, and speaking so loudly others comment on it."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking; actions center on preparing a traditional meal and managing conflict without indicating openness or closed-mindedness."
+  }
+}

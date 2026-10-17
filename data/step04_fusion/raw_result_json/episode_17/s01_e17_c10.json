@@ -1,0 +1,154 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u001_e1",
+          "tuples": [
+            "('say', 'you/(Ross Geller)', 'you never feel like a father', 's01_e17_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u001_e2",
+          "tuples": [
+            "('feel', 'you/(Ross Geller)', None, 's01_e17_c10_u001')",
+            "('feel', 'you/(Ross Geller)', 'like a father', 's01_e17_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u003_e1",
+          "tuples": [
+            "('say', 'you/(Ross Geller)', 'your son never feels connected to you, as one', 's01_e17_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u003_e2",
+          "tuples": [
+            "('feel', 'your son', 'connected to you', 's01_e17_c10_u003')",
+            "('feel', 'your son', 'as one', 's01_e17_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u003_e3",
+          "tuples": [
+            "('say', 'you/(Ross Geller)', 'all of his relationships are affected by this', 's01_e17_c10_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u003_e4",
+          "tuples": [
+            "('affect', 'all of his relationships', 'by this', 's01_e17_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u004_e1",
+          "tuples": [
+            "('have', 'you/(Chandler Bing)', 'a point', 's01_e17_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u005_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', None, 's01_e17_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u005_e2",
+          "tuples": [
+            "('think', 'you/(Ross Geller)', 'I would', 's01_e17_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u007_e1",
+          "tuples": [
+            "('be', 'what', 'up with the simian', 's01_e17_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u008_e1",
+          "tuples": [
+            "('be', 'it/(the simian)', 'just a fur ball', 's01_e17_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u009_e1",
+          "tuples": [
+            "('be', 'it/(the game)', 'whose turn', 's01_e17_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u010",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u010_e1",
+          "tuples": [
+            "('get', 'I/(Ross Geller)', '43 points', 's01_e17_c10_u010')",
+            "('get', 'I/(Ross Geller)', \"for 'KIDNEY'\", 's01_e17_c10_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u011_e1",
+          "tuples": [
+            "('get', 'you/(Ross Geller)', 'zero points', 's01_e17_c10_u011')",
+            "('get', 'you/(Ross Geller)', \"for 'IDNEY'\", 's01_e17_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c10_u012",
+      "events": [
+        {
+          "event_id": "s01_e17_c10_u012_e1",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', \"a 'K'\", 's01_e17_c10_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c10_u012_e2",
+          "tuples": [
+            "('be', \"my 'K'\", 'where', 's01_e17_c10_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

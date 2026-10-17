@@ -1,0 +1,198 @@
+('look', 'it/(food)', 'good', 's01_e09_c08_u001')
+[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+
+('mull', 'cider', None, 's01_e09_c08_u001')
+[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+
+('turk', 'turkey', None, 's01_e09_c08_u001')
+[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+
+('yam', 'yams', None, 's01_e09_c08_u001')
+[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+
+('know', 'I/Ross Geller', None, 's01_e09_c08_u002')
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+
+('be', 'it/(Thanksgiving)', 'not the same', 's01_e09_c08_u002')
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+
+('be', 'it/(Thanksgiving)', 'without Mom', 's01_e09_c08_u002')
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+
+('be', 'it/(Thanksgiving)', 'in the kitchen', 's01_e09_c08_u002')
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+
+('know', 'you/Ross Geller', 'what', 's01_e09_c08_u003')
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+
+('get', 'you/Ross Geller', 'out of my way', 's01_e09_c08_u003')
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+
+('stop', 'you/Ross Geller', 'moping', 's01_e09_c08_u003')
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+
+('be', "that/(Monica's tone)", 'closer', 's01_e09_c08_u004')
+[s01_e09_c08_u004] Ross Geller: That's closer.
+
+('get', 'I/Rachel Green', 'the tickets', 's01_e09_c08_u006')
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+
+('shoop', 'I/Rachel Green', None, 's01_e09_c08_u006')
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+
+('shoop', 'I/Rachel Green', 'from now', 's01_e09_c08_u006')
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+
+('stop', 'you/Rachel Green', 'shooping', 's01_e09_c08_u007')
+[s01_e09_c08_u007] Chandler Bing: Oh, you must stop shooping.
+
+('get', 'I/Rachel Green', 'my stuff', 's01_e09_c08_u008')
+[s01_e09_c08_u008] Rachel Green: Ok, I'm gonna get my stuff.
+
+('come', 'you/Chandler Bing', 'in', 's01_e09_c08_u009')
+[s01_e09_c08_u009] Joey Tribbiani: Chandler, will you just come in already?
+
+('prefer', 'I/Chandler Bing', 'to keep a safe distance from all this merriment', 's01_e09_c08_u010')
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+
+('keep', 'I/Chandler Bing', 'a safe distance', 's01_e09_c08_u010')
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+
+('keep', 'I/Chandler Bing', 'from all this merriment', 's01_e09_c08_u010')
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+
+('look', 'you/(everyone)', 'out', 's01_e09_c08_u012')
+[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!
+
+('laugh', 'we all', None, 's01_e09_c08_u013')
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+
+('do', 'you/Phoebe Buffay', 'with the stuffing', 's01_e09_c08_u013')
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+
+('be', 'that/(throwing food)', 'not funny', 's01_e09_c08_u013')
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+
+('get', 'I/Joey Tribbiani', 'a question', 's01_e09_c08_u015')
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+
+('see', 'I/Joey Tribbiani', 'any tater tots', 's01_e09_c08_u015')
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+
+('be', "that/(Joey's statement)", 'not a question', 's01_e09_c08_u016')
+[s01_e09_c08_u016] Monica Geller: That's not a question.
+
+('make', 'my mom', 'them', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('be', 'it/(that)', 'a tradition', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('get', 'you/(generic)', 'a little piece of turkey', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('get', 'you/(generic)', 'a little cranberry sauce', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('get', 'you/(generic)', 'a tot', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('get', 'you/(generic)', 'on your fork', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('be', 'I/Joey Tribbiani', 'with my family', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('be', 'I/Joey Tribbiani', 'because of my disease', 's01_e09_c08_u017')
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+
+('be', "Tonight's potatoes", 'mashed with lumps', 's01_e09_c08_u018')
+[s01_e09_c08_u018] Monica Geller: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+
+('be', "Tonight's potatoes", 'in the form of tots', 's01_e09_c08_u018')
+[s01_e09_c08_u018] Monica Geller: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+
+('go', 'I/Ross Geller', 'to talk to my unborn child', 's01_e09_c08_u019')
+[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+
+('talk', 'I/Ross Geller', 'to my unborn child', 's01_e09_c08_u019')
+[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+
+('hit', 'Mom', None, 's01_e09_c08_u022')
+[s01_e09_c08_u022] Ross Geller: Ok, Mom never hit.
+
+('whip', 'you/Phoebe Buffay', 'the potatoes', 's01_e09_c08_u025')
+[s01_e09_c08_u025] Monica Geller: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+
+('need', 'Ross Geller', 'lumps', 's01_e09_c08_u025')
+[s01_e09_c08_u025] Monica Geller: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+
+('think', 'I/Phoebe Buffay', 'we could have them whipped and then add some peas and onions', 's01_e09_c08_u026')
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.
+
+('have', 'we/(Phoebe Buffay and Monica Geller)', 'them whipped', 's01_e09_c08_u026')
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.
+
+('add', 'we/(Phoebe Buffay and Monica Geller)', 'some peas and onions', 's01_e09_c08_u026')
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.
+
+('do', 'we/(Monica Geller and Phoebe Buffay)', 'that', 's01_e09_c08_u027')
+[s01_e09_c08_u027] Monica Geller: Why would we do that?
+
+('be', 'they/(potatoes)', 'like my mom used to make them', 's01_e09_c08_u028')
+[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+
+('make', 'my mom', 'them', 's01_e09_c08_u028')
+[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+
+('die', "she/(Phoebe Buffay's mom)", None, 's01_e09_c08_u028')
+[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+
+('come', 'three kinds of potatoes', 'up', 's01_e09_c08_u029')
+[s01_e09_c08_u029] Monica Geller: Ok, three kinds of potatoes coming up.
+
+('thank', 'I/Rachel Green', 'for everything', 's01_e09_c08_u030')
+[s01_e09_c08_u030] Rachel Green: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!
+
+('happen', 'the most unbelievable thing', None, 's01_e09_c08_u032')
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away.
+
+('get', 'Underdog', 'away', 's01_e09_c08_u032')
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away.
+
+('be', 'it/(Underdog balloon escape)', 'over the news', 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('reach', 'he/(Underdog balloon)', "Macy's", 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('break', 'he/(Underdog balloon)', 'free', 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('spot', 'he/(Underdog balloon)', None, 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('fly', 'he/(Underdog balloon)', 'over Washington Square Park', 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('go', 'I/Chandler Bing', 'to the roof', 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('be', 'who/(everyone)', 'with me', 's01_e09_c08_u034')
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+
+('go', 'I/Rachel Green', None, 's01_e09_c08_u035')
+[s01_e09_c08_u035] Rachel Green: I can't, I gotta go.
+
+('come', 'you/(everyone)', 'on', 's01_e09_c08_u036')
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+
+('let', 'an 80-foot inflatable dog', 'loose over the city', 's01_e09_c08_u036')
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+
+('happen', 'that/(an 80-foot inflatable dog let loose over the city)', None, 's01_e09_c08_u036')
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+
+('get', 'you/Rachel Green', 'the keys', 's01_e09_c08_u038')
+[s01_e09_c08_u038] Monica Geller: Got the keys? or Got the keys!
+

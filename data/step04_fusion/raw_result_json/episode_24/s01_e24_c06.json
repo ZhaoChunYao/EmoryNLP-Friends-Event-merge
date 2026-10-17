@@ -1,0 +1,212 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c06_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'you/(Rachel Green)', 'save this wrapping paper', 's01_e24_c06_u001')",
+            "('save', 'you/(Rachel Green)', 'this wrapping paper', 's01_e24_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it/(wrapping paper)', 'only a little bit torn', 's01_e24_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('go', 'you/(Rachel Green)', 'for it with Ross', 's01_e24_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('throw', 'I/(Monica Geller)', 'out it', 's01_e24_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', None, 's01_e24_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', 'about it', 's01_e24_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it/(the situation)', 'Ross Geller', 's01_e24_c06_u002')",
+            "('mean', 'I/(Rachel Green)', None, 's01_e24_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('know', 'you/(Monica Geller, Phoebe Buffay)', 'what I mean', 's01_e24_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this/(my feeling)', 'just my initial gut feeling', 's01_e24_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', None, 's01_e24_c06_u004')",
+            "('think', 'I/(Rachel Green)', 'it would be really great', 's01_e24_c06_u004')",
+            "('be', 'it/(relationship with Ross)', 'really great', 's01_e24_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'we/(Monica Geller, Rachel Green)', 'like friends-in-law', 's01_e24_c06_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('know', 'you/(Rachel Green)', 'what the best part is', 's01_e24_c06_u005')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'the best part', 'that you already know everything about him', 's01_e24_c06_u005')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('know', 'you/(Rachel Green)', 'everything', 's01_e24_c06_u005')",
+            "('know', 'you/(Rachel Green)', 'about him', 's01_e24_c06_u005')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('mean', 'I/(Monica Geller)', None, 's01_e24_c06_u005')",
+            "('be', 'it/(dating Ross)', 'like starting on the fifteenth date', 's01_e24_c06_u005')",
+            "('start', 'it/(dating Ross)', 'on the fifteenth date', 's01_e24_c06_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'at the fifteenth date', 's01_e24_c06_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'in a very relationshippy place', 's01_e24_c06_u008')",
+            "('be', 'you/(Rachel Green)', 'committed', 's01_e24_c06_u008')",
+            "('mean', 'I/(Phoebe Buffay)', None, 's01_e24_c06_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('happen', 'what', None, 's01_e24_c06_u010')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('work', 'it/(relationship)', 'out', 's01_e24_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/(Ross Geller)', 'not cute enough for you', 's01_e24_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('make', 'he/(Ross Geller)', 'enough money', 's01_e24_c06_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'someone else', 's01_e24_c06_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'no one else', 's01_e24_c06_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c06_u021",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('dump', 'you/(Rachel Green)', 'my brother', 's01_e24_c06_u021')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u001_e1",
+          "tuples": [
+            "('add', 'you/Monica Geller', 'a pinch of saffron', 's01_e17_c03_u001')",
+            "('make', 'it/(a pinch of saffron)', 'all the difference', 's01_e17_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u004_e1",
+          "tuples": [
+            "('be', 'she/Rachel Green', None, 's01_e17_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u005_e1",
+          "tuples": [
+            "('be', 'this/Rachel Green', 'my friend Rachel', 's01_e17_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u007",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u007_e1",
+          "tuples": [
+            "('be', 'I/Dr. Mitchell', 'Dr.Mitchell', 's01_e17_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u008_e1",
+          "tuples": [
+            "('be', 'I/Dr. Rosen', 'his friend, Dr.Rosen', 's01_e17_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u010_e1",
+          "tuples": [
+            "('be', 'you/Dr. Mitchell', 'a little cute to be a doctor', 's01_e17_c03_u010')",
+            "('be', 'you/Dr. Mitchell', 'a doctor', 's01_e17_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u011",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u011_e1",
+          "tuples": [
+            "('excuse', 'you/Rachel Green', 'me/Dr. Rosen', 's01_e17_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u012_e1",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'young, young to be a doctor', 's01_e17_c03_u012')",
+            "('be', 'you/Dr. Rosen', 'a doctor', 's01_e17_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e17_c03_u013_e1",
+          "tuples": [
+            "('thank', 'I/Monica Geller', 'you/Rachel Green', 's01_e17_c03_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

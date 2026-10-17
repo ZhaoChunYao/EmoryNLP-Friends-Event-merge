@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly seeks a kiss at midnight and blurts out sensitive news to others, showing outgoing, uninhibited behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Delivers difficult information directly—\"I don't know how to tell you… [X] is… having sex with [Y]… actually I did know\"—showing honesty and straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently asks for a kiss and bluntly shares awkward news with little sign of anxiety; even jokes about how they told it."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity/imagination or of dogmatism/caution."
+  }
+}

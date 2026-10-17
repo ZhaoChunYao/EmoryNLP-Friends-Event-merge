@@ -1,0 +1,196 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u001_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', 'this is gonna sound really stupid', 's01_e05_c12_u001')",
+            "('sound', \"this/(Rachel Green's statement)\", 'really stupid', 's01_e05_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u001_e2",
+          "tuples": [
+            "('feel', 'I/Rachel Green', \"that if I can actually do my own laundry, there isn't anything I can't do\", 's01_e05_c12_u001')",
+            "('do', 'I/Rachel Green', 'my own laundry', 's01_e05_c12_u001')",
+            "('be', 'there', 'anything', 's01_e05_c12_u001')",
+            "('do', 'I/Rachel Green', 'anything', 's01_e05_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u001_e3",
+          "tuples": [
+            "('know', 'you/Ross Geller', None, 's01_e05_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u002",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u002_e1",
+          "tuples": [
+            "('sound', \"That/(Rachel Green's statement)\", 'to me', 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e2",
+          "tuples": [
+            "('know', 'you/Rachel Green', None, 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e3",
+          "tuples": [
+            "('be', 'it/(Rachel Green doing laundry by herself)', 'like the first time I had to make dinner for myself', 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e4",
+          "tuples": [
+            "('make', 'I/Ross Geller', 'dinner for myself', 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e5",
+          "tuples": [
+            "('leave', 'Carol', 'me', 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e6",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'sorry', 's01_e05_c12_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u002_e7",
+          "tuples": [
+            "('be', 'that/(the time remaining)', 'all the time we have', 's01_e05_c12_u002')",
+            "('have', 'we/(Ross Geller and Rachel Green)', 'all the time', 's01_e05_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u004_e1",
+          "tuples": [
+            "('be', 'the laundry', 'done', 's01_e05_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u004_e2",
+          "tuples": [
+            "('be', 'it/(uh-oh phrase)', 'a song', 's01_e05_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u004_e3",
+          "tuples": [
+            "('sing', 'we/(Ross Geller and Rachel Green)', 'the laundry song', 's01_e05_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u005_e1",
+          "tuples": [
+            "('be', 'what', 'the matter', 's01_e05_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u007",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u007_e1",
+          "tuples": [
+            "('show', 'you/Ross Geller', 'me', 's01_e05_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u008",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u008_e1",
+          "tuples": [
+            "('leave', 'you/Rachel Green', 'a red sock', 's01_e05_c12_u008')",
+            "('leave', 'you/Rachel Green', 'in with all your whites', 's01_e05_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u008_e2",
+          "tuples": [
+            "('be', 'everything', 'kinda pink', 's01_e05_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u010",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u010_e1",
+          "tuples": [
+            "('be', 'the red sock', 'still red', 's01_e05_c12_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u010_e2",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'upset', 's01_e05_c12_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u010_e3",
+          "tuples": [
+            "('happen', 'it/(the laundry turning pink)', None, 's01_e05_c12_u010')",
+            "('happen', 'it/(the laundry turning pink)', 'to anyone', 's01_e05_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c12_u011",
+      "events": [
+        {
+          "event_id": "s01_e05_c12_u011_e1",
+          "tuples": [
+            "('happen', 'it/(the laundry turning pink)', 'to me', 's01_e05_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u011_e2",
+          "tuples": [
+            "('look', 'I/Rachel Green', 'like a big marshmallow peep', 's01_e05_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u011_e3",
+          "tuples": [
+            "('do', 'I/Rachel Green', None, 's01_e05_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c12_u011_e4",
+          "tuples": [
+            "('be', 'My father', 'right', 's01_e05_c12_u011')",
+            "('live', 'I/Rachel Green', 'on my own', 's01_e05_c12_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

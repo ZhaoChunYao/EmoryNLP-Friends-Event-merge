@@ -1,0 +1,58 @@
+event_id: s01_e15_c09_u002_e1
+utterance_id: s01_e15_c09_u002
+  tuple: ('be', 'it/(the office)', 'huge', 's01_e15_c09_u002')
+  tuple: ('be', 'it/(the office)', 'so much bigger than the cubicle', 's01_e15_c09_u002')
+  tuple: ('be', 'this/(the office)', 'a cube', 's01_e15_c09_u002')
+
+event_id: s01_e15_c09_u003_e1
+utterance_id: s01_e15_c09_u003
+  tuple: ('look', 'you/Phoebe Buffay', 'at this', 's01_e15_c09_u003')
+
+event_id: s01_e15_c09_u004_e1
+utterance_id: s01_e15_c09_u004
+  tuple: ('have', 'you/Chandler Bing', 'a window', 's01_e15_c09_u004')
+
+event_id: s01_e15_c09_u006_e1
+utterance_id: s01_e15_c09_u006
+  tuple: ('look', 'you/Chandler Bing', None, 's01_e15_c09_u006')
+
+event_id: s01_e15_c09_u006_e2
+utterance_id: s01_e15_c09_u006
+  tuple: ('pee', 'That guy', None, 's01_e15_c09_u006')
+
+event_id: s01_e15_c09_u007_e1
+utterance_id: s01_e15_c09_u007
+  tuple: ('be', 'that/(the viewing)', 'enough of the view', 's01_e15_c09_u007')
+
+event_id: s01_e15_c09_u007_e2
+utterance_id: s01_e15_c09_u007
+  tuple: ('check', 'you/Phoebe Buffay', 'out this', 's01_e15_c09_u007')
+
+event_id: s01_e15_c09_u007_e3
+utterance_id: s01_e15_c09_u007
+  tuple: ('sit', 'you/Phoebe Buffay', 'down', 's01_e15_c09_u007')
+
+event_id: s01_e15_c09_u009_e1
+utterance_id: s01_e15_c09_u009
+  tuple: ('be', 'this/(the office)', 'great', 's01_e15_c09_u009')
+
+event_id: s01_e15_c09_u009_e2
+utterance_id: s01_e15_c09_u009
+  tuple: ('come', 'you/Helen', 'in here for a moment', 's01_e15_c09_u009')
+
+event_id: s01_e15_c09_u011_e1
+utterance_id: s01_e15_c09_u011
+  tuple: ('thank', 'I/Chandler Bing', 'you/Helen', 's01_e15_c09_u011')
+
+event_id: s01_e15_c09_u011_e2
+utterance_id: s01_e15_c09_u011
+  tuple: ('be', 'that/(the instruction)', 'all', 's01_e15_c09_u011')
+
+event_id: s01_e15_c09_u013_e1
+utterance_id: s01_e15_c09_u013
+  tuple: ('do', 'I/Chandler Bing', 'that', 's01_e15_c09_u013')
+
+event_id: s01_e15_c09_u013_e2
+utterance_id: s01_e15_c09_u013
+  tuple: ('promise', 'I/Chandler Bing', None, 's01_e15_c09_u013')
+

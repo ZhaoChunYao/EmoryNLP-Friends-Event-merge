@@ -1,0 +1,713 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e20,s01_e20_c01,Ross Geller,0,0,2,0,3,2,s01_e20_c01_u001,s01_e20_c01_u008,"[s01_e20_c01_u001] Chandler Bing: I can't believe you would actually say that. I would much rather be Mr. Peanut than Mr. Salty.
+[s01_e20_c01_u002] Joey Tribbiani: No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.
+[s01_e20_c01_u003] Ross Geller: I don't know, you don't wanna mess with corn nuts. They're craaazy.
+[s01_e20_c01_u004] Monica Geller: Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!
+[s01_e20_c01_u005] Ross Geller: I can't believe it! He's looking right at us!
+[s01_e20_c01_u006] Rachel Green: Oh, that is so sick.
+[s01_e20_c01_u007] Chandler Bing: I feel violated. And not in a good way.
+[s01_e20_c01_u008] Phoebe Buffay: How can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!"
+s01_e20,s01_e20_c02,Chandler Bing,0,0,0,0,1,2,s01_e20_c02_u001,s01_e20_c02_u006,"[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+[s01_e20_c02_u002] Monica Geller: So have you called her yet?
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!"
+s01_e20,s01_e20_c02,Chandler Bing,1,2,2,1,3,2,s01_e20_c02_u002,s01_e20_c02_u008,"[s01_e20_c02_u002] Monica Geller: So have you called her yet?
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine.
+[s01_e20_c02_u008] Joey Tribbiani: Her answer machine?"
+s01_e20,s01_e20_c02,Chandler Bing,2,4,8,3,9,3,s01_e20_c02_u004,s01_e20_c02_u014,"[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine.
+[s01_e20_c02_u008] Joey Tribbiani: Her answer machine?
+[s01_e20_c02_u009] Chandler Bing: No, interestingly enough her leaf blower picked up.
+[s01_e20_c02_u010] Phoebe Buffay: So, uh, why didn't you say anything?
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase ""Yes indeedy-o.""
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+[s01_e20_c02_u013] Ross Geller: Okay, okay, what's going on?
+[s01_e20_c02_u014] Phoebe Buffay: Okay, they're just talking..."
+s01_e20,s01_e20_c02,Chandler Bing,3,15,18,14,19,2,s01_e20_c02_u015,s01_e20_c02_u025,"[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+[s01_e20_c02_u016] Phoebe Buffay: No, no actually, he's smiling.. and... Oh my God, don't do that!!
+[s01_e20_c02_u017] Ross Geller: What? What? What?!
+[s01_e20_c02_u018] Phoebe Buffay: That man across the street just kicked that pigeon! Oh!
+[s01_e20_c02_u019] Chandler Bing: And basically, that's how a bill becomes a law.
+[s01_e20_c02_u020] #ALL#: Oh!... Right!
+[s01_e20_c02_u021] Chandler Bing: Hey Rach!
+[s01_e20_c02_u022] Monica Geller: How'd it go?
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+[s01_e20_c02_u024] Phoebe Buffay: Not a good day for birds...
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel..."
+s01_e20,s01_e20_c02,Chandler Bing,4,28,30,27,30,2,s01_e20_c02_u029,s01_e20_c02_u037,"[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+[s01_e20_c02_u032] Unknown Speaker: 
+[s01_e20_c02_u033] Chandler Bing: Yes!
+[s01_e20_c02_u034] Rachel Green: Why?
+[s01_e20_c02_u035] Chandler Bing: I have my reasons.
+[s01_e20_c02_u036] Monica Geller: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!"
+s01_e20,s01_e20_c02,Monica Geller,0,0,1,0,2,2,s01_e20_c02_u001,s01_e20_c02_u007,"[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+[s01_e20_c02_u002] Monica Geller: So have you called her yet?
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine."
+s01_e20,s01_e20_c02,Phoebe Buffay,0,5,5,4,6,2,s01_e20_c02_u005,s01_e20_c02_u011,"[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine.
+[s01_e20_c02_u008] Joey Tribbiani: Her answer machine?
+[s01_e20_c02_u009] Chandler Bing: No, interestingly enough her leaf blower picked up.
+[s01_e20_c02_u010] Phoebe Buffay: So, uh, why didn't you say anything?
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase ""Yes indeedy-o."""
+s01_e20,s01_e20_c02,Phoebe Buffay,1,9,9,8,10,2,s01_e20_c02_u009,s01_e20_c02_u015,"[s01_e20_c02_u009] Chandler Bing: No, interestingly enough her leaf blower picked up.
+[s01_e20_c02_u010] Phoebe Buffay: So, uh, why didn't you say anything?
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase ""Yes indeedy-o.""
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+[s01_e20_c02_u013] Ross Geller: Okay, okay, what's going on?
+[s01_e20_c02_u014] Phoebe Buffay: Okay, they're just talking...
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?"
+s01_e20,s01_e20_c02,Phoebe Buffay,2,11,15,10,16,3,s01_e20_c02_u011,s01_e20_c02_u022,"[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase ""Yes indeedy-o.""
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+[s01_e20_c02_u013] Ross Geller: Okay, okay, what's going on?
+[s01_e20_c02_u014] Phoebe Buffay: Okay, they're just talking...
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+[s01_e20_c02_u016] Phoebe Buffay: No, no actually, he's smiling.. and... Oh my God, don't do that!!
+[s01_e20_c02_u017] Ross Geller: What? What? What?!
+[s01_e20_c02_u018] Phoebe Buffay: That man across the street just kicked that pigeon! Oh!
+[s01_e20_c02_u019] Chandler Bing: And basically, that's how a bill becomes a law.
+[s01_e20_c02_u020] #ALL#: Oh!... Right!
+[s01_e20_c02_u021] Chandler Bing: Hey Rach!
+[s01_e20_c02_u022] Monica Geller: How'd it go?"
+s01_e20,s01_e20_c02,Rachel Green,0,19,23,18,24,3,s01_e20_c02_u019,s01_e20_c02_u030,"[s01_e20_c02_u019] Chandler Bing: And basically, that's how a bill becomes a law.
+[s01_e20_c02_u020] #ALL#: Oh!... Right!
+[s01_e20_c02_u021] Chandler Bing: Hey Rach!
+[s01_e20_c02_u022] Monica Geller: How'd it go?
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+[s01_e20_c02_u024] Phoebe Buffay: Not a good day for birds...
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+[s01_e20_c02_u028] Ross Geller: That's, that's nice twice!
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?"
+s01_e20,s01_e20_c02,Rachel Green,1,25,25,24,26,2,s01_e20_c02_u026,s01_e20_c02_u033,"[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+[s01_e20_c02_u028] Ross Geller: That's, that's nice twice!
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+[s01_e20_c02_u032] Unknown Speaker: 
+[s01_e20_c02_u033] Chandler Bing: Yes!"
+s01_e20,s01_e20_c02,Rachel Green,2,27,30,26,30,2,s01_e20_c02_u028,s01_e20_c02_u037,"[s01_e20_c02_u028] Ross Geller: That's, that's nice twice!
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+[s01_e20_c02_u032] Unknown Speaker: 
+[s01_e20_c02_u033] Chandler Bing: Yes!
+[s01_e20_c02_u034] Rachel Green: Why?
+[s01_e20_c02_u035] Chandler Bing: I have my reasons.
+[s01_e20_c02_u036] Monica Geller: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!"
+s01_e20,s01_e20_c02,Ross Geller,0,10,14,9,15,3,s01_e20_c02_u010,s01_e20_c02_u021,"[s01_e20_c02_u010] Phoebe Buffay: So, uh, why didn't you say anything?
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase ""Yes indeedy-o.""
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+[s01_e20_c02_u013] Ross Geller: Okay, okay, what's going on?
+[s01_e20_c02_u014] Phoebe Buffay: Okay, they're just talking...
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+[s01_e20_c02_u016] Phoebe Buffay: No, no actually, he's smiling.. and... Oh my God, don't do that!!
+[s01_e20_c02_u017] Ross Geller: What? What? What?!
+[s01_e20_c02_u018] Phoebe Buffay: That man across the street just kicked that pigeon! Oh!
+[s01_e20_c02_u019] Chandler Bing: And basically, that's how a bill becomes a law.
+[s01_e20_c02_u020] #ALL#: Oh!... Right!
+[s01_e20_c02_u021] Chandler Bing: Hey Rach!"
+s01_e20,s01_e20_c02,Ross Geller,1,22,24,21,25,2,s01_e20_c02_u023,s01_e20_c02_u031,"[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+[s01_e20_c02_u024] Phoebe Buffay: Not a good day for birds...
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+[s01_e20_c02_u028] Ross Geller: That's, that's nice twice!
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?"
+s01_e20,s01_e20_c03,Barry Farber,0,0,0,0,0,2,s01_e20_c03_u001,s01_e20_c03_u005,"[s01_e20_c03_u001] Rachel Green: Wow... Wow!
+[s01_e20_c03_u002] Barry Farber: Yeah.
+[s01_e20_c03_u003] Rachel Green: I'm not crazy, right? I mean, it was never like that.
+[s01_e20_c03_u004] Barry Farber: Nooo, it wasn't.
+[s01_e20_c03_u005] Rachel Green: Ooh, and it's so nice having this little sink here..."
+s01_e20,s01_e20_c03,Rachel Green,0,0,0,0,0,3,s01_e20_c03_u001,s01_e20_c03_u005,"[s01_e20_c03_u001] Rachel Green: Wow... Wow!
+[s01_e20_c03_u002] Barry Farber: Yeah.
+[s01_e20_c03_u003] Rachel Green: I'm not crazy, right? I mean, it was never like that.
+[s01_e20_c03_u004] Barry Farber: Nooo, it wasn't.
+[s01_e20_c03_u005] Rachel Green: Ooh, and it's so nice having this little sink here..."
+s01_e20,s01_e20_c04,Chandler Bing,0,0,2,0,3,3,s01_e20_c04_u001,s01_e20_c04_u008,"[s01_e20_c04_u001] Chandler Bing: Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!
+[s01_e20_c04_u002] Monica Geller: That's what you've been working on for the past two hours?!
+[s01_e20_c04_u003] Chandler Bing: Hey, I've been honing!
+[s01_e20_c04_u004] Ross Geller: What was with the dishes?
+[s01_e20_c04_u005] Chandler Bing: Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.
+[s01_e20_c04_u006] Monica Geller: Look look! He's doing it again, the guy with the telescope!
+[s01_e20_c04_u007] Phoebe Buffay: Oh my God! Go away! Stop looking in here!
+[s01_e20_c04_u008] Monica Geller: Great, now he's waving back."
+s01_e20,s01_e20_c04,Joey Tribbiani,0,6,9,5,9,3,s01_e20_c04_u006,s01_e20_c04_u015,"[s01_e20_c04_u006] Monica Geller: Look look! He's doing it again, the guy with the telescope!
+[s01_e20_c04_u007] Phoebe Buffay: Oh my God! Go away! Stop looking in here!
+[s01_e20_c04_u008] Monica Geller: Great, now he's waving back.
+[s01_e20_c04_u009] Joey Tribbiani: Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!
+[s01_e20_c04_u010] Monica Geller: What kinda stuff?
+[s01_e20_c04_u011] Joey Tribbiani: Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.
+[s01_e20_c04_u012] Phoebe Buffay: You cook naked?
+[s01_e20_c04_u013] Joey Tribbiani: Yeah, toast, oatmeal... nothing that spatters.
+[s01_e20_c04_u014] Unknown Speaker: 
+[s01_e20_c04_u015] Chandler Bing: What are you looking at me for? I didn't know that."
+s01_e20,s01_e20_c04,Monica Geller,0,1,1,0,2,2,s01_e20_c04_u001,s01_e20_c04_u007,"[s01_e20_c04_u001] Chandler Bing: Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!
+[s01_e20_c04_u002] Monica Geller: That's what you've been working on for the past two hours?!
+[s01_e20_c04_u003] Chandler Bing: Hey, I've been honing!
+[s01_e20_c04_u004] Ross Geller: What was with the dishes?
+[s01_e20_c04_u005] Chandler Bing: Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.
+[s01_e20_c04_u006] Monica Geller: Look look! He's doing it again, the guy with the telescope!
+[s01_e20_c04_u007] Phoebe Buffay: Oh my God! Go away! Stop looking in here!"
+s01_e20,s01_e20_c04,Monica Geller,1,3,7,2,8,3,s01_e20_c04_u003,s01_e20_c04_u013,"[s01_e20_c04_u003] Chandler Bing: Hey, I've been honing!
+[s01_e20_c04_u004] Ross Geller: What was with the dishes?
+[s01_e20_c04_u005] Chandler Bing: Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.
+[s01_e20_c04_u006] Monica Geller: Look look! He's doing it again, the guy with the telescope!
+[s01_e20_c04_u007] Phoebe Buffay: Oh my God! Go away! Stop looking in here!
+[s01_e20_c04_u008] Monica Geller: Great, now he's waving back.
+[s01_e20_c04_u009] Joey Tribbiani: Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!
+[s01_e20_c04_u010] Monica Geller: What kinda stuff?
+[s01_e20_c04_u011] Joey Tribbiani: Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.
+[s01_e20_c04_u012] Phoebe Buffay: You cook naked?
+[s01_e20_c04_u013] Joey Tribbiani: Yeah, toast, oatmeal... nothing that spatters."
+s01_e20,s01_e20_c05,Barry Farber,0,0,11,0,12,3,s01_e20_c05_u001,s01_e20_c05_u021,"[s01_e20_c05_u001] Barry Farber: What's the matter?
+[s01_e20_c05_u002] Rachel Green: Oh, it's just... Oh, Barry, this was not good.
+[s01_e20_c05_u003] Barry Farber: No, it was. It was very very good.
+[s01_e20_c05_u004] Rachel Green: Well, what about Mindy?
+[s01_e20_c05_u005] Barry Farber: Oh, way, way better than Mindy.
+[s01_e20_c05_u006] Rachel Green: No, not that, I mean, what about you and Mindy?
+[s01_e20_c05_u007] Barry Farber: Well, if you want, I'll justI'll just break it off with her.
+[s01_e20_c05_u008] Rachel Green: No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.
+[s01_e20_c05_u009] Bernice: Dr. Farber, Bobby Rush is here for his adjustment.
+[s01_e20_c05_u010] Barry Farber: Thanks, Bernice. Let's go away this weekend.
+[s01_e20_c05_u011] Rachel Green: Oh, Barry..! Come on, this is all way too..
+[s01_e20_c05_u012] Barry Farber: We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.
+[s01_e20_c05_u013] Unknown Speaker: 
+[s01_e20_c05_u014] Rachel Green: I had a bra.
+[s01_e20_c05_u015] Unknown Speaker: 
+[s01_e20_c05_u016] Bobby Rush: Hey, Dr. Farber.
+[s01_e20_c05_u017] Unknown Speaker: 
+[s01_e20_c05_u018] Barry Farber: All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.
+[s01_e20_c05_u019] Unknown Speaker: 
+[s01_e20_c05_u020] Rachel Green: What?!
+[s01_e20_c05_u021] Bobby Rush: I'm twelve, I'm not stupid."
+s01_e20,s01_e20_c05,Bobby Rush,0,12,12,11,12,2,s01_e20_c05_u012,s01_e20_c05_u021,"[s01_e20_c05_u012] Barry Farber: We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.
+[s01_e20_c05_u013] Unknown Speaker: 
+[s01_e20_c05_u014] Rachel Green: I had a bra.
+[s01_e20_c05_u015] Unknown Speaker: 
+[s01_e20_c05_u016] Bobby Rush: Hey, Dr. Farber.
+[s01_e20_c05_u017] Unknown Speaker: 
+[s01_e20_c05_u018] Barry Farber: All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.
+[s01_e20_c05_u019] Unknown Speaker: 
+[s01_e20_c05_u020] Rachel Green: What?!
+[s01_e20_c05_u021] Bobby Rush: I'm twelve, I'm not stupid."
+s01_e20,s01_e20_c05,Rachel Green,0,0,12,0,12,3,s01_e20_c05_u001,s01_e20_c05_u021,"[s01_e20_c05_u001] Barry Farber: What's the matter?
+[s01_e20_c05_u002] Rachel Green: Oh, it's just... Oh, Barry, this was not good.
+[s01_e20_c05_u003] Barry Farber: No, it was. It was very very good.
+[s01_e20_c05_u004] Rachel Green: Well, what about Mindy?
+[s01_e20_c05_u005] Barry Farber: Oh, way, way better than Mindy.
+[s01_e20_c05_u006] Rachel Green: No, not that, I mean, what about you and Mindy?
+[s01_e20_c05_u007] Barry Farber: Well, if you want, I'll justI'll just break it off with her.
+[s01_e20_c05_u008] Rachel Green: No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.
+[s01_e20_c05_u009] Bernice: Dr. Farber, Bobby Rush is here for his adjustment.
+[s01_e20_c05_u010] Barry Farber: Thanks, Bernice. Let's go away this weekend.
+[s01_e20_c05_u011] Rachel Green: Oh, Barry..! Come on, this is all way too..
+[s01_e20_c05_u012] Barry Farber: We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.
+[s01_e20_c05_u013] Unknown Speaker: 
+[s01_e20_c05_u014] Rachel Green: I had a bra.
+[s01_e20_c05_u015] Unknown Speaker: 
+[s01_e20_c05_u016] Bobby Rush: Hey, Dr. Farber.
+[s01_e20_c05_u017] Unknown Speaker: 
+[s01_e20_c05_u018] Barry Farber: All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.
+[s01_e20_c05_u019] Unknown Speaker: 
+[s01_e20_c05_u020] Rachel Green: What?!
+[s01_e20_c05_u021] Bobby Rush: I'm twelve, I'm not stupid."
+s01_e20,s01_e20_c06,Chandler Bing,0,0,9,0,10,3,s01_e20_c06_u001,s01_e20_c06_u019,"[s01_e20_c06_u001] Chandler Bing: Can I use your phone?
+[s01_e20_c06_u002] Monica Geller: Yeah.. uh, but for future reference, that thing in your hand can also be used as a phone.
+[s01_e20_c06_u003] Unknown Speaker: 
+[s01_e20_c06_u004] Chandler Bing: Yes, it's working! Why isn't she calling me back?
+[s01_e20_c06_u005] Joey Tribbiani: Maybe she never got your message.
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+[s01_e20_c06_u007] Chandler Bing: Y'don't think that makes me seem a little...
+[s01_e20_c06_u008] Ross Geller: ...desperate, needy, pathetic?
+[s01_e20_c06_u009] Chandler Bing: Ah, you obviously saw my personal ad.
+[s01_e20_c06_u010] Unknown Speaker: 
+[s01_e20_c06_u011] Phoebe Buffay: How many beeps?
+[s01_e20_c06_u012] Chandler Bing: She answered.
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+[s01_e20_c06_u015] Unknown Speaker: 
+[s01_e20_c06_u016] #ALL#: Hey! Hi!
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+[s01_e20_c06_u018] Rachel Green: Pretty well, actually...
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?"
+s01_e20,s01_e20_c06,Chandler Bing,1,25,25,24,26,2,s01_e20_c06_u029,s01_e20_c06_u038,"[s01_e20_c06_u029] Rachel Green: Please. If she said to you, ""Ross, I want you on this couch, right here, right now,"" what would you say?
+[s01_e20_c06_u030] Unknown Speaker: 
+[s01_e20_c06_u031] Chandler Bing: If it helps, I could slide over.
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+[s01_e20_c06_u033] Phoebe Buffay: Where are you going?
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+[s01_e20_c06_u035] Unknown Speaker: 
+[s01_e20_c06_u036] Chandler Bing: Hello? Hello?
+[s01_e20_c06_u037] Unknown Speaker: 
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God."
+s01_e20,s01_e20_c06,Chandler Bing,2,27,28,26,28,2,s01_e20_c06_u032,s01_e20_c06_u040,"[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+[s01_e20_c06_u033] Phoebe Buffay: Where are you going?
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+[s01_e20_c06_u035] Unknown Speaker: 
+[s01_e20_c06_u036] Chandler Bing: Hello? Hello?
+[s01_e20_c06_u037] Unknown Speaker: 
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+[s01_e20_c06_u039] Chandler Bing: So how's Mindy?
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!"
+s01_e20,s01_e20_c06,Monica Geller,0,10,10,9,11,2,s01_e20_c06_u012,s01_e20_c06_u020,"[s01_e20_c06_u012] Chandler Bing: She answered.
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+[s01_e20_c06_u015] Unknown Speaker: 
+[s01_e20_c06_u016] #ALL#: Hey! Hi!
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+[s01_e20_c06_u018] Rachel Green: Pretty well, actually...
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?
+[s01_e20_c06_u020] Rachel Green: Oh, do I?"
+s01_e20,s01_e20_c06,Monica Geller,1,12,16,11,17,3,s01_e20_c06_u014,s01_e20_c06_u026,"[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+[s01_e20_c06_u015] Unknown Speaker: 
+[s01_e20_c06_u016] #ALL#: Hey! Hi!
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+[s01_e20_c06_u018] Rachel Green: Pretty well, actually...
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?
+[s01_e20_c06_u020] Rachel Green: Oh, do I?
+[s01_e20_c06_u021] Monica Geller: Uh huh.
+[s01_e20_c06_u022] Rachel Green: We ended up having sex in his chair.
+[s01_e20_c06_u023] Monica Geller: You had sex in his chair?!... I said that a little too loudly, didn't I?
+[s01_e20_c06_u024] Ross Geller: You-you had what?
+[s01_e20_c06_u025] Phoebe Buffay: Sex in his chair.
+[s01_e20_c06_u026] Ross Geller: What, uh... what were you thinking?"
+s01_e20,s01_e20_c06,Phoebe Buffay,0,4,4,3,5,2,s01_e20_c06_u005,s01_e20_c06_u012,"[s01_e20_c06_u005] Joey Tribbiani: Maybe she never got your message.
+[s01_e20_c06_u006] Phoebe Buffay: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.
+[s01_e20_c06_u007] Chandler Bing: Y'don't think that makes me seem a little...
+[s01_e20_c06_u008] Ross Geller: ...desperate, needy, pathetic?
+[s01_e20_c06_u009] Chandler Bing: Ah, you obviously saw my personal ad.
+[s01_e20_c06_u010] Unknown Speaker: 
+[s01_e20_c06_u011] Phoebe Buffay: How many beeps?
+[s01_e20_c06_u012] Chandler Bing: She answered."
+s01_e20,s01_e20_c06,Phoebe Buffay,1,8,8,7,9,2,s01_e20_c06_u009,s01_e20_c06_u018,"[s01_e20_c06_u009] Chandler Bing: Ah, you obviously saw my personal ad.
+[s01_e20_c06_u010] Unknown Speaker: 
+[s01_e20_c06_u011] Phoebe Buffay: How many beeps?
+[s01_e20_c06_u012] Chandler Bing: She answered.
+[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+[s01_e20_c06_u015] Unknown Speaker: 
+[s01_e20_c06_u016] #ALL#: Hey! Hi!
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+[s01_e20_c06_u018] Rachel Green: Pretty well, actually..."
+s01_e20,s01_e20_c06,Rachel Green,0,11,15,10,16,3,s01_e20_c06_u013,s01_e20_c06_u025,"[s01_e20_c06_u013] Monica Geller: Y'see, this is where you'd use that 'hello' word we talked about.
+[s01_e20_c06_u014] Chandler Bing: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.
+[s01_e20_c06_u015] Unknown Speaker: 
+[s01_e20_c06_u016] #ALL#: Hey! Hi!
+[s01_e20_c06_u017] Phoebe Buffay: How'd he take it?
+[s01_e20_c06_u018] Rachel Green: Pretty well, actually...
+[s01_e20_c06_u019] Monica Geller: Uh, Rach... how come you have dental floss in your hair?
+[s01_e20_c06_u020] Rachel Green: Oh, do I?
+[s01_e20_c06_u021] Monica Geller: Uh huh.
+[s01_e20_c06_u022] Rachel Green: We ended up having sex in his chair.
+[s01_e20_c06_u023] Monica Geller: You had sex in his chair?!... I said that a little too loudly, didn't I?
+[s01_e20_c06_u024] Ross Geller: You-you had what?
+[s01_e20_c06_u025] Phoebe Buffay: Sex in his chair."
+s01_e20,s01_e20_c06,Rachel Green,1,20,22,19,23,2,s01_e20_c06_u024,s01_e20_c06_u033,"[s01_e20_c06_u024] Ross Geller: You-you had what?
+[s01_e20_c06_u025] Phoebe Buffay: Sex in his chair.
+[s01_e20_c06_u026] Ross Geller: What, uh... what were you thinking?
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+[s01_e20_c06_u028] Ross Geller: No! No no, it is nothing like me and Carol!
+[s01_e20_c06_u029] Rachel Green: Please. If she said to you, ""Ross, I want you on this couch, right here, right now,"" what would you say?
+[s01_e20_c06_u030] Unknown Speaker: 
+[s01_e20_c06_u031] Chandler Bing: If it helps, I could slide over.
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+[s01_e20_c06_u033] Phoebe Buffay: Where are you going?"
+s01_e20,s01_e20_c06,Rachel Green,2,28,28,27,28,2,s01_e20_c06_u033,s01_e20_c06_u040,"[s01_e20_c06_u033] Phoebe Buffay: Where are you going?
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+[s01_e20_c06_u035] Unknown Speaker: 
+[s01_e20_c06_u036] Chandler Bing: Hello? Hello?
+[s01_e20_c06_u037] Unknown Speaker: 
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+[s01_e20_c06_u039] Chandler Bing: So how's Mindy?
+[s01_e20_c06_u040] Rachel Green: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!"
+s01_e20,s01_e20_c06,Ross Geller,0,17,26,16,27,3,s01_e20_c06_u021,s01_e20_c06_u039,"[s01_e20_c06_u021] Monica Geller: Uh huh.
+[s01_e20_c06_u022] Rachel Green: We ended up having sex in his chair.
+[s01_e20_c06_u023] Monica Geller: You had sex in his chair?!... I said that a little too loudly, didn't I?
+[s01_e20_c06_u024] Ross Geller: You-you had what?
+[s01_e20_c06_u025] Phoebe Buffay: Sex in his chair.
+[s01_e20_c06_u026] Ross Geller: What, uh... what were you thinking?
+[s01_e20_c06_u027] Rachel Green: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.
+[s01_e20_c06_u028] Ross Geller: No! No no, it is nothing like me and Carol!
+[s01_e20_c06_u029] Rachel Green: Please. If she said to you, ""Ross, I want you on this couch, right here, right now,"" what would you say?
+[s01_e20_c06_u030] Unknown Speaker: 
+[s01_e20_c06_u031] Chandler Bing: If it helps, I could slide over.
+[s01_e20_c06_u032] Ross Geller: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+[s01_e20_c06_u033] Phoebe Buffay: Where are you going?
+[s01_e20_c06_u034] Ross Geller: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+[s01_e20_c06_u035] Unknown Speaker: 
+[s01_e20_c06_u036] Chandler Bing: Hello? Hello?
+[s01_e20_c06_u037] Unknown Speaker: 
+[s01_e20_c06_u038] Rachel Green: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.
+[s01_e20_c06_u039] Chandler Bing: So how's Mindy?"
+s01_e20,s01_e20_c07,Chandler Bing,0,1,1,0,2,2,s01_e20_c07_u001,s01_e20_c07_u009,"[s01_e20_c07_u001] Monica Geller: Brrrrrrr!
+[s01_e20_c07_u002] Unknown Speaker: 
+[s01_e20_c07_u003] Chandler Bing: Hell is filled with people like you.
+[s01_e20_c07_u004] Joey Tribbiani: He's back! The peeper's back!
+[s01_e20_c07_u005] Unknown Speaker: 
+[s01_e20_c07_u006] Joey Tribbiani: Get down!
+[s01_e20_c07_u007] Rachel Green: Get down?
+[s01_e20_c07_u008] Chandler Bing: ...And boogie!
+[s01_e20_c07_u009] Rachel Green: Thanks, but I gotta go to work and get my eyes scratched out by Mindy."
+s01_e20,s01_e20_c07,Chandler Bing,1,12,18,11,18,3,s01_e20_c07_u014,s01_e20_c07_u026,"[s01_e20_c07_u014] Joey Tribbiani: ..Naughty!
+[s01_e20_c07_u015] Rachel Green: Right, I'll see you guys later...
+[s01_e20_c07_u016] Joey Tribbiani: Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...
+[s01_e20_c07_u017] Unknown Speaker: 
+[s01_e20_c07_u018] Chandler Bing: Okay, I'm gonna go to the bathroom. Will you watch my phone?
+[s01_e20_c07_u019] Monica Geller: Why don't you just take it with you?
+[s01_e20_c07_u020] Chandler Bing: Hey, we haven't been on a second date, she needs to hear me pee?
+[s01_e20_c07_u021] Monica Geller: Why don't you just call her?
+[s01_e20_c07_u022] Chandler Bing: I can't call her, I left a message! I have some pride.
+[s01_e20_c07_u023] Monica Geller: Do you?
+[s01_e20_c07_u024] Chandler Bing: No! Danielle, hi! It's, uh, it's Chandler! I'm fine. Uh, listen, I don't know if you tried to call me, because, uh, idiot that I am, I accidentally shut off my phone. Oh, uh, okay, that's fine, that's great. Okay. She's on the other line, she's gonna call me back. She's on the other line, she's gonna call me back, she's on the other line, gonna call me back...
+[s01_e20_c07_u025] Monica Geller: Don't you have to pee?
+[s01_e20_c07_u026] Chandler Bing: 'S'why I'm dancing..."
+s01_e20,s01_e20_c07,Joey Tribbiani,0,0,2,0,3,2,s01_e20_c07_u001,s01_e20_c07_u010,"[s01_e20_c07_u001] Monica Geller: Brrrrrrr!
+[s01_e20_c07_u002] Unknown Speaker: 
+[s01_e20_c07_u003] Chandler Bing: Hell is filled with people like you.
+[s01_e20_c07_u004] Joey Tribbiani: He's back! The peeper's back!
+[s01_e20_c07_u005] Unknown Speaker: 
+[s01_e20_c07_u006] Joey Tribbiani: Get down!
+[s01_e20_c07_u007] Rachel Green: Get down?
+[s01_e20_c07_u008] Chandler Bing: ...And boogie!
+[s01_e20_c07_u009] Rachel Green: Thanks, but I gotta go to work and get my eyes scratched out by Mindy.
+[s01_e20_c07_u010] Monica Geller: Relax. Y'know, she may not even know."
+s01_e20,s01_e20_c07,Joey Tribbiani,1,7,11,6,12,3,s01_e20_c07_u009,s01_e20_c07_u020,"[s01_e20_c07_u009] Rachel Green: Thanks, but I gotta go to work and get my eyes scratched out by Mindy.
+[s01_e20_c07_u010] Monica Geller: Relax. Y'know, she may not even know.
+[s01_e20_c07_u011] Rachel Green: Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..
+[s01_e20_c07_u012] Joey Tribbiani: Yeah?
+[s01_e20_c07_u013] Rachel Green: And now, y'know, I'm like... I'm like the other woman! I feel so..
+[s01_e20_c07_u014] Joey Tribbiani: ..Naughty!
+[s01_e20_c07_u015] Rachel Green: Right, I'll see you guys later...
+[s01_e20_c07_u016] Joey Tribbiani: Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...
+[s01_e20_c07_u017] Unknown Speaker: 
+[s01_e20_c07_u018] Chandler Bing: Okay, I'm gonna go to the bathroom. Will you watch my phone?
+[s01_e20_c07_u019] Monica Geller: Why don't you just take it with you?
+[s01_e20_c07_u020] Chandler Bing: Hey, we haven't been on a second date, she needs to hear me pee?"
+s01_e20,s01_e20_c07,Monica Geller,0,13,18,12,18,3,s01_e20_c07_u015,s01_e20_c07_u026,"[s01_e20_c07_u015] Rachel Green: Right, I'll see you guys later...
+[s01_e20_c07_u016] Joey Tribbiani: Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...
+[s01_e20_c07_u017] Unknown Speaker: 
+[s01_e20_c07_u018] Chandler Bing: Okay, I'm gonna go to the bathroom. Will you watch my phone?
+[s01_e20_c07_u019] Monica Geller: Why don't you just take it with you?
+[s01_e20_c07_u020] Chandler Bing: Hey, we haven't been on a second date, she needs to hear me pee?
+[s01_e20_c07_u021] Monica Geller: Why don't you just call her?
+[s01_e20_c07_u022] Chandler Bing: I can't call her, I left a message! I have some pride.
+[s01_e20_c07_u023] Monica Geller: Do you?
+[s01_e20_c07_u024] Chandler Bing: No! Danielle, hi! It's, uh, it's Chandler! I'm fine. Uh, listen, I don't know if you tried to call me, because, uh, idiot that I am, I accidentally shut off my phone. Oh, uh, okay, that's fine, that's great. Okay. She's on the other line, she's gonna call me back. She's on the other line, she's gonna call me back, she's on the other line, gonna call me back...
+[s01_e20_c07_u025] Monica Geller: Don't you have to pee?
+[s01_e20_c07_u026] Chandler Bing: 'S'why I'm dancing..."
+s01_e20,s01_e20_c07,Rachel Green,0,2,10,1,11,3,s01_e20_c07_u003,s01_e20_c07_u019,"[s01_e20_c07_u003] Chandler Bing: Hell is filled with people like you.
+[s01_e20_c07_u004] Joey Tribbiani: He's back! The peeper's back!
+[s01_e20_c07_u005] Unknown Speaker: 
+[s01_e20_c07_u006] Joey Tribbiani: Get down!
+[s01_e20_c07_u007] Rachel Green: Get down?
+[s01_e20_c07_u008] Chandler Bing: ...And boogie!
+[s01_e20_c07_u009] Rachel Green: Thanks, but I gotta go to work and get my eyes scratched out by Mindy.
+[s01_e20_c07_u010] Monica Geller: Relax. Y'know, she may not even know.
+[s01_e20_c07_u011] Rachel Green: Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..
+[s01_e20_c07_u012] Joey Tribbiani: Yeah?
+[s01_e20_c07_u013] Rachel Green: And now, y'know, I'm like... I'm like the other woman! I feel so..
+[s01_e20_c07_u014] Joey Tribbiani: ..Naughty!
+[s01_e20_c07_u015] Rachel Green: Right, I'll see you guys later...
+[s01_e20_c07_u016] Joey Tribbiani: Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...
+[s01_e20_c07_u017] Unknown Speaker: 
+[s01_e20_c07_u018] Chandler Bing: Okay, I'm gonna go to the bathroom. Will you watch my phone?
+[s01_e20_c07_u019] Monica Geller: Why don't you just take it with you?"
+s01_e20,s01_e20_c08,Mindy Hunter,0,0,26,0,26,3,s01_e20_c08_u001,s01_e20_c08_u032,"[s01_e20_c08_u001] Rachel Green: Mindy.
+[s01_e20_c08_u002] Mindy Hunter: Hey, you.
+[s01_e20_c08_u003] Rachel Green: Hey, you.... So, what's up?
+[s01_e20_c08_u004] Mindy Hunter: Um.. we should really be sitting for this.
+[s01_e20_c08_u005] Rachel Green: Sure we should... So.
+[s01_e20_c08_u006] Mindy Hunter: Now, I know things've been weird lately, but you're like my oldest friend in the world... Except for maybe Laurie Schaffer, who I don't talk to anywhere, 'cause she's all bitter now that she lost the weight and it turns out she doesn't have a pretty face. ....Okay, I'm just gonna ask you this once, and I want a straight answer.
+[s01_e20_c08_u007] Rachel Green: Okay.
+[s01_e20_c08_u008] Mindy Hunter: Will you be my maid of honour?
+[s01_e20_c08_u009] Rachel Green: Of course!
+[s01_e20_c08_u010] Mindy Hunter: Oh that's so great!
+[s01_e20_c08_u011] Rachel Green: Was that all you wanted to ask me?
+[s01_e20_c08_u012] Mindy Hunter: That's all!
+[s01_e20_c08_u013] Rachel Green: Ohhhh!! ...What? What?
+[s01_e20_c08_u014] Mindy Hunter: That's not all.
+[s01_e20_c08_u015] Rachel Green: Oh sure it is!
+[s01_e20_c08_u016] Mindy Hunter: Oh no, it isn't! No! I think Barry is seeing someone in the city.
+[s01_e20_c08_u017] Rachel Green: Um, what- what would make you think that?
+[s01_e20_c08_u018] Mindy Hunter: Well, ever since we announced the engagement, he's been acting really weird, and then last night, he came home smelling like Chanel.
+[s01_e20_c08_u019] Rachel Green: Really. Mindy, if it'll make you feel any better, when I was engaged to him he went through a whole weird thing too.
+[s01_e20_c08_u020] Mindy Hunter: Oh God! You see, that's what I was afraid of!
+[s01_e20_c08_u021] Rachel Green: What? What's what you were afraid of?
+[s01_e20_c08_u022] Mindy Hunter: Okay, okay... when Barry was engaged to you, he and I...kind of... had a little thing on the side.
+[s01_e20_c08_u023] Rachel Green: What?
+[s01_e20_c08_u024] Mindy Hunter: I know. I know, and when he proposed to me, everyone said ""Don't do it, he's just gonna do to you what he did to Rachel,"" and now I feel so stupid.
+[s01_e20_c08_u025] Rachel Green: Uh... Oh, Mindy, you are so stupid. Oh, we are both so stupid.
+[s01_e20_c08_u026] Mindy Hunter: What do you mean?
+[s01_e20_c08_u027] Rachel Green: Smell familiar?
+[s01_e20_c08_u028] Mindy Hunter: Oh no.
+[s01_e20_c08_u029] Rachel Green: Oh, I am so sorry.
+[s01_e20_c08_u030] Mindy Hunter: No me, I am so sorry...
+[s01_e20_c08_u031] Unknown Speaker: 
+[s01_e20_c08_u032] Joey Tribbiani: Oh my."
+s01_e20,s01_e20_c08,Rachel Green,0,0,26,0,26,3,s01_e20_c08_u001,s01_e20_c08_u032,"[s01_e20_c08_u001] Rachel Green: Mindy.
+[s01_e20_c08_u002] Mindy Hunter: Hey, you.
+[s01_e20_c08_u003] Rachel Green: Hey, you.... So, what's up?
+[s01_e20_c08_u004] Mindy Hunter: Um.. we should really be sitting for this.
+[s01_e20_c08_u005] Rachel Green: Sure we should... So.
+[s01_e20_c08_u006] Mindy Hunter: Now, I know things've been weird lately, but you're like my oldest friend in the world... Except for maybe Laurie Schaffer, who I don't talk to anywhere, 'cause she's all bitter now that she lost the weight and it turns out she doesn't have a pretty face. ....Okay, I'm just gonna ask you this once, and I want a straight answer.
+[s01_e20_c08_u007] Rachel Green: Okay.
+[s01_e20_c08_u008] Mindy Hunter: Will you be my maid of honour?
+[s01_e20_c08_u009] Rachel Green: Of course!
+[s01_e20_c08_u010] Mindy Hunter: Oh that's so great!
+[s01_e20_c08_u011] Rachel Green: Was that all you wanted to ask me?
+[s01_e20_c08_u012] Mindy Hunter: That's all!
+[s01_e20_c08_u013] Rachel Green: Ohhhh!! ...What? What?
+[s01_e20_c08_u014] Mindy Hunter: That's not all.
+[s01_e20_c08_u015] Rachel Green: Oh sure it is!
+[s01_e20_c08_u016] Mindy Hunter: Oh no, it isn't! No! I think Barry is seeing someone in the city.
+[s01_e20_c08_u017] Rachel Green: Um, what- what would make you think that?
+[s01_e20_c08_u018] Mindy Hunter: Well, ever since we announced the engagement, he's been acting really weird, and then last night, he came home smelling like Chanel.
+[s01_e20_c08_u019] Rachel Green: Really. Mindy, if it'll make you feel any better, when I was engaged to him he went through a whole weird thing too.
+[s01_e20_c08_u020] Mindy Hunter: Oh God! You see, that's what I was afraid of!
+[s01_e20_c08_u021] Rachel Green: What? What's what you were afraid of?
+[s01_e20_c08_u022] Mindy Hunter: Okay, okay... when Barry was engaged to you, he and I...kind of... had a little thing on the side.
+[s01_e20_c08_u023] Rachel Green: What?
+[s01_e20_c08_u024] Mindy Hunter: I know. I know, and when he proposed to me, everyone said ""Don't do it, he's just gonna do to you what he did to Rachel,"" and now I feel so stupid.
+[s01_e20_c08_u025] Rachel Green: Uh... Oh, Mindy, you are so stupid. Oh, we are both so stupid.
+[s01_e20_c08_u026] Mindy Hunter: What do you mean?
+[s01_e20_c08_u027] Rachel Green: Smell familiar?
+[s01_e20_c08_u028] Mindy Hunter: Oh no.
+[s01_e20_c08_u029] Rachel Green: Oh, I am so sorry.
+[s01_e20_c08_u030] Mindy Hunter: No me, I am so sorry...
+[s01_e20_c08_u031] Unknown Speaker: 
+[s01_e20_c08_u032] Joey Tribbiani: Oh my."
+s01_e20,s01_e20_c09,Chandler Bing,0,0,6,0,7,2,s01_e20_c09_u001,s01_e20_c09_u012,"[s01_e20_c09_u001] Ross Geller: Four letters: ""Circle or hoop"".
+[s01_e20_c09_u002] Chandler Bing: Ring dammit, ring!
+[s01_e20_c09_u003] Ross Geller: Thanks.
+[s01_e20_c09_u004] Joey Tribbiani: Hey, you know our phone's not working?
+[s01_e20_c09_u005] Chandler Bing: What?!
+[s01_e20_c09_u006] Joey Tribbiani: I tried to call you from the coffee shop, and there was no answer.
+[s01_e20_c09_u007] Chandler Bing: I turned it off. Mother of God, I turned it off!
+[s01_e20_c09_u008] Monica Geller: Just like you told her you did! ... Just pointing out the irony.
+[s01_e20_c09_u009] Joey Tribbiani: Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?
+[s01_e20_c09_u010] Chandler Bing: Nngghhh!!!!!!!
+[s01_e20_c09_u011] Joey Tribbiani: Can I use your phone? Yeah, the number for a Sidney Marks, please.
+[s01_e20_c09_u012] Ross Geller: ""Heating device."""
+s01_e20,s01_e20_c09,Joey Tribbiani,0,1,8,0,9,2,s01_e20_c09_u001,s01_e20_c09_u014,"[s01_e20_c09_u001] Ross Geller: Four letters: ""Circle or hoop"".
+[s01_e20_c09_u002] Chandler Bing: Ring dammit, ring!
+[s01_e20_c09_u003] Ross Geller: Thanks.
+[s01_e20_c09_u004] Joey Tribbiani: Hey, you know our phone's not working?
+[s01_e20_c09_u005] Chandler Bing: What?!
+[s01_e20_c09_u006] Joey Tribbiani: I tried to call you from the coffee shop, and there was no answer.
+[s01_e20_c09_u007] Chandler Bing: I turned it off. Mother of God, I turned it off!
+[s01_e20_c09_u008] Monica Geller: Just like you told her you did! ... Just pointing out the irony.
+[s01_e20_c09_u009] Joey Tribbiani: Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?
+[s01_e20_c09_u010] Chandler Bing: Nngghhh!!!!!!!
+[s01_e20_c09_u011] Joey Tribbiani: Can I use your phone? Yeah, the number for a Sidney Marks, please.
+[s01_e20_c09_u012] Ross Geller: ""Heating device.""
+[s01_e20_c09_u013] Phoebe Buffay: Radiator.
+[s01_e20_c09_u014] Ross Geller: Five letters."
+s01_e20,s01_e20_c09,Joey Tribbiani,1,13,18,12,18,3,s01_e20_c09_u013,s01_e20_c09_u023,"[s01_e20_c09_u013] Phoebe Buffay: Radiator.
+[s01_e20_c09_u014] Ross Geller: Five letters.
+[s01_e20_c09_u015] Phoebe Buffay: Rdtor.
+[s01_e20_c09_u016] Joey Tribbiani: Yeah, is Sidney there? Oh, this is? Sidney's a woman.
+[s01_e20_c09_u017] Monica Geller: So she's a woman! So what?
+[s01_e20_c09_u018] Joey Tribbiani: Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..
+[s01_e20_c09_u019] Monica Geller: Joey!!
+[s01_e20_c09_u020] Joey Tribbiani: Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.
+[s01_e20_c09_u021] Monica Geller: The green dress? Really?
+[s01_e20_c09_u022] Joey Tribbiani: Yeah, she said you looked like Ingrid Bergman that day.
+[s01_e20_c09_u023] Monica Geller: Nooo!"
+s01_e20,s01_e20_c09,Monica Geller,0,14,18,13,18,3,s01_e20_c09_u014,s01_e20_c09_u023,"[s01_e20_c09_u014] Ross Geller: Five letters.
+[s01_e20_c09_u015] Phoebe Buffay: Rdtor.
+[s01_e20_c09_u016] Joey Tribbiani: Yeah, is Sidney there? Oh, this is? Sidney's a woman.
+[s01_e20_c09_u017] Monica Geller: So she's a woman! So what?
+[s01_e20_c09_u018] Joey Tribbiani: Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..
+[s01_e20_c09_u019] Monica Geller: Joey!!
+[s01_e20_c09_u020] Joey Tribbiani: Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.
+[s01_e20_c09_u021] Monica Geller: The green dress? Really?
+[s01_e20_c09_u022] Joey Tribbiani: Yeah, she said you looked like Ingrid Bergman that day.
+[s01_e20_c09_u023] Monica Geller: Nooo!"
+s01_e20,s01_e20_c09,Phoebe Buffay,0,10,12,9,13,2,s01_e20_c09_u010,s01_e20_c09_u018,"[s01_e20_c09_u010] Chandler Bing: Nngghhh!!!!!!!
+[s01_e20_c09_u011] Joey Tribbiani: Can I use your phone? Yeah, the number for a Sidney Marks, please.
+[s01_e20_c09_u012] Ross Geller: ""Heating device.""
+[s01_e20_c09_u013] Phoebe Buffay: Radiator.
+[s01_e20_c09_u014] Ross Geller: Five letters.
+[s01_e20_c09_u015] Phoebe Buffay: Rdtor.
+[s01_e20_c09_u016] Joey Tribbiani: Yeah, is Sidney there? Oh, this is? Sidney's a woman.
+[s01_e20_c09_u017] Monica Geller: So she's a woman! So what?
+[s01_e20_c09_u018] Joey Tribbiani: Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally.."
+s01_e20,s01_e20_c09,Ross Geller,0,0,0,0,1,2,s01_e20_c09_u001,s01_e20_c09_u006,"[s01_e20_c09_u001] Ross Geller: Four letters: ""Circle or hoop"".
+[s01_e20_c09_u002] Chandler Bing: Ring dammit, ring!
+[s01_e20_c09_u003] Ross Geller: Thanks.
+[s01_e20_c09_u004] Joey Tribbiani: Hey, you know our phone's not working?
+[s01_e20_c09_u005] Chandler Bing: What?!
+[s01_e20_c09_u006] Joey Tribbiani: I tried to call you from the coffee shop, and there was no answer."
+s01_e20,s01_e20_c09,Ross Geller,1,9,11,8,12,2,s01_e20_c09_u009,s01_e20_c09_u017,"[s01_e20_c09_u009] Joey Tribbiani: Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?
+[s01_e20_c09_u010] Chandler Bing: Nngghhh!!!!!!!
+[s01_e20_c09_u011] Joey Tribbiani: Can I use your phone? Yeah, the number for a Sidney Marks, please.
+[s01_e20_c09_u012] Ross Geller: ""Heating device.""
+[s01_e20_c09_u013] Phoebe Buffay: Radiator.
+[s01_e20_c09_u014] Ross Geller: Five letters.
+[s01_e20_c09_u015] Phoebe Buffay: Rdtor.
+[s01_e20_c09_u016] Joey Tribbiani: Yeah, is Sidney there? Oh, this is? Sidney's a woman.
+[s01_e20_c09_u017] Monica Geller: So she's a woman! So what?"
+s01_e20,s01_e20_c10,Barry Farber,0,0,9,0,10,3,s01_e20_c10_u001,s01_e20_c10_u015,"[s01_e20_c10_u001] Rachel Green: Hey. Got a second?
+[s01_e20_c10_u002] Barry Farber: Sure, sure. Come on... ...in...
+[s01_e20_c10_u003] Mindy Hunter: Hello, sweetheart.
+[s01_e20_c10_u004] Barry Farber: Uh... uh... what're'you... what're'you guys doing here?
+[s01_e20_c10_u005] Rachel Green: Uh, we are here to break up with you.
+[s01_e20_c10_u006] Barry Farber: Both of you?
+[s01_e20_c10_u007] Mindy Hunter: Basically, we think you're a horrible human being, and bad things should happen to you.
+[s01_e20_c10_u008] Barry Farber: I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!
+[s01_e20_c10_u009] Rachel Green: Uh- which one of us are you talking to there, Barr?
+[s01_e20_c10_u010] Barry Farber: ....Mindy. Mindy, of course Mindy, it was always Mindy.
+[s01_e20_c10_u011] Rachel Green: Even when we were having sex in that chair?
+[s01_e20_c10_u012] Barry Farber: I swear, whatever I was doing, I was always thinking of you.
+[s01_e20_c10_u013] Rachel Green: Please! During that second time you couldn't have picked her out of a lineup!
+[s01_e20_c10_u014] Mindy Hunter: You did it twice?
+[s01_e20_c10_u015] Rachel Green: Well, the first time didn't really count... I mean, y'know, 's'Barry."
+s01_e20,s01_e20_c10,Barry Farber,1,14,16,13,17,2,s01_e20_c10_u014,s01_e20_c10_u023,"[s01_e20_c10_u014] Mindy Hunter: You did it twice?
+[s01_e20_c10_u015] Rachel Green: Well, the first time didn't really count... I mean, y'know, 's'Barry.
+[s01_e20_c10_u016] Mindy Hunter: Okay...
+[s01_e20_c10_u017] Barry Farber: Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.
+[s01_e20_c10_u018] Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.
+[s01_e20_c10_u019] Barry Farber: Oh God... I'll be right there, Bernice. Look, please, please don't go anywhere, okay? I'll be, I'll be right back.
+[s01_e20_c10_u020] Unknown Speaker: 
+[s01_e20_c10_u021] Rachel Green: Okay. Okay, we'll be here! Hating you! Did you see how he was sweating when he walked out of there? Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels great.
+[s01_e20_c10_u022] Mindy Hunter: Yeah... I'm pretty sure I'm still gonna marry him.
+[s01_e20_c10_u023] Rachel Green: What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!"
+s01_e20,s01_e20_c10,Mindy Hunter,0,2,2,1,3,2,s01_e20_c10_u002,s01_e20_c10_u008,"[s01_e20_c10_u002] Barry Farber: Sure, sure. Come on... ...in...
+[s01_e20_c10_u003] Mindy Hunter: Hello, sweetheart.
+[s01_e20_c10_u004] Barry Farber: Uh... uh... what're'you... what're'you guys doing here?
+[s01_e20_c10_u005] Rachel Green: Uh, we are here to break up with you.
+[s01_e20_c10_u006] Barry Farber: Both of you?
+[s01_e20_c10_u007] Mindy Hunter: Basically, we think you're a horrible human being, and bad things should happen to you.
+[s01_e20_c10_u008] Barry Farber: I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!"
+s01_e20,s01_e20_c10,Mindy Hunter,1,11,13,10,14,2,s01_e20_c10_u011,s01_e20_c10_u019,"[s01_e20_c10_u011] Rachel Green: Even when we were having sex in that chair?
+[s01_e20_c10_u012] Barry Farber: I swear, whatever I was doing, I was always thinking of you.
+[s01_e20_c10_u013] Rachel Green: Please! During that second time you couldn't have picked her out of a lineup!
+[s01_e20_c10_u014] Mindy Hunter: You did it twice?
+[s01_e20_c10_u015] Rachel Green: Well, the first time didn't really count... I mean, y'know, 's'Barry.
+[s01_e20_c10_u016] Mindy Hunter: Okay...
+[s01_e20_c10_u017] Barry Farber: Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.
+[s01_e20_c10_u018] Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.
+[s01_e20_c10_u019] Barry Farber: Oh God... I'll be right there, Bernice. Look, please, please don't go anywhere, okay? I'll be, I'll be right back."
+s01_e20,s01_e20_c10,Mindy Hunter,2,18,21,17,21,3,s01_e20_c10_u018,s01_e20_c10_u027,"[s01_e20_c10_u018] Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.
+[s01_e20_c10_u019] Barry Farber: Oh God... I'll be right there, Bernice. Look, please, please don't go anywhere, okay? I'll be, I'll be right back.
+[s01_e20_c10_u020] Unknown Speaker: 
+[s01_e20_c10_u021] Rachel Green: Okay. Okay, we'll be here! Hating you! Did you see how he was sweating when he walked out of there? Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels great.
+[s01_e20_c10_u022] Mindy Hunter: Yeah... I'm pretty sure I'm still gonna marry him.
+[s01_e20_c10_u023] Rachel Green: What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!
+[s01_e20_c10_u024] Mindy Hunter: Look, I know he's not perfect, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.
+[s01_e20_c10_u025] Rachel Green: Oh God.
+[s01_e20_c10_u026] Mindy Hunter: I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?
+[s01_e20_c10_u027] Rachel Green: And I hope Barry doesn't kill you and eat you in Aruba."
+s01_e20,s01_e20_c10,Rachel Green,0,0,0,0,1,2,s01_e20_c10_u001,s01_e20_c10_u006,"[s01_e20_c10_u001] Rachel Green: Hey. Got a second?
+[s01_e20_c10_u002] Barry Farber: Sure, sure. Come on... ...in...
+[s01_e20_c10_u003] Mindy Hunter: Hello, sweetheart.
+[s01_e20_c10_u004] Barry Farber: Uh... uh... what're'you... what're'you guys doing here?
+[s01_e20_c10_u005] Rachel Green: Uh, we are here to break up with you.
+[s01_e20_c10_u006] Barry Farber: Both of you?"
+s01_e20,s01_e20_c10,Rachel Green,1,4,4,3,5,2,s01_e20_c10_u004,s01_e20_c10_u010,"[s01_e20_c10_u004] Barry Farber: Uh... uh... what're'you... what're'you guys doing here?
+[s01_e20_c10_u005] Rachel Green: Uh, we are here to break up with you.
+[s01_e20_c10_u006] Barry Farber: Both of you?
+[s01_e20_c10_u007] Mindy Hunter: Basically, we think you're a horrible human being, and bad things should happen to you.
+[s01_e20_c10_u008] Barry Farber: I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!
+[s01_e20_c10_u009] Rachel Green: Uh- which one of us are you talking to there, Barr?
+[s01_e20_c10_u010] Barry Farber: ....Mindy. Mindy, of course Mindy, it was always Mindy."
+s01_e20,s01_e20_c10,Rachel Green,2,6,12,5,13,3,s01_e20_c10_u006,s01_e20_c10_u018,"[s01_e20_c10_u006] Barry Farber: Both of you?
+[s01_e20_c10_u007] Mindy Hunter: Basically, we think you're a horrible human being, and bad things should happen to you.
+[s01_e20_c10_u008] Barry Farber: I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!
+[s01_e20_c10_u009] Rachel Green: Uh- which one of us are you talking to there, Barr?
+[s01_e20_c10_u010] Barry Farber: ....Mindy. Mindy, of course Mindy, it was always Mindy.
+[s01_e20_c10_u011] Rachel Green: Even when we were having sex in that chair?
+[s01_e20_c10_u012] Barry Farber: I swear, whatever I was doing, I was always thinking of you.
+[s01_e20_c10_u013] Rachel Green: Please! During that second time you couldn't have picked her out of a lineup!
+[s01_e20_c10_u014] Mindy Hunter: You did it twice?
+[s01_e20_c10_u015] Rachel Green: Well, the first time didn't really count... I mean, y'know, 's'Barry.
+[s01_e20_c10_u016] Mindy Hunter: Okay...
+[s01_e20_c10_u017] Barry Farber: Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.
+[s01_e20_c10_u018] Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer."
+s01_e20,s01_e20_c10,Rachel Green,3,17,21,16,21,3,s01_e20_c10_u017,s01_e20_c10_u027,"[s01_e20_c10_u017] Barry Farber: Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.
+[s01_e20_c10_u018] Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.
+[s01_e20_c10_u019] Barry Farber: Oh God... I'll be right there, Bernice. Look, please, please don't go anywhere, okay? I'll be, I'll be right back.
+[s01_e20_c10_u020] Unknown Speaker: 
+[s01_e20_c10_u021] Rachel Green: Okay. Okay, we'll be here! Hating you! Did you see how he was sweating when he walked out of there? Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels great.
+[s01_e20_c10_u022] Mindy Hunter: Yeah... I'm pretty sure I'm still gonna marry him.
+[s01_e20_c10_u023] Rachel Green: What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!
+[s01_e20_c10_u024] Mindy Hunter: Look, I know he's not perfect, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.
+[s01_e20_c10_u025] Rachel Green: Oh God.
+[s01_e20_c10_u026] Mindy Hunter: I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?
+[s01_e20_c10_u027] Rachel Green: And I hope Barry doesn't kill you and eat you in Aruba."
+s01_e20,s01_e20_c11,Monica Geller,0,0,1,0,1,3,s01_e20_c11_u001,s01_e20_c11_u007,"[s01_e20_c11_u001] Monica Geller: You okay?
+[s01_e20_c11_u002] Rachel Green: Yeah.
+[s01_e20_c11_u003] Monica Geller: Really?
+[s01_e20_c11_u004] Rachel Green: Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.
+[s01_e20_c11_u005] Monica Geller: Aww...
+[s01_e20_c11_u006] Unknown Speaker: 
+[s01_e20_c11_u007] Joey Tribbiani: Big day."
+s01_e20,s01_e20_c11,Rachel Green,0,0,1,0,1,2,s01_e20_c11_u001,s01_e20_c11_u007,"[s01_e20_c11_u001] Monica Geller: You okay?
+[s01_e20_c11_u002] Rachel Green: Yeah.
+[s01_e20_c11_u003] Monica Geller: Really?
+[s01_e20_c11_u004] Rachel Green: Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.
+[s01_e20_c11_u005] Monica Geller: Aww...
+[s01_e20_c11_u006] Unknown Speaker: 
+[s01_e20_c11_u007] Joey Tribbiani: Big day."
+s01_e20,s01_e20_c12,Chandler Bing,0,1,9,0,10,3,s01_e20_c12_u001,s01_e20_c12_u017,"[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+[s01_e20_c12_u002] Phoebe Buffay: You know he's gay?
+[s01_e20_c12_u003] Ross Geller: I just wanna clarify this: are you outing Mr. Peanut?
+[s01_e20_c12_u004] Danielle: Chandler?
+[s01_e20_c12_u005] Chandler Bing: Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.
+[s01_e20_c12_u006] #ALL#: Hi. Hi.
+[s01_e20_c12_u007] Chandler Bing: What are you doing here?
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+[s01_e20_c12_u009] Chandler Bing: ...I'm, I'm okay.
+[s01_e20_c12_u010] Danielle: Listen uh, maybe we could get together later?
+[s01_e20_c12_u011] Chandler Bing: That sounds good. I'll call you- or you call me, whatever...
+[s01_e20_c12_u012] Danielle: You got it.
+[s01_e20_c12_u013] Chandler Bing: Okay.
+[s01_e20_c12_u014] Danielle: G'bye, everybody.
+[s01_e20_c12_u015] #ALL#: Bye.
+[s01_e20_c12_u016] Phoebe Buffay: Whoo-hoo!
+[s01_e20_c12_u017] Monica Geller: Yeah, there you go!"
+s01_e20,s01_e20_c12,Chandler Bing,1,14,14,13,14,2,s01_e20_c12_u016,s01_e20_c12_u021,"[s01_e20_c12_u016] Phoebe Buffay: Whoo-hoo!
+[s01_e20_c12_u017] Monica Geller: Yeah, there you go!
+[s01_e20_c12_u018] Ross Geller: Second date!
+[s01_e20_c12_u019] Chandler Bing: ...I dunno.
+[s01_e20_c12_u020] Rachel Green: You don't know?!
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?"
+s01_e20,s01_e20_c12,Danielle,0,2,10,1,11,3,s01_e20_c12_u002,s01_e20_c12_u018,"[s01_e20_c12_u002] Phoebe Buffay: You know he's gay?
+[s01_e20_c12_u003] Ross Geller: I just wanna clarify this: are you outing Mr. Peanut?
+[s01_e20_c12_u004] Danielle: Chandler?
+[s01_e20_c12_u005] Chandler Bing: Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.
+[s01_e20_c12_u006] #ALL#: Hi. Hi.
+[s01_e20_c12_u007] Chandler Bing: What are you doing here?
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+[s01_e20_c12_u009] Chandler Bing: ...I'm, I'm okay.
+[s01_e20_c12_u010] Danielle: Listen uh, maybe we could get together later?
+[s01_e20_c12_u011] Chandler Bing: That sounds good. I'll call you- or you call me, whatever...
+[s01_e20_c12_u012] Danielle: You got it.
+[s01_e20_c12_u013] Chandler Bing: Okay.
+[s01_e20_c12_u014] Danielle: G'bye, everybody.
+[s01_e20_c12_u015] #ALL#: Bye.
+[s01_e20_c12_u016] Phoebe Buffay: Whoo-hoo!
+[s01_e20_c12_u017] Monica Geller: Yeah, there you go!
+[s01_e20_c12_u018] Ross Geller: Second date!"

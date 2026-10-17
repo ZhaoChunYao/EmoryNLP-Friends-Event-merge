@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker replies with very brief responses ('What?', 'Oh') and avoids elaborating, offering only a generic statement about relationships instead of engaging in extended conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She remains polite and non-confrontational when told Ethan called and when others tease him, responding with a neutral, understanding remark ('sometimes relationships do not work out') rather than arguing."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior here indicates organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She shows no anxiety or upset about the call or the teasing; she responds calmly and frames the breakup matter-of-factly."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "There is no clear display of curiosity/imagination or of dogmatic/cautious thinking in this brief exchange."
+  }
+}

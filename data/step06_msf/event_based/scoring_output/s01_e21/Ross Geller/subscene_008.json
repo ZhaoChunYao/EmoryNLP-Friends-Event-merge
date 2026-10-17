@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages others by prompting Speaker_04 to share feelings rather than staying quiet."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker politely thanks Speaker_01 and supportively encourages Speaker_04 to say what they feel."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about organization or diligence is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains calm and confident, offering guidance without any sign of anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker invites open emotional expression by telling Speaker_04 to say what they feel."
+  }
+}

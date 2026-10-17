@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Says he can't wait a week and has to talk to Speaker_02 immediately, deciding to go see them now despite not having prepared what to say."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Direct about intentions but neither cooperative nor antagonistic toward others; no clear signs of generosity or untrustworthiness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits not knowing what he will say yet chooses to go immediately—impulsive and unplanned."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows little anxiety and asserts he will know what to say when he sees Speaker_02, acting decisively."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortable with uncertainty and willing to improvise, acting on new information rather than delaying cautiously."
+  }
+}

@@ -1,0 +1,551 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e21,s01_e21_c01,Monica Geller,0,0,3,0,4,2,s01_e21_c01_u001,s01_e21_c01_u009,"[s01_e21_c01_u001] Joey Tribbiani: How could someone get a hold of your credit card number?
+[s01_e21_c01_u002] Monica Geller: I have no idea. But look how much they spent!
+[s01_e21_c01_u003] Rachel Green: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
+[s01_e21_c01_u004] Monica Geller: I know. It's just such reckless spending.
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+[s01_e21_c01_u006] Chandler Bing: Wow, what a geek. They spent $69.95 on a Wonder Mop.
+[s01_e21_c01_u007] Monica Geller: That's me.
+[s01_e21_c01_u008] Phoebe Buffay: Oh! The yuk! Ross, he's doing it again!
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-"
+s01_e21,s01_e21_c01,Monica Geller,1,6,6,5,7,2,s01_e21_c01_u006,s01_e21_c01_u012,"[s01_e21_c01_u006] Chandler Bing: Wow, what a geek. They spent $69.95 on a Wonder Mop.
+[s01_e21_c01_u007] Monica Geller: That's me.
+[s01_e21_c01_u008] Phoebe Buffay: Oh! The yuk! Ross, he's doing it again!
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+[s01_e21_c01_u010] Rachel Green: Oh no, not in my room! I'll get him.
+[s01_e21_c01_u011] Monica Geller: Ross, you've got to do something about the humping.
+[s01_e21_c01_u012] Ross Geller: What? It's, it's just a phase."
+s01_e21,s01_e21_c01,Rachel Green,0,12,12,11,12,2,s01_e21_c01_u012,s01_e21_c01_u017,"[s01_e21_c01_u012] Ross Geller: What? It's, it's just a phase.
+[s01_e21_c01_u013] Chandler Bing: Well, that's what we said about Joey...
+[s01_e21_c01_u014] Ross Geller: Would you all relax? It's not that big a deal.
+[s01_e21_c01_u015] Rachel Green: Stop it! Marcel! Bad monkey!
+[s01_e21_c01_u016] Ross Geller: What?
+[s01_e21_c01_u017] Rachel Green: Let's just say my Curious George doll is no longer curious."
+s01_e21,s01_e21_c01,Ross Geller,0,4,4,3,5,2,s01_e21_c01_u004,s01_e21_c01_u010,"[s01_e21_c01_u004] Monica Geller: I know. It's just such reckless spending.
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+[s01_e21_c01_u006] Chandler Bing: Wow, what a geek. They spent $69.95 on a Wonder Mop.
+[s01_e21_c01_u007] Monica Geller: That's me.
+[s01_e21_c01_u008] Phoebe Buffay: Oh! The yuk! Ross, he's doing it again!
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+[s01_e21_c01_u010] Rachel Green: Oh no, not in my room! I'll get him."
+s01_e21,s01_e21_c01,Ross Geller,1,7,12,6,12,3,s01_e21_c01_u007,s01_e21_c01_u017,"[s01_e21_c01_u007] Monica Geller: That's me.
+[s01_e21_c01_u008] Phoebe Buffay: Oh! The yuk! Ross, he's doing it again!
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+[s01_e21_c01_u010] Rachel Green: Oh no, not in my room! I'll get him.
+[s01_e21_c01_u011] Monica Geller: Ross, you've got to do something about the humping.
+[s01_e21_c01_u012] Ross Geller: What? It's, it's just a phase.
+[s01_e21_c01_u013] Chandler Bing: Well, that's what we said about Joey...
+[s01_e21_c01_u014] Ross Geller: Would you all relax? It's not that big a deal.
+[s01_e21_c01_u015] Rachel Green: Stop it! Marcel! Bad monkey!
+[s01_e21_c01_u016] Ross Geller: What?
+[s01_e21_c01_u017] Rachel Green: Let's just say my Curious George doll is no longer curious."
+s01_e21,s01_e21_c02,Monica Geller,0,0,7,0,7,3,s01_e21_c02_u001,s01_e21_c02_u012,"[s01_e21_c02_u001] Rachel Green: Oh, Monica. You are not still going over that thing.
+[s01_e21_c02_u002] Monica Geller: This woman's living my life.
+[s01_e21_c02_u003] Rachel Green: What?
+[s01_e21_c02_u004] Monica Geller: She's living my life, and she's doing it better than me! Look at this, look. She buys tickets for plays that I wanna see. She, she buys clothes from stores that I'm intimidated by the sales people. She spent three hundred dollars on art supplies.
+[s01_e21_c02_u005] Rachel Green: You're not an artist.
+[s01_e21_c02_u006] Monica Geller: Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.
+[s01_e21_c02_u007] Rachel Green: Oh, Monica, c'mon, you do cool things.
+[s01_e21_c02_u008] Monica Geller: Oh really? Okay, let's compare, shall we.
+[s01_e21_c02_u009] Rachel Green: Oh, it's so late for 'Shall we'...
+[s01_e21_c02_u010] Monica Geller: Do I go horseback riding in the park? Do I take classes at the New School?
+[s01_e21_c02_u011] Rachel Green: Nooo...
+[s01_e21_c02_u012] Monica Geller: This is so unfair! She's got everything I want, and she doesn't have my mother."
+s01_e21,s01_e21_c02,Rachel Green,0,0,7,0,7,3,s01_e21_c02_u001,s01_e21_c02_u012,"[s01_e21_c02_u001] Rachel Green: Oh, Monica. You are not still going over that thing.
+[s01_e21_c02_u002] Monica Geller: This woman's living my life.
+[s01_e21_c02_u003] Rachel Green: What?
+[s01_e21_c02_u004] Monica Geller: She's living my life, and she's doing it better than me! Look at this, look. She buys tickets for plays that I wanna see. She, she buys clothes from stores that I'm intimidated by the sales people. She spent three hundred dollars on art supplies.
+[s01_e21_c02_u005] Rachel Green: You're not an artist.
+[s01_e21_c02_u006] Monica Geller: Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.
+[s01_e21_c02_u007] Rachel Green: Oh, Monica, c'mon, you do cool things.
+[s01_e21_c02_u008] Monica Geller: Oh really? Okay, let's compare, shall we.
+[s01_e21_c02_u009] Rachel Green: Oh, it's so late for 'Shall we'...
+[s01_e21_c02_u010] Monica Geller: Do I go horseback riding in the park? Do I take classes at the New School?
+[s01_e21_c02_u011] Rachel Green: Nooo...
+[s01_e21_c02_u012] Monica Geller: This is so unfair! She's got everything I want, and she doesn't have my mother."
+s01_e21,s01_e21_c03,Chandler Bing,0,0,6,0,6,3,s01_e21_c03_u001,s01_e21_c03_u013,"[s01_e21_c03_u001] Chandler Bing: How about Joey... Pepponi?
+[s01_e21_c03_u002] Joey Tribbiani: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+[s01_e21_c03_u003] Chandler Bing: Joey... Switzerland?
+[s01_e21_c03_u004] Unknown Speaker: 
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+[s01_e21_c03_u006] Chandler Bing: Joe...Joe...Joe...Stalin?
+[s01_e21_c03_u007] Joey Tribbiani: Stalin...Stalin...do I know that name? It sounds familiar.
+[s01_e21_c03_u008] Chandler Bing: Well, it does not ring a bell with me...
+[s01_e21_c03_u009] Joey Tribbiani: Joe Stalin. Y'know, that's pretty good.
+[s01_e21_c03_u010] Chandler Bing: Might wanna try Joseph.
+[s01_e21_c03_u011] Unknown Speaker: 
+[s01_e21_c03_u012] Joey Tribbiani: Joseph Stalin. I think you'd remember that!
+[s01_e21_c03_u013] Chandler Bing: Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof."
+s01_e21,s01_e21_c03,Joey Tribbiani,0,0,6,0,6,3,s01_e21_c03_u001,s01_e21_c03_u013,"[s01_e21_c03_u001] Chandler Bing: How about Joey... Pepponi?
+[s01_e21_c03_u002] Joey Tribbiani: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+[s01_e21_c03_u003] Chandler Bing: Joey... Switzerland?
+[s01_e21_c03_u004] Unknown Speaker: 
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+[s01_e21_c03_u006] Chandler Bing: Joe...Joe...Joe...Stalin?
+[s01_e21_c03_u007] Joey Tribbiani: Stalin...Stalin...do I know that name? It sounds familiar.
+[s01_e21_c03_u008] Chandler Bing: Well, it does not ring a bell with me...
+[s01_e21_c03_u009] Joey Tribbiani: Joe Stalin. Y'know, that's pretty good.
+[s01_e21_c03_u010] Chandler Bing: Might wanna try Joseph.
+[s01_e21_c03_u011] Unknown Speaker: 
+[s01_e21_c03_u012] Joey Tribbiani: Joseph Stalin. I think you'd remember that!
+[s01_e21_c03_u013] Chandler Bing: Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof."
+s01_e21,s01_e21_c04,Monica Geller,0,0,4,0,4,3,s01_e21_c04_u001,s01_e21_c04_u009,"[s01_e21_c04_u001] Rachel Green: Hey.
+[s01_e21_c04_u002] Phoebe Buffay: Hey.
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+[s01_e21_c04_u004] Phoebe Buffay: What are you doing?
+[s01_e21_c04_u005] Monica Geller: Alright, great. Thanks a lot. I'm going to tap class.
+[s01_e21_c04_u006] Rachel Green: What, what, so that you can dance with the woman that stole your credit card?
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you."
+s01_e21,s01_e21_c04,Phoebe Buffay,0,0,1,0,2,2,s01_e21_c04_u001,s01_e21_c04_u007,"[s01_e21_c04_u001] Rachel Green: Hey.
+[s01_e21_c04_u002] Phoebe Buffay: Hey.
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+[s01_e21_c04_u004] Phoebe Buffay: What are you doing?
+[s01_e21_c04_u005] Monica Geller: Alright, great. Thanks a lot. I'm going to tap class.
+[s01_e21_c04_u006] Rachel Green: What, what, so that you can dance with the woman that stole your credit card?
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is."
+s01_e21,s01_e21_c04,Rachel Green,0,3,4,2,4,2,s01_e21_c04_u003,s01_e21_c04_u009,"[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+[s01_e21_c04_u004] Phoebe Buffay: What are you doing?
+[s01_e21_c04_u005] Monica Geller: Alright, great. Thanks a lot. I'm going to tap class.
+[s01_e21_c04_u006] Rachel Green: What, what, so that you can dance with the woman that stole your credit card?
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you."
+s01_e21,s01_e21_c05,Monica Geller,0,0,0,0,1,2,s01_e21_c05_u001,s01_e21_c05_u008,"[s01_e21_c05_u001] Monica Geller: What d'you think?
+[s01_e21_c05_u002] Phoebe Buffay: Lotsa things.
+[s01_e21_c05_u003] Unknown Speaker: 
+[s01_e21_c05_u004] Rachel Green: Which one do you think she is?
+[s01_e21_c05_u005] Unknown Speaker: 
+[s01_e21_c05_u006] Teacher: May I help you?
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there."
+s01_e21,s01_e21_c05,Monica Geller,1,4,4,3,5,2,s01_e21_c05_u006,s01_e21_c05_u012,"[s01_e21_c05_u006] Teacher: May I help you?
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!"
+s01_e21,s01_e21_c05,Monica Geller,2,8,8,7,9,2,s01_e21_c05_u010,s01_e21_c05_u018,"[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+[s01_e21_c05_u013] Rachel Green: She could be you.
+[s01_e21_c05_u014] Unknown Speaker: 
+[s01_e21_c05_u015] Teacher: Let's get started. Five, six, a-five six seven eight...
+[s01_e21_c05_u016] Unknown Speaker: 
+[s01_e21_c05_u017] Monica Geller: Okay, I'm not getting this!
+[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!"
+s01_e21,s01_e21_c05,Monica Geller,3,10,12,9,13,2,s01_e21_c05_u012,s01_e21_c05_u024,"[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+[s01_e21_c05_u013] Rachel Green: She could be you.
+[s01_e21_c05_u014] Unknown Speaker: 
+[s01_e21_c05_u015] Teacher: Let's get started. Five, six, a-five six seven eight...
+[s01_e21_c05_u016] Unknown Speaker: 
+[s01_e21_c05_u017] Monica Geller: Okay, I'm not getting this!
+[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+[s01_e21_c05_u020] Unknown Speaker: 
+[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+[s01_e21_c05_u023] Unknown Speaker: 
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel."
+s01_e21,s01_e21_c05,Monica Geller,4,14,14,13,15,2,s01_e21_c05_u018,s01_e21_c05_u026,"[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+[s01_e21_c05_u020] Unknown Speaker: 
+[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+[s01_e21_c05_u023] Unknown Speaker: 
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again.
+[s01_e21_c05_u026] Phoebe Buffay, Rachel Green: Aww."
+s01_e21,s01_e21_c05,Monica Geller,5,17,18,16,19,2,s01_e21_c05_u022,s01_e21_c05_u031,"[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+[s01_e21_c05_u023] Unknown Speaker: 
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again.
+[s01_e21_c05_u026] Phoebe Buffay, Rachel Green: Aww.
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+[s01_e21_c05_u029] Unknown Speaker: 
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+[s01_e21_c05_u031] Teacher: She's your partner."
+s01_e21,s01_e21_c05,Monica Geller,6,21,21,20,22,2,s01_e21_c05_u027,s01_e21_c05_u034,"[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+[s01_e21_c05_u029] Unknown Speaker: 
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+[s01_e21_c05_u031] Teacher: She's your partner.
+[s01_e21_c05_u032] Woman: Hi. I'm Monica.
+[s01_e21_c05_u033] Monica Geller: Oh. Monica! ...Hi. I'm Mo- ...nana.
+[s01_e21_c05_u034] Woman: Monana?"
+s01_e21,s01_e21_c05,Monica Geller,7,23,26,22,26,3,s01_e21_c05_u030,s01_e21_c05_u038,"[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+[s01_e21_c05_u031] Teacher: She's your partner.
+[s01_e21_c05_u032] Woman: Hi. I'm Monica.
+[s01_e21_c05_u033] Monica Geller: Oh. Monica! ...Hi. I'm Mo- ...nana.
+[s01_e21_c05_u034] Woman: Monana?
+[s01_e21_c05_u035] Monica Geller: Yeah. It's Dutch.
+[s01_e21_c05_u036] Fake Monica: You're kidding! I-I spent three years in Amsterdam.
+[s01_e21_c05_u037] Monica Geller: Um, Pennsylvania Dutch.
+[s01_e21_c05_u038] Teacher: And we're dancing. A-five, six, seven, eight..."
+s01_e21,s01_e21_c05,Phoebe Buffay,0,13,13,12,14,2,s01_e21_c05_u017,s01_e21_c05_u025,"[s01_e21_c05_u017] Monica Geller: Okay, I'm not getting this!
+[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+[s01_e21_c05_u020] Unknown Speaker: 
+[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+[s01_e21_c05_u023] Unknown Speaker: 
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again."
+s01_e21,s01_e21_c05,Rachel Green,0,2,2,1,3,2,s01_e21_c05_u002,s01_e21_c05_u010,"[s01_e21_c05_u002] Phoebe Buffay: Lotsa things.
+[s01_e21_c05_u003] Unknown Speaker: 
+[s01_e21_c05_u004] Rachel Green: Which one do you think she is?
+[s01_e21_c05_u005] Unknown Speaker: 
+[s01_e21_c05_u006] Teacher: May I help you?
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon."
+s01_e21,s01_e21_c05,Rachel Green,1,6,6,5,7,2,s01_e21_c05_u008,s01_e21_c05_u015,"[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+[s01_e21_c05_u013] Rachel Green: She could be you.
+[s01_e21_c05_u014] Unknown Speaker: 
+[s01_e21_c05_u015] Teacher: Let's get started. Five, six, a-five six seven eight..."
+s01_e21,s01_e21_c05,Teacher,0,1,3,0,4,2,s01_e21_c05_u001,s01_e21_c05_u011,"[s01_e21_c05_u001] Monica Geller: What d'you think?
+[s01_e21_c05_u002] Phoebe Buffay: Lotsa things.
+[s01_e21_c05_u003] Unknown Speaker: 
+[s01_e21_c05_u004] Rachel Green: Which one do you think she is?
+[s01_e21_c05_u005] Unknown Speaker: 
+[s01_e21_c05_u006] Teacher: May I help you?
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?"
+s01_e21,s01_e21_c05,Teacher,1,5,5,4,6,2,s01_e21_c05_u007,s01_e21_c05_u013,"[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+[s01_e21_c05_u013] Rachel Green: She could be you."
+s01_e21,s01_e21_c05,Teacher,2,7,9,6,10,2,s01_e21_c05_u009,s01_e21_c05_u019,"[s01_e21_c05_u009] Rachel Green: What does she mean?
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+[s01_e21_c05_u013] Rachel Green: She could be you.
+[s01_e21_c05_u014] Unknown Speaker: 
+[s01_e21_c05_u015] Teacher: Let's get started. Five, six, a-five six seven eight...
+[s01_e21_c05_u016] Unknown Speaker: 
+[s01_e21_c05_u017] Monica Geller: Okay, I'm not getting this!
+[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?"
+s01_e21,s01_e21_c05,Teacher,3,16,16,15,17,2,s01_e21_c05_u021,s01_e21_c05_u028,"[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+[s01_e21_c05_u023] Unknown Speaker: 
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again.
+[s01_e21_c05_u026] Phoebe Buffay, Rachel Green: Aww.
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare."
+s01_e21,s01_e21_c05,Teacher,4,19,20,18,21,2,s01_e21_c05_u025,s01_e21_c05_u033,"[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again.
+[s01_e21_c05_u026] Phoebe Buffay, Rachel Green: Aww.
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+[s01_e21_c05_u029] Unknown Speaker: 
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+[s01_e21_c05_u031] Teacher: She's your partner.
+[s01_e21_c05_u032] Woman: Hi. I'm Monica.
+[s01_e21_c05_u033] Monica Geller: Oh. Monica! ...Hi. I'm Mo- ...nana."
+s01_e21,s01_e21_c05,Woman,0,20,24,19,25,3,s01_e21_c05_u026,s01_e21_c05_u037,"[s01_e21_c05_u026] Phoebe Buffay, Rachel Green: Aww.
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+[s01_e21_c05_u029] Unknown Speaker: 
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+[s01_e21_c05_u031] Teacher: She's your partner.
+[s01_e21_c05_u032] Woman: Hi. I'm Monica.
+[s01_e21_c05_u033] Monica Geller: Oh. Monica! ...Hi. I'm Mo- ...nana.
+[s01_e21_c05_u034] Woman: Monana?
+[s01_e21_c05_u035] Monica Geller: Yeah. It's Dutch.
+[s01_e21_c05_u036] Fake Monica: You're kidding! I-I spent three years in Amsterdam.
+[s01_e21_c05_u037] Monica Geller: Um, Pennsylvania Dutch."
+s01_e21,s01_e21_c06,Chandler Bing,0,4,4,3,5,2,s01_e21_c06_u004,s01_e21_c06_u010,"[s01_e21_c06_u004] Ross Geller: At the vet.
+[s01_e21_c06_u005] Chandler Bing: She's not gonna make you wear one of those big plastic cones, is she?
+[s01_e21_c06_u006] Ross Geller: She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.
+[s01_e21_c06_u007] Joey Tribbiani: Hey! He beat ya.
+[s01_e21_c06_u008] Ross Geller: She says as time goes on, he's gonna start getting agressive and violent.
+[s01_e21_c06_u009] Chandler Bing: So what does this mean?
+[s01_e21_c06_u010] Ross Geller: I'm gonna have to give him up."
+s01_e21,s01_e21_c06,Joey Tribbiani,0,2,2,1,3,2,s01_e21_c06_u002,s01_e21_c06_u008,"[s01_e21_c06_u002] Chandler Bing, Joey Tribbiani: Hey.
+[s01_e21_c06_u003] Joey Tribbiani: Where've you been?
+[s01_e21_c06_u004] Ross Geller: At the vet.
+[s01_e21_c06_u005] Chandler Bing: She's not gonna make you wear one of those big plastic cones, is she?
+[s01_e21_c06_u006] Ross Geller: She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.
+[s01_e21_c06_u007] Joey Tribbiani: Hey! He beat ya.
+[s01_e21_c06_u008] Ross Geller: She says as time goes on, he's gonna start getting agressive and violent."
+s01_e21,s01_e21_c06,Ross Geller,0,0,5,0,5,3,s01_e21_c06_u001,s01_e21_c06_u010,"[s01_e21_c06_u001] Ross Geller: Hi.
+[s01_e21_c06_u002] Chandler Bing, Joey Tribbiani: Hey.
+[s01_e21_c06_u003] Joey Tribbiani: Where've you been?
+[s01_e21_c06_u004] Ross Geller: At the vet.
+[s01_e21_c06_u005] Chandler Bing: She's not gonna make you wear one of those big plastic cones, is she?
+[s01_e21_c06_u006] Ross Geller: She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.
+[s01_e21_c06_u007] Joey Tribbiani: Hey! He beat ya.
+[s01_e21_c06_u008] Ross Geller: She says as time goes on, he's gonna start getting agressive and violent.
+[s01_e21_c06_u009] Chandler Bing: So what does this mean?
+[s01_e21_c06_u010] Ross Geller: I'm gonna have to give him up."
+s01_e21,s01_e21_c07,Chandler Bing,0,4,10,3,11,3,s01_e21_c07_u004,s01_e21_c07_u017,"[s01_e21_c07_u004] Joey Tribbiani: Isn't there any way you can keep him?
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+[s01_e21_c07_u006] Joey Tribbiani: How do you get a monkey into a zoo?
+[s01_e21_c07_u007] Chandler Bing: I know that one! ...No, that's Popes into a Volkswagen.
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+[s01_e21_c07_u009] Chandler Bing: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.
+[s01_e21_c07_u010] Unknown Speaker: 
+[s01_e21_c07_u011] Phoebe Buffay: Hey. We found her, we found the girl.
+[s01_e21_c07_u012] Chandler Bing: What?
+[s01_e21_c07_u013] Joey Tribbiani: Did you call the cops?
+[s01_e21_c07_u014] Rachel Green: Nope. We took her to lunch.
+[s01_e21_c07_u015] Chandler Bing: Ah. Your own brand of vigilante justice.
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit."
+s01_e21,s01_e21_c07,Chandler Bing,1,13,13,12,14,2,s01_e21_c07_u014,s01_e21_c07_u020,"[s01_e21_c07_u014] Rachel Green: Nope. We took her to lunch.
+[s01_e21_c07_u015] Chandler Bing: Ah. Your own brand of vigilante justice.
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+[s01_e21_c07_u018] Ross Geller: Yeah, which she probably stole from some cheerleader.
+[s01_e21_c07_u019] Chandler Bing: ...Take off their hats!
+[s01_e21_c07_u020] Phoebe Buffay: Popes in a Volkswagen! ...I love that joke."
+s01_e21,s01_e21_c07,Joey Tribbiani,0,0,3,0,4,2,s01_e21_c07_u001,s01_e21_c07_u009,"[s01_e21_c07_u001] Joey Tribbiani: I can't believe it, Ross. This sucks!
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+[s01_e21_c07_u004] Joey Tribbiani: Isn't there any way you can keep him?
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+[s01_e21_c07_u006] Joey Tribbiani: How do you get a monkey into a zoo?
+[s01_e21_c07_u007] Chandler Bing: I know that one! ...No, that's Popes into a Volkswagen.
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+[s01_e21_c07_u009] Chandler Bing: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo."
+s01_e21,s01_e21_c07,Ross Geller,0,0,4,0,5,2,s01_e21_c07_u001,s01_e21_c07_u011,"[s01_e21_c07_u001] Joey Tribbiani: I can't believe it, Ross. This sucks!
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+[s01_e21_c07_u004] Joey Tribbiani: Isn't there any way you can keep him?
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+[s01_e21_c07_u006] Joey Tribbiani: How do you get a monkey into a zoo?
+[s01_e21_c07_u007] Chandler Bing: I know that one! ...No, that's Popes into a Volkswagen.
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+[s01_e21_c07_u009] Chandler Bing: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.
+[s01_e21_c07_u010] Unknown Speaker: 
+[s01_e21_c07_u011] Phoebe Buffay: Hey. We found her, we found the girl."
+s01_e21,s01_e21_c07,Ross Geller,1,12,14,11,14,2,s01_e21_c07_u013,s01_e21_c07_u020,"[s01_e21_c07_u013] Joey Tribbiani: Did you call the cops?
+[s01_e21_c07_u014] Rachel Green: Nope. We took her to lunch.
+[s01_e21_c07_u015] Chandler Bing: Ah. Your own brand of vigilante justice.
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+[s01_e21_c07_u018] Ross Geller: Yeah, which she probably stole from some cheerleader.
+[s01_e21_c07_u019] Chandler Bing: ...Take off their hats!
+[s01_e21_c07_u020] Phoebe Buffay: Popes in a Volkswagen! ...I love that joke."
+s01_e21,s01_e21_c08,Fake Monica,0,0,13,0,13,3,s01_e21_c08_u001,s01_e21_c08_u018,"[s01_e21_c08_u001] Rachel Green: No way. No way did you do this.
+[s01_e21_c08_u002] Fake Monica: Monana was very brave.
+[s01_e21_c08_u003] Monica Geller: It was so wild. We told them we were the Gunnersens in room six fifteen. Only to find out the Boston Celtics had taken over the entire sixth floor!
+[s01_e21_c08_u004] Fake Monica: So once they caught on to the fact that we're, y'know, short and have breasts...
+[s01_e21_c08_u005] Monica Geller: ...They threw us out! I was thrown out of a hotel! Me!
+[s01_e21_c08_u006] Rachel Green: Go Monana! Well, you ladies are not the only ones living the dream. I get to go pour coffee for people I don't know. Don't wait up.
+[s01_e21_c08_u007] Fake Monica: Oh, by the way, tomorrow we're auditioning for a Broadway show.
+[s01_e21_c08_u008] Monica Geller: 'Scuse me?
+[s01_e21_c08_u009] Fake Monica: There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Whaddya say?
+[s01_e21_c08_u010] Monica Geller: Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.
+[s01_e21_c08_u011] Fake Monica: Well, that's just probably 'cause of your Amish background.
+[s01_e21_c08_u012] Monica Geller: What?
+[s01_e21_c08_u013] Fake Monica: Well, you're Pennsylvania Dutch, right?
+[s01_e21_c08_u014] Monica Geller: Right. Till I bought a blow dryer, then I was shunned.
+[s01_e21_c08_u015] Fake Monica: I-I used to be just like you. And then one day I saw a movie that changed my life. Did you ever see Dead Poets' Society?
+[s01_e21_c08_u016] Monica Geller: Uh-huh.
+[s01_e21_c08_u017] Fake Monica: I thought that movie was so incredibly... boring. I mean, that thing at the end where the kid kills himself because he can't be in the play? What was that?! It's like, kid, wait a year, leave home, do some community theatre. I walked out of there and I thought, 'Now, that's two hours of my life that I'm never getting back.' And that thought scared me more than all the other crap I was afraid to do.
+[s01_e21_c08_u018] Monica Geller: Wow. Then I would definitely not recommend Mrs. Doubtfire."
+s01_e21,s01_e21_c08,Monica Geller,0,0,13,0,13,3,s01_e21_c08_u001,s01_e21_c08_u018,"[s01_e21_c08_u001] Rachel Green: No way. No way did you do this.
+[s01_e21_c08_u002] Fake Monica: Monana was very brave.
+[s01_e21_c08_u003] Monica Geller: It was so wild. We told them we were the Gunnersens in room six fifteen. Only to find out the Boston Celtics had taken over the entire sixth floor!
+[s01_e21_c08_u004] Fake Monica: So once they caught on to the fact that we're, y'know, short and have breasts...
+[s01_e21_c08_u005] Monica Geller: ...They threw us out! I was thrown out of a hotel! Me!
+[s01_e21_c08_u006] Rachel Green: Go Monana! Well, you ladies are not the only ones living the dream. I get to go pour coffee for people I don't know. Don't wait up.
+[s01_e21_c08_u007] Fake Monica: Oh, by the way, tomorrow we're auditioning for a Broadway show.
+[s01_e21_c08_u008] Monica Geller: 'Scuse me?
+[s01_e21_c08_u009] Fake Monica: There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Whaddya say?
+[s01_e21_c08_u010] Monica Geller: Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.
+[s01_e21_c08_u011] Fake Monica: Well, that's just probably 'cause of your Amish background.
+[s01_e21_c08_u012] Monica Geller: What?
+[s01_e21_c08_u013] Fake Monica: Well, you're Pennsylvania Dutch, right?
+[s01_e21_c08_u014] Monica Geller: Right. Till I bought a blow dryer, then I was shunned.
+[s01_e21_c08_u015] Fake Monica: I-I used to be just like you. And then one day I saw a movie that changed my life. Did you ever see Dead Poets' Society?
+[s01_e21_c08_u016] Monica Geller: Uh-huh.
+[s01_e21_c08_u017] Fake Monica: I thought that movie was so incredibly... boring. I mean, that thing at the end where the kid kills himself because he can't be in the play? What was that?! It's like, kid, wait a year, leave home, do some community theatre. I walked out of there and I thought, 'Now, that's two hours of my life that I'm never getting back.' And that thought scared me more than all the other crap I was afraid to do.
+[s01_e21_c08_u018] Monica Geller: Wow. Then I would definitely not recommend Mrs. Doubtfire."
+s01_e21,s01_e21_c09,Chandler Bing,0,3,5,2,5,2,s01_e21_c09_u003,s01_e21_c09_u010,"[s01_e21_c09_u003] Ross Geller: Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him?
+[s01_e21_c09_u004] Rachel Green: Oh, somebody will.
+[s01_e21_c09_u005] Joey Tribbiani: You know there already is a Joseph Stalin?
+[s01_e21_c09_u006] Chandler Bing: You're kidding.
+[s01_e21_c09_u007] Joey Tribbiani: Apparently he was this Russian dictator who slaughtered all these people. You'd think you would've known that!
+[s01_e21_c09_u008] Chandler Bing: Y'know, you'd think I would've.
+[s01_e21_c09_u009] Joey Tribbiani: Phoebe. Whaddyou think a good stage name for me would be?
+[s01_e21_c09_u010] Phoebe Buffay: ...Flame Boy."
+s01_e21,s01_e21_c09,Joey Tribbiani,0,2,5,1,5,3,s01_e21_c09_u002,s01_e21_c09_u010,"[s01_e21_c09_u002] Phoebe Buffay: I'd say that chair's taking the brunt.
+[s01_e21_c09_u003] Ross Geller: Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him?
+[s01_e21_c09_u004] Rachel Green: Oh, somebody will.
+[s01_e21_c09_u005] Joey Tribbiani: You know there already is a Joseph Stalin?
+[s01_e21_c09_u006] Chandler Bing: You're kidding.
+[s01_e21_c09_u007] Joey Tribbiani: Apparently he was this Russian dictator who slaughtered all these people. You'd think you would've known that!
+[s01_e21_c09_u008] Chandler Bing: Y'know, you'd think I would've.
+[s01_e21_c09_u009] Joey Tribbiani: Phoebe. Whaddyou think a good stage name for me would be?
+[s01_e21_c09_u010] Phoebe Buffay: ...Flame Boy."
+s01_e21,s01_e21_c09,Ross Geller,0,0,0,0,1,2,s01_e21_c09_u001,s01_e21_c09_u006,"[s01_e21_c09_u001] Ross Geller: Oh God. We didn't get into Scranton. That was like our safety zoo. They take like dogs and cows. See? I don't know who this is harder on, me or him.
+[s01_e21_c09_u002] Phoebe Buffay: I'd say that chair's taking the brunt.
+[s01_e21_c09_u003] Ross Geller: Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him?
+[s01_e21_c09_u004] Rachel Green: Oh, somebody will.
+[s01_e21_c09_u005] Joey Tribbiani: You know there already is a Joseph Stalin?
+[s01_e21_c09_u006] Chandler Bing: You're kidding."
+s01_e21,s01_e21_c10,Dr. Baldhara,0,0,9,0,10,3,s01_e21_c10_u001,s01_e21_c10_u016,"[s01_e21_c10_u001] Ross Geller: Where exactly is your zoo?
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+[s01_e21_c10_u003] Ross Geller: Yes.
+[s01_e21_c10_u004] Dr. Baldhara: Does he, uh, fight with other animals?
+[s01_e21_c10_u005] Ross Geller: No-no, he's, he's very docile.
+[s01_e21_c10_u006] Dr. Baldhara: Even if he were... cornered?
+[s01_e21_c10_u007] Ross Geller: Well I, I don't know. Why?
+[s01_e21_c10_u008] Dr. Baldhara: Uh, how is he at handling small objects?
+[s01_e21_c10_u009] Ross Geller: He can hold a banana, if that's whatcha mean...
+[s01_e21_c10_u010] Dr. Baldhara: How about a hammer, or a small blade?
+[s01_e21_c10_u011] Ross Geller: Why- why- why would he need a blade?
+[s01_e21_c10_u012] Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
+[s01_e21_c10_u013] Unknown Speaker: 
+[s01_e21_c10_u014] Chandler Bing, Joey Tribbiani: He- he- he got in, he- he got in to San Diego.
+[s01_e21_c10_u015] Joey Tribbiani: We, we come back from our walk and the- the phone was ringing...
+[s01_e21_c10_u016] Chandler Bing: ...He's in."
+s01_e21,s01_e21_c10,Ross Geller,0,0,8,0,9,3,s01_e21_c10_u001,s01_e21_c10_u015,"[s01_e21_c10_u001] Ross Geller: Where exactly is your zoo?
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+[s01_e21_c10_u003] Ross Geller: Yes.
+[s01_e21_c10_u004] Dr. Baldhara: Does he, uh, fight with other animals?
+[s01_e21_c10_u005] Ross Geller: No-no, he's, he's very docile.
+[s01_e21_c10_u006] Dr. Baldhara: Even if he were... cornered?
+[s01_e21_c10_u007] Ross Geller: Well I, I don't know. Why?
+[s01_e21_c10_u008] Dr. Baldhara: Uh, how is he at handling small objects?
+[s01_e21_c10_u009] Ross Geller: He can hold a banana, if that's whatcha mean...
+[s01_e21_c10_u010] Dr. Baldhara: How about a hammer, or a small blade?
+[s01_e21_c10_u011] Ross Geller: Why- why- why would he need a blade?
+[s01_e21_c10_u012] Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
+[s01_e21_c10_u013] Unknown Speaker: 
+[s01_e21_c10_u014] Chandler Bing, Joey Tribbiani: He- he- he got in, he- he got in to San Diego.
+[s01_e21_c10_u015] Joey Tribbiani: We, we come back from our walk and the- the phone was ringing..."
+s01_e21,s01_e21_c11,Monica Geller,0,0,11,0,11,3,s01_e21_c11_u001,s01_e21_c11_u018,"[s01_e21_c11_u001] Monica Geller: Yo- hooo!
+[s01_e21_c11_u002] Rachel Green: Where the hell've you been?
+[s01_e21_c11_u003] Monica Geller: Monica and I just crashed an embassy party.
+[s01_e21_c11_u004] Rachel Green: Are you drunk?!
+[s01_e21_c11_u005] Monica Geller: Noooo! I'm lying. I am so drunk.
+[s01_e21_c11_u006] Rachel Green: Oh God, oh. Great, Monica, y'know what, you could've called, I have been up here, I've been worried...
+[s01_e21_c11_u007] Unknown Speaker: 
+[s01_e21_c11_u008] Rachel Green: Monica? Monica!
+[s01_e21_c11_u009] Monica Geller: Water rules!
+[s01_e21_c11_u010] Rachel Green: Yes, yes, it does. Okay, look, the restaurant called, they wanna know if you're gonna be showing up for work?
+[s01_e21_c11_u011] Monica Geller: Nope. Going to the Big Apple Circus today.
+[s01_e21_c11_u012] Rachel Green: Okay Monica, what are you doing? You're gonna lose your job! This is not you!
+[s01_e21_c11_u013] Monica Geller: No, it is me! Y'know, I'm not just the person who needs to fluff the pillows and pay the bills as soon as they come in! Y'know, when I'm with her, I am so much more than that. I'm- I'm Monana!
+[s01_e21_c11_u014] Unknown Speaker: 
+[s01_e21_c11_u015] Rachel Green: Hello? Yes, she is, hold on a second, please. Monana, it's for you, the credit card people.
+[s01_e21_c11_u016] Monica Geller: Helloooo? Yeah. Oh my God. Thanks.
+[s01_e21_c11_u017] Rachel Green: What?
+[s01_e21_c11_u018] Monica Geller: They've arrested Monica."
+s01_e21,s01_e21_c11,Rachel Green,0,0,11,0,11,3,s01_e21_c11_u001,s01_e21_c11_u018,"[s01_e21_c11_u001] Monica Geller: Yo- hooo!
+[s01_e21_c11_u002] Rachel Green: Where the hell've you been?
+[s01_e21_c11_u003] Monica Geller: Monica and I just crashed an embassy party.
+[s01_e21_c11_u004] Rachel Green: Are you drunk?!
+[s01_e21_c11_u005] Monica Geller: Noooo! I'm lying. I am so drunk.
+[s01_e21_c11_u006] Rachel Green: Oh God, oh. Great, Monica, y'know what, you could've called, I have been up here, I've been worried...
+[s01_e21_c11_u007] Unknown Speaker: 
+[s01_e21_c11_u008] Rachel Green: Monica? Monica!
+[s01_e21_c11_u009] Monica Geller: Water rules!
+[s01_e21_c11_u010] Rachel Green: Yes, yes, it does. Okay, look, the restaurant called, they wanna know if you're gonna be showing up for work?
+[s01_e21_c11_u011] Monica Geller: Nope. Going to the Big Apple Circus today.
+[s01_e21_c11_u012] Rachel Green: Okay Monica, what are you doing? You're gonna lose your job! This is not you!
+[s01_e21_c11_u013] Monica Geller: No, it is me! Y'know, I'm not just the person who needs to fluff the pillows and pay the bills as soon as they come in! Y'know, when I'm with her, I am so much more than that. I'm- I'm Monana!
+[s01_e21_c11_u014] Unknown Speaker: 
+[s01_e21_c11_u015] Rachel Green: Hello? Yes, she is, hold on a second, please. Monana, it's for you, the credit card people.
+[s01_e21_c11_u016] Monica Geller: Helloooo? Yeah. Oh my God. Thanks.
+[s01_e21_c11_u017] Rachel Green: What?
+[s01_e21_c11_u018] Monica Geller: They've arrested Monica."
+s01_e21,s01_e21_c12,Fake Monica,0,0,13,0,13,3,s01_e21_c12_u001,s01_e21_c12_u018,"[s01_e21_c12_u001] Monica Geller: Hi.
+[s01_e21_c12_u002] Fake Monica: Hey.
+[s01_e21_c12_u003] Monica Geller: How are you?
+[s01_e21_c12_u004] Fake Monica: I'm not too bad. Fortunately, blue's my colour. How-how did you know I was here?
+[s01_e21_c12_u005] Monica Geller: Because... I'm Monica Geller. It was my credit card you were using.
+[s01_e21_c12_u006] Fake Monica: That I was not expecting.
+[s01_e21_c12_u007] Monica Geller: I want you to know, it wasn't me who turned you in.
+[s01_e21_c12_u008] Fake Monica: Oh. Thanks.
+[s01_e21_c12_u009] Monica Geller: No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing Memories on the stage at the Wintergarden Theater!
+[s01_e21_c12_u010] Fake Monica: Well, actually, you only got to sing 'Memo-'.
+[s01_e21_c12_u011] Monica Geller: I just can't believe you're in here. I mean, what am I gonna do without you? Who's gonna crash the embassy parties with me? Who's gonna take me to the Big Apple Circus?
+[s01_e21_c12_u012] Fake Monica: Monica, I started my day by peeing in front of twenty-five other women, and you're worried about who's gonna take you to the Big Apple Circus?
+[s01_e21_c12_u013] Monica Geller: Well, not... worried, just... wondering.
+[s01_e21_c12_u014] Fake Monica: There's nothing to wonder about, Monica. You're gonna go back to being exactly who you were, because that's who you are.
+[s01_e21_c12_u015] Monica Geller: Not necessarily...
+[s01_e21_c12_u016] Fake Monica: Yes necessarily! I mean, I dunno what it is, maybe it's the Amish thing.
+[s01_e21_c12_u017] Monica Geller: Um, I'm not actually Amish.
+[s01_e21_c12_u018] Fake Monica: Really? Then why are you like that?"
+s01_e21,s01_e21_c12,Monica Geller,0,0,13,0,13,3,s01_e21_c12_u001,s01_e21_c12_u018,"[s01_e21_c12_u001] Monica Geller: Hi.
+[s01_e21_c12_u002] Fake Monica: Hey.
+[s01_e21_c12_u003] Monica Geller: How are you?
+[s01_e21_c12_u004] Fake Monica: I'm not too bad. Fortunately, blue's my colour. How-how did you know I was here?
+[s01_e21_c12_u005] Monica Geller: Because... I'm Monica Geller. It was my credit card you were using.
+[s01_e21_c12_u006] Fake Monica: That I was not expecting.
+[s01_e21_c12_u007] Monica Geller: I want you to know, it wasn't me who turned you in.
+[s01_e21_c12_u008] Fake Monica: Oh. Thanks.
+[s01_e21_c12_u009] Monica Geller: No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing Memories on the stage at the Wintergarden Theater!
+[s01_e21_c12_u010] Fake Monica: Well, actually, you only got to sing 'Memo-'.
+[s01_e21_c12_u011] Monica Geller: I just can't believe you're in here. I mean, what am I gonna do without you? Who's gonna crash the embassy parties with me? Who's gonna take me to the Big Apple Circus?
+[s01_e21_c12_u012] Fake Monica: Monica, I started my day by peeing in front of twenty-five other women, and you're worried about who's gonna take you to the Big Apple Circus?
+[s01_e21_c12_u013] Monica Geller: Well, not... worried, just... wondering.
+[s01_e21_c12_u014] Fake Monica: There's nothing to wonder about, Monica. You're gonna go back to being exactly who you were, because that's who you are.
+[s01_e21_c12_u015] Monica Geller: Not necessarily...
+[s01_e21_c12_u016] Fake Monica: Yes necessarily! I mean, I dunno what it is, maybe it's the Amish thing.
+[s01_e21_c12_u017] Monica Geller: Um, I'm not actually Amish.
+[s01_e21_c12_u018] Fake Monica: Really? Then why are you like that?"
+s01_e21,s01_e21_c14,Joey Tribbiani,0,3,5,2,6,2,s01_e21_c14_u003,s01_e21_c14_u011,"[s01_e21_c14_u003] Ross Geller: Aww. Thank you, Aunt Phoebe.
+[s01_e21_c14_u004] Phoebe Buffay: Oh!
+[s01_e21_c14_u005] Chandler Bing: Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.
+[s01_e21_c14_u006] Joey Tribbiani: I dunno what to say, Ross. Uh, it's a monkey.
+[s01_e21_c14_u007] Ross Geller: Just, just say what you feel.
+[s01_e21_c14_u008] Joey Tribbiani: Marcel, I'm hungry.
+[s01_e21_c14_u009] Ross Geller: That was good.
+[s01_e21_c14_u010] Rachel Green: Marcel, this is for you. It's, uh, just, y'know, something to, um, do on the plane.
+[s01_e21_c14_u011] Ross Geller: Uh, if you guys don't mind, I'd like to take a moment, just me and him."
+s01_e21,s01_e21_c14,Phoebe Buffay,0,0,1,0,2,2,s01_e21_c14_u001,s01_e21_c14_u007,"[s01_e21_c14_u001] Announcement: This is the final boarding call for flight 67 to San Diego, boarding at gate 42A.
+[s01_e21_c14_u002] Phoebe Buffay: Okay. Good-bye, little monkey guy. Alright, I wrote you this poem. Okay, but don't eat it 'till you get on the plane.
+[s01_e21_c14_u003] Ross Geller: Aww. Thank you, Aunt Phoebe.
+[s01_e21_c14_u004] Phoebe Buffay: Oh!
+[s01_e21_c14_u005] Chandler Bing: Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.
+[s01_e21_c14_u006] Joey Tribbiani: I dunno what to say, Ross. Uh, it's a monkey.
+[s01_e21_c14_u007] Ross Geller: Just, just say what you feel."
+s01_e21,s01_e21_c14,Ross Geller,0,2,2,1,3,2,s01_e21_c14_u002,s01_e21_c14_u008,"[s01_e21_c14_u002] Phoebe Buffay: Okay. Good-bye, little monkey guy. Alright, I wrote you this poem. Okay, but don't eat it 'till you get on the plane.
+[s01_e21_c14_u003] Ross Geller: Aww. Thank you, Aunt Phoebe.
+[s01_e21_c14_u004] Phoebe Buffay: Oh!
+[s01_e21_c14_u005] Chandler Bing: Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.
+[s01_e21_c14_u006] Joey Tribbiani: I dunno what to say, Ross. Uh, it's a monkey.
+[s01_e21_c14_u007] Ross Geller: Just, just say what you feel.
+[s01_e21_c14_u008] Joey Tribbiani: Marcel, I'm hungry."
+s01_e21,s01_e21_c14,Ross Geller,1,4,7,3,7,3,s01_e21_c14_u004,s01_e21_c14_u013,"[s01_e21_c14_u004] Phoebe Buffay: Oh!
+[s01_e21_c14_u005] Chandler Bing: Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.
+[s01_e21_c14_u006] Joey Tribbiani: I dunno what to say, Ross. Uh, it's a monkey.
+[s01_e21_c14_u007] Ross Geller: Just, just say what you feel.
+[s01_e21_c14_u008] Joey Tribbiani: Marcel, I'm hungry.
+[s01_e21_c14_u009] Ross Geller: That was good.
+[s01_e21_c14_u010] Rachel Green: Marcel, this is for you. It's, uh, just, y'know, something to, um, do on the plane.
+[s01_e21_c14_u011] Ross Geller: Uh, if you guys don't mind, I'd like to take a moment, just me and him.
+[s01_e21_c14_u012] #ALL#: Oh, sure. Sure, absolutely.
+[s01_e21_c14_u013] Ross Geller: Marcel, c'mere, c'mere. Well buddy, this is it. There's just a coupla things I want to say. I'm really gonna miss you, and I'm never gonna forget about you. You've been more than just a pet to me, you've been more like a be- Okay, Marcel, please, could you leave my leg alone? Could you just stop humping me for two seconds?! Marcel, would- okay, just take him away. Just take him."
+s01_e21,s01_e21_c15,Casting Director No. 2,0,0,1,0,1,2,s01_e21_c15_u001,s01_e21_c15_u006,"[s01_e21_c15_u001] Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...
+[s01_e21_c15_u002] Casting Director No. 1: That's fine, thank you.
+[s01_e21_c15_u003] Casting Director No. 2: Next.
+[s01_e21_c15_u004] Joey Tribbiani: Hi, uh, I'll be reading for the role of Mercutio.
+[s01_e21_c15_u005] Casting Director No. 2: Name?
+[s01_e21_c15_u006] Joey Tribbiani: Holden McGroin."
+s01_e21,s01_e21_c15,Joey Tribbiani,0,1,1,0,1,2,s01_e21_c15_u001,s01_e21_c15_u006,"[s01_e21_c15_u001] Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...
+[s01_e21_c15_u002] Casting Director No. 1: That's fine, thank you.
+[s01_e21_c15_u003] Casting Director No. 2: Next.
+[s01_e21_c15_u004] Joey Tribbiani: Hi, uh, I'll be reading for the role of Mercutio.
+[s01_e21_c15_u005] Casting Director No. 2: Name?
+[s01_e21_c15_u006] Joey Tribbiani: Holden McGroin."

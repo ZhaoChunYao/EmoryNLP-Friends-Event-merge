@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker volunteers to get the ice chips and assertively insists, \"I got it—I'm getting it!\", showing energetic, take-charge behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They offer to help by getting ice chips for Speaker_02, indicating helpfulness and consideration."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They promptly take responsibility for the task and insist on doing it, suggesting reliability and follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "The firm insistence \"I got it—I'm getting it!\" reflects confidence rather than nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or openness to new ideas are present in the exchange."
+  }
+}

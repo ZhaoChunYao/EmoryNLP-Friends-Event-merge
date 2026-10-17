@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, minimal replies and reacts rather than leads ('Okay ..', 'Wow.', 'What?'), showing little talkativeness or social energy."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely returns an item and expresses thanks ('I guess this belongs to you. And thank you for giving it to me.'), showing cooperation and courtesy."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Responsibly returns something that belongs to the other person, indicating follow-through and orderliness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Anxious, self-conscious reactions and discomfort ('Oh! Well, um... I've got plugs! ... I've got lenses! But I hate sticking my finger in my eye!')."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, imagination, or openness to new ideas in the exchange."
+  }
+}

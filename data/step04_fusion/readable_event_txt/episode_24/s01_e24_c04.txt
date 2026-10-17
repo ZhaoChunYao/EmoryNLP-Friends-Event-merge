@@ -1,0 +1,85 @@
+event_id: s01_e24_c04_u005_e1
+utterance_id: s01_e24_c04_u005
+  tuple: ('excuse', 'you/(crowd)', 'me', 's01_e24_c04_u005')
+  tuple: ('pardon', 'you/(crowd)', 'me', 's01_e24_c04_u005')
+
+event_id: s01_e24_c04_u009_e1
+utterance_id: s01_e24_c04_u009
+  tuple: ('see', 'I/Flight Attendant', 'your boarding pass', 's01_e24_c04_u009')
+
+event_id: s01_e24_c04_u010_e1
+utterance_id: s01_e24_c04_u010
+  tuple: ('have', 'I/Rachel Green', 'one', 's01_e24_c04_u010')
+
+event_id: s01_e24_c04_u010_e2
+utterance_id: s01_e24_c04_u010
+  tuple: ('need', 'I/Rachel Green', 'to talk to my friend', 's01_e24_c04_u010')
+  tuple: ('talk', 'I/Rachel Green', 'to my friend', 's01_e24_c04_u010')
+
+event_id: s01_e24_c04_u011_e1
+utterance_id: s01_e24_c04_u011
+  tuple: ('be', 'I/Flight Attendant', 'sorry', 's01_e24_c04_u011')
+
+event_id: s01_e24_c04_u011_e2
+utterance_id: s01_e24_c04_u011
+  tuple: ('allow', 'you/Rachel Green', 'on the jetway', 's01_e24_c04_u011')
+  tuple: ('have', 'you/Rachel Green', 'a boarding pass', 's01_e24_c04_u011')
+
+event_id: s01_e24_c04_u012_e1
+utterance_id: s01_e24_c04_u012
+  tuple: ('go', 'he/Ross Geller', None, 's01_e24_c04_u012')
+
+event_id: s01_e24_c04_u012_e2
+utterance_id: s01_e24_c04_u012
+  tuple: ('be', 'he/Ross Geller', 'right there', 's01_e24_c04_u012')
+
+event_id: s01_e24_c04_u012_e3
+utterance_id: s01_e24_c04_u012
+  tuple: ('get', 'he/Ross Geller', 'on the blue jacket', 's01_e24_c04_u012')
+
+event_id: s01_e24_c04_u014_e1
+utterance_id: s01_e24_c04_u014
+  tuple: ('give', 'you/Flight Attendant', 'a message', 's01_e24_c04_u014')
+  tuple: ('give', 'you/Flight Attendant', 'for me', 's01_e24_c04_u014')
+
+event_id: s01_e24_c04_u014_e2
+utterance_id: s01_e24_c04_u014
+  tuple: ('be', 'this', 'very important', 's01_e24_c04_u014')
+
+event_id: s01_e24_c04_u015_e1
+utterance_id: s01_e24_c04_u015
+  tuple: ('be', 'the message', 'what', 's01_e24_c04_u015')
+
+event_id: s01_e24_c04_u016_e1
+utterance_id: s01_e24_c04_u016
+  tuple: ('know', 'I/Rachel Green', None, 's01_e24_c04_u016')
+
+event_id: s01_e24_c04_u018_e1
+utterance_id: s01_e24_c04_u018
+  tuple: ('have', 'I/Flight Attendant', 'a message', 's01_e24_c04_u018')
+  tuple: ('have', 'I/Flight Attendant', 'for you', 's01_e24_c04_u018')
+
+event_id: s01_e24_c04_u020_e1
+utterance_id: s01_e24_c04_u020
+  tuple: ('be', 'it/(message)', 'from Rachel', 's01_e24_c04_u020')
+
+event_id: s01_e24_c04_u020_e2
+utterance_id: s01_e24_c04_u020
+  tuple: ('say', 'she/Rachel Green', 'that she loved the present, and she will see you when you get back', 's01_e24_c04_u020')
+  tuple: ('love', 'she/Rachel Green', 'the present', 's01_e24_c04_u020')
+  tuple: ('see', 'she/Rachel Green', 'you', 's01_e24_c04_u020')
+  tuple: ('get back', 'you/Man', None, 's01_e24_c04_u020')
+
+event_id: s01_e24_c04_u021_e1
+utterance_id: s01_e24_c04_u021
+  tuple: ('know', 'I/Man', "what she's talking about", 's01_e24_c04_u021')
+  tuple: ('talk', 'she/Rachel Green', 'about what', 's01_e24_c04_u021')
+
+event_id: s01_e24_c04_u021_e2
+utterance_id: s01_e24_c04_u021
+  tuple: ('be', 'there', 'no Rachel', 's01_e24_c04_u021')
+
+event_id: s01_e24_c04_u021_e3
+utterance_id: s01_e24_c04_u021
+  tuple: ('give', 'you/Flight Attendant', 'that deep freeze', 's01_e24_c04_u021')
+

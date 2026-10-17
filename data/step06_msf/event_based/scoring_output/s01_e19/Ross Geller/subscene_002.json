@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks up to state plans, but shows no clear signs of sociable, energetic engagement beyond simple announcements."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When Speaker_03 asks for a say, TargetSpeaker tells them to relax and asserts that Speaker_03 will not be there when Speaker_05 is at Speaker_07's, dismissing their input and setting a firm boundary."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker confirms and restates the plan for Speaker_05 to spend tomorrow at Aunt Rachel's and states the immediate plan to take a bath, indicating organization and follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker calmly tells Speaker_03 to relax and confidently asserts the arrangement, showing composure and self-assurance rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicates curiosity or openness to novel ideas; the dialogue focuses on practical scheduling and boundaries."
+  }
+}

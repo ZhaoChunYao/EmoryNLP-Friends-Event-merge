@@ -1,0 +1,78 @@
+event_id: s01_e03_c06_u001_e1
+utterance_id: s01_e03_c06_u001
+  tuple: ('be', 'the game', None, 's01_e03_c06_u001')
+
+event_id: s01_e03_c06_u003_e1
+utterance_id: s01_e03_c06_u003
+  tuple: ('win', 'We/(group)', None, 's01_e03_c06_u003')
+
+event_id: s01_e03_c06_u003_e2
+utterance_id: s01_e03_c06_u003
+  tuple: ('thank', 'We/(group)', 'you', 's01_e03_c06_u003')
+
+event_id: s01_e03_c06_u004_e1
+utterance_id: s01_e03_c06_u004
+  tuple: ('have', 'I/(Monica)', 'one question', 's01_e03_c06_u004')
+
+event_id: s01_e03_c06_u004_e2
+utterance_id: s01_e03_c06_u004
+  tuple: ('be', 'that/(we won)', 'possible', 's01_e03_c06_u004')
+
+event_id: s01_e03_c06_u006_e1
+utterance_id: s01_e03_c06_u006
+  tuple: ('be', 'he/(Alan)', 'unbelievable', 's01_e03_c06_u006')
+  tuple: ('like', 'he/(Alan)', 'that Bugs Bunny cartoon', 's01_e03_c06_u006')
+  tuple: ('play', 'Bugs', 'all the positions', 's01_e03_c06_u006')
+  tuple: ('be', 'it/(scenario)', 'instead of Bugs', 's01_e03_c06_u006')
+  tuple: ('be', 'it/(scenario)', 'first base-Alan', 's01_e03_c06_u006')
+  tuple: ('be', 'it/(scenario)', 'second base-Alan', 's01_e03_c06_u006')
+
+event_id: s01_e03_c06_u007_e1
+utterance_id: s01_e03_c06_u007
+  tuple: ('mean', 'I/(Rachel)', None, 's01_e03_c06_u007')
+
+event_id: s01_e03_c06_u007_e2
+utterance_id: s01_e03_c06_u007
+  tuple: ('like', 'it/(game experience)', None, 's01_e03_c06_u007')
+  tuple: ('like', 'it/(game experience)', 'he made us into a team', 's01_e03_c06_u007')
+  tuple: ('make', 'he/(Alan)', 'us', 's01_e03_c06_u007')
+  tuple: ('make', 'he/(Alan)', 'into a team', 's01_e03_c06_u007')
+
+event_id: s01_e03_c06_u008_e1
+utterance_id: s01_e03_c06_u008
+  tuple: ('show', 'we/(group)', 'a thing or two', 's01_e03_c06_u008')
+  tuple: ('show', 'we/(group)', 'those Hassidic jewellers', 's01_e03_c06_u008')
+  tuple: ('show', 'we/(group)', 'about softball', 's01_e03_c06_u008')
+
+event_id: s01_e03_c06_u009_e1
+utterance_id: s01_e03_c06_u009
+  tuple: ('ask', 'I/(Monica)', 'a question', 's01_e03_c06_u009')
+  tuple: ('ask', 'I/(Monica)', 'you guys', 's01_e03_c06_u009')
+
+event_id: s01_e03_c06_u009_e2
+utterance_id: s01_e03_c06_u009
+  tuple: ('think', 'you/(group)', 'that Alan is maybe sometimes', 's01_e03_c06_u009')
+  tuple: ('be', 'Alan', None, 's01_e03_c06_u009')
+
+event_id: s01_e03_c06_u011_e1
+utterance_id: s01_e03_c06_u011
+  tuple: ('know', 'I/(Monica)', None, 's01_e03_c06_u011')
+
+event_id: s01_e03_c06_u012_e1
+utterance_id: s01_e03_c06_u012
+  tuple: ('be', "That/(Monica's suggestion)", 'impossible', 's01_e03_c06_u012')
+
+event_id: s01_e03_c06_u012_e2
+utterance_id: s01_e03_c06_u012
+  tuple: ('be', 'You/(generic)', 'too Alan', 's01_e03_c06_u012')
+
+event_id: s01_e03_c06_u013_e1
+utterance_id: s01_e03_c06_u013
+  tuple: ('be', 'it/(reason we adore Alan)', 'his innate Alan-ness', 's01_e03_c06_u013')
+  tuple: ('adore', 'we/(group)', 'his innate Alan-ness', 's01_e03_c06_u013')
+
+event_id: s01_e03_c06_u014_e1
+utterance_id: s01_e03_c06_u014
+  tuple: ('have', 'I/(Chandler)', 'a gallon', 's01_e03_c06_u014')
+  tuple: ('have', 'I/(Chandler)', 'of Alan', 's01_e03_c06_u014')
+

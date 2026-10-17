@@ -1,0 +1,21 @@
+Episode: s01_e02
+Scene: s01_e02_c06
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e02_c06_u007 → s01_e02_c06_u013
+Peak window: 6 → 6
+
+Dialogue:
+  [s01_e02_c06_u007]
+  1. Speaker_01 says Speaker_01, TargetSpeaker, and Speaker_02 are waiting for Speaker_03.
+  [s01_e02_c06_u008] TargetSpeaker: Speaker_03.
+  [s01_e02_c06_u009]
+  1. Speaker_01 asks whether Speaker_03 is male.
+  [s01_e02_c06_u010] Speaker_02: She.
+  [s01_e02_c06_u011]
+  1. Speaker_01 asks whether Speaker_03 is familiar with the special situation involving Speaker_01, Speaker_02, and TargetSpeaker.
+  [s01_e02_c06_u012]
+  1. TargetSpeaker says Speaker_03 is very supportive of the special situation involving Speaker_01, Speaker_02, and TargetSpeaker.
+  [s01_e02_c06_u013]
+  1. Speaker_01 says it is great that Speaker_03 is very supportive of the special situation involving Speaker_01, Speaker_02, and TargetSpeaker.
+  2. Speaker_01 starts to say what Speaker_01 is, but stops mid-sentence.

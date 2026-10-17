@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly shares enthusiasm about a past moment (“loved the moment” with the giant dog shadow) and speaks assertively in the group, correcting Speaker_02 (“No, no, no, you said ‘got the keys’”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational and unaccommodating, insisting Speaker_02 has the keys and directly contradicting them (“No, no, no, you said…”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks logistics and details (who has the keys, recalling earlier statement “Got the keys”) and mentions needing to get their ticket, showing planning and organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows minor frustration but no clear signs of anxiety or insecurity; remains task-focused."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from enjoying an unusual event (giant dog shadow), there is no strong display of curiosity, imagination, or openness-related behavior."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the group through the meal, announcing the first course and updating everyone on the next course timing—behavior consistent with an outgoing host."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds warmly to praise (“very glad” the guest liked the dish) and communicates clearly and politely about what’s next."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Runs a structured multi-course meal and gives precise timing (“about eight and a half minutes”) for the next course; clearly manages portions."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays calm and matter-of-fact when told the guest could eat more, confidently stating there are no more ravioli and providing a clear plan for the next course."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Presents a creative, elaborate dish (shrimp ravioli with cilantro pondou sauce with mint and ginger), showing culinary experimentation."
+  }
+}

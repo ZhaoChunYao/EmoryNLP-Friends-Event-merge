@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Agrees to take a friend to a hockey game and offers a warm \"Happy birthday, pal!\", showing sociable engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Participates in giving a birthday outing and speaks kindly to a friend, indicating friendliness and generosity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; simply follows along with a friend’s plan."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or distress; tone is casual and comfortable."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behaviors indicating curiosity/inventiveness or caution/dogmatism."
+  }
+}

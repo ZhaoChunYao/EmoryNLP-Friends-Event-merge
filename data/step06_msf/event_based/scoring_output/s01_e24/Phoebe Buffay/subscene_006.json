@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, hedged input (e.g., “Sure.”; “Yeah, but, y’know…” u003, u006) without notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Raises caution about the relationship respectfully and without hostility; no clear signs of generosity/straightforwardness or of unreliability/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Considers possible outcomes but shows no concrete behavior of being organized or efficient, nor of being sloppy or careless."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses worry about negative outcomes by asking what happens if it doesn’t work out and stating it might not work out (u010)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Emphasizes caution and risk (starting at a committed ‘fifteenth date’ stage, u006/u008) and focuses on potential failure (u010) rather than being adventurous or curious."
+  }
+}

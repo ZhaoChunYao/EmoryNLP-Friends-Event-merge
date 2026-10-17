@@ -1,0 +1,353 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c02_u001",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('stop', 'Aunt Syl', 'yelling', 's01_e12_c02_u001')",
+            "('yell', 'Aunt Syl', None, 's01_e12_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('say', 'I/(Monica Geller)', 'that if you had told me vegetarian lasagna, I would have made vegetarian lasagna.', 's01_e12_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('tell', 'you/(Aunt Syl)', 'me vegetarian lasagna', 's01_e12_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event4",
+          "tuples": [
+            "('make', 'I/(Monica Geller)', 'vegetarian lasagna', 's01_e12_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event5",
+          "tuples": [
+            "('be', 'the meat', 'only every third layer', 's01_e12_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event6",
+          "tuples": [
+            "('scrape', 'you/(Aunt Syl)', None, 's01_e12_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u003",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('read', 'you/(Ross Geller)', 'all these baby books', 's01_e12_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u004",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('plunk', 'you/(Joey Tribbiani)', 'me', 's01_e12_c02_u004')",
+            "('plunk', 'you/(Joey Tribbiani)', \"in the middle of any woman's uterus\", 's01_e12_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('find', 'I/(Ross Geller)', 'my way', 's01_e12_c02_u004')",
+            "('find', 'I/(Ross Geller)', 'out of there', 's01_e12_c02_u004')",
+            "('find', 'I/(Ross Geller)', 'like that', 's01_e12_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u005",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'this', 'cool', 's01_e12_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('say', 'it/(baby book)', 'in some parts of the world, people actually eat the placenta', 's01_e12_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('eat', 'people', 'the placenta', 's01_e12_c02_u005')",
+            "('eat', 'people', 'in some parts of the world', 's01_e12_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u006",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('do', 'we/(Chandler Bing + friends)', 'with the yogurt', 's01_e12_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u008",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('do', 'I/(Monica Geller)', 'this', 's01_e12_c02_u008')",
+            "('do', 'I/(Monica Geller)', 'as a favor', 's01_e12_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'not a caterer', 's01_e12_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('want', 'you/(Aunt Syl)', 'me to do with a dozen lasagnas', 's01_e12_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event4",
+          "tuples": [
+            "('do', 'me/(Monica Geller)', None, 's01_e12_c02_u008')",
+            "('do', 'me/(Monica Geller)', 'with a dozen lasagnas', 's01_e12_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event5",
+          "tuples": [
+            "('kiss', 'you/(Aunt Syl)', 'Uncle Freddie', 's01_e12_c02_u008')",
+            "('kiss', 'you/(Aunt Syl)', 'with that mouth', 's01_e12_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u010",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('listen', 'Ross Geller', None, 's01_e12_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', \"that right now, your baby's only this big?\", 's01_e12_c02_u010')",
+            "('be', 'your baby', 'only this big', 's01_e12_c02_u010')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('be', 'this', 'your baby', 's01_e12_c02_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u012",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('live', 'you/(Ross Geller)', 'with Mommy', 's01_e12_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('live', 'Mommy/(Carol Willick)', None, 's01_e12_c02_u012')",
+            "('live', 'Mommy/(Carol Willick)', 'with that other lady', 's01_e12_c02_u012')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('be', 'what', 'a lesbian', 's01_e12_c02_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u014",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('say', 'you/(Paolo)', 'it/(Poconos)', 's01_e12_c02_u014')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'it/(Poconos)', 'like Poc-o-nos', 's01_e12_c02_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u018",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('hear', 'I/(Monica Geller)', 'Poconos', 's01_e12_c02_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u019",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('give', \"my sister/(Rachel's sister)\", 'us her place', 's01_e12_c02_u019')",
+            "('give', \"my sister/(Rachel's sister)\", 'for the weekend', 's01_e12_c02_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u021",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'that/(first weekend away together)', 'a big step', 's01_e12_c02_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u022",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', None, 's01_e12_c02_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u024",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'it/(the Poconos weekend)', 'just a weekend', 's01_e12_c02_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u025",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'this/(Rachel–Paolo relationship)', 'just a fling', 's01_e12_c02_u025')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'it/(Rachel–Paolo relationship)', 'flung by now', 's01_e12_c02_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u027",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('mean', 'I/(Rachel Green)', None, 's01_e12_c02_u027')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'we/(Rachel Green + Paolo)', 'past the fling thing', 's01_e12_c02_u027')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('feel', 'I/(Rachel Green)', 'things', 's01_e12_c02_u027')"
+          ]
+        },
+        {
+          "event_id": "event4",
+          "tuples": [
+            "('read', 'I/(Rachel Green)', 'about things', 's01_e12_c02_u027')",
+            "('read', 'I/(Rachel Green)', 'in Danielle Steele books', 's01_e12_c02_u027')"
+          ]
+        },
+        {
+          "event_id": "event5",
+          "tuples": [
+            "('know', 'you/(Monica Geller + friends)', None, 's01_e12_c02_u027')"
+          ]
+        },
+        {
+          "event_id": "event6",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'with him', 's01_e12_c02_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c02_u029",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'physically nauseous', 's01_e12_c02_u029')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('do', 'I/(Ross Geller)', 'what', 's01_e12_c02_u029')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('call', 'I/(Ross Geller)', 'immigration', 's01_e12_c02_u029')"
+          ]
+        }
+      ]
+    }
+  ]
+}

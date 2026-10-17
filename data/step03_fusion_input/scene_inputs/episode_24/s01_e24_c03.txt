@@ -1,0 +1,165 @@
+('mean', 'I/Rachel Green', 'this is unbelievable', 's01_e24_c03_u001')
+[s01_e24_c03_u001] Rachel Green: I mean, this is unbelievable.
+
+('be', 'this/(news)', 'unbelievable', 's01_e24_c03_u001')
+[s01_e24_c03_u001] Rachel Green: I mean, this is unbelievable.
+
+('know', 'I/Phoebe Buffay', None, 's01_e24_c03_u002')
+[s01_e24_c03_u002] Phoebe Buffay: I know. This is really, really huge.
+
+('be', 'this/(news)', 'really, really huge', 's01_e24_c03_u002')
+[s01_e24_c03_u002] Phoebe Buffay: I know. This is really, really huge.
+
+('be', 'it/(this news)', None, 's01_e24_c03_u003')
+[s01_e24_c03_u003] Chandler Bing: No it's not. It's small. It's tiny. It's petite. It's wee.
+
+('be', 'it/(this news)', 'petite', 's01_e24_c03_u003')
+[s01_e24_c03_u003] Chandler Bing: No it's not. It's small. It's tiny. It's petite. It's wee.
+
+('think', 'I/Phoebe Buffay', 'any of our lives are ever gonna be the same ever again', 's01_e24_c03_u004')
+[s01_e24_c03_u004] Phoebe Buffay: Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+
+('be', 'any of our lives', 'the same ever again', 's01_e24_c03_u004')
+[s01_e24_c03_u004] Phoebe Buffay: Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+
+('be', 'there', 'a mute button', 's01_e24_c03_u005')
+[s01_e24_c03_u005] Chandler Bing: OK, is there a mute button on this woman?
+
+('be', 'a mute button', 'on this woman', 's01_e24_c03_u005')
+[s01_e24_c03_u005] Chandler Bing: OK, is there a mute button on this woman?
+
+('think', 'I/Monica Geller', 'this is so great', 's01_e24_c03_u006')
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+
+('be', 'this/(news)', 'so great', 's01_e24_c03_u006')
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+
+('mean', 'I/Monica Geller', 'you and Ross', 's01_e24_c03_u006')
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+
+('have', 'you/Rachel Green', 'any idea', 's01_e24_c03_u006')
+[s01_e24_c03_u006] Monica Geller: I think this is so great! I mean, you and Ross! D-did you have any idea?
+
+('mean', 'I/Rachel Green', 'my first night in the city', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('mention', 'he/Ross Geller', 'something about asking me out', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('ask', 'he/Ross Geller', 'me out', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('happen', 'nothing', None, 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('say', 'he/Ross Geller', 'what else', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('want', 'he/Ross Geller', 'to go out with me', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('go', 'he/Ross Geller', 'out with me', 's01_e24_c03_u007')
+[s01_e24_c03_u007] Rachel Green: No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... : W-well, what else did he say? I mean, does he, like, want to go out with me?
+
+('be', 'he/Ross Geller', 'in love with you', 's01_e24_c03_u008')
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+
+('mind', 'he/Ross Geller', 'getting a cup of coffee or something', 's01_e24_c03_u008')
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+
+('get', 'he/Ross Geller', 'a cup of coffee or something', 's01_e24_c03_u008')
+[s01_e24_c03_u008] Joey Tribbiani: Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something.
+
+('talk', 'I/Rachel Green', 'to him', 's01_e24_c03_u009')
+[s01_e24_c03_u009] Rachel Green: Ross? All this time? Well, I've got to talk to him.
+
+('be', 'he/Ross Geller', 'in China', 's01_e24_c03_u010')
+[s01_e24_c03_u010] Chandler Bing: H-He's in China!
+
+('wait', 'you/Rachel Green', None, 's01_e24_c03_u012')
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+
+('leave', 'his flight', None, 's01_e24_c03_u012')
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+
+('leave', 'his flight', 'for another forty-five more minutes', 's01_e24_c03_u012')
+[s01_e24_c03_u012] Monica Geller: No, no, wait. His flight doesn't leave for another forty-five more minutes.
+
+('make', 'you/Rachel Green', 'it/(to the airport in time)', 's01_e24_c03_u015')
+[s01_e24_c03_u015] Chandler Bing: Yes! You're never gonna make it!
+
+('say', 'you/Rachel Green', 'what', 's01_e24_c03_u016')
+[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+
+('say', 'you/Rachel Green', 'to him', 's01_e24_c03_u016')
+[s01_e24_c03_u016] Monica Geller: Rachel, what're you gonna say to him?
+
+('know', 'I/Rachel Green', None, 's01_e24_c03_u017')
+[s01_e24_c03_u017] Rachel Green: I-I-I don't know.
+
+('go', 'you/Rachel Green', None, 's01_e24_c03_u018')
+[s01_e24_c03_u018] Chandler Bing: Well then maybe you shouldn't go.
+
+('be', 'he/Chandler Bing', 'right', 's01_e24_c03_u019')
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+
+('break', 'you/Rachel Green', 'his heart', 's01_e24_c03_u019')
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+
+('wait', 'that/(breaking his heart)', None, 's01_e24_c03_u019')
+[s01_e24_c03_u019] Joey Tribbiani: He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait.
+
+('be', 'it/(the news)', 'good news', 's01_e24_c03_u020')
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now.
+
+('tell', 'you/Rachel Green', 'him', 's01_e24_c03_u020')
+[s01_e24_c03_u020] Monica Geller: Yeah, but if it's good news, you should tell him now.
+
+('know', 'I/Rachel Green', None, 's01_e24_c03_u021')
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him.
+
+('know', 'I/Rachel Green', 'when I see him', 's01_e24_c03_u021')
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him.
+
+('see', 'I/Rachel Green', 'him', 's01_e24_c03_u021')
+[s01_e24_c03_u021] Rachel Green: I don't know. Maybe I'll know when I see him.
+
+('look', 'you/Rachel Green', None, 's01_e24_c03_u022')
+[s01_e24_c03_u022] Phoebe Buffay: Here, look, alright, does this help?
+
+('help', 'this', None, 's01_e24_c03_u022')
+[s01_e24_c03_u022] Phoebe Buffay: Here, look, alright, does this help?
+
+('look', 'you/(friends)', None, 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('know', 'I/Rachel Green', 'that I cannot wait a week until I see him', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('be', 'all I know', 'that I cannot wait a week until I see him', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('wait', 'I/Rachel Green', 'a week', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('wait', 'I/Rachel Green', 'until I see him', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('mean', 'I/Rachel Green', 'this is just too big', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('be', 'this/(news)', 'just too big', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('have to', 'I/Rachel Green', None, 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('see', 'I/Rachel Green', 'you/(friends)', 's01_e24_c03_u024')
+[s01_e24_c03_u024] Rachel Green: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+
+('love', 'I/Chandler Bing', 'you', 's01_e24_c03_u025')
+[s01_e24_c03_u025] Chandler Bing: Rachel, I love you! Deal with me first!
+
+('deal', 'you/Rachel Green', 'with me', 's01_e24_c03_u025')
+[s01_e24_c03_u025] Chandler Bing: Rachel, I love you! Deal with me first!
+

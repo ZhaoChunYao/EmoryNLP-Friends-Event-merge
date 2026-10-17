@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker addresses the group to summarize/decide who is staying with her (u014) and then actively coaches Speaker_01 to breathe and think calm things (u017), taking a socially leading role."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She offers supportive, calming guidance to a distressed Speaker_01—\"breathe\" and think of nice calm things (u017)—and speaks non-confrontationally when acknowledging who will stay (u014)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She organizes the situation by clarifying the living arrangement (u014) and provides structured coping steps (u017), showing orderliness and responsibility."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She remains composed and reassuring, giving calm instructions without showing anxiety (u017)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Her actions are practical (clarifying plans, calming advice) without clear signs of curiosity or unconventional thinking (u014, u017)."
+  }
+}

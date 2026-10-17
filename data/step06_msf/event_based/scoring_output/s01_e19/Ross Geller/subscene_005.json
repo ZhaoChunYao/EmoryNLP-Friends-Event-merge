@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker communicates about a problem but shows no clear signs of being outgoing, energetic, or especially talkative beyond addressing the issue."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker criticizes Speaker_01 for failing to keep Speaker_02 in the apartment (“cannot believe the situation” and noting they were asked to keep Speaker_02 in), indicating a confrontational, blaming stance despite later accepting partial fault."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker had given specific instructions to keep Speaker_02 in the apartment and reflects on misjudging the task difficulty, saying they should have started with a pen or pencil instead of a monkey—showing responsibility, planning, and corrective thinking."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Although surprised and mildly frustrated, TargetSpeaker does not display marked anxiety, nervousness, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The adjustment from ‘monkey’ to ‘pen or pencil’ reflects practical planning rather than curiosity or a desire for novel experiences; no clear openness cues."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Encourages Speaker_01 to 'grab a spoon,' makes a cultural reference, and talks about asking a woman out—showing social engagement and talkativeness."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Gives advice and asks questions without clear signs of either generosity/cooperation or hostility/boastfulness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Says he needs to 'get it together' to ask a woman out and doesn't know which woman—indicating disorganization and indecision."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admits he needs to 'get it together' before asking someone out, suggesting insecurity or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Beyond a pop-culture reference, there is no clear evidence of either strong curiosity/creativity or dogmatism/caution."
+  }
+}

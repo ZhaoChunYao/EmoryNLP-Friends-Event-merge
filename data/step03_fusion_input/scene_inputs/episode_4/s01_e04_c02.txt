@@ -1,0 +1,324 @@
+('do', 'she/Phoebe Buffay', 'that', 's01_e04_c02_u001')
+[s01_e04_c02_u001] Monica Geller: How does she do that?
+
+('sleep', 'I/Ross Geller', None, 's01_e04_c02_u002')
+[s01_e04_c02_u002] Ross Geller: I cannot sleep in a public place.
+
+('sleep', 'I/Ross Geller', 'in a public place', 's01_e04_c02_u002')
+[s01_e04_c02_u002] Ross Geller: I cannot sleep in a public place.
+
+('look', 'you/Ross Geller', 'at her', 's01_e04_c02_u003')
+[s01_e04_c02_u003] Monica Geller: Would you look at her? She is so peaceful.
+
+('be', 'she/Phoebe Buffay', 'so peaceful', 's01_e04_c02_u003')
+[s01_e04_c02_u003] Monica Geller: Would you look at her? She is so peaceful.
+
+('be', 'it', 'okay', 's01_e04_c02_u005')
+[s01_e04_c02_u005] Ross Geller: It's okay, y'know, you just nodded off again.
+
+('know', 'you/Phoebe Buffay', None, 's01_e04_c02_u005')
+[s01_e04_c02_u005] Ross Geller: It's okay, y'know, you just nodded off again.
+
+('nod', 'you/Phoebe Buffay', 'off', 's01_e04_c02_u005')
+[s01_e04_c02_u005] Ross Geller: It's okay, y'know, you just nodded off again.
+
+('go on', 'what', 'with you/Phoebe Buffay', 's01_e04_c02_u006')
+[s01_e04_c02_u006] Monica Geller: What's going on with you?
+
+('get', 'I/Phoebe Buffay', 'no sleep', 's01_e04_c02_u007')
+[s01_e04_c02_u007] Phoebe Buffay: I got no sleep last night!
+
+('have', 'my grandmother', 'this new boyfriend', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('be', "they/(Phoebe's grandmother and her boyfriend)", 'both kind of insecure', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('be', "they/(Phoebe's grandmother and her boyfriend)", 'in bed', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('reassure', "they/(Phoebe's grandmother and her boyfriend)", 'each other', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('have', "they/(Phoebe's grandmother and her boyfriend)", 'a good time', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('have', 'you/Ross Geller', 'no idea', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('be', "they/(Phoebe's grandmother and her boyfriend)", 'loud', 's01_e04_c02_u009')
+[s01_e04_c02_u009] Phoebe Buffay: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!
+
+('want', 'you/Phoebe Buffay', None, 's01_e04_c02_u010')
+[s01_e04_c02_u010] Monica Geller: Well, if you want, you can stay with Rachel and me tonight.
+
+('stay', 'you/Phoebe Buffay', None, 's01_e04_c02_u010')
+[s01_e04_c02_u010] Monica Geller: Well, if you want, you can stay with Rachel and me tonight.
+
+('stay', 'you/Phoebe Buffay', 'with Rachel and me', 's01_e04_c02_u010')
+[s01_e04_c02_u010] Monica Geller: Well, if you want, you can stay with Rachel and me tonight.
+
+('see', 'you/Chandler Bing', None, 's01_e04_c02_u013')
+[s01_e04_c02_u013] Joey Tribbiani: ...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.
+
+('tell', 'I/Joey Tribbiani', 'you', 's01_e04_c02_u013')
+[s01_e04_c02_u013] Joey Tribbiani: ...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.
+
+('get', 'you/Joey Tribbiani', 'waaaay too much free time', 's01_e04_c02_u014')
+[s01_e04_c02_u014] Chandler Bing: You got waaaay too much free time.
+
+('be', 'the birthday boy', 'here', 's01_e04_c02_u015')
+[s01_e04_c02_u015] Joey Tribbiani: Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.
+
+('check', 'you/Ross Geller', 'out it', 's01_e04_c02_u015')
+[s01_e04_c02_u015] Joey Tribbiani: Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.
+
+('take', 'we/(Joey Tribbiani and Chandler Bing)', 'you', 's01_e04_c02_u015')
+[s01_e04_c02_u015] Joey Tribbiani: Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.
+
+('love', 'we/(Joey Tribbiani and Chandler Bing)', 'you', 's01_e04_c02_u017')
+[s01_e04_c02_u017] Joey Tribbiani: We love you, man.
+
+('be', 'my birthday', 'seven months ago', 's01_e04_c02_u018')
+[s01_e04_c02_u018] Ross Geller: Funny, my birthday was seven months ago.
+
+('guess', 'I/Ross Geller', "you had an extra ticket and couldn't decide which one of you got to bring a date", 's01_e04_c02_u020')
+[s01_e04_c02_u020] Ross Geller: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?
+
+('have', 'you/(Joey Tribbiani and Chandler Bing)', 'an extra ticket', 's01_e04_c02_u020')
+[s01_e04_c02_u020] Ross Geller: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?
+
+('decide', 'you/(Joey Tribbiani and Chandler Bing)', 'which one of you got to bring a date', 's01_e04_c02_u020')
+[s01_e04_c02_u020] Ross Geller: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?
+
+('bring', 'which one of you', 'a date', 's01_e04_c02_u020')
+[s01_e04_c02_u020] Ross Geller: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?
+
+('be', 'we/Ross Geller', 'Mr. "The glass is half empty."', 's01_e04_c02_u021')
+[s01_e04_c02_u021] Chandler Bing: Well, aren't we Mr. "The glass is half empty."
+
+('be', 'the glass', 'half empty', 's01_e04_c02_u021')
+[s01_e04_c02_u021] Chandler Bing: Well, aren't we Mr. "The glass is half empty."
+
+('be', 'today', 'the twentieth, October twentieth', 's01_e04_c02_u022')
+[s01_e04_c02_u022] Ross Geller: Oh my God, oh- is today the twentieth, October twentieth?
+
+('hope', 'I/Monica Geller', "you wouldn't remember", 's01_e04_c02_u023')
+[s01_e04_c02_u023] Monica Geller: Oh, I was hoping you wouldn't remember.
+
+('remember', 'you/Ross Geller', None, 's01_e04_c02_u023')
+[s01_e04_c02_u023] Monica Geller: Oh, I was hoping you wouldn't remember.
+
+('be', 'what', 'wrong with the twentieth', 's01_e04_c02_u025')
+[s01_e04_c02_u025] Joey Tribbiani: What's wrong with the twentieth?
+
+('be', 'all the good costumes', 'gone', 's01_e04_c02_u026')
+[s01_e04_c02_u026] Chandler Bing: Eleven days before Halloween.. all the good costumes are gone?
+
+('be', 'today', 'the day Carol and I first consummated our physical relationship', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('consummate', 'Carol and I', 'our physical relationship', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('know', 'you/Joey Tribbiani', 'what', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('pass', 'I/Ross Geller', None, 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('pass', 'I/Ross Geller', 'on the game', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('think', 'I/Ross Geller', None, 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('go', 'I/Ross Geller', 'home', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('think', 'I/Ross Geller', 'about my ex-wife and her lesbian lover', 's01_e04_c02_u027')
+[s01_e04_c02_u027] Ross Geller: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+
+('do', 'we/(Joey Tribbiani and Chandler Bing)', 'that', 's01_e04_c02_u028')
+[s01_e04_c02_u028] Joey Tribbiani: The hell with hockey, let's all do that!
+
+('say', 'you/Ross Geller', None, 's01_e04_c02_u029')
+[s01_e04_c02_u029] Chandler Bing: C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, Huh? Huh? Huh?
+
+('do', 'you/Chandler Bing', None, 's01_e04_c02_u030')
+[s01_e04_c02_u030] Ross Geller: What are you doing?
+
+('have', 'I/Chandler Bing', 'no idea', 's01_e04_c02_u031')
+[s01_e04_c02_u031] Chandler Bing: I have no idea.
+
+('take', 'it', 'my mind', 's01_e04_c02_u033')
+[s01_e04_c02_u033] Ross Geller: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?
+
+('take', 'it', 'off it', 's01_e04_c02_u033')
+[s01_e04_c02_u033] Ross Geller: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?
+
+('promise', 'you/Chandler Bing', 'to buy me a big thumb finger', 's01_e04_c02_u033')
+[s01_e04_c02_u033] Ross Geller: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?
+
+('buy', 'you/Chandler Bing', 'a big thumb finger', 's01_e04_c02_u033')
+[s01_e04_c02_u033] Ross Geller: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?
+
+('get', 'you/Ross Geller', 'it', 's01_e04_c02_u034')
+[s01_e04_c02_u034] Chandler Bing: You got it.
+
+('look', 'you/Monica Geller', 'at the window', 's01_e04_c02_u036')
+[s01_e04_c02_u036] Rachel Green: Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!
+
+('be', 'my name', 'there', 's01_e04_c02_u036')
+[s01_e04_c02_u036] Rachel Green: Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!
+
+('remember', 'I/Phoebe Buffay', 'the day I got my first pay check', 's01_e04_c02_u037')
+[s01_e04_c02_u037] Phoebe Buffay: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
+
+('get', 'I/Phoebe Buffay', 'my first pay check', 's01_e04_c02_u037')
+[s01_e04_c02_u037] Phoebe Buffay: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
+
+('be', 'there', 'a cave in', 's01_e04_c02_u037')
+[s01_e04_c02_u037] Phoebe Buffay: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
+
+('be', 'a cave in', 'in one of the mines', 's01_e04_c02_u037')
+[s01_e04_c02_u037] Phoebe Buffay: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
+
+('kill', 'eight people', None, 's01_e04_c02_u037')
+[s01_e04_c02_u037] Phoebe Buffay: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.
+
+('work', 'you/Phoebe Buffay', None, 's01_e04_c02_u038')
+[s01_e04_c02_u038] Monica Geller: Wow, you worked in a mine?
+
+('work', 'you/Phoebe Buffay', 'in a mine', 's01_e04_c02_u038')
+[s01_e04_c02_u038] Monica Geller: Wow, you worked in a mine?
+
+('work', 'I/Phoebe Buffay', None, 's01_e04_c02_u039')
+[s01_e04_c02_u039] Phoebe Buffay: I worked in a Dairy Queen, why?
+
+('work', 'I/Phoebe Buffay', 'in a Dairy Queen', 's01_e04_c02_u039')
+[s01_e04_c02_u039] Phoebe Buffay: I worked in a Dairy Queen, why?
+
+('be', 'this', 'exciting', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('earn', 'I/Rachel Green', 'this', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('wipe', 'I/Rachel Green', 'tables', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('wipe', 'I/Rachel Green', 'for it', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('steam', 'I/Rachel Green', 'milk', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('steam', 'I/Rachel Green', 'for it', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('be', 'it', 'totally not worth it', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('be', 'who', 'FICA', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('get', 'he/FICA', 'all my money', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('mean', 'I/Rachel Green', None, 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('look', 'you/Chandler Bing', 'at that', 's01_e04_c02_u040')
+[s01_e04_c02_u040] Rachel Green: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.
+
+('be', 'this', 'not that bad', 's01_e04_c02_u041')
+[s01_e04_c02_u041] Chandler Bing: Oh, this is not that bad.
+
+('be', 'you/Rachel Green', 'fine', 's01_e04_c02_u042')
+[s01_e04_c02_u042] Joey Tribbiani: Oh, you're fine, yeah, for a first job.
+
+('be', 'you/Rachel Green', 'for a first job', 's01_e04_c02_u042')
+[s01_e04_c02_u042] Joey Tribbiani: Oh, you're fine, yeah, for a first job.
+
+('live', 'you/Rachel Green', None, 's01_e04_c02_u043')
+[s01_e04_c02_u043] Ross Geller: You can totally, totally live on this.
+
+('live', 'you/Rachel Green', 'on this', 's01_e04_c02_u043')
+[s01_e04_c02_u043] Ross Geller: You can totally, totally live on this.
+
+('swear', 'I/Monica Geller', None, 's01_e04_c02_u051')
+[s01_e04_c02_u051] Monica Geller: I swear I've seen birds do this on Wild Kingdom.
+
+('see', 'I/Monica Geller', 'birds', 's01_e04_c02_u051')
+[s01_e04_c02_u051] Monica Geller: I swear I've seen birds do this on Wild Kingdom.
+
+('do', 'birds', 'this', 's01_e04_c02_u051')
+[s01_e04_c02_u051] Monica Geller: I swear I've seen birds do this on Wild Kingdom.
+
+('do', 'birds', 'on Wild Kingdom', 's01_e04_c02_u051')
+[s01_e04_c02_u051] Monica Geller: I swear I've seen birds do this on Wild Kingdom.
+
+('do', 'you guys/Kiki, Joanne, and Leslie', None, 's01_e04_c02_u052')
+[s01_e04_c02_u052] Rachel Green: What are you guys doing here?
+
+('shop', 'we/Kiki, Joanne, and Leslie', None, 's01_e04_c02_u053')
+[s01_e04_c02_u053] Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!
+
+('shop', 'we/Kiki, Joanne, and Leslie', 'in the city', 's01_e04_c02_u053')
+[s01_e04_c02_u053] Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!
+
+('say', "your mom/Rachel Green's mom", 'you work here', 's01_e04_c02_u053')
+[s01_e04_c02_u053] Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!
+
+('work', 'you/Rachel Green', None, 's01_e04_c02_u053')
+[s01_e04_c02_u053] Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!
+
+('be', 'it', 'true', 's01_e04_c02_u053')
+[s01_e04_c02_u053] Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!
+
+('look', 'you/Leslie', 'at you', 's01_e04_c02_u054')
+[s01_e04_c02_u054] Joanne: Look at you in the apron. You look like you're in a play.
+
+('look', 'you/Rachel Green', "like you're in a play", 's01_e04_c02_u054')
+[s01_e04_c02_u054] Joanne: Look at you in the apron. You look like you're in a play.
+
+('be', 'you/Rachel Green', 'in a play', 's01_e04_c02_u054')
+[s01_e04_c02_u054] Joanne: Look at you in the apron. You look like you're in a play.
+
+('look', 'you/Leslie', 'at you', 's01_e04_c02_u055')
+[s01_e04_c02_u055] Rachel Green: Look at you, you are so big I can't believe it!
+
+('be', 'you/Leslie', 'so big', 's01_e04_c02_u055')
+[s01_e04_c02_u055] Rachel Green: Look at you, you are so big I can't believe it!
+
+('believe', 'I/Rachel Green', 'it', 's01_e04_c02_u055')
+[s01_e04_c02_u055] Rachel Green: Look at you, you are so big I can't believe it!
+
+('know', 'I/Leslie', None, 's01_e04_c02_u056')
+[s01_e04_c02_u056] Leslie: I know. I know! I'm a duplex.
+
+('be', 'I/Leslie', 'a duplex', 's01_e04_c02_u056')
+[s01_e04_c02_u056] Leslie: I know. I know! I'm a duplex.
+
+('go on', 'what', 'with you/Kiki', 's01_e04_c02_u057')
+[s01_e04_c02_u057] Rachel Green: So what's going on with you?
+
+('guess', 'you/Rachel Green', "who my dad's making partner in his firm", 's01_e04_c02_u058')
+[s01_e04_c02_u058] Joanne: Well, guess who my dad's making partner in his firm?
+
+('make', 'my dad', 'partner', 's01_e04_c02_u058')
+[s01_e04_c02_u058] Joanne: Well, guess who my dad's making partner in his firm?
+
+('make', 'my dad', 'in his firm', 's01_e04_c02_u058')
+[s01_e04_c02_u058] Joanne: Well, guess who my dad's making partner in his firm?
+
+('be', 'we/Kiki, Joanne, and Leslie', 'on the subject of news', 's01_e04_c02_u059')
+[s01_e04_c02_u059] Kiki: And while we're on the subject of news..
+
+('look', 'you/Rachel Green', None, 's01_e04_c02_u060')
+[s01_e04_c02_u060] Phoebe Buffay: Look, look, I have elbows!
+
+('have', 'I/Phoebe Buffay', 'elbows', 's01_e04_c02_u060')
+[s01_e04_c02_u060] Phoebe Buffay: Look, look, I have elbows!
+

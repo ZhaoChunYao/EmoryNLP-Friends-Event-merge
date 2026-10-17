@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly jokes and comments about a sensitive incident in front of others, continuing the conversation rather than withdrawing."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After Speaker_02 asked to change the subject, TargetSpeaker continued discussing Speaker_02’s breasts and dismissed the embarrassment (“I don’t know why you’re so embarrassed”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of being organized/efficient or sloppy/careless in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows no anxiety and speaks confidently, joking about the situation and expressing lack of embarrassment."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses an imaginative joke (“telescope and a box of donuts”) and is comfortable discussing a taboo topic, indicating inventiveness and low caution."
+  }
+}

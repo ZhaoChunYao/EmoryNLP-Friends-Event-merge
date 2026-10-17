@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly and enthusiastically declares affection (“I love [Speaker_01] the most,” then “You!”), showing expressive, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Warmly reciprocates Speaker_01’s declaration of love and aligns with them, indicating friendliness and cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or diligence is shown in these lines."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently expresses strong feelings without signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or openness to new ideas are present."
+  }
+}

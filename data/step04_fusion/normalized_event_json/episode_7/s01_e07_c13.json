@@ -1,0 +1,38 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c13_u001_e1",
+          "tuples": [
+            "('know', 'you/(Unknown)', 'gum would be perfection', 's01_e07_c13_u001')",
+            "('be', 'gum', 'perfection', 's01_e07_c13_u001')",
+            "('be', 'gum', 'on second thought', 's01_e07_c13_u001')",
+            "('be', 'gum', 'for me', 's01_e07_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c13_u001_e2",
+          "tuples": [
+            "('say', 'I/(Chandler Bing)', 'gum would be nice', 's01_e07_c13_u001')",
+            "('be', 'gum', 'nice', 's01_e07_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c13_u001_e3",
+          "tuples": [
+            "('have', 'I/(Chandler Bing)', 'a stick', 's01_e07_c13_u001')",
+            "('say', 'I/(Chandler Bing)', \"I'll have a stick\", 's01_e07_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c13_u001_e4",
+          "tuples": [
+            "('loathe', 'I/(Chandler Bing)', 'myself', 's01_e07_c13_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

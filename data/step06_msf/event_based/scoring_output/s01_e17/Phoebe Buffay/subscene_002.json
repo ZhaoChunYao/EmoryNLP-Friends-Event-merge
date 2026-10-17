@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly, only asking “Trouble?”; no clear outgoing or energetic behavior beyond a short check-in."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and empathy—asks if there’s trouble and acknowledges that Speaker_01 and Speaker_04 hate when people aren’t there for them."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Does not display anxiety or insecurity; comments are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of creativity or dogmatism; simply acknowledges others’ experiences."
+  }
+}

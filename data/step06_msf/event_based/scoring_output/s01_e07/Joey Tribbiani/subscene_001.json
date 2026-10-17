@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group with 'Hi everyone' and is described as officiating the blackout, taking a public, performative role."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a friendly greeting and shares helpful information about the candles being the only ones they have, aiding group coordination."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Beyond noting the candle scarcity, there is no clear behavior showing organization or careful planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; confidently addresses the group and takes on an officiating role."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Engages in imaginative role-play as 'Rabbi Tribbiani' during the blackout."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up during the group meal to ask about missing tater tots and then shares a detailed family tradition, including personal disclosure about not being with family due to illness—openly talkative and self-revealing."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Introduces concern politely as a question and explains the family tradition without blaming anyone; tone is straightforward and non-confrontational."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Notices the absence of a specific dish and describes the tradition step-by-step (turkey, cranberry sauce, and a tater tot on a fork), showing attention to detail and routine."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mentions being unable to be with family because of disease factually, without displaying anxiety, irritability, or distress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Emphasizes sticking to a specific family tradition and a prescriptive way of eating, indicating preference for familiar routines over novelty."
+  }
+}

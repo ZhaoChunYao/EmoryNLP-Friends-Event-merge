@@ -1,0 +1,16 @@
+event_id: s01_e03_c08_u001_e1
+utterance_id: s01_e03_c08_u001
+  tuple: ('keep', 'you/Phoebe Buffay', 'the change', 's01_e03_c08_u001')
+
+event_id: s01_e03_c08_u001_e2
+utterance_id: s01_e03_c08_u001
+  tuple: ('want', 'you/Phoebe Buffay', 'pretzel', 's01_e03_c08_u001')
+
+event_id: s01_e03_c08_u002_e1
+utterance_id: s01_e03_c08_u002
+  tuple: ('be', 'I/Phoebe Buffay', 'fine', 's01_e03_c08_u002')
+
+event_id: s01_e03_c08_u003_e1
+utterance_id: s01_e03_c08_u003
+  tuple: ('see', 'I/Lizzy', 'ya', 's01_e03_c08_u003')
+

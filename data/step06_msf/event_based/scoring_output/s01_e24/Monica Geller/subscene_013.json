@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages actively in the group by asking a direct question ('Why isn't it working out?') and quickly offering bold speculations, showing outgoing/assertive participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Suggests insensitive reasons (that Speaker_03 may not be cute enough or not make enough money), which is blunt and potentially hurtful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown in this short exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of nervousness; confidently poses a direct question and blunt suggestions without hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "While he probes for reasons, the guesses are conventional (looks, money) and do not clearly indicate curiosity or imaginative thinking."
+  }
+}

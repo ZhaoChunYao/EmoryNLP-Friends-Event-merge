@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker publicly announces being “now an actor and model” (u018) and says they modeled for city free clinic posters (u021); wearing makeup in public is also noted (u017), all indicating comfort with attention and public roles."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After being teased (“very funny,” “man slash woman,” u019), TargetSpeaker responds without hostility and straightforwardly answers what they modeled for (u021)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior shows organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite teasing about appearance (u019), TargetSpeaker shows no nervousness or defensiveness and speaks confidently about their work (u018, u021)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Pursuing acting and modeling (u018) and wearing makeup in public (u017) reflect creative, exploratory behavior."
+  }
+}

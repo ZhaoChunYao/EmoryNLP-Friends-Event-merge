@@ -1,0 +1,124 @@
+event_id: s01_e13_c12_u001_e1
+utterance_id: s01_e13_c12_u001
+  tuple: ('talk', 'you/Joey Tribbiani', 'to your dad', 's01_e13_c12_u001')
+
+event_id: s01_e13_c12_u002_e1
+utterance_id: s01_e13_c12_u002
+  tuple: ('cheat', "he/(Joey's dad)", 'on my ma like she wanted', 's01_e13_c12_u002')
+  tuple: ('want', "she/(Joey's ma)", None, 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u002_e2
+utterance_id: s01_e13_c12_u002
+  tuple: ('pretend', "she/(Joey's ma)", "she doesn't know even though she does", 's01_e13_c12_u002')
+  tuple: ('know', "she/(Joey's ma)", None, 's01_e13_c12_u002')
+  tuple: ('do', "she/(Joey's ma)", None, 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u002_e3
+utterance_id: s01_e13_c12_u002
+  tuple: ('see', 'my little sister Tina', 'her husband', 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u002_e4
+utterance_id: s01_e13_c12_u002
+  tuple: ('get', "he/(Tina's husband)", 'a restraining order', 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u002_e5
+utterance_id: s01_e13_c12_u002
+  tuple: ('have', 'which/(a restraining order)', 'nothing', 's01_e13_c12_u002')
+  tuple: ('do', 'nothing', 'with anything', 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u002_e6
+utterance_id: s01_e13_c12_u002
+  tuple: ('find out', 'I/Joey Tribbiani', None, 's01_e13_c12_u002')
+
+event_id: s01_e13_c12_u004_e1
+utterance_id: s01_e13_c12_u004
+  tuple: ('change', 'Things', 'on Waltons mountain', 's01_e13_c12_u004')
+
+event_id: s01_e13_c12_u005_e1
+utterance_id: s01_e13_c12_u005
+  tuple: ('be', 'you/Joey Tribbiani', 'okay', 's01_e13_c12_u005')
+
+event_id: s01_e13_c12_u006_e1
+utterance_id: s01_e13_c12_u006
+  tuple: ('guess', 'I/Joey Tribbiani', None, 's01_e13_c12_u006')
+
+event_id: s01_e13_c12_u006_e2
+utterance_id: s01_e13_c12_u006
+  tuple: ('be', 'it/(the situation)', 'just parents', 's01_e13_c12_u006')
+
+event_id: s01_e13_c12_u006_e3
+utterance_id: s01_e13_c12_u006
+  tuple: ('let go', 'you/(generic)', 'after a certain point', 's01_e13_c12_u006')
+
+event_id: s01_e13_c12_u006_e4
+utterance_id: s01_e13_c12_u006
+  tuple: ('know', 'you/(generic)', None, 's01_e13_c12_u006')
+
+event_id: s01_e13_c12_u006_e5
+utterance_id: s01_e13_c12_u006
+  tuple: ('let', 'you/(generic)', 'them make their own mistakes', 's01_e13_c12_u006')
+  tuple: ('make', 'them/(parents)', 'their own mistakes', 's01_e13_c12_u006')
+
+event_id: s01_e13_c12_u007_e1
+utterance_id: s01_e13_c12_u007
+  tuple: ('think', 'you/(everyone)', 'in a couple of years we get to turn into them', 's01_e13_c12_u007')
+
+event_id: s01_e13_c12_u007_e2
+utterance_id: s01_e13_c12_u007
+  tuple: ('turn', 'we/(friends)', 'into them in a couple of years', 's01_e13_c12_u007')
+
+event_id: s01_e13_c12_u008_e1
+utterance_id: s01_e13_c12_u008
+  tuple: ('turn', 'I/Chandler Bing', 'into my parents', 's01_e13_c12_u008')
+
+event_id: s01_e13_c12_u008_e2
+utterance_id: s01_e13_c12_u008
+  tuple: ('be', 'I/Chandler Bing', 'an alcoholic blond chasing after twenty-year-old boys', 's01_e13_c12_u008')
+  tuple: ('chase', 'an alcoholic blond', 'after twenty-year-old boys', 's01_e13_c12_u008')
+
+event_id: s01_e13_c12_u008_e3
+utterance_id: s01_e13_c12_u008
+  tuple: ('end up', 'I/Chandler Bing', 'like my mom', 's01_e13_c12_u008')
+
+event_id: s01_e13_c12_u011_e1
+utterance_id: s01_e13_c12_u011
+  tuple: ('go', 'it/(things)', None, 's01_e13_c12_u011')
+
+event_id: s01_e13_c12_u012_e1
+utterance_id: s01_e13_c12_u012
+  tuple: ('break up', 'I/Phoebe Buffay', 'with Roger', 's01_e13_c12_u012')
+
+event_id: s01_e13_c12_u016_e1
+utterance_id: s01_e13_c12_u016
+  tuple: ('happen', 'what', None, 's01_e13_c12_u016')
+
+event_id: s01_e13_c12_u017_e1
+utterance_id: s01_e13_c12_u017
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e2
+utterance_id: s01_e13_c12_u017
+  tuple: ('mean', 'I/Phoebe Buffay', None, 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e3
+utterance_id: s01_e13_c12_u017
+  tuple: ('be', 'he/Roger', 'a good person', 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e4
+utterance_id: s01_e13_c12_u017
+  tuple: ('be', 'he/Roger', 'really sweet', 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e5
+utterance_id: s01_e13_c12_u017
+  tuple: ('think', 'I/Phoebe Buffay', 'he is so right for me', 's01_e13_c12_u017')
+  tuple: ('be', 'he/Roger', 'so right', 's01_e13_c12_u017')
+  tuple: ('be', 'he/Roger', 'for me', 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e6
+utterance_id: s01_e13_c12_u017
+  tuple: ('be', 'it/(the situation)', 'just', 's01_e13_c12_u017')
+
+event_id: s01_e13_c12_u017_e7
+utterance_id: s01_e13_c12_u017
+  tuple: ('hate', 'I/Phoebe Buffay', 'that guy', 's01_e13_c12_u017')
+

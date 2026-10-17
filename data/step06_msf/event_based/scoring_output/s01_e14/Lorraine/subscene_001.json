@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge in the social situation—tells Speaker_01 to look at who they brought and assigns drink orders—showing assertive, outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Bluntly directs others and assigns tasks (“Speaker_01 is going to get a white Zinfandel for me and a glass of red wine for Speaker_03”), suggesting a less accommodating, more demanding stance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Attends to practical details and cleanliness—notes coats are being checked, plans specific drinks for each person, and goes to wash cab smell off hands—showing organization and follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; actions are matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, unconventional ideas, or avoidance thereof in the brief exchange."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He initiates the conversation, forcefully directs 'listen right now,' openly discusses sexuality, and boasts he could get the coworker (u001, u005, u015)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Commands the other to listen and reacts competitively/boastfully to being told someone is out of his league (u005, u015), indicating low humility/cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Defensively insists he is not gay and seeks reassurance ('Really?') while asking if he has a 'gay quality,' showing concern about others’ perceptions (u005, u007, u011)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He asks about the ability to tell if someone is gay ('gaydar') and whether he has that quality, showing curiosity and willingness to discuss sensitive topics (u009, u011)."
+  }
+}

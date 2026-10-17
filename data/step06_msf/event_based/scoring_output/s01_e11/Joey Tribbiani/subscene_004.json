@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in the confrontation, repeatedly speaking up to defend himself and assert that Speaker_01 kissed Speaker_03, and reacts expressively (“Ah! Huh?”), showing talkative, energetic involvement rather than withdrawal."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He deflects responsibility and points blame at Speaker_01 for “breaking the friends’ code” instead of apologizing or soothing Speaker_02, showing a confrontational, less cooperative stance."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Speaker_02 says he is still mad at TargetSpeaker for not telling him about the kiss, and TargetSpeaker does not deny it, indicating a lapse in reliability/responsibility."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Aside from brief surprise, he remains composed while arguing; there are no clear signs of anxiety, insecurity, or emotional volatility."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He relies on a rigid rule (“the friends’ code”) to judge the situation and assign blame, reflecting dogmatic, rule-bound thinking rather than openness or flexibility."
+  }
+}

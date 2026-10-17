@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only briefly states group feelings and apologizes; no clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They say they are apologizing to Speaker_01 for hating Speaker_06, showing politeness and consideration for others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They report that there is just something about Speaker_06 that makes them uncomfortable, indicating sensitivity/unease."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "They admit not knowing exactly why and default to a vague discomfort (“just something... makes us uncomfortable”), reflecting a cautious stance rather than curiosity."
+  }
+}

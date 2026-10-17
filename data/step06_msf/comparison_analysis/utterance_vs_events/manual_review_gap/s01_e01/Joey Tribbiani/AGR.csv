@@ -1,0 +1,41 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Joey Tribbiani,subscene_007.json,AGR,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c10
+Subscene index for speaker: 007
+Main speaker: Joey Tribbiani
+UID span: s01_e01_c10_u001 → s01_e01_c10_u005
+Peak window: 0 → 0
+
+Dialogue:
+  [s01_e01_c10_u001]
+  1. Ross Geller says Joey Tribbiani should grab a spoon.
+  2. Ross Geller asks whether Joey Tribbiani knows how long it has been since Ross Geller grabbed a spoon.
+  3. Ross Geller says Ross Geller grabbed a spoon in the past.
+  4. Ross Geller asks whether the words 'Billy, don't be a hero' mean anything to Joey Tribbiani.
+  [s01_e01_c10_u002]
+  1. Joey Tribbiani says Joey Tribbiani is leaving now.
+  2. Joey Tribbiani says Joey Tribbiani has a date with Andrea.
+  [s01_e01_c10_u003]
+  1. Chandler Bing says Angela Delveccio is the screamer.
+  2. Chandler Bing says Andrea has cats.
+  [s01_e01_c10_u004]
+  1. Joey Tribbiani says the current month is June.
+  2. Joey Tribbiani says Joey Tribbiani is leaving here now.
+  [s01_e01_c10_u005]
+  1. Ross Geller says Ross Geller is stating his main point.
+  2. Ross Geller says Ross Geller needs to get it together enough to ask a woman out.
+  3. Ross Geller says Ross Geller does not know which woman Ross Geller is going to ask out.
+","Episode: s01_e01
+Scene: s01_e01_c10
+Subscene index for speaker: 007
+Main speaker: Joey Tribbiani
+UID span: s01_e01_c10_u001 → s01_e01_c10_u005
+Peak window: 0 → 0
+
+Dialogue:
+  [s01_e01_c10_u001] Ross Geller: Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?
+  [s01_e01_c10_u002] Joey Tribbiani: Great story! But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea... Oh man,
+  [s01_e01_c10_u003] Chandler Bing: Angela's the screamer, Andrea has cats.
+  [s01_e01_c10_u004] Joey Tribbiani: Right. Thanks. It's June. I'm outta here.
+  [s01_e01_c10_u005] Ross Geller: Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask?
+","States his intentions plainly (“I’m leaving now. I have a date with Speaker_02”), indicating straightforwardness.","Dismisses Speaker_01 with “Great story! But… gotta go” and exits abruptly, prioritizing himself over the conversation.",,,

@@ -1,0 +1,84 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c16_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c16_u001_e1",
+          "tuples": [
+            "('do', 'you/Rachel Green', 'what', 's01_e16_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u001_e2",
+          "tuples": [
+            "('freeze', 'it/(outside)', None, 's01_e16_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u001_e3",
+          "tuples": [
+            "('come', 'you/Rachel Green', 'inside', 's01_e16_c16_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c16_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c16_u002_e1",
+          "tuples": [
+            "('want', 'you/Monica Geller', 'me to take them down', 's01_e16_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u002_e2",
+          "tuples": [
+            "('take', 'I/Rachel Green', 'them down', 's01_e16_c16_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c16_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c16_u006_e1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'okay', 's01_e16_c16_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u006_e2",
+          "tuples": [
+            "('help', 'you/Mr. Heckles', 'me/Rachel Green', 's01_e16_c16_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c16_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c16_u007_e1",
+          "tuples": [
+            "('see', 'you/Rachel Green', None, 's01_e16_c16_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u007_e2",
+          "tuples": [
+            "('be', 'this/(situation)', 'just the kind of thing I was talking about', 's01_e16_c16_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c16_u007_e3",
+          "tuples": [
+            "('talk', 'I/Mr. Heckles', 'about', 's01_e16_c16_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

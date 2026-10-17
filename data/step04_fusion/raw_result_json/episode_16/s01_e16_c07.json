@@ -1,0 +1,123 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c07_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u001_e1",
+          "tuples": [
+            "('go', \"it/Mr. Douglas's situation\", None, 's01_e16_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u002_e1",
+          "tuples": [
+            "('be', \"it/Mr. Douglas's situation\", 'better', 's01_e16_c07_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u002_e2",
+          "tuples": [
+            "('be', 'The Annual Net Usage Statistics', 'in', 's01_e16_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u004_e1",
+          "tuples": [
+            "('be', 'it/ANUS report', 'pretty ugly', 's01_e16_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u004_e2",
+          "tuples": [
+            "('see', 'we/Mr. Douglas', 'an ANUS this bad since the seventies', 's01_e16_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u005_e1",
+          "tuples": [
+            "('mean', 'this/ANUS report', 'what', 's01_e16_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u006_e1",
+          "tuples": [
+            "('lay off', 'we/Mr. Douglas', 'people in every department', 's01_e16_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u007_e1",
+          "tuples": [
+            "('listen', 'you/Mr. Douglas', None, 's01_e16_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u007_e2",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'I came in late last week', 's01_e16_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u007_e3",
+          "tuples": [
+            "('come in', 'I/Chandler Bing', None, 's01_e16_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u007_e4",
+          "tuples": [
+            "('sleep', 'I/Chandler Bing', 'funny', 's01_e16_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u007_e5",
+          "tuples": [
+            "('be', 'my hair', 'very very', 's01_e16_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c07_u008",
+      "events": [
+        {
+          "event_id": "s01_e16_c07_u008_e1",
+          "tuples": [
+            "('relax', 'you/Chandler Bing', None, 's01_e16_c07_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c07_u008_e2",
+          "tuples": [
+            "('fire', 'you/Chandler Bing', 'anyone', 's01_e16_c07_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

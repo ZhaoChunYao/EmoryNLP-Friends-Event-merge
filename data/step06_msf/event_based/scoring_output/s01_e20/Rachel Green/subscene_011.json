@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge of the conversation, asking to be given a second to talk and then leading with a direct announcement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "States the breakup clearly and honestly, showing straightforwardness rather than evasiveness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and firmly (“right now”), showing confidence and no signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or creativity versus dogmatism; only a decisive action is shown."
+  }
+}

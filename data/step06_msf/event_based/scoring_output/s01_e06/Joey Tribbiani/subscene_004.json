@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He eagerly shares and elaborates on his new movie job, quotes a famous line, and openly explains the butt‑double role (u031, u034, u036, u040, u042)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is candid about the potentially embarrassing role (u040) and invites others to make jokes without taking offense (u044)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness; he simply reports getting a role via his agent (u031)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He treats the role as a big deal/big break and says he doesn’t care about jokes, showing confidence and low sensitivity (u042, u044, u040)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He expresses artistic admiration—Speaker_08 is why he became an actor—and embraces an unconventional role (butt double) in a film (u034, u040)."
+  }
+}

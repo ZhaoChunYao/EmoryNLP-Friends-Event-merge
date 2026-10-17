@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, closed responses and avoids sharing: “Nothing. Nothing nothing nothing.” Later replies are terse (“Please.” “Right.”), indicating a reserved stance rather than outgoing talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Compliments and cooperates with the advisor: “Speaker_02 is good.” Engages and takes guidance (“When?”) and accepts reassurance, with no boasting or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior here indicates organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows jealousy and anxiety about the situation (identifies the issue as Speaker_04 being licked by Speaker_03) and reacts with “Uh-oh…”; deflects praise with “Please,” suggesting insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a couple of sarcastic cover-image quips, there is no clear evidence of curiosity/imagination or of dogmatism/caution."
+  }
+}

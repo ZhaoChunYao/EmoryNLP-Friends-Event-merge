@@ -1,0 +1,216 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c14_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'I/Monica Geller', 'one', 's01_e04_c14_u001')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('remember', 'you/Phoebe Buffay', 'that vegetarian pate that I made that you loved so much', 's01_e04_c14_u001')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('make', 'I/Monica Geller', 'that vegetarian pate', 's01_e04_c14_u001')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('love', 'you/Phoebe Buffay', 'that vegetarian pate', 's01_e04_c14_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'goose', 'a vegetable', 's01_e04_c14_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('feel', 'I/Phoebe Buffay', 'so bad', 's01_e04_c14_u004')",
+            "('feel', 'I/Phoebe Buffay', 'about sleeping with Jason Hurley', 's01_e04_c14_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('sleep', 'I/Phoebe Buffay', 'with Jason Hurley', 's01_e04_c14_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('break', 'you/Monica Geller', 'up', 's01_e04_c14_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u009",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that', 'nice', 's01_e04_c14_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u010",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'one', 's01_e04_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('leave', 'Tommy Rollerson', 'the valentine', 's01_e04_c14_u010')",
+            "('leave', 'Tommy Rollerson', 'in your locker', 's01_e04_c14_u010')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'The valentine Tommy Rollerson left in your locker', 'really from me', 's01_e04_c14_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('excuse', 'you/Rachel Green', 'me', 's01_e04_c14_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u012",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('send', 'he/Tommy Rollerson', 'one', 's01_e04_c14_u012')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'she/Monica Geller', 'a big girl', 's01_e04_c14_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u013",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('pee', 'big girls', None, 's01_e04_c14_u013')",
+            "('pee', 'big girls', 'in their pants', 's01_e04_c14_u013')",
+            "('pee', 'big girls', 'in seventh grade', 's01_e04_c14_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u014",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('laugh', 'I/Rachel Green', None, 's01_e04_c14_u014')",
+            "('make', 'you/Monica Geller', 'me', 's01_e04_c14_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u015",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'he/George', 'there', 's01_e04_c14_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u017",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('look', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e04_c14_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u018",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'he/George', 'so cute', 's01_e04_c14_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u019",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('drop', 'you/George', 'the towel', 's01_e04_c14_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c14_u020",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('drop', 'you/George', 'the wowww', 's01_e04_c14_u020')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker was chatting with Speaker_05 during the performance (u027) and then spoke up assertively, confronting Speaker_04, giving commands like 'look' and directing what others should do (u035, u037)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is harsh and uncooperative: calls Speaker_06 a 'Freudian nightmare' (u030), mocks the excuse as 'very funny' (u035), refuses reconciliation, and orders Speaker_04 not to talk to Speaker_06 (u037)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness. Missing the song due to chatting (u027) is weak and not enough to judge conscientiousness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays strong negative affect and defensiveness: expects bad behavior from Speaker_06 and labels them a 'Freudian nightmare' (u030), describes the situation as complicated (u032), and refuses to talk to Speaker_06 with a firm 'no' (u037)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Shows closed-minded, dogmatic stance: refuses to discuss feelings with Speaker_06 and forbids others from talking to them, insisting 'trust me' (u036–u037)."
+  }
+}

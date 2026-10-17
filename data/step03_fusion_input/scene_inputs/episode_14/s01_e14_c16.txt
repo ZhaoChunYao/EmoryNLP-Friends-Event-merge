@@ -1,0 +1,30 @@
+('get off', 'we/(firemen)', 'around midnight', 's01_e14_c16_u001')
+[s01_e14_c16_u001] Fireman No. 3: We get off around midnight, why don't we pick you up then?
+
+('pick up', 'we/(firemen)', 'you', 's01_e14_c16_u001')
+[s01_e14_c16_u001] Fireman No. 3: We get off around midnight, why don't we pick you up then?
+
+('bring', 'you/(Fireman No. 3)', 'the truck', 's01_e14_c16_u002')
+[s01_e14_c16_u002] Rachel Green: So, um, will you bring the truck?
+
+('let', 'I/(Fireman No. 3)', 'you ring the bell', 's01_e14_c16_u003')
+[s01_e14_c16_u003] Fireman No. 3: I'll even let you ring the bell.
+
+('ring', 'you/(Rachel Green)', 'the bell', 's01_e14_c16_u003')
+[s01_e14_c16_u003] Fireman No. 3: I'll even let you ring the bell.
+
+('see', 'you/(Rachel Green)', None, 's01_e14_c16_u005')
+[s01_e14_c16_u005] Phoebe Buffay: See, there you go, the cleansing works!
+
+('go', 'you/(Rachel Green)', None, 's01_e14_c16_u005')
+[s01_e14_c16_u005] Phoebe Buffay: See, there you go, the cleansing works!
+
+('work', 'the cleansing', None, 's01_e14_c16_u005')
+[s01_e14_c16_u005] Phoebe Buffay: See, there you go, the cleansing works!
+
+('be', 'they/(firemen)', 'nice guys', 's01_e14_c16_u006')
+[s01_e14_c16_u006] Monica Geller: They're nice guys.
+
+('be', 'they/(firemen)', 'firemen guys', 's01_e14_c16_u007')
+[s01_e14_c16_u007] Rachel Green: Oh, they're firemen guys.
+

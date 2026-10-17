@@ -1,0 +1,78 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c15_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c15_u001_e1",
+          "tuples": [
+            "('be', 'that', 'a shut-down', 's01_e12_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c15_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c15_u003_e1",
+          "tuples": [
+            "('go', 'you guys/Chandler Bing, Joey Tribbiani, Ross Geller', None, 's01_e12_c15_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c15_u003_e2",
+          "tuples": [
+            "('come', 'you/(Chandler Bing, Joey Tribbiani, Ross Geller)', None, 's01_e12_c15_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c15_u004",
+      "events": [
+        {
+          "event_id": "s01_e12_c15_u004_e1",
+          "tuples": [
+            "('be', 'it/time', '2:30 in the morning', 's01_e12_c15_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c15_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c15_u005_e1",
+          "tuples": [
+            "('get', 'you/(Joey Tribbiani)', 'out', 's01_e12_c15_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c15_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c15_u006_e1",
+          "tuples": [
+            "('hang out', 'you guys/Chandler Bing, Joey Tribbiani, Ross Geller', 'in my apartment', 's01_e12_c15_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c15_u006_e2",
+          "tuples": [
+            "('use', 'I/Monica Geller', 'my left hand', 's01_e12_c15_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c15_u006_e3",
+          "tuples": [
+            "('go', 'I/Monica Geller', None, 's01_e12_c15_u006')",
+            "('be', 'I/Monica Geller', 'gone', 's01_e12_c15_u006')"
+          ]
+        }
+      ]
+    }
+  ]
+}

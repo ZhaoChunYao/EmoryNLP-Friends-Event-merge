@@ -1,0 +1,177 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c08_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('walk out', 'she', None, 's01_e01_c08_u001')",
+            "('walk out', 'she', 'on me', 's01_e01_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'you/(Paul the Wine Guy)', 'spell it out with noodles', 's01_e01_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('spell', 'you/(Paul the Wine Guy)', 'it out', 's01_e01_c08_u002')",
+            "('spell', 'you/(Paul the Wine Guy)', 'with noodles', 's01_e01_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'more of a fifth date kinda revelation', 's01_e01_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', 'a fifth date', 's01_e01_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'there', None, 's01_e01_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/(Monica Geller)', 'there is', 's01_e01_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('say', 'you/(Paul the Wine Guy)', None, 's01_e01_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('leave', 'she', 'me', 's01_e01_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('perform', 'I/(Paul the Wine Guy)', None, 's01_e01_c08_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'so sorry', 's01_e01_c08_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'okay', 's01_e01_c08_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/(Monica Geller)', 'being spit on is probably not what you need right now', 's01_e01_c08_u010')",
+            "('be', 'being spit on', 'probably not what you need right now', 's01_e01_c08_u010')",
+            "('be spit on', 'you/(Paul the Wine Guy)', None, 's01_e01_c08_u010')",
+            "('need', 'you/(Paul the Wine Guy)', 'what', 's01_e01_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'glad', 's01_e01_c08_u012')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('smash', 'you/(Paul the Wine Guy)', 'her watch', 's01_e01_c08_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'you/(Monica Geller)', 'you might want that fifth date', 's01_e01_c08_u013')",
+            "('want', 'you/(Monica Geller)', 'that fifth date', 's01_e01_c08_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c08_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'I/(Monica Geller)', None, 's01_e01_c08_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

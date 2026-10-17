@@ -1,0 +1,55 @@
+event_id: s01_e17_c09_u001_e1
+utterance_id: s01_e17_c09_u001
+  tuple: ('remember', 'you/Nurse Sizemore', 'us', 's01_e17_c09_u001')
+
+event_id: s01_e17_c09_u003_e1
+utterance_id: s01_e17_c09_u003
+  tuple: ('call', 'you/Nurse Sizemore', 'about needing a signature on the admissions form', 's01_e17_c09_u003')
+
+event_id: s01_e17_c09_u003_e2
+utterance_id: s01_e17_c09_u003
+  tuple: ('need', 'you/Nurse Sizemore', 'a signature', 's01_e17_c09_u003')
+  tuple: ('need', 'you/Nurse Sizemore', 'on the admissions form', 's01_e17_c09_u003')
+
+event_id: s01_e17_c09_u003_e3
+utterance_id: s01_e17_c09_u003
+  tuple: ('turn', 'it/(situation)', 'out we need a whole new one', 's01_e17_c09_u003')
+  tuple: ('need', 'we/Monica Geller and Rachel Green', 'a whole new one', 's01_e17_c09_u003')
+
+event_id: s01_e17_c09_u003_e4
+utterance_id: s01_e17_c09_u003
+  tuple: ('see', 'you/Nurse Sizemore', None, 's01_e17_c09_u003')
+
+event_id: s01_e17_c09_u003_e5
+utterance_id: s01_e17_c09_u003
+  tuple: ('put', 'I/Monica Geller', 'the wrong name', 's01_e17_c09_u003')
+
+event_id: s01_e17_c09_u004_e1
+utterance_id: s01_e17_c09_u004
+  tuple: ('be', 'you/Monica Geller', 'that stupid', 's01_e17_c09_u004')
+
+event_id: s01_e17_c09_u005_e1
+utterance_id: s01_e17_c09_u005
+  tuple: ('be', 'I/Monica Geller', None, 's01_e17_c09_u005')
+  tuple: ('be', 'I/Monica Geller', 'that stupid', 's01_e17_c09_u005')
+
+event_id: s01_e17_c09_u006_e1
+utterance_id: s01_e17_c09_u006
+  tuple: ('pay', 'I/Rachel Green', 'for this with a check', 's01_e17_c09_u006')
+
+event_id: s01_e17_c09_u007_e1
+utterance_id: s01_e17_c09_u007
+  tuple: ('know', 'you/Rachel Green', 'your insurance will cover that', 's01_e17_c09_u007')
+
+event_id: s01_e17_c09_u007_e2
+utterance_id: s01_e17_c09_u007
+  tuple: ('cover', 'your insurance', 'that', 's01_e17_c09_u007')
+
+event_id: s01_e17_c09_u008_e1
+utterance_id: s01_e17_c09_u008
+  tuple: ('know', 'I/Rachel Green', None, 's01_e17_c09_u008')
+
+event_id: s01_e17_c09_u008_e2
+utterance_id: s01_e17_c09_u008
+  tuple: ('be', 'I/Rachel Green', 'not that bright either', 's01_e17_c09_u008')
+

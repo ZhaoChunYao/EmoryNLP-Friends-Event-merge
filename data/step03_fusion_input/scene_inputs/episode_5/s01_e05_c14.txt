@@ -1,0 +1,78 @@
+('be', 'the thing', None, 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('know', 'you/Janice Litman Goralnik', None, 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('mean', 'I/Chandler Bing', "it's like we're different", 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('be', 'it/(situation)', "like we're different", 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('be', 'we/(Chandler Bing+Janice Litman Goralnik)', 'different', 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('like', 'I/Chandler Bing', 'the bing, bing, bing', 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('like', 'you/Janice Litman Goralnik', 'the boom, boom, ... boom', 's01_e05_c14_u001')
+[s01_e05_c14_u001] Chandler Bing: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+
+('be', 'I/Chandler Bing', 'so sorry', 's01_e05_c14_u003')
+[s01_e05_c14_u003] Chandler Bing: Oh, my god, I'm so sorry. Are you ok?
+
+('be', 'you/Janice Litman Goralnik', 'ok', 's01_e05_c14_u003')
+[s01_e05_c14_u003] Chandler Bing: Oh, my god, I'm so sorry. Are you ok?
+
+('be', 'it/(problem)', 'just my lens', 's01_e05_c14_u004')
+[s01_e05_c14_u004] Janice Litman Goralnik: Ow. Um, it's just my lens. It's just my lens. I'll be right back.
+
+('be', 'I/Janice Litman Goralnik', 'right back', 's01_e05_c14_u004')
+[s01_e05_c14_u004] Janice Litman Goralnik: Ow. Um, it's just my lens. It's just my lens. I'll be right back.
+
+('hit', 'I/Chandler Bing', 'her', 's01_e05_c14_u006')
+[s01_e05_c14_u006] Chandler Bing: I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.
+
+('hit', 'I/Chandler Bing', 'in the eye', 's01_e05_c14_u006')
+[s01_e05_c14_u006] Chandler Bing: I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.
+
+('be', 'this/(break-up)', 'the worst break-up in the history of the world', 's01_e05_c14_u006')
+[s01_e05_c14_u006] Chandler Bing: I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.
+
+('have', 'you/Chandler Bing', 'how many of those', 's01_e05_c14_u007')
+[s01_e05_c14_u007] Phoebe Buffay: Oh my god. How many of those have you had?
+
+('know', 'I/Chandler Bing', None, 's01_e05_c14_u008')
+[s01_e05_c14_u008] Chandler Bing: Oh, I don't know, a million?
+
+('go', 'you/Chandler Bing', 'to your happy place', 's01_e05_c14_u009')
+[s01_e05_c14_u009] Phoebe Buffay: Chandler, easy, easy. Go to your happy place. La la la la la la la.
+
+('be', 'I/Chandler Bing', 'fine', 's01_e05_c14_u010')
+[s01_e05_c14_u010] Chandler Bing: I'm fine.
+
+('be', 'I/Chandler Bing', 'not fine', 's01_e05_c14_u013')
+[s01_e05_c14_u013] Chandler Bing: I'm not fine. Here she comes.
+
+('come', 'she/Janice Litman Goralnik', None, 's01_e05_c14_u013')
+[s01_e05_c14_u013] Chandler Bing: I'm not fine. Here she comes.
+
+('wait', 'you/Chandler Bing', 'here', 's01_e05_c14_u014')
+[s01_e05_c14_u014] Phoebe Buffay: Wait here. Breathe.
+
+('breathe', 'you/Chandler Bing', None, 's01_e05_c14_u014')
+[s01_e05_c14_u014] Phoebe Buffay: Wait here. Breathe.
+
+('do', 'you/Phoebe Buffay', 'that', 's01_e05_c14_u016')
+[s01_e05_c14_u016] Chandler Bing: How do you do that?
+
+('be', 'it/(ability)', 'like a gift', 's01_e05_c14_u017')
+[s01_e05_c14_u017] Phoebe Buffay: It's like a gift.
+
+('break up', 'we/(Chandler Bing+Phoebe Buffay)', None, 's01_e05_c14_u018')
+[s01_e05_c14_u018] Chandler Bing: We should always always break up together.
+
+('like', 'I/Phoebe Buffay', 'that', 's01_e05_c14_u019')
+[s01_e05_c14_u019] Phoebe Buffay: Oh, I'd like that.
+

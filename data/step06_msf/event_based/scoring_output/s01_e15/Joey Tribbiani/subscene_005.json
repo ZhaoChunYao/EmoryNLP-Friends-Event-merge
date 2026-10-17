@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker prompts Speaker_01 to 'say it' and then eagerly tells Speaker_02 they won't believe what just happened, showing outgoing, talkative engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating kindness/cooperation or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably engages in intimate/explicit talk and shares surprising news without signs of anxiety or nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages explicit discussion and shows excitement about an unusual event, indicating openness to novel experiences."
+  }
+}

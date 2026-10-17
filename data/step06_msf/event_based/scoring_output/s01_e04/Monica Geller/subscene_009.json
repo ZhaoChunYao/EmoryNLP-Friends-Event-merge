@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes bold, playful remarks about someone’s appearance in a group (“great hair, sexy smile, really cute butt”) and reacts out loud (“Oh, no…”), showing outgoing expressiveness."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating either kindness/cooperation or deceit/hostility; mostly playful speculation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization/efficiency or sloppiness/carelessness in this short exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Seeks a reassuring explanation (“tell me it’s his mother”) and then reacts with concern (“Oh, no…”), indicating anxiety/sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Curiously and imaginatively speculates about identities (“White House adviser? Clinton’s campaign guy?”), showing inquisitiveness."
+  }
+}

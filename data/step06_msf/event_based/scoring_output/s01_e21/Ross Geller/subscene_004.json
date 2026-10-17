@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker explains the situation and plans but shows no clear signs of being notably outgoing/energetic or reserved/withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He prioritizes the monkey’s welfare, following the veterinarian’s advice that it needs regular access to mating and deciding he has to get it into a zoo, even though giving it up is hard."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He is organized and proactive: consulting a vet, applying to many zoos, naming a first-choice (San Diego) and an alternative via a vet contact (Miami)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He remains calm and solution-focused in a difficult situation, discussing facts and plans without expressing anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He considers multiple possibilities, including out-of-state options, acknowledges a ‘pipe dream,’ and explores contacts (Miami via the vet), showing flexibility and openness to alternatives."
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u004_e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e03_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u004_e2",
+          "tuples": [
+            "('open', 'I/Phoebe Buffay', 'it up', 's01_e03_c09_u004')",
+            "('be', 'it/(thumb)', None, 's01_e03_c09_u004')",
+            "('float', 'it/(thumb)', 'in there', 's01_e03_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u005_e1",
+          "tuples": [
+            "('be', 'it', 'a contest', 's01_e03_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u005_e2",
+          "tuples": [
+            "('know', 'you/ALL', None, 's01_e03_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u005_e3",
+          "tuples": [
+            "('collect', 'you/ALL', 'all five', 's01_e03_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u006_e1",
+          "tuples": [
+            "('want', 'anyone', 'to see', 's01_e03_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u009",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u009_e1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'that', 's01_e03_c09_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u009_e2",
+          "tuples": [
+            "('cut', 'you/Phoebe Buffay', 'it out', 's01_e03_c09_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u010",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u010_e1",
+          "tuples": [
+            "('be', 'it', 'worse than the thumb', 's01_e03_c09_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u011",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u011_e1",
+          "tuples": [
+            "('be', 'this', 'so unfair', 's01_e03_c09_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u012",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u012_e1",
+          "tuples": [
+            "('be', 'it', 'unfair', 's01_e03_c09_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u013",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u013_e1",
+          "tuples": [
+            "('have', 'I/Chandler Bing', 'a flaw', 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e2",
+          "tuples": [
+            "('be', \"Joey's constant knuckle-cracking\", 'not annoying', 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e3",
+          "tuples": [
+            "('over-pronounce', 'Ross Geller', 'every single word', 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e4",
+          "tuples": [
+            "('laugh', 'she/Monica Geller', None, 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e5",
+          "tuples": [
+            "('be', 'that thing', None, 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e6",
+          "tuples": [
+            "('accept', 'I/Chandler Bing', 'all those flaws', 's01_e03_c09_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u013_e7",
+          "tuples": [
+            "('accept', 'you/ALL', 'me', 's01_e03_c09_u013')",
+            "('accept', 'you/ALL', 'for this', 's01_e03_c09_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u015",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u015_e1",
+          "tuples": [
+            "('bother', 'the knuckle-cracking', 'everybody', 's01_e03_c09_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u016",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u016_e1",
+          "tuples": [
+            "('live', 'I/Rachel Green', 'without it', 's01_e03_c09_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u017",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u017_e1",
+          "tuples": [
+            "('be', 'it/(knuckle-cracking)', 'a little annoying', 's01_e03_c09_u017')",
+            "('be', 'it/(knuckle-cracking)', 'like when Phoebe chews her hair', 's01_e03_c09_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u017_e2",
+          "tuples": [
+            "('chew', 'Phoebe Buffay', 'her hair', 's01_e03_c09_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u019",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u019_e1",
+          "tuples": [
+            "('listen', 'you/Phoebe Buffay', 'to him', 's01_e03_c09_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u019_e2",
+          "tuples": [
+            "('think', 'I/Ross Geller', \"it's endearing\", 's01_e03_c09_u019')",
+            "('be', 'it/(knuckle-cracking)', 'endearing', 's01_e03_c09_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u020",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u020_e1",
+          "tuples": [
+            "('do', 'you/Ross Geller', None, 's01_e03_c09_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u022",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u022_e1",
+          "tuples": [
+            "('be', 'there', 'nothing wrong', 's01_e03_c09_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u023",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u023_e1",
+          "tuples": [
+            "('be', 'there', None, 's01_e03_c09_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u023_e2",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'back to work', 's01_e03_c09_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u024",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u024_e1",
+          "tuples": [
+            "('get', 'someone', 'what they actually ordered', 's01_e03_c09_u024')",
+            "('order', 'they/someone', 'what', 's01_e03_c09_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c09_u025",
+      "events": [
+        {
+          "event_id": "s01_e03_c09_u025_e1",
+          "tuples": [
+            "('come', 'the hair', 'out', 's01_e03_c09_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c09_u025_e2",
+          "tuples": [
+            "('come', 'the gloves', 'on', 's01_e03_c09_u025')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only states travel plans and actions; no clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No cooperative or antagonistic behavior is shown; interactions are neutral."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker has already gotten the tickets, knows the exact departure time in five hours, and is going to get their stuff—showing planning and organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, moodiness, or emotional instability are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Mentioning a trip alone does not show curiosity or unconventional thinking; no clear openness cues."
+  }
+}

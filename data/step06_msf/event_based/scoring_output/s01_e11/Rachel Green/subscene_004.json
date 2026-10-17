@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates interaction, greets with 'Hey,' and proactively asks, 'What're you guys doing out here?' indicating outgoing engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interaction is neutral/polite but shows no clear generosity, cooperation, or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or task follow-through is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity; emotional state is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Asking what others are doing is basic situational curiosity, not indicative of imaginative or unconventional thinking."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c13_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('stop', 'you/(unknown)', 'wife beating', 's01_e09_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c13_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/(unknown)', 'finally happy with that', 's01_e09_c13_u002')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('walk', 'he/(unknown)', 'away', 's01_e09_c13_u002')"
+          ]
+        }
+      ]
+    }
+  ]
+}

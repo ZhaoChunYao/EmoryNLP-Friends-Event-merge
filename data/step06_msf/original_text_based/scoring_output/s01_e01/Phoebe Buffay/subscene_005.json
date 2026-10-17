@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up in group and launches into a long personal story to everyone, showing talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Defends Speaker_01 (“Give Speaker_01 a break”) and empathizes by relating a personal experience to comfort them."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Gives a rambling, unfocused anecdote, prompting another to interject “The word you’re looking for is ‘Anyway’…,” indicating inefficient, disorganized communication."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite discussing heavy past events, shows no signs of anxiety or insecurity in the moment; speaks calmly to comfort others."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Describes unconventional life experiences and mentions finding aromatherapy, suggesting openness to new ideas and experiences."
+  }
+}

@@ -1,0 +1,60 @@
+('say', 'you/(Ross Geller)', 'you never feel like a father', 's01_e17_c10_u001')
+[s01_e17_c10_u001] Chandler Bing: Okay, worst case scenario. Say you never feel like a father.
+
+('feel', 'you/(Ross Geller)', None, 's01_e17_c10_u001')
+[s01_e17_c10_u001] Chandler Bing: Okay, worst case scenario. Say you never feel like a father.
+
+('feel', 'you/(Ross Geller)', 'like a father', 's01_e17_c10_u001')
+[s01_e17_c10_u001] Chandler Bing: Okay, worst case scenario. Say you never feel like a father.
+
+('say', 'you/(Ross Geller)', 'your son never feels connected to you, as one', 's01_e17_c10_u003')
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+
+('feel', 'your son', 'connected to you', 's01_e17_c10_u003')
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+
+('feel', 'your son', 'as one', 's01_e17_c10_u003')
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+
+('say', 'you/(Ross Geller)', 'all of his relationships are affected by this', 's01_e17_c10_u003')
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+
+('affect', 'all of his relationships', 'by this', 's01_e17_c10_u003')
+[s01_e17_c10_u003] Chandler Bing: Say your son never feels connected to you, as one. Say all of his relationships are affected by this.
+
+('have', 'you/(Chandler Bing)', 'a point', 's01_e17_c10_u004')
+[s01_e17_c10_u004] Ross Geller: Do you have a point?
+
+('know', 'you/(Ross Geller)', None, 's01_e17_c10_u005')
+[s01_e17_c10_u005] Chandler Bing: You know, you think I would.
+
+('think', 'you/(Ross Geller)', 'I would', 's01_e17_c10_u005')
+[s01_e17_c10_u005] Chandler Bing: You know, you think I would.
+
+('be', 'what', 'up with the simian', 's01_e17_c10_u007')
+[s01_e17_c10_u007] Chandler Bing: What's up with the simian?
+
+('be', 'it/(the simian)', 'just a fur ball', 's01_e17_c10_u008')
+[s01_e17_c10_u008] Ross Geller: It's just a fur ball.
+
+('be', 'it/(the game)', 'whose turn', 's01_e17_c10_u009')
+[s01_e17_c10_u009] Chandler Bing: Okay... ..whose turn is it?
+
+('get', 'I/(Ross Geller)', '43 points', 's01_e17_c10_u010')
+[s01_e17_c10_u010] Ross Geller: Yours, I just got 43 points for 'KIDNEY'.
+
+('get', 'I/(Ross Geller)', "for 'KIDNEY'", 's01_e17_c10_u010')
+[s01_e17_c10_u010] Ross Geller: Yours, I just got 43 points for 'KIDNEY'.
+
+('get', 'you/(Ross Geller)', 'zero points', 's01_e17_c10_u011')
+[s01_e17_c10_u011] Chandler Bing: No, no, you got zero points for 'IDNEY'.
+
+('get', 'you/(Ross Geller)', "for 'IDNEY'", 's01_e17_c10_u011')
+[s01_e17_c10_u011] Chandler Bing: No, no, you got zero points for 'IDNEY'.
+
+('have', 'I/(Ross Geller)', "a 'K'", 's01_e17_c10_u012')
+[s01_e17_c10_u012] Ross Geller: I had a 'K'. Where's where's my 'K'?
+
+('be', "my 'K'", 'where', 's01_e17_c10_u012')
+[s01_e17_c10_u012] Ross Geller: I had a 'K'. Where's where's my 'K'?
+

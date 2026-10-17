@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly with polite remarks; no clear outgoing or talkative behavior is shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker tells Speaker_03 to feel better and thanks Speaker_02 for everything—supportive and appreciative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of planning or organization from TargetSpeaker; lateness is mentioned only by Speaker_04."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional volatility; interactions are calm."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or closed-mindedness in the brief remarks."
+  }
+}

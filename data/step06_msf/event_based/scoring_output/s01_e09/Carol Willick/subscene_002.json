@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly directs attention (“Look”) and responds, but shows no clear talkative or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is accommodating and considerate: “You don’t have to talk to [the baby]. You can sing to [the baby] if you want to.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization or diligence; only brief suggestions and a confirmation of movement."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; simply notes, “I did feel [the baby] move,” without emotional intensity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggesting singing to the fetus shows a playful, flexible, and unconventional approach."
+  }
+}

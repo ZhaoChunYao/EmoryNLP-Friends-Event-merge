@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly, answering a question and noting a call, without showing marked outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When asked why people think Speaker_02 is gay, TargetSpeaker avoided explaining and only said there is 'a quality,' showing vagueness rather than straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization or carelessness; only brief, situational comments."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional volatility; responses are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or dogmatism; the evasiveness appears social tact rather than an openness-related stance."
+  }
+}

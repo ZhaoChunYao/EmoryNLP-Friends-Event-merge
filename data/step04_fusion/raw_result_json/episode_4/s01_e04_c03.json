@@ -1,0 +1,141 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c03_u001",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('pass', 'Poulet', 'it', 's01_e04_c03_u001')",
+            "('pass', 'Poulet', 'up to Leetch', 's01_e04_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u002",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('spot', 'Leetch', 'Messier', 's01_e04_c03_u002')",
+            "('spot', 'Leetch', 'in the crease', 's01_e04_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('be', 'there', 'the pass', 's01_e04_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u003",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('take', 'we/(Chandler Bing and Joey Tribbiani)', 'a brief time out', 's01_e04_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('stop', 'Messier', None, 's01_e04_c03_u003')",
+            "('look', 'Messier', None, 's01_e04_c03_u003')",
+            "('look', 'Messier', \"at some women's shoes\", 's01_e04_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u004",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('wear', 'Carol', 'boots', 's01_e04_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('take off', 'she/Carol', 'them', 's01_e04_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u009",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('have', 'we/(Ross Geller and Carol)', None, 's01_e04_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u012",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('be', 'it/(the fruit)', 'a peach', 's01_e04_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u013",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('get dressed', 'we/(Ross Geller and Carol)', None, 's01_e04_c03_u013')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('walk', 'I/Ross Geller', 'her', 's01_e04_c03_u013')",
+            "('walk', 'I/Ross Geller', 'to the bus stop', 's01_e04_c03_u013')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'fine', 's01_e04_c03_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c03_u014",
+      "events": [
+        {
+          "event_id": "event1",
+          "tuples": [
+            "('get', 'that woman', 'an ass', 's01_e04_c03_u014')",
+            "('get', 'that woman', \"like Carol's\", 's01_e04_c03_u014')"
+          ]
+        },
+        {
+          "event_id": "event2",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', 'we were trying to find stuff', 's01_e04_c03_u014')"
+          ]
+        },
+        {
+          "event_id": "event3",
+          "tuples": [
+            "('try', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'find stuff', 's01_e04_c03_u014')",
+            "('find', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'stuff', 's01_e04_c03_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

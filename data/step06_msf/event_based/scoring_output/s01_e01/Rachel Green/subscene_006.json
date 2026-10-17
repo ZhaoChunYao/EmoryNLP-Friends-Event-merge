@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates by asking two questions, but there’s no strong sign of being particularly outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The questions about others’ jobs and roles are neutral/polite; no clear evidence of warmth/generosity or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization/efficiency or carelessness/sloppiness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or unusual calm/confidence in the brief exchanges."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows curiosity by asking if others all have jobs and whether they’ve seen the actor in any roles."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief comments and does not display notably outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says that the grandmother dying twice is terrible, showing empathy toward the others’ loss."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, diligence, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Does not display anxiety, nervousness, or emotional instability; statements are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Suggests the grandmother is not really gone, showing willingness to entertain unconventional ideas."
+  }
+}

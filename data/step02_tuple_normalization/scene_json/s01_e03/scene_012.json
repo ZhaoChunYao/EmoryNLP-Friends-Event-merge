@@ -1,0 +1,514 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "that sock",
+      "object": "old",
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler Bing",
+      "object": "a sock",
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler Bing",
+      "object": "on my hand",
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler Bing",
+      "object": "for thirty years",
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "it/that sock",
+      "object": null,
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "talk",
+      "subject": "it/that sock",
+      "object": null,
+      "uid": "s01_e03_c12_u001"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ross Geller",
+      "object": "it is time to change somebody's nicotine patch",
+      "uid": "s01_e03_c12_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it/impersonal",
+      "object": "time",
+      "uid": "s01_e03_c12_u002"
+    },
+    {
+      "verb": "change",
+      "subject": "I/Ross Geller",
+      "object": "somebody's nicotine patch",
+      "uid": "s01_e03_c12_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e03_c12_u003"
+    },
+    {
+      "verb": "eat",
+      "subject": "Joey Tribbiani",
+      "object": "my last stick of gum",
+      "uid": "s01_e03_c12_u004"
+    },
+    {
+      "verb": "kill",
+      "subject": "I/Chandler Bing",
+      "object": "him/Joey Tribbiani",
+      "uid": "s01_e03_c12_u004"
+    },
+    {
+      "verb": "think",
+      "subject": "you/#ALL#",
+      "object": "that was wrong",
+      "uid": "s01_e03_c12_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(killing him)",
+      "object": "wrong",
+      "uid": "s01_e03_c12_u004"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "he is across the hall",
+      "uid": "s01_e03_c12_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e03_c12_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Joey Tribbiani",
+      "object": "across the hall",
+      "uid": "s01_e03_c12_u005"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e03_c12_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "alive",
+      "uid": "s01_e03_c12_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "with pleasure",
+      "uid": "s01_e03_c12_u008"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Phoebe Buffay",
+      "object": "the rest of that Pop-Tart",
+      "uid": "s01_e03_c12_u009"
+    },
+    {
+      "verb": "want",
+      "subject": "anyone",
+      "object": "the rest of this Pop-Tart",
+      "uid": "s01_e03_c12_u010"
+    },
+    {
+      "verb": "give",
+      "subject": "those stupid soda people",
+      "object": "me seven thousand dollars",
+      "uid": "s01_e03_c12_u012"
+    },
+    {
+      "verb": "give",
+      "subject": "those stupid soda people",
+      "object": "for the thumb",
+      "uid": "s01_e03_c12_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Phoebe Buffay",
+      "object": "kidding",
+      "uid": "s01_e03_c12_u013"
+    },
+    {
+      "verb": "step",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e03_c12_u014"
+    },
+    {
+      "verb": "step",
+      "subject": "I/Phoebe Buffay",
+      "object": "in gum",
+      "uid": "s01_e03_c12_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "what/(situation)",
+      "object": "up",
+      "uid": "s01_e03_c12_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "what/(situation)",
+      "object": "with the universe",
+      "uid": "s01_e03_c12_u014"
+    },
+    {
+      "verb": "go",
+      "subject": "what",
+      "object": "on",
+      "uid": "s01_e03_c12_u015"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Monica Geller",
+      "object": "it is nice when we are all here together",
+      "uid": "s01_e03_c12_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(everyone here together)",
+      "object": "nice",
+      "uid": "s01_e03_c12_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "we/#ALL#",
+      "object": "here",
+      "uid": "s01_e03_c12_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "we/#ALL#",
+      "object": "together",
+      "uid": "s01_e03_c12_u016"
+    },
+    {
+      "verb": "get",
+      "subject": "everyone",
+      "object": "to wear their underwear",
+      "uid": "s01_e03_c12_u017"
+    },
+    {
+      "verb": "wear",
+      "subject": "everyone",
+      "object": "their underwear",
+      "uid": "s01_e03_c12_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(sound)",
+      "object": "Lambchop",
+      "uid": "s01_e03_c12_u021"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/#ALL#",
+      "object": null,
+      "uid": "s01_e03_c12_u022"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Phoebe Buffay",
+      "object": "a deja vu",
+      "uid": "s01_e03_c12_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e03_c12_u023"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/#ALL#",
+      "object": null,
+      "uid": "s01_e03_c12_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(deja vu)",
+      "object": null,
+      "uid": "s01_e03_c12_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(topic)",
+      "object": "about Alan",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "something",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "know",
+      "subject": "you/#ALL#",
+      "object": "something",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "no easy way",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "say",
+      "subject": "I/Monica Geller",
+      "object": "this",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "decide",
+      "subject": "I/Monica Geller",
+      "object": "to break up with Alan",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "break",
+      "subject": "I/Monica Geller",
+      "object": "up",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "break",
+      "subject": "I/Monica Geller",
+      "object": "with Alan",
+      "uid": "s01_e03_c12_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "somebody else",
+      "uid": "s01_e03_c12_u028"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(situation)",
+      "object": null,
+      "uid": "s01_e03_c12_u029"
+    },
+    {
+      "verb": "change",
+      "subject": "things",
+      "object": null,
+      "uid": "s01_e03_c12_u029"
+    },
+    {
+      "verb": "change",
+      "subject": "people",
+      "object": null,
+      "uid": "s01_e03_c12_u029"
+    },
+    {
+      "verb": "change",
+      "subject": "we/#ALL#",
+      "object": null,
+      "uid": "s01_e03_c12_u030"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(relationship)",
+      "object": "it",
+      "uid": "s01_e03_c12_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(relationship)",
+      "object": "over",
+      "uid": "s01_e03_c12_u031"
+    },
+    {
+      "verb": "know",
+      "subject": "you/#ALL#",
+      "object": null,
+      "uid": "s01_e03_c12_u032"
+    },
+    {
+      "verb": "let",
+      "subject": "you/anyone",
+      "object": "down your guard",
+      "uid": "s01_e03_c12_u032"
+    },
+    {
+      "verb": "start",
+      "subject": "you/anyone",
+      "object": "to really care about someone",
+      "uid": "s01_e03_c12_u032"
+    },
+    {
+      "verb": "care",
+      "subject": "you/anyone",
+      "object": null,
+      "uid": "s01_e03_c12_u032"
+    },
+    {
+      "verb": "care",
+      "subject": "you/anyone",
+      "object": "about someone",
+      "uid": "s01_e03_c12_u032"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Monica Geller",
+      "object": "on pretending",
+      "uid": "s01_e03_c12_u033"
+    },
+    {
+      "verb": "pretend",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e03_c12_u033"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(pretending)",
+      "object": "fair to me",
+      "uid": "s01_e03_c12_u035"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(pretending)",
+      "object": "fair to Alan",
+      "uid": "s01_e03_c12_u035"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(pretending)",
+      "object": "fair to you",
+      "uid": "s01_e03_c12_u035"
+    },
+    {
+      "verb": "want",
+      "subject": "who",
+      "object": "fair",
+      "uid": "s01_e03_c12_u036"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Ross Geller",
+      "object": "things back",
+      "uid": "s01_e03_c12_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(things)",
+      "object": null,
+      "uid": "s01_e03_c12_u036"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e03_c12_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Monica Geller",
+      "object": "sorry",
+      "uid": "s01_e03_c12_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Monica Geller",
+      "object": "sorry",
+      "uid": "s01_e03_c12_u038"
+    },
+    {
+      "verb": "feel",
+      "subject": "I/Chandler Bing",
+      "object": "better",
+      "uid": "s01_e03_c12_u038"
+    },
+    {
+      "verb": "believe",
+      "subject": "I/Rachel Green",
+      "object": "this/(breakup)",
+      "uid": "s01_e03_c12_u039"
+    },
+    {
+      "verb": "come",
+      "subject": "the holidays",
+      "object": "up",
+      "uid": "s01_e03_c12_u039"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e03_c12_u039"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Rachel Green",
+      "object": "him/Alan to meet my family",
+      "uid": "s01_e03_c12_u039"
+    },
+    {
+      "verb": "meet",
+      "subject": "him/Alan",
+      "object": "my family",
+      "uid": "s01_e03_c12_u039"
+    },
+    {
+      "verb": "meet",
+      "subject": "I/Monica Geller",
+      "object": "someone else",
+      "uid": "s01_e03_c12_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "other Alans",
+      "uid": "s01_e03_c12_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "you guys/#ALL#",
+      "object": "okay",
+      "uid": "s01_e03_c12_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "we/#ALL#",
+      "object": "fine",
+      "uid": "s01_e03_c12_u043"
+    },
+    {
+      "verb": "need",
+      "subject": "we/#ALL#",
+      "object": "a little time",
+      "uid": "s01_e03_c12_u043"
+    },
+    {
+      "verb": "understand",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e03_c12_u044"
+    }
+  ]
+}

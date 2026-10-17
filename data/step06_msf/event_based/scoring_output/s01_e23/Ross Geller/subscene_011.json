@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly argues in the closet, repeatedly insists he should be in the delivery room, orders Speaker_01 to hurry, and directly asks Speaker_04 to explain herself—active, vocal, and assertive rather than reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Blames Speaker_01 for the situation, contests Speaker_01’s claim of caring (“no one has been waiting…as much as me”), and makes a snarky remark (“every day is Lesbian Lover Day”), showing confrontation over cooperation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Stays focused on the duty to be in the delivery room and urges urgency (“should be in the delivery room… hurry up”), indicating responsibility and task focus."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays anxiety and insecurity about missing the birth and being left without his newborn (“will leave me without my newborn son”), with urgency and frustration throughout."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or openness to new ideas; statements are focused on urgency and conflict rather than exploration or flexibility."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly argues and continues the confrontation in public, even after being called out (e.g., “Yeah, Susan”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Blames Susan for being thrown out, accuses her of “trying to be clever,” and responds with sarcasm rather than cooperation."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Keeps arguing/yelling in a hospital despite being told to stop, showing poor situational self-control."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays insecurity/defensiveness about Susan’s role (“before you came along…”), reacts defensively when told he is threatened."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses Susan’s perspective, insists on his view (“before you came along…”) and labels her as just trying to be clever."
+  }
+}

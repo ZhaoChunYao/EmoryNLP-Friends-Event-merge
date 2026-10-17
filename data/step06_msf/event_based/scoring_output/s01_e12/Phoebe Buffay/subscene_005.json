@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Responds to questions and recounts events, but no clear signs of outgoing or reserved behavior beyond basic answering."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives a direct, candid account (“everything was fine early,” then specifying the problem was his visible arousal) and asserts certainty, indicating straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or reliability beyond recounting events."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "States she is sure about what happened and discusses an awkward situation without showing nervousness or distress, indicating confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity, imaginativeness, or dogmatism; she simply reports facts."
+  }
+}

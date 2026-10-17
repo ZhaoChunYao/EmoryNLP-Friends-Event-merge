@@ -1,0 +1,19 @@
+event_id: s01_e12_c03_u001_e1
+utterance_id: s01_e12_c03_u001
+  tuple: ('love', 'I/(Joey Tribbiani)', 'babies', 's01_e12_c03_u001')
+  tuple: ('love', 'I/(Joey Tribbiani)', 'with their little baby shoes', 's01_e12_c03_u001')
+  tuple: ('love', 'I/(Joey Tribbiani)', 'with their little baby toes', 's01_e12_c03_u001')
+  tuple: ('love', 'I/(Joey Tribbiani)', 'with their little baby hands', 's01_e12_c03_u001')
+
+event_id: s01_e12_c03_u002_e1
+utterance_id: s01_e12_c03_u002
+  tuple: ('stop', 'you/(Joey Tribbiani)', 'that forever', 's01_e12_c03_u002')
+
+event_id: s01_e12_c03_u004_e1
+utterance_id: s01_e12_c03_u004
+  tuple: ('need', 'I/(Joey Tribbiani)', 'a new table', 's01_e12_c03_u004')
+
+event_id: s01_e12_c03_u005_e1
+utterance_id: s01_e12_c03_u005
+  tuple: ('think', 'you/(Joey Tribbiani)', None, 's01_e12_c03_u005')
+

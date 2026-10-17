@@ -1,0 +1,91 @@
+event_id: s01_e15_c12_u002_e1
+utterance_id: s01_e15_c12_u002
+  tuple: ('want', 'you/Monica Geller', 'work for a guy like that', 's01_e15_c12_u002')
+  tuple: ('work', 'you/Monica Geller', 'for a guy like that', 's01_e15_c12_u002')
+
+event_id: s01_e15_c12_u004_e1
+utterance_id: s01_e15_c12_u004
+  tuple: ('know', 'I/Monica Geller', None, 's01_e15_c12_u004')
+
+event_id: s01_e15_c12_u004_e2
+utterance_id: s01_e15_c12_u004
+  tuple: ('be', 'it/(the situation)', 'just', 's01_e15_c12_u004')
+
+event_id: s01_e15_c12_u004_e3
+utterance_id: s01_e15_c12_u004
+  tuple: ('think', 'I/Monica Geller', 'this was it', 's01_e15_c12_u004')
+  tuple: ('be', 'this/(job opportunity)', 'it', 's01_e15_c12_u004')
+
+event_id: s01_e15_c12_u005_e1
+utterance_id: s01_e15_c12_u005
+  tuple: ('look', 'you/Monica Geller', None, 's01_e15_c12_u005')
+
+event_id: s01_e15_c12_u005_e2
+utterance_id: s01_e15_c12_u005
+  tuple: ('get', 'you/Monica Geller', 'there', 's01_e15_c12_u005')
+
+event_id: s01_e15_c12_u005_e3
+utterance_id: s01_e15_c12_u005
+  tuple: ('be', 'you/Monica Geller', 'an amazing chef', 's01_e15_c12_u005')
+
+event_id: s01_e15_c12_u006_e1
+utterance_id: s01_e15_c12_u006
+  tuple: ('know', 'you/Monica Geller', 'all those yummy noises', 's01_e15_c12_u006')
+
+event_id: s01_e15_c12_u006_e2
+utterance_id: s01_e15_c12_u006
+  tuple: ('fake', 'I/Phoebe Buffay', None, 's01_e15_c12_u006')
+
+event_id: s01_e15_c12_u008_e1
+utterance_id: s01_e15_c12_u008
+  tuple: ('go', "it/(Ross and Celia's date)", 'with Celia', 's01_e15_c12_u008')
+
+event_id: s01_e15_c12_u009_e1
+utterance_id: s01_e15_c12_u009
+  tuple: ('be', 'I/Ross Geller', 'unbelievable', 's01_e15_c12_u009')
+
+event_id: s01_e15_c12_u011_e1
+utterance_id: s01_e15_c12_u011
+  tuple: ('be', 'I/Ross Geller', 'the James Michener of dirty talk', 's01_e15_c12_u011')
+  tuple: ('be', 'it/(the dirty talk)', 'the most elaborate filth you have ever heard', 's01_e15_c12_u011')
+  tuple: ('hear', 'you/Joey Tribbiani', 'the most elaborate filth', 's01_e15_c12_u011')
+  tuple: ('be', 'there/(existential)', 'characters, plot lines, themes, a motif', 's01_e15_c12_u011')
+  tuple: ('be', 'there/(existential)', 'villagers', 's01_e15_c12_u011')
+  tuple: ('be', 'there/(existential)', 'at one point', 's01_e15_c12_u011')
+
+event_id: s01_e15_c12_u011_e2
+utterance_id: s01_e15_c12_u011
+  tuple: ('mean', 'I/Ross Geller', None, 's01_e15_c12_u011')
+
+event_id: s01_e15_c12_u013_e1
+utterance_id: s01_e15_c12_u013
+  tuple: ('know', 'you/Joey Tribbiani', None, 's01_e15_c12_u013')
+
+event_id: s01_e15_c12_u013_e2
+utterance_id: s01_e15_c12_u013
+  tuple: ('finish', 'we/(Ross Geller and Celia)', 'with all the dirty talk', 's01_e15_c12_u013')
+  tuple: ('be', 'it/(the time)', 'kinda late', 's01_e15_c12_u013')
+  tuple: ('be', 'we/(Ross Geller and Celia)', 'both kind of exhausted', 's01_e15_c12_u013')
+
+event_id: s01_e15_c12_u014_e1
+utterance_id: s01_e15_c12_u014
+  tuple: ('cuddle', 'you/Ross Geller', None, 's01_e15_c12_u014')
+
+event_id: s01_e15_c12_u015_e1
+utterance_id: s01_e15_c12_u015
+  tuple: ('be', 'which/(cuddling)', 'nice', 's01_e15_c12_u015')
+
+event_id: s01_e15_c12_u016_e1
+utterance_id: s01_e15_c12_u016
+  tuple: ('want', 'you guys/(Rachel Green, Monica Geller, Ross Geller, Joey Tribbiani)', 'try and catch a late movie or something', 's01_e15_c12_u016')
+  tuple: ('try', 'you guys/(Rachel Green, Monica Geller, Ross Geller, Joey Tribbiani)', 'catch a late movie or something', 's01_e15_c12_u016')
+  tuple: ('catch', 'you guys/(Rachel Green, Monica Geller, Ross Geller, Joey Tribbiani)', 'a late movie or something', 's01_e15_c12_u016')
+
+event_id: s01_e15_c12_u017_e1
+utterance_id: s01_e15_c12_u017
+  tuple: ('wait', 'we/(Rachel Green, Monica Geller, Ross Geller, Joey Tribbiani, Phoebe Buffay)', 'for Chandler', 's01_e15_c12_u017')
+
+event_id: s01_e15_c12_u018_e1
+utterance_id: s01_e15_c12_u018
+  tuple: ('be', 'he/(Chandler Bing)', 'where the hell', 's01_e15_c12_u018')
+

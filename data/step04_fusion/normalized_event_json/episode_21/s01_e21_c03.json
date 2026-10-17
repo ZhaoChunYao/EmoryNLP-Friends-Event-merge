@@ -1,0 +1,124 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u002_e1",
+          "tuples": [
+            "('think', 'My agent', \"I should have a name that's more neutral\", 's01_e21_c03_u002')",
+            "('have', 'I/(Joey Tribbiani)', 'a name', 's01_e21_c03_u002')",
+            "('be', 'that/(a name)', 'more neutral', 's01_e21_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u005_e1",
+          "tuples": [
+            "('think', 'I/(Joey Tribbiani)', 'it should be Joe', 's01_e21_c03_u005')",
+            "('be', 'it/(a name)', 'Joe', 's01_e21_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c03_u005_e2",
+          "tuples": [
+            "('make', 'Joey', \"me sound like I'm this big\", 's01_e21_c03_u005')",
+            "('sound', 'me/(Joey Tribbiani)', \"like I'm this big\", 's01_e21_c03_u005')",
+            "('be', 'I/(Joey Tribbiani)', 'this big', 's01_e21_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c03_u005_e3",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', None, 's01_e21_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u007",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u007_e1",
+          "tuples": [
+            "('know', 'I/(Joey Tribbiani)', 'that name', 's01_e21_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c03_u007_e2",
+          "tuples": [
+            "('sound', 'it/(that name)', 'familiar', 's01_e21_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u008_e1",
+          "tuples": [
+            "('ring', 'it/(that name)', 'a bell', 's01_e21_c03_u008')",
+            "('ring', 'it/(that name)', 'with me', 's01_e21_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u009_e1",
+          "tuples": [
+            "('be', 'that/(Joe Stalin)', 'pretty good', 's01_e21_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u010_e1",
+          "tuples": [
+            "('want', 'you/(Joey Tribbiani)', 'to try Joseph', 's01_e21_c03_u010')",
+            "('try', 'you/(Joey Tribbiani)', 'Joseph', 's01_e21_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u012_e1",
+          "tuples": [
+            "('think', 'I/(Joey Tribbiani)', \"you'd remember that\", 's01_e21_c03_u012')",
+            "('remember', 'you/(Chandler Bing)', 'that', 's01_e21_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e21_c03_u013_e1",
+          "tuples": [
+            "('star', 'Bye Bye Birdie', 'Joseph Stalin', 's01_e21_c03_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c03_u013_e2",
+          "tuples": [
+            "('be', 'Joseph Stalin', 'the Fiddler on the Roof', 's01_e21_c03_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

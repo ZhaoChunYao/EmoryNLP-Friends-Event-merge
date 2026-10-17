@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Welcomes and engages others ('C'mon in.'), reassures with energetic tone ('Yeah!... X's fine'), and initiates small talk ('So, how you doin?')."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows warmth and concern—invites them in, reassures ('X's fine'), and checks on the other person's well-being."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "On being alerted ('Dr. TargetSpeaker, X gagging.'), responds immediately and clearly ('Be right there. Be back in a sec.'), indicating reliability and task focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident—reassures others ('X's fine') and handles an urgent situation without visible anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of imaginative or unconventional thinking; conversation stays on routine, practical matters."
+  }
+}

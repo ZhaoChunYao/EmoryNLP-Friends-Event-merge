@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates interaction with a friendly group greeting (“Hey, guys.”) and engages in a group activity (reading responses)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperates by bringing the mail with another person and preparing to read responses to the group; tone is friendly and helpful."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Helps deliver the mail and immediately focuses on the task (“Lots of responses.”) and plans to read them, indicating responsibility and task orientation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, frustration, or emotional volatility; statements are neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, novel ideas, or resistance; actions are routine (handling mail and reading responses)."
+  }
+}

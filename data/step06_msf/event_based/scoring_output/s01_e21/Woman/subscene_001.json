@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks a brief clarifying question (“Monana?”), showing neither outgoing energy nor marked reserve."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No behavior indicating cooperation, warmth, or antagonism; just a neutral question."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No indication of organization, efficiency, or carelessness in the single utterance."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or strong confidence; the line is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A simple clarification (“Monana?”) is too minimal to infer curiosity or closed-mindedness."
+  }
+}

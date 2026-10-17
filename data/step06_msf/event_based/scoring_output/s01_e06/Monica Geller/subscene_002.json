@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively drives the conversation by asking pointed questions and then posing a group question about dating someone who is also dating others, showing assertive, social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker labels the situation as \"twisted\" and challenges Speaker_01 with \"how could you,\" displaying a critical, confrontational stance rather than supportive or gentle responses."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization, diligence, or carelessness; the speaker mainly offers judgments and questions."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, insecurity, or emotional volatility; the tone is confident and challenging."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "By condemning the non-monogamous arrangement as \"twisted\" and questioning how one could be involved, the speaker shows a closed, dogmatic stance rather than curiosity or openness."
+  }
+}

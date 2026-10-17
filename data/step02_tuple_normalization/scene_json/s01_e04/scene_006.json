@@ -1,0 +1,58 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "There",
+      "object": "ice",
+      "uid": "s01_e04_c06_u002"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Ross Geller)",
+      "object": "it looks like we're not sitting together",
+      "uid": "s01_e04_c06_u003"
+    },
+    {
+      "verb": "look",
+      "subject": "it/(the seating situation)",
+      "object": "like we're not sitting together",
+      "uid": "s01_e04_c06_u003"
+    },
+    {
+      "verb": "sit",
+      "subject": "we/(Ross Geller and Chandler Bing)",
+      "object": null,
+      "uid": "s01_e04_c06_u003"
+    },
+    {
+      "verb": "mention",
+      "subject": "you/(Chandler Bing)",
+      "object": "it",
+      "uid": "s01_e04_c06_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(that night)",
+      "object": "the first frost",
+      "uid": "s01_e04_c06_u003"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Ross Geller)",
+      "object": "on",
+      "uid": "s01_e04_c06_u004"
+    },
+    {
+      "verb": "sit",
+      "subject": "you/(Ross Geller)",
+      "object": "down",
+      "uid": "s01_e04_c06_u004"
+    },
+    {
+      "verb": "sit",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e04_c06_u004"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He initiates conversation about Speaker_01’s life, praises the new job, openly shares about going to Aruba and his new relationship, and assertively directs others during the procedure (“listen,” “pay attention,” “spit now”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He went on the planned honeymoon with Speaker_01’s maid of honor and is now in a relationship with her, and he admits he wanted to hurt Speaker_01—showing untrustworthy and insensitive behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He warns the patient the procedure may hurt and gives step-by-step instructions (“spit now”), suggesting some organization, but he also mixes personal drama into a medical procedure; overall evidence is mixed."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He remains calm and directive while discussing a painful breakup and claims he is happy now, showing confidence and little sign of anxiety or nervousness (his mention of past anger is retrospective, not current behavior)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Mentions travel and cosmetic changes, but there’s no clear display of curiosity, creativity, or rigid dogmatism in this exchange."
+  }
+}

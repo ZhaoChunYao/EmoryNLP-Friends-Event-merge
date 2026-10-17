@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge in a public setting: asks what’s going on, tells Speaker_01 to hold on, states the rule (“that’s not the rule at the laundromat”), and declares the confrontation is over while directing that they’re going to do laundry now."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Acts helpfully and fairly: intervenes to reclaim the machine for Speaker_02, reassures her (“don’t worry”), and assists with getting detergent and how to proceed."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Handles the task methodically: ensures detergent is used, selects the gentle cycle, and instructs on organizing loads (whites, colors, delicates)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident during conflict, decisively ends it, and comforts Speaker_02 (“don’t worry”) without showing nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Follows conventional laundry rules and procedures; mentioning a detergent does not show clear novelty-seeking or curiosity."
+  }
+}

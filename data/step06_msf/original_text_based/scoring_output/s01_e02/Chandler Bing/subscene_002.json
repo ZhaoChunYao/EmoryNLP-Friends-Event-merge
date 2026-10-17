@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and self-deprecatingly; no clear signs of outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Immediately and candidly admits the balled-up paper is theirs and aligns with/validates Speaker_02’s concern about others’ criticism."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Carelessly left a balled-up note lying around, prompting someone to call it out."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Overreacts to minor embarrassment by saying they wish they were dead, indicating sensitivity/anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or unconventional ideas; remarks are situational and sarcastic."
+  }
+}

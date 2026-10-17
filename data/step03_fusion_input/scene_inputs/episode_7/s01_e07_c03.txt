@@ -1,0 +1,48 @@
+('be', 'this/(the blackout)', 'so cool', 's01_e07_c03_u001')
+[s01_e07_c03_u001] Rachel Green: Wow, this is so cool, you guys. The entire city is blacked out!
+
+('black out', 'The entire city', None, 's01_e07_c03_u001')
+[s01_e07_c03_u001] Rachel Green: Wow, this is so cool, you guys. The entire city is blacked out!
+
+('say', 'Mom', "it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on", 's01_e07_c03_u002')
+[s01_e07_c03_u002] Monica Geller: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+
+('be', 'it/(the blackout)', 'all of Manhattan, parts of Brooklyn and Queens', 's01_e07_c03_u002')
+[s01_e07_c03_u002] Monica Geller: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+
+('have', 'they/(authorities)', "no idea when it's coming back on", 's01_e07_c03_u002')
+[s01_e07_c03_u002] Monica Geller: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+
+('come back on', 'it/(power)', None, 's01_e07_c03_u002')
+[s01_e07_c03_u002] Monica Geller: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+
+('be', 'this/(the blackout)', 'big', 's01_e07_c03_u003')
+[s01_e07_c03_u003] Rachel Green: Wow, you guys, this is big.
+
+('meet', 'I/Monica Geller', 'who', 's01_e07_c03_u004')
+[s01_e07_c03_u004] Monica Geller: Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK.
+
+('meet', 'I/Monica Geller', 'in a blackout', 's01_e07_c03_u004')
+[s01_e07_c03_u004] Monica Geller: Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK.
+
+('talk', 'we/(Monica Geller+Mom)', 'about this', 's01_e07_c03_u004')
+[s01_e07_c03_u004] Monica Geller: Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK.
+
+('borrow', 'I/Phoebe Buffay', 'the phone', 's01_e07_c03_u005')
+[s01_e07_c03_u005] Phoebe Buffay: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?
+
+('want', 'I/Phoebe Buffay', 'call my apartment and check on my grandma', 's01_e07_c03_u005')
+[s01_e07_c03_u005] Phoebe Buffay: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?
+
+('call', 'I/Phoebe Buffay', 'my apartment', 's01_e07_c03_u005')
+[s01_e07_c03_u005] Phoebe Buffay: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?
+
+('check', 'I/Phoebe Buffay', 'on my grandma', 's01_e07_c03_u005')
+[s01_e07_c03_u005] Phoebe Buffay: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?
+
+('be', 'my number', 'what', 's01_e07_c03_u005')
+[s01_e07_c03_u005] Phoebe Buffay: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?
+
+('call', 'I/Phoebe Buffay', 'me', 's01_e07_c03_u007')
+[s01_e07_c03_u007] Phoebe Buffay: Well, I never call me.
+

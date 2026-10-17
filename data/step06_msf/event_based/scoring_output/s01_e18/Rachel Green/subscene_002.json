@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker only offers a brief clarification (u024) and a short “OK” (u026), indicating a reserved, minimal participation rather than outgoing talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker cooperatively clarifies that Speaker_01 is being asked how they’re doing (u024) and responds politely with “OK” (u026), showing straightforward, helpful behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or carelessness/sloppiness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; the neutral “OK” (u026) provides insufficient evidence for either side."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflect curiosity, creativity, or dogmatism/caution in this brief exchange."
+  }
+}

@@ -1,0 +1,20 @@
+Episode: s01_e05
+Scene: s01_e05_c08
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e05_c08_u001 → s01_e05_c08_u007
+Peak window: 0 → 2
+
+Dialogue:
+  [s01_e05_c08_u001]
+  1. TargetSpeaker says Speaker_01 is so cute.
+  2. TargetSpeaker asks where Speaker_02 and Speaker_01 grew up.
+  [s01_e05_c08_u002] Speaker_02: Brooklyn Heights.
+  [s01_e05_c08_u003] Speaker_01: Cleveland.
+  [s01_e05_c08_u004]
+  1. TargetSpeaker asks how it happened that Speaker_02 grew up in Brooklyn Heights and Speaker_01 grew up in Cleveland.
+  [s01_e05_c08_u005] Speaker_03: Oh my god.
+  [s01_e05_c08_u006] TargetSpeaker: What?
+  [s01_e05_c08_u007]
+  1. Speaker_03 says Speaker_03 suddenly had the feeling that Speaker_03 was falling.
+  2. Speaker_03 says Speaker_03 is not falling.

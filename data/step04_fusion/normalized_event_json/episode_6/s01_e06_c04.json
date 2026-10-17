@@ -1,0 +1,490 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e06_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u002_e1",
+          "tuples": [
+            "('greet', 'we/(Chandler Bing+Rachel Green)', 'each other', 's01_e06_c04_u002')",
+            "('like', 'I/(Chandler Bing)', 'that', 's01_e06_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u003_e1",
+          "tuples": [
+            "('look', 'you/(ALL)', None, 's01_e06_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c04_u003_e2",
+          "tuples": [
+            "('clean', 'I/(Rachel Green)', None, 's01_e06_c04_u003')",
+            "('do', 'I/(Rachel Green)', 'the windows', 's01_e06_c04_u003')",
+            "('do', 'I/(Rachel Green)', 'the floors', 's01_e06_c04_u003')",
+            "('use', 'I/(Rachel Green)', 'all the attachments', 's01_e06_c04_u003')",
+            "('use', 'I/(Rachel Green)', 'on the vacuum', 's01_e06_c04_u003')",
+            "('know', 'I/(Rachel Green)', \"what that's for\", 's01_e06_c04_u003')",
+            "('be', 'that/(vacuum round attachment)', 'for what', 's01_e06_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u004_e1",
+          "tuples": [
+            "('know', 'nobody', None, 's01_e06_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c04_u004_e2",
+          "tuples": [
+            "('suppose', 'we/(people)', 'to ask', 's01_e06_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u005_e1",
+          "tuples": [
+            "('think', 'you/(ALL)', None, 's01_e06_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u006_e1",
+          "tuples": [
+            "('look', 'it/(apartment)', 'great', 's01_e06_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u007_e1",
+          "tuples": [
+            "('see', 'I/(Monica Geller)', 'you moved the green ottoman', 's01_e06_c04_u007')",
+            "('move', 'you/(Rachel Green)', 'the green ottoman', 's01_e06_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u009_e1",
+          "tuples": [
+            "('happen', 'that/(the ottoman moving)', None, 's01_e06_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u010_e1",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', None, 's01_e06_c04_u010')",
+            "('think', 'I/(Rachel Green)', 'it looked better there', 's01_e06_c04_u010')",
+            "('look', 'it/(ottoman placement)', 'better', 's01_e06_c04_u010')",
+            "('be', 'it/(green ottoman)', 'an extra seat', 's01_e06_c04_u010')",
+            "('be', 'it/(green ottoman)', 'around the coffee table', 's01_e06_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u011_e1",
+          "tuples": [
+            "('be', 'it/(green ottoman placement)', 'interesting', 's01_e06_c04_u011')",
+            "('know', 'you/(ALL)', 'what', 's01_e06_c04_u011')",
+            "('see', 'we/(Monica Geller+Rachel Green+friends)', 'what it looked like in the old spot', 's01_e06_c04_u011')",
+            "('look', 'it/(green ottoman)', None, 's01_e06_c04_u011')",
+            "('look', 'it/(green ottoman)', 'in the old spot', 's01_e06_c04_u011')",
+            "('look', 'it/(green ottoman)', 'good', 's01_e06_c04_u011')",
+            "('leave', 'we/(Monica Geller+friends)', 'it', 's01_e06_c04_u011')",
+            "('leave', 'we/(Monica Geller+friends)', 'for a while', 's01_e06_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u012",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u012_e1",
+          "tuples": [
+            "('believe', 'I/(Phoebe Buffay)', 'you tried to move the green ottoman', 's01_e06_c04_u012')",
+            "('try', 'you/(Rachel Green)', 'to move the green ottoman', 's01_e06_c04_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u013",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u013_e1",
+          "tuples": [
+            "('try', 'you/(Rachel Green)', 'to fan out the magazines', 's01_e06_c04_u013')",
+            "('fan out', 'you/(Rachel Green)', 'the magazines', 's01_e06_c04_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c04_u013_e2",
+          "tuples": [
+            "('scratch', 'she/(Monica Geller)', 'your eyes', 's01_e06_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u014_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'not that bad', 's01_e06_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u015_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', None, 's01_e06_c04_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c04_u015_e2",
+          "tuples": [
+            "('live', 'I/(Phoebe Buffay)', None, 's01_e06_c04_u015')",
+            "('live', 'I/(Phoebe Buffay)', 'with you', 's01_e06_c04_u015')",
+            "('be', 'you/(Monica Geller)', 'like a little', 's01_e06_c04_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c04_u015_e3",
+          "tuples": [
+            "('remember', 'you/(Monica Geller)', 'when I lived with you', 's01_e06_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u016",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u016_e1",
+          "tuples": [
+            "('be', 'that/(accusation)', 'so unfair', 's01_e06_c04_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u017",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u017_e1",
+          "tuples": [
+            "('be', 'we/(Ross Geller+Monica Geller)', 'kids', 's01_e06_c04_u017')",
+            "('be', 'yours/(Monica Geller)', 'the only Raggedy Ann doll', 's01_e06_c04_u017')",
+            "('be', 'that/(Raggedy Ann doll)', 'raggedy', 's01_e06_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u018_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'responsible', 's01_e06_c04_u018')",
+            "('be', 'I/(Monica Geller)', 'organised', 's01_e06_c04_u018')",
+            "('be', 'I/(Monica Geller)', 'a kook', 's01_e06_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u019",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u019_e1",
+          "tuples": [
+            "('try', 'you/(Monica Geller)', 'to imagine this', 's01_e06_c04_u019')",
+            "('imagine', 'you/(Monica Geller)', 'this', 's01_e06_c04_u019')",
+            "('arrive', 'the phone bill', None, 's01_e06_c04_u019')",
+            "('pay', 'you/(Monica Geller)', 'it', 's01_e06_c04_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u021",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u021_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'a kook', 's01_e06_c04_u021')",
+            "('wait', 'you/(Monica Geller)', None, 's01_e06_c04_u021')",
+            "('wait', 'you/(Monica Geller)', 'until they send you a notice', 's01_e06_c04_u021')",
+            "('send', 'they/(phone company)', 'you a notice', 's01_e06_c04_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u022",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u022_e1",
+          "tuples": [
+            "('do', 'I/(Monica Geller)', 'that', 's01_e06_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u023",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u023_e1",
+          "tuples": [
+            "('let', 'you/(Monica Geller)', 'me go grocery shopping', 's01_e06_c04_u023')",
+            "('go', 'me/(Rachel Green)', 'grocery shopping', 's01_e06_c04_u023')",
+            "('buy', 'I/(Rachel Green)', 'laundry detergent', 's01_e06_c04_u023')",
+            "('be', 'it/(laundry detergent)', 'the one with the easy-pour spout', 's01_e06_c04_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u024",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u024_e1",
+          "tuples": [
+            "('do', 'someone', 'that', 's01_e06_c04_u024')",
+            "('wonder', 'one', None, 's01_e06_c04_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u025",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u025_e1",
+          "tuples": [
+            "('leave', 'someone', 'a glass', 's01_e06_c04_u025')",
+            "('leave', 'someone', 'on the coffee table', 's01_e06_c04_u025')",
+            "('be', 'there', 'no coaster', 's01_e06_c04_u025')",
+            "('be', 'it/(drink)', 'a cold drink', 's01_e06_c04_u025')",
+            "('be', 'it/(day)', 'a hot day', 's01_e06_c04_u025')",
+            "('inch', 'little beads of condensation', 'their way', 's01_e06_c04_u025')",
+            "('inch', 'little beads of condensation', 'to the surface of the wood', 's01_e06_c04_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u026",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u026_e1",
+          "tuples": [
+            "('stop', 'you/(ALL)', 'it', 's01_e06_c04_u026')",
+            "('be', 'it/(accusation)', 'true', 's01_e06_c04_u026')",
+            "('be', 'I/(Monica Geller)', 'who', 's01_e06_c04_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u027",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u027_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'Mom', 's01_e06_c04_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u031",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u031_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'there', 's01_e06_c04_u031')",
+            "('be', 'that/(phone call)', 'my agent', 's01_e06_c04_u031')",
+            "('get', 'my agent', 'me a job', 's01_e06_c04_u031')",
+            "('get', 'my agent', 'in the new Al Pacino movie', 's01_e06_c04_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u033",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u033_e1",
+          "tuples": [
+            "('be', 'what/(unknown)', 'the part', 's01_e06_c04_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u034",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u034_e1",
+          "tuples": [
+            "('believe', 'you/(ALL)', 'this', 's01_e06_c04_u034')",
+            "('be', 'This guy', 'the reason I became an actor', 's01_e06_c04_u034')",
+            "('become', 'I/(Joey Tribbiani)', 'an actor', 's01_e06_c04_u034')",
+            "('be', 'I/(Joey Tribbiani)', 'out of order', 's01_e06_c04_u034')",
+            "('be', 'you/(unknown)', 'out of order', 's01_e06_c04_u034')",
+            "('be', 'This whole courtroom', 'out of order', 's01_e06_c04_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u036",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u036_e1",
+          "tuples": [
+            "('think', 'I/(Joey Tribbiani)', 'I was out', 's01_e06_c04_u036')",
+            "('be', 'I/(Joey Tribbiani)', 'out', 's01_e06_c04_u036')",
+            "('pull', 'they/(unknown)', 'me', 's01_e06_c04_u036')",
+            "('pull', 'they/(unknown)', 'back in me', 's01_e06_c04_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u038",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u038_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'his', 's01_e06_c04_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u039",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u039_e1",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'what', 's01_e06_c04_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u040",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u040_e1",
+          "tuples": [
+            "('be', 'I/(Joey Tribbiani)', 'his butt double', 's01_e06_c04_u040')",
+            "('play', 'I/(Joey Tribbiani)', \"Al Pacino's butt\", 's01_e06_c04_u040')",
+            "('go', 'he/(Al Pacino)', None, 's01_e06_c04_u040')",
+            "('go', 'he/(Al Pacino)', 'into the shower', 's01_e06_c04_u040')",
+            "('be', 'I/(Joey Tribbiani)', 'his butt', 's01_e06_c04_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u042",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u042_e1",
+          "tuples": [
+            "('be', 'this/(job)', 'a real movie', 's01_e06_c04_u042')",
+            "('be', 'Al Pacino', 'in it', 's01_e06_c04_u042')",
+            "('be', 'that/(fact)', 'big', 's01_e06_c04_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u043",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u043_e1",
+          "tuples": [
+            "('be', 'it/(job)', 'terrific', 's01_e06_c04_u043')",
+            "('deserve', 'you/(Joey Tribbiani)', 'this', 's01_e06_c04_u043')",
+            "('crack', 'you/(Joey Tribbiani)', 'your way', 's01_e06_c04_u043')",
+            "('crack', 'you/(Joey Tribbiani)', 'into showbusiness', 's01_e06_c04_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u044",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u044_e1",
+          "tuples": [
+            "('make', 'you/(ALL)', 'jokes', 's01_e06_c04_u044')",
+            "('care', 'I/(Joey Tribbiani)', None, 's01_e06_c04_u044')",
+            "('be', 'this/(job)', 'a big break', 's01_e06_c04_u044')",
+            "('be', 'this/(job)', 'for me', 's01_e06_c04_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c04_u045",
+      "events": [
+        {
+          "event_id": "s01_e06_c04_u045_e1",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'right', 's01_e06_c04_u045')",
+            "('be', 'it/(opportunity)', None, 's01_e06_c04_u045')",
+            "('invite', 'you/(Joey Tribbiani)', 'us all', 's01_e06_c04_u045')",
+            "('invite', 'you/(Joey Tribbiani)', 'to the big opening', 's01_e06_c04_u045')"
+          ]
+        }
+      ]
+    }
+  ]
+}

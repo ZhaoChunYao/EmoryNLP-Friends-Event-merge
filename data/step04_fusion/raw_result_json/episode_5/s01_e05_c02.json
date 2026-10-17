@@ -1,0 +1,537 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c02_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('break up', 'you/Chandler Bing', 'with Janice', 's01_e05_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('shut up', 'you/Ross Geller', None, 's01_e05_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('like', 'nobody', 'breaking up with someone', 's01_e05_c02_u006')",
+            "('break up', 'nobody', 'with someone', 's01_e05_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('do', 'you/Chandler Bing', 'it', 's01_e05_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', None, 's01_e05_c02_u007')",
+            "('be', 'it/(breaking up)', 'so hard', 's01_e05_c02_u007')",
+            "('sit', 'you/Chandler Bing', None, 's01_e05_c02_u007')",
+            "('sit', 'you/Chandler Bing', 'with her', 's01_e05_c02_u007')",
+            "('have', 'she/Janice', 'no idea', 's01_e05_c02_u007')",
+            "('happen', 'what', None, 's01_e05_c02_u007')",
+            "('get', 'you/Chandler Bing', 'up the courage', 's01_e05_c02_u007')",
+            "('be', 'there', 'the horrible awkward moment', 's01_e05_c02_u007')",
+            "('hand', 'you/Chandler Bing', 'the note', 's01_e05_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('break up', 'you/Chandler Bing', 'with her', 's01_e05_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'a man', 's01_e05_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('stop', 'you/Chandler Bing', 'calling', 's01_e05_c02_u008')",
+            "('call', 'you/Chandler Bing', None, 's01_e05_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e05_c02_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'you/Chandler Bing', None, 's01_e05_c02_u009')",
+            "('do', 'I/Phoebe Buffay', 'it', 's01_e05_c02_u009')",
+            "('do', 'I/Phoebe Buffay', 'with you', 's01_e05_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', \"she'd feel like we're ganging up on her\", 's01_e05_c02_u010')",
+            "('feel', 'she/Janice', \"like we're ganging up on her\", 's01_e05_c02_u010')",
+            "('gang up', 'we/Chandler Bing+Phoebe Buffay', 'on her', 's01_e05_c02_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('mean', 'I/Phoebe Buffay', \"you break up with Janice and I'll break up with Tony\", 's01_e05_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('break up', 'you/Chandler Bing', 'with Janice', 's01_e05_c02_u011')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('break up', 'I/Phoebe Buffay', 'with Tony', 's01_e05_c02_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('break up', 'you/Phoebe Buffay', 'with Tony', 's01_e05_c02_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e05_c02_u014')",
+            "('be', 'he/Tony', 'sweet', 's01_e05_c02_u014')",
+            "('be', 'it', 'not fun anymore', 's01_e05_c02_u014')",
+            "('be', 'it', 'me', 's01_e05_c02_u014')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'you/Monica Geller', None, 's01_e05_c02_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want', 'anybody', 'anything else', 's01_e05_c02_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Rachel Green', 'a wonderful, nutty, chocolatey kind of a cakey pie thing', 's01_e05_c02_u016')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'fine', 's01_e05_c02_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'what', 'the matter', 's01_e05_c02_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'my father', 's01_e05_c02_u018')",
+            "('want', \"he/Rachel's father\", 'to give me a Mercedes convertible', 's01_e05_c02_u018')",
+            "('give', \"he/Rachel's father\", 'a Mercedes convertible', 's01_e05_c02_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('burn up', \"he/Rachel's father\", 'me', 's01_e05_c02_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'a Mercedes', 's01_e05_c02_u020')",
+            "('move back', 'I/Rachel Green', 'home', 's01_e05_c02_u020')",
+            "('be', 'it', 'horrible', 's01_e05_c02_u020')",
+            "('call', \"he/Rachel's father\", \"me 'young lady'\", 's01_e05_c02_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/Chandler Bing', 'when my father calls me that', 's01_e05_c02_u021')",
+            "('call', 'my father', \"me 'that'\", 's01_e05_c02_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('give', \"he/Rachel's father\", 'you that whole \"You\\'re-not-up-to-this\" thing', 's01_e05_c02_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u023",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'the extended disco version', 's01_e05_c02_u023')",
+            "('get', 'I/Rachel Green', 'with three choruses of \"You\\'ll never make it on your own\"', 's01_e05_c02_u023')",
+            "('make', 'you/Rachel Green', 'it', 's01_e05_c02_u023')",
+            "('make', 'you/Rachel Green', 'on your own', 's01_e05_c02_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u029",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('agree', 'being dumped by you', 'with her', 's01_e05_c02_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u030",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani', 'over there', 's01_e05_c02_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u031",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'to seem too eager', 's01_e05_c02_u031')",
+            "('seem', 'I/Joey Tribbiani', 'too eager', 's01_e05_c02_u031')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('seem', 'that', 'pretty cool', 's01_e05_c02_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u033",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Angela Delveccio', 'good', 's01_e05_c02_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u034",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wear', 'I/Angela Delveccio', 'a dress that accents my boobs', 's01_e05_c02_u034')",
+            "('accent', 'that', 'my boobs', 's01_e05_c02_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u035",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'you/Angela Delveccio', None, 's01_e05_c02_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u037",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'you/Rachel Green', 'what', 's01_e05_c02_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u039",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('want to hear', 'you/Rachel Green', 'a freaky coincidence', 's01_e05_c02_u039')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('do laundry', 'who', 'laundry', 's01_e05_c02_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u041",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that', 'not clear', 's01_e05_c02_u041')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('join', 'I/Ross Geller', 'you both', 's01_e05_c02_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u042",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'you/Ross Geller', 'a laundry room', 's01_e05_c02_u042')",
+            "('have', 'you/Ross Geller', 'in your building', 's01_e05_c02_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u043",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a laundry room', 's01_e05_c02_u043')",
+            "('have', 'I/Ross Geller', 'in my building', 's01_e05_c02_u043')",
+            "('be', 'there', 'a rat problem', 's01_e05_c02_u043')",
+            "('be attracted', 'they/rats', 'to the dryer sheets', 's01_e05_c02_u043')",
+            "('go', 'they/rats', 'in', 's01_e05_c02_u043')",
+            "('come', 'they/rats', 'out all fluffy', 's01_e05_c02_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u046",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('forget', 'you/Joey Tribbiani', 'it', 's01_e05_c02_u046')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'I/Angela Delveccio', 'with Bob', 's01_e05_c02_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u048",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'Bob', 'great', 's01_e05_c02_u048')",
+            "('be', 'he/Bob', 'smart', 's01_e05_c02_u048')",
+            "('be', 'he/Bob', 'sophisticated', 's01_e05_c02_u048')",
+            "('have', 'he/Bob', 'a real job', 's01_e05_c02_u048')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani', 'on three auditions a month', 's01_e05_c02_u048')",
+            "('call', 'you/Joey Tribbiani', 'yourself an actor', 's01_e05_c02_u048')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u049",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'we/Joey Tribbiani+Angela Delveccio', 'great', 's01_e05_c02_u049')",
+            "('be great', 'we/Joey Tribbiani+Angela Delveccio', 'at the fun stuff', 's01_e05_c02_u049')",
+            "('talk', 'we/Joey Tribbiani+Angela Delveccio', None, 's01_e05_c02_u049')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u050",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'you/Joey Tribbiani', \"let's just be friends\", 's01_e05_c02_u050')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'we/Joey Tribbiani+Angela Delveccio', 'friends', 's01_e05_c02_u050')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('guess', 'you/Joey Tribbiani', 'what', 's01_e05_c02_u050')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u052",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'we/Joey Tribbiani+Angela Delveccio', 'just friends', 's01_e05_c02_u052')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c02_u053",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'the four of us', 'out', 's01_e05_c02_u053')",
+            "('have', 'the four of us', 'dinner', 's01_e05_c02_u053')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'you/Angela Delveccio', None, 's01_e05_c02_u053')"
+          ]
+        }
+      ]
+    }
+  ]
+}

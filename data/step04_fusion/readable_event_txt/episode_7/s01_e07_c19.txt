@@ -1,0 +1,17 @@
+event_id: s01_e07_c19_u001_e1
+utterance_id: s01_e07_c19_u001
+  tuple: ('be', 'we/Jill Goodacre+Chandler Bing', 'here for an hour doing this', 's01_e07_c19_u001')
+  tuple: ('do', 'we/Jill Goodacre+Chandler Bing', 'this', 's01_e07_c19_u001')
+
+event_id: s01_e07_c19_u001_e2
+utterance_id: s01_e07_c19_u001
+  tuple: ('watch', 'you/Chandler Bing', None, 's01_e07_c19_u001')
+
+event_id: s01_e07_c19_u001_e3
+utterance_id: s01_e07_c19_u001
+  tuple: ('be', 'it', 'easy', 's01_e07_c19_u001')
+
+event_id: s01_e07_c19_u005_e1
+utterance_id: s01_e07_c19_u005
+  tuple: ('whip', 'you/Chandler Bing', 'it', 's01_e07_c19_u005')
+

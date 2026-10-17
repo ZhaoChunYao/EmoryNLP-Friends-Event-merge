@@ -1,0 +1,27 @@
+('do', 'you/Chandler Bing', 'this', 's01_e05_c11_u001')
+[s01_e05_c11_u001] Phoebe Buffay: Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.
+
+('be', 'it/(breaking up)', 'just like pulling off a Band-aid', 's01_e05_c11_u001')
+[s01_e05_c11_u001] Phoebe Buffay: Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.
+
+('pull', 'you/Chandler Bing', 'off a Band-aid', 's01_e05_c11_u001')
+[s01_e05_c11_u001] Phoebe Buffay: Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.
+
+('expose', 'the wound', None, 's01_e05_c11_u001')
+[s01_e05_c11_u001] Phoebe Buffay: Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.
+
+('go', 'we/(Chandler Bing+Janice Litman Goralnik)', None, 's01_e05_c11_u003')
+[s01_e05_c11_u003] Chandler Bing: Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.
+
+('think', 'I/Chandler Bing', 'we should go out anymore', 's01_e05_c11_u003')
+[s01_e05_c11_u003] Chandler Bing: Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.
+
+('go', 'we/(Chandler Bing+Janice Litman Goralnik)', 'out', 's01_e05_c11_u003')
+[s01_e05_c11_u003] Chandler Bing: Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.
+
+('go', 'you/Chandler Bing', None, 's01_e05_c11_u004')
+[s01_e05_c11_u004] Janice Litman Goralnik: All right. Well, there you go. Stop it, stop it, stop it.
+
+('stop', 'you/Chandler Bing', 'it', 's01_e05_c11_u004')
+[s01_e05_c11_u004] Janice Litman Goralnik: All right. Well, there you go. Stop it, stop it, stop it.
+

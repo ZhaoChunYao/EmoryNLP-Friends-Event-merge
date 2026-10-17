@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaks only in short, task-focused lines (“One.” “I bet two dollars.”), folds without banter, and doesn’t engage in social chatter—reserved rather than outgoing."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforward and non-confrontational—mentions he thought the limit was fifty cents, folds politely, gets back in without hostility, and ignores insults from Speaker_02."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Little clear evidence of organization or carelessness; noting the betting limit hints at rule-awareness but is not strong enough to judge."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed and confident under pressure—after being needled, re-enters the hand, calls a $20 raise, and re-raises $25 without signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or dogmatism; actions are standard poker decisions without novel or rigid idea expression."
+  }
+}

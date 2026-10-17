@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker offers a brief greeting and responds to prompts without showing notable outgoingness or withdrawal."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Speaker_01 reports TargetSpeaker has been post-dating Friday numbers (u009), which TargetSpeaker acknowledges as bad (u010), indicating unreliable/dishonest behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Post-dating numbers disrupted Speaker_01’s Weekly Estimated Net Usage Statistics (u011), reflecting careless record-keeping, though TargetSpeaker promises it won’t happen again (u014)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker quickly concedes the behavior is bad (u010), asks if he’s being excused (u012), and reassures it won’t happen again and he doesn’t want to hurt WENUS (u014), showing anxiety/sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete signs of curiosity, inventiveness, or dogmatism appear in this exchange."
+  }
+}

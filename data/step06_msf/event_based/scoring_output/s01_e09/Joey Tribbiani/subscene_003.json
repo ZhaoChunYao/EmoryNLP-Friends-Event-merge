@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Provides brief, factual answers without initiating or elaborating beyond questions asked."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds straightforwardly about modeling and shares information about an available role without boasting or defensiveness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, sensitivity, or marked confidence are evident in the short replies."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or resistance to new ideas appear in the dialogue."
+  }
+}

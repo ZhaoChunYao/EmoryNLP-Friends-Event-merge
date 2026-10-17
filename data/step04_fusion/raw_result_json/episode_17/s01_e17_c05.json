@@ -1,0 +1,283 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u001_e1",
+          "tuples": [
+            "('tell', 'I/Ross Geller', 'you one thing', 's01_e17_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u001_e2",
+          "tuples": [
+            "('mind', 'I/Ross Geller', 'having a piece of this sun-dried tomato business', 's01_e17_c05_u001')",
+            "('have', 'I/Ross Geller', 'a piece of this sun-dried tomato business', 's01_e17_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u001_e3",
+          "tuples": [
+            "('say', 'somebody', 'here is a tomato that looks like a prune', 's01_e17_c05_u001')",
+            "('say', 'somebody', 'to me', 's01_e17_c05_u001')",
+            "('look', 'a tomato', 'like a prune', 's01_e17_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u001_e4",
+          "tuples": [
+            "('say', 'I/Ross Geller', 'get out of my office', 's01_e17_c05_u001')",
+            "('get', 'you/somebody', 'out of my office', 's01_e17_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u002_e1",
+          "tuples": [
+            "('be born', 'I/Ross Geller', None, 's01_e17_c05_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u002_e2",
+          "tuples": [
+            "('freak out', 'you/Jack Geller', None, 's01_e17_c05_u002')",
+            "('freak out', 'you/Jack Geller', 'before I was born', 's01_e17_c05_u002')",
+            "('freak out', 'you/Jack Geller', 'at all', 's01_e17_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u003_e1",
+          "tuples": [
+            "('freak out', 'I/Ross Geller', None, 's01_e17_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u003_e2",
+          "tuples": [
+            "('say', 'I/Ross Geller', None, 's01_e17_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u003_e3",
+          "tuples": [
+            "('come', 'somebody', None, 's01_e17_c05_u003')",
+            "('come', 'somebody', 'to me', 's01_e17_c05_u003')",
+            "('come', 'somebody', 'with the idea', 's01_e17_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u004_e1",
+          "tuples": [
+            "('talk', 'I/Ross Geller', 'about the whole baby thing', 's01_e17_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u004_e2",
+          "tuples": [
+            "('get', 'you/Jack Geller', \"this sort of panicky I'm gonna be a father kind of a thing\", 's01_e17_c05_u004')",
+            "('be', 'I/Jack Geller', 'a father', 's01_e17_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u005_e1",
+          "tuples": [
+            "('do', 'your mother', 'the work', 's01_e17_c05_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u005_e2",
+          "tuples": [
+            "('be', 'I/Jack Geller', None, 's01_e17_c05_u005')",
+            "('be', 'I/Jack Geller', 'with the business', 's01_e17_c05_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u005_e3",
+          "tuples": [
+            "('be', 'I/Jack Geller', None, 's01_e17_c05_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u005_e4",
+          "tuples": [
+            "('be', 'that', 'what this is about', 's01_e17_c05_u005')",
+            "('be', 'this', 'about', 's01_e17_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u006_e1",
+          "tuples": [
+            "('wonder', 'I/Ross Geller', None, 's01_e17_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u007_e1",
+          "tuples": [
+            "('be', 'there', 'time', 's01_e17_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u007_e2",
+          "tuples": [
+            "('make', 'we/Jack Geller & Ross Geller', 'up for that', 's01_e17_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u007_e3",
+          "tuples": [
+            "('do', 'we/Jack Geller & Ross Geller', 'stuff', 's01_e17_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u007_e4",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'to go to that Colonial Williamsburg', 's01_e17_c05_u007')",
+            "('go', 'you/Ross Geller', 'to that Colonial Williamsburg', 's01_e17_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u007_e5",
+          "tuples": [
+            "('do', 'we/Jack Geller & Ross Geller', 'that', 's01_e17_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u008_e1",
+          "tuples": [
+            "('need', 'I/Ross Geller', 'when you started to feel like a father', 's01_e17_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u008_e2",
+          "tuples": [
+            "('start', 'you/Jack Geller', 'to feel like a father', 's01_e17_c05_u008')",
+            "('feel', 'you/Jack Geller', 'like a father', 's01_e17_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u009",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u009_e1",
+          "tuples": [
+            "('guess', 'I/Jack Geller', 'it must have been the day after you were born', 's01_e17_c05_u009')",
+            "('be', 'it', 'the day after you were born', 's01_e17_c05_u009')",
+            "('be', 'it', 'after you were born', 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e2",
+          "tuples": [
+            "('be born', 'you/Ross Geller', None, 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e3",
+          "tuples": [
+            "('be', 'we/Jack Geller & Judy Geller', 'in the hospital room', 's01_e17_c05_u009')",
+            "('be', 'your mother', 'asleep', 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e4",
+          "tuples": [
+            "('bring', 'they/hospital staff', 'in you', 's01_e17_c05_u009')",
+            "('give', 'they/hospital staff', 'you', 's01_e17_c05_u009')",
+            "('give', 'they/hospital staff', 'to me', 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e5",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'this ugly little red thing', 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e6",
+          "tuples": [
+            "('grab', 'you/Ross Geller', 'my finger', 's01_e17_c05_u009')",
+            "('grab', 'you/Ross Geller', 'with your whole fist', 's01_e17_c05_u009')",
+            "('squeeze', 'you/Ross Geller', 'it', 's01_e17_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c05_u009_e7",
+          "tuples": [
+            "('know', 'I/Jack Geller', None, 's01_e17_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u011_e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'to go to Williamsburg', 's01_e17_c05_u011')",
+            "('go', 'you/Ross Geller', 'to Williamsburg', 's01_e17_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u012",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u012_e1",
+          "tuples": [
+            "('go', 'we/Jack Geller & Ross Geller', 'to Williamsburg', 's01_e17_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c05_u013",
+      "events": [
+        {
+          "event_id": "s01_e17_c05_u013_e1",
+          "tuples": [
+            "('eat', 'you/Jack Geller', 'your fish', 's01_e17_c05_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

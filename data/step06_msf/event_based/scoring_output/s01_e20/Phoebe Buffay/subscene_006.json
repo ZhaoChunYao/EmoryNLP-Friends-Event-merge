@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, task-focused replies (“Radiator.” “Rdtor.”) without showing sociability or energy."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He cooperatively provides answers to Speaker_04’s prompts and adjusts his response to fit the five-letter constraint."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He pays attention to the detail of “Five letters” and efficiently revises “Radiator” to a shortened form to meet the constraint."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional volatility in his short, neutral contributions."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He uses an inventive approach by abbreviating “radiator” to “rdtor” to satisfy the puzzle’s constraint."
+  }
+}

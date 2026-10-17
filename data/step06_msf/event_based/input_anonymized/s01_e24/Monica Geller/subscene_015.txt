@@ -1,0 +1,17 @@
+Episode: s01_e24
+Scene: s01_e24_c06
+Subscene index for speaker: 015
+Main speaker: TargetSpeaker
+UID span: s01_e24_c06_u016 → s01_e24_c06_u021
+Peak window: 16 → 16
+
+Dialogue:
+  [s01_e24_c06_u016] Speaker_01: No, I'm just....
+  [s01_e24_c06_u017]
+  1. Speaker_02 says there may be someone else Speaker_01 is interested in.
+  [s01_e24_c06_u018] Speaker_01: Wha...
+  [s01_e24_c06_u019] TargetSpeaker: Is there? Is there someone else?
+  [s01_e24_c06_u020]
+  1. Speaker_01 says there is currently no one else Speaker_01 is interested in besides Speaker_03.
+  [s01_e24_c06_u021]
+  1. TargetSpeaker says Speaker_01 is currently dumping Speaker_03, who is TargetSpeaker's brother.

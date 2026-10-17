@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge by telling others to wait and engages in playful back-and-forth about tone, showing assertive, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a helpful solution by stating he and another have a copy of the apartment key and responds to urgency by agreeing to go faster after the sharper tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Knows about and is ready to use a spare key to solve the problem and organizes the moment by telling others to wait."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and jokes about tone despite the urgent situation (oven on, ticket issue), showing confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear sign of curiosity or unconventional ideas; solution is straightforward rather than inventive."
+  }
+}

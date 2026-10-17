@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates conversation and asks follow-up questions about Speaker_02’s appearance, engaging others (“Which?”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Thanks Speaker_01 and then defers by saying he’ll shut up now, showing politeness and accommodation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating either organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "A brief speculative worry that Speaker_02 could be “horribly” something, but quickly stops; insufficient evidence of sustained anxiety or strong calmness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking what Speaker_02 looks like and considering possibilities about them."
+  }
+}

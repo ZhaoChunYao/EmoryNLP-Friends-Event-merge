@@ -1,0 +1,60 @@
+{
+  "total_subscenes": 1493,
+  "traits": {
+    "EXT": {
+      "trait": "EXT",
+      "count_pos1": 798,
+      "count_0": 572,
+      "count_neg1": 123,
+      "pct_pos1": 0.534494,
+      "pct_0": 0.383121,
+      "pct_neg1": 0.082384,
+      "mean_score": 0.45211,
+      "signal_rate": 0.616879
+    },
+    "AGR": {
+      "trait": "AGR",
+      "count_pos1": 776,
+      "count_0": 290,
+      "count_neg1": 427,
+      "pct_pos1": 0.519759,
+      "pct_0": 0.19424,
+      "pct_neg1": 0.286001,
+      "mean_score": 0.233758,
+      "signal_rate": 0.80576
+    },
+    "CON": {
+      "trait": "CON",
+      "count_pos1": 376,
+      "count_0": 929,
+      "count_neg1": 188,
+      "pct_pos1": 0.251842,
+      "pct_0": 0.622237,
+      "pct_neg1": 0.125921,
+      "mean_score": 0.125921,
+      "signal_rate": 0.377763
+    },
+    "NEU": {
+      "trait": "NEU",
+      "count_pos1": 359,
+      "count_0": 550,
+      "count_neg1": 584,
+      "pct_pos1": 0.240455,
+      "pct_0": 0.368386,
+      "pct_neg1": 0.391159,
+      "mean_score": -0.150703,
+      "signal_rate": 0.631614
+    },
+    "OPN": {
+      "trait": "OPN",
+      "count_pos1": 440,
+      "count_0": 907,
+      "count_neg1": 146,
+      "pct_pos1": 0.294709,
+      "pct_0": 0.607502,
+      "pct_neg1": 0.09779,
+      "mean_score": 0.196919,
+      "signal_rate": 0.392498
+    }
+  }
+}

@@ -1,0 +1,250 @@
+event_id: s01_e03_c12_u001_e1
+utterance_id: s01_e03_c12_u001
+  tuple: ('be', 'that sock', 'old', 's01_e03_c12_u001')
+
+event_id: s01_e03_c12_u001_e2
+utterance_id: s01_e03_c12_u001
+  tuple: ('have', 'I/Chandler Bing', 'a sock', 's01_e03_c12_u001')
+  tuple: ('have', 'I/Chandler Bing', 'on my hand', 's01_e03_c12_u001')
+  tuple: ('have', 'I/Chandler Bing', 'for thirty years', 's01_e03_c12_u001')
+
+event_id: s01_e03_c12_u001_e3
+utterance_id: s01_e03_c12_u001
+  tuple: ('be', 'it/that sock', None, 's01_e03_c12_u001')
+  tuple: ('talk', 'it/that sock', None, 's01_e03_c12_u001')
+
+event_id: s01_e03_c12_u002_e1
+utterance_id: s01_e03_c12_u002
+  tuple: ('think', 'I/Ross Geller', "it is time to change somebody's nicotine patch", 's01_e03_c12_u002')
+  tuple: ('be', 'it/impersonal', 'time', 's01_e03_c12_u002')
+  tuple: ('change', 'I/Ross Geller', "somebody's nicotine patch", 's01_e03_c12_u002')
+
+event_id: s01_e03_c12_u003_e1
+utterance_id: s01_e03_c12_u003
+  tuple: ('be', 'Joey Tribbiani', None, 's01_e03_c12_u003')
+
+event_id: s01_e03_c12_u004_e1
+utterance_id: s01_e03_c12_u004
+  tuple: ('eat', 'Joey Tribbiani', 'my last stick of gum', 's01_e03_c12_u004')
+
+event_id: s01_e03_c12_u004_e2
+utterance_id: s01_e03_c12_u004
+  tuple: ('kill', 'I/Chandler Bing', 'him/Joey Tribbiani', 's01_e03_c12_u004')
+
+event_id: s01_e03_c12_u004_e3
+utterance_id: s01_e03_c12_u004
+  tuple: ('think', 'you/#ALL#', 'that was wrong', 's01_e03_c12_u004')
+  tuple: ('be', 'that/(killing him)', 'wrong', 's01_e03_c12_u004')
+
+event_id: s01_e03_c12_u005_e1
+utterance_id: s01_e03_c12_u005
+  tuple: ('think', 'I/Rachel Green', 'he is across the hall', 's01_e03_c12_u005')
+  tuple: ('be', 'he/Joey Tribbiani', None, 's01_e03_c12_u005')
+  tuple: ('be', 'he/Joey Tribbiani', 'across the hall', 's01_e03_c12_u005')
+
+event_id: s01_e03_c12_u007_e1
+utterance_id: s01_e03_c12_u007
+  tuple: ('go', 'you/Monica Geller', None, 's01_e03_c12_u007')
+
+event_id: s01_e03_c12_u008_e1
+utterance_id: s01_e03_c12_u008
+  tuple: ('be', 'I/Chandler Bing', 'alive', 's01_e03_c12_u008')
+  tuple: ('be', 'I/Chandler Bing', 'with pleasure', 's01_e03_c12_u008')
+
+event_id: s01_e03_c12_u009_e1
+utterance_id: s01_e03_c12_u009
+  tuple: ('have', 'you/Phoebe Buffay', 'the rest of that Pop-Tart', 's01_e03_c12_u009')
+
+event_id: s01_e03_c12_u010_e1
+utterance_id: s01_e03_c12_u010
+  tuple: ('want', 'anyone', 'the rest of this Pop-Tart', 's01_e03_c12_u010')
+
+event_id: s01_e03_c12_u012_e1
+utterance_id: s01_e03_c12_u012
+  tuple: ('give', 'those stupid soda people', 'me seven thousand dollars', 's01_e03_c12_u012')
+  tuple: ('give', 'those stupid soda people', 'for the thumb', 's01_e03_c12_u012')
+
+event_id: s01_e03_c12_u013_e1
+utterance_id: s01_e03_c12_u013
+  tuple: ('be', 'you/Phoebe Buffay', 'kidding', 's01_e03_c12_u013')
+
+event_id: s01_e03_c12_u014_e1
+utterance_id: s01_e03_c12_u014
+  tuple: ('step', 'I/Phoebe Buffay', None, 's01_e03_c12_u014')
+  tuple: ('step', 'I/Phoebe Buffay', 'in gum', 's01_e03_c12_u014')
+
+event_id: s01_e03_c12_u014_e2
+utterance_id: s01_e03_c12_u014
+  tuple: ('be', 'what/(situation)', 'up', 's01_e03_c12_u014')
+  tuple: ('be', 'what/(situation)', 'with the universe', 's01_e03_c12_u014')
+
+event_id: s01_e03_c12_u015_e1
+utterance_id: s01_e03_c12_u015
+  tuple: ('go', 'what', 'on', 's01_e03_c12_u015')
+
+event_id: s01_e03_c12_u016_e1
+utterance_id: s01_e03_c12_u016
+  tuple: ('think', 'I/Monica Geller', 'it is nice when we are all here together', 's01_e03_c12_u016')
+  tuple: ('be', 'it/(everyone here together)', 'nice', 's01_e03_c12_u016')
+  tuple: ('be', 'we/#ALL#', 'here', 's01_e03_c12_u016')
+  tuple: ('be', 'we/#ALL#', 'together', 's01_e03_c12_u016')
+
+event_id: s01_e03_c12_u017_e1
+utterance_id: s01_e03_c12_u017
+  tuple: ('get', 'everyone', 'to wear their underwear', 's01_e03_c12_u017')
+  tuple: ('wear', 'everyone', 'their underwear', 's01_e03_c12_u017')
+
+event_id: s01_e03_c12_u021_e1
+utterance_id: s01_e03_c12_u021
+  tuple: ('be', 'that/(sound)', 'Lambchop', 's01_e03_c12_u021')
+
+event_id: s01_e03_c12_u022_e1
+utterance_id: s01_e03_c12_u022
+  tuple: ('talk', 'we/#ALL#', None, 's01_e03_c12_u022')
+
+event_id: s01_e03_c12_u023_e1
+utterance_id: s01_e03_c12_u023
+  tuple: ('get', 'I/Phoebe Buffay', 'a deja vu', 's01_e03_c12_u023')
+  tuple: ('be', 'I/Phoebe Buffay', None, 's01_e03_c12_u023')
+
+event_id: s01_e03_c12_u024_e1
+utterance_id: s01_e03_c12_u024
+  tuple: ('talk', 'we/#ALL#', None, 's01_e03_c12_u024')
+
+event_id: s01_e03_c12_u025_e1
+utterance_id: s01_e03_c12_u025
+  tuple: ('be', 'it/(deja vu)', None, 's01_e03_c12_u025')
+
+event_id: s01_e03_c12_u026_e1
+utterance_id: s01_e03_c12_u026
+  tuple: ('be', 'it/(topic)', 'about Alan', 's01_e03_c12_u026')
+
+event_id: s01_e03_c12_u026_e2
+utterance_id: s01_e03_c12_u026
+  tuple: ('be', 'there', 'something', 's01_e03_c12_u026')
+  tuple: ('know', 'you/#ALL#', 'something', 's01_e03_c12_u026')
+
+event_id: s01_e03_c12_u026_e3
+utterance_id: s01_e03_c12_u026
+  tuple: ('be', 'there', 'no easy way', 's01_e03_c12_u026')
+  tuple: ('say', 'I/Monica Geller', 'this', 's01_e03_c12_u026')
+
+event_id: s01_e03_c12_u026_e4
+utterance_id: s01_e03_c12_u026
+  tuple: ('decide', 'I/Monica Geller', 'to break up with Alan', 's01_e03_c12_u026')
+  tuple: ('break', 'I/Monica Geller', 'up', 's01_e03_c12_u026')
+  tuple: ('break', 'I/Monica Geller', 'with Alan', 's01_e03_c12_u026')
+
+event_id: s01_e03_c12_u028_e1
+utterance_id: s01_e03_c12_u028
+  tuple: ('be', 'there', 'somebody else', 's01_e03_c12_u028')
+
+event_id: s01_e03_c12_u029_e1
+utterance_id: s01_e03_c12_u029
+  tuple: ('be', 'it/(situation)', None, 's01_e03_c12_u029')
+  tuple: ('change', 'things', None, 's01_e03_c12_u029')
+
+event_id: s01_e03_c12_u029_e2
+utterance_id: s01_e03_c12_u029
+  tuple: ('change', 'people', None, 's01_e03_c12_u029')
+
+event_id: s01_e03_c12_u030_e1
+utterance_id: s01_e03_c12_u030
+  tuple: ('change', 'we/#ALL#', None, 's01_e03_c12_u030')
+
+event_id: s01_e03_c12_u031_e1
+utterance_id: s01_e03_c12_u031
+  tuple: ('be', 'that/(relationship)', 'it', 's01_e03_c12_u031')
+  tuple: ('be', 'it/(relationship)', 'over', 's01_e03_c12_u031')
+
+event_id: s01_e03_c12_u032_e1
+utterance_id: s01_e03_c12_u032
+  tuple: ('know', 'you/#ALL#', None, 's01_e03_c12_u032')
+
+event_id: s01_e03_c12_u032_e2
+utterance_id: s01_e03_c12_u032
+  tuple: ('let', 'you/anyone', 'down your guard', 's01_e03_c12_u032')
+
+event_id: s01_e03_c12_u032_e3
+utterance_id: s01_e03_c12_u032
+  tuple: ('start', 'you/anyone', 'to really care about someone', 's01_e03_c12_u032')
+  tuple: ('care', 'you/anyone', None, 's01_e03_c12_u032')
+  tuple: ('care', 'you/anyone', 'about someone', 's01_e03_c12_u032')
+
+event_id: s01_e03_c12_u033_e1
+utterance_id: s01_e03_c12_u033
+  tuple: ('go', 'I/Monica Geller', 'on pretending', 's01_e03_c12_u033')
+  tuple: ('pretend', 'I/Monica Geller', None, 's01_e03_c12_u033')
+
+event_id: s01_e03_c12_u035_e1
+utterance_id: s01_e03_c12_u035
+  tuple: ('be', 'that/(pretending)', 'fair to me', 's01_e03_c12_u035')
+  tuple: ('be', 'it/(pretending)', 'fair to Alan', 's01_e03_c12_u035')
+  tuple: ('be', 'it/(pretending)', 'fair to you', 's01_e03_c12_u035')
+
+event_id: s01_e03_c12_u036_e1
+utterance_id: s01_e03_c12_u036
+  tuple: ('want', 'who', 'fair', 's01_e03_c12_u036')
+
+event_id: s01_e03_c12_u036_e2
+utterance_id: s01_e03_c12_u036
+  tuple: ('want', 'I/Ross Geller', 'things back', 's01_e03_c12_u036')
+  tuple: ('be', 'they/(things)', None, 's01_e03_c12_u036')
+
+event_id: s01_e03_c12_u036_e3
+utterance_id: s01_e03_c12_u036
+  tuple: ('know', 'you/Monica Geller', None, 's01_e03_c12_u036')
+
+event_id: s01_e03_c12_u037_e1
+utterance_id: s01_e03_c12_u037
+  tuple: ('be', 'I/Monica Geller', 'sorry', 's01_e03_c12_u037')
+
+event_id: s01_e03_c12_u038_e1
+utterance_id: s01_e03_c12_u038
+  tuple: ('be', 'she/Monica Geller', 'sorry', 's01_e03_c12_u038')
+
+event_id: s01_e03_c12_u038_e2
+utterance_id: s01_e03_c12_u038
+  tuple: ('feel', 'I/Chandler Bing', 'better', 's01_e03_c12_u038')
+
+event_id: s01_e03_c12_u039_e1
+utterance_id: s01_e03_c12_u039
+  tuple: ('believe', 'I/Rachel Green', 'this/(breakup)', 's01_e03_c12_u039')
+
+event_id: s01_e03_c12_u039_e2
+utterance_id: s01_e03_c12_u039
+  tuple: ('come', 'the holidays', 'up', 's01_e03_c12_u039')
+
+event_id: s01_e03_c12_u039_e3
+utterance_id: s01_e03_c12_u039
+  tuple: ('want', 'I/Rachel Green', 'him/Alan to meet my family', 's01_e03_c12_u039')
+  tuple: ('meet', 'him/Alan', 'my family', 's01_e03_c12_u039')
+
+event_id: s01_e03_c12_u039_e4
+utterance_id: s01_e03_c12_u039
+  tuple: ('mean', 'I/Rachel Green', None, 's01_e03_c12_u039')
+
+event_id: s01_e03_c12_u040_e1
+utterance_id: s01_e03_c12_u040
+  tuple: ('meet', 'I/Monica Geller', 'someone else', 's01_e03_c12_u040')
+
+event_id: s01_e03_c12_u040_e2
+utterance_id: s01_e03_c12_u040
+  tuple: ('be', 'there', 'other Alans', 's01_e03_c12_u040')
+
+event_id: s01_e03_c12_u042_e1
+utterance_id: s01_e03_c12_u042
+  tuple: ('be', 'you guys/#ALL#', 'okay', 's01_e03_c12_u042')
+
+event_id: s01_e03_c12_u043_e1
+utterance_id: s01_e03_c12_u043
+  tuple: ('be', 'we/#ALL#', 'fine', 's01_e03_c12_u043')
+
+event_id: s01_e03_c12_u043_e2
+utterance_id: s01_e03_c12_u043
+  tuple: ('need', 'we/#ALL#', 'a little time', 's01_e03_c12_u043')
+
+event_id: s01_e03_c12_u044_e1
+utterance_id: s01_e03_c12_u044
+  tuple: ('understand', 'I/Monica Geller', None, 's01_e03_c12_u044')
+

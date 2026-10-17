@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively engages others: calls out 'excuse me' to get the server’s attention (u018) and then identifies themselves (u020), taking the lead in the interaction and ordering (u027)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses polite approach ('excuse me', u018) and cooperates smoothly with partner and server, cueing 'Your turn' (u024) and placing a straightforward order (u027) without conflict."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Acts decisively and efficiently: after confirming they know what they want (u025), promptly orders two Caffe Lattes (u027) and manages turn-taking ('Your turn', u024)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses worry/negativity about the place: 'we have our answer about how bad the place is' (u010) and suggests it could be a sign to eat at home (u012)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Shows cautious, dismissive stance toward the unfamiliar place—calling it bad (u010) and preferring to retreat ('a sign… to eat at home', u012)—over curiosity."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, factual updates and a terse reply to teasing (“No, why?”), showing a reserved, non-expansive style rather than outgoing talkativeness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures others that Speaker_01 will be fine and checks on their well-being (“How are you doing right now?”), showing concern and support."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides organized, sequential updates about what was found (“K,” “M,” “O” tiles) and clear status reports, and is noted as having ‘came through and did what [he] had to do.’"
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident, offering reassurance (“going to be fine”) and matter-of-fact updates without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, inventiveness, or openness to new ideas in the dialogue."
+  }
+}

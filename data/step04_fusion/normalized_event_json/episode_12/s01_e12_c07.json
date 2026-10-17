@@ -1,0 +1,265 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c07_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u001_e1",
+          "tuples": [
+            "('believe', 'I/(Rachel Green)', \"you don't want to know\", 's01_e12_c07_u001')",
+            "('want', 'you/(Ross Geller)', 'to know', 's01_e12_c07_u001')",
+            "('know', 'you/(Ross Geller)', None, 's01_e12_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u001_e2",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', None, 's01_e12_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u001_e3",
+          "tuples": [
+            "('know', 'the doctor', None, 's01_e12_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u001_e4",
+          "tuples": [
+            "('know', 'Carol', None, 's01_e12_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u001_e5",
+          "tuples": [
+            "('know', 'Susan', None, 's01_e12_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u002",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u002_e1",
+          "tuples": [
+            "('know', 'Monica', None, 's01_e12_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u003_e1",
+          "tuples": [
+            "('know', 'you/(Monica Geller)', None, 's01_e12_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u003_e2",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e12_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u004_e1",
+          "tuples": [
+            "('call', 'Carol', 'me', 's01_e12_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u004_e2",
+          "tuples": [
+            "('thank', 'Carol', 'me', 's01_e12_c07_u004')",
+            "('thank', 'Carol', 'for the lasagna', 's01_e12_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u004_e3",
+          "tuples": [
+            "('ask', 'I/(Monica Geller)', None, 's01_e12_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u004_e4",
+          "tuples": [
+            "('tell', 'she/(Carol)', 'me', 's01_e12_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u005_e1",
+          "tuples": [
+            "('be', 'it/(the baby)', 'what', 's01_e12_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u006_e1",
+          "tuples": [
+            "('know', 'he/(Joey Tribbiani)', None, 's01_e12_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u007_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'sorry', 's01_e12_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u007_e2",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'excited about being an aunt', 's01_e12_c07_u007')",
+            "('be', 'I/(Monica Geller)', 'an aunt', 's01_e12_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u014",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u014_e1",
+          "tuples": [
+            "('be', 'what', 'the matter', 's01_e12_c07_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u015",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u015_e1",
+          "tuples": [
+            "('be', 'I/(Phoebe Buffay)', 'sorry', 's01_e12_c07_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u015_e2",
+          "tuples": [
+            "('be', 'I/(Phoebe Buffay)', 'out of sorts', 's01_e12_c07_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u016",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u016_e1",
+          "tuples": [
+            "('get', 'we/(Customer)', 'some cappuccino', 's01_e12_c07_u016')",
+            "('get', 'we/(Customer)', 'over here', 's01_e12_c07_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u017",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u017_e1",
+          "tuples": [
+            "('be', 'that/(the cappuccino order)', 'me', 's01_e12_c07_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u018",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u018_e1",
+          "tuples": [
+            "('close', 'that table place', None, 's01_e12_c07_u018')",
+            "('close', 'that table place', 'at 7', 's01_e12_c07_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c07_u018_e2",
+          "tuples": [
+            "('come', 'you/(Chandler Bing)', None, 's01_e12_c07_u018')",
+            "('come', 'you/(Chandler Bing)', 'on', 's01_e12_c07_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u020",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u020_e1",
+          "tuples": [
+            "('be', 'it/(unknown)', 'what', 's01_e12_c07_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u021",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u021_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', 'Paolo', 's01_e12_c07_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u022",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u022_e1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'familiar', 's01_e12_c07_u022')",
+            "('be', 'I/(Ross Geller)', 'familiar with his work', 's01_e12_c07_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u023",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u023_e1",
+          "tuples": [
+            "('make', 'he/(Paolo)', 'a move on me', 's01_e12_c07_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c07_u025",
+      "events": [
+        {
+          "event_id": "s01_e12_c07_u025_e1",
+          "tuples": [
+            "('be', 'store', 'open', 's01_e12_c07_u025')"
+          ]
+        }
+      ]
+    }
+  ]
+}

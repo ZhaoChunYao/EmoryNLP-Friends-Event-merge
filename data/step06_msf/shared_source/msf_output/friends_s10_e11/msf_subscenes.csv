@@ -1,0 +1,862 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e11,s10_e11_c01,Joey Tribbiani,0,0,0,0,1,2,s10_e11_c01_u001,s10_e11_c01_u006,"[s10_e11_c01_u001] Joey Tribbiani: Hey guys!
+[s10_e11_c01_u002] Monica Geller: Hey, let me tell them!
+[s10_e11_c01_u003] Joey Tribbiani: Sure.
+[s10_e11_c01_u004] Monica Geller: Joey is gonna be a celebrity guest on a game show!
+[s10_e11_c01_u005] Phoebe Buffay: Great!
+[s10_e11_c01_u006] Ross Geller: Really? Which one?"
+s10_e11,s10_e11_c01,Joey Tribbiani,1,12,12,11,13,2,s10_e11_c01_u012,s10_e11_c01_u018,"[s10_e11_c01_u012] Chandler Bing: What did I marry into?
+[s10_e11_c01_u013] Joey Tribbiani: Would you guys want to come down tomorrow and watch me tape the show?
+[s10_e11_c01_u014] Monica Geller: Oh, I can't. We're throwing Phoebe a bachelorette party.
+[s10_e11_c01_u015] Phoebe Buffay: Yeah, sorry boys, this ride's closing.
+[s10_e11_c01_u016] Ross Geller: Oh, and Chandler and I have this stupid college alumni thing. I can't believe you get to meet Donny Osmond.
+[s10_e11_c01_u017] Joey Tribbiani: Seriously?
+[s10_e11_c01_u018] Ross Geller: Yeah-uh!"
+s10_e11,s10_e11_c01,Monica Geller,0,0,10,0,11,3,s10_e11_c01_u001,s10_e11_c01_u016,"[s10_e11_c01_u001] Joey Tribbiani: Hey guys!
+[s10_e11_c01_u002] Monica Geller: Hey, let me tell them!
+[s10_e11_c01_u003] Joey Tribbiani: Sure.
+[s10_e11_c01_u004] Monica Geller: Joey is gonna be a celebrity guest on a game show!
+[s10_e11_c01_u005] Phoebe Buffay: Great!
+[s10_e11_c01_u006] Ross Geller: Really? Which one?
+[s10_e11_c01_u007] Monica Geller: Ohh! Fish, seaweed, a sunken ship.
+[s10_e11_c01_u008] Ross Geller: Things you find in the ocean, You're gonna be on ""Pyramid""!!
+[s10_e11_c01_u009] Monica Geller: Oh, that was our favourite game show ever!
+[s10_e11_c01_u010] Ross Geller: Except for ""Match game""...
+[s10_e11_c01_u011] Monica Geller: Or ""Win, Lose or Draw"".
+[s10_e11_c01_u012] Chandler Bing: What did I marry into?
+[s10_e11_c01_u013] Joey Tribbiani: Would you guys want to come down tomorrow and watch me tape the show?
+[s10_e11_c01_u014] Monica Geller: Oh, I can't. We're throwing Phoebe a bachelorette party.
+[s10_e11_c01_u015] Phoebe Buffay: Yeah, sorry boys, this ride's closing.
+[s10_e11_c01_u016] Ross Geller: Oh, and Chandler and I have this stupid college alumni thing. I can't believe you get to meet Donny Osmond."
+s10_e11,s10_e11_c01,Monica Geller,1,16,20,15,20,3,s10_e11_c01_u016,s10_e11_c01_u025,"[s10_e11_c01_u016] Ross Geller: Oh, and Chandler and I have this stupid college alumni thing. I can't believe you get to meet Donny Osmond.
+[s10_e11_c01_u017] Joey Tribbiani: Seriously?
+[s10_e11_c01_u018] Ross Geller: Yeah-uh!
+[s10_e11_c01_u019] Monica Geller: Ross and I always wanted to be Donny and Marie.
+[s10_e11_c01_u020] Chandler Bing: You guys just keep getting cooler and cooler!
+[s10_e11_c01_u021] Monica Geller: Yeah, we used to perform for our family and friends.
+[s10_e11_c01_u022] Rachel Green: Oh God, that's right. I blocked that out.
+[s10_e11_c01_u023] Monica Geller: ""I'm a little bit country""...
+[s10_e11_c01_u024] Ross Geller: ""...and I'm a little bit rock 'n' roll""!
+[s10_e11_c01_u025] Chandler Bing: I'm leaving you."
+s10_e11,s10_e11_c01,Ross Geller,0,3,7,2,8,3,s10_e11_c01_u003,s10_e11_c01_u013,"[s10_e11_c01_u003] Joey Tribbiani: Sure.
+[s10_e11_c01_u004] Monica Geller: Joey is gonna be a celebrity guest on a game show!
+[s10_e11_c01_u005] Phoebe Buffay: Great!
+[s10_e11_c01_u006] Ross Geller: Really? Which one?
+[s10_e11_c01_u007] Monica Geller: Ohh! Fish, seaweed, a sunken ship.
+[s10_e11_c01_u008] Ross Geller: Things you find in the ocean, You're gonna be on ""Pyramid""!!
+[s10_e11_c01_u009] Monica Geller: Oh, that was our favourite game show ever!
+[s10_e11_c01_u010] Ross Geller: Except for ""Match game""...
+[s10_e11_c01_u011] Monica Geller: Or ""Win, Lose or Draw"".
+[s10_e11_c01_u012] Chandler Bing: What did I marry into?
+[s10_e11_c01_u013] Joey Tribbiani: Would you guys want to come down tomorrow and watch me tape the show?"
+s10_e11,s10_e11_c01,Ross Geller,1,13,15,12,16,2,s10_e11_c01_u013,s10_e11_c01_u021,"[s10_e11_c01_u013] Joey Tribbiani: Would you guys want to come down tomorrow and watch me tape the show?
+[s10_e11_c01_u014] Monica Geller: Oh, I can't. We're throwing Phoebe a bachelorette party.
+[s10_e11_c01_u015] Phoebe Buffay: Yeah, sorry boys, this ride's closing.
+[s10_e11_c01_u016] Ross Geller: Oh, and Chandler and I have this stupid college alumni thing. I can't believe you get to meet Donny Osmond.
+[s10_e11_c01_u017] Joey Tribbiani: Seriously?
+[s10_e11_c01_u018] Ross Geller: Yeah-uh!
+[s10_e11_c01_u019] Monica Geller: Ross and I always wanted to be Donny and Marie.
+[s10_e11_c01_u020] Chandler Bing: You guys just keep getting cooler and cooler!
+[s10_e11_c01_u021] Monica Geller: Yeah, we used to perform for our family and friends."
+s10_e11,s10_e11_c02,Chandler Bing,0,0,16,0,17,3,s10_e11_c02_u001,s10_e11_c02_u022,"[s10_e11_c02_u001] Ross Geller: So weird to see all these people again... Oh my God, look, there's Geoffrey Cleric.
+[s10_e11_c02_u002] Chandler Bing: Who?
+[s10_e11_c02_u003] Ross Geller: He was roommates with John Rosoff. He went out with Andrea Tamburino. She dumped him for Michael Skloff.
+[s10_e11_c02_u004] Chandler Bing: Did I go to this school?
+[s10_e11_c02_u005] Ross Geller: Hey, there's Missy Goldberg. You gotta remember her.
+[s10_e11_c02_u006] Chandler Bing: Sure, nice.
+[s10_e11_c02_u007] Ross Geller: Dude. You're married to my sister.
+[s10_e11_c02_u008] Chandler Bing: You're right, by saying ""nice"" I'm virtually licking her.
+[s10_e11_c02_u009] Ross Geller: Hey, I hear she's single again, d'you think I should ask her out?
+[s10_e11_c02_u010] Chandler Bing: Are you asking permission to break the pact?
+[s10_e11_c02_u011] Ross Geller: Yes please.
+[s10_e11_c02_u012] Ross Geller: Hey. Hey, check out the flyers for the band. I made 'em on a Macintosh in the computer room!
+[s10_e11_c02_u013] Chandler Bing: Awesome, the name really stands out.
+[s10_e11_c02_u014] Ross Geller: Thanks to a little something called ""Helvetica Bold 24 point""!
+[s10_e11_c02_u015] Chandler Bing: Man, we're gonna rock that Asian student union!
+[s10_e11_c02_u016] Missy Goldberg: Hey guys!
+[s10_e11_c02_u017] Chandler Bing: Hey!
+[s10_e11_c02_u018] Ross Geller: Hey, Missy...
+[s10_e11_c02_u019] Chandler Bing: You know, our band is playing on Friday.
+[s10_e11_c02_u020] Ross Geller: Yeah, yeah. You should come check us out. We're called ""Way! No Way!"".
+[s10_e11_c02_u021] Missy Goldberg: No way!
+[s10_e11_c02_u022] Chandler Bing, Ross Geller: Way!"
+s10_e11,s10_e11_c02,Chandler Bing,1,21,40,20,40,3,s10_e11_c02_u021,s10_e11_c02_u045,"[s10_e11_c02_u021] Missy Goldberg: No way!
+[s10_e11_c02_u022] Chandler Bing, Ross Geller: Way!
+[s10_e11_c02_u023] Missy Goldberg: Right. I'll be there.
+[s10_e11_c02_u024] Chandler Bing: Fresh!
+[s10_e11_c02_u025] Ross Geller: Boss!
+[s10_e11_c02_u026] Chandler Bing: Mint!
+[s10_e11_c02_u027] Ross Geller: She's gone.
+[s10_e11_c02_u028] Chandler Bing: I know it. You know, I'm totally gonna ask her out.
+[s10_e11_c02_u029] Ross Geller: Dude, I was gonna ask her out.
+[s10_e11_c02_u030] Chandler Bing: I said it first, bro.
+[s10_e11_c02_u031] Ross Geller: Well, I thought it first, Holmes.
+[s10_e11_c02_u032] Chandler Bing: Look, if you did...
+[s10_e11_c02_u033] Ross Geller: Woha! Wait... What are we doing? What we have is too important to mess it up over some girl. I mean, we can get laid anytime we want.
+[s10_e11_c02_u034] Chandler Bing: Totally. I had sex in High school...
+[s10_e11_c02_u035] Ross Geller: Me too. I'm good at it.
+[s10_e11_c02_u036] Chandler Bing: All right, I'd say we make a pact. Neither of us will go out with Missy Goldberg.
+[s10_e11_c02_u037] Ross Geller: You got it.
+[s10_e11_c02_u038] Chandler Bing: All right, so that's Missy Goldberg, Phoebe Cates and Molly Ringwald, who neither of us can go out with.
+[s10_e11_c02_u039] Ross Geller: Those are the pacts!
+[s10_e11_c02_u040] Chandler Bing: Oh, and Sheena Easton. But we probably couldn't get her anyway.
+[s10_e11_c02_u041] Ross Geller: Oh, oh... maybe not you!
+[s10_e11_c02_u042] Chandler Bing: Well, I officially give you permission to break the pact.
+[s10_e11_c02_u043] Ross Geller: Thank you. All right, here I go. Hey, remember how scary it used to be going up to girls in college?
+[s10_e11_c02_u044] Chandler Bing: Your hands are shaking.
+[s10_e11_c02_u045] Ross Geller: I know, and I can't stop sweating."
+s10_e11,s10_e11_c02,Missy Goldberg,0,18,20,17,21,2,s10_e11_c02_u018,s10_e11_c02_u026,"[s10_e11_c02_u018] Ross Geller: Hey, Missy...
+[s10_e11_c02_u019] Chandler Bing: You know, our band is playing on Friday.
+[s10_e11_c02_u020] Ross Geller: Yeah, yeah. You should come check us out. We're called ""Way! No Way!"".
+[s10_e11_c02_u021] Missy Goldberg: No way!
+[s10_e11_c02_u022] Chandler Bing, Ross Geller: Way!
+[s10_e11_c02_u023] Missy Goldberg: Right. I'll be there.
+[s10_e11_c02_u024] Chandler Bing: Fresh!
+[s10_e11_c02_u025] Ross Geller: Boss!
+[s10_e11_c02_u026] Chandler Bing: Mint!"
+s10_e11,s10_e11_c02,Ross Geller,0,0,11,0,12,3,s10_e11_c02_u001,s10_e11_c02_u017,"[s10_e11_c02_u001] Ross Geller: So weird to see all these people again... Oh my God, look, there's Geoffrey Cleric.
+[s10_e11_c02_u002] Chandler Bing: Who?
+[s10_e11_c02_u003] Ross Geller: He was roommates with John Rosoff. He went out with Andrea Tamburino. She dumped him for Michael Skloff.
+[s10_e11_c02_u004] Chandler Bing: Did I go to this school?
+[s10_e11_c02_u005] Ross Geller: Hey, there's Missy Goldberg. You gotta remember her.
+[s10_e11_c02_u006] Chandler Bing: Sure, nice.
+[s10_e11_c02_u007] Ross Geller: Dude. You're married to my sister.
+[s10_e11_c02_u008] Chandler Bing: You're right, by saying ""nice"" I'm virtually licking her.
+[s10_e11_c02_u009] Ross Geller: Hey, I hear she's single again, d'you think I should ask her out?
+[s10_e11_c02_u010] Chandler Bing: Are you asking permission to break the pact?
+[s10_e11_c02_u011] Ross Geller: Yes please.
+[s10_e11_c02_u012] Ross Geller: Hey. Hey, check out the flyers for the band. I made 'em on a Macintosh in the computer room!
+[s10_e11_c02_u013] Chandler Bing: Awesome, the name really stands out.
+[s10_e11_c02_u014] Ross Geller: Thanks to a little something called ""Helvetica Bold 24 point""!
+[s10_e11_c02_u015] Chandler Bing: Man, we're gonna rock that Asian student union!
+[s10_e11_c02_u016] Missy Goldberg: Hey guys!
+[s10_e11_c02_u017] Chandler Bing: Hey!"
+s10_e11,s10_e11_c02,Ross Geller,1,13,13,12,14,2,s10_e11_c02_u013,s10_e11_c02_u019,"[s10_e11_c02_u013] Chandler Bing: Awesome, the name really stands out.
+[s10_e11_c02_u014] Ross Geller: Thanks to a little something called ""Helvetica Bold 24 point""!
+[s10_e11_c02_u015] Chandler Bing: Man, we're gonna rock that Asian student union!
+[s10_e11_c02_u016] Missy Goldberg: Hey guys!
+[s10_e11_c02_u017] Chandler Bing: Hey!
+[s10_e11_c02_u018] Ross Geller: Hey, Missy...
+[s10_e11_c02_u019] Chandler Bing: You know, our band is playing on Friday."
+s10_e11,s10_e11_c02,Ross Geller,2,15,17,14,18,2,s10_e11_c02_u015,s10_e11_c02_u023,"[s10_e11_c02_u015] Chandler Bing: Man, we're gonna rock that Asian student union!
+[s10_e11_c02_u016] Missy Goldberg: Hey guys!
+[s10_e11_c02_u017] Chandler Bing: Hey!
+[s10_e11_c02_u018] Ross Geller: Hey, Missy...
+[s10_e11_c02_u019] Chandler Bing: You know, our band is playing on Friday.
+[s10_e11_c02_u020] Ross Geller: Yeah, yeah. You should come check us out. We're called ""Way! No Way!"".
+[s10_e11_c02_u021] Missy Goldberg: No way!
+[s10_e11_c02_u022] Chandler Bing, Ross Geller: Way!
+[s10_e11_c02_u023] Missy Goldberg: Right. I'll be there."
+s10_e11,s10_e11_c02,Ross Geller,3,22,40,21,40,3,s10_e11_c02_u022,s10_e11_c02_u045,"[s10_e11_c02_u022] Chandler Bing, Ross Geller: Way!
+[s10_e11_c02_u023] Missy Goldberg: Right. I'll be there.
+[s10_e11_c02_u024] Chandler Bing: Fresh!
+[s10_e11_c02_u025] Ross Geller: Boss!
+[s10_e11_c02_u026] Chandler Bing: Mint!
+[s10_e11_c02_u027] Ross Geller: She's gone.
+[s10_e11_c02_u028] Chandler Bing: I know it. You know, I'm totally gonna ask her out.
+[s10_e11_c02_u029] Ross Geller: Dude, I was gonna ask her out.
+[s10_e11_c02_u030] Chandler Bing: I said it first, bro.
+[s10_e11_c02_u031] Ross Geller: Well, I thought it first, Holmes.
+[s10_e11_c02_u032] Chandler Bing: Look, if you did...
+[s10_e11_c02_u033] Ross Geller: Woha! Wait... What are we doing? What we have is too important to mess it up over some girl. I mean, we can get laid anytime we want.
+[s10_e11_c02_u034] Chandler Bing: Totally. I had sex in High school...
+[s10_e11_c02_u035] Ross Geller: Me too. I'm good at it.
+[s10_e11_c02_u036] Chandler Bing: All right, I'd say we make a pact. Neither of us will go out with Missy Goldberg.
+[s10_e11_c02_u037] Ross Geller: You got it.
+[s10_e11_c02_u038] Chandler Bing: All right, so that's Missy Goldberg, Phoebe Cates and Molly Ringwald, who neither of us can go out with.
+[s10_e11_c02_u039] Ross Geller: Those are the pacts!
+[s10_e11_c02_u040] Chandler Bing: Oh, and Sheena Easton. But we probably couldn't get her anyway.
+[s10_e11_c02_u041] Ross Geller: Oh, oh... maybe not you!
+[s10_e11_c02_u042] Chandler Bing: Well, I officially give you permission to break the pact.
+[s10_e11_c02_u043] Ross Geller: Thank you. All right, here I go. Hey, remember how scary it used to be going up to girls in college?
+[s10_e11_c02_u044] Chandler Bing: Your hands are shaking.
+[s10_e11_c02_u045] Ross Geller: I know, and I can't stop sweating."
+s10_e11,s10_e11_c03,Donny Osmond,0,0,3,0,4,3,s10_e11_c03_u001,s10_e11_c03_u009,"[s10_e11_c03_u001] Voice: Five! Four! Three! Applause!
+[s10_e11_c03_u002] Donny Osmond: Yeah! Welcome, it is Soap Opera week here on Pyramid, let's meet our contestants. First, Gene Lester is a database specialist, he's gonna be playing with ""Days of Our Life's"" star Joey Tribbiani!
+[s10_e11_c03_u003] Joey Tribbiani: I know it could be intimidating for regular people to be around celebrities but... relax, I'm just like you! Only better looking and richer.
+[s10_e11_c03_u004] Donny Osmond: ...should be playing with the star of ""General Hospital"" Leslie Charleson. Welcome everybody. Good luck to all of you. Let's play Pyramid. All right? Now... we flipped a coin before the show, Gene, you won the toss, so you're gonna start. Which category would you like?
+[s10_e11_c03_u005] Gene: I'll take ""You crossed the line"".
+[s10_e11_c03_u006] Donny Osmond: You crossed the line. Joey, describe for Gene these things that have lines. Give me 20 seconds on the clock, please. Ready, go!
+[s10_e11_c03_u007] Joey Tribbiani: Uhm... ok. It's a store, like a supermarket. Oh! I see-I see what I did. Yeah, ok, ok, uhm... I'm writing in my...
+[s10_e11_c03_u008] Gene: Diary.
+[s10_e11_c03_u009] Joey Tribbiani: Noo, more like a notebook... Damn it! Oh, if I'm building an house, the plan isn't called the 'shmoo-print'... Can't say that either? Woha... hey... In high school, I once had sex with a girl right in the middle of the..."
+s10_e11,s10_e11_c03,Gene,0,3,6,2,6,2,s10_e11_c03_u003,s10_e11_c03_u011,"[s10_e11_c03_u003] Joey Tribbiani: I know it could be intimidating for regular people to be around celebrities but... relax, I'm just like you! Only better looking and richer.
+[s10_e11_c03_u004] Donny Osmond: ...should be playing with the star of ""General Hospital"" Leslie Charleson. Welcome everybody. Good luck to all of you. Let's play Pyramid. All right? Now... we flipped a coin before the show, Gene, you won the toss, so you're gonna start. Which category would you like?
+[s10_e11_c03_u005] Gene: I'll take ""You crossed the line"".
+[s10_e11_c03_u006] Donny Osmond: You crossed the line. Joey, describe for Gene these things that have lines. Give me 20 seconds on the clock, please. Ready, go!
+[s10_e11_c03_u007] Joey Tribbiani: Uhm... ok. It's a store, like a supermarket. Oh! I see-I see what I did. Yeah, ok, ok, uhm... I'm writing in my...
+[s10_e11_c03_u008] Gene: Diary.
+[s10_e11_c03_u009] Joey Tribbiani: Noo, more like a notebook... Damn it! Oh, if I'm building an house, the plan isn't called the 'shmoo-print'... Can't say that either? Woha... hey... In high school, I once had sex with a girl right in the middle of the...
+[s10_e11_c03_u010] Gene: Cafeteria.
+[s10_e11_c03_u011] Joey Tribbiani: Yeah! But that is not what they're looking for. OOOH!"
+s10_e11,s10_e11_c03,Joey Tribbiani,0,2,2,1,3,2,s10_e11_c03_u002,s10_e11_c03_u008,"[s10_e11_c03_u002] Donny Osmond: Yeah! Welcome, it is Soap Opera week here on Pyramid, let's meet our contestants. First, Gene Lester is a database specialist, he's gonna be playing with ""Days of Our Life's"" star Joey Tribbiani!
+[s10_e11_c03_u003] Joey Tribbiani: I know it could be intimidating for regular people to be around celebrities but... relax, I'm just like you! Only better looking and richer.
+[s10_e11_c03_u004] Donny Osmond: ...should be playing with the star of ""General Hospital"" Leslie Charleson. Welcome everybody. Good luck to all of you. Let's play Pyramid. All right? Now... we flipped a coin before the show, Gene, you won the toss, so you're gonna start. Which category would you like?
+[s10_e11_c03_u005] Gene: I'll take ""You crossed the line"".
+[s10_e11_c03_u006] Donny Osmond: You crossed the line. Joey, describe for Gene these things that have lines. Give me 20 seconds on the clock, please. Ready, go!
+[s10_e11_c03_u007] Joey Tribbiani: Uhm... ok. It's a store, like a supermarket. Oh! I see-I see what I did. Yeah, ok, ok, uhm... I'm writing in my...
+[s10_e11_c03_u008] Gene: Diary."
+s10_e11,s10_e11_c03,Joey Tribbiani,1,4,6,3,6,3,s10_e11_c03_u004,s10_e11_c03_u011,"[s10_e11_c03_u004] Donny Osmond: ...should be playing with the star of ""General Hospital"" Leslie Charleson. Welcome everybody. Good luck to all of you. Let's play Pyramid. All right? Now... we flipped a coin before the show, Gene, you won the toss, so you're gonna start. Which category would you like?
+[s10_e11_c03_u005] Gene: I'll take ""You crossed the line"".
+[s10_e11_c03_u006] Donny Osmond: You crossed the line. Joey, describe for Gene these things that have lines. Give me 20 seconds on the clock, please. Ready, go!
+[s10_e11_c03_u007] Joey Tribbiani: Uhm... ok. It's a store, like a supermarket. Oh! I see-I see what I did. Yeah, ok, ok, uhm... I'm writing in my...
+[s10_e11_c03_u008] Gene: Diary.
+[s10_e11_c03_u009] Joey Tribbiani: Noo, more like a notebook... Damn it! Oh, if I'm building an house, the plan isn't called the 'shmoo-print'... Can't say that either? Woha... hey... In high school, I once had sex with a girl right in the middle of the...
+[s10_e11_c03_u010] Gene: Cafeteria.
+[s10_e11_c03_u011] Joey Tribbiani: Yeah! But that is not what they're looking for. OOOH!"
+s10_e11,s10_e11_c04,Phoebe Buffay,0,0,5,0,5,3,s10_e11_c04_u001,s10_e11_c04_u010,"[s10_e11_c04_u001] Phoebe Buffay: Thank you so much for this.
+[s10_e11_c04_u002] Rachel Green: Oh, d'you like it?
+[s10_e11_c04_u003] Phoebe Buffay: Oh my God, it's all so elegant! When's the dirty stuff starting?
+[s10_e11_c04_u004] Rachel Green: What?
+[s10_e11_c04_u005] Phoebe Buffay: You know, the strippers, and the guys dancing, and you know, pee-pee's flying about.
+[s10_e11_c04_u006] Rachel Green: Pheebs, I... there isn't gonna be any flying about! We actually thought we were a little too mature for stuff like that.
+[s10_e11_c04_u007] Phoebe Buffay: Oh, ok. I see what you're doing, that's fine. This is all there is, just tea, uh, ok. Hmmmm... raunchy!
+[s10_e11_c04_u008] Rachel Green: Seriously Pheebs, it's not gonna be that kind of a party.
+[s10_e11_c04_u009] Phoebe Buffay: Really? So this is... this is my big send off in the married life? Rachel this is the only bachelorette party I'm ever gonna have! I've got a big wad of ones in my purse! Really? I mean, really? It's just tea?
+[s10_e11_c04_u010] Rachel Green: Nooo! Phoebe, of course there is more! I mean, I'll just go and talk to Monica and get an ETA on the pee-pee's!"
+s10_e11,s10_e11_c04,Rachel Green,0,0,5,0,5,3,s10_e11_c04_u001,s10_e11_c04_u010,"[s10_e11_c04_u001] Phoebe Buffay: Thank you so much for this.
+[s10_e11_c04_u002] Rachel Green: Oh, d'you like it?
+[s10_e11_c04_u003] Phoebe Buffay: Oh my God, it's all so elegant! When's the dirty stuff starting?
+[s10_e11_c04_u004] Rachel Green: What?
+[s10_e11_c04_u005] Phoebe Buffay: You know, the strippers, and the guys dancing, and you know, pee-pee's flying about.
+[s10_e11_c04_u006] Rachel Green: Pheebs, I... there isn't gonna be any flying about! We actually thought we were a little too mature for stuff like that.
+[s10_e11_c04_u007] Phoebe Buffay: Oh, ok. I see what you're doing, that's fine. This is all there is, just tea, uh, ok. Hmmmm... raunchy!
+[s10_e11_c04_u008] Rachel Green: Seriously Pheebs, it's not gonna be that kind of a party.
+[s10_e11_c04_u009] Phoebe Buffay: Really? So this is... this is my big send off in the married life? Rachel this is the only bachelorette party I'm ever gonna have! I've got a big wad of ones in my purse! Really? I mean, really? It's just tea?
+[s10_e11_c04_u010] Rachel Green: Nooo! Phoebe, of course there is more! I mean, I'll just go and talk to Monica and get an ETA on the pee-pee's!"
+s10_e11,s10_e11_c05,Donny Osmond,0,0,0,0,1,2,s10_e11_c05_u001,s10_e11_c05_u006,"[s10_e11_c05_u001] Donny Osmond: Now Gene I must remind you, you need all six of these to stay in the game, all right? Describe for Joey things you find in your refrigerator.
+[s10_e11_c05_u002] Joey Tribbiani: Ahaha, he might as well just give us the points.
+[s10_e11_c05_u003] Donny Osmond: Give me twenty seconds on the clock. Ready? Go!
+[s10_e11_c05_u004] Gene: You put this in your coffee.
+[s10_e11_c05_u005] Joey Tribbiani: A spoon. Your hands. Your face!
+[s10_e11_c05_u006] Gene: It's white!"
+s10_e11,s10_e11_c05,Donny Osmond,1,22,24,21,25,2,s10_e11_c05_u022,s10_e11_c05_u030,"[s10_e11_c05_u022] Joey Tribbiani: Relish!
+[s10_e11_c05_u023] Gene: Stop!
+[s10_e11_c05_u024] Joey Tribbiani: Oh.
+[s10_e11_c05_u025] Donny Osmond: Oh, time's up! Joey! You were, uh, almost on a roll there...
+[s10_e11_c05_u026] Joey Tribbiani: Yeah...
+[s10_e11_c05_u027] Donny Osmond: Uh, Gene, you're gonna have a chance to go to the winner circle in the second half. But right now Henrietta you are going to the winner circle to try your luck for ten thousand dollars, right after this, don't go away.
+[s10_e11_c05_u028] Stage Manager: And we're out!
+[s10_e11_c05_u029] Joey Tribbiani: Oh, so we didn't win, but it's fun to play the game, right?
+[s10_e11_c05_u030] Gene: Hey! I got a kid starting college. I've to get surgery on my knee, you just lost me ten grand!"
+s10_e11,s10_e11_c05,Gene,0,1,20,0,21,3,s10_e11_c05_u001,s10_e11_c05_u026,"[s10_e11_c05_u001] Donny Osmond: Now Gene I must remind you, you need all six of these to stay in the game, all right? Describe for Joey things you find in your refrigerator.
+[s10_e11_c05_u002] Joey Tribbiani: Ahaha, he might as well just give us the points.
+[s10_e11_c05_u003] Donny Osmond: Give me twenty seconds on the clock. Ready? Go!
+[s10_e11_c05_u004] Gene: You put this in your coffee.
+[s10_e11_c05_u005] Joey Tribbiani: A spoon. Your hands. Your face!
+[s10_e11_c05_u006] Gene: It's white!
+[s10_e11_c05_u007] Joey Tribbiani: Paper, snow, a ghost!
+[s10_e11_c05_u008] Gene: It's heavier then milk!
+[s10_e11_c05_u009] Joey Tribbiani: A rock, a dog, the earth.
+[s10_e11_c05_u010] Gene: Pass!
+[s10_e11_c05_u011] Gene: You put this on a sandwich.
+[s10_e11_c05_u012] Joey Tribbiani: Salami, anchovies, jam!
+[s10_e11_c05_u013] Gene: It's white!
+[s10_e11_c05_u014] Joey Tribbiani: Paper, snow, a ghost!
+[s10_e11_c05_u015] Gene: It's made from eggs!
+[s10_e11_c05_u016] Joey Tribbiani: Chickens?
+[s10_e11_c05_u017] Gene: Pass!
+[s10_e11_c05_u018] Joey Tribbiani: Oh!
+[s10_e11_c05_u019] Gene: You put this on a hamburger!
+[s10_e11_c05_u020] Joey Tribbiani: Ketchup!
+[s10_e11_c05_u021] Gene: Yes!
+[s10_e11_c05_u022] Joey Tribbiani: Relish!
+[s10_e11_c05_u023] Gene: Stop!
+[s10_e11_c05_u024] Joey Tribbiani: Oh.
+[s10_e11_c05_u025] Donny Osmond: Oh, time's up! Joey! You were, uh, almost on a roll there...
+[s10_e11_c05_u026] Joey Tribbiani: Yeah..."
+s10_e11,s10_e11_c05,Gene,1,27,28,26,28,2,s10_e11_c05_u027,s10_e11_c05_u033,"[s10_e11_c05_u027] Donny Osmond: Uh, Gene, you're gonna have a chance to go to the winner circle in the second half. But right now Henrietta you are going to the winner circle to try your luck for ten thousand dollars, right after this, don't go away.
+[s10_e11_c05_u028] Stage Manager: And we're out!
+[s10_e11_c05_u029] Joey Tribbiani: Oh, so we didn't win, but it's fun to play the game, right?
+[s10_e11_c05_u030] Gene: Hey! I got a kid starting college. I've to get surgery on my knee, you just lost me ten grand!
+[s10_e11_c05_u031] Joey Tribbiani: Oh, wow! I'm so sorry, ok? I promise, we'll do better next time!
+[s10_e11_c05_u032] Gene: Well, I will, because I won't be playing with you.
+[s10_e11_c05_u033] Joey Tribbiani: Hey, you know, some of those are pretty hard! Like why would there be a ghost in my fridge? . Yeah!"
+s10_e11,s10_e11_c05,Joey Tribbiani,0,0,28,0,28,3,s10_e11_c05_u001,s10_e11_c05_u033,"[s10_e11_c05_u001] Donny Osmond: Now Gene I must remind you, you need all six of these to stay in the game, all right? Describe for Joey things you find in your refrigerator.
+[s10_e11_c05_u002] Joey Tribbiani: Ahaha, he might as well just give us the points.
+[s10_e11_c05_u003] Donny Osmond: Give me twenty seconds on the clock. Ready? Go!
+[s10_e11_c05_u004] Gene: You put this in your coffee.
+[s10_e11_c05_u005] Joey Tribbiani: A spoon. Your hands. Your face!
+[s10_e11_c05_u006] Gene: It's white!
+[s10_e11_c05_u007] Joey Tribbiani: Paper, snow, a ghost!
+[s10_e11_c05_u008] Gene: It's heavier then milk!
+[s10_e11_c05_u009] Joey Tribbiani: A rock, a dog, the earth.
+[s10_e11_c05_u010] Gene: Pass!
+[s10_e11_c05_u011] Gene: You put this on a sandwich.
+[s10_e11_c05_u012] Joey Tribbiani: Salami, anchovies, jam!
+[s10_e11_c05_u013] Gene: It's white!
+[s10_e11_c05_u014] Joey Tribbiani: Paper, snow, a ghost!
+[s10_e11_c05_u015] Gene: It's made from eggs!
+[s10_e11_c05_u016] Joey Tribbiani: Chickens?
+[s10_e11_c05_u017] Gene: Pass!
+[s10_e11_c05_u018] Joey Tribbiani: Oh!
+[s10_e11_c05_u019] Gene: You put this on a hamburger!
+[s10_e11_c05_u020] Joey Tribbiani: Ketchup!
+[s10_e11_c05_u021] Gene: Yes!
+[s10_e11_c05_u022] Joey Tribbiani: Relish!
+[s10_e11_c05_u023] Gene: Stop!
+[s10_e11_c05_u024] Joey Tribbiani: Oh.
+[s10_e11_c05_u025] Donny Osmond: Oh, time's up! Joey! You were, uh, almost on a roll there...
+[s10_e11_c05_u026] Joey Tribbiani: Yeah...
+[s10_e11_c05_u027] Donny Osmond: Uh, Gene, you're gonna have a chance to go to the winner circle in the second half. But right now Henrietta you are going to the winner circle to try your luck for ten thousand dollars, right after this, don't go away.
+[s10_e11_c05_u028] Stage Manager: And we're out!
+[s10_e11_c05_u029] Joey Tribbiani: Oh, so we didn't win, but it's fun to play the game, right?
+[s10_e11_c05_u030] Gene: Hey! I got a kid starting college. I've to get surgery on my knee, you just lost me ten grand!
+[s10_e11_c05_u031] Joey Tribbiani: Oh, wow! I'm so sorry, ok? I promise, we'll do better next time!
+[s10_e11_c05_u032] Gene: Well, I will, because I won't be playing with you.
+[s10_e11_c05_u033] Joey Tribbiani: Hey, you know, some of those are pretty hard! Like why would there be a ghost in my fridge? . Yeah!"
+s10_e11,s10_e11_c06,Missy Goldberg,0,0,10,0,10,3,s10_e11_c06_u001,s10_e11_c06_u015,"[s10_e11_c06_u001] Ross Geller: So, Saturday night!
+[s10_e11_c06_u002] Missy Goldberg: I'd love to!
+[s10_e11_c06_u003] Ross Geller: Great!
+[s10_e11_c06_u004] Missy Goldberg: So how come it took you so long to ask me out?
+[s10_e11_c06_u005] Ross Geller: Oh, well, uh, this is gonna sound kinda silly, but, do you remember my roommate Chandler Bing?
+[s10_e11_c06_u006] Missy Goldberg: Sure, he was in your ""band""?
+[s10_e11_c06_u007] Ross Geller: It's been sixteen years but the air quotes still hurt.
+[s10_e11_c06_u008] Missy Goldberg: Sorry.
+[s10_e11_c06_u009] Ross Geller: That's ok. Uh, anyway, well he and I both really liked you a lot, uhm, but we didn't want anything to jeopardize our friendship, so we kinda made a pact, that neither of us could ask you out!
+[s10_e11_c06_u010] Missy Goldberg: Really?
+[s10_e11_c06_u011] Ross Geller: Yeah, why?
+[s10_e11_c06_u012] Missy Goldberg: Well, Chandler and I used to make out! A lot!
+[s10_e11_c06_u013] Ross Geller: You did?
+[s10_e11_c06_u014] Missy Goldberg: Yeah. We'd go to the science lab after hours!
+[s10_e11_c06_u015] Ross Geller: AND ON MY TURF?"
+s10_e11,s10_e11_c06,Ross Geller,0,0,10,0,10,3,s10_e11_c06_u001,s10_e11_c06_u015,"[s10_e11_c06_u001] Ross Geller: So, Saturday night!
+[s10_e11_c06_u002] Missy Goldberg: I'd love to!
+[s10_e11_c06_u003] Ross Geller: Great!
+[s10_e11_c06_u004] Missy Goldberg: So how come it took you so long to ask me out?
+[s10_e11_c06_u005] Ross Geller: Oh, well, uh, this is gonna sound kinda silly, but, do you remember my roommate Chandler Bing?
+[s10_e11_c06_u006] Missy Goldberg: Sure, he was in your ""band""?
+[s10_e11_c06_u007] Ross Geller: It's been sixteen years but the air quotes still hurt.
+[s10_e11_c06_u008] Missy Goldberg: Sorry.
+[s10_e11_c06_u009] Ross Geller: That's ok. Uh, anyway, well he and I both really liked you a lot, uhm, but we didn't want anything to jeopardize our friendship, so we kinda made a pact, that neither of us could ask you out!
+[s10_e11_c06_u010] Missy Goldberg: Really?
+[s10_e11_c06_u011] Ross Geller: Yeah, why?
+[s10_e11_c06_u012] Missy Goldberg: Well, Chandler and I used to make out! A lot!
+[s10_e11_c06_u013] Ross Geller: You did?
+[s10_e11_c06_u014] Missy Goldberg: Yeah. We'd go to the science lab after hours!
+[s10_e11_c06_u015] Ross Geller: AND ON MY TURF?"
+s10_e11,s10_e11_c07,Man,0,2,3,1,4,2,s10_e11_c07_u002,s10_e11_c07_u009,"[s10_e11_c07_u002] Rachel Green: Well, he's coming from Jersey, he said he would get here as fast as he could!
+[s10_e11_c07_u003] Monica Geller: Who is it?
+[s10_e11_c07_u004] Man: It's the police!
+[s10_e11_c07_u005] Rachel Green: Uh! The police!
+[s10_e11_c07_u006] Phoebe Buffay: Oh!
+[s10_e11_c07_u007] Man: That's right, it's officer Goodbody.
+[s10_e11_c07_u008] Monica Geller: What's the matter, officer? Has someone been bad?
+[s10_e11_c07_u009] Roy: Whoo, that's a lot of stairs!"
+s10_e11,s10_e11_c07,Monica Geller,0,0,0,0,1,2,s10_e11_c07_u001,s10_e11_c07_u006,"[s10_e11_c07_u001] Monica Geller: Hey, where is this guy, it's been over an hour!
+[s10_e11_c07_u002] Rachel Green: Well, he's coming from Jersey, he said he would get here as fast as he could!
+[s10_e11_c07_u003] Monica Geller: Who is it?
+[s10_e11_c07_u004] Man: It's the police!
+[s10_e11_c07_u005] Rachel Green: Uh! The police!
+[s10_e11_c07_u006] Phoebe Buffay: Oh!"
+s10_e11,s10_e11_c07,Monica Geller,1,6,10,5,11,2,s10_e11_c07_u006,s10_e11_c07_u016,"[s10_e11_c07_u006] Phoebe Buffay: Oh!
+[s10_e11_c07_u007] Man: That's right, it's officer Goodbody.
+[s10_e11_c07_u008] Monica Geller: What's the matter, officer? Has someone been bad?
+[s10_e11_c07_u009] Roy: Whoo, that's a lot of stairs!
+[s10_e11_c07_u010] Roy: Ooh, boy. You should warn people there's no elevator! I should not have had that Mexican food for lunch.
+[s10_e11_c07_u011] Monica Geller: Are you gonna be ok, officer, uhm,...
+[s10_e11_c07_u012] Roy: Goodbody!
+[s10_e11_c07_u013] Monica Geller: ...If-you-say-so.
+[s10_e11_c07_u014] Roy: So where's the young lady who I'm supposed to take downtown!
+[s10_e11_c07_u015] Phoebe Buffay: Oh, God!
+[s10_e11_c07_u016] Roy: All right, somebody show me where to plug in my box, and we'll get this party started! Whaaaa... Here? All right."
+s10_e11,s10_e11_c07,Monica Geller,2,20,21,19,22,2,s10_e11_c07_u020,s10_e11_c07_u027,"[s10_e11_c07_u020] Rachel Green: All right, look, we did not know that you wanted a stripper so we went to the phonebook and we got the first name we could find!
+[s10_e11_c07_u021] Phoebe Buffay: How old is your phonebook?
+[s10_e11_c07_u022] Monica Geller: Oh my God, this man is gonna get naked in my apartment!
+[s10_e11_c07_u023] Phoebe Buffay: Oh God no, I don't wanna see him take his clothes off!
+[s10_e11_c07_u024] Roy: Are you talking about me?
+[s10_e11_c07_u025] Monica Geller: Oh, no! I mean, obviously we want to see you take your clothes off! You big piece of eye candy!
+[s10_e11_c07_u026] Roy: Ok, ok, ladies! Can I have your attention, please? Did someone call for the long arm of the law? I should warn you, I have a concealed weapon! I hope you're familiar with the States penal code, ok, ok, enough teasing. Now for some pleasing!
+[s10_e11_c07_u027] Roy: Whoa, whoa, whoa . She cringed!"
+s10_e11,s10_e11_c07,Phoebe Buffay,0,12,20,11,21,3,s10_e11_c07_u012,s10_e11_c07_u026,"[s10_e11_c07_u012] Roy: Goodbody!
+[s10_e11_c07_u013] Monica Geller: ...If-you-say-so.
+[s10_e11_c07_u014] Roy: So where's the young lady who I'm supposed to take downtown!
+[s10_e11_c07_u015] Phoebe Buffay: Oh, God!
+[s10_e11_c07_u016] Roy: All right, somebody show me where to plug in my box, and we'll get this party started! Whaaaa... Here? All right.
+[s10_e11_c07_u017] Phoebe Buffay: Rachel?
+[s10_e11_c07_u018] Rachel Green: Yeah?
+[s10_e11_c07_u019] Phoebe Buffay: Are you kidding?
+[s10_e11_c07_u020] Rachel Green: All right, look, we did not know that you wanted a stripper so we went to the phonebook and we got the first name we could find!
+[s10_e11_c07_u021] Phoebe Buffay: How old is your phonebook?
+[s10_e11_c07_u022] Monica Geller: Oh my God, this man is gonna get naked in my apartment!
+[s10_e11_c07_u023] Phoebe Buffay: Oh God no, I don't wanna see him take his clothes off!
+[s10_e11_c07_u024] Roy: Are you talking about me?
+[s10_e11_c07_u025] Monica Geller: Oh, no! I mean, obviously we want to see you take your clothes off! You big piece of eye candy!
+[s10_e11_c07_u026] Roy: Ok, ok, ladies! Can I have your attention, please? Did someone call for the long arm of the law? I should warn you, I have a concealed weapon! I hope you're familiar with the States penal code, ok, ok, enough teasing. Now for some pleasing!"
+s10_e11,s10_e11_c07,Phoebe Buffay,1,25,37,24,38,3,s10_e11_c07_u025,s10_e11_c07_u043,"[s10_e11_c07_u025] Monica Geller: Oh, no! I mean, obviously we want to see you take your clothes off! You big piece of eye candy!
+[s10_e11_c07_u026] Roy: Ok, ok, ladies! Can I have your attention, please? Did someone call for the long arm of the law? I should warn you, I have a concealed weapon! I hope you're familiar with the States penal code, ok, ok, enough teasing. Now for some pleasing!
+[s10_e11_c07_u027] Roy: Whoa, whoa, whoa . She cringed!
+[s10_e11_c07_u028] Phoebe Buffay: This is how I look when I'm turned on!
+[s10_e11_c07_u029] Roy: You were talking about me before! Look, I don't need this! I'm outta here! Where's my hat? Look, I've been in this business for a long time!
+[s10_e11_c07_u030] Phoebe Buffay: Shocking!
+[s10_e11_c07_u031] Roy: Now if you just pay me my three hundred dollars, I'll be on my way!
+[s10_e11_c07_u032] Phoebe Buffay: Three hundred dollars, are you kidding?
+[s10_e11_c07_u033] Rachel Green: No, that's ok, let's me just get my check book!
+[s10_e11_c07_u034] Phoebe Buffay: No, you're not gonna pay him, he didn't do anything!
+[s10_e11_c07_u035] Roy: Didn't do anything? I took a bus all the way from Hoboken. I climbed ... I dunno... like a billion stairs... It's not like I can take them two at a time!
+[s10_e11_c07_u036] Phoebe Buffay: I don't care. We're not paying you 300 dollars for this.
+[s10_e11_c07_u037] Roy: Well, look - it's not my fault if you're too uptight to appreciate the male form in all it's glory.
+[s10_e11_c07_u038] Phoebe Buffay: Oh yeah, okay. I'm uptight. Yeah, that's why I don't want to watch a middle aged guy dance around in what I can only assume is a child halloween costume!
+[s10_e11_c07_u039] Roy: I may have borrowed this from my nephew, but let me assure you, what's underneath ... is all man.
+[s10_e11_c07_u040] Phoebe Buffay: I'm sorry, did you say all man or old man?
+[s10_e11_c07_u041] Roy: Oh, you're mean!
+[s10_e11_c07_u042] Monica Geller: Uh, look, officer... uhm Sir...
+[s10_e11_c07_u043] Roy: Damnit. OH! Big surprise! The hunk of beef has feelings!"
+s10_e11,s10_e11_c07,Rachel Green,0,0,1,0,2,2,s10_e11_c07_u001,s10_e11_c07_u007,"[s10_e11_c07_u001] Monica Geller: Hey, where is this guy, it's been over an hour!
+[s10_e11_c07_u002] Rachel Green: Well, he's coming from Jersey, he said he would get here as fast as he could!
+[s10_e11_c07_u003] Monica Geller: Who is it?
+[s10_e11_c07_u004] Man: It's the police!
+[s10_e11_c07_u005] Rachel Green: Uh! The police!
+[s10_e11_c07_u006] Phoebe Buffay: Oh!
+[s10_e11_c07_u007] Man: That's right, it's officer Goodbody."
+s10_e11,s10_e11_c07,Rachel Green,1,15,17,14,18,2,s10_e11_c07_u015,s10_e11_c07_u023,"[s10_e11_c07_u015] Phoebe Buffay: Oh, God!
+[s10_e11_c07_u016] Roy: All right, somebody show me where to plug in my box, and we'll get this party started! Whaaaa... Here? All right.
+[s10_e11_c07_u017] Phoebe Buffay: Rachel?
+[s10_e11_c07_u018] Rachel Green: Yeah?
+[s10_e11_c07_u019] Phoebe Buffay: Are you kidding?
+[s10_e11_c07_u020] Rachel Green: All right, look, we did not know that you wanted a stripper so we went to the phonebook and we got the first name we could find!
+[s10_e11_c07_u021] Phoebe Buffay: How old is your phonebook?
+[s10_e11_c07_u022] Monica Geller: Oh my God, this man is gonna get naked in my apartment!
+[s10_e11_c07_u023] Phoebe Buffay: Oh God no, I don't wanna see him take his clothes off!"
+s10_e11,s10_e11_c07,Roy,0,5,13,4,14,3,s10_e11_c07_u005,s10_e11_c07_u019,"[s10_e11_c07_u005] Rachel Green: Uh! The police!
+[s10_e11_c07_u006] Phoebe Buffay: Oh!
+[s10_e11_c07_u007] Man: That's right, it's officer Goodbody.
+[s10_e11_c07_u008] Monica Geller: What's the matter, officer? Has someone been bad?
+[s10_e11_c07_u009] Roy: Whoo, that's a lot of stairs!
+[s10_e11_c07_u010] Roy: Ooh, boy. You should warn people there's no elevator! I should not have had that Mexican food for lunch.
+[s10_e11_c07_u011] Monica Geller: Are you gonna be ok, officer, uhm,...
+[s10_e11_c07_u012] Roy: Goodbody!
+[s10_e11_c07_u013] Monica Geller: ...If-you-say-so.
+[s10_e11_c07_u014] Roy: So where's the young lady who I'm supposed to take downtown!
+[s10_e11_c07_u015] Phoebe Buffay: Oh, God!
+[s10_e11_c07_u016] Roy: All right, somebody show me where to plug in my box, and we'll get this party started! Whaaaa... Here? All right.
+[s10_e11_c07_u017] Phoebe Buffay: Rachel?
+[s10_e11_c07_u018] Rachel Green: Yeah?
+[s10_e11_c07_u019] Phoebe Buffay: Are you kidding?"
+s10_e11,s10_e11_c07,Roy,1,21,28,20,29,3,s10_e11_c07_u021,s10_e11_c07_u034,"[s10_e11_c07_u021] Phoebe Buffay: How old is your phonebook?
+[s10_e11_c07_u022] Monica Geller: Oh my God, this man is gonna get naked in my apartment!
+[s10_e11_c07_u023] Phoebe Buffay: Oh God no, I don't wanna see him take his clothes off!
+[s10_e11_c07_u024] Roy: Are you talking about me?
+[s10_e11_c07_u025] Monica Geller: Oh, no! I mean, obviously we want to see you take your clothes off! You big piece of eye candy!
+[s10_e11_c07_u026] Roy: Ok, ok, ladies! Can I have your attention, please? Did someone call for the long arm of the law? I should warn you, I have a concealed weapon! I hope you're familiar with the States penal code, ok, ok, enough teasing. Now for some pleasing!
+[s10_e11_c07_u027] Roy: Whoa, whoa, whoa . She cringed!
+[s10_e11_c07_u028] Phoebe Buffay: This is how I look when I'm turned on!
+[s10_e11_c07_u029] Roy: You were talking about me before! Look, I don't need this! I'm outta here! Where's my hat? Look, I've been in this business for a long time!
+[s10_e11_c07_u030] Phoebe Buffay: Shocking!
+[s10_e11_c07_u031] Roy: Now if you just pay me my three hundred dollars, I'll be on my way!
+[s10_e11_c07_u032] Phoebe Buffay: Three hundred dollars, are you kidding?
+[s10_e11_c07_u033] Rachel Green: No, that's ok, let's me just get my check book!
+[s10_e11_c07_u034] Phoebe Buffay: No, you're not gonna pay him, he didn't do anything!"
+s10_e11,s10_e11_c07,Roy,2,30,30,29,31,2,s10_e11_c07_u030,s10_e11_c07_u036,"[s10_e11_c07_u030] Phoebe Buffay: Shocking!
+[s10_e11_c07_u031] Roy: Now if you just pay me my three hundred dollars, I'll be on my way!
+[s10_e11_c07_u032] Phoebe Buffay: Three hundred dollars, are you kidding?
+[s10_e11_c07_u033] Rachel Green: No, that's ok, let's me just get my check book!
+[s10_e11_c07_u034] Phoebe Buffay: No, you're not gonna pay him, he didn't do anything!
+[s10_e11_c07_u035] Roy: Didn't do anything? I took a bus all the way from Hoboken. I climbed ... I dunno... like a billion stairs... It's not like I can take them two at a time!
+[s10_e11_c07_u036] Phoebe Buffay: I don't care. We're not paying you 300 dollars for this."
+s10_e11,s10_e11_c07,Roy,3,32,38,31,38,3,s10_e11_c07_u032,s10_e11_c07_u043,"[s10_e11_c07_u032] Phoebe Buffay: Three hundred dollars, are you kidding?
+[s10_e11_c07_u033] Rachel Green: No, that's ok, let's me just get my check book!
+[s10_e11_c07_u034] Phoebe Buffay: No, you're not gonna pay him, he didn't do anything!
+[s10_e11_c07_u035] Roy: Didn't do anything? I took a bus all the way from Hoboken. I climbed ... I dunno... like a billion stairs... It's not like I can take them two at a time!
+[s10_e11_c07_u036] Phoebe Buffay: I don't care. We're not paying you 300 dollars for this.
+[s10_e11_c07_u037] Roy: Well, look - it's not my fault if you're too uptight to appreciate the male form in all it's glory.
+[s10_e11_c07_u038] Phoebe Buffay: Oh yeah, okay. I'm uptight. Yeah, that's why I don't want to watch a middle aged guy dance around in what I can only assume is a child halloween costume!
+[s10_e11_c07_u039] Roy: I may have borrowed this from my nephew, but let me assure you, what's underneath ... is all man.
+[s10_e11_c07_u040] Phoebe Buffay: I'm sorry, did you say all man or old man?
+[s10_e11_c07_u041] Roy: Oh, you're mean!
+[s10_e11_c07_u042] Monica Geller: Uh, look, officer... uhm Sir...
+[s10_e11_c07_u043] Roy: Damnit. OH! Big surprise! The hunk of beef has feelings!"
+s10_e11,s10_e11_c08,Donny Osmond,0,0,0,0,1,2,s10_e11_c08_u001,s10_e11_c08_u006,"[s10_e11_c08_u001] Donny Osmond: Ok Henrietta, you've picked Jack and Jill went up the hill.
+[s10_e11_c08_u002] Joey Tribbiani: My friend Rachel has a kid. I totally know nursery rhymes!
+[s10_e11_c08_u003] Donny Osmond: Joey describe these things associated with the United States congress. Give me 20 seconds on the clock please. Ready? Go!
+[s10_e11_c08_u004] Joey Tribbiani: Oh, .. uh... uh... pass. Pass. Pass. Okay, the little thing that hangs down at the back of your throat.
+[s10_e11_c08_u005] Henrietta: Uvula!
+[s10_e11_c08_u006] Joey Tribbiani: Oh, then pass."
+s10_e11,s10_e11_c08,Donny Osmond,1,2,2,1,2,2,s10_e11_c08_u002,s10_e11_c08_u007,"[s10_e11_c08_u002] Joey Tribbiani: My friend Rachel has a kid. I totally know nursery rhymes!
+[s10_e11_c08_u003] Donny Osmond: Joey describe these things associated with the United States congress. Give me 20 seconds on the clock please. Ready? Go!
+[s10_e11_c08_u004] Joey Tribbiani: Oh, .. uh... uh... pass. Pass. Pass. Okay, the little thing that hangs down at the back of your throat.
+[s10_e11_c08_u005] Henrietta: Uvula!
+[s10_e11_c08_u006] Joey Tribbiani: Oh, then pass.
+[s10_e11_c08_u007] Donny Osmond: O-kay... Henrietta, you didn't get all the points you needed, so that means Gene, you are going to the winners circle to try for ten thousand dollars! And you're gonna be going there with Joey Tribbiani."
+s10_e11,s10_e11_c08,Joey Tribbiani,0,0,2,0,2,3,s10_e11_c08_u001,s10_e11_c08_u007,"[s10_e11_c08_u001] Donny Osmond: Ok Henrietta, you've picked Jack and Jill went up the hill.
+[s10_e11_c08_u002] Joey Tribbiani: My friend Rachel has a kid. I totally know nursery rhymes!
+[s10_e11_c08_u003] Donny Osmond: Joey describe these things associated with the United States congress. Give me 20 seconds on the clock please. Ready? Go!
+[s10_e11_c08_u004] Joey Tribbiani: Oh, .. uh... uh... pass. Pass. Pass. Okay, the little thing that hangs down at the back of your throat.
+[s10_e11_c08_u005] Henrietta: Uvula!
+[s10_e11_c08_u006] Joey Tribbiani: Oh, then pass.
+[s10_e11_c08_u007] Donny Osmond: O-kay... Henrietta, you didn't get all the points you needed, so that means Gene, you are going to the winners circle to try for ten thousand dollars! And you're gonna be going there with Joey Tribbiani."
+s10_e11,s10_e11_c09,Chandler Bing,0,0,9,0,10,3,s10_e11_c09_u001,s10_e11_c09_u015,"[s10_e11_c09_u001] Ross Geller: You made out with Missy Goldberg. How could you do that, after you promised me?
+[s10_e11_c09_u002] Chandler Bing: Excuse me. . That didn't make us sound gay at all!
+[s10_e11_c09_u003] Ross Geller: You broke the pact!
+[s10_e11_c09_u004] Chandler Bing: Ross, that was 16 years ago!
+[s10_e11_c09_u005] Ross Geller: That doesn't matter! We're talking about the foundation of our friendship.
+[s10_e11_c09_u006] Chandler Bing: I believe the foundation of our friendship was unfortunate hair. All right, look, if we're really gonna do this... it's not like you never broke one of the pacts.
+[s10_e11_c09_u007] Ross Geller: I didn't.
+[s10_e11_c09_u008] Chandler Bing: Oh really?
+[s10_e11_c09_u009] Ross Geller: No.
+[s10_e11_c09_u010] Chandler Bing: Oh really!?
+[s10_e11_c09_u011] Ross Geller: NO!
+[s10_e11_c09_u012] Chandler Bing: ADRIENNE TURNER!!
+[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne.
+[s10_e11_c09_u015] Ross Geller: I never did anything with Adrienne Turner."
+s10_e11,s10_e11_c09,Chandler Bing,1,11,11,10,12,2,s10_e11_c09_u011,s10_e11_c09_u017,"[s10_e11_c09_u011] Ross Geller: NO!
+[s10_e11_c09_u012] Chandler Bing: ADRIENNE TURNER!!
+[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne.
+[s10_e11_c09_u015] Ross Geller: I never did anything with Adrienne Turner.
+[s10_e11_c09_u016] Chandler Bing: Oh please, and you knew how much I liked her.
+[s10_e11_c09_u017] Ross Geller: I don't know what... you're talking about."
+s10_e11,s10_e11_c09,Chandler Bing,2,13,17,12,18,3,s10_e11_c09_u013,s10_e11_c09_u023,"[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne.
+[s10_e11_c09_u015] Ross Geller: I never did anything with Adrienne Turner.
+[s10_e11_c09_u016] Chandler Bing: Oh please, and you knew how much I liked her.
+[s10_e11_c09_u017] Ross Geller: I don't know what... you're talking about.
+[s10_e11_c09_u018] Chandler Bing: Really?
+[s10_e11_c09_u019] Chandler Bing: Remember that big party? Freshman year? A week before Christmas vacation? I do. You had some visitors.
+[s10_e11_c09_u020] Monica Geller: I can't believe we are at a real college party! I have to pee so bad!
+[s10_e11_c09_u021] Rachel Green: This is so awesome! College guys are so cute!
+[s10_e11_c09_u022] Monica Geller: Hey, you've got a boyfriend!
+[s10_e11_c09_u023] Rachel Green: I know. But if some guy who looks like Corey Haim wants to kiss me tonight, I'm sooo gonna let them!"
+s10_e11,s10_e11_c09,Chandler Bing,3,25,31,24,32,3,s10_e11_c09_u025,s10_e11_c09_u037,"[s10_e11_c09_u025] Rachel Green: It... You can so totally tell.
+[s10_e11_c09_u026] Monica Geller: I KNOW!
+[s10_e11_c09_u027] Rachel Green: Well lets see. Maybe he knows where Ross is. Hey, how's it going .
+[s10_e11_c09_u028] Chandler Bing: Aren't you...?
+[s10_e11_c09_u029] Rachel Green: Yeah, Rachel. And this is Ross' sister, Monica. We met at Thanksgiving. .
+[s10_e11_c09_u030] Chandler Bing: Right. So how're you doing?
+[s10_e11_c09_u031] Rachel Green: Bitchin'
+[s10_e11_c09_u032] Chandler Bing: Hi Monica.
+[s10_e11_c09_u033] Monica Geller: Hi Chandler. It's really nice to see you NOT.
+[s10_e11_c09_u034] Chandler Bing: O-kay. I'll see if I can find Ross.
+[s10_e11_c09_u035] Monica Geller: Oh my God Rach. Bean bag chairs.
+[s10_e11_c09_u036] Rachel Green: Oh.
+[s10_e11_c09_u037] Monica Geller: Do NOT let me sit in one of those. We'll be here for days."
+s10_e11,s10_e11_c09,Monica Geller,0,17,23,16,24,3,s10_e11_c09_u017,s10_e11_c09_u029,"[s10_e11_c09_u017] Ross Geller: I don't know what... you're talking about.
+[s10_e11_c09_u018] Chandler Bing: Really?
+[s10_e11_c09_u019] Chandler Bing: Remember that big party? Freshman year? A week before Christmas vacation? I do. You had some visitors.
+[s10_e11_c09_u020] Monica Geller: I can't believe we are at a real college party! I have to pee so bad!
+[s10_e11_c09_u021] Rachel Green: This is so awesome! College guys are so cute!
+[s10_e11_c09_u022] Monica Geller: Hey, you've got a boyfriend!
+[s10_e11_c09_u023] Rachel Green: I know. But if some guy who looks like Corey Haim wants to kiss me tonight, I'm sooo gonna let them!
+[s10_e11_c09_u024] Monica Geller: Look, there's Chandler. You knew, that stupid friend of Ross'. Said I'm fat. You know I've already lost 4 pounds!
+[s10_e11_c09_u025] Rachel Green: It... You can so totally tell.
+[s10_e11_c09_u026] Monica Geller: I KNOW!
+[s10_e11_c09_u027] Rachel Green: Well lets see. Maybe he knows where Ross is. Hey, how's it going .
+[s10_e11_c09_u028] Chandler Bing: Aren't you...?
+[s10_e11_c09_u029] Rachel Green: Yeah, Rachel. And this is Ross' sister, Monica. We met at Thanksgiving. ."
+s10_e11,s10_e11_c09,Monica Geller,1,30,34,29,35,3,s10_e11_c09_u030,s10_e11_c09_u040,"[s10_e11_c09_u030] Chandler Bing: Right. So how're you doing?
+[s10_e11_c09_u031] Rachel Green: Bitchin'
+[s10_e11_c09_u032] Chandler Bing: Hi Monica.
+[s10_e11_c09_u033] Monica Geller: Hi Chandler. It's really nice to see you NOT.
+[s10_e11_c09_u034] Chandler Bing: O-kay. I'll see if I can find Ross.
+[s10_e11_c09_u035] Monica Geller: Oh my God Rach. Bean bag chairs.
+[s10_e11_c09_u036] Rachel Green: Oh.
+[s10_e11_c09_u037] Monica Geller: Do NOT let me sit in one of those. We'll be here for days.
+[s10_e11_c09_u038] Ross Geller: Listen Adrienne, you can't tell Chandler about this.
+[s10_e11_c09_u039] Adrienne: Oh believe me, Ross, I won't be telling anybody about this.
+[s10_e11_c09_u040] Ross Geller: Cool!"
+s10_e11,s10_e11_c09,Rachel Green,0,18,28,17,29,3,s10_e11_c09_u018,s10_e11_c09_u034,"[s10_e11_c09_u018] Chandler Bing: Really?
+[s10_e11_c09_u019] Chandler Bing: Remember that big party? Freshman year? A week before Christmas vacation? I do. You had some visitors.
+[s10_e11_c09_u020] Monica Geller: I can't believe we are at a real college party! I have to pee so bad!
+[s10_e11_c09_u021] Rachel Green: This is so awesome! College guys are so cute!
+[s10_e11_c09_u022] Monica Geller: Hey, you've got a boyfriend!
+[s10_e11_c09_u023] Rachel Green: I know. But if some guy who looks like Corey Haim wants to kiss me tonight, I'm sooo gonna let them!
+[s10_e11_c09_u024] Monica Geller: Look, there's Chandler. You knew, that stupid friend of Ross'. Said I'm fat. You know I've already lost 4 pounds!
+[s10_e11_c09_u025] Rachel Green: It... You can so totally tell.
+[s10_e11_c09_u026] Monica Geller: I KNOW!
+[s10_e11_c09_u027] Rachel Green: Well lets see. Maybe he knows where Ross is. Hey, how's it going .
+[s10_e11_c09_u028] Chandler Bing: Aren't you...?
+[s10_e11_c09_u029] Rachel Green: Yeah, Rachel. And this is Ross' sister, Monica. We met at Thanksgiving. .
+[s10_e11_c09_u030] Chandler Bing: Right. So how're you doing?
+[s10_e11_c09_u031] Rachel Green: Bitchin'
+[s10_e11_c09_u032] Chandler Bing: Hi Monica.
+[s10_e11_c09_u033] Monica Geller: Hi Chandler. It's really nice to see you NOT.
+[s10_e11_c09_u034] Chandler Bing: O-kay. I'll see if I can find Ross."
+s10_e11,s10_e11_c09,Ross Geller,0,0,8,0,9,3,s10_e11_c09_u001,s10_e11_c09_u014,"[s10_e11_c09_u001] Ross Geller: You made out with Missy Goldberg. How could you do that, after you promised me?
+[s10_e11_c09_u002] Chandler Bing: Excuse me. . That didn't make us sound gay at all!
+[s10_e11_c09_u003] Ross Geller: You broke the pact!
+[s10_e11_c09_u004] Chandler Bing: Ross, that was 16 years ago!
+[s10_e11_c09_u005] Ross Geller: That doesn't matter! We're talking about the foundation of our friendship.
+[s10_e11_c09_u006] Chandler Bing: I believe the foundation of our friendship was unfortunate hair. All right, look, if we're really gonna do this... it's not like you never broke one of the pacts.
+[s10_e11_c09_u007] Ross Geller: I didn't.
+[s10_e11_c09_u008] Chandler Bing: Oh really?
+[s10_e11_c09_u009] Ross Geller: No.
+[s10_e11_c09_u010] Chandler Bing: Oh really!?
+[s10_e11_c09_u011] Ross Geller: NO!
+[s10_e11_c09_u012] Chandler Bing: ADRIENNE TURNER!!
+[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne."
+s10_e11,s10_e11_c09,Ross Geller,1,10,10,9,11,2,s10_e11_c09_u010,s10_e11_c09_u016,"[s10_e11_c09_u010] Chandler Bing: Oh really!?
+[s10_e11_c09_u011] Ross Geller: NO!
+[s10_e11_c09_u012] Chandler Bing: ADRIENNE TURNER!!
+[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne.
+[s10_e11_c09_u015] Ross Geller: I never did anything with Adrienne Turner.
+[s10_e11_c09_u016] Chandler Bing: Oh please, and you knew how much I liked her."
+s10_e11,s10_e11_c09,Ross Geller,2,12,14,11,15,2,s10_e11_c09_u012,s10_e11_c09_u020,"[s10_e11_c09_u012] Chandler Bing: ADRIENNE TURNER!!
+[s10_e11_c09_u013] Adrienne: Yes?
+[s10_e11_c09_u014] Chandler Bing, Ross Geller: Hey! Hey Adrienne.
+[s10_e11_c09_u015] Ross Geller: I never did anything with Adrienne Turner.
+[s10_e11_c09_u016] Chandler Bing: Oh please, and you knew how much I liked her.
+[s10_e11_c09_u017] Ross Geller: I don't know what... you're talking about.
+[s10_e11_c09_u018] Chandler Bing: Really?
+[s10_e11_c09_u019] Chandler Bing: Remember that big party? Freshman year? A week before Christmas vacation? I do. You had some visitors.
+[s10_e11_c09_u020] Monica Geller: I can't believe we are at a real college party! I have to pee so bad!"
+s10_e11,s10_e11_c09,Ross Geller,3,35,35,34,35,2,s10_e11_c09_u035,s10_e11_c09_u040,"[s10_e11_c09_u035] Monica Geller: Oh my God Rach. Bean bag chairs.
+[s10_e11_c09_u036] Rachel Green: Oh.
+[s10_e11_c09_u037] Monica Geller: Do NOT let me sit in one of those. We'll be here for days.
+[s10_e11_c09_u038] Ross Geller: Listen Adrienne, you can't tell Chandler about this.
+[s10_e11_c09_u039] Adrienne: Oh believe me, Ross, I won't be telling anybody about this.
+[s10_e11_c09_u040] Ross Geller: Cool!"
+s10_e11,s10_e11_c10,Chandler Bing,0,0,9,0,10,3,s10_e11_c10_u001,s10_e11_c10_u015,"[s10_e11_c10_u001] Ross Geller: I didn't know you knew about that.
+[s10_e11_c10_u002] Chandler Bing: Well, I did and it hurt. That's when I wrote the song: ""Betrayal In The Common Room"".
+[s10_e11_c10_u003] Ross Geller: Man... I... I'm sorry.
+[s10_e11_c10_u004] Chandler Bing: Look it was a lo-o-ong time ago.
+[s10_e11_c10_u005] Ross Geller: So, eh. I made out with Adrienne and you made out with Missy. Well I guess we're even.
+[s10_e11_c10_u006] Chandler Bing: Hmm mmmhm..
+[s10_e11_c10_u007] Ross Geller: We are even, right?
+[s10_e11_c10_u008] Chandler Bing: Just one more thing. I was so pissed at you that night that I wanted to get back at you. So I thought, who does Ross like the more than anybody?
+[s10_e11_c10_u009] Ross Geller: What did you do to my mom?
+[s10_e11_c10_u010] Chandler Bing: Not her!
+[s10_e11_c10_u011] Rachel Green: I am sooo drunk.
+[s10_e11_c10_u012] Monica Geller: That's weird. I've had the same number of beers as you and I don't feel anything at all.
+[s10_e11_c10_u013] Chandler Bing: Soo... you girls having fun?
+[s10_e11_c10_u014] Monica Geller: For your information, ass munch, I've lost four pounds. Maybe even five with all the dancing.
+[s10_e11_c10_u015] Pizza Guy: SOMEBODY ORDER A PIZZA?"
+s10_e11,s10_e11_c10,Chandler Bing,1,15,20,14,20,3,s10_e11_c10_u015,s10_e11_c10_u025,"[s10_e11_c10_u015] Pizza Guy: SOMEBODY ORDER A PIZZA?
+[s10_e11_c10_u016] Monica Geller: Oh THATS ME!
+[s10_e11_c10_u017] Rachel Green: I am soo not going to do good on my SATs tomorrow.
+[s10_e11_c10_u018] Chandler Bing: Well maybe if you go to school here next year we can totally hang out.
+[s10_e11_c10_u019] Rachel Green: Oh yeah. There is a plan! Why don't I just start taking my smart pills now?
+[s10_e11_c10_u020] Chandler Bing: Well, maybe you can get in on a beauty scholarship.
+[s10_e11_c10_u021] Rachel Green: Oh, what a line.
+[s10_e11_c10_u022] Chandler Bing: So where are you applying to?
+[s10_e11_c10_u023] Rachel Green: Oh well, You know, I think it's kinda really important that I go somewhere where there's sun, so I'm sort of... Hey!
+[s10_e11_c10_u024] Chandler Bing: I'm in college and I'm in a band.
+[s10_e11_c10_u025] Rachel Green: Yeah okay."
+s10_e11,s10_e11_c10,Monica Geller,0,9,13,8,14,3,s10_e11_c10_u009,s10_e11_c10_u019,"[s10_e11_c10_u009] Ross Geller: What did you do to my mom?
+[s10_e11_c10_u010] Chandler Bing: Not her!
+[s10_e11_c10_u011] Rachel Green: I am sooo drunk.
+[s10_e11_c10_u012] Monica Geller: That's weird. I've had the same number of beers as you and I don't feel anything at all.
+[s10_e11_c10_u013] Chandler Bing: Soo... you girls having fun?
+[s10_e11_c10_u014] Monica Geller: For your information, ass munch, I've lost four pounds. Maybe even five with all the dancing.
+[s10_e11_c10_u015] Pizza Guy: SOMEBODY ORDER A PIZZA?
+[s10_e11_c10_u016] Monica Geller: Oh THATS ME!
+[s10_e11_c10_u017] Rachel Green: I am soo not going to do good on my SATs tomorrow.
+[s10_e11_c10_u018] Chandler Bing: Well maybe if you go to school here next year we can totally hang out.
+[s10_e11_c10_u019] Rachel Green: Oh yeah. There is a plan! Why don't I just start taking my smart pills now?"
+s10_e11,s10_e11_c10,Rachel Green,0,14,20,13,20,3,s10_e11_c10_u014,s10_e11_c10_u025,"[s10_e11_c10_u014] Monica Geller: For your information, ass munch, I've lost four pounds. Maybe even five with all the dancing.
+[s10_e11_c10_u015] Pizza Guy: SOMEBODY ORDER A PIZZA?
+[s10_e11_c10_u016] Monica Geller: Oh THATS ME!
+[s10_e11_c10_u017] Rachel Green: I am soo not going to do good on my SATs tomorrow.
+[s10_e11_c10_u018] Chandler Bing: Well maybe if you go to school here next year we can totally hang out.
+[s10_e11_c10_u019] Rachel Green: Oh yeah. There is a plan! Why don't I just start taking my smart pills now?
+[s10_e11_c10_u020] Chandler Bing: Well, maybe you can get in on a beauty scholarship.
+[s10_e11_c10_u021] Rachel Green: Oh, what a line.
+[s10_e11_c10_u022] Chandler Bing: So where are you applying to?
+[s10_e11_c10_u023] Rachel Green: Oh well, You know, I think it's kinda really important that I go somewhere where there's sun, so I'm sort of... Hey!
+[s10_e11_c10_u024] Chandler Bing: I'm in college and I'm in a band.
+[s10_e11_c10_u025] Rachel Green: Yeah okay."
+s10_e11,s10_e11_c10,Ross Geller,0,0,6,0,7,3,s10_e11_c10_u001,s10_e11_c10_u012,"[s10_e11_c10_u001] Ross Geller: I didn't know you knew about that.
+[s10_e11_c10_u002] Chandler Bing: Well, I did and it hurt. That's when I wrote the song: ""Betrayal In The Common Room"".
+[s10_e11_c10_u003] Ross Geller: Man... I... I'm sorry.
+[s10_e11_c10_u004] Chandler Bing: Look it was a lo-o-ong time ago.
+[s10_e11_c10_u005] Ross Geller: So, eh. I made out with Adrienne and you made out with Missy. Well I guess we're even.
+[s10_e11_c10_u006] Chandler Bing: Hmm mmmhm..
+[s10_e11_c10_u007] Ross Geller: We are even, right?
+[s10_e11_c10_u008] Chandler Bing: Just one more thing. I was so pissed at you that night that I wanted to get back at you. So I thought, who does Ross like the more than anybody?
+[s10_e11_c10_u009] Ross Geller: What did you do to my mom?
+[s10_e11_c10_u010] Chandler Bing: Not her!
+[s10_e11_c10_u011] Rachel Green: I am sooo drunk.
+[s10_e11_c10_u012] Monica Geller: That's weird. I've had the same number of beers as you and I don't feel anything at all."
+s10_e11,s10_e11_c11,Phoebe Buffay,0,4,15,3,15,3,s10_e11_c11_u004,s10_e11_c11_u020,"[s10_e11_c11_u004] Rachel Green: No, wait. No there's gotta be something else that you can do. I mean, what skills do you have?
+[s10_e11_c11_u005] Roy: I don't know... I can make my pecs dance... I can pick up a dollar bill with my butt cheeks... I can go to that special place inside me where I feel no shame.
+[s10_e11_c11_u006] Rachel Green: So maybe something in an office.
+[s10_e11_c11_u007] Phoebe Buffay: Or you could teach stripping. You know, share your gift, pass the torch.
+[s10_e11_c11_u008] Roy: You know, actually that's not a bad idea. I can do it out of my apartment. I don't think my mom would mind.
+[s10_e11_c11_u009] Phoebe Buffay: There you go. Okay, do you think you're gonna be okay?
+[s10_e11_c11_u010] Roy: Yeah, yeah, yeah... This is so weird. I mean, you never know when it's gonna be your last dance. And I didn't even get a chance to finish it.
+[s10_e11_c11_u011] Phoebe Buffay: Finish it!
+[s10_e11_c11_u012] Roy: What?
+[s10_e11_c11_u013] Phoebe Buffay: Your last dance. Do it for us.
+[s10_e11_c11_u014] Roy: Really?
+[s10_e11_c11_u015] Rachel Green: Really?
+[s10_e11_c11_u016] Phoebe Buffay: Yeah, yeah. He deserves to do the thing he loves one last time.
+[s10_e11_c11_u017] Roy: Okay, all right... Get ready ladies!
+[s10_e11_c11_u018] Phoebe Buffay: Oh this is so ho-o-ot!
+[s10_e11_c11_u019] Phoebe Buffay: Oh no, no, no, don't stop!
+[s10_e11_c11_u020] Roy: Have to..."
+s10_e11,s10_e11_c11,Rachel Green,0,1,3,0,4,2,s10_e11_c11_u001,s10_e11_c11_u009,"[s10_e11_c11_u001] Roy: What's the matter? You never saw a 50 year old stripper cry before?
+[s10_e11_c11_u002] Phoebe Buffay: You know, it's fine. We'll pay you.
+[s10_e11_c11_u003] Roy: No, no, you're right. Who am I kidding? I should have hung up that breakaway jockstrap years ago. What am I gonna do? I mean, this has been my life for thirty two years. Taking my clothes off in front of people is all I know.
+[s10_e11_c11_u004] Rachel Green: No, wait. No there's gotta be something else that you can do. I mean, what skills do you have?
+[s10_e11_c11_u005] Roy: I don't know... I can make my pecs dance... I can pick up a dollar bill with my butt cheeks... I can go to that special place inside me where I feel no shame.
+[s10_e11_c11_u006] Rachel Green: So maybe something in an office.
+[s10_e11_c11_u007] Phoebe Buffay: Or you could teach stripping. You know, share your gift, pass the torch.
+[s10_e11_c11_u008] Roy: You know, actually that's not a bad idea. I can do it out of my apartment. I don't think my mom would mind.
+[s10_e11_c11_u009] Phoebe Buffay: There you go. Okay, do you think you're gonna be okay?"
+s10_e11,s10_e11_c11,Roy,0,0,13,0,14,3,s10_e11_c11_u001,s10_e11_c11_u019,"[s10_e11_c11_u001] Roy: What's the matter? You never saw a 50 year old stripper cry before?
+[s10_e11_c11_u002] Phoebe Buffay: You know, it's fine. We'll pay you.
+[s10_e11_c11_u003] Roy: No, no, you're right. Who am I kidding? I should have hung up that breakaway jockstrap years ago. What am I gonna do? I mean, this has been my life for thirty two years. Taking my clothes off in front of people is all I know.
+[s10_e11_c11_u004] Rachel Green: No, wait. No there's gotta be something else that you can do. I mean, what skills do you have?
+[s10_e11_c11_u005] Roy: I don't know... I can make my pecs dance... I can pick up a dollar bill with my butt cheeks... I can go to that special place inside me where I feel no shame.
+[s10_e11_c11_u006] Rachel Green: So maybe something in an office.
+[s10_e11_c11_u007] Phoebe Buffay: Or you could teach stripping. You know, share your gift, pass the torch.
+[s10_e11_c11_u008] Roy: You know, actually that's not a bad idea. I can do it out of my apartment. I don't think my mom would mind.
+[s10_e11_c11_u009] Phoebe Buffay: There you go. Okay, do you think you're gonna be okay?
+[s10_e11_c11_u010] Roy: Yeah, yeah, yeah... This is so weird. I mean, you never know when it's gonna be your last dance. And I didn't even get a chance to finish it.
+[s10_e11_c11_u011] Phoebe Buffay: Finish it!
+[s10_e11_c11_u012] Roy: What?
+[s10_e11_c11_u013] Phoebe Buffay: Your last dance. Do it for us.
+[s10_e11_c11_u014] Roy: Really?
+[s10_e11_c11_u015] Rachel Green: Really?
+[s10_e11_c11_u016] Phoebe Buffay: Yeah, yeah. He deserves to do the thing he loves one last time.
+[s10_e11_c11_u017] Roy: Okay, all right... Get ready ladies!
+[s10_e11_c11_u018] Phoebe Buffay: Oh this is so ho-o-ot!
+[s10_e11_c11_u019] Phoebe Buffay: Oh no, no, no, don't stop!"
+s10_e11,s10_e11_c11,Roy,1,15,15,14,15,2,s10_e11_c11_u015,s10_e11_c11_u020,"[s10_e11_c11_u015] Rachel Green: Really?
+[s10_e11_c11_u016] Phoebe Buffay: Yeah, yeah. He deserves to do the thing he loves one last time.
+[s10_e11_c11_u017] Roy: Okay, all right... Get ready ladies!
+[s10_e11_c11_u018] Phoebe Buffay: Oh this is so ho-o-ot!
+[s10_e11_c11_u019] Phoebe Buffay: Oh no, no, no, don't stop!
+[s10_e11_c11_u020] Roy: Have to..."
+s10_e11,s10_e11_c12,Donny Osmond,0,0,0,0,1,2,s10_e11_c12_u001,s10_e11_c12_u006,"[s10_e11_c12_u001] Donny Osmond: Well, welcome to the Winner Circle. Joey and Gene, you guys ready?
+[s10_e11_c12_u002] Joey Tribbiani: Yeah...
+[s10_e11_c12_u003] Gene: Sure.
+[s10_e11_c12_u004] Donny Osmond: Okay. Give me sixty seconds on the clock please... Ready, GO!
+[s10_e11_c12_u005] Gene: Oak, maple, elm, birch...
+[s10_e11_c12_u006] Joey Tribbiani: I-I-I don't know. Types of trees?"
+s10_e11,s10_e11_c12,Gene,0,0,19,0,19,3,s10_e11_c12_u001,s10_e11_c12_u024,"[s10_e11_c12_u001] Donny Osmond: Well, welcome to the Winner Circle. Joey and Gene, you guys ready?
+[s10_e11_c12_u002] Joey Tribbiani: Yeah...
+[s10_e11_c12_u003] Gene: Sure.
+[s10_e11_c12_u004] Donny Osmond: Okay. Give me sixty seconds on the clock please... Ready, GO!
+[s10_e11_c12_u005] Gene: Oak, maple, elm, birch...
+[s10_e11_c12_u006] Joey Tribbiani: I-I-I don't know. Types of trees?
+[s10_e11_c12_u007] Gene: Uhm... Buenos dias, enchilada, por favor...
+[s10_e11_c12_u008] Joey Tribbiani: Oh, I'm so sorry. I don't know any Spanish words.
+[s10_e11_c12_u009] Gene: A match, a candle...
+[s10_e11_c12_u010] Joey Tribbiani: Things that go ""tssst"" when you put them out.
+[s10_e11_c12_u011] Gene: A torch, a bonfire... uhm, your pee...
+[s10_e11_c12_u012] Joey Tribbiani: Things that burn.
+[s10_e11_c12_u013] Gene: ""I'd like to go for a walk"", uhm ""scratch my belly"".
+[s10_e11_c12_u014] Joey Tribbiani: Dude, dude! I think you're losing it.
+[s10_e11_c12_u015] Gene: Uhm, ""I have fur"", ""I like to bark"".
+[s10_e11_c12_u016] Joey Tribbiani: Oh, oh, oh... What a dog says.
+[s10_e11_c12_u017] Gene: Pepperoni...
+[s10_e11_c12_u018] Joey Tribbiani: Pizza toppings, next!
+[s10_e11_c12_u019] Gene: Cindy Crawford, Christie Brinkley, Heidi Klum, Claudia Schiffer...
+[s10_e11_c12_u020] Joey Tribbiani: Oh, oh, oh...
+[s10_e11_c12_u021] Gene: Christie Turlington, Kate Moss...
+[s10_e11_c12_u022] Joey Tribbiani: Girls Chandler could never get?
+[s10_e11_c12_u023] Gene: Supermodels!
+[s10_e11_c12_u024] Joey Tribbiani: Where?"
+s10_e11,s10_e11_c12,Joey Tribbiani,0,1,1,0,2,2,s10_e11_c12_u001,s10_e11_c12_u007,"[s10_e11_c12_u001] Donny Osmond: Well, welcome to the Winner Circle. Joey and Gene, you guys ready?
+[s10_e11_c12_u002] Joey Tribbiani: Yeah...
+[s10_e11_c12_u003] Gene: Sure.
+[s10_e11_c12_u004] Donny Osmond: Okay. Give me sixty seconds on the clock please... Ready, GO!
+[s10_e11_c12_u005] Gene: Oak, maple, elm, birch...
+[s10_e11_c12_u006] Joey Tribbiani: I-I-I don't know. Types of trees?
+[s10_e11_c12_u007] Gene: Uhm... Buenos dias, enchilada, por favor..."
+s10_e11,s10_e11_c12,Joey Tribbiani,1,3,19,2,19,3,s10_e11_c12_u003,s10_e11_c12_u024,"[s10_e11_c12_u003] Gene: Sure.
+[s10_e11_c12_u004] Donny Osmond: Okay. Give me sixty seconds on the clock please... Ready, GO!
+[s10_e11_c12_u005] Gene: Oak, maple, elm, birch...
+[s10_e11_c12_u006] Joey Tribbiani: I-I-I don't know. Types of trees?
+[s10_e11_c12_u007] Gene: Uhm... Buenos dias, enchilada, por favor...
+[s10_e11_c12_u008] Joey Tribbiani: Oh, I'm so sorry. I don't know any Spanish words.
+[s10_e11_c12_u009] Gene: A match, a candle...
+[s10_e11_c12_u010] Joey Tribbiani: Things that go ""tssst"" when you put them out.
+[s10_e11_c12_u011] Gene: A torch, a bonfire... uhm, your pee...
+[s10_e11_c12_u012] Joey Tribbiani: Things that burn.
+[s10_e11_c12_u013] Gene: ""I'd like to go for a walk"", uhm ""scratch my belly"".
+[s10_e11_c12_u014] Joey Tribbiani: Dude, dude! I think you're losing it.
+[s10_e11_c12_u015] Gene: Uhm, ""I have fur"", ""I like to bark"".
+[s10_e11_c12_u016] Joey Tribbiani: Oh, oh, oh... What a dog says.
+[s10_e11_c12_u017] Gene: Pepperoni...
+[s10_e11_c12_u018] Joey Tribbiani: Pizza toppings, next!
+[s10_e11_c12_u019] Gene: Cindy Crawford, Christie Brinkley, Heidi Klum, Claudia Schiffer...
+[s10_e11_c12_u020] Joey Tribbiani: Oh, oh, oh...
+[s10_e11_c12_u021] Gene: Christie Turlington, Kate Moss...
+[s10_e11_c12_u022] Joey Tribbiani: Girls Chandler could never get?
+[s10_e11_c12_u023] Gene: Supermodels!
+[s10_e11_c12_u024] Joey Tribbiani: Where?"
+s10_e11,s10_e11_c13,Chandler Bing,0,4,16,3,17,3,s10_e11_c13_u004,s10_e11_c13_u022,"[s10_e11_c13_u004] Monica Geller: What? When was this?
+[s10_e11_c13_u005] Ross Geller: Nineteen Eighty Seven. The weekend you guys visited me at school.
+[s10_e11_c13_u006] Monica Geller: Oh my God! That's wild!
+[s10_e11_c13_u007] Chandler Bing: Yeah, but it was like a million years ago, so it doesn't matter.
+[s10_e11_c13_u008] Ross Geller: Well, it matters to me.
+[s10_e11_c13_u009] Chandler Bing: Why?
+[s10_e11_c13_u010] Ross Geller: Because... the night you kissed Rachel was the night I kissed Rachel for the very first time.
+[s10_e11_c13_u011] Chandler Bing: You kissed her that night too?
+[s10_e11_c13_u012] Monica Geller: Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.
+[s10_e11_c13_u013] Chandler Bing: Seriously, where did this happen?
+[s10_e11_c13_u014] Ross Geller: Okay, after you told me she was passed out in our room, I went in there to make sure she was all right. She was lying on my bed, all buried in peoples coats. Well, I went to kiss her on the forehead, you know. But it was so dark, I accidentally got her lips. I started to pull away, but then I felt her start to kiss me back. It was only for a second, but... it was amazing. And now, now I find out that you kissed her first.
+[s10_e11_c13_u015] Chandler Bing: Oh wait... What bed did you say she was on?
+[s10_e11_c13_u016] Ross Geller: Mine.
+[s10_e11_c13_u017] Chandler Bing: I'm pretty sure I put her on my bed.
+[s10_e11_c13_u018] Ross Geller: No, she was definitely on my bed.
+[s10_e11_c13_u019] Chandler Bing: Why would I kiss a girl, and then put her on your bed?
+[s10_e11_c13_u020] Ross Geller: Well, then who was on my bed?
+[s10_e11_c13_u021] Monica Geller: OH! Oh, oh!
+[s10_e11_c13_u022] Ross Geller: NO! No, no!"
+s10_e11,s10_e11_c13,Monica Geller,0,0,3,0,4,3,s10_e11_c13_u001,s10_e11_c13_u009,"[s10_e11_c13_u001] Ross Geller: Hey, where's Rachel?
+[s10_e11_c13_u002] Monica Geller: She and Phoebe took the stripper to the hospital.
+[s10_e11_c13_u003] Ross Geller: Did you know Chandler kissed Rachel?
+[s10_e11_c13_u004] Monica Geller: What? When was this?
+[s10_e11_c13_u005] Ross Geller: Nineteen Eighty Seven. The weekend you guys visited me at school.
+[s10_e11_c13_u006] Monica Geller: Oh my God! That's wild!
+[s10_e11_c13_u007] Chandler Bing: Yeah, but it was like a million years ago, so it doesn't matter.
+[s10_e11_c13_u008] Ross Geller: Well, it matters to me.
+[s10_e11_c13_u009] Chandler Bing: Why?"
+s10_e11,s10_e11_c13,Monica Geller,1,18,25,17,25,3,s10_e11_c13_u018,s10_e11_c13_u030,"[s10_e11_c13_u018] Ross Geller: No, she was definitely on my bed.
+[s10_e11_c13_u019] Chandler Bing: Why would I kiss a girl, and then put her on your bed?
+[s10_e11_c13_u020] Ross Geller: Well, then who was on my bed?
+[s10_e11_c13_u021] Monica Geller: OH! Oh, oh!
+[s10_e11_c13_u022] Ross Geller: NO! No, no!
+[s10_e11_c13_u023] Monica Geller: YES!
+[s10_e11_c13_u024] Ross Geller: You were under the pile of coats?
+[s10_e11_c13_u025] Monica Geller: I was the pile of coats!
+[s10_e11_c13_u026] Ross Geller: OH MY GOD!
+[s10_e11_c13_u027] Monica Geller: You were my Midnight Mystery Kisser?
+[s10_e11_c13_u028] Ross Geller: You were my first kiss with Rachel?
+[s10_e11_c13_u029] Monica Geller: You were my first kiss ever?
+[s10_e11_c13_u030] Chandler Bing: What did I marry into?"
+s10_e11,s10_e11_c13,Ross Geller,0,0,7,0,8,3,s10_e11_c13_u001,s10_e11_c13_u013,"[s10_e11_c13_u001] Ross Geller: Hey, where's Rachel?
+[s10_e11_c13_u002] Monica Geller: She and Phoebe took the stripper to the hospital.
+[s10_e11_c13_u003] Ross Geller: Did you know Chandler kissed Rachel?
+[s10_e11_c13_u004] Monica Geller: What? When was this?
+[s10_e11_c13_u005] Ross Geller: Nineteen Eighty Seven. The weekend you guys visited me at school.
+[s10_e11_c13_u006] Monica Geller: Oh my God! That's wild!
+[s10_e11_c13_u007] Chandler Bing: Yeah, but it was like a million years ago, so it doesn't matter.
+[s10_e11_c13_u008] Ross Geller: Well, it matters to me.
+[s10_e11_c13_u009] Chandler Bing: Why?
+[s10_e11_c13_u010] Ross Geller: Because... the night you kissed Rachel was the night I kissed Rachel for the very first time.
+[s10_e11_c13_u011] Chandler Bing: You kissed her that night too?
+[s10_e11_c13_u012] Monica Geller: Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.
+[s10_e11_c13_u013] Chandler Bing: Seriously, where did this happen?"
+s10_e11,s10_e11_c13,Ross Geller,1,9,9,8,10,2,s10_e11_c13_u009,s10_e11_c13_u015,"[s10_e11_c13_u009] Chandler Bing: Why?
+[s10_e11_c13_u010] Ross Geller: Because... the night you kissed Rachel was the night I kissed Rachel for the very first time.
+[s10_e11_c13_u011] Chandler Bing: You kissed her that night too?
+[s10_e11_c13_u012] Monica Geller: Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.
+[s10_e11_c13_u013] Chandler Bing: Seriously, where did this happen?
+[s10_e11_c13_u014] Ross Geller: Okay, after you told me she was passed out in our room, I went in there to make sure she was all right. She was lying on my bed, all buried in peoples coats. Well, I went to kiss her on the forehead, you know. But it was so dark, I accidentally got her lips. I started to pull away, but then I felt her start to kiss me back. It was only for a second, but... it was amazing. And now, now I find out that you kissed her first.
+[s10_e11_c13_u015] Chandler Bing: Oh wait... What bed did you say she was on?"
+s10_e11,s10_e11_c13,Ross Geller,2,11,25,10,25,3,s10_e11_c13_u011,s10_e11_c13_u030,"[s10_e11_c13_u011] Chandler Bing: You kissed her that night too?
+[s10_e11_c13_u012] Monica Geller: Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.
+[s10_e11_c13_u013] Chandler Bing: Seriously, where did this happen?
+[s10_e11_c13_u014] Ross Geller: Okay, after you told me she was passed out in our room, I went in there to make sure she was all right. She was lying on my bed, all buried in peoples coats. Well, I went to kiss her on the forehead, you know. But it was so dark, I accidentally got her lips. I started to pull away, but then I felt her start to kiss me back. It was only for a second, but... it was amazing. And now, now I find out that you kissed her first.
+[s10_e11_c13_u015] Chandler Bing: Oh wait... What bed did you say she was on?
+[s10_e11_c13_u016] Ross Geller: Mine.
+[s10_e11_c13_u017] Chandler Bing: I'm pretty sure I put her on my bed.
+[s10_e11_c13_u018] Ross Geller: No, she was definitely on my bed.
+[s10_e11_c13_u019] Chandler Bing: Why would I kiss a girl, and then put her on your bed?
+[s10_e11_c13_u020] Ross Geller: Well, then who was on my bed?
+[s10_e11_c13_u021] Monica Geller: OH! Oh, oh!
+[s10_e11_c13_u022] Ross Geller: NO! No, no!
+[s10_e11_c13_u023] Monica Geller: YES!
+[s10_e11_c13_u024] Ross Geller: You were under the pile of coats?
+[s10_e11_c13_u025] Monica Geller: I was the pile of coats!
+[s10_e11_c13_u026] Ross Geller: OH MY GOD!
+[s10_e11_c13_u027] Monica Geller: You were my Midnight Mystery Kisser?
+[s10_e11_c13_u028] Ross Geller: You were my first kiss with Rachel?
+[s10_e11_c13_u029] Monica Geller: You were my first kiss ever?
+[s10_e11_c13_u030] Chandler Bing: What did I marry into?"

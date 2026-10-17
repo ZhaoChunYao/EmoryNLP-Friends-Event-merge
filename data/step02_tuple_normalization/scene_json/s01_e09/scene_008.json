@@ -1,0 +1,400 @@
+{
+  "tuples": [
+    {
+      "verb": "look",
+      "subject": "it/(food)",
+      "object": "good",
+      "uid": "s01_e09_c08_u001"
+    },
+    {
+      "verb": "mull",
+      "subject": "cider",
+      "object": null,
+      "uid": "s01_e09_c08_u001"
+    },
+    {
+      "verb": "turk",
+      "subject": "turkey",
+      "object": null,
+      "uid": "s01_e09_c08_u001"
+    },
+    {
+      "verb": "yam",
+      "subject": "yams",
+      "object": null,
+      "uid": "s01_e09_c08_u001"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e09_c08_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Thanksgiving)",
+      "object": "not the same",
+      "uid": "s01_e09_c08_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Thanksgiving)",
+      "object": "without Mom",
+      "uid": "s01_e09_c08_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Thanksgiving)",
+      "object": "in the kitchen",
+      "uid": "s01_e09_c08_u002"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Ross Geller",
+      "object": "what",
+      "uid": "s01_e09_c08_u003"
+    },
+    {
+      "verb": "get",
+      "subject": "you/Ross Geller",
+      "object": "out of my way",
+      "uid": "s01_e09_c08_u003"
+    },
+    {
+      "verb": "stop",
+      "subject": "you/Ross Geller",
+      "object": "moping",
+      "uid": "s01_e09_c08_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(Monica's tone)",
+      "object": "closer",
+      "uid": "s01_e09_c08_u004"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Rachel Green",
+      "object": "the tickets",
+      "uid": "s01_e09_c08_u006"
+    },
+    {
+      "verb": "shoop",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e09_c08_u006"
+    },
+    {
+      "verb": "shoop",
+      "subject": "I/Rachel Green",
+      "object": "from now",
+      "uid": "s01_e09_c08_u006"
+    },
+    {
+      "verb": "stop",
+      "subject": "you/Rachel Green",
+      "object": "shooping",
+      "uid": "s01_e09_c08_u007"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Rachel Green",
+      "object": "my stuff",
+      "uid": "s01_e09_c08_u008"
+    },
+    {
+      "verb": "come",
+      "subject": "you/Chandler Bing",
+      "object": "in",
+      "uid": "s01_e09_c08_u009"
+    },
+    {
+      "verb": "prefer",
+      "subject": "I/Chandler Bing",
+      "object": "to keep a safe distance from all this merriment",
+      "uid": "s01_e09_c08_u010"
+    },
+    {
+      "verb": "keep",
+      "subject": "I/Chandler Bing",
+      "object": "a safe distance",
+      "uid": "s01_e09_c08_u010"
+    },
+    {
+      "verb": "keep",
+      "subject": "I/Chandler Bing",
+      "object": "from all this merriment",
+      "uid": "s01_e09_c08_u010"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(everyone)",
+      "object": "out",
+      "uid": "s01_e09_c08_u012"
+    },
+    {
+      "verb": "laugh",
+      "subject": "we all",
+      "object": null,
+      "uid": "s01_e09_c08_u013"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Phoebe Buffay",
+      "object": "with the stuffing",
+      "uid": "s01_e09_c08_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(throwing food)",
+      "object": "not funny",
+      "uid": "s01_e09_c08_u013"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani",
+      "object": "a question",
+      "uid": "s01_e09_c08_u015"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Joey Tribbiani",
+      "object": "any tater tots",
+      "uid": "s01_e09_c08_u015"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(Joey's statement)",
+      "object": "not a question",
+      "uid": "s01_e09_c08_u016"
+    },
+    {
+      "verb": "make",
+      "subject": "my mom",
+      "object": "them",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(that)",
+      "object": "a tradition",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(generic)",
+      "object": "a little piece of turkey",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(generic)",
+      "object": "a little cranberry sauce",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(generic)",
+      "object": "a tot",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(generic)",
+      "object": "on your fork",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "with my family",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "because of my disease",
+      "uid": "s01_e09_c08_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "Tonight's potatoes",
+      "object": "mashed with lumps",
+      "uid": "s01_e09_c08_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "Tonight's potatoes",
+      "object": "in the form of tots",
+      "uid": "s01_e09_c08_u018"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": "to talk to my unborn child",
+      "uid": "s01_e09_c08_u019"
+    },
+    {
+      "verb": "talk",
+      "subject": "I/Ross Geller",
+      "object": "to my unborn child",
+      "uid": "s01_e09_c08_u019"
+    },
+    {
+      "verb": "hit",
+      "subject": "Mom",
+      "object": null,
+      "uid": "s01_e09_c08_u022"
+    },
+    {
+      "verb": "whip",
+      "subject": "you/Phoebe Buffay",
+      "object": "the potatoes",
+      "uid": "s01_e09_c08_u025"
+    },
+    {
+      "verb": "need",
+      "subject": "Ross Geller",
+      "object": "lumps",
+      "uid": "s01_e09_c08_u025"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Phoebe Buffay",
+      "object": "we could have them whipped and then add some peas and onions",
+      "uid": "s01_e09_c08_u026"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Phoebe Buffay and Monica Geller)",
+      "object": "them whipped",
+      "uid": "s01_e09_c08_u026"
+    },
+    {
+      "verb": "add",
+      "subject": "we/(Phoebe Buffay and Monica Geller)",
+      "object": "some peas and onions",
+      "uid": "s01_e09_c08_u026"
+    },
+    {
+      "verb": "do",
+      "subject": "we/(Monica Geller and Phoebe Buffay)",
+      "object": "that",
+      "uid": "s01_e09_c08_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(potatoes)",
+      "object": "like my mom used to make them",
+      "uid": "s01_e09_c08_u028"
+    },
+    {
+      "verb": "make",
+      "subject": "my mom",
+      "object": "them",
+      "uid": "s01_e09_c08_u028"
+    },
+    {
+      "verb": "die",
+      "subject": "she/(Phoebe Buffay's mom)",
+      "object": null,
+      "uid": "s01_e09_c08_u028"
+    },
+    {
+      "verb": "come",
+      "subject": "three kinds of potatoes",
+      "object": "up",
+      "uid": "s01_e09_c08_u029"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Rachel Green",
+      "object": "for everything",
+      "uid": "s01_e09_c08_u030"
+    },
+    {
+      "verb": "happen",
+      "subject": "the most unbelievable thing",
+      "object": null,
+      "uid": "s01_e09_c08_u032"
+    },
+    {
+      "verb": "get",
+      "subject": "Underdog",
+      "object": "away",
+      "uid": "s01_e09_c08_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Underdog balloon escape)",
+      "object": "over the news",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "reach",
+      "subject": "he/(Underdog balloon)",
+      "object": "Macy's",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "break",
+      "subject": "he/(Underdog balloon)",
+      "object": "free",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "spot",
+      "subject": "he/(Underdog balloon)",
+      "object": null,
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "fly",
+      "subject": "he/(Underdog balloon)",
+      "object": "over Washington Square Park",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Chandler Bing",
+      "object": "to the roof",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "who/(everyone)",
+      "object": "with me",
+      "uid": "s01_e09_c08_u034"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e09_c08_u035"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(everyone)",
+      "object": "on",
+      "uid": "s01_e09_c08_u036"
+    },
+    {
+      "verb": "let",
+      "subject": "an 80-foot inflatable dog",
+      "object": "loose over the city",
+      "uid": "s01_e09_c08_u036"
+    },
+    {
+      "verb": "happen",
+      "subject": "that/(an 80-foot inflatable dog let loose over the city)",
+      "object": null,
+      "uid": "s01_e09_c08_u036"
+    },
+    {
+      "verb": "get",
+      "subject": "you/Rachel Green",
+      "object": "the keys",
+      "uid": "s01_e09_c08_u038"
+    }
+  ]
+}

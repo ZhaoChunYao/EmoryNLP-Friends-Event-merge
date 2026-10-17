@@ -1,0 +1,82 @@
+{
+  "tuples": [
+    {
+      "verb": "think",
+      "subject": "you/(Ross Geller)",
+      "object": "what",
+      "uid": "s01_e12_c11_u001"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Ross Geller)",
+      "object": "it's the most beautiful table I've ever seen",
+      "uid": "s01_e12_c11_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(the table)",
+      "object": "the most beautiful table I've ever seen",
+      "uid": "s01_e12_c11_u002"
+    },
+    {
+      "verb": "see",
+      "subject": "I/(Ross Geller)",
+      "object": "the most beautiful table",
+      "uid": "s01_e12_c11_u002"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e12_c11_u003"
+    },
+    {
+      "verb": "work",
+      "subject": "this/(the foosball table)",
+      "object": null,
+      "uid": "s01_e12_c11_u005"
+    },
+    {
+      "verb": "balance",
+      "subject": "you/(Chandler Bing & Joey Tribbiani)",
+      "object": "the plates on these little guys' heads",
+      "uid": "s01_e12_c11_u005"
+    },
+    {
+      "verb": "care",
+      "subject": "who",
+      "object": null,
+      "uid": "s01_e12_c11_u006"
+    },
+    {
+      "verb": "eat",
+      "subject": "we/(Joey Tribbiani & Chandler Bing)",
+      "object": "at the sink",
+      "uid": "s01_e12_c11_u006"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Monica Geller & Ross Geller)",
+      "object": null,
+      "uid": "s01_e12_c11_u006"
+    },
+    {
+      "verb": "let",
+      "subject": "we/(Joey Tribbiani & Chandler Bing)",
+      "object": "play",
+      "uid": "s01_e12_c11_u006"
+    },
+    {
+      "verb": "play",
+      "subject": "we/(Joey Tribbiani & Chandler Bing)",
+      "object": null,
+      "uid": "s01_e12_c11_u006"
+    },
+    {
+      "verb": "suck",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e12_c11_u007"
+    }
+  ]
+}

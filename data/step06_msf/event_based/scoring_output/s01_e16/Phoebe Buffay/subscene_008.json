@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and drives the exchange with Speaker_06, follows up with \"With?\" and then asks a very personal question about whether they’ve had sex—openly talkative and not reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are straightforward and direct about their curiosity (explicitly says they’re asking one question and then asks if the couple has had sex), showing frankness rather than being complicated or boastful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization/efficiency or of carelessness/sloppiness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly and confidently broaches a sensitive topic without showing nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity and a lack of caution about taboo topics by directly asking if the couple has had sex."
+  }
+}

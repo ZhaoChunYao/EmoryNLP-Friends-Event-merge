@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages and talks at length (tries calling repeatedly; comments on the 'listen' tactic; openly expresses feelings during the breakup, including noting the other has never looked so beautiful)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is polite and considerate (apologizes, accepts the breakup without hostility, and shows loyalty by refusing to stop seeing a friend even when given an ultimatum)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; behavior centers on emotions and relationship decisions rather than planning or task follow‑through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains composed and self-assured (calmly rejects the ultimatum, expresses confidence about being hard to get over, and does not display anxiety or volatility)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows reflective, curious thinking (meta-comment on the rhetorical tactic 'listen' and introspection about why the other looks so beautiful during the breakup)."
+  }
+}

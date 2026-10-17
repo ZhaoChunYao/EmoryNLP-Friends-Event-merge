@@ -1,0 +1,45 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e02,Ross Geller,subscene_003.json,NEU,1,-1,2,"Episode: s01_e02
+Scene: s01_e02_c03
+Subscene index for speaker: 003
+Main speaker: Ross Geller
+UID span: s01_e02_c03_u043 → s01_e02_c03_u050
+Peak window: 39 → 40
+
+Dialogue:
+  [s01_e02_c03_u043]
+  1. Phoebe Buffay says Phoebe Buffay has found Rachel Green's engagement ring.
+  [s01_e02_c03_u044] Monica Geller: W-w-wh-... wha-... w-w-w-...
+  [s01_e02_c03_u045]
+  1. Ross Geller says if Monica Geller keeps stammering for another two hours, Monica Geller might reach Ross Geller's current state.
+  2. Ross Geller says Monica Geller would then be where Ross Geller is right now emotionally.
+  [s01_e02_c03_u046]
+  1. Chandler Bing says Carol Willick's pregnancy puts Monica Geller's pillow-fluffing worries into perspective.
+  [s01_e02_c03_u047]
+  1. Rachel Green asks how Ross Geller will fit into Carol Willick's pregnancy situation.
+  [s01_e02_c03_u048]
+  1. Ross Geller says Carol Willick said that Carol Willick and Susan Bunch want Ross Geller to be involved in the pregnancy.
+  2. Ross Geller says Carol Willick and Susan Bunch want Ross Geller to be involved.
+  3. Ross Geller says whether Ross Geller gets involved depends on Ross Geller's comfort and the decision is entirely up to Ross Geller.
+  [s01_e02_c03_u049]
+  1. Phoebe Buffay says Carol Willick is great.
+  2. Phoebe Buffay says Phoebe Buffay misses Carol Willick.
+  [s01_e02_c03_u050]
+  1. Monica Geller asks what Carol Willick means by Ross Geller being 'involved' in the pregnancy.
+","Episode: s01_e02
+Scene: s01_e02_c03
+Subscene index for speaker: 003
+Main speaker: Ross Geller
+UID span: s01_e02_c03_u043 → s01_e02_c03_u050
+Peak window: 39 → 40
+
+Dialogue:
+  [s01_e02_c03_u043] Phoebe Buffay: Ooh! I found it!
+  [s01_e02_c03_u044] Monica Geller: W-w-wh-... wha-... w-w-w-...
+  [s01_e02_c03_u045] Ross Geller: Yeah. Do that for another two hours, you might be where I am right about now.
+  [s01_e02_c03_u046] Chandler Bing: Kinda puts that whole pillow thing in perspective, huh, Mon?
+  [s01_e02_c03_u047] Rachel Green: Well now, how-how do you fit into this whole thing?
+  [s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+  [s01_e02_c03_u049] Phoebe Buffay: She is so great! I miss her.
+  [s01_e02_c03_u050] Monica Geller: What does she mean by 'involved'?
+","Says others might reach where they are emotionally after more stammering (u045), indicating heightened emotional arousal/stress.","Explains the situation calmly and asserts autonomy (“if I’m not comfortable… I don’t have to… entirely up to me,” u048), indicating composure and confidence.",,,

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, procedural statements about starting the delivery; no sociable or energetic behavior shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says “I’m sorry” while being straightforward about not being able to wait for others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Decisively organizes the team to start the delivery immediately, focusing on necessary action despite missing people."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and firm under pressure, stating they cannot wait."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or unconventional ideas; simply follows procedure without showing dogmatism."
+  }
+}

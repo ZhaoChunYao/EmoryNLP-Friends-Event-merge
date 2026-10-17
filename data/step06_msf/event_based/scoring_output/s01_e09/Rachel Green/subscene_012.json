@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is assertive and vocal, telling Speaker_03 to listen to her and engaging in a back-and-forth argument about the keys (u006, u012–u018)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She is blaming and combative—faults Speaker_03 for the balloon incident and argues/blames others about the keys, responding curtly with “Because!” (u006, u012–u018)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "She denies having or claiming to have the keys but there’s no clear evidence she was responsible for them or behaved carelessly beyond the dispute (u008, u012)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "She shows irritation but no signs of anxiety, nervousness, or emotional instability (contrast with Speaker_02’s meltdown)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "She takes a rigid, unsupported stance—insisting someone should have had the keys and refusing to give a reason beyond “Because!” (u014–u018)."
+  }
+}

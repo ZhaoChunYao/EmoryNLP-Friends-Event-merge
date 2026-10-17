@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only says their name (u021) and then \"Hello?!\" (u025) to get attention; too little and too neutral to determine outgoing vs. reserved tendencies."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No behavior indicating generosity, trustworthiness, or the opposite—just brief interjections (u021, u025)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No signs of organization or carelessness in the brief remarks (u021, u025)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "\"Hello?!\" (u025) could suggest impatience, but there is no clear display of anxiety or calm confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or dogmatism in the short lines (u021, u025)."
+  }
+}

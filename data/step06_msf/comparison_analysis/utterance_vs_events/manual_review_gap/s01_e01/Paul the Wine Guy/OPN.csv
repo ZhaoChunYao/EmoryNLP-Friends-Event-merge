@@ -1,0 +1,63 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Paul the Wine Guy,subscene_002.json,OPN,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c08
+Subscene index for speaker: 002
+Main speaker: Paul the Wine Guy
+UID span: s01_e01_c08_u001 → s01_e01_c08_u014
+Peak window: 0 → 9
+
+Dialogue:
+  [s01_e01_c08_u001]
+  1. Paul the Wine Guy says Paul's ex-girlfriend walked out on Paul the Wine Guy.
+  [s01_e01_c08_u002]
+  1. Monica Geller says Paul the Wine Guy wants to spell out what Paul the Wine Guy is trying to say with noodles.
+  2. Monica Geller says Paul the Wine Guy is planning to spell out what Paul the Wine Guy is trying to say with noodles.
+  [s01_e01_c08_u003]
+  1. Paul the Wine Guy says he plans to reveal his sexual performance problem on a fifth date.
+  [s01_e01_c08_u004]
+  1. Monica Geller says there is going to be a fifth date between Monica Geller and Paul the Wine Guy.
+  [s01_e01_c08_u005]
+  1. Paul the Wine Guy says there is going to be a fifth date between Paul the Wine Guy and Monica Geller.
+  [s01_e01_c08_u006]
+  1. Monica Geller says Monica Geller thinks there is going to be a fifth date between Monica Geller and Paul the Wine Guy.
+  2. Monica Geller says Paul the Wine Guy was going to say what Paul the Wine Guy intended to reveal about his sexual performance problem.
+  [s01_e01_c08_u007]
+  1. Paul the Wine Guy says Paul's ex-girlfriend left Paul the Wine Guy.
+  2. Paul the Wine Guy says Paul the Wine Guy has not been able to perform sexually since Paul's ex-girlfriend left Paul the Wine Guy.
+  [s01_e01_c08_u008]
+  1. Monica Geller says Monica Geller is so sorry for spitting on Paul the Wine Guy.
+  [s01_e01_c08_u009]
+  1. Paul the Wine Guy says Monica Geller spitting on Paul the Wine Guy is okay.
+  [s01_e01_c08_u010]
+  1. Monica Geller says Monica Geller knows that being spit on by Monica Geller is probably not what Paul the Wine Guy needs right now.
+  [s01_e01_c08_u011] Paul the Wine Guy: Two years.
+  [s01_e01_c08_u012]
+  1. Monica Geller says Monica Geller is glad that Paul the Wine Guy smashed Paul the Wine Guy's ex-girlfriend's watch.
+  2. Monica Geller says Paul the Wine Guy smashed Paul the Wine Guy's ex-girlfriend's watch.
+  [s01_e01_c08_u013]
+  1. Paul the Wine Guy says Monica Geller thinks Monica Geller might want a fifth date with Paul the Wine Guy.
+  [s01_e01_c08_u014]
+  1. Monica Geller says Monica Geller wants a fifth date with Paul the Wine Guy.
+","Episode: s01_e01
+Scene: s01_e01_c08
+Subscene index for speaker: 002
+Main speaker: Paul the Wine Guy
+UID span: s01_e01_c08_u001 → s01_e01_c08_u014
+Peak window: 0 → 9
+
+Dialogue:
+  [s01_e01_c08_u001] Paul the Wine Guy: Ever since she walked out on me, I, uh...
+  [s01_e01_c08_u002] Monica Geller: What?..... What, you wanna spell it out with noodles?
+  [s01_e01_c08_u003] Paul the Wine Guy: No, it's, it's more of a fifth date kinda revelation.
+  [s01_e01_c08_u004] Monica Geller: Oh, so there is gonna be a fifth date?
+  [s01_e01_c08_u005] Paul the Wine Guy: Isn't there?
+  [s01_e01_c08_u006] Monica Geller: Yeah... yeah, I think there is. -What were you gonna say?
+  [s01_e01_c08_u007] Paul the Wine Guy: Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. ...Sexually.
+  [s01_e01_c08_u008] Monica Geller: Oh God, oh God, I am sorry... I am so sorry...
+  [s01_e01_c08_u009] Paul the Wine Guy: It's okay...
+  [s01_e01_c08_u010] Monica Geller: I know being spit on is probably not what you need right now. Um... how long?
+  [s01_e01_c08_u011] Paul the Wine Guy: Two years.
+  [s01_e01_c08_u012] Monica Geller: Wow! I'm-I'm-I'm glad you smashed her watch!
+  [s01_e01_c08_u013] Paul the Wine Guy: So you still think you, um... might want that fifth date?
+  [s01_e01_c08_u014] Monica Geller: ...Yeah. Yeah, I do.
+","He planned to spell out what he wanted to say with noodles, a creative and unconventional idea.","Treats the topic as something to reserve for a later date ('more of a fifth date kinda revelation'), reflecting cautiousness; no signs of curiosity or imaginative thinking.",,,

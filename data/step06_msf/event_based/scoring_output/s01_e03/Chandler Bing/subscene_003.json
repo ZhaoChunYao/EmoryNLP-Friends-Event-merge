@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, matter-of-fact statements about smoking and stopping; no signs of outgoing, energetic, or talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker smokes around friends despite their objections, leading one to say they can’t drink their beverage now; he only puts it out after being told to 'Put it out!'"
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "After three years of not smoking, TargetSpeaker resumes, calls the cigarette a 'reward,' and says they won’t quit this time—showing poor self-control and planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional volatility; TargetSpeaker responds calmly. References to past difficulty come from others, not current behavior."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The exchange provides no concrete signs of curiosity or creativity; refusing to quit is more about self-control than open-mindedness."
+  }
+}

@@ -1,0 +1,128 @@
+event_id: s01_e16_c09_u001_e1
+utterance_id: s01_e16_c09_u001
+  tuple: ('want', 'you/Phoebe Buffay', 'what', 's01_e16_c09_u001')
+  tuple: ('want', 'you/Phoebe Buffay', 'for your birthday', 's01_e16_c09_u001')
+
+event_id: s01_e16_c09_u002_e1
+utterance_id: s01_e16_c09_u002
+  tuple: ('want', 'I/Phoebe Buffay', 'what', 's01_e16_c09_u002')
+  tuple: ('be', 'what I really want', 'for my mom to be alive and enjoy it with me', 's01_e16_c09_u002')
+  tuple: ('be', 'my mom', 'alive', 's01_e16_c09_u002')
+  tuple: ('enjoy', 'my mom', 'it', 's01_e16_c09_u002')
+  tuple: ('enjoy', 'my mom', 'with me', 's01_e16_c09_u002')
+
+event_id: s01_e16_c09_u003_e1
+utterance_id: s01_e16_c09_u003
+  tuple: ('let', 'you/Phoebe Buffay', 'me put it this way', 's01_e16_c09_u003')
+  tuple: ('put', 'me/Rachel Green', 'it', 's01_e16_c09_u003')
+
+event_id: s01_e16_c09_u004_e1
+utterance_id: s01_e16_c09_u004
+  tuple: ('be', 'Bath salts', 'nice', 's01_e16_c09_u004')
+
+event_id: s01_e16_c09_u007_e1
+utterance_id: s01_e16_c09_u007
+  tuple: ('be', 'this place', 'what', 's01_e16_c09_u007')
+
+event_id: s01_e16_c09_u008_e1
+utterance_id: s01_e16_c09_u008
+  tuple: ('look', 'you/Jamie', None, 's01_e16_c09_u008')
+
+event_id: s01_e16_c09_u008_e2
+utterance_id: s01_e16_c09_u008
+  tuple: ('be', 'you/Jamie', 'cold', 's01_e16_c09_u008')
+
+event_id: s01_e16_c09_u008_e3
+utterance_id: s01_e16_c09_u008
+  tuple: ('have', 'I/Frank Buffay Jr.', 'to pee', 's01_e16_c09_u008')
+  tuple: ('pee', 'I/Frank Buffay Jr.', None, 's01_e16_c09_u008')
+
+event_id: s01_e16_c09_u008_e4
+utterance_id: s01_e16_c09_u008
+  tuple: ('be', 'there', 'a cup of coffee', 's01_e16_c09_u008')
+  tuple: ('be', 'a cup of coffee', 'on the window', 's01_e16_c09_u008')
+
+event_id: s01_e16_c09_u008_e5
+utterance_id: s01_e16_c09_u008
+  tuple: ('be', 'it', 'bad', 's01_e16_c09_u008')
+
+event_id: s01_e16_c09_u010_e1
+utterance_id: s01_e16_c09_u010
+  tuple: ('think', 'I/Jamie', 'we have an answer', 's01_e16_c09_u010')
+  tuple: ('have', 'we/(Jamie and Frank Buffay Jr.)', 'an answer', 's01_e16_c09_u010')
+
+event_id: s01_e16_c09_u011_e1
+utterance_id: s01_e16_c09_u011
+  tuple: ('do', 'she/Phoebe Buffay', 'what', 's01_e16_c09_u011')
+
+event_id: s01_e16_c09_u012_e1
+utterance_id: s01_e16_c09_u012
+  tuple: ('be', 'this', 'Gods way of telling us to eat at home', 's01_e16_c09_u012')
+  tuple: ('tell', 'Gods way', 'us', 's01_e16_c09_u012')
+  tuple: ('eat', 'us/(Jamie and Frank Buffay Jr.)', 'at home', 's01_e16_c09_u012')
+
+event_id: s01_e16_c09_u013_e1
+utterance_id: s01_e16_c09_u013
+  tuple: ('think', 'you/Jamie', 'she got fired at Riffs', 's01_e16_c09_u013')
+  tuple: ('get fired', 'she/Phoebe Buffay', 'at Riffs', 's01_e16_c09_u013')
+
+event_id: s01_e16_c09_u014_e1
+utterance_id: s01_e16_c09_u014
+  tuple: ('be', 'we/(Jamie and Frank Buffay Jr.)', 'there', 's01_e16_c09_u014')
+
+event_id: s01_e16_c09_u014_e2
+utterance_id: s01_e16_c09_u014
+  tuple: ('keep', 'she/Phoebe Buffay', 'bringing swordfish', 's01_e16_c09_u014')
+  tuple: ('bring', 'she/Phoebe Buffay', 'swordfish', 's01_e16_c09_u014')
+
+event_id: s01_e16_c09_u014_e3
+utterance_id: s01_e16_c09_u014
+  tuple: ('go', 'you/Frank Buffay Jr.', None, 's01_e16_c09_u014')
+
+event_id: s01_e16_c09_u015_e1
+utterance_id: s01_e16_c09_u015
+  tuple: ('wait', 'I/Frank Buffay Jr.', 'till after we order', 's01_e16_c09_u015')
+  tuple: ('order', 'we/(Jamie and Frank Buffay Jr.)', None, 's01_e16_c09_u015')
+
+event_id: s01_e16_c09_u015_e2
+utterance_id: s01_e16_c09_u015
+  tuple: ('be', 'it', 'her', 's01_e16_c09_u015')
+
+event_id: s01_e16_c09_u016_e1
+utterance_id: s01_e16_c09_u016
+  tuple: ('look', 'it', 'like her', 's01_e16_c09_u016')
+
+event_id: s01_e16_c09_u018_e1
+utterance_id: s01_e16_c09_u018
+  tuple: ('excuse', 'you/Phoebe Buffay', 'me/Jamie', 's01_e16_c09_u018')
+
+event_id: s01_e16_c09_u020_e1
+utterance_id: s01_e16_c09_u020
+  tuple: ('be', 'it', 'us', 's01_e16_c09_u020')
+
+event_id: s01_e16_c09_u021_e1
+utterance_id: s01_e16_c09_u021
+  tuple: ('be', 'it', 'me', 's01_e16_c09_u021')
+
+event_id: s01_e16_c09_u022_e1
+utterance_id: s01_e16_c09_u022
+  tuple: ('be', 'you/Phoebe Buffay', 'here', 's01_e16_c09_u022')
+
+event_id: s01_e16_c09_u023_e1
+utterance_id: s01_e16_c09_u023
+  tuple: ('be', 'you/Jamie', None, 's01_e16_c09_u023')
+
+event_id: s01_e16_c09_u025_e1
+utterance_id: s01_e16_c09_u025
+  tuple: ('know', 'we/(Jamie and Frank Buffay Jr.)', 'what we want', 's01_e16_c09_u025')
+  tuple: ('want', 'we/(Jamie and Frank Buffay Jr.)', 'what', 's01_e16_c09_u025')
+
+event_id: s01_e16_c09_u026_e1
+utterance_id: s01_e16_c09_u026
+  tuple: ('be', 'that', 'good', 's01_e16_c09_u026')
+
+event_id: s01_e16_c09_u027_e1
+utterance_id: s01_e16_c09_u027
+  tuple: ('want', 'we/(Jamie and Frank Buffay Jr.)', 'all', 's01_e16_c09_u027')
+  tuple: ('be', 'all we want', 'two Caffe Lattes', 's01_e16_c09_u027')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly engages in a group conversation about a sexual dream, reacts with enthusiasm (\"Wow!\"), and directly asks if they were good in the dream (u011, u014), then makes playful public jokes (u022)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for another by asking if Speaker_04 is okay (u020) and offers an apology about the situation (u022)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or sloppiness; comments are casual and humorous without task-related conduct."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses self-doubt by saying in their own dreams they are always surprisingly inadequate (u016) and apologizes about a harmless dream scenario (u022), suggesting sensitivity/insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortably discusses intimate, unconventional content and asks about performance (u014), adding creative humor about being drunk and someone else’s subconscious (u022)."
+  }
+}

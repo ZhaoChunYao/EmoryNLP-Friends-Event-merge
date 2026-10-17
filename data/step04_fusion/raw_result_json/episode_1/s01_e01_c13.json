@@ -1,0 +1,271 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c13_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'a line', 's01_e01_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('do', 'anybody', 'something', 's01_e01_c13_u002')",
+            "('do', 'anybody', 'like that', 's01_e01_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('assume', 'I/Ross Geller', \"we're looking for an answer more sophisticated than 'to get you into bed'\", 's01_e01_c13_u003')",
+            "('look', 'we/(group)', 'for an answer', 's01_e01_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('get', 'someone', 'you', 's01_e01_c13_u003')",
+            "('get', 'someone', 'into bed', 's01_e01_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'I/Monica Geller', 'men', 's01_e01_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('hate', 'you/Monica Geller', None, 's01_e01_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('want', 'you/Monica Geller', 'to put that out into the universe', 's01_e01_c13_u005')",
+            "('put', 'you/Monica Geller', 'that', 's01_e01_c13_u005')",
+            "('put', 'you/Monica Geller', 'out that', 's01_e01_c13_u005')",
+            "('put', 'you/Monica Geller', 'into the universe', 's01_e01_c13_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'me', 's01_e01_c13_u006')",
+            "('be', 'it', 'like I have some sort of beacon that only dogs and men with severe emotional problems can hear', 's01_e01_c13_u006')",
+            "('have', 'I/Monica Geller', 'some sort of beacon', 's01_e01_c13_u006')",
+            "('hear', 'only dogs and men with severe emotional problems', 'that', 's01_e01_c13_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('come', 'you/Monica Geller', None, 's01_e01_c13_u007')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('give', 'you/Monica Geller', 'your feet', 's01_e01_c13_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'I/Monica Geller', 'he was nice', 's01_e01_c13_u008')",
+            "('be', \"he/(Monica's date)\", 'nice', 's01_e01_c13_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('believe', 'I/Joey Tribbiani', \"you didn't know it was a line\", 's01_e01_c13_u009')",
+            "('know', 'you/Monica Geller', 'it was a line', 's01_e01_c13_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('guess', 'you/(group)', 'what', 's01_e01_c13_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Rachel Green', 'a job', 's01_e01_c13_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('kid', 'you/Ross Geller', None, 's01_e01_c13_u013')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('train', 'I/Rachel Green', None, 's01_e01_c13_u013')",
+            "('train', 'I/Rachel Green', 'for nothing', 's01_e01_c13_u013')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('laugh', 'I/Rachel Green', None, 's01_e01_c13_u013')",
+            "('laugh', 'I/Rachel Green', 'out of twelve interviews', 's01_e01_c13_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'upbeat', 's01_e01_c13_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', None, 's01_e01_c13_u015')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('find', 'you/Chandler Bing', 'John and David boots', 's01_e01_c13_u015')",
+            "('find', 'you/Chandler Bing', 'on sale', 's01_e01_c13_u015')",
+            "('find', 'you/Chandler Bing', 'off fifty percent', 's01_e01_c13_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Rachel Green', 'me', 's01_e01_c13_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'they/(boots)', \"my new 'I don't need a job, I don't need my parents, I've got great boots' boots\", 's01_e01_c13_u017')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('need', 'I/Rachel Green', 'a job', 's01_e01_c13_u017')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('need', 'I/Rachel Green', 'my parents', 's01_e01_c13_u017')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'great boots', 's01_e01_c13_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('pay', 'you/Rachel Green', 'for them', 's01_e01_c13_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c13_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('pay', \"who/(Rachel Green's father)\", 'for that', 's01_e01_c13_u020')"
+          ]
+        }
+      ]
+    }
+  ]
+}

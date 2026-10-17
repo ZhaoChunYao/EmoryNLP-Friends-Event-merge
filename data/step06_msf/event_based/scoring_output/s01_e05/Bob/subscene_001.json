@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, minimal replies (e.g., “Yep. Pretty much.”) and does not elaborate, indicating a reserved manner."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks positively about another person (“Speaker_03 is great”) and is straightforward about not having noticed the eating noise."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or over-sensitivity; tone remains neutral, but no strong display of confidence either."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or dogmatism in the brief exchanges."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads group interactions by introducing Speaker_03 to everyone and prompting the group to start commenting (“introducing…,” “who is going to make the first critical comment,” “C’mon!”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Boastful about being liked (“remember how much you like me… everyone likes me a lot”) and instigates a group 'Speaker_03-bashing,' asking for the first critical comment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from basic social hosting (introductions), there is no clear sign of efficiency/organization or of sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Seeks reassurance about being liked (“remember how much you like me… everyone likes me a lot”), suggesting insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete indications of curiosity/creativity or dogmatic/cautious thinking in the dialogue."
+  }
+}

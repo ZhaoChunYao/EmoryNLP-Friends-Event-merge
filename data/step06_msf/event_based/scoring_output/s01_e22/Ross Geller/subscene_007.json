@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker shares logistical info about a call system but shows no clear outgoing or reserved social behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Says he will ignore Speaker_02’s calls unless she punches in 911, showing low willingness to accommodate non-urgent contact."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proposes a clear, efficient phone system with an emergency code and prioritizes only urgent calls."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and confidently about the plan without signs of worry or nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses extra details as “more than [he] needed to know,” suggesting low curiosity for additional information."
+  }
+}

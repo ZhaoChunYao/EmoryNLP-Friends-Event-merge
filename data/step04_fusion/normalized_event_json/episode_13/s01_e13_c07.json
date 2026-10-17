@@ -1,0 +1,217 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e13_c07_u001",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u001_e1",
+          "tuples": [
+            "('do', 'you/Joey Tribbiani', 'what', 's01_e13_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u002",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u002_e1",
+          "tuples": [
+            "('try', 'I/Joey Tribbiani', 'to get comfortable', 's01_e13_c07_u002')",
+            "('get', 'I/Joey Tribbiani', 'comfortable', 's01_e13_c07_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u002_e2",
+          "tuples": [
+            "('sleep', 'I/Joey Tribbiani', None, 's01_e13_c07_u002')",
+            "('sleep', 'I/Joey Tribbiani', 'in my underwear', 's01_e13_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u003",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u003_e1",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani', None, 's01_e13_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u004",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u004_e1",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', 'about how I am always seeing girls on top of girls', 's01_e13_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u004_e2",
+          "tuples": [
+            "('see', 'I/Joey Tribbiani', 'girls', 's01_e13_c07_u004')",
+            "('see', 'I/Joey Tribbiani', 'on top of girls', 's01_e13_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u005",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u005_e1",
+          "tuples": [
+            "('be', 'they/(girls)', 'end to end', 's01_e13_c07_u005')",
+            "('be', 'they/(girls)', 'tall like pancakes', 's01_e13_c07_u005')",
+            "('be', 'they/(girls)', 'like pancakes', 's01_e13_c07_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u006",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u006_e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', 'what I mean', 's01_e13_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u006_e2",
+          "tuples": [
+            "('mean', 'I/Joey Tribbiani', 'what', 's01_e13_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u006_e3",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani', 'out', 's01_e13_c07_u006')",
+            "('go', 'I/Joey Tribbiani', 'out with all these women', 's01_e13_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u006_e4",
+          "tuples": [
+            "('figure', 'I/Joey Tribbiani', \"when the right one comes along, I'd be able to be a stand-up guy and go the distance\", 's01_e13_c07_u006')",
+            "('come', 'the right one', 'along', 's01_e13_c07_u006')",
+            "('be', 'I/Joey Tribbiani', 'able to be a stand-up guy and go the distance', 's01_e13_c07_u006')",
+            "('be', 'I/Joey Tribbiani', 'a stand-up guy', 's01_e13_c07_u006')",
+            "('go', 'I/Joey Tribbiani', 'the distance', 's01_e13_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u006_e5",
+          "tuples": [
+            "('look', 'I/Joey Tribbiani', None, 's01_e13_c07_u006')",
+            "('look', 'I/Joey Tribbiani', 'at my dad', 's01_e13_c07_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u006_e6",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', None, 's01_e13_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u007",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u007_e1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'not him', 's01_e13_c07_u007')",
+            "('be', 'you/Joey Tribbiani', 'you', 's01_e13_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u007_e2",
+          "tuples": [
+            "('be', 'they/(people)', \"all over you to go into your father's pipe-fitting business\", 's01_e13_c07_u007')",
+            "('go', 'you/Joey Tribbiani', \"into your father's pipe-fitting business\", 's01_e13_c07_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u007_e3",
+          "tuples": [
+            "('cave', 'you/Joey Tribbiani', None, 's01_e13_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u009",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u009_e1",
+          "tuples": [
+            "('decide', 'you/Joey Tribbiani', 'to go into the out-of-work actor business', 's01_e13_c07_u009')",
+            "('go', 'you/Joey Tribbiani', 'into the out-of-work actor business', 's01_e13_c07_u009')",
+            "('be', 'that/(going into the out-of-work actor business)', 'not easy', 's01_e13_c07_u009')",
+            "('do', 'you/Joey Tribbiani', 'it', 's01_e13_c07_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c07_u009_e2",
+          "tuples": [
+            "('like', 'I/Chandler Bing', 'to believe that when the right woman comes along, you will have the courage and the guts to say \"No thanks, I\\'m married.\"', 's01_e13_c07_u009')",
+            "('believe', 'I/Chandler Bing', 'that when the right woman comes along, you will have the courage and the guts to say \"No thanks, I\\'m married.\"', 's01_e13_c07_u009')",
+            "('come', 'the right woman', 'along', 's01_e13_c07_u009')",
+            "('have', 'you/Joey Tribbiani', 'the courage and the guts to say \"No thanks, I\\'m married.\"', 's01_e13_c07_u009')",
+            "('say', 'you/Joey Tribbiani', '\"No thanks, I\\'m married.\"', 's01_e13_c07_u009')",
+            "('be', 'I/Joey Tribbiani', 'married', 's01_e13_c07_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u010",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u010_e1",
+          "tuples": [
+            "('think', 'you/Chandler Bing', 'so', 's01_e13_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u011",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u011_e1",
+          "tuples": [
+            "('do', 'I/Chandler Bing', None, 's01_e13_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u012",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u012_e1",
+          "tuples": [
+            "('thank', 'I/Joey Tribbiani', 'Chandler', 's01_e13_c07_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c07_u013",
+      "events": [
+        {
+          "event_id": "s01_e13_c07_u013_e1",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'off', 's01_e13_c07_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

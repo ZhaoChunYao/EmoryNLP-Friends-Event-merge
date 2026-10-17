@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Aside from a brief 'Yeah,' the speaker shares a short reflective statement; no clear signs of outgoing or reserved behavior beyond this."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "They state they ran out on Speaker_02 at the wedding and affirm it was the right choice—breaking a major commitment suggests unreliability/disagreeableness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Running out on a wedding indicates abandoning a planned commitment, suggesting impulsive or careless behavior rather than organized follow-through."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "They say they have been wondering ever since whether it was the right choice, indicating ongoing worry and sensitivity, even if now they feel certain."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity/inventiveness or dogmatic/cautious thinking beyond affirming a past choice."
+  }
+}

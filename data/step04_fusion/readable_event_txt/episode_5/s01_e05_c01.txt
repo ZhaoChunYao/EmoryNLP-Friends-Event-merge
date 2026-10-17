@@ -1,0 +1,72 @@
+event_id: s01_e05_c01_u001_e1
+utterance_id: s01_e05_c01_u001
+  tuple: ('let', 'you/(Ross Geller)', 'it', 's01_e05_c01_u001')
+  tuple: ('go', 'it/(bra removal trick)', None, 's01_e05_c01_u001')
+
+event_id: s01_e05_c01_u001_e2
+utterance_id: s01_e05_c01_u001
+  tuple: ('be', 'it/(bra removal trick)', 'not that big a deal', 's01_e05_c01_u001')
+
+event_id: s01_e05_c01_u002_e1
+utterance_id: s01_e05_c01_u002
+  tuple: ('be', 'it/(bra removal trick)', 'amazing', 's01_e05_c01_u002')
+
+event_id: s01_e05_c01_u002_e2
+utterance_id: s01_e05_c01_u002
+  tuple: ('reach', 'you/(generic)', 'in there', 's01_e05_c01_u002')
+  tuple: ('be', 'there', 'one little maneuver', 's01_e05_c01_u002')
+
+event_id: s01_e05_c01_u002_e3
+utterance_id: s01_e05_c01_u002
+  tuple: ('be', 'I/(Ross Geller)', 'concerned', 's01_e05_c01_u002')
+  tuple: ('be', 'there', 'nothing', 's01_e05_c01_u002')
+  tuple: ('do', 'a guy', 'nothing', 's01_e05_c01_u002')
+  tuple: ('come', 'that/(thing a guy can do)', 'close', 's01_e05_c01_u002')
+
+event_id: s01_e05_c01_u002_e4
+utterance_id: s01_e05_c01_u002
+  tuple: ('be', 'I/(Ross Geller)', 'right', 's01_e05_c01_u002')
+
+event_id: s01_e05_c01_u003_e1
+utterance_id: s01_e05_c01_u003
+  tuple: ('come', 'you/(everyone)', None, 's01_e05_c01_u003')
+
+event_id: s01_e05_c01_u003_e2
+utterance_id: s01_e05_c01_u003
+  tuple: ('pee', 'you guys/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e05_c01_u003')
+  tuple: ('stand', 'you guys/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'up', 's01_e05_c01_u003')
+
+event_id: s01_e05_c01_u004_e1
+utterance_id: s01_e05_c01_u004
+  tuple: ('try', 'I/(Chandler Bing)', 'that', 's01_e05_c01_u004')
+
+event_id: s01_e05_c01_u005_e1
+utterance_id: s01_e05_c01_u005
+  tuple: ('know', 'you/(everyone)', 'what blows my mind', 's01_e05_c01_u005')
+
+event_id: s01_e05_c01_u005_e2
+utterance_id: s01_e05_c01_u005
+  tuple: ('blow', 'what/(women can see breasts any time they want)', 'my mind', 's01_e05_c01_u005')
+  tuple: ('see', 'women', 'breasts', 's01_e05_c01_u005')
+  tuple: ('want', 'they/breasts', None, 's01_e05_c01_u005')
+  tuple: ('look', 'you/(women)', 'down', 's01_e05_c01_u005')
+  tuple: ('be', 'they/breasts', 'there', 's01_e05_c01_u005')
+
+event_id: s01_e05_c01_u005_e3
+utterance_id: s01_e05_c01_u005
+  tuple: ('get', 'you/(women)', 'any work done', 's01_e05_c01_u005')
+  tuple: ('be', 'how you get any work done', 'beyond me', 's01_e05_c01_u005')
+
+event_id: s01_e05_c01_u006_e1
+utterance_id: s01_e05_c01_u006
+  tuple: ('know', 'you/(everyone)', "what I don't get", 's01_e05_c01_u006')
+
+event_id: s01_e05_c01_u006_e2
+utterance_id: s01_e05_c01_u006
+  tuple: ('get', 'I/(Phoebe Buffay)', None, 's01_e05_c01_u006')
+  tuple: ('do', 'guys', 'so many mean things', 's01_e05_c01_u006')
+
+event_id: s01_e05_c01_u006_e3
+utterance_id: s01_e05_c01_u006
+  tuple: ('care', 'guys', None, 's01_e05_c01_u006')
+

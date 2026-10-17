@@ -1,0 +1,23 @@
+event_id: s01_e08_c05_u001_e1
+utterance_id: s01_e08_c05_u001
+  tuple: ('think', 'I/Ross Geller', 'it was gonna be a closed casket', 's01_e08_c05_u001')
+  tuple: ('be', 'it', 'a closed casket', 's01_e08_c05_u001')
+
+event_id: s01_e08_c05_u002_e1
+utterance_id: s01_e08_c05_u002
+  tuple: ('mean', 'that', "she can't look nice", 's01_e08_c05_u002')
+  tuple: ('look', 'she', 'nice', 's01_e08_c05_u002')
+
+event_id: s01_e08_c05_u004_e1
+utterance_id: s01_e08_c05_u004
+  tuple: ('think', 'you/Ross Geller', 'you can get in there', 's01_e08_c05_u004')
+  tuple: ('get', 'you/Ross Geller', 'in there', 's01_e08_c05_u004')
+
+event_id: s01_e08_c05_u005_e1
+utterance_id: s01_e08_c05_u005
+  tuple: ('see', 'I/Ross Geller', 'why not', 's01_e08_c05_u005')
+
+event_id: s01_e08_c05_u007_e1
+utterance_id: s01_e08_c05_u007
+  tuple: ('be', 'my retainer', 'here', 's01_e08_c05_u007')
+

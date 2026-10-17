@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker excitedly exclaims \"Ooh! Oh!\" and was actively interacting by cleansing Speaker_03's aura, showing energetic, outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After Speaker_03 tells TargetSpeaker to stop cleansing and leave the aura alone, TargetSpeaker replies \"be murky,\" which is dismissive and uncooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors related to organization, planning, or reliability are shown in the exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "There are no clear signs of anxiety or insecurity; brief exclamations do not indicate neuroticism."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Engaging in aura cleansing reflects interest in unconventional, spiritual practices, indicating curiosity and openness."
+  }
+}

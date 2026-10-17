@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates a talk about co‑parenting decisions, proposes an example (baby name), reacts openly (“Marlon?!”), jokes (“As in Mouse?”), and assertively puts “Julia” on the table."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Is critical of the suggested name (“I hear ‘Mouse’”), challenges a prior agreement, and tells them to “roll with the punches” while pushing a new option—showing low accommodation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proactively raises the need for important decisions and asks how decision‑making will work, suggesting a concrete example to discuss."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and composure—calls the situation “funny,” urges adapting to change, and displays no anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages flexibility (“circumstances change,” “roll with the punches”) and welcomes a new option by adding “Julia” for consideration."
+  }
+}

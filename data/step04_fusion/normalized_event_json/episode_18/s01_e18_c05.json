@@ -1,0 +1,248 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e18_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u001_e1",
+          "tuples": [
+            "('listen', 'we/(Phoebe Buffay+Ross Geller)', None, 's01_e18_c05_u001')",
+            "('listen', 'we/(Phoebe Buffay+Ross Geller)', 'to anything else', 's01_e18_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u004_e1",
+          "tuples": [
+            "('pay', 'I/(Ross Geller)', 'for that', 's01_e18_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u008_e1",
+          "tuples": [
+            "('guess', 'you/(guys)', 'what', 's01_e18_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u009",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u009_e1",
+          "tuples": [
+            "('cave', 'the fifth dentist', None, 's01_e18_c05_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u009_e2",
+          "tuples": [
+            "('recommend', 'they/(the dentists)', 'Trident', 's01_e18_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u010",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u010_e1",
+          "tuples": [
+            "('love', 'she/(interviewer)', 'me', 's01_e18_c05_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u010_e2",
+          "tuples": [
+            "('talk', 'we/(Rachel Green+interviewer)', None, 's01_e18_c05_u010')",
+            "('talk', 'we/(Rachel Green+interviewer)', 'for like two and a half hours', 's01_e18_c05_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u010_e3",
+          "tuples": [
+            "('have', 'we/(Rachel Green+interviewer)', 'the same taste', 's01_e18_c05_u010')",
+            "('have', 'we/(Rachel Green+interviewer)', 'in clothes', 's01_e18_c05_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u010_e4",
+          "tuples": [
+            "('go', 'I/(Rachel Green)', 'to camp', 's01_e18_c05_u010')",
+            "('go', 'I/(Rachel Green)', 'with her cousin', 's01_e18_c05_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u010_e5",
+          "tuples": [
+            "('be', 'the job', 'perfect', 's01_e18_c05_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u010_e6",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', 'this', 's01_e18_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u011_e1",
+          "tuples": [
+            "('be', \"that/(Rachel's interview news)\", 'great', 's01_e18_c05_u011')",
+            "('be', \"that/(Rachel's interview news)\", 'wonderful', 's01_e18_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u012",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u012_e1",
+          "tuples": [
+            "('tell', 'she/(interviewer)', 'the funniest story', 's01_e18_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u013",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u013_e1",
+          "tuples": [
+            "('tell', 'you/(Rachel Green)', 'us', 's01_e18_c05_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u013_e2",
+          "tuples": [
+            "('laugh', 'we/(Monica Geller+friends)', None, 's01_e18_c05_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u013_e3",
+          "tuples": [
+            "('let', 'us/(Monica Geller+friends)', 'play poker', 's01_e18_c05_u013')",
+            "('play', 'us/(Monica Geller+friends)', 'poker', 's01_e18_c05_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u014",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u014_e1",
+          "tuples": [
+            "('listen', 'you/(guys)', None, 's01_e18_c05_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u014_e2",
+          "tuples": [
+            "('talk', 'we/(Joey Tribbiani+Chandler Bing+Ross Geller)', None, 's01_e18_c05_u014')",
+            "('talk', 'we/(Joey Tribbiani+Chandler Bing+Ross Geller)', 'about it', 's01_e18_c05_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u014_e3",
+          "tuples": [
+            "('want', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'to play', 's01_e18_c05_u014')",
+            "('play', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', None, 's01_e18_c05_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u014_e4",
+          "tuples": [
+            "('understand', 'we/(Joey Tribbiani+Chandler Bing+Ross Geller)', None, 's01_e18_c05_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u015",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u015_e1",
+          "tuples": [
+            "('play', 'we/(Chandler Bing+friends)', 'some other game', 's01_e18_c05_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u015_e2",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', None, 's01_e18_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u017",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u017_e1",
+          "tuples": [
+            "('think', 'I/(Monica Geller)', \"we'd like to give poker another try\", 's01_e18_c05_u017')",
+            "('give', 'we/(Monica Geller+Phoebe Buffay+Rachel Green)', 'poker another try', 's01_e18_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u018",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u018_e1",
+          "tuples": [
+            "('should', 'we/(Phoebe Buffay+Rachel Green)', None, 's01_e18_c05_u018')",
+            "('think', 'I/(Rachel Green)', 'we should', 's01_e18_c05_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u019",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u019_e1",
+          "tuples": [
+            "('want', 'you/(Rachel Green)', 'me to shuffle those', 's01_e18_c05_u019')",
+            "('shuffle', 'me/(Ross Geller)', 'those', 's01_e18_c05_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c05_u020",
+      "events": [
+        {
+          "event_id": "s01_e18_c05_u020_e1",
+          "tuples": [
+            "('be', \"that/(Ross's offer)\", 'OK', 's01_e18_c05_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c05_u020_e2",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', \"I'm gonna give it a go\", 's01_e18_c05_u020')",
+            "('give', 'I/(Rachel Green)', 'it a go', 's01_e18_c05_u020')"
+          ]
+        }
+      ]
+    }
+  ]
+}

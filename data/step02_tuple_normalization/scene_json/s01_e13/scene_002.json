@@ -1,0 +1,484 @@
+{
+  "tuples": [
+    {
+      "verb": "tell",
+      "subject": "you/Roger",
+      "object": "the story",
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Roger",
+      "object": "about your patient",
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "think",
+      "subject": "your patient",
+      "object": "things",
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "things",
+      "object": "like other things",
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "ring",
+      "subject": "the phone",
+      "object": null,
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "take",
+      "subject": "she/your patient",
+      "object": "a shower",
+      "uid": "s01_e13_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "that/the story",
+      "object": "it",
+      "uid": "s01_e13_c02_u002"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Phoebe Buffay",
+      "object": "it",
+      "uid": "s01_e13_c02_u004"
+    },
+    {
+      "verb": "go",
+      "subject": "you/Roger",
+      "object": null,
+      "uid": "s01_e13_c02_u005"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/Phoebe Buffay and friends",
+      "object": "about you/Roger",
+      "uid": "s01_e13_c02_u005"
+    },
+    {
+      "verb": "miss",
+      "subject": "I/Roger",
+      "object": "you/Phoebe Buffay",
+      "uid": "s01_e13_c02_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Roger",
+      "object": "great",
+      "uid": "s01_e13_c02_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Roger",
+      "object": "so cute",
+      "uid": "s01_e13_c02_u008"
+    },
+    {
+      "verb": "seem",
+      "subject": "he/Roger",
+      "object": null,
+      "uid": "s01_e13_c02_u008"
+    },
+    {
+      "verb": "like",
+      "subject": "he/Roger",
+      "object": "you/Phoebe Buffay",
+      "uid": "s01_e13_c02_u008"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e13_c02_u009"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Roger",
+      "object": "not too shrinky",
+      "uid": "s01_e13_c02_u009"
+    },
+    {
+      "verb": "know",
+      "subject": "you/everyone",
+      "object": null,
+      "uid": "s01_e13_c02_u009"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e13_c02_u010"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Phoebe Buffay",
+      "object": "it on his couch",
+      "uid": "s01_e13_c02_u010"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Phoebe Buffay",
+      "object": null,
+      "uid": "s01_e13_c02_u011"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Phoebe Buffay",
+      "object": "that",
+      "uid": "s01_e13_c02_u011"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "a little weird",
+      "uid": "s01_e13_c02_u011"
+    },
+    {
+      "verb": "know",
+      "subject": "you/everyone",
+      "object": null,
+      "uid": "s01_e13_c02_u011"
+    },
+    {
+      "verb": "want",
+      "subject": "any of you guys",
+      "object": "anything else",
+      "uid": "s01_e13_c02_u012"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Chandler Bing",
+      "object": "one of those",
+      "uid": "s01_e13_c02_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Rachel Green",
+      "object": "sorry",
+      "uid": "s01_e13_c02_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "we/Rachel Green+Central Perk",
+      "object": "out of those",
+      "uid": "s01_e13_c02_u014"
+    },
+    {
+      "verb": "miss",
+      "subject": "I/Roger",
+      "object": "something",
+      "uid": "s01_e13_c02_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Rachel Green",
+      "object": "still upset",
+      "uid": "s01_e13_c02_u017"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Chandler Bing",
+      "object": "her boobies",
+      "uid": "s01_e13_c02_u017"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Chandler Bing",
+      "object": null,
+      "uid": "s01_e13_c02_u018"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Chandler Bing",
+      "object": "her boobies",
+      "uid": "s01_e13_c02_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "it/the incident",
+      "object": "an accident",
+      "uid": "s01_e13_c02_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "across the street",
+      "uid": "s01_e13_c02_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "with a telescope",
+      "uid": "s01_e13_c02_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "with a box of donuts",
+      "uid": "s01_e13_c02_u019"
+    },
+    {
+      "verb": "change",
+      "subject": "we/everyone",
+      "object": "the subject",
+      "uid": "s01_e13_c02_u020"
+    },
+    {
+      "verb": "be",
+      "subject": "these/her breasts",
+      "object": "not her boobies",
+      "uid": "s01_e13_c02_u021"
+    },
+    {
+      "verb": "be",
+      "subject": "these/her breasts",
+      "object": "her breasts",
+      "uid": "s01_e13_c02_u021"
+    },
+    {
+      "verb": "hope",
+      "subject": "I/Rachel Green",
+      "object": "for more of a change",
+      "uid": "s01_e13_c02_u022"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Chandler Bing",
+      "object": null,
+      "uid": "s01_e13_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Rachel Green",
+      "object": "so embarrassed",
+      "uid": "s01_e13_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "they/her breasts",
+      "object": "very nice boobies",
+      "uid": "s01_e13_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "they/her breasts",
+      "object": "nice",
+      "uid": "s01_e13_c02_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "it",
+      "uid": "s01_e13_c02_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "mittens",
+      "object": "nice",
+      "uid": "s01_e13_c02_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Chandler Bing",
+      "object": "so funny",
+      "uid": "s01_e13_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Chandler Bing",
+      "object": "really funny",
+      "uid": "s01_e13_c02_u026"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Roger",
+      "object": "to be there",
+      "uid": "s01_e13_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Roger",
+      "object": "there",
+      "uid": "s01_e13_c02_u026"
+    },
+    {
+      "verb": "stop",
+      "subject": "the laughter",
+      "object": null,
+      "uid": "s01_e13_c02_u026"
+    },
+    {
+      "verb": "mean",
+      "subject": "you/Roger",
+      "object": "by that",
+      "uid": "s01_e13_c02_u027"
+    },
+    {
+      "verb": "seem",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e13_c02_u028"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Chandler Bing",
+      "object": "intimacy issues",
+      "uid": "s01_e13_c02_u028"
+    },
+    {
+      "verb": "know",
+      "subject": "you/everyone",
+      "object": null,
+      "uid": "s01_e13_c02_u028"
+    },
+    {
+      "verb": "use",
+      "subject": "you/Chandler Bing",
+      "object": "your humour",
+      "uid": "s01_e13_c02_u028"
+    },
+    {
+      "verb": "keep",
+      "subject": "you/Chandler Bing",
+      "object": "people at a distance",
+      "uid": "s01_e13_c02_u028"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/Roger",
+      "object": null,
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "meet",
+      "subject": "I/Roger",
+      "object": "you/Chandler Bing",
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Roger",
+      "object": "you/Chandler Bing",
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Roger",
+      "object": "from Adam",
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "divorce",
+      "subject": "Parents",
+      "object": null,
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "hit",
+      "subject": "you/Chandler Bing",
+      "object": "puberty",
+      "uid": "s01_e13_c02_u030"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Roger",
+      "object": "that",
+      "uid": "s01_e13_c02_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "it/Chandler's background",
+      "object": "textbook",
+      "uid": "s01_e13_c02_u032"
+    },
+    {
+      "verb": "know",
+      "subject": "you all/friends group",
+      "object": "my dad",
+      "uid": "s01_e13_c02_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Joey Tribbiani Sr.",
+      "object": "in the city",
+      "uid": "s01_e13_c02_u036"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "a job midtown",
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": null,
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "better off",
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "stay",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "with the kid",
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "haul",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "my ass on the ferry",
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "this one/Roger",
+      "uid": "s01_e13_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "this/person",
+      "object": "my friend Roger",
+      "uid": "s01_e13_c02_u038"
+    },
+    {
+      "verb": "meet",
+      "subject": "I/Joey Tribbiani Sr.",
+      "object": "you/Roger",
+      "uid": "s01_e13_c02_u040"
+    },
+    {
+      "verb": "happen",
+      "subject": "what",
+      "object": "to the puppet guy",
+      "uid": "s01_e13_c02_u042"
+    },
+    {
+      "verb": "excuse",
+      "subject": "you/everyone",
+      "object": "me",
+      "uid": "s01_e13_c02_u044"
+    },
+    {
+      "verb": "be",
+      "subject": "the wife/Ross's wife",
+      "object": null,
+      "uid": "s01_e13_c02_u044"
+    },
+    {
+      "verb": "say",
+      "subject": "Chandler Bing",
+      "object": "something funny",
+      "uid": "s01_e13_c02_u044"
+    }
+  ]
+}

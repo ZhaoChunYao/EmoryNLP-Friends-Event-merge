@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly asks if Speaker_04 knows Speaker_05 (u021) and states that Speaker_05 made a move on them (u023); limited social disclosure without clear outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Neutral, straightforward exchange—asks for information (u021) and reports an event (u023) without signs of hostility or warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, or carelessness; only a brief inquiry and report (u021, u023)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressed anxiety or distress; simply states what happened (u023)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity about ideas or unconventional thinking; only a basic social inquiry and report (u021, u023)."
+  }
+}

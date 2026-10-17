@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative, humorous, and expressive: gives energetic advice (“move on… go to China… eat Chinese food”) and openly says he loves Speaker_01; engages in playful banter explaining the ‘Three Basketeers’ pun."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Supportive and caring: tells Speaker_01 “we’re looking out for you,” “we want you to be happy,” and explicitly says “I love you.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; comments about having a couple of beers and joking advice don’t indicate task-related efficiency or sloppiness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows calm confidence and emotional security—comfortably jokes and expresses affection without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays playful creativity and curiosity: enjoys and extends the wordplay about ‘Three Basketeers’ and suggests adventurous ideas like going to China."
+  }
+}

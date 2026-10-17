@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief polite remarks; no indication of outgoing, energetic, or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker praises others as great and thanks multiple people, showing warmth and appreciation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicate organization, planning, or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or insecurity; responses are calm and appreciative."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, unconventional ideas, or openness to new experiences."
+  }
+}

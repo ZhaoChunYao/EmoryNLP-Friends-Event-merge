@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being outgoing or reserved; TargetSpeaker gives brief, factual statements."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker designates themself as the emergency contact for the injured person, showing care and reliability."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Another speaker notes TargetSpeaker still has their Christmas lights up and someone else was taking them down, suggesting procrastination/disorganization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker reports the situation calmly without showing anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, inventiveness, or dogmatism is shown."
+  }
+}

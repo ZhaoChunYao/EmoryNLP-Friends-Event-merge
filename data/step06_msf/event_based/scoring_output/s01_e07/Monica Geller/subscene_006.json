@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only responds with brief greetings (“Hi!” at u003, u005, u007) when introduced; no clear outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely greets each person when introduced (“Hi!” at u003, u005, u007), showing friendliness and cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or strong emotionality; only neutral greetings."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or resistance to new ideas in the brief exchange."
+  }
+}

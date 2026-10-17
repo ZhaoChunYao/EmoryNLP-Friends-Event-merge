@@ -1,0 +1,241 @@
+event_id: s01_e13_c04_u001_e1
+utterance_id: s01_e13_c04_u001
+  tuple: ('be', 'It', 'like if you woke up one day and found out your dad was leading this double life', 's01_e13_c04_u001')
+  tuple: ('wake up', 'you', None, 's01_e13_c04_u001')
+  tuple: ('find out', 'you', 'your dad was leading this double life', 's01_e13_c04_u001')
+  tuple: ('lead', 'your dad', 'this double life', 's01_e13_c04_u001')
+  tuple: ('be', 'he', 'some spy', 's01_e13_c04_u001')
+  tuple: ('work', 'he', None, 's01_e13_c04_u001')
+  tuple: ('work', 'he', 'for the C.I.A.', 's01_e13_c04_u001')
+
+event_id: s01_e13_c04_u001_e2
+utterance_id: s01_e13_c04_u001
+  tuple: ('be', 'That', 'cool', 's01_e13_c04_u001')
+
+event_id: s01_e13_c04_u001_e3
+utterance_id: s01_e13_c04_u001
+  tuple: ('blow', 'This', None, 's01_e13_c04_u001')
+
+event_id: s01_e13_c04_u002_e1
+utterance_id: s01_e13_c04_u002
+  tuple: ('know', 'I/Rachel Green', None, 's01_e13_c04_u002')
+
+event_id: s01_e13_c04_u002_e2
+utterance_id: s01_e13_c04_u002
+  tuple: ('stay', 'parents', 'parents', 's01_e13_c04_u002')
+  tuple: ('become', 'they', 'people', 's01_e13_c04_u002')
+
+event_id: s01_e13_c04_u002_e3
+utterance_id: s01_e13_c04_u002
+  tuple: ('stop', 'you/Chandler Bing', 'staring at my breasts', 's01_e13_c04_u002')
+  tuple: ('stare', 'you/Chandler Bing', 'at my breasts', 's01_e13_c04_u002')
+
+event_id: s01_e13_c04_u004_e1
+utterance_id: s01_e13_c04_u004
+  tuple: ('get', 'you/Chandler Bing', 'a good enough look', 's01_e13_c04_u004')
+
+event_id: s01_e13_c04_u005_e1
+utterance_id: s01_e13_c04_u005
+  tuple: ('be', 'We', 'all adults', 's01_e13_c04_u005')
+
+event_id: s01_e13_c04_u005_e2
+utterance_id: s01_e13_c04_u005
+  tuple: ('be', 'there', 'only one way to resolve this', 's01_e13_c04_u005')
+  tuple: ('resolve', '', 'this', 's01_e13_c04_u005')
+  tuple: ('think', 'I/Ross Geller', None, 's01_e13_c04_u005')
+  tuple: ('show', 'you/Chandler Bing', 'her your peepee', 's01_e13_c04_u005')
+
+event_id: s01_e13_c04_u005_e3
+utterance_id: s01_e13_c04_u005
+  tuple: ('see', 'you/Chandler Bing', 'her boobies', 's01_e13_c04_u005')
+
+event_id: s01_e13_c04_u006_e1
+utterance_id: s01_e13_c04_u006
+  tuple: ('see', 'I/Chandler Bing', 'that happening', 's01_e13_c04_u006')
+  tuple: ('happen', 'that', None, 's01_e13_c04_u006')
+
+event_id: s01_e13_c04_u007_e1
+utterance_id: s01_e13_c04_u007
+  tuple: ('be', 'he/Ross Geller', 'right', 's01_e13_c04_u007')
+
+event_id: s01_e13_c04_u008_e1
+utterance_id: s01_e13_c04_u008
+  tuple: ('show', 'I/Chandler Bing', "my 'tat'", 's01_e13_c04_u008')
+
+event_id: s01_e13_c04_u011_e1
+utterance_id: s01_e13_c04_u011
+  tuple: ('be', 'It', 'Phoebe', 's01_e13_c04_u011')
+
+event_id: s01_e13_c04_u013_e1
+utterance_id: s01_e13_c04_u013
+  tuple: ('come up', 'you', None, 's01_e13_c04_u013')
+
+event_id: s01_e13_c04_u014_e1
+utterance_id: s01_e13_c04_u014
+  tuple: ('be', 'Rog', 'here', 's01_e13_c04_u014')
+
+event_id: s01_e13_c04_u015_e1
+utterance_id: s01_e13_c04_u015
+  tuple: ('be', 'what', 'the matter with Rog', 's01_e13_c04_u015')
+
+event_id: s01_e13_c04_u017_e1
+utterance_id: s01_e13_c04_u017
+  tuple: ('be', 'it', 'nothing', 's01_e13_c04_u017')
+  tuple: ('be', 'it', 'a little thing', 's01_e13_c04_u017')
+
+event_id: s01_e13_c04_u017_e2
+utterance_id: s01_e13_c04_u017
+  tuple: ('hate', 'I/Chandler Bing', 'that guy', 's01_e13_c04_u017')
+
+event_id: s01_e13_c04_u018_e1
+utterance_id: s01_e13_c04_u018
+  tuple: ('be', 'he/Roger', 'a little analytical', 's01_e13_c04_u018')
+
+event_id: s01_e13_c04_u018_e2
+utterance_id: s01_e13_c04_u018
+  tuple: ('do', 'he/Roger', 'that', 's01_e13_c04_u018')
+
+event_id: s01_e13_c04_u018_e3
+utterance_id: s01_e13_c04_u018
+  tuple: ('be', 'he/Roger', 'that bad', 's01_e13_c04_u018')
+
+event_id: s01_e13_c04_u020_e1
+utterance_id: s01_e13_c04_u020
+  tuple: ('be', 'you/Roger', 'wrong', 's01_e13_c04_u020')
+
+event_id: s01_e13_c04_u020_e2
+utterance_id: s01_e13_c04_u020
+  tuple: ('marry', 'I/Ross Geller', 'her', 's01_e13_c04_u020')
+  tuple: ('think', 'I/Ross Geller', 'that she was a lesbian', 's01_e13_c04_u020')
+  tuple: ('think', 'I/Ross Geller', 'on any level', 's01_e13_c04_u020')
+  tuple: ('be', 'she', 'a lesbian', 's01_e13_c04_u020')
+
+event_id: s01_e13_c04_u021_e1
+utterance_id: s01_e13_c04_u021
+  tuple: ('know', 'I/Roger', None, 's01_e13_c04_u021')
+
+event_id: s01_e13_c04_u021_e2
+utterance_id: s01_e13_c04_u021
+  tuple: ('want', 'you/Ross Geller', 'your marriage to fail', 's01_e13_c04_u021')
+  tuple: ('fail', 'your marriage', None, 's01_e13_c04_u021')
+
+event_id: s01_e13_c04_u023_e1
+utterance_id: s01_e13_c04_u023
+  tuple: ('compensate', '', 'for overshadowing a sibling', 's01_e13_c04_u023')
+  tuple: ('overshadow', 'you/Ross Geller', 'a sibling', 's01_e13_c04_u023')
+
+event_id: s01_e13_c04_u024_e1
+utterance_id: s01_e13_c04_u024
+  tuple: ('go back', 'you/Monica Geller', 'to that sibling thing', 's01_e13_c04_u024')
+
+event_id: s01_e13_c04_u025_e1
+utterance_id: s01_e13_c04_u025
+  tuple: ('be', 'it', 'conceivable', 's01_e13_c04_u025')
+  tuple: ('want', 'you/Ross Geller', 'to sabotage your marriage', 's01_e13_c04_u025')
+  tuple: ('sabotage', 'you/Ross Geller', 'your marriage', 's01_e13_c04_u025')
+  tuple: ('feel', 'the sibling', 'less of a failure', 's01_e13_c04_u025')
+  tuple: ('feel', 'the sibling', 'in the eyes of the parents', 's01_e13_c04_u025')
+
+event_id: s01_e13_c04_u026_e1
+utterance_id: s01_e13_c04_u026
+  tuple: ('be', 'That', 'ridiculous', 's01_e13_c04_u026')
+
+event_id: s01_e13_c04_u026_e2
+utterance_id: s01_e13_c04_u026
+  tuple: ('feel', 'I/Ross Geller', 'guilty', 's01_e13_c04_u026')
+  tuple: ('feel', 'I/Ross Geller', 'for her failures', 's01_e13_c04_u026')
+
+event_id: s01_e13_c04_u027_e1
+utterance_id: s01_e13_c04_u027
+  tuple: ('think', 'you/Ross Geller', "I'm a failure", 's01_e13_c04_u027')
+  tuple: ('be', 'I/Monica Geller', 'a failure', 's01_e13_c04_u027')
+
+event_id: s01_e13_c04_u028_e1
+utterance_id: s01_e13_c04_u028
+  tuple: ('be', 'he/Roger', 'good', 's01_e13_c04_u028')
+
+event_id: s01_e13_c04_u029_e1
+utterance_id: s01_e13_c04_u029
+  tuple: ('be', 'that', 'what I was saying', 's01_e13_c04_u029')
+  tuple: ('say', 'I/Ross Geller', None, 's01_e13_c04_u029')
+
+event_id: s01_e13_c04_u030_e1
+utterance_id: s01_e13_c04_u030
+  tuple: ('think', 'I/Monica Geller', 'you were on my side', 's01_e13_c04_u030')
+  tuple: ('be', 'you/Ross Geller', 'on my side', 's01_e13_c04_u030')
+
+event_id: s01_e13_c04_u030_e2
+utterance_id: s01_e13_c04_u030
+  tuple: ('do', 'you/Ross Geller', 'sucking up to Mom and Dad', 's01_e13_c04_u030')
+  tuple: ('suck up', 'you/Ross Geller', 'to Mom and Dad', 's01_e13_c04_u030')
+  tuple: ('keep', 'they/Mom and Dad', 'liking you better', 's01_e13_c04_u030')
+  tuple: ('like', 'they/Mom and Dad', 'you/Ross Geller', 's01_e13_c04_u030')
+
+event_id: s01_e13_c04_u031_e1
+utterance_id: s01_e13_c04_u031
+  tuple: ('marry', 'I/Ross Geller', 'a lesbian', 's01_e13_c04_u031')
+  tuple: ('make', 'I/Ross Geller', 'you look good', 's01_e13_c04_u031')
+  tuple: ('look', 'you/Monica Geller', 'good', 's01_e13_c04_u031')
+
+event_id: s01_e13_c04_u033_e1
+utterance_id: s01_e13_c04_u033
+  tuple: ('be', 'you', 'right', 's01_e13_c04_u033')
+
+event_id: s01_e13_c04_u033_e2
+utterance_id: s01_e13_c04_u033
+  tuple: ('be', 'It', 'just the Weebles', 's01_e13_c04_u033')
+  tuple: ('be', 'it', 'the Weeble Play Palace', 's01_e13_c04_u033')
+  tuple: ('be', 'it', "the Weebles' Cruise Ship", 's01_e13_c04_u033')
+  tuple: ('have', 'which', 'this little lifeboat', 's01_e13_c04_u033')
+  tuple: ('have', 'which', 'for the Weebles', 's01_e13_c04_u033')
+  tuple: ('wobble', 'the Weebles', 'in this little lifeboat', 's01_e13_c04_u033')
+
+event_id: s01_e13_c04_u034_e1
+utterance_id: s01_e13_c04_u034
+  tuple: ('be', 'That', 'tough', 's01_e13_c04_u034')
+
+event_id: s01_e13_c04_u034_e2
+utterance_id: s01_e13_c04_u034
+  tuple: ('catch', 'we', 'that movie', 's01_e13_c04_u034')
+  tuple: ('get', 'we', 'going', 's01_e13_c04_u034')
+
+event_id: s01_e13_c04_u035_e1
+utterance_id: s01_e13_c04_u035
+  tuple: ('feel', 'you/Rachel Green', 'better', 's01_e13_c04_u035')
+
+event_id: s01_e13_c04_u036_e1
+utterance_id: s01_e13_c04_u036
+  tuple: ('be', 'we', 'late', 's01_e13_c04_u036')
+
+event_id: s01_e13_c04_u037_e1
+utterance_id: s01_e13_c04_u037
+  tuple: ('listen', 'you', None, 's01_e13_c04_u037')
+
+event_id: s01_e13_c04_u037_e2
+utterance_id: s01_e13_c04_u037
+  tuple: ('thank', 'I/Phoebe Buffay', 'Mon', 's01_e13_c04_u037')
+  tuple: ('thank', 'I/Phoebe Buffay', 'for everything', 's01_e13_c04_u037')
+
+event_id: s01_e13_c04_u038_e1
+utterance_id: s01_e13_c04_u038
+  tuple: ('be', 'you/Phoebe Buffay', 'welcome', 's01_e13_c04_u038')
+
+event_id: s01_e13_c04_u039_e1
+utterance_id: s01_e13_c04_u039
+  tuple: ('be', 'it', 'great seeing you again', 's01_e13_c04_u039')
+  tuple: ('see', 'I/Roger', 'you again', 's01_e13_c04_u039')
+
+event_id: s01_e13_c04_u039_e2
+utterance_id: s01_e13_c04_u039
+  tuple: ('go easy', 'you/Monica Geller', 'on those cookies', 's01_e13_c04_u039')
+
+event_id: s01_e13_c04_u039_e3
+utterance_id: s01_e13_c04_u039
+  tuple: ('remember', 'you/Monica Geller', None, 's01_e13_c04_u039')
+  tuple: ('be', 'they', 'just food', 's01_e13_c04_u039')
+  tuple: ('be', 'they', 'love', 's01_e13_c04_u039')
+
+event_id: s01_e13_c04_u041_e1
+utterance_id: s01_e13_c04_u041
+  tuple: ('hate', 'I/Monica Geller', 'that guy', 's01_e13_c04_u041')
+

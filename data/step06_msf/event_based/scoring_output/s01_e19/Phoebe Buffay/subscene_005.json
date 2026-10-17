@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Repeatedly calls out for Speaker_03 and openly reacts aloud (“Oh-my-God!”) and tells Speaker_03 to come here, showing outgoing, talkative engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Gives a directive for Speaker_03 to come but shows no clear signs of warmth, generosity, or uncooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Brief false alarm about something brushing the leg is quickly corrected; no clear evidence of organization or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Startled and anxious reaction to a touch (“Oh-my-God!”), initially fearing something brushed the leg before self-reassurance."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or dogmatism/cautiousness; mostly reactive to the situation."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "tuples": [
+    {
+      "verb": "want",
+      "subject": "I/Ross Geller",
+      "object": "this to work so much",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "work",
+      "subject": "this",
+      "object": null,
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/Ross Geller",
+      "object": "I'm still in there, changing his diapers, pickin' his fleas",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "in there",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "change",
+      "subject": "I/Ross Geller",
+      "object": "his diapers",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "pick",
+      "subject": "I/Ross Geller",
+      "object": "his fleas",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "phone",
+      "subject": "he",
+      "object": "it in",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "accept",
+      "subject": "I/Ross Geller",
+      "object": "the fact that something you love so much doesn't love you back",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "love",
+      "subject": "you/Rachel Green",
+      "object": "something",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "love",
+      "subject": "something",
+      "object": "you",
+      "uid": "s01_e10_c08_u001"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Rachel Green",
+      "object": "that bitch cracked my tooth",
+      "uid": "s01_e10_c08_u002"
+    },
+    {
+      "verb": "crack",
+      "subject": "that bitch",
+      "object": "my tooth",
+      "uid": "s01_e10_c08_u002"
+    }
+  ]
+}

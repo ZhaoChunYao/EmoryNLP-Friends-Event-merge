@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "He only communicates essential information (that he’s fine, that he’s trapped, and to put Speaker_02 on), with no signs of sociable or talkative behavior beyond the emergency."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "He directs Speaker_01 to put Speaker_02 on the phone, which is blunt but not rude or hostile; no clear signs of generosity or untrustworthiness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "When Speaker_01 can’t understand him, he efficiently asks for Speaker_02 and then repeats the message more clearly, showing quick, purposeful problem-solving."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He urgently exclaims, “I’m trppd… in an ATM vstbl… wth JLL GDCR!” indicating stress/anxiety about being trapped."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "He simply reports the situation; there’s no clear sign of curiosity, imagination, or dogmatism."
+  }
+}

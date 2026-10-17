@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She actively steers the dinner conversation by asking Speaker_02 to bring up a sensitive personal topic and later directly challenges Speaker_01 with, “what is that supposed to mean?”—showing assertive, engaged participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She explicitly admits her request will sound “unbelievably selfish” and asks Speaker_02 to reveal a personal situation so it “might take some of [Speaker_01 and Speaker_03’s] criticism off” her—self-serving rather than generous."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Concerned about being criticized and seeks to deflect it; reacts defensively to a remark with “what is that supposed to mean?”—signs of sensitivity to evaluation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, inventiveness, or resistance to new ideas in this exchange."
+  }
+}

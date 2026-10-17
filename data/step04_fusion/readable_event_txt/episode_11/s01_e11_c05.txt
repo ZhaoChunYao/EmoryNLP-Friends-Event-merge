@@ -1,0 +1,238 @@
+event_id: s01_e11_c05_u001_e1
+utterance_id: s01_e11_c05_u001
+  tuple: ('be', 'I/Nora Tyler Bing', 'famished', 's01_e11_c05_u001')
+
+event_id: s01_e11_c05_u001_e2
+utterance_id: s01_e11_c05_u001
+  tuple: ('want', 'I/Nora Tyler Bing', 'what', 's01_e11_c05_u001')
+
+event_id: s01_e11_c05_u002_e1
+utterance_id: s01_e11_c05_u002
+  tuple: ('let', 'God', 'it', 's01_e11_c05_u002')
+  tuple: ('be', 'it', 'Kung Pow Chicken', 's01_e11_c05_u002')
+
+event_id: s01_e11_c05_u003_e1
+utterance_id: s01_e11_c05_u003
+  tuple: ('watch', 'you/Chandler Bing', 'the show', 's01_e11_c05_u003')
+
+event_id: s01_e11_c05_u003_e2
+utterance_id: s01_e11_c05_u003
+  tuple: ('think', 'you/Chandler Bing', 'what', 's01_e11_c05_u003')
+
+event_id: s01_e11_c05_u004_e1
+utterance_id: s01_e11_c05_u004
+  tuple: ('think', 'I/Chandler Bing', 'you need to come out of your shell just a little', 's01_e11_c05_u004')
+  tuple: ('need', 'you/Nora Tyler Bing', 'to come out of your shell just a little', 's01_e11_c05_u004')
+  tuple: ('come', 'you/Nora Tyler Bing', 'out of your shell', 's01_e11_c05_u004')
+
+event_id: s01_e11_c05_u005_e1
+utterance_id: s01_e11_c05_u005
+  tuple: ('be', 'this', 'dive', 's01_e11_c05_u005')
+
+event_id: s01_e11_c05_u005_e2
+utterance_id: s01_e11_c05_u005
+  tuple: ('pick', 'you/Chandler Bing', 'this place', 's01_e11_c05_u005')
+
+event_id: s01_e11_c05_u006_e1
+utterance_id: s01_e11_c05_u006
+  tuple: ('come', 'you/(group)', None, 's01_e11_c05_u006')
+
+event_id: s01_e11_c05_u006_e2
+utterance_id: s01_e11_c05_u006
+  tuple: ('shut up', 'you/(group)', None, 's01_e11_c05_u006')
+
+event_id: s01_e11_c05_u006_e3
+utterance_id: s01_e11_c05_u006
+  tuple: ('be', 'it', 'fun', 's01_e11_c05_u006')
+
+event_id: s01_e11_c05_u006_e4
+utterance_id: s01_e11_c05_u006
+  tuple: ('give', 'you/Chandler Bing', 'a hug', 's01_e11_c05_u006')
+
+event_id: s01_e11_c05_u006_e5
+utterance_id: s01_e11_c05_u006
+  tuple: ('think', 'I/Nora Tyler Bing', 'we are ready for some tequila', 's01_e11_c05_u006')
+  tuple: ('be', 'we/(Nora+group)', 'ready for some tequila', 's01_e11_c05_u006')
+
+event_id: s01_e11_c05_u007_e1
+utterance_id: s01_e11_c05_u007
+  tuple: ('know', 'I/Chandler Bing', 'I am', 's01_e11_c05_u007')
+  tuple: ('be', 'I/Chandler Bing', None, 's01_e11_c05_u007')
+
+event_id: s01_e11_c05_u008_e1
+utterance_id: s01_e11_c05_u008
+  tuple: ('do', 'who', 'shots', 's01_e11_c05_u008')
+
+event_id: s01_e11_c05_u010_e1
+utterance_id: s01_e11_c05_u010
+  tuple: ('be', 'I/Phoebe Buffay', 'in', 's01_e11_c05_u010')
+
+event_id: s01_e11_c05_u011_e1
+utterance_id: s01_e11_c05_u011
+  tuple: ('go', 'you/Ross Geller', None, 's01_e11_c05_u011')
+
+event_id: s01_e11_c05_u012_e1
+utterance_id: s01_e11_c05_u012
+  tuple: ('be', 'I/Ross Geller', 'a shot drinking kinda guy', 's01_e11_c05_u012')
+
+event_id: s01_e11_c05_u014_e1
+utterance_id: s01_e11_c05_u014
+  tuple: ('be', 'we/(Rachel+Paolo)', 'late', 's01_e11_c05_u014')
+
+event_id: s01_e11_c05_u014_e2
+utterance_id: s01_e11_c05_u014
+  tuple: ('lose', 'we/(Rachel+Paolo)', 'track of time', 's01_e11_c05_u014')
+
+event_id: s01_e11_c05_u015_e1
+utterance_id: s01_e11_c05_u015
+  tuple: ('change', 'a man', None, 's01_e11_c05_u015')
+
+event_id: s01_e11_c05_u017_e1
+utterance_id: s01_e11_c05_u017
+  tuple: ('want', 'anyone', 'me to appraise anything', 's01_e11_c05_u017')
+  tuple: ('appraise', 'me/Ross Geller', 'anything', 's01_e11_c05_u017')
+
+event_id: s01_e11_c05_u019_e1
+utterance_id: s01_e11_c05_u019
+  tuple: ('tell', 'I/Rachel Green', 'you/Nora Tyler Bing', 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u019_e2
+utterance_id: s01_e11_c05_u019
+  tuple: ('read', 'I/Rachel Green', "everything you've ever written", 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u019_e3
+utterance_id: s01_e11_c05_u019
+  tuple: ('write', 'you/Nora Tyler Bing', 'everything', 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u019_e4
+utterance_id: s01_e11_c05_u019
+  tuple: ('mean', 'I/Rachel Green', 'it', 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u019_e5
+utterance_id: s01_e11_c05_u019
+  tuple: ('read', 'I/Rachel Green', 'Euphoria at Midnight', 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u019_e6
+utterance_id: s01_e11_c05_u019
+  tuple: ('want', 'I/Rachel Green', 'to become a writer', 's01_e11_c05_u019')
+  tuple: ('become', 'I/Rachel Green', 'a writer', 's01_e11_c05_u019')
+
+event_id: s01_e11_c05_u020_e1
+utterance_id: s01_e11_c05_u020
+  tuple: ('listen', 'you/Rachel Green', None, 's01_e11_c05_u020')
+
+event_id: s01_e11_c05_u020_e2
+utterance_id: s01_e11_c05_u020
+  tuple: ('do', 'I/Nora Tyler Bing', 'it', 's01_e11_c05_u020')
+
+event_id: s01_e11_c05_u020_e3
+utterance_id: s01_e11_c05_u020
+  tuple: ('start', 'you/Rachel Green', 'with half a dozen European cities', 's01_e11_c05_u020')
+  tuple: ('throw', 'you/Rachel Green', 'in thirty euphemisms for male genitalia', 's01_e11_c05_u020')
+  tuple: ('have', 'you/Rachel Green', 'a book', 's01_e11_c05_u020')
+
+event_id: s01_e11_c05_u026_e1
+utterance_id: s01_e11_c05_u026
+  tuple: ('be', 'I/Ross Geller', 'fine', 's01_e11_c05_u026')
+
+event_id: s01_e11_c05_u027_e1
+utterance_id: s01_e11_c05_u027
+  tuple: ('be', 'what', 'with you/Ross Geller', 's01_e11_c05_u027')
+
+event_id: s01_e11_c05_u029_e1
+utterance_id: s01_e11_c05_u029
+  tuple: ('be', 'it', 'the Italian Hand-Licker', 's01_e11_c05_u029')
+
+event_id: s01_e11_c05_u030_e1
+utterance_id: s01_e11_c05_u030
+  tuple: ('be', 'it', "the one he's licking", 's01_e11_c05_u030')
+  tuple: ('lick', 'he/Paolo', 'the one', 's01_e11_c05_u030')
+
+event_id: s01_e11_c05_u031_e1
+utterance_id: s01_e11_c05_u031
+  tuple: ('suppose', 'she/Rachel Green', 'be with you/Ross Geller', 's01_e11_c05_u031')
+  tuple: ('be', 'she/Rachel Green', 'with you/Ross Geller', 's01_e11_c05_u031')
+
+event_id: s01_e11_c05_u032_e1
+utterance_id: s01_e11_c05_u032
+  tuple: ('be', 'you/Nora Tyler Bing', 'good', 's01_e11_c05_u032')
+
+event_id: s01_e11_c05_u033_e1
+utterance_id: s01_e11_c05_u033
+  tuple: ('listen', 'you/Ross Geller', 'to me/Nora Tyler Bing', 's01_e11_c05_u033')
+
+event_id: s01_e11_c05_u033_e2
+utterance_id: s01_e11_c05_u033
+  tuple: ('sell', 'I/Nora Tyler Bing', 'a hundred million copies of my books', 's01_e11_c05_u033')
+
+event_id: s01_e11_c05_u033_e3
+utterance_id: s01_e11_c05_u033
+  tuple: ('know', 'you/Ross Geller', 'why', 's01_e11_c05_u033')
+
+event_id: s01_e11_c05_u034_e1
+utterance_id: s01_e11_c05_u034
+  tuple: ('show', 'her nipples', None, 's01_e11_c05_u034')
+
+event_id: s01_e11_c05_u035_e1
+utterance_id: s01_e11_c05_u035
+  tuple: ('know', 'I/Nora Tyler Bing', 'how to write men that women fall in love with', 's01_e11_c05_u035')
+  tuple: ('write', 'I/Nora Tyler Bing', 'men', 's01_e11_c05_u035')
+  tuple: ('fall', 'women', 'in love with men', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u035_e2
+utterance_id: s01_e11_c05_u035
+  tuple: ('believe', 'you/Ross Geller', 'me/Nora Tyler Bing', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u035_e3
+utterance_id: s01_e11_c05_u035
+  tuple: ('sell', 'I/Nora Tyler Bing', 'a Paolo', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u035_e4
+utterance_id: s01_e11_c05_u035
+  tuple: ('turn', 'people', 'three hundred twenty-five pages', 's01_e11_c05_u035')
+  tuple: ('turn', 'people', 'for a Paolo', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u035_e5
+utterance_id: s01_e11_c05_u035
+  tuple: ('be', 'the guy/Paolo', 'a secondary character', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u035_e6
+utterance_id: s01_e11_c05_u035
+  tuple: ('kill', 'you/generic', 'complication', 's01_e11_c05_u035')
+
+event_id: s01_e11_c05_u037_e1
+utterance_id: s01_e11_c05_u037
+  tuple: ('be', 'he/Paolo', 'a hero', 's01_e11_c05_u037')
+
+event_id: s01_e11_c05_u037_e2
+utterance_id: s01_e11_c05_u037
+  tuple: ('know', 'you/Ross Geller', 'who our hero is', 's01_e11_c05_u037')
+
+event_id: s01_e11_c05_u038_e1
+utterance_id: s01_e11_c05_u038
+  tuple: ('show', 'his nipples', None, 's01_e11_c05_u038')
+
+event_id: s01_e11_c05_u039_e1
+utterance_id: s01_e11_c05_u039
+  tuple: ('be', 'it', 'you/Ross Geller', 's01_e11_c05_u039')
+
+event_id: s01_e11_c05_u041_e1
+utterance_id: s01_e11_c05_u041
+  tuple: ('come', 'you/Ross Geller', None, 's01_e11_c05_u041')
+
+event_id: s01_e11_c05_u041_e2
+utterance_id: s01_e11_c05_u041
+  tuple: ('be', 'you/Ross Geller', 'smart', 's01_e11_c05_u041')
+
+event_id: s01_e11_c05_u041_e3
+utterance_id: s01_e11_c05_u041
+  tuple: ('be', 'you/Ross Geller', 'sexy', 's01_e11_c05_u041')
+
+event_id: s01_e11_c05_u043_e1
+utterance_id: s01_e11_c05_u043
+  tuple: ('be', 'you/Ross Geller', 'fine', 's01_e11_c05_u043')
+
+event_id: s01_e11_c05_u048_e1
+utterance_id: s01_e11_c05_u048
+  tuple: ('pee', 'I/Joey Tribbiani', 'in the street', 's01_e11_c05_u048')
+

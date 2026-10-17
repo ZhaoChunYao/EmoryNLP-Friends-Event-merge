@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives terse, one-word replies (“Out.” “Yes.”) and avoids elaborating when questioned, showing reserved, non-talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Sets a hard boundary with “this is none of your business” when asked about sex, indicating a less accommodating, less cooperative stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior related to organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly asserts a boundary and matter-of-factly answers (“we haven’t had sex,” “you mean sex”) without signs of anxiety, indicating comfort and confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity/novelty seeking or dogmatism/caution appear in the exchange."
+  }
+}

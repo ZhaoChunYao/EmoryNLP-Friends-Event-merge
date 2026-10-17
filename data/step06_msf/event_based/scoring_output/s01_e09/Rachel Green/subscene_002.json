@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Directly approaches Speaker_01 and asks for an advance on tips, speaking openly and assertively."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and accommodating—asks to be excused, apologizes for an earlier spill, and accepts refusal with “that’s fine” without argument."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Mixed signals: caused an earlier spill (careless) but also tracks savings precisely (“$98.50 remains”) for a trip (organized)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles being turned down calmly (“that’s fine”) and shows no signs of anxiety or frustration."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or unconventional thinking; mentioning a Vail trip alone doesn’t show openness."
+  }
+}

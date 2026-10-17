@@ -1,0 +1,79 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c16_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u001_e1",
+          "tuples": [
+            "('get off', 'we/(firemen)', 'around midnight', 's01_e14_c16_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c16_u001_e2",
+          "tuples": [
+            "('pick up', 'we/(firemen)', 'you', 's01_e14_c16_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c16_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u002_e1",
+          "tuples": [
+            "('bring', 'you/(Fireman No. 3)', 'the truck', 's01_e14_c16_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c16_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u003_e1",
+          "tuples": [
+            "('let', 'I/(Fireman No. 3)', 'you ring the bell', 's01_e14_c16_u003')",
+            "('ring', 'you/(Rachel Green)', 'the bell', 's01_e14_c16_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c16_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u005_e1",
+          "tuples": [
+            "('see', 'you/(Rachel Green)', None, 's01_e14_c16_u005')",
+            "('go', 'you/(Rachel Green)', None, 's01_e14_c16_u005')",
+            "('work', 'the cleansing', None, 's01_e14_c16_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c16_u006",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u006_e1",
+          "tuples": [
+            "('be', 'they/(firemen)', 'nice guys', 's01_e14_c16_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c16_u007",
+      "events": [
+        {
+          "event_id": "s01_e14_c16_u007_e1",
+          "tuples": [
+            "('be', 'they/(firemen)', 'firemen guys', 's01_e14_c16_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

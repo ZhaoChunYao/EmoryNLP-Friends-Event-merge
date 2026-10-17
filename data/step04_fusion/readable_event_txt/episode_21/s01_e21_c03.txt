@@ -1,0 +1,56 @@
+event_id: s01_e21_c03_u002_e1
+utterance_id: s01_e21_c03_u002
+  tuple: ('think', 'My agent', "I should have a name that's more neutral", 's01_e21_c03_u002')
+  tuple: ('have', 'I/(Joey Tribbiani)', 'a name', 's01_e21_c03_u002')
+  tuple: ('be', 'that/(a name)', 'more neutral', 's01_e21_c03_u002')
+
+event_id: s01_e21_c03_u005_e1
+utterance_id: s01_e21_c03_u005
+  tuple: ('think', 'I/(Joey Tribbiani)', 'it should be Joe', 's01_e21_c03_u005')
+  tuple: ('be', 'it/(a name)', 'Joe', 's01_e21_c03_u005')
+
+event_id: s01_e21_c03_u005_e2
+utterance_id: s01_e21_c03_u005
+  tuple: ('make', 'Joey', "me sound like I'm this big", 's01_e21_c03_u005')
+  tuple: ('sound', 'me/(Joey Tribbiani)', "like I'm this big", 's01_e21_c03_u005')
+  tuple: ('be', 'I/(Joey Tribbiani)', 'this big', 's01_e21_c03_u005')
+
+event_id: s01_e21_c03_u005_e3
+utterance_id: s01_e21_c03_u005
+  tuple: ('be', 'I/(Joey Tribbiani)', None, 's01_e21_c03_u005')
+
+event_id: s01_e21_c03_u007_e1
+utterance_id: s01_e21_c03_u007
+  tuple: ('know', 'I/(Joey Tribbiani)', 'that name', 's01_e21_c03_u007')
+
+event_id: s01_e21_c03_u007_e2
+utterance_id: s01_e21_c03_u007
+  tuple: ('sound', 'it/(that name)', 'familiar', 's01_e21_c03_u007')
+
+event_id: s01_e21_c03_u008_e1
+utterance_id: s01_e21_c03_u008
+  tuple: ('ring', 'it/(that name)', 'a bell', 's01_e21_c03_u008')
+  tuple: ('ring', 'it/(that name)', 'with me', 's01_e21_c03_u008')
+
+event_id: s01_e21_c03_u009_e1
+utterance_id: s01_e21_c03_u009
+  tuple: ('be', 'that/(Joe Stalin)', 'pretty good', 's01_e21_c03_u009')
+
+event_id: s01_e21_c03_u010_e1
+utterance_id: s01_e21_c03_u010
+  tuple: ('want', 'you/(Joey Tribbiani)', 'to try Joseph', 's01_e21_c03_u010')
+  tuple: ('try', 'you/(Joey Tribbiani)', 'Joseph', 's01_e21_c03_u010')
+
+event_id: s01_e21_c03_u012_e1
+utterance_id: s01_e21_c03_u012
+  tuple: ('think', 'I/(Joey Tribbiani)', "you'd remember that", 's01_e21_c03_u012')
+  tuple: ('remember', 'you/(Chandler Bing)', 'that', 's01_e21_c03_u012')
+
+event_id: s01_e21_c03_u013_e1
+utterance_id: s01_e21_c03_u013
+  tuple: ('star', 'Bye Bye Birdie', 'Joseph Stalin', 's01_e21_c03_u013')
+
+event_id: s01_e21_c03_u013_e2
+utterance_id: s01_e21_c03_u013
+  tuple: ('be', 'Joseph Stalin', 'the Fiddler on the Roof', 's01_e21_c03_u013')
+

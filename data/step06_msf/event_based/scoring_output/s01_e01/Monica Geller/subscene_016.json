@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets warmly, welcomes Speaker_01 back, asks about the Florida trip (u002), and openly discusses sexual matters (u004, u008), indicating sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows friendliness and consideration by welcoming Speaker_01 back and asking about their time (u002) and is straightforward/honest about the situation (u004, u008) without hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or carelessness/sloppiness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably and confidently discusses personal/sexual details (u004, u008) and remains composed during the interaction."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortable with candid sexual talk and playful innuendo (u004, u008) and shows curiosity about experiences (asks about Florida, u002)."
+  }
+}

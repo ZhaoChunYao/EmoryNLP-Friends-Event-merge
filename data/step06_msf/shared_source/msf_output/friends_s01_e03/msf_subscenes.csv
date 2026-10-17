@@ -1,0 +1,656 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e03,s01_e03_c01,Chandler Bing,0,7,7,6,8,2,s01_e03_c01_u009,s01_e03_c01_u015,"[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+[s01_e03_c01_u012] Rachel Green: And everybody knows this?
+[s01_e03_c01_u013] Joey Tribbiani: Yeah. Cushions the blow.
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm."
+s01_e03,s01_e03_c01,Joey Tribbiani,0,6,6,5,7,2,s01_e03_c01_u008,s01_e03_c01_u014,"[s01_e03_c01_u008] Rachel Green: Since when?
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+[s01_e03_c01_u012] Rachel Green: And everybody knows this?
+[s01_e03_c01_u013] Joey Tribbiani: Yeah. Cushions the blow.
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm."
+s01_e03,s01_e03_c01,Phoebe Buffay,0,0,0,0,1,2,s01_e03_c01_u001,s01_e03_c01_u008,"[s01_e03_c01_u001] Phoebe Buffay: Hi guys!
+[s01_e03_c01_u002] #ALL#: Hey, Pheebs! Hi!
+[s01_e03_c01_u003] Ross Geller: Hey. Oh, oh, how'd it go?
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+[s01_e03_c01_u005] #ALL#: Ohh. Ouch.
+[s01_e03_c01_u006] Rachel Green: What? He said 'we should do it again', that's good, right?
+[s01_e03_c01_u007] Monica Geller: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+[s01_e03_c01_u008] Rachel Green: Since when?"
+s01_e03,s01_e03_c01,Rachel Green,0,1,3,0,4,2,s01_e03_c01_u001,s01_e03_c01_u011,"[s01_e03_c01_u001] Phoebe Buffay: Hi guys!
+[s01_e03_c01_u002] #ALL#: Hey, Pheebs! Hi!
+[s01_e03_c01_u003] Ross Geller: Hey. Oh, oh, how'd it go?
+[s01_e03_c01_u004] Phoebe Buffay: Um, not so good. He walked me to the subway and said 'We should do this again!'
+[s01_e03_c01_u005] #ALL#: Ohh. Ouch.
+[s01_e03_c01_u006] Rachel Green: What? He said 'we should do it again', that's good, right?
+[s01_e03_c01_u007] Monica Geller: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+[s01_e03_c01_u008] Rachel Green: Since when?
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'."
+s01_e03,s01_e03_c01,Rachel Green,1,5,5,4,6,2,s01_e03_c01_u007,s01_e03_c01_u013,"[s01_e03_c01_u007] Monica Geller: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+[s01_e03_c01_u008] Rachel Green: Since when?
+[s01_e03_c01_u009] Joey Tribbiani: Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.
+[s01_e03_c01_u010] Chandler Bing: Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+[s01_e03_c01_u011] Phoebe Buffay: Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.
+[s01_e03_c01_u012] Rachel Green: And everybody knows this?
+[s01_e03_c01_u013] Joey Tribbiani: Yeah. Cushions the blow."
+s01_e03,s01_e03_c01,Ross Geller,0,10,10,9,10,2,s01_e03_c01_u012,s01_e03_c01_u017,"[s01_e03_c01_u012] Rachel Green: And everybody knows this?
+[s01_e03_c01_u013] Joey Tribbiani: Yeah. Cushions the blow.
+[s01_e03_c01_u014] Chandler Bing: Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
+[s01_e03_c01_u015] Ross Geller: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+[s01_e03_c01_u016] Monica Geller: Uh, Ross.
+[s01_e03_c01_u017] Ross Geller: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!"
+s01_e03,s01_e03_c02,Chandler Bing,0,0,16,0,16,4,s01_e03_c02_u001,s01_e03_c02_u025,"[s01_e03_c02_u001] Chandler Bing: ""So how does it feel knowing you're about to die?""
+[s01_e03_c02_u002] Joey Tribbiani: ""Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.""
+[s01_e03_c02_u003] Chandler Bing: Hey, that was really good!
+[s01_e03_c02_u004] Joey Tribbiani: Thanks! Let's keep going.
+[s01_e03_c02_u005] Chandler Bing: Okay. ""So. Whaddya want from me, Damone, huh?""
+[s01_e03_c02_u006] Joey Tribbiani: ""I just wanna go back to my cell. 'Cause in my cell, I can smoke.""
+[s01_e03_c02_u007] Chandler Bing: ""Smoke away.""
+[s01_e03_c02_u008] Unknown Speaker: 
+[s01_e03_c02_u009] Chandler Bing: I think this is probably why Damone smokes in his cell alone.
+[s01_e03_c02_u010] Joey Tribbiani: What?
+[s01_e03_c02_u011] Chandler Bing: Relax your hand!
+[s01_e03_c02_u012] Unknown Speaker: 
+[s01_e03_c02_u013] Chandler Bing: Not so much!
+[s01_e03_c02_u014] Joey Tribbiani: Whoah!
+[s01_e03_c02_u015] Chandler Bing: Hey!
+[s01_e03_c02_u016] Joey Tribbiani: Hey!
+[s01_e03_c02_u017] Chandler Bing: Alright, now try taking a puff.
+[s01_e03_c02_u018] Unknown Speaker: 
+[s01_e03_c02_u019] Chandler Bing: Alright.. okay. No. Give it to me.
+[s01_e03_c02_u020] Joey Tribbiani: No no no, I am not giving you a cigarette.
+[s01_e03_c02_u021] Chandler Bing: It's fine, it's fine. Look, do you wanna get this part, or not? Here.
+[s01_e03_c02_u022] Unknown Speaker: 
+[s01_e03_c02_u023] Chandler Bing: Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete.
+[s01_e03_c02_u024] Joey Tribbiani: Y'miss it?
+[s01_e03_c02_u025] Chandler Bing: Nah, not so much. Alright, now we smoke. Oh.. my.. God."
+s01_e03,s01_e03_c02,Joey Tribbiani,0,0,5,0,6,3,s01_e03_c02_u001,s01_e03_c02_u013,"[s01_e03_c02_u001] Chandler Bing: ""So how does it feel knowing you're about to die?""
+[s01_e03_c02_u002] Joey Tribbiani: ""Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.""
+[s01_e03_c02_u003] Chandler Bing: Hey, that was really good!
+[s01_e03_c02_u004] Joey Tribbiani: Thanks! Let's keep going.
+[s01_e03_c02_u005] Chandler Bing: Okay. ""So. Whaddya want from me, Damone, huh?""
+[s01_e03_c02_u006] Joey Tribbiani: ""I just wanna go back to my cell. 'Cause in my cell, I can smoke.""
+[s01_e03_c02_u007] Chandler Bing: ""Smoke away.""
+[s01_e03_c02_u008] Unknown Speaker: 
+[s01_e03_c02_u009] Chandler Bing: I think this is probably why Damone smokes in his cell alone.
+[s01_e03_c02_u010] Joey Tribbiani: What?
+[s01_e03_c02_u011] Chandler Bing: Relax your hand!
+[s01_e03_c02_u012] Unknown Speaker: 
+[s01_e03_c02_u013] Chandler Bing: Not so much!"
+s01_e03,s01_e03_c02,Joey Tribbiani,1,7,13,6,14,2,s01_e03_c02_u007,s01_e03_c02_u023,"[s01_e03_c02_u007] Chandler Bing: ""Smoke away.""
+[s01_e03_c02_u008] Unknown Speaker: 
+[s01_e03_c02_u009] Chandler Bing: I think this is probably why Damone smokes in his cell alone.
+[s01_e03_c02_u010] Joey Tribbiani: What?
+[s01_e03_c02_u011] Chandler Bing: Relax your hand!
+[s01_e03_c02_u012] Unknown Speaker: 
+[s01_e03_c02_u013] Chandler Bing: Not so much!
+[s01_e03_c02_u014] Joey Tribbiani: Whoah!
+[s01_e03_c02_u015] Chandler Bing: Hey!
+[s01_e03_c02_u016] Joey Tribbiani: Hey!
+[s01_e03_c02_u017] Chandler Bing: Alright, now try taking a puff.
+[s01_e03_c02_u018] Unknown Speaker: 
+[s01_e03_c02_u019] Chandler Bing: Alright.. okay. No. Give it to me.
+[s01_e03_c02_u020] Joey Tribbiani: No no no, I am not giving you a cigarette.
+[s01_e03_c02_u021] Chandler Bing: It's fine, it's fine. Look, do you wanna get this part, or not? Here.
+[s01_e03_c02_u022] Unknown Speaker: 
+[s01_e03_c02_u023] Chandler Bing: Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete."
+s01_e03,s01_e03_c02,Joey Tribbiani,2,15,16,14,16,2,s01_e03_c02_u017,s01_e03_c02_u025,"[s01_e03_c02_u017] Chandler Bing: Alright, now try taking a puff.
+[s01_e03_c02_u018] Unknown Speaker: 
+[s01_e03_c02_u019] Chandler Bing: Alright.. okay. No. Give it to me.
+[s01_e03_c02_u020] Joey Tribbiani: No no no, I am not giving you a cigarette.
+[s01_e03_c02_u021] Chandler Bing: It's fine, it's fine. Look, do you wanna get this part, or not? Here.
+[s01_e03_c02_u022] Unknown Speaker: 
+[s01_e03_c02_u023] Chandler Bing: Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete.
+[s01_e03_c02_u024] Joey Tribbiani: Y'miss it?
+[s01_e03_c02_u025] Chandler Bing: Nah, not so much. Alright, now we smoke. Oh.. my.. God."
+s01_e03,s01_e03_c03,Chandler Bing,0,20,26,19,27,3,s01_e03_c03_u024,s01_e03_c03_u039,"[s01_e03_c03_u024] Rachel Green: Chandler, what are you doing?
+[s01_e03_c03_u025] Monica Geller: Hey. Whaddya doing?
+[s01_e03_c03_u026] Unknown Speaker: 
+[s01_e03_c03_u027] #ALL#: Oh! Oh, God!
+[s01_e03_c03_u028] Ross Geller: What is this?!
+[s01_e03_c03_u029] Chandler Bing: I'm smoking. I'm smoking, I'm smoking.
+[s01_e03_c03_u030] Phoebe Buffay: Oh, I can't believe you! You've been so good, for three years!
+[s01_e03_c03_u031] Chandler Bing: And this- is my reward!
+[s01_e03_c03_u032] Ross Geller: Hold on a second, alright? Just think about what you went through the last time you quit.
+[s01_e03_c03_u033] Chandler Bing: Okay, so this time I won't quit!
+[s01_e03_c03_u034] #ALL#: Ohhh! Put it out!
+[s01_e03_c03_u035] Chandler Bing: All right! I'm putting it out, I'm putting it out.
+[s01_e03_c03_u036] Phoebe Buffay: Oh, no! I- I can't drink this now!
+[s01_e03_c03_u037] Monica Geller: Alright. I'm gonna go change, I've got a date.
+[s01_e03_c03_u038] Rachel Green: This Alan again? How's it goin'?
+[s01_e03_c03_u039] Monica Geller: 'S'going pretty good, y'know? It's nice, and, we're having fun."
+s01_e03,s01_e03_c03,Joey Tribbiani,0,1,1,0,2,2,s01_e03_c03_u001,s01_e03_c03_u010,"[s01_e03_c03_u001] Monica Geller: No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger.
+[s01_e03_c03_u002] Unknown Speaker: 
+[s01_e03_c03_u003] Joey Tribbiani: That's ridiculous!
+[s01_e03_c03_u004] Ross Geller: Can I use.. either thumb?
+[s01_e03_c03_u005] Rachel Green: Alright, don't tell me, don't tell me! Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!
+[s01_e03_c03_u006] #ALL#: Yeah. Yeah, excellent.
+[s01_e03_c03_u007] Rachel Green: Good for me!
+[s01_e03_c03_u008] Unknown Speaker: 
+[s01_e03_c03_u009] Joey Tribbiani: Y'okay, Phoebe?
+[s01_e03_c03_u010] Phoebe Buffay: Yeah- no- I'm just- it's, I haven't worked- It's my bank."
+s01_e03,s01_e03_c03,Monica Geller,0,16,17,15,18,2,s01_e03_c03_u019,s01_e03_c03_u029,"[s01_e03_c03_u019] Rachel Green: Yeah, but if you spent it, it would be like shopping!
+[s01_e03_c03_u020] Phoebe Buffay: Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'...
+[s01_e03_c03_u021] Monica Geller: We're with you. We got it.
+[s01_e03_c03_u022] Unknown Speaker: 
+[s01_e03_c03_u023] Phoebe Buffay: Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.
+[s01_e03_c03_u024] Rachel Green: Chandler, what are you doing?
+[s01_e03_c03_u025] Monica Geller: Hey. Whaddya doing?
+[s01_e03_c03_u026] Unknown Speaker: 
+[s01_e03_c03_u027] #ALL#: Oh! Oh, God!
+[s01_e03_c03_u028] Ross Geller: What is this?!
+[s01_e03_c03_u029] Chandler Bing: I'm smoking. I'm smoking, I'm smoking."
+s01_e03,s01_e03_c03,Monica Geller,1,27,34,26,34,3,s01_e03_c03_u033,s01_e03_c03_u047,"[s01_e03_c03_u033] Chandler Bing: Okay, so this time I won't quit!
+[s01_e03_c03_u034] #ALL#: Ohhh! Put it out!
+[s01_e03_c03_u035] Chandler Bing: All right! I'm putting it out, I'm putting it out.
+[s01_e03_c03_u036] Phoebe Buffay: Oh, no! I- I can't drink this now!
+[s01_e03_c03_u037] Monica Geller: Alright. I'm gonna go change, I've got a date.
+[s01_e03_c03_u038] Rachel Green: This Alan again? How's it goin'?
+[s01_e03_c03_u039] Monica Geller: 'S'going pretty good, y'know? It's nice, and, we're having fun.
+[s01_e03_c03_u040] Joey Tribbiani: So when do we get to meet the guy?
+[s01_e03_c03_u041] Monica Geller: Let's see, today's Monday... Never.
+[s01_e03_c03_u042] #ALL#: Oh, come on! Come on!
+[s01_e03_c03_u043] Monica Geller: No. Not after what happened with Steve.
+[s01_e03_c03_u044] Chandler Bing: What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry.
+[s01_e03_c03_u045] Monica Geller: Look, I don't even know how I feel about him yet. Just give me a chance to figure that out.
+[s01_e03_c03_u046] Rachel Green: Well, then can we meet him?
+[s01_e03_c03_u047] Monica Geller: Nope. Schhorry."
+s01_e03,s01_e03_c03,Phoebe Buffay,0,4,16,3,17,3,s01_e03_c03_u005,s01_e03_c03_u028,"[s01_e03_c03_u005] Rachel Green: Alright, don't tell me, don't tell me! Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!
+[s01_e03_c03_u006] #ALL#: Yeah. Yeah, excellent.
+[s01_e03_c03_u007] Rachel Green: Good for me!
+[s01_e03_c03_u008] Unknown Speaker: 
+[s01_e03_c03_u009] Joey Tribbiani: Y'okay, Phoebe?
+[s01_e03_c03_u010] Phoebe Buffay: Yeah- no- I'm just- it's, I haven't worked- It's my bank.
+[s01_e03_c03_u011] Monica Geller: What did they do to you?
+[s01_e03_c03_u012] Phoebe Buffay: It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-
+[s01_e03_c03_u013] Ross Geller: Easy.
+[s01_e03_c03_u014] Phoebe Buffay: - and there's five hundred extra dollars in my account.
+[s01_e03_c03_u015] Chandler Bing: Oh, Satan's minions at work again...
+[s01_e03_c03_u016] Phoebe Buffay: Yes, 'cause now I have to go down there, and deal with them.
+[s01_e03_c03_u017] Joey Tribbiani: What are you talking about? Keep it!
+[s01_e03_c03_u018] Phoebe Buffay: It's not mine, I didn't earn it, if I kept it, it would be like stealing.
+[s01_e03_c03_u019] Rachel Green: Yeah, but if you spent it, it would be like shopping!
+[s01_e03_c03_u020] Phoebe Buffay: Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'...
+[s01_e03_c03_u021] Monica Geller: We're with you. We got it.
+[s01_e03_c03_u022] Unknown Speaker: 
+[s01_e03_c03_u023] Phoebe Buffay: Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.
+[s01_e03_c03_u024] Rachel Green: Chandler, what are you doing?
+[s01_e03_c03_u025] Monica Geller: Hey. Whaddya doing?
+[s01_e03_c03_u026] Unknown Speaker: 
+[s01_e03_c03_u027] #ALL#: Oh! Oh, God!
+[s01_e03_c03_u028] Ross Geller: What is this?!"
+s01_e03,s01_e03_c03,Rachel Green,0,0,3,0,4,2,s01_e03_c03_u001,s01_e03_c03_u012,"[s01_e03_c03_u001] Monica Geller: No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger.
+[s01_e03_c03_u002] Unknown Speaker: 
+[s01_e03_c03_u003] Joey Tribbiani: That's ridiculous!
+[s01_e03_c03_u004] Ross Geller: Can I use.. either thumb?
+[s01_e03_c03_u005] Rachel Green: Alright, don't tell me, don't tell me! Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!
+[s01_e03_c03_u006] #ALL#: Yeah. Yeah, excellent.
+[s01_e03_c03_u007] Rachel Green: Good for me!
+[s01_e03_c03_u008] Unknown Speaker: 
+[s01_e03_c03_u009] Joey Tribbiani: Y'okay, Phoebe?
+[s01_e03_c03_u010] Phoebe Buffay: Yeah- no- I'm just- it's, I haven't worked- It's my bank.
+[s01_e03_c03_u011] Monica Geller: What did they do to you?
+[s01_e03_c03_u012] Phoebe Buffay: It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-"
+s01_e03,s01_e03_c03,Rachel Green,1,15,15,14,16,2,s01_e03_c03_u018,s01_e03_c03_u025,"[s01_e03_c03_u018] Phoebe Buffay: It's not mine, I didn't earn it, if I kept it, it would be like stealing.
+[s01_e03_c03_u019] Rachel Green: Yeah, but if you spent it, it would be like shopping!
+[s01_e03_c03_u020] Phoebe Buffay: Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'...
+[s01_e03_c03_u021] Monica Geller: We're with you. We got it.
+[s01_e03_c03_u022] Unknown Speaker: 
+[s01_e03_c03_u023] Phoebe Buffay: Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.
+[s01_e03_c03_u024] Rachel Green: Chandler, what are you doing?
+[s01_e03_c03_u025] Monica Geller: Hey. Whaddya doing?"
+s01_e03,s01_e03_c03,Ross Geller,0,21,21,20,22,2,s01_e03_c03_u025,s01_e03_c03_u033,"[s01_e03_c03_u025] Monica Geller: Hey. Whaddya doing?
+[s01_e03_c03_u026] Unknown Speaker: 
+[s01_e03_c03_u027] #ALL#: Oh! Oh, God!
+[s01_e03_c03_u028] Ross Geller: What is this?!
+[s01_e03_c03_u029] Chandler Bing: I'm smoking. I'm smoking, I'm smoking.
+[s01_e03_c03_u030] Phoebe Buffay: Oh, I can't believe you! You've been so good, for three years!
+[s01_e03_c03_u031] Chandler Bing: And this- is my reward!
+[s01_e03_c03_u032] Ross Geller: Hold on a second, alright? Just think about what you went through the last time you quit.
+[s01_e03_c03_u033] Chandler Bing: Okay, so this time I won't quit!"
+s01_e03,s01_e03_c05,Alan,0,9,13,8,14,2,s01_e03_c05_u014,s01_e03_c05_u031,"[s01_e03_c05_u014] Monica Geller: Hey. It's him. Who is it?
+[s01_e03_c05_u015] Alan: It's Alan.
+[s01_e03_c05_u016] Joey Tribbiani: Chandler! He's here!
+[s01_e03_c05_u017] Unknown Speaker: 
+[s01_e03_c05_u018] Monica Geller: Okay, please be good, please. Just remember how much you all like me.
+[s01_e03_c05_u019] Unknown Speaker: 
+[s01_e03_c05_u020] Monica Geller: Hi. Alan, this is everybody. Everybody, this is Alan.
+[s01_e03_c05_u021] Alan: Hi.
+[s01_e03_c05_u022] #ALL#: Hi, Alan.
+[s01_e03_c05_u023] Alan: I've heard schho much about all you guyschh!
+[s01_e03_c05_u024] Unknown Speaker: 
+[s01_e03_c05_u025] Unknown Speaker: 
+[s01_e03_c05_u026] Monica Geller: Thanks. I'll call you tomorrow. Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?
+[s01_e03_c05_u027] Unknown Speaker: 
+[s01_e03_c05_u028] Monica Geller: C'mon!
+[s01_e03_c05_u029] Ross Geller: ...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.
+[s01_e03_c05_u030] #ALL#: Loved him! Yeah! He's great!
+[s01_e03_c05_u031] Monica Geller: Wait a minute! We're talking about someone that I'm going out with?"
+s01_e03,s01_e03_c05,Joey Tribbiani,0,0,0,0,1,2,s01_e03_c05_u001,s01_e03_c05_u010,"[s01_e03_c05_u001] Joey Tribbiani: Let it go, Ross.
+[s01_e03_c05_u002] Ross Geller: Yeah, well, you didn't know Chi Chi.
+[s01_e03_c05_u003] Monica Geller: Do you all promise?
+[s01_e03_c05_u004] #ALL#: Yeah! We promise! We'll be good!
+[s01_e03_c05_u005] Monica Geller: Chandler? Do you promise to be good?
+[s01_e03_c05_u006] Unknown Speaker: 
+[s01_e03_c05_u007] Joey Tribbiani: You can come in, but your filter-tipped little buddy has to stay outside!
+[s01_e03_c05_u008] Unknown Speaker: 
+[s01_e03_c05_u009] Unknown Speaker: 
+[s01_e03_c05_u010] Ross Geller: Hey, Pheebs."
+s01_e03,s01_e03_c05,Monica Geller,0,0,2,0,3,2,s01_e03_c05_u001,s01_e03_c05_u012,"[s01_e03_c05_u001] Joey Tribbiani: Let it go, Ross.
+[s01_e03_c05_u002] Ross Geller: Yeah, well, you didn't know Chi Chi.
+[s01_e03_c05_u003] Monica Geller: Do you all promise?
+[s01_e03_c05_u004] #ALL#: Yeah! We promise! We'll be good!
+[s01_e03_c05_u005] Monica Geller: Chandler? Do you promise to be good?
+[s01_e03_c05_u006] Unknown Speaker: 
+[s01_e03_c05_u007] Joey Tribbiani: You can come in, but your filter-tipped little buddy has to stay outside!
+[s01_e03_c05_u008] Unknown Speaker: 
+[s01_e03_c05_u009] Unknown Speaker: 
+[s01_e03_c05_u010] Ross Geller: Hey, Pheebs.
+[s01_e03_c05_u011] Phoebe Buffay: 'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!
+[s01_e03_c05_u012] Rachel Green: What bank is this?"
+s01_e03,s01_e03_c05,Monica Geller,1,7,16,6,17,3,s01_e03_c05_u011,s01_e03_c05_u035,"[s01_e03_c05_u011] Phoebe Buffay: 'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!
+[s01_e03_c05_u012] Rachel Green: What bank is this?
+[s01_e03_c05_u013] Unknown Speaker: 
+[s01_e03_c05_u014] Monica Geller: Hey. It's him. Who is it?
+[s01_e03_c05_u015] Alan: It's Alan.
+[s01_e03_c05_u016] Joey Tribbiani: Chandler! He's here!
+[s01_e03_c05_u017] Unknown Speaker: 
+[s01_e03_c05_u018] Monica Geller: Okay, please be good, please. Just remember how much you all like me.
+[s01_e03_c05_u019] Unknown Speaker: 
+[s01_e03_c05_u020] Monica Geller: Hi. Alan, this is everybody. Everybody, this is Alan.
+[s01_e03_c05_u021] Alan: Hi.
+[s01_e03_c05_u022] #ALL#: Hi, Alan.
+[s01_e03_c05_u023] Alan: I've heard schho much about all you guyschh!
+[s01_e03_c05_u024] Unknown Speaker: 
+[s01_e03_c05_u025] Unknown Speaker: 
+[s01_e03_c05_u026] Monica Geller: Thanks. I'll call you tomorrow. Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?
+[s01_e03_c05_u027] Unknown Speaker: 
+[s01_e03_c05_u028] Monica Geller: C'mon!
+[s01_e03_c05_u029] Ross Geller: ...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.
+[s01_e03_c05_u030] #ALL#: Loved him! Yeah! He's great!
+[s01_e03_c05_u031] Monica Geller: Wait a minute! We're talking about someone that I'm going out with?
+[s01_e03_c05_u032] #ALL#: Yeah!
+[s01_e03_c05_u033] Rachel Green: And did you notice...?
+[s01_e03_c05_u034] The Guys: Yeah.
+[s01_e03_c05_u035] Joey Tribbiani: Know what was great? The way his smile was kinda crooked."
+s01_e03,s01_e03_c05,Phoebe Buffay,0,20,22,19,23,2,s01_e03_c05_u033,s01_e03_c05_u042,"[s01_e03_c05_u033] Rachel Green: And did you notice...?
+[s01_e03_c05_u034] The Guys: Yeah.
+[s01_e03_c05_u035] Joey Tribbiani: Know what was great? The way his smile was kinda crooked.
+[s01_e03_c05_u036] Phoebe Buffay: Yes, yes! Like the man in the shoe!
+[s01_e03_c05_u037] Ross Geller: ...What shoe?
+[s01_e03_c05_u038] Phoebe Buffay: From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'
+[s01_e03_c05_u039] Unknown Speaker: 
+[s01_e03_c05_u040] Ross Geller: ...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+[s01_e03_c05_u041] Rachel Green: What future boyfriends? Nono, I th- I think this could be, y'know, it.
+[s01_e03_c05_u042] Monica Geller: Really!"
+s01_e03,s01_e03_c05,Ross Geller,0,1,1,0,2,2,s01_e03_c05_u001,s01_e03_c05_u011,"[s01_e03_c05_u001] Joey Tribbiani: Let it go, Ross.
+[s01_e03_c05_u002] Ross Geller: Yeah, well, you didn't know Chi Chi.
+[s01_e03_c05_u003] Monica Geller: Do you all promise?
+[s01_e03_c05_u004] #ALL#: Yeah! We promise! We'll be good!
+[s01_e03_c05_u005] Monica Geller: Chandler? Do you promise to be good?
+[s01_e03_c05_u006] Unknown Speaker: 
+[s01_e03_c05_u007] Joey Tribbiani: You can come in, but your filter-tipped little buddy has to stay outside!
+[s01_e03_c05_u008] Unknown Speaker: 
+[s01_e03_c05_u009] Unknown Speaker: 
+[s01_e03_c05_u010] Ross Geller: Hey, Pheebs.
+[s01_e03_c05_u011] Phoebe Buffay: 'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!"
+s01_e03,s01_e03_c05,Ross Geller,1,21,23,20,24,2,s01_e03_c05_u034,s01_e03_c05_u043,"[s01_e03_c05_u034] The Guys: Yeah.
+[s01_e03_c05_u035] Joey Tribbiani: Know what was great? The way his smile was kinda crooked.
+[s01_e03_c05_u036] Phoebe Buffay: Yes, yes! Like the man in the shoe!
+[s01_e03_c05_u037] Ross Geller: ...What shoe?
+[s01_e03_c05_u038] Phoebe Buffay: From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'
+[s01_e03_c05_u039] Unknown Speaker: 
+[s01_e03_c05_u040] Ross Geller: ...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+[s01_e03_c05_u041] Rachel Green: What future boyfriends? Nono, I th- I think this could be, y'know, it.
+[s01_e03_c05_u042] Monica Geller: Really!
+[s01_e03_c05_u043] Chandler Bing: Oh, yeah. I'd marry him just for his David Hasselhoff impression alone. You know I'm gonna be doing that at parties, right?"
+s01_e03,s01_e03_c05,Ross Geller,2,25,26,24,26,2,s01_e03_c05_u038,s01_e03_c05_u046,"[s01_e03_c05_u038] Phoebe Buffay: From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'
+[s01_e03_c05_u039] Unknown Speaker: 
+[s01_e03_c05_u040] Ross Geller: ...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+[s01_e03_c05_u041] Rachel Green: What future boyfriends? Nono, I th- I think this could be, y'know, it.
+[s01_e03_c05_u042] Monica Geller: Really!
+[s01_e03_c05_u043] Chandler Bing: Oh, yeah. I'd marry him just for his David Hasselhoff impression alone. You know I'm gonna be doing that at parties, right?
+[s01_e03_c05_u044] Ross Geller: You know what I like most about him, though?
+[s01_e03_c05_u045] #ALL#: What?
+[s01_e03_c05_u046] Ross Geller: The way he makes me feel about myself."
+s01_e03,s01_e03_c06,Monica Geller,0,0,0,0,1,2,s01_e03_c06_u001,s01_e03_c06_u007,"[s01_e03_c06_u001] Monica Geller: Hi.. how was the game?
+[s01_e03_c06_u002] Ross Geller: Well..
+[s01_e03_c06_u003] #ALL#: WE WON!! Thank you! Yes!
+[s01_e03_c06_u004] Monica Geller: Fantastic! I have one question: How is that possible?
+[s01_e03_c06_u005] Joey Tribbiani: Alan.
+[s01_e03_c06_u006] Ross Geller: He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
+[s01_e03_c06_u007] Rachel Green: I mean, it-it was like, it was like he made us into a team."
+s01_e03,s01_e03_c06,Monica Geller,1,5,7,4,8,2,s01_e03_c06_u006,s01_e03_c06_u014,"[s01_e03_c06_u006] Ross Geller: He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
+[s01_e03_c06_u007] Rachel Green: I mean, it-it was like, it was like he made us into a team.
+[s01_e03_c06_u008] Chandler Bing: Yep, we sure showed those Hassidic jewellers a thing or two about softball..
+[s01_e03_c06_u009] Monica Geller: Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+[s01_e03_c06_u010] Ross Geller: What?
+[s01_e03_c06_u011] Monica Geller: ..I dunno, a little too Alan?
+[s01_e03_c06_u012] Rachel Green: Well, no. That's impossible. You can never be too Alan.
+[s01_e03_c06_u013] Ross Geller: Yeah, it's his, uh, innate Alan-ness that-that-that we adore.
+[s01_e03_c06_u014] Chandler Bing: I personally could have a gallon of Alan."
+s01_e03,s01_e03_c06,Ross Geller,0,0,1,0,2,2,s01_e03_c06_u001,s01_e03_c06_u008,"[s01_e03_c06_u001] Monica Geller: Hi.. how was the game?
+[s01_e03_c06_u002] Ross Geller: Well..
+[s01_e03_c06_u003] #ALL#: WE WON!! Thank you! Yes!
+[s01_e03_c06_u004] Monica Geller: Fantastic! I have one question: How is that possible?
+[s01_e03_c06_u005] Joey Tribbiani: Alan.
+[s01_e03_c06_u006] Ross Geller: He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
+[s01_e03_c06_u007] Rachel Green: I mean, it-it was like, it was like he made us into a team.
+[s01_e03_c06_u008] Chandler Bing: Yep, we sure showed those Hassidic jewellers a thing or two about softball.."
+s01_e03,s01_e03_c06,Ross Geller,1,4,4,3,5,2,s01_e03_c06_u005,s01_e03_c06_u011,"[s01_e03_c06_u005] Joey Tribbiani: Alan.
+[s01_e03_c06_u006] Ross Geller: He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
+[s01_e03_c06_u007] Rachel Green: I mean, it-it was like, it was like he made us into a team.
+[s01_e03_c06_u008] Chandler Bing: Yep, we sure showed those Hassidic jewellers a thing or two about softball..
+[s01_e03_c06_u009] Monica Geller: Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+[s01_e03_c06_u010] Ross Geller: What?
+[s01_e03_c06_u011] Monica Geller: ..I dunno, a little too Alan?"
+s01_e03,s01_e03_c06,Ross Geller,2,7,8,6,8,2,s01_e03_c06_u008,s01_e03_c06_u014,"[s01_e03_c06_u008] Chandler Bing: Yep, we sure showed those Hassidic jewellers a thing or two about softball..
+[s01_e03_c06_u009] Monica Geller: Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+[s01_e03_c06_u010] Ross Geller: What?
+[s01_e03_c06_u011] Monica Geller: ..I dunno, a little too Alan?
+[s01_e03_c06_u012] Rachel Green: Well, no. That's impossible. You can never be too Alan.
+[s01_e03_c06_u013] Ross Geller: Yeah, it's his, uh, innate Alan-ness that-that-that we adore.
+[s01_e03_c06_u014] Chandler Bing: I personally could have a gallon of Alan."
+s01_e03,s01_e03_c07,Lizzy,0,0,14,0,14,3,s01_e03_c07_u001,s01_e03_c07_u019,"[s01_e03_c07_u001] Phoebe Buffay: Hey, Lizzie.
+[s01_e03_c07_u002] Lizzy: Hey, Weird Girl.
+[s01_e03_c07_u003] Phoebe Buffay: I brought you alphabet soup.
+[s01_e03_c07_u004] Lizzy: Did you pick out the vowels?
+[s01_e03_c07_u005] Phoebe Buffay: Yes. But I left in the Ys. 'Cause, y'know, ""sometimes y"". Uh, I also have something else for you.
+[s01_e03_c07_u006] Lizzy: Saltines?
+[s01_e03_c07_u007] Phoebe Buffay: No, but would you like a thousand dollars and a football phone?
+[s01_e03_c07_u008] Lizzy: What? Oh my God, there's really money in here.
+[s01_e03_c07_u009] Phoebe Buffay: I know.
+[s01_e03_c07_u010] Lizzy: Weird Girl, what are you doing?
+[s01_e03_c07_u011] Phoebe Buffay: No, I want you to have it. I don't want it.
+[s01_e03_c07_u012] Lizzy: No, no, I ha-I have to give you something.
+[s01_e03_c07_u013] Phoebe Buffay: Oh, that's fine, no.
+[s01_e03_c07_u014] Lizzy: Would you like my tin-foil hat?
+[s01_e03_c07_u015] Phoebe Buffay: No. 'Cause you need that. No, it's okay, thanks.
+[s01_e03_c07_u016] Lizzy: Please, let me do something.
+[s01_e03_c07_u017] Phoebe Buffay: Okay, alright, you buy me a soda, and then we're even. Okay?
+[s01_e03_c07_u018] Lizzy: Okay.
+[s01_e03_c07_u019] Phoebe Buffay: Okay."
+s01_e03,s01_e03_c07,Phoebe Buffay,0,0,14,0,14,3,s01_e03_c07_u001,s01_e03_c07_u019,"[s01_e03_c07_u001] Phoebe Buffay: Hey, Lizzie.
+[s01_e03_c07_u002] Lizzy: Hey, Weird Girl.
+[s01_e03_c07_u003] Phoebe Buffay: I brought you alphabet soup.
+[s01_e03_c07_u004] Lizzy: Did you pick out the vowels?
+[s01_e03_c07_u005] Phoebe Buffay: Yes. But I left in the Ys. 'Cause, y'know, ""sometimes y"". Uh, I also have something else for you.
+[s01_e03_c07_u006] Lizzy: Saltines?
+[s01_e03_c07_u007] Phoebe Buffay: No, but would you like a thousand dollars and a football phone?
+[s01_e03_c07_u008] Lizzy: What? Oh my God, there's really money in here.
+[s01_e03_c07_u009] Phoebe Buffay: I know.
+[s01_e03_c07_u010] Lizzy: Weird Girl, what are you doing?
+[s01_e03_c07_u011] Phoebe Buffay: No, I want you to have it. I don't want it.
+[s01_e03_c07_u012] Lizzy: No, no, I ha-I have to give you something.
+[s01_e03_c07_u013] Phoebe Buffay: Oh, that's fine, no.
+[s01_e03_c07_u014] Lizzy: Would you like my tin-foil hat?
+[s01_e03_c07_u015] Phoebe Buffay: No. 'Cause you need that. No, it's okay, thanks.
+[s01_e03_c07_u016] Lizzy: Please, let me do something.
+[s01_e03_c07_u017] Phoebe Buffay: Okay, alright, you buy me a soda, and then we're even. Okay?
+[s01_e03_c07_u018] Lizzy: Okay.
+[s01_e03_c07_u019] Phoebe Buffay: Okay."
+s01_e03,s01_e03_c09,Chandler Bing,0,1,5,0,6,2,s01_e03_c09_u001,s01_e03_c09_u017,"[s01_e03_c09_u001] Ross Geller: A thumb?!
+[s01_e03_c09_u002] Unknown Speaker: 
+[s01_e03_c09_u003] #ALL#: Eww!
+[s01_e03_c09_u004] Phoebe Buffay: I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!
+[s01_e03_c09_u005] Chandler Bing: Well, maybe it's a contest, y'know? Like, collect all five?
+[s01_e03_c09_u006] Phoebe Buffay: Does, um, anyone wanna see?
+[s01_e03_c09_u007] #ALL#: Nooo!
+[s01_e03_c09_u008] Unknown Speaker: 
+[s01_e03_c09_u009] #ALL#: Oh, hey, don't do that! Cut it out!
+[s01_e03_c09_u010] Rachel Green: It's worse than the thumb!
+[s01_e03_c09_u011] Chandler Bing: Hey, this is so unfair!
+[s01_e03_c09_u012] Monica Geller: Oh, why is it unfair?
+[s01_e03_c09_u013] Chandler Bing: So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?
+[s01_e03_c09_u014] Unknown Speaker: 
+[s01_e03_c09_u015] Joey Tribbiani: ...Does the knuckle-cracking bother everybody?
+[s01_e03_c09_u016] Rachel Green: Well, I-I could live without it.
+[s01_e03_c09_u017] Joey Tribbiani: Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?"
+s01_e03,s01_e03_c09,Joey Tribbiani,0,6,10,5,11,3,s01_e03_c09_u011,s01_e03_c09_u024,"[s01_e03_c09_u011] Chandler Bing: Hey, this is so unfair!
+[s01_e03_c09_u012] Monica Geller: Oh, why is it unfair?
+[s01_e03_c09_u013] Chandler Bing: So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?
+[s01_e03_c09_u014] Unknown Speaker: 
+[s01_e03_c09_u015] Joey Tribbiani: ...Does the knuckle-cracking bother everybody?
+[s01_e03_c09_u016] Rachel Green: Well, I-I could live without it.
+[s01_e03_c09_u017] Joey Tribbiani: Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?
+[s01_e03_c09_u018] Unknown Speaker: 
+[s01_e03_c09_u019] Ross Geller: Oh, now, don't listen to him, Pheebs, I think it's endearing.
+[s01_e03_c09_u020] Joey Tribbiani: Oh, ""you do, do you""?
+[s01_e03_c09_u021] Unknown Speaker: 
+[s01_e03_c09_u022] Ross Geller: You know, there's nothing wrong with speaking correctly.
+[s01_e03_c09_u023] Rachel Green: ""Indeed there isn't""... I should really get back to work.
+[s01_e03_c09_u024] Phoebe Buffay: Yeah, 'cause otherwise someone might get what they actually ordered."
+s01_e03,s01_e03_c09,Phoebe Buffay,0,0,1,0,2,2,s01_e03_c09_u001,s01_e03_c09_u012,"[s01_e03_c09_u001] Ross Geller: A thumb?!
+[s01_e03_c09_u002] Unknown Speaker: 
+[s01_e03_c09_u003] #ALL#: Eww!
+[s01_e03_c09_u004] Phoebe Buffay: I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!
+[s01_e03_c09_u005] Chandler Bing: Well, maybe it's a contest, y'know? Like, collect all five?
+[s01_e03_c09_u006] Phoebe Buffay: Does, um, anyone wanna see?
+[s01_e03_c09_u007] #ALL#: Nooo!
+[s01_e03_c09_u008] Unknown Speaker: 
+[s01_e03_c09_u009] #ALL#: Oh, hey, don't do that! Cut it out!
+[s01_e03_c09_u010] Rachel Green: It's worse than the thumb!
+[s01_e03_c09_u011] Chandler Bing: Hey, this is so unfair!
+[s01_e03_c09_u012] Monica Geller: Oh, why is it unfair?"
+s01_e03,s01_e03_c09,Rachel Green,0,12,12,11,12,2,s01_e03_c09_u019,s01_e03_c09_u025,"[s01_e03_c09_u019] Ross Geller: Oh, now, don't listen to him, Pheebs, I think it's endearing.
+[s01_e03_c09_u020] Joey Tribbiani: Oh, ""you do, do you""?
+[s01_e03_c09_u021] Unknown Speaker: 
+[s01_e03_c09_u022] Ross Geller: You know, there's nothing wrong with speaking correctly.
+[s01_e03_c09_u023] Rachel Green: ""Indeed there isn't""... I should really get back to work.
+[s01_e03_c09_u024] Phoebe Buffay: Yeah, 'cause otherwise someone might get what they actually ordered.
+[s01_e03_c09_u025] Rachel Green: Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+s01_e03,s01_e03_c09,Ross Geller,0,9,11,8,12,2,s01_e03_c09_u015,s01_e03_c09_u025,"[s01_e03_c09_u015] Joey Tribbiani: ...Does the knuckle-cracking bother everybody?
+[s01_e03_c09_u016] Rachel Green: Well, I-I could live without it.
+[s01_e03_c09_u017] Joey Tribbiani: Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?
+[s01_e03_c09_u018] Unknown Speaker: 
+[s01_e03_c09_u019] Ross Geller: Oh, now, don't listen to him, Pheebs, I think it's endearing.
+[s01_e03_c09_u020] Joey Tribbiani: Oh, ""you do, do you""?
+[s01_e03_c09_u021] Unknown Speaker: 
+[s01_e03_c09_u022] Ross Geller: You know, there's nothing wrong with speaking correctly.
+[s01_e03_c09_u023] Rachel Green: ""Indeed there isn't""... I should really get back to work.
+[s01_e03_c09_u024] Phoebe Buffay: Yeah, 'cause otherwise someone might get what they actually ordered.
+[s01_e03_c09_u025] Rachel Green: Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+s01_e03,s01_e03_c10,Monica Geller,0,0,4,0,4,3,s01_e03_c10_u001,s01_e03_c10_u009,"[s01_e03_c10_u001] Monica Geller: Did you ever go out with a guy your friends all really like?
+[s01_e03_c10_u002] Paula: No.
+[s01_e03_c10_u003] Monica Geller: Okay.. Well, I'm going out with a guy my friends all really like.
+[s01_e03_c10_u004] Paula: Waitwait.. we talking about the coyotes here? All right, a cow got through!
+[s01_e03_c10_u005] Monica Geller: Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.
+[s01_e03_c10_u006] Paula: Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!
+[s01_e03_c10_u007] Monica Geller: I know.. it's gonna be really hard.
+[s01_e03_c10_u008] Paula: Well, he's a big boy, he'll get over it.
+[s01_e03_c10_u009] Monica Geller: No, he'll be fine. It's the other five I'm worried about."
+s01_e03,s01_e03_c10,Paula,0,0,4,0,4,3,s01_e03_c10_u001,s01_e03_c10_u009,"[s01_e03_c10_u001] Monica Geller: Did you ever go out with a guy your friends all really like?
+[s01_e03_c10_u002] Paula: No.
+[s01_e03_c10_u003] Monica Geller: Okay.. Well, I'm going out with a guy my friends all really like.
+[s01_e03_c10_u004] Paula: Waitwait.. we talking about the coyotes here? All right, a cow got through!
+[s01_e03_c10_u005] Monica Geller: Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.
+[s01_e03_c10_u006] Paula: Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!
+[s01_e03_c10_u007] Monica Geller: I know.. it's gonna be really hard.
+[s01_e03_c10_u008] Paula: Well, he's a big boy, he'll get over it.
+[s01_e03_c10_u009] Monica Geller: No, he'll be fine. It's the other five I'm worried about."
+s01_e03,s01_e03_c11,Chandler Bing,0,0,2,0,3,2,s01_e03_c11_u001,s01_e03_c11_u008,"[s01_e03_c11_u001] Joey Tribbiani: Do you have any respect for your body?
+[s01_e03_c11_u002] Ross Geller: Don't you realise what you're-you're doing to yourself?
+[s01_e03_c11_u003] Chandler Bing: Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it.
+[s01_e03_c11_u004] Rachel Green: Chandler? It's Alan, he wants to speak to you.
+[s01_e03_c11_u005] Chandler Bing: Really? He does? Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks!
+[s01_e03_c11_u006] Rachel Green: God, he's good.
+[s01_e03_c11_u007] Ross Geller: If only he were a woman.
+[s01_e03_c11_u008] Rachel Green: Yeah."
+s01_e03,s01_e03_c11,Rachel Green,0,1,3,0,3,3,s01_e03_c11_u001,s01_e03_c11_u008,"[s01_e03_c11_u001] Joey Tribbiani: Do you have any respect for your body?
+[s01_e03_c11_u002] Ross Geller: Don't you realise what you're-you're doing to yourself?
+[s01_e03_c11_u003] Chandler Bing: Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it.
+[s01_e03_c11_u004] Rachel Green: Chandler? It's Alan, he wants to speak to you.
+[s01_e03_c11_u005] Chandler Bing: Really? He does? Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks!
+[s01_e03_c11_u006] Rachel Green: God, he's good.
+[s01_e03_c11_u007] Ross Geller: If only he were a woman.
+[s01_e03_c11_u008] Rachel Green: Yeah."
+s01_e03,s01_e03_c12,Chandler Bing,0,0,0,0,1,2,s01_e03_c12_u001,s01_e03_c12_u006,"[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+[s01_e03_c12_u002] Ross Geller: Okay. I think it's time to change somebody's nicotine patch.
+[s01_e03_c12_u003] Monica Geller: Hey. Where's Joey?
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+[s01_e03_c12_u006] Monica Geller: Thanks."
+s01_e03,s01_e03_c12,Chandler Bing,1,3,3,2,4,2,s01_e03_c12_u003,s01_e03_c12_u009,"[s01_e03_c12_u003] Monica Geller: Hey. Where's Joey?
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+[s01_e03_c12_u006] Monica Geller: Thanks.
+[s01_e03_c12_u007] Ross Geller: There y'go.
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now.
+[s01_e03_c12_u009] Ross Geller: Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?"
+s01_e03,s01_e03_c12,Joey Tribbiani,0,11,15,10,16,3,s01_e03_c12_u011,s01_e03_c12_u023,"[s01_e03_c12_u011] Ross Geller: Hey, I might!
+[s01_e03_c12_u012] Phoebe Buffay: Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+[s01_e03_c12_u013] #ALL#: You're kidding. Oh my God.
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+[s01_e03_c12_u015] Joey Tribbiani: What's going on?
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+[s01_e03_c12_u017] Joey Tribbiani: Even nicer when everyone gets to wear their underwear..
+[s01_e03_c12_u018] Rachel Green: Uh, Joey..
+[s01_e03_c12_u019] Joey Tribbiani: Oh, God!
+[s01_e03_c12_u020] Monica Geller: Okay..
+[s01_e03_c12_u021] #ALL#: Oh! That was Lambchop!
+[s01_e03_c12_u022] Monica Geller: Please, guys, we have to talk.
+[s01_e03_c12_u023] Phoebe Buffay: Wait, wait, I'm getting a deja vu...no, I'm not."
+s01_e03,s01_e03_c12,Joey Tribbiani,1,26,27,25,28,2,s01_e03_c12_u029,s01_e03_c12_u036,"[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+[s01_e03_c12_u030] Rachel Green: We didn't change..
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+[s01_e03_c12_u033] Monica Geller: Look, I- I could go on pretending-
+[s01_e03_c12_u034] Joey Tribbiani: Okay!
+[s01_e03_c12_u035] Monica Geller: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were."
+s01_e03,s01_e03_c12,Monica Geller,0,1,2,0,3,2,s01_e03_c12_u001,s01_e03_c12_u008,"[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+[s01_e03_c12_u002] Ross Geller: Okay. I think it's time to change somebody's nicotine patch.
+[s01_e03_c12_u003] Monica Geller: Hey. Where's Joey?
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+[s01_e03_c12_u006] Monica Geller: Thanks.
+[s01_e03_c12_u007] Ross Geller: There y'go.
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now."
+s01_e03,s01_e03_c12,Monica Geller,1,14,23,13,24,3,s01_e03_c12_u015,s01_e03_c12_u032,"[s01_e03_c12_u015] Joey Tribbiani: What's going on?
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+[s01_e03_c12_u017] Joey Tribbiani: Even nicer when everyone gets to wear their underwear..
+[s01_e03_c12_u018] Rachel Green: Uh, Joey..
+[s01_e03_c12_u019] Joey Tribbiani: Oh, God!
+[s01_e03_c12_u020] Monica Geller: Okay..
+[s01_e03_c12_u021] #ALL#: Oh! That was Lambchop!
+[s01_e03_c12_u022] Monica Geller: Please, guys, we have to talk.
+[s01_e03_c12_u023] Phoebe Buffay: Wait, wait, I'm getting a deja vu...no, I'm not.
+[s01_e03_c12_u024] Monica Geller: Alright, we have to talk.
+[s01_e03_c12_u025] Phoebe Buffay: There it is!
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+[s01_e03_c12_u027] Unknown Speaker: 
+[s01_e03_c12_u028] Ross Geller: Is there somebody else?
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+[s01_e03_c12_u030] Rachel Green: We didn't change..
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-"
+s01_e03,s01_e03_c12,Monica Geller,2,25,25,24,26,2,s01_e03_c12_u028,s01_e03_c12_u034,"[s01_e03_c12_u028] Ross Geller: Is there somebody else?
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+[s01_e03_c12_u030] Rachel Green: We didn't change..
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+[s01_e03_c12_u033] Monica Geller: Look, I- I could go on pretending-
+[s01_e03_c12_u034] Joey Tribbiani: Okay!"
+s01_e03,s01_e03_c12,Monica Geller,3,27,35,26,35,3,s01_e03_c12_u030,s01_e03_c12_u044,"[s01_e03_c12_u030] Rachel Green: We didn't change..
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+[s01_e03_c12_u033] Monica Geller: Look, I- I could go on pretending-
+[s01_e03_c12_u034] Joey Tribbiani: Okay!
+[s01_e03_c12_u035] Monica Geller: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+[s01_e03_c12_u037] Monica Geller: I'm sorry..
+[s01_e03_c12_u038] Chandler Bing: Oh, she's sorry! I feel better!
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+[s01_e03_c12_u040] Monica Geller: I'll meet somone else. There'll be other Alans.
+[s01_e03_c12_u041] #ALL#: Oh, yeah! Right!
+[s01_e03_c12_u042] Monica Geller: Are you guys gonna be okay?
+[s01_e03_c12_u043] Ross Geller: Hey hey, we'll be fine. We're just gonna need a little time.
+[s01_e03_c12_u044] Monica Geller: I understand."
+s01_e03,s01_e03_c12,Phoebe Buffay,0,7,11,6,12,3,s01_e03_c12_u007,s01_e03_c12_u018,"[s01_e03_c12_u007] Ross Geller: There y'go.
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now.
+[s01_e03_c12_u009] Ross Geller: Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?
+[s01_e03_c12_u010] Phoebe Buffay: Does anyone want the rest of this Pop-Tart?
+[s01_e03_c12_u011] Ross Geller: Hey, I might!
+[s01_e03_c12_u012] Phoebe Buffay: Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+[s01_e03_c12_u013] #ALL#: You're kidding. Oh my God.
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+[s01_e03_c12_u015] Joey Tribbiani: What's going on?
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+[s01_e03_c12_u017] Joey Tribbiani: Even nicer when everyone gets to wear their underwear..
+[s01_e03_c12_u018] Rachel Green: Uh, Joey.."
+s01_e03,s01_e03_c12,Phoebe Buffay,1,18,20,17,21,2,s01_e03_c12_u019,s01_e03_c12_u029,"[s01_e03_c12_u019] Joey Tribbiani: Oh, God!
+[s01_e03_c12_u020] Monica Geller: Okay..
+[s01_e03_c12_u021] #ALL#: Oh! That was Lambchop!
+[s01_e03_c12_u022] Monica Geller: Please, guys, we have to talk.
+[s01_e03_c12_u023] Phoebe Buffay: Wait, wait, I'm getting a deja vu...no, I'm not.
+[s01_e03_c12_u024] Monica Geller: Alright, we have to talk.
+[s01_e03_c12_u025] Phoebe Buffay: There it is!
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+[s01_e03_c12_u027] Unknown Speaker: 
+[s01_e03_c12_u028] Ross Geller: Is there somebody else?
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change."
+s01_e03,s01_e03_c12,Ross Geller,0,4,8,3,9,3,s01_e03_c12_u004,s01_e03_c12_u015,"[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+[s01_e03_c12_u006] Monica Geller: Thanks.
+[s01_e03_c12_u007] Ross Geller: There y'go.
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now.
+[s01_e03_c12_u009] Ross Geller: Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?
+[s01_e03_c12_u010] Phoebe Buffay: Does anyone want the rest of this Pop-Tart?
+[s01_e03_c12_u011] Ross Geller: Hey, I might!
+[s01_e03_c12_u012] Phoebe Buffay: Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+[s01_e03_c12_u013] #ALL#: You're kidding. Oh my God.
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+[s01_e03_c12_u015] Joey Tribbiani: What's going on?"
+s01_e03,s01_e03_c13,Alan,0,0,0,0,0,3,s01_e03_c13_u001,s01_e03_c13_u005,"[s01_e03_c13_u001] Alan: Wow.
+[s01_e03_c13_u002] Monica Geller: I'm, I'm really sorry.
+[s01_e03_c13_u003] Alan: Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.
+[s01_e03_c13_u004] Monica Geller: Relieved?
+[s01_e03_c13_u005] Alan: Yeah, well, I had a great time with you.. I just can't stand your friends."
+s01_e03,s01_e03_c13,Monica Geller,0,0,0,0,0,2,s01_e03_c13_u001,s01_e03_c13_u005,"[s01_e03_c13_u001] Alan: Wow.
+[s01_e03_c13_u002] Monica Geller: I'm, I'm really sorry.
+[s01_e03_c13_u003] Alan: Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.
+[s01_e03_c13_u004] Monica Geller: Relieved?
+[s01_e03_c13_u005] Alan: Yeah, well, I had a great time with you.. I just can't stand your friends."
+s01_e03,s01_e03_c14,Chandler Bing,0,5,7,4,7,3,s01_e03_c14_u006,s01_e03_c14_u014,"[s01_e03_c14_u006] Monica Geller: Oh, y'know..
+[s01_e03_c14_u007] Phoebe Buffay: Did he mention us?
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys.
+[s01_e03_c14_u009] Ross Geller: You had a rough day, huh.. c'mere.
+[s01_e03_c14_u010] Chandler Bing: ...That's it. I'm getting cigarettes.
+[s01_e03_c14_u011] #ALL#: No no no!
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+[s01_e03_c14_u013] Phoebe Buffay: If you never smoke again I'll give you seven thousand dollars!
+[s01_e03_c14_u014] Chandler Bing: Yeah, alright."
+s01_e03,s01_e03_c14,Monica Geller,0,0,4,0,5,3,s01_e03_c14_u001,s01_e03_c14_u012,"[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+[s01_e03_c14_u002] Ross Geller: Yeah. He could row like a viking.
+[s01_e03_c14_u003] Monica Geller: Hi.
+[s01_e03_c14_u004] #ALL#: Mmm.
+[s01_e03_c14_u005] Ross Geller: So how'd it go?
+[s01_e03_c14_u006] Monica Geller: Oh, y'know..
+[s01_e03_c14_u007] Phoebe Buffay: Did he mention us?
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys.
+[s01_e03_c14_u009] Ross Geller: You had a rough day, huh.. c'mere.
+[s01_e03_c14_u010] Chandler Bing: ...That's it. I'm getting cigarettes.
+[s01_e03_c14_u011] #ALL#: No no no!
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!"
+s01_e03,s01_e03_c14,Ross Geller,0,0,1,0,2,2,s01_e03_c14_u001,s01_e03_c14_u008,"[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+[s01_e03_c14_u002] Ross Geller: Yeah. He could row like a viking.
+[s01_e03_c14_u003] Monica Geller: Hi.
+[s01_e03_c14_u004] #ALL#: Mmm.
+[s01_e03_c14_u005] Ross Geller: So how'd it go?
+[s01_e03_c14_u006] Monica Geller: Oh, y'know..
+[s01_e03_c14_u007] Phoebe Buffay: Did he mention us?
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys."
+s01_e03,s01_e03_c14,Ross Geller,1,3,3,2,4,2,s01_e03_c14_u003,s01_e03_c14_u010,"[s01_e03_c14_u003] Monica Geller: Hi.
+[s01_e03_c14_u004] #ALL#: Mmm.
+[s01_e03_c14_u005] Ross Geller: So how'd it go?
+[s01_e03_c14_u006] Monica Geller: Oh, y'know..
+[s01_e03_c14_u007] Phoebe Buffay: Did he mention us?
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys.
+[s01_e03_c14_u009] Ross Geller: You had a rough day, huh.. c'mere.
+[s01_e03_c14_u010] Chandler Bing: ...That's it. I'm getting cigarettes."

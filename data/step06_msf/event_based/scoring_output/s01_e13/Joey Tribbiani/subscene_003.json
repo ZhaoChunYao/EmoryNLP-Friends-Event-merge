@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge of the situation, speaks forcefully and often (e.g., “No you won’t,” “I’m going to keep an eye on you,” ordering where each will sleep and to go to her room now)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Controlling and unaccommodating: forbids them to sleep together, insists on monitoring them, dismisses explanations (“I don’t want to hear it”), and imposes strict rules under her roof."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Sets clear rules and structure: assigns sleeping arrangements, states it’s only for tonight, demands a change starting tomorrow, and requires coming clean to her mother."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays firm, confident control without signs of anxiety or insecurity (“I don’t care how old you are,” unwavering enforcement of rules)."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dogmatic and closed to discussion: deems the affair “not right,” orders it to end, and refuses to hear explanations."
+  }
+}

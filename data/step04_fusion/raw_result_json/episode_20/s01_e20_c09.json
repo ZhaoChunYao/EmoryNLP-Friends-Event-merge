@@ -1,0 +1,229 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c09_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('ring', 'you/(phone)', None, 's01_e20_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('thank', 'I/Ross Geller', None, 's01_e20_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', 'our phone is not working', 's01_e20_c09_u004')",
+            "('work', 'our phone', 'not', 's01_e20_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('try', 'I/Joey Tribbiani', 'call you from the coffee shop', 's01_e20_c09_u006')",
+            "('call', 'I/Joey Tribbiani', 'you', 's01_e20_c09_u006')",
+            "('call', 'I/Joey Tribbiani', 'from the coffee shop', 's01_e20_c09_u006')",
+            "('be', 'there', 'no answer', 's01_e20_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('turn off', 'I/Chandler Bing', 'it', 's01_e20_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('tell', 'you/Chandler Bing', 'her', 's01_e20_c09_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('do', 'you/Chandler Bing', None, 's01_e20_c09_u008')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('point out', 'I/Monica Geller', 'the irony', 's01_e20_c09_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('listen', 'you/(everyone)', None, 's01_e20_c09_u009')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani', 'across the street', 's01_e20_c09_u009')",
+            "('talk', 'I/Joey Tribbiani', 'to the doorman', 's01_e20_c09_u009')",
+            "('get', 'I/Joey Tribbiani', \"the peeper's name\", 's01_e20_c09_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('use', 'I/Joey Tribbiani', 'your phone', 's01_e20_c09_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'Sidney Marks', 'there', 's01_e20_c09_u016')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'Sidney Marks', 'a woman', 's01_e20_c09_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('live', 'I/Joey Tribbiani', 'across the street', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('know', 'I/Joey Tribbiani', 'all about you and your little telescope', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('appreciate', 'I/Joey Tribbiani', 'it', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('see', 'I/Joey Tribbiani', 'you', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_5",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani', 'walk around my apartment in my underwear', 's01_e20_c09_u018')",
+            "('walk', 'I/Joey Tribbiani', 'around my apartment', 's01_e20_c09_u018')",
+            "('walk', 'I/Joey Tribbiani', 'in my underwear', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_6",
+          "tuples": [
+            "('feel', 'I/Joey Tribbiani', None, 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_7",
+          "tuples": [
+            "('thank', 'I/Joey Tribbiani', 'you', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_8",
+          "tuples": [
+            "('be', 'that/(thanks)', 'not really the point', 's01_e20_c09_u018')"
+          ]
+        },
+        {
+          "event_id": "event_9",
+          "tuples": [
+            "('be', 'the point', 'that', 's01_e20_c09_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'she/Monica Geller', 'you looked very pretty the other day in the green dress', 's01_e20_c09_u020')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('look', 'you/Sidney Marks', 'very pretty', 's01_e20_c09_u020')",
+            "('look', 'you/Sidney Marks', 'in the green dress', 's01_e20_c09_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c09_u022",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'she/Monica Geller', 'you looked like Ingrid Bergman that day', 's01_e20_c09_u022')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('look', 'you/Sidney Marks', 'like Ingrid Bergman', 's01_e20_c09_u022')"
+          ]
+        }
+      ]
+    }
+  ]
+}

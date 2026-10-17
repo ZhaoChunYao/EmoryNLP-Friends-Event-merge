@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, defensive statements and a thank-you; no clear signs of outgoing, energetic, or highly social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker remains polite and cooperative—thanks Speaker_02 and acknowledges, “I know,” when told she can’t live off her parents; no hostile or boastful remarks."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Others are cutting up TargetSpeaker’s credit cards; TargetSpeaker insists “I can stop charging anytime I want” and admits having been living off TargetSpeaker’s parents and planned to stop only by getting married—indicating poor self-control/responsibility."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite the stressful context, TargetSpeaker does not express anxiety or emotional volatility and responds matter-of-factly."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, imagination, or closed-mindedness in the statements made."
+  }
+}

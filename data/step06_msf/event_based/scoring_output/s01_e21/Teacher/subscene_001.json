@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively offers help and urges them to join the class immediately (“can help right now”; “should…dance…now”), even pointing out spare shoes—energetic and socially engaging."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers assistance and provides resources (“spare shoes are located over there”) with clear, straightforward guidance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He quickly lays out a concrete plan (don’t observe; dance now) and the logistics (where the spare shoes are), showing an efficient, organized approach."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently (“can help…right now”) and gives firm directions without any sign of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Encourages an unconventional, hands-on approach—stop observing and actually dance—indicating openness to new experience."
+  }
+}

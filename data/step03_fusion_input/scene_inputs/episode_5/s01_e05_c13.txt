@@ -1,0 +1,111 @@
+('go', 'Something', 'wrong with Underdog', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('get', 'they/(parade staff)', 'his head to inflate', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('inflate', 'his head', None, 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('flop', 'his head', 'down Broadway', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('think', 'I/Monica Geller', 'how inappropriate this is', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('be', 'this/situation', 'inappropriate', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('have', 'I/Monica Geller', 'something in my eye', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('check', 'we/Monica Geller+Joey Tribbiani', 'it in the light', 's01_e05_c13_u001')
+[s01_e05_c13_u001] Monica Geller: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+
+('be', 'we/Monica Geller+Joey Tribbiani', 'at the same table', 's01_e05_c13_u005')
+[s01_e05_c13_u005] Monica Geller: Hello! Were we at the same table? It's like... cocktails in Appalachia.
+
+('be', 'it/situation', 'like cocktails in Appalachia', 's01_e05_c13_u005')
+[s01_e05_c13_u005] Monica Geller: Hello! Were we at the same table? It's like... cocktails in Appalachia.
+
+('come', 'you/Monica Geller', 'on', 's01_e05_c13_u006')
+[s01_e05_c13_u006] Joey Tribbiani: Come on, they're close.
+
+('be', 'they/(couple)', 'close', 's01_e05_c13_u006')
+[s01_e05_c13_u006] Joey Tribbiani: Come on, they're close.
+
+('have', 'she/(unknown woman)', 'her tongue in his ear', 's01_e05_c13_u007')
+[s01_e05_c13_u007] Monica Geller: Close? She's got her tongue in his ear.
+
+('get', 'you/Monica Geller', 'a little rambunctious', 's01_e05_c13_u008')
+[s01_e05_c13_u008] Joey Tribbiani: Oh, like you've never gotten a little rambunctious with Ross.
+
+('get', 'you/Monica Geller', 'with Ross', 's01_e05_c13_u008')
+[s01_e05_c13_u008] Joey Tribbiani: Oh, like you've never gotten a little rambunctious with Ross.
+
+('be', 'this/situation', 'sick', 's01_e05_c13_u009')
+[s01_e05_c13_u009] Monica Geller: Joey, this is sick, it's disgusting, it's, it'snot really true, is it?
+
+('be', 'it/situation', 'disgusting', 's01_e05_c13_u009')
+[s01_e05_c13_u009] Monica Geller: Joey, this is sick, it's disgusting, it's, it'snot really true, is it?
+
+('be', 'it/situation', 'not really true', 's01_e05_c13_u009')
+[s01_e05_c13_u009] Monica Geller: Joey, this is sick, it's disgusting, it's, it'snot really true, is it?
+
+('say', 'who/indefinite', "what's true", 's01_e05_c13_u010')
+[s01_e05_c13_u010] Joey Tribbiani: Well, who's to say what's true? I mean...
+
+('be', 'what/truth', 'true', 's01_e05_c13_u010')
+[s01_e05_c13_u010] Joey Tribbiani: Well, who's to say what's true? I mean...
+
+('mean', 'I/Joey Tribbiani', None, 's01_e05_c13_u010')
+[s01_e05_c13_u010] Joey Tribbiani: Well, who's to say what's true? I mean...
+
+('think', 'you/Joey Tribbiani', 'what', 's01_e05_c13_u011')
+[s01_e05_c13_u011] Monica Geller: Oh my god, what were you thinking?
+
+('be', 'I/Joey Tribbiani', 'not proud of this', 's01_e05_c13_u012')
+[s01_e05_c13_u012] Joey Tribbiani: All right, look, I'm not proud of this, ok? Well, maybe I am a little.
+
+('be', 'I/Joey Tribbiani', 'a little', 's01_e05_c13_u012')
+[s01_e05_c13_u012] Joey Tribbiani: All right, look, I'm not proud of this, ok? Well, maybe I am a little.
+
+('be', 'I/Monica Geller', 'out of here', 's01_e05_c13_u015')
+[s01_e05_c13_u015] Monica Geller: I'm outta here.
+
+('wait', 'you/Monica Geller', None, 's01_e05_c13_u016')
+[s01_e05_c13_u016] Joey Tribbiani: Wait, wait, wait. You want him, I want her. He likes you.
+
+('want', 'you/Monica Geller', 'him/(unknown man)', 's01_e05_c13_u016')
+[s01_e05_c13_u016] Joey Tribbiani: Wait, wait, wait. You want him, I want her. He likes you.
+
+('want', 'I/Joey Tribbiani', 'her/(unknown woman)', 's01_e05_c13_u016')
+[s01_e05_c13_u016] Joey Tribbiani: Wait, wait, wait. You want him, I want her. He likes you.
+
+('like', 'he/(unknown man)', 'you/Monica Geller', 's01_e05_c13_u016')
+[s01_e05_c13_u016] Joey Tribbiani: Wait, wait, wait. You want him, I want her. He likes you.
+
+('think', 'I/Joey Tribbiani', 'if we put our heads together, between the two of us, we can break them up', 's01_e05_c13_u018')
+[s01_e05_c13_u018] Joey Tribbiani: Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
+
+('put', 'we/Monica Geller+Joey Tribbiani', 'our heads together between the two of us', 's01_e05_c13_u018')
+[s01_e05_c13_u018] Joey Tribbiani: Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
+
+('break', 'we/Monica Geller+Joey Tribbiani', 'them up', 's01_e05_c13_u018')
+[s01_e05_c13_u018] Joey Tribbiani: Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
+
+('be', 'I/Monica Geller', 'so sorry', 's01_e05_c13_u020')
+[s01_e05_c13_u020] Monica Geller: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+
+('believe', 'I/Monica Geller', 'I did this', 's01_e05_c13_u020')
+[s01_e05_c13_u020] Monica Geller: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+
+('do', 'I/Monica Geller', 'this', 's01_e05_c13_u020')
+[s01_e05_c13_u020] Monica Geller: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+
+('stop', 'I/Monica Geller', 'laughing at your Norman Mailer story', 's01_e05_c13_u020')
+[s01_e05_c13_u020] Monica Geller: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+
+('laugh', 'I/Monica Geller', 'at your Norman Mailer story', 's01_e05_c13_u020')
+[s01_e05_c13_u020] Monica Geller: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+

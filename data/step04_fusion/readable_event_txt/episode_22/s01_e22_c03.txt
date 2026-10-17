@@ -1,0 +1,77 @@
+event_id: s01_e22_c03_u001_e1
+utterance_id: s01_e22_c03_u001
+  tuple: ('hear', 'you/Phoebe Buffay', 'that', 's01_e22_c03_u001')
+
+event_id: s01_e22_c03_u003_e1
+utterance_id: s01_e22_c03_u003
+  tuple: ('see', 'you/Phoebe Buffay', "that'll stop when you pick up the phone", 's01_e22_c03_u003')
+
+event_id: s01_e22_c03_u003_e2
+utterance_id: s01_e22_c03_u003
+  tuple: ('stop', 'that', None, 's01_e22_c03_u003')
+
+event_id: s01_e22_c03_u003_e3
+utterance_id: s01_e22_c03_u003
+  tuple: ('pick', 'you/Phoebe Buffay', 'up the phone', 's01_e22_c03_u003')
+
+event_id: s01_e22_c03_u004_e1
+utterance_id: s01_e22_c03_u004
+  tuple: ('be', 'I/Phoebe Buffay', 'on', 's01_e22_c03_u004')
+
+event_id: s01_e22_c03_u005_e1
+utterance_id: s01_e22_c03_u005
+  tuple: ('be', 'I/Phoebe Buffay', 'sorry', 's01_e22_c03_u005')
+
+event_id: s01_e22_c03_u005_e2
+utterance_id: s01_e22_c03_u005
+  tuple: ('be', 'he/Chandler Bing', 'in a meeting', 's01_e22_c03_u005')
+
+event_id: s01_e22_c03_u006_e1
+utterance_id: s01_e22_c03_u006
+  tuple: ('be', 'I/Chandler Bing', 'not in a meeting', 's01_e22_c03_u006')
+
+event_id: s01_e22_c03_u006_e2
+utterance_id: s01_e22_c03_u006
+  tuple: ('be', 'I/Chandler Bing', 'right', 's01_e22_c03_u006')
+
+event_id: s01_e22_c03_u007_e1
+utterance_id: s01_e22_c03_u007
+  tuple: ('know', 'he/Chandler Bing', 'what this is in reference to', 's01_e22_c03_u007')
+  tuple: ('be', 'this', 'in reference to what', 's01_e22_c03_u007')
+
+event_id: s01_e22_c03_u007_e2
+utterance_id: s01_e22_c03_u007
+  tuple: ('have', 'he/Chandler Bing', 'your number', 's01_e22_c03_u007')
+
+event_id: s01_e22_c03_u007_e3
+utterance_id: s01_e22_c03_u007
+  tuple: ('see', 'I/Phoebe Buffay', 'that he gets the message', 's01_e22_c03_u007')
+
+event_id: s01_e22_c03_u007_e4
+utterance_id: s01_e22_c03_u007
+  tuple: ('get', 'he/Chandler Bing', 'the message', 's01_e22_c03_u007')
+
+event_id: s01_e22_c03_u009_e1
+utterance_id: s01_e22_c03_u009
+  tuple: ('say', 'Ross', 'hi', 's01_e22_c03_u009')
+
+event_id: s01_e22_c03_u011_e1
+utterance_id: s01_e22_c03_u011
+  tuple: ('be', 'This', 'so fun', 's01_e22_c03_u011')
+
+event_id: s01_e22_c03_u011_e2
+utterance_id: s01_e22_c03_u011
+  tuple: ('do', 'we/Chandler Bing+Phoebe Buffay', 'what', 's01_e22_c03_u011')
+
+event_id: s01_e22_c03_u012_e1
+utterance_id: s01_e22_c03_u012
+  tuple: ('get', 'I/Chandler Bing', 'to work', 's01_e22_c03_u012')
+
+event_id: s01_e22_c03_u013_e1
+utterance_id: s01_e22_c03_u013
+  tuple: ('be', 'I/Phoebe Buffay', 'out there', 's01_e22_c03_u013')
+
+event_id: s01_e22_c03_u019_e1
+utterance_id: s01_e22_c03_u019
+  tuple: ('do', 'you/Chandler Bing', 'what', 's01_e22_c03_u019')
+

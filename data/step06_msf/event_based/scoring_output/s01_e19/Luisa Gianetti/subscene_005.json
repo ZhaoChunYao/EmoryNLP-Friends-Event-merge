@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge publicly, telling others \"the ladies should step aside\" and announcing intent to act."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Intends to tranquilize another person and issues commands, showing low warmth/cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear indications of organization or diligence; only a brief intent to act."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm and decisive under pressure, confidently proposing \"Just a small tranquiliser.\""
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking in the brief exchange."
+  }
+}

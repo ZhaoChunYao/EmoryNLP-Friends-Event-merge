@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker jumps in during the game to interpret the clue and then exclaims, \"That's a bird!\", showing active, outgoing participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They helpfully clarify another player's clue (identifying 'Bye Bye Birdie' as referring to a bird), cooperating with the group."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; only brief clue interpretation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or distress, but also no explicit signs of exceptional calm or confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Making an obvious connection in the game provides no clear evidence of inventiveness/curiosity or dogmatism/caution."
+  }
+}

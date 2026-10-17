@@ -1,0 +1,114 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u001_e1",
+          "tuples": [
+            "('pick', 'you/Chandler Bing', 'one', 's01_e12_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u002_e1",
+          "tuples": [
+            "('be', 'That', 'patio furniture', 's01_e12_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u003_e1",
+          "tuples": [
+            "('come', 'people', 'in', 's01_e12_c09_u003')",
+            "('think', 'people', \"I'm outside again?\", 's01_e12_c09_u003')",
+            "('be', 'I/(people)', 'outside again', 's01_e12_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u005_e1",
+          "tuples": [
+            "('know', 'I/Joey Tribbiani', None, 's01_e12_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c09_u005_e2",
+          "tuples": [
+            "('say', 'birds', 'Hello, sit here, eat something.', 's01_e12_c09_u005')",
+            "('sit', 'you/(people)', None, 's01_e12_c09_u005')",
+            "('eat', 'you/(people)', 'something', 's01_e12_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u006_e1",
+          "tuples": [
+            "('pick', 'you/Joey Tribbiani', 'one', 's01_e12_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u008",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u008_e1",
+          "tuples": [
+            "('forget', 'you/Joey Tribbiani', 'about the birds', 's01_e12_c09_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c09_u008_e2",
+          "tuples": [
+            "('suggest', 'big red insects', 'fine dining', 's01_e12_c09_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u009_e1",
+          "tuples": [
+            "('want', 'you/Chandler Bing', 'get the birds', 's01_e12_c09_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c09_u009_e2",
+          "tuples": [
+            "('get', 'you/Chandler Bing', 'the birds', 's01_e12_c09_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c09_u010",
+      "events": [
+        {
+          "event_id": "s01_e12_c09_u010_e1",
+          "tuples": [
+            "('like', 'Kip', 'the birds', 's01_e12_c09_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

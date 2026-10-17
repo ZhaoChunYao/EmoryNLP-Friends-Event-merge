@@ -1,0 +1,112 @@
+event_id: s01_e08_c08_u003_e1
+utterance_id: s01_e08_c08_u003
+  tuple: ('show', 'I/Ross Geller', 'you everything we have', 's01_e08_c08_u003')
+
+event_id: s01_e08_c08_u003_e2
+utterance_id: s01_e08_c08_u003
+  tuple: ('have', 'we/(store)', 'everything', 's01_e08_c08_u003')
+
+event_id: s01_e08_c08_u003_e3
+utterance_id: s01_e08_c08_u003
+  tuple: ('want', 'you/Aunt Lillian', 'your mother to spend eternity in a lemon yellow pant-suit', 's01_e08_c08_u003')
+
+event_id: s01_e08_c08_u003_e4
+utterance_id: s01_e08_c08_u003
+  tuple: ('spend', 'your mother', 'eternity', 's01_e08_c08_u003')
+  tuple: ('spend', 'your mother', 'in a lemon yellow pant-suit', 's01_e08_c08_u003')
+
+event_id: s01_e08_c08_u003_e5
+utterance_id: s01_e08_c08_u003
+  tuple: ('go', 'you/Aunt Lillian', None, 's01_e08_c08_u003')
+  tuple: ('go', 'you/Aunt Lillian', 'with the burgundy', 's01_e08_c08_u003')
+
+event_id: s01_e08_c08_u004_e1
+utterance_id: s01_e08_c08_u004
+  tuple: ('know', 'you/Ross Geller', None, 's01_e08_c08_u004')
+
+event_id: s01_e08_c08_u004_e2
+utterance_id: s01_e08_c08_u004
+  tuple: ('pick', 'we/Judy Geller & Aunt Lillian', 'whatever', 's01_e08_c08_u004')
+
+event_id: s01_e08_c08_u004_e3
+utterance_id: s01_e08_c08_u004
+  tuple: ('tell', 'she/Nana', "us it's the wrong one", 's01_e08_c08_u004')
+
+event_id: s01_e08_c08_u004_e4
+utterance_id: s01_e08_c08_u004
+  tuple: ('be', 'it/the choice', 'the wrong one', 's01_e08_c08_u004')
+
+event_id: s01_e08_c08_u005_e1
+utterance_id: s01_e08_c08_u005
+  tuple: ('be', 'you/Aunt Lillian', 'right', 's01_e08_c08_u005')
+
+event_id: s01_e08_c08_u005_e2
+utterance_id: s01_e08_c08_u005
+  tuple: ('go', 'we/Judy Geller & Aunt Lillian', None, 's01_e08_c08_u005')
+  tuple: ('go', 'we/Judy Geller & Aunt Lillian', 'with the burgundy', 's01_e08_c08_u005')
+
+event_id: s01_e08_c08_u006_e1
+utterance_id: s01_e08_c08_u006
+  tuple: ('come out', 'I/Ross Geller', None, 's01_e08_c08_u006')
+
+event_id: s01_e08_c08_u007_e1
+utterance_id: s01_e08_c08_u007
+  tuple: ('wait', 'you/Ross Geller', None, 's01_e08_c08_u007')
+
+event_id: s01_e08_c08_u007_e2
+utterance_id: s01_e08_c08_u007
+  tuple: ('need', 'we/Judy Geller & Aunt Lillian', 'shoes', 's01_e08_c08_u007')
+
+event_id: s01_e08_c08_u010_e1
+utterance_id: s01_e08_c08_u010
+  tuple: ('be', 'that/the shoes', 'really a day shoe', 's01_e08_c08_u010')
+
+event_id: s01_e08_c08_u011_e1
+utterance_id: s01_e08_c08_u011
+  tuple: ('go', 'she/Nana', 'where', 's01_e08_c08_u011')
+
+event_id: s01_e08_c08_u011_e2
+utterance_id: s01_e08_c08_u011
+  tuple: ('be', 'everyone else', 'dressier', 's01_e08_c08_u011')
+
+event_id: s01_e08_c08_u012_e1
+utterance_id: s01_e08_c08_u012
+  tuple: ('see', 'we/Judy Geller & Aunt Lillian', 'something', 's01_e08_c08_u012')
+  tuple: ('see', 'we/Judy Geller & Aunt Lillian', 'in a slimmer heel', 's01_e08_c08_u012')
+
+event_id: s01_e08_c08_u013_e1
+utterance_id: s01_e08_c08_u013
+  tuple: ('have', 'I/Ross Geller', 'nothing', 's01_e08_c08_u013')
+  tuple: ('have', 'I/Ross Geller', 'in an evening shoe', 's01_e08_c08_u013')
+  tuple: ('have', 'I/Ross Geller', 'in the burgundy', 's01_e08_c08_u013')
+
+event_id: s01_e08_c08_u013_e2
+utterance_id: s01_e08_c08_u013
+  tuple: ('show', 'I/Ross Geller', 'you something in a silver that may work', 's01_e08_c08_u013')
+
+event_id: s01_e08_c08_u013_e3
+utterance_id: s01_e08_c08_u013
+  tuple: ('work', 'that/the silver option', None, 's01_e08_c08_u013')
+
+event_id: s01_e08_c08_u014_e1
+utterance_id: s01_e08_c08_u014
+  tuple: ('be', 'it/the color', 'burgundy', 's01_e08_c08_u014')
+
+event_id: s01_e08_c08_u015_e1
+utterance_id: s01_e08_c08_u015
+  tuple: ('go', 'we/Judy Geller & Aunt Lillian', None, 's01_e08_c08_u015')
+  tuple: ('go', 'we/Judy Geller & Aunt Lillian', 'with a different dress', 's01_e08_c08_u015')
+
+event_id: s01_e08_c08_u016_e1
+utterance_id: s01_e08_c08_u016
+  tuple: ('wait', 'you/Judy Geller & Aunt Lillian', 'a sec', 's01_e08_c08_u016')
+
+event_id: s01_e08_c08_u016_e2
+utterance_id: s01_e08_c08_u016
+  tuple: ('have', 'I/Ross Geller', 'something', 's01_e08_c08_u016')
+  tuple: ('have', 'I/Ross Geller', 'in the back', 's01_e08_c08_u016')
+
+event_id: s01_e08_c08_u019_e1
+utterance_id: s01_e08_c08_u019
+  tuple: ('be', 'everything', 'all right', 's01_e08_c08_u019')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is assertive and talkative, repeatedly prodding (“You know what?”) and taking social lead by declaring everyone should get going with the evening."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "They argue and tease: deny being a baby, say Speaker_03 gets uptight, and jab that Speaker_03 is becoming like Speaker_04—critical rather than gentle or accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from nudging the group to get going, there’s no clear sign of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Though heated (“swears to God”), they show confidence and no clear anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "They push for telling the truth about who they are and criticize caution (“gets so uptight”), showing a preference for openness over cautious secrecy."
+  }
+}

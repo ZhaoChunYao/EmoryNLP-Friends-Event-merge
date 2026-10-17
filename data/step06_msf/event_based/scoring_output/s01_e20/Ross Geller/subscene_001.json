@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, reactive comments and does not display outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker is matter-of-fact and non-confrontational but shows no clear acts of kindness or cooperation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements indicate organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows caution and alarm: says they do not want to mess with corn nuts and expresses disbelief about being watched with a telescope."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Risk-averse and cautious stance: “we don’t want to mess with corn nuts,” avoiding novelty or challenge."
+  }
+}

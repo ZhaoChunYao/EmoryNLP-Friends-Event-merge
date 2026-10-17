@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks a brief clarifying question and makes one blunt statement; no clear sign of being outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly tells Speaker_01 they are a terrible waitress, showing low empathy and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, reliability, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or emotional instability; a single blunt comment is insufficient to infer."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or dogmatic/cautious thinking in the brief exchange."
+  }
+}

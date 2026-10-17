@@ -1,0 +1,58 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c08_u003_e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'okay', 's01_e16_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c08_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c08_u004_e1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', None, 's01_e16_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c08_u004_e2",
+          "tuples": [
+            "('listen', 'you/Nina Bookbinder', None, 's01_e16_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c08_u004_e3",
+          "tuples": [
+            "('call', 'I/Chandler Bing', 'you', 's01_e16_c08_u004')",
+            "('call', 'I/Chandler Bing', 'in here', 's01_e16_c08_u004')",
+            "('be', 'the reason', None, 's01_e16_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c08_u004_e4",
+          "tuples": [
+            "('hate', 'you/Nina Bookbinder', 'me', 's01_e16_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c08_u006_e1",
+          "tuples": [
+            "('like', 'you/Nina Bookbinder', 'have dinner sometime', 's01_e16_c08_u006')",
+            "('have', 'you/Nina Bookbinder', 'dinner', 's01_e16_c08_u006')"
+          ]
+        }
+      ]
+    }
+  ]
+}

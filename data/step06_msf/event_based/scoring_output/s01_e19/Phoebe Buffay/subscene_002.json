@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Offers a brief greeting ('Hey') and a short comment about the room's mood, plus a couple of questions, but is not especially talkative or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and empathy about the situation ('Oh no, how?') and engages cooperatively by asking clarifying questions ('Which one?')."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior indicating organization/efficiency or carelessness; only brief remarks and questions."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Sensitive to the environment ('the air in the apartment is very negative') and reacts with worry ('Oh no, how?'); also makes a superstitious remark ('the left shoe is lucky')."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Does not propose new ideas or display curiosity beyond basic questions; the 'left shoe is lucky' comment doesn’t clearly indicate openness to new experiences or ideas."
+  }
+}

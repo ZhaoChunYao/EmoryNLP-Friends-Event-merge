@@ -1,0 +1,333 @@
+('greet', 'we/(Chandler Bing+Rachel Green)', 'each other', 's01_e06_c04_u002')
+[s01_e06_c04_u002] Chandler Bing: Are we greeting each other this way now? 'Cause I like that.
+
+('like', 'I/(Chandler Bing)', 'that', 's01_e06_c04_u002')
+[s01_e06_c04_u002] Chandler Bing: Are we greeting each other this way now? 'Cause I like that.
+
+('look', 'you/(ALL)', None, 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('clean', 'I/(Rachel Green)', None, 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('do', 'I/(Rachel Green)', 'the windows', 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('do', 'I/(Rachel Green)', 'the floors', 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('use', 'I/(Rachel Green)', 'all the attachments', 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('use', 'I/(Rachel Green)', 'on the vacuum', 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('know', 'I/(Rachel Green)', "what that's for", 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('be', 'that/(vacuum round attachment)', 'for what', 's01_e06_c04_u003')
+[s01_e06_c04_u003] Rachel Green: Look! I cleaned! I did the windows, I did the floors... I even used all the attachments on the vacuum, except that little round one with the bristles, I don't know what that's for.
+
+('know', 'nobody', None, 's01_e06_c04_u004')
+[s01_e06_c04_u004] Ross Geller: Oh yeah, nobody knows. And we're not supposed to ask.
+
+('suppose', 'we/(people)', 'to ask', 's01_e06_c04_u004')
+[s01_e06_c04_u004] Ross Geller: Oh yeah, nobody knows. And we're not supposed to ask.
+
+('think', 'you/(ALL)', None, 's01_e06_c04_u005')
+[s01_e06_c04_u005] Rachel Green: Well, whaddya think?
+
+('look', 'it/(apartment)', 'great', 's01_e06_c04_u006')
+[s01_e06_c04_u006] #ALL#: Very clean! It looks great! Terrific!
+
+('see', 'I/(Monica Geller)', 'you moved the green ottoman', 's01_e06_c04_u007')
+[s01_e06_c04_u007] Monica Geller: ...Oh! I-I see you moved the green ottoman.
+
+('move', 'you/(Rachel Green)', 'the green ottoman', 's01_e06_c04_u007')
+[s01_e06_c04_u007] Monica Geller: ...Oh! I-I see you moved the green ottoman.
+
+('happen', 'that/(the ottoman moving)', None, 's01_e06_c04_u009')
+[s01_e06_c04_u009] Monica Geller: How-how did that happen?
+
+('know', 'I/(Rachel Green)', None, 's01_e06_c04_u010')
+[s01_e06_c04_u010] Rachel Green: I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
+
+('think', 'I/(Rachel Green)', 'it looked better there', 's01_e06_c04_u010')
+[s01_e06_c04_u010] Rachel Green: I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
+
+('look', 'it/(ottoman placement)', 'better', 's01_e06_c04_u010')
+[s01_e06_c04_u010] Rachel Green: I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
+
+('be', 'it/(green ottoman)', 'an extra seat', 's01_e06_c04_u010')
+[s01_e06_c04_u010] Rachel Green: I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
+
+('be', 'it/(green ottoman)', 'around the coffee table', 's01_e06_c04_u010')
+[s01_e06_c04_u010] Rachel Green: I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.
+
+('be', 'it/(green ottoman placement)', 'interesting', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('know', 'you/(ALL)', 'what', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('see', 'we/(Monica Geller+Rachel Green+friends)', 'what it looked like in the old spot', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('look', 'it/(green ottoman)', None, 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('look', 'it/(green ottoman)', 'in the old spot', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('look', 'it/(green ottoman)', 'good', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('leave', 'we/(Monica Geller+friends)', 'it', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('leave', 'we/(Monica Geller+friends)', 'for a while', 's01_e06_c04_u011')
+[s01_e06_c04_u011] Monica Geller: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+
+('believe', 'I/(Phoebe Buffay)', 'you tried to move the green ottoman', 's01_e06_c04_u012')
+[s01_e06_c04_u012] Phoebe Buffay: I can't believe you tried to move the green ottoman.
+
+('try', 'you/(Rachel Green)', 'to move the green ottoman', 's01_e06_c04_u012')
+[s01_e06_c04_u012] Phoebe Buffay: I can't believe you tried to move the green ottoman.
+
+('try', 'you/(Rachel Green)', 'to fan out the magazines', 's01_e06_c04_u013')
+[s01_e06_c04_u013] Chandler Bing: Thank God you didn't try to fan out the magazines. I mean, she'll scratch your eyes right out.
+
+('fan out', 'you/(Rachel Green)', 'the magazines', 's01_e06_c04_u013')
+[s01_e06_c04_u013] Chandler Bing: Thank God you didn't try to fan out the magazines. I mean, she'll scratch your eyes right out.
+
+('scratch', 'she/(Monica Geller)', 'your eyes', 's01_e06_c04_u013')
+[s01_e06_c04_u013] Chandler Bing: Thank God you didn't try to fan out the magazines. I mean, she'll scratch your eyes right out.
+
+('be', 'I/(Monica Geller)', 'not that bad', 's01_e06_c04_u014')
+[s01_e06_c04_u014] Monica Geller: You guys, I am not that bad!
+
+('be', 'you/(Monica Geller)', None, 's01_e06_c04_u015')
+[s01_e06_c04_u015] Phoebe Buffay: Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!
+
+('remember', 'you/(Monica Geller)', 'when I lived with you', 's01_e06_c04_u015')
+[s01_e06_c04_u015] Phoebe Buffay: Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!
+
+('live', 'I/(Phoebe Buffay)', None, 's01_e06_c04_u015')
+[s01_e06_c04_u015] Phoebe Buffay: Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!
+
+('live', 'I/(Phoebe Buffay)', 'with you', 's01_e06_c04_u015')
+[s01_e06_c04_u015] Phoebe Buffay: Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!
+
+('be', 'you/(Monica Geller)', 'like a little', 's01_e06_c04_u015')
+[s01_e06_c04_u015] Phoebe Buffay: Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!
+
+('be', 'that/(accusation)', 'so unfair', 's01_e06_c04_u016')
+[s01_e06_c04_u016] Monica Geller: That is so unfair!
+
+('be', 'we/(Ross Geller+Monica Geller)', 'kids', 's01_e06_c04_u017')
+[s01_e06_c04_u017] Ross Geller: Oh c'mon! When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy!
+
+('be', 'yours/(Monica Geller)', 'the only Raggedy Ann doll', 's01_e06_c04_u017')
+[s01_e06_c04_u017] Ross Geller: Oh c'mon! When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy!
+
+('be', 'that/(Raggedy Ann doll)', 'raggedy', 's01_e06_c04_u017')
+[s01_e06_c04_u017] Ross Geller: Oh c'mon! When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy!
+
+('be', 'I/(Monica Geller)', 'responsible', 's01_e06_c04_u018')
+[s01_e06_c04_u018] Monica Geller: Okay, so I'm responsible, I'm organised. But hey, I can be a kook.
+
+('be', 'I/(Monica Geller)', 'organised', 's01_e06_c04_u018')
+[s01_e06_c04_u018] Monica Geller: Okay, so I'm responsible, I'm organised. But hey, I can be a kook.
+
+('be', 'I/(Monica Geller)', 'a kook', 's01_e06_c04_u018')
+[s01_e06_c04_u018] Monica Geller: Okay, so I'm responsible, I'm organised. But hey, I can be a kook.
+
+('try', 'you/(Monica Geller)', 'to imagine this', 's01_e06_c04_u019')
+[s01_e06_c04_u019] Ross Geller: Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.
+
+('imagine', 'you/(Monica Geller)', 'this', 's01_e06_c04_u019')
+[s01_e06_c04_u019] Ross Geller: Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.
+
+('arrive', 'the phone bill', None, 's01_e06_c04_u019')
+[s01_e06_c04_u019] Ross Geller: Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.
+
+('pay', 'you/(Monica Geller)', 'it', 's01_e06_c04_u019')
+[s01_e06_c04_u019] Ross Geller: Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.
+
+('be', 'you/(Monica Geller)', 'a kook', 's01_e06_c04_u021')
+[s01_e06_c04_u021] Ross Geller: Because you're a kook! Instead you wait until they send you a notice.
+
+('wait', 'you/(Monica Geller)', None, 's01_e06_c04_u021')
+[s01_e06_c04_u021] Ross Geller: Because you're a kook! Instead you wait until they send you a notice.
+
+('wait', 'you/(Monica Geller)', 'until they send you a notice', 's01_e06_c04_u021')
+[s01_e06_c04_u021] Ross Geller: Because you're a kook! Instead you wait until they send you a notice.
+
+('send', 'they/(phone company)', 'you a notice', 's01_e06_c04_u021')
+[s01_e06_c04_u021] Ross Geller: Because you're a kook! Instead you wait until they send you a notice.
+
+('do', 'I/(Monica Geller)', 'that', 's01_e06_c04_u022')
+[s01_e06_c04_u022] Monica Geller: I could do that.
+
+('let', 'you/(Monica Geller)', 'me go grocery shopping', 's01_e06_c04_u023')
+[s01_e06_c04_u023] Rachel Green: Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.
+
+('go', 'me/(Rachel Green)', 'grocery shopping', 's01_e06_c04_u023')
+[s01_e06_c04_u023] Rachel Green: Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.
+
+('buy', 'I/(Rachel Green)', 'laundry detergent', 's01_e06_c04_u023')
+[s01_e06_c04_u023] Rachel Green: Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.
+
+('be', 'it/(laundry detergent)', 'the one with the easy-pour spout', 's01_e06_c04_u023')
+[s01_e06_c04_u023] Rachel Green: Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.
+
+('do', 'someone', 'that', 's01_e06_c04_u024')
+[s01_e06_c04_u024] Monica Geller: Why would someone do that?! ...One might wonder.
+
+('wonder', 'one', None, 's01_e06_c04_u024')
+[s01_e06_c04_u024] Monica Geller: Why would someone do that?! ...One might wonder.
+
+('leave', 'someone', 'a glass', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('leave', 'someone', 'on the coffee table', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('be', 'there', 'no coaster', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('be', 'it/(drink)', 'a cold drink', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('be', 'it/(day)', 'a hot day', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('inch', 'little beads of condensation', 'their way', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('inch', 'little beads of condensation', 'to the surface of the wood', 's01_e06_c04_u025')
+[s01_e06_c04_u025] Chandler Bing: Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood...
+
+('stop', 'you/(ALL)', 'it', 's01_e06_c04_u026')
+[s01_e06_c04_u026] Monica Geller: STOP IT!! ...Oh my God. It's true! Who am I?
+
+('be', 'it/(accusation)', 'true', 's01_e06_c04_u026')
+[s01_e06_c04_u026] Monica Geller: STOP IT!! ...Oh my God. It's true! Who am I?
+
+('be', 'I/(Monica Geller)', 'who', 's01_e06_c04_u026')
+[s01_e06_c04_u026] Monica Geller: STOP IT!! ...Oh my God. It's true! Who am I?
+
+('be', 'you/(Monica Geller)', 'Mom', 's01_e06_c04_u027')
+[s01_e06_c04_u027] Ross Geller: Monica? You're Mom.
+
+('be', 'I/(Joey Tribbiani)', 'there', 's01_e06_c04_u031')
+[s01_e06_c04_u031] Joey Tribbiani: Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! That was my agent. My agent has just gotten me a job...in the new Al Pacino movie!
+
+('be', 'that/(phone call)', 'my agent', 's01_e06_c04_u031')
+[s01_e06_c04_u031] Joey Tribbiani: Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! That was my agent. My agent has just gotten me a job...in the new Al Pacino movie!
+
+('get', 'my agent', 'me a job', 's01_e06_c04_u031')
+[s01_e06_c04_u031] Joey Tribbiani: Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! That was my agent. My agent has just gotten me a job...in the new Al Pacino movie!
+
+('get', 'my agent', 'in the new Al Pacino movie', 's01_e06_c04_u031')
+[s01_e06_c04_u031] Joey Tribbiani: Uh huh.. uh huh... oh my God! Okay! Okay, I'll be there! That was my agent. My agent has just gotten me a job...in the new Al Pacino movie!
+
+('be', 'what/(unknown)', 'the part', 's01_e06_c04_u033')
+[s01_e06_c04_u033] Monica Geller: Well, what's the part?
+
+('believe', 'you/(ALL)', 'this', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('be', 'This guy', 'the reason I became an actor', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('become', 'I/(Joey Tribbiani)', 'an actor', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('be', 'I/(Joey Tribbiani)', 'out of order', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('be', 'you/(unknown)', 'out of order', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('be', 'This whole courtroom', 'out of order', 's01_e06_c04_u034')
+[s01_e06_c04_u034] Joey Tribbiani: Can you believe this? Al Pacino! This guy's the reason I became an actor! "I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!"
+
+('think', 'I/(Joey Tribbiani)', 'I was out', 's01_e06_c04_u036')
+[s01_e06_c04_u036] Joey Tribbiani: "Just when I thought I was out, they pull me back in!"
+
+('be', 'I/(Joey Tribbiani)', 'out', 's01_e06_c04_u036')
+[s01_e06_c04_u036] Joey Tribbiani: "Just when I thought I was out, they pull me back in!"
+
+('pull', 'they/(unknown)', 'me', 's01_e06_c04_u036')
+[s01_e06_c04_u036] Joey Tribbiani: "Just when I thought I was out, they pull me back in!"
+
+('pull', 'they/(unknown)', 'back in me', 's01_e06_c04_u036')
+[s01_e06_c04_u036] Joey Tribbiani: "Just when I thought I was out, they pull me back in!"
+
+('be', 'I/(Joey Tribbiani)', 'his', 's01_e06_c04_u038')
+[s01_e06_c04_u038] Joey Tribbiani: ...I'm his
+
+('be', 'you/(Joey Tribbiani)', 'what', 's01_e06_c04_u039')
+[s01_e06_c04_u039] Rachel Green: ..You're, you're 'mah mah mah' what?
+
+('be', 'I/(Joey Tribbiani)', 'his butt double', 's01_e06_c04_u040')
+[s01_e06_c04_u040] Joey Tribbiani: ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+
+('play', 'I/(Joey Tribbiani)', "Al Pacino's butt", 's01_e06_c04_u040')
+[s01_e06_c04_u040] Joey Tribbiani: ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+
+('go', 'he/(Al Pacino)', None, 's01_e06_c04_u040')
+[s01_e06_c04_u040] Joey Tribbiani: ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+
+('go', 'he/(Al Pacino)', 'into the shower', 's01_e06_c04_u040')
+[s01_e06_c04_u040] Joey Tribbiani: ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+
+('be', 'I/(Joey Tribbiani)', 'his butt', 's01_e06_c04_u040')
+[s01_e06_c04_u040] Joey Tribbiani: ...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.
+
+('be', 'this/(job)', 'a real movie', 's01_e06_c04_u042')
+[s01_e06_c04_u042] Joey Tribbiani: C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!
+
+('be', 'Al Pacino', 'in it', 's01_e06_c04_u042')
+[s01_e06_c04_u042] Joey Tribbiani: C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!
+
+('be', 'that/(fact)', 'big', 's01_e06_c04_u042')
+[s01_e06_c04_u042] Joey Tribbiani: C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!
+
+('be', 'it/(job)', 'terrific', 's01_e06_c04_u043')
+[s01_e06_c04_u043] Chandler Bing: Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.
+
+('deserve', 'you/(Joey Tribbiani)', 'this', 's01_e06_c04_u043')
+[s01_e06_c04_u043] Chandler Bing: Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.
+
+('crack', 'you/(Joey Tribbiani)', 'your way', 's01_e06_c04_u043')
+[s01_e06_c04_u043] Chandler Bing: Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.
+
+('crack', 'you/(Joey Tribbiani)', 'into showbusiness', 's01_e06_c04_u043')
+[s01_e06_c04_u043] Chandler Bing: Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.
+
+('make', 'you/(ALL)', 'jokes', 's01_e06_c04_u044')
+[s01_e06_c04_u044] Joey Tribbiani: Okay, okay, fine! Make jokes, I don't care! This is a big break for me!
+
+('care', 'I/(Joey Tribbiani)', None, 's01_e06_c04_u044')
+[s01_e06_c04_u044] Joey Tribbiani: Okay, okay, fine! Make jokes, I don't care! This is a big break for me!
+
+('be', 'this/(job)', 'a big break', 's01_e06_c04_u044')
+[s01_e06_c04_u044] Joey Tribbiani: Okay, okay, fine! Make jokes, I don't care! This is a big break for me!
+
+('be', 'this/(job)', 'for me', 's01_e06_c04_u044')
+[s01_e06_c04_u044] Joey Tribbiani: Okay, okay, fine! Make jokes, I don't care! This is a big break for me!
+
+('be', 'you/(Joey Tribbiani)', 'right', 's01_e06_c04_u045')
+[s01_e06_c04_u045] Ross Geller: You're right, you're right, it is...So you gonna invite us all to the big opening?
+
+('be', 'it/(opportunity)', None, 's01_e06_c04_u045')
+[s01_e06_c04_u045] Ross Geller: You're right, you're right, it is...So you gonna invite us all to the big opening?
+
+('invite', 'you/(Joey Tribbiani)', 'us all', 's01_e06_c04_u045')
+[s01_e06_c04_u045] Ross Geller: You're right, you're right, it is...So you gonna invite us all to the big opening?
+
+('invite', 'you/(Joey Tribbiani)', 'to the big opening', 's01_e06_c04_u045')
+[s01_e06_c04_u045] Ross Geller: You're right, you're right, it is...So you gonna invite us all to the big opening?
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker tries to escape out the window to avoid the date and has to be told to calm down, showing avoidance of social interaction."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they dumped Speaker_03 twice in five months and is yelling at Speaker_01, indicating inconsiderate/unreliable behavior despite later apologizing."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Impulsively attempting to flee out a window and yelling reflect poor self-control and disorganized, careless behavior in the moment."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker is agitated and yelling, is told to calm down, and tries to make a break for it—clear signs of nervousness and emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or openness to new ideas; actions reflect panic rather than exploratory or creative thinking."
+  }
+}

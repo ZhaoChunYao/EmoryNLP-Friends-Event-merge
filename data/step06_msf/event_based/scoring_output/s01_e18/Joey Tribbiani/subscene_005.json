@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, practical statements about ordering pizza and then taking a Tic-Tac; no clear outgoing or energetic social behavior is shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After being told TargetSpeaker can eat at nine, they respond cooperatively with \"I’ll have a Tic-Tac to hold me over,\" showing compliance and non-confrontational flexibility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They postpone the pizza and choose a small snack to wait until nine, indicating self-control and short-term planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When informed they must wait until nine to eat, TargetSpeaker stays calm and unbothered, simply saying a Tic-Tac will hold them over."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, imagination, or unconventional ideas are expressed in the brief exchange."
+  }
+}

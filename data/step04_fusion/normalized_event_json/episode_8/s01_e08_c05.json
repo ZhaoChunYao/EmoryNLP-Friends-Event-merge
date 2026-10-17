@@ -1,0 +1,62 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e08_c05_u001_e1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'it was gonna be a closed casket', 's01_e08_c05_u001')",
+            "('be', 'it', 'a closed casket', 's01_e08_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e08_c05_u002_e1",
+          "tuples": [
+            "('mean', 'that', \"she can't look nice\", 's01_e08_c05_u002')",
+            "('look', 'she', 'nice', 's01_e08_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e08_c05_u004_e1",
+          "tuples": [
+            "('think', 'you/Ross Geller', 'you can get in there', 's01_e08_c05_u004')",
+            "('get', 'you/Ross Geller', 'in there', 's01_e08_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c05_u005",
+      "events": [
+        {
+          "event_id": "s01_e08_c05_u005_e1",
+          "tuples": [
+            "('see', 'I/Ross Geller', 'why not', 's01_e08_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e08_c05_u007_e1",
+          "tuples": [
+            "('be', 'my retainer', 'here', 's01_e08_c05_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

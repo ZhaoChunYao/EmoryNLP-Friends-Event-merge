@@ -1,0 +1,23 @@
+Episode: s01_e24
+Scene: s01_e24_c04
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e24_c04_u015 → s01_e24_c04_u021
+Peak window: 13 → 13
+
+Dialogue:
+  [s01_e24_c04_u015]
+  1. Speaker_01 says Speaker_01 is currently asking Speaker_02 what the message is.
+  [s01_e24_c04_u016]
+  1. Speaker_02 says Speaker_02 does not know what message to send to Ross Geller.
+  [s01_e24_c04_u017] Unknown Speaker: 
+  [s01_e24_c04_u018]
+  1. Speaker_01 says Speaker_01 currently has a message for TargetSpeaker.
+  [s01_e24_c04_u019] TargetSpeaker: What?
+  [s01_e24_c04_u020]
+  1. Speaker_01 says the message is from Speaker_02.
+  2. Speaker_01 says Speaker_02 said that Speaker_02 loved the present and will see TargetSpeaker when TargetSpeaker gets back.
+  [s01_e24_c04_u021]
+  1. TargetSpeaker says TargetSpeaker does not know what Speaker_02 is talking about.
+  2. TargetSpeaker says there is no Speaker_02 connected to TargetSpeaker.
+  3. TargetSpeaker says Speaker_01 is currently giving TargetSpeaker a cold, disapproving look.

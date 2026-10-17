@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and directs a social ritual (tells Speaker_02 and Speaker_03 to make a wish on the wishbone) and follows up by asking what the wish was."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Facilitates a playful, shared activity (wishbone) and engages others in a friendly way without conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or diligence is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of stress, worry, or emotional instability are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Apart from a light question about the wish, there is no clear sign of creativity or unconventional thinking."
+  }
+}

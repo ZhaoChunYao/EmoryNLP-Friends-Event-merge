@@ -1,0 +1,318 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u001_e1",
+          "tuples": [
+            "('be', 'they/(their friends)', None, 's01_e05_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u002_e1",
+          "tuples": [
+            "('be', 'This/(their time together)', 'nice', 's01_e05_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u002_e2",
+          "tuples": [
+            "('do', 'we/Chandler Bing+Phoebe Buffay', 'anything', 's01_e05_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u003_e1",
+          "tuples": [
+            "('be', 'It/(their time together)', 'great', 's01_e05_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u003_e2",
+          "tuples": [
+            "('rent', 'we/Chandler Bing+Phoebe Buffay', 'a car', 's01_e05_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u003_e3",
+          "tuples": [
+            "('run', 'we/Chandler Bing+Phoebe Buffay', 'over some puppies', 's01_e05_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u004_e1",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'to do that', 's01_e05_c06_u004')",
+            "('do', 'I/Phoebe Buffay', 'that', 's01_e05_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u006_e1",
+          "tuples": [
+            "('go', 'we/Chandler Bing+Phoebe Buffay', None, 's01_e05_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u007_e1",
+          "tuples": [
+            "('have', 'you/Chandler Bing', 'a good break-up', 's01_e05_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u009_e1",
+          "tuples": [
+            "('call', 'you/Chandler Bing', 'me', 's01_e05_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u009_e2",
+          "tuples": [
+            "('be', 'I/Janice Litman Goralnik', 'so glad you called me', 's01_e05_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u009_e3",
+          "tuples": [
+            "('have', 'I/Janice Litman Goralnik', 'the most supremely awful day', 's01_e05_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u010_e1",
+          "tuples": [
+            "('be', 'that/(her bad day)', 'not good', 's01_e05_c06_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u010_e2",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'an espresso and a latte', 's01_e05_c06_u010')",
+            "('get', 'I/Chandler Bing', 'over here', 's01_e05_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u011_e1",
+          "tuples": [
+            "('get', \"we/(Janice's team)\", 'the proofs', 's01_e05_c06_u011')",
+            "('get', \"we/(Janice's team)\", 'from that photo shoot', 's01_e05_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u011_e2",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e05_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u011_e3",
+          "tuples": [
+            "('suck', 'they/(the proofs)', None, 's01_e05_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u011_e4",
+          "tuples": [
+            "('blow', 'I/Janice Litman Goralnik', 'off the rest of the day', 's01_e05_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u011_e5",
+          "tuples": [
+            "('go', 'I/Janice Litman Goralnik', 'shopping', 's01_e05_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u011_e6",
+          "tuples": [
+            "('look', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u015",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u015_e1",
+          "tuples": [
+            "('get', 'you/Janice Litman Goralnik', 'me', 's01_e05_c06_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u016",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u016_e1",
+          "tuples": [
+            "('get', 'I/Janice Litman Goralnik', 'you', 's01_e05_c06_u016')",
+            "('get', 'I/Janice Litman Goralnik', 'these', 's01_e05_c06_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u017",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u017_e1",
+          "tuples": [
+            "('be', 'That/(the gift)', 'so sweet', 's01_e05_c06_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u018",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u018_e1",
+          "tuples": [
+            "('know', 'I/Janice Litman Goralnik', 'you had the Rockys', 's01_e05_c06_u018')",
+            "('have', 'you/Chandler Bing', 'the Rockys', 's01_e05_c06_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u018_e2",
+          "tuples": [
+            "('figure', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u018')",
+            "('wear', 'you/Chandler Bing', 'Bullwinkle and Bullwinkle', 's01_e05_c06_u018')",
+            "('wear', 'you/Chandler Bing', 'Rocky and Rocky', 's01_e05_c06_u018')",
+            "('mix', 'you/Chandler Bing', 'moose and squirrel', 's01_e05_c06_u018')",
+            "('match', 'you/Chandler Bing', 'moose and squirrel', 's01_e05_c06_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u018_e3",
+          "tuples": [
+            "('want', 'you/Chandler Bing', 'whatever', 's01_e05_c06_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u019",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u019_e1",
+          "tuples": [
+            "('be', 'That/(the gift options)', 'great', 's01_e05_c06_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u021",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u021_e1",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'another espresso', 's01_e05_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c06_u021_e2",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'another latte', 's01_e05_c06_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u022",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u022_e1",
+          "tuples": [
+            "('work', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u022')",
+            "('work', 'I/Janice Litman Goralnik', 'on mine', 's01_e05_c06_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u024",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u024_e1",
+          "tuples": [
+            "('be', 'That/(the breakup attempt)', 'it', 's01_e05_c06_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u025",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u025_e1",
+          "tuples": [
+            "('be', 'it/(the breakup)', 'really hard', 's01_e05_c06_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u026",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u026_e1",
+          "tuples": [
+            "('look', 'that hug', 'pretty brutal', 's01_e05_c06_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c06_u027",
+      "events": [
+        {
+          "event_id": "s01_e05_c06_u027_e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'there', 's01_e05_c06_u027')"
+          ]
+        }
+      ]
+    }
+  ]
+}

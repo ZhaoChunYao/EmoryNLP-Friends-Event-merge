@@ -1,0 +1,480 @@
+{
+  "events": [
+    {
+      "event_id": "s01_e01_c02_u001_e1",
+      "description": "Monica Geller says Man 1 bought Rachel Green the big pipe organ."
+    },
+    {
+      "event_id": "s01_e01_c02_u001_e2",
+      "description": "Monica Geller says Man 1 bought the big pipe organ for Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u001_e3",
+      "description": "Monica Geller says Rachel Green is really not happy about Man 1 buying Rachel Green the big pipe organ."
+    },
+    {
+      "event_id": "s01_e01_c02_u002_e1",
+      "description": "Chandler Bing says Monica Geller should decide between tuna salad and egg salad."
+    },
+    {
+      "event_id": "s01_e01_c02_u003_e1",
+      "description": "Ross Geller says Ross Geller will have whatever Christine is having."
+    },
+    {
+      "event_id": "s01_e01_c02_u003_e2",
+      "description": "Ross Geller says Christine is having something."
+    },
+    {
+      "event_id": "s01_e01_c02_u004_e1",
+      "description": "Rachel Green says Rachel Green cannot marry Barry Farber."
+    },
+    {
+      "event_id": "s01_e01_c02_u004_e2",
+      "description": "Rachel Green says Rachel Green is sorry."
+    },
+    {
+      "event_id": "s01_e01_c02_u004_e3",
+      "description": "Rachel Green says Rachel Green does not love Barry Farber."
+    },
+    {
+      "event_id": "s01_e01_c02_u004_e4",
+      "description": "Rachel Green says the decision about marrying Barry Farber matters to Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u006_e1",
+      "description": "Phoebe Buffay says if Phoebe Buffay lets go of Phoebe Buffay's hair, Phoebe Buffay's head will fall off."
+    },
+    {
+      "event_id": "s01_e01_c02_u006_e2",
+      "description": "Phoebe Buffay says Phoebe Buffay's head will fall off if Phoebe Buffay lets go of Phoebe Buffay's hair."
+    },
+    {
+      "event_id": "s01_e01_c02_u007_e1",
+      "description": "Chandler Bing says Woman 1 should not be wearing those pants."
+    },
+    {
+      "event_id": "s01_e01_c02_u008_e1",
+      "description": "Joey Tribbiani says Joey Tribbiani should push Woman 1 down the stairs."
+    },
+    {
+      "event_id": "s01_e01_c02_u008_e2",
+      "description": "Joey Tribbiani says Joey Tribbiani will push Woman 1 down the stairs."
+    },
+    {
+      "event_id": "s01_e01_c02_u009_e1",
+      "description": "Chandler Bing, Joey Tribbiani, Phoebe Buffay, and Ross Geller say Chandler Bing, Joey Tribbiani, Phoebe Buffay, and Ross Geller should push Woman 1 down the stairs."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e1",
+      "description": "Rachel Green says Dr. Leonard Green should listen to Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e2",
+      "description": "Rachel Green says the situation Rachel Green is describing is like what Rachel Green is about to explain."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e3",
+      "description": "Rachel Green says everyone has always told Rachel Green that Rachel Green is a shoe."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e4",
+      "description": "Rachel Green says Rachel Green is a shoe."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e5",
+      "description": "Rachel Green says Rachel Green stopped today to think."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e6",
+      "description": "Rachel Green says Rachel Green said, 'What if Rachel Green doesn't want to be a shoe? What if Rachel Green wants to be a purse or a hat?'"
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e7",
+      "description": "Rachel Green says Rachel Green does not want to be a shoe."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e8",
+      "description": "Rachel Green says Rachel Green is a shoe."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e9",
+      "description": "Rachel Green says Rachel Green wants to be a purse."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e10",
+      "description": "Rachel Green says Rachel Green is a purse."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e11",
+      "description": "Rachel Green says Rachel Green is not saying, 'Rachel Green wants Dr. Leonard Green to buy Rachel Green a hat'."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e12",
+      "description": "Rachel Green says Rachel Green does not want Dr. Leonard Green to buy Rachel Green a hat."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e13",
+      "description": "Rachel Green says Dr. Leonard Green should not buy Rachel Green a hat."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e14",
+      "description": "Rachel Green says Rachel Green is starting to say, 'I am a ha- (hat)'."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e15",
+      "description": "Rachel Green says Rachel Green is a hat."
+    },
+    {
+      "event_id": "s01_e01_c02_u011_e16",
+      "description": "Rachel Green says what Rachel Green is saying is a metaphor."
+    },
+    {
+      "event_id": "s01_e01_c02_u012_e1",
+      "description": "Ross Geller says Rachel Green can see where Dr. Leonard Green would have trouble understanding Rachel Green's metaphor."
+    },
+    {
+      "event_id": "s01_e01_c02_u012_e2",
+      "description": "Ross Geller says Dr. Leonard Green would have trouble understanding Rachel Green's metaphor."
+    },
+    {
+      "event_id": "s01_e01_c02_u013_e1",
+      "description": "Rachel Green says Dr. Leonard Green should look."
+    },
+    {
+      "event_id": "s01_e01_c02_u013_e2",
+      "description": "Rachel Green says this is Rachel Green's life."
+    },
+    {
+      "event_id": "s01_e01_c02_u013_e3",
+      "description": "Rachel Green says Rachel Green may stay with Monica Geller."
+    },
+    {
+      "event_id": "s01_e01_c02_u014_e1",
+      "description": "Monica Geller says Monica Geller guesses that everyone has established who is staying with Monica Geller."
+    },
+    {
+      "event_id": "s01_e01_c02_u014_e2",
+      "description": "Monica Geller says Monica Geller, Rachel Green, Ross Geller, Joey Tribbiani, Phoebe Buffay, and Chandler Bing have established who is staying with Monica Geller."
+    },
+    {
+      "event_id": "s01_e01_c02_u014_e3",
+      "description": "Monica Geller says Rachel Green is staying with Monica Geller."
+    },
+    {
+      "event_id": "s01_e01_c02_u015_e1",
+      "description": "Rachel Green says that is Rachel Green's decision."
+    },
+    {
+      "event_id": "s01_e01_c02_u015_e2",
+      "description": "Rachel Green says Rachel Green might not need Dr. Leonard Green's money."
+    },
+    {
+      "event_id": "s01_e01_c02_u015_e3",
+      "description": "Rachel Green says Dr. Leonard Green should wait."
+    },
+    {
+      "event_id": "s01_e01_c02_u015_e4",
+      "description": "Rachel Green says Rachel Green said 'maybe'."
+    },
+    {
+      "event_id": "s01_e01_c02_u017_e1",
+      "description": "Monica Geller says Rachel Green should breathe."
+    },
+    {
+      "event_id": "s01_e01_c02_u017_e2",
+      "description": "Monica Geller says Rachel Green's breathing is the right thing to do."
+    },
+    {
+      "event_id": "s01_e01_c02_u017_e3",
+      "description": "Monica Geller says Rachel Green should try to think of nice calm things."
+    },
+    {
+      "event_id": "s01_e01_c02_u017_e4",
+      "description": "Monica Geller says Rachel Green should think of nice calm things."
+    },
+    {
+      "event_id": "s01_e01_c02_u018_e1",
+      "description": "Phoebe Buffay says the things Phoebe Buffay is listing are a few of the things Phoebe Buffay is listing."
+    },
+    {
+      "event_id": "s01_e01_c02_u019_e1",
+      "description": "Rachel Green says Rachel Green is all better now."
+    },
+    {
+      "event_id": "s01_e01_c02_u020_e1",
+      "description": "Phoebe Buffay says Phoebe Buffay helped Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u021_e1",
+      "description": "Monica Geller says Rachel Green should look."
+    },
+    {
+      "event_id": "s01_e01_c02_u021_e2",
+      "description": "Monica Geller says Rachel Green's taking control of her life is probably for the best."
+    },
+    {
+      "event_id": "s01_e01_c02_u022_e1",
+      "description": "Joey Tribbiani says Rachel Green might need something."
+    },
+    {
+      "event_id": "s01_e01_c02_u022_e2",
+      "description": "Joey Tribbiani says Rachel Green can always come to Joey Tribbiani if Rachel Green needs anything."
+    },
+    {
+      "event_id": "s01_e01_c02_u022_e3",
+      "description": "Joey Tribbiani says Joey Tribbiani and Chandler Bing live across the hall."
+    },
+    {
+      "event_id": "s01_e01_c02_u022_e4",
+      "description": "Joey Tribbiani says Chandler Bing is away a lot."
+    },
+    {
+      "event_id": "s01_e01_c02_u023_e1",
+      "description": "Monica Geller says Joey Tribbiani should stop hitting on Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u023_e2",
+      "description": "Monica Geller says Joey Tribbiani is hitting on Rachel Green."
+    },
+    {
+      "event_id": "s01_e01_c02_u023_e3",
+      "description": "Monica Geller says today is Rachel Green's wedding day."
+    },
+    {
+      "event_id": "s01_e01_c02_u024_e1",
+      "description": "Joey Tribbiani says there is a rule or something about not hitting on Rachel Green on her wedding day."
+    },
+    {
+      "event_id": "s01_e01_c02_u026_e1",
+      "description": "Chandler Bing says someone should not do that again."
+    },
+    {
+      "event_id": "s01_e01_c02_u026_e2",
+      "description": "Chandler Bing says the sound that was just made is a horrible sound."
+    },
+    {
+      "event_id": "s01_e01_c02_u027_e1",
+      "description": "Paul the Wine Guy says his name is Paul."
+    },
+    {
+      "event_id": "s01_e01_c02_u028_e1",
+      "description": "Monica Geller says the time is 6:30."
+    },
+    {
+      "event_id": "s01_e01_c02_u028_e2",
+      "description": "Monica Geller says someone should buzz Paul the Wine Guy in."
+    },
+    {
+      "event_id": "s01_e01_c02_u029_e1",
+      "description": "Joey Tribbiani says, 'Who is Paul the Wine Guy?'"
+    },
+    {
+      "event_id": "s01_e01_c02_u031_e1",
+      "description": "Joey Tribbiani says Monica Geller's 'not a real date' tonight is with Paul the Wine Guy."
+    },
+    {
+      "event_id": "s01_e01_c02_u032_e1",
+      "description": "Ross Geller says Paul the Wine Guy finally asked Monica Geller out."
+    },
+    {
+      "event_id": "s01_e01_c02_u034_e1",
+      "description": "Chandler Bing says this moment is a 'Dear Diary' moment."
+    },
+    {
+      "event_id": "s01_e01_c02_u035_e1",
+      "description": "Monica Geller says Rachel Green should wait."
+    },
+    {
+      "event_id": "s01_e01_c02_u035_e2",
+      "description": "Monica Geller says Monica Geller can cancel the date with Paul the Wine Guy."
+    },
+    {
+      "event_id": "s01_e01_c02_u036_e1",
+      "description": "Rachel Green says Monica Geller should go on the date with Paul the Wine Guy."
+    },
+    {
+      "event_id": "s01_e01_c02_u036_e2",
+      "description": "Rachel Green says Monica Geller going on the date would be fine."
+    },
+    {
+      "event_id": "s01_e01_c02_u037_e1",
+      "description": "Monica Geller asks whether Rachel Green is okay."
+    },
+    {
+      "event_id": "s01_e01_c02_u037_e2",
+      "description": "Monica Geller asks whether Rachel Green wants Monica Geller to stay."
+    },
+    {
+      "event_id": "s01_e01_c02_u037_e3",
+      "description": "Monica Geller says Monica Geller can stay."
+    },
+    {
+      "event_id": "s01_e01_c02_u038_e1",
+      "description": "Ross Geller says Monica Geller staying would be good."
+    },
+    {
+      "event_id": "s01_e01_c02_u040_e1",
+      "description": "Ross Geller says Monica Geller should go on the date with Paul the Wine Guy."
+    },
+    {
+      "event_id": "s01_e01_c02_u040_e2",
+      "description": "Ross Geller says the person is Paul the Wine Guy."
+    },
+    {
+      "event_id": "s01_e01_c02_u041_e1",
+      "description": "Phoebe Buffay says she does not understand what the phrase 'Paul the Wine Guy' means."
+    },
+    {
+      "event_id": "s01_e01_c02_u041_e2",
+      "description": "Phoebe Buffay says Paul the Wine Guy might sell wine."
+    },
+    {
+      "event_id": "s01_e01_c02_u041_e3",
+      "description": "Phoebe Buffay says Paul the Wine Guy might drink wine."
+    },
+    {
+      "event_id": "s01_e01_c02_u041_e4",
+      "description": "Phoebe Buffay says Paul the Wine Guy might just complain a lot."
+    },
+    {
+      "event_id": "s01_e01_c02_u043_e1",
+      "description": "Monica Geller tells Paul the Wine Guy to come in."
+    },
+    {
+      "event_id": "s01_e01_c02_u043_e2",
+      "description": "Monica Geller says to Paul the Wine Guy, 'This is everybody.'"
+    },
+    {
+      "event_id": "s01_e01_c02_u043_e3",
+      "description": "Monica Geller says to everybody, 'This is Paul the Wine Guy.'"
+    },
+    {
+      "event_id": "s01_e01_c02_u045_e1",
+      "description": "Chandler Bing says Chandler Bing is sorry."
+    },
+    {
+      "event_id": "s01_e01_c02_u045_e2",
+      "description": "Chandler Bing says Chandler Bing did not catch Paul the Wine Guy's name."
+    },
+    {
+      "event_id": "s01_e01_c02_u045_e3",
+      "description": "Chandler Bing says Paul the Wine Guy's name is Paul."
+    },
+    {
+      "event_id": "s01_e01_c02_u046_e1",
+      "description": "Monica Geller says Monica Geller will be right back."
+    },
+    {
+      "event_id": "s01_e01_c02_u046_e2",
+      "description": "Monica Geller says Monica Geller has to go."
+    },
+    {
+      "event_id": "s01_e01_c02_u048_e1",
+      "description": "Monica Geller says Monica Geller will change."
+    },
+    {
+      "event_id": "s01_e01_c02_u048_e2",
+      "description": "Monica Geller tells Paul the Wine Guy to sit down."
+    },
+    {
+      "event_id": "s01_e01_c02_u049_e1",
+      "description": "Phoebe Buffay says Phoebe Buffay just pulled out four eyelashes."
+    },
+    {
+      "event_id": "s01_e01_c02_u049_e2",
+      "description": "Phoebe Buffay says pulling out four eyelashes cannot be good."
+    },
+    {
+      "event_id": "s01_e01_c02_u053_e1",
+      "description": "Joey Tribbiani says Monica Geller really likes it when Paul the Wine Guy rubs Monica Geller's neck repeatedly in the same spot."
+    },
+    {
+      "event_id": "s01_e01_c02_u053_e2",
+      "description": "Joey Tribbiani tells Paul the Wine Guy to rub Monica Geller's neck in the same spot over and over."
+    },
+    {
+      "event_id": "s01_e01_c02_u053_e3",
+      "description": "Joey Tribbiani says Monica Geller's neck will start to get a little red."
+    },
+    {
+      "event_id": "s01_e01_c02_u054_e1",
+      "description": "Monica Geller tells Joey Tribbiani to shut up."
+    },
+    {
+      "event_id": "s01_e01_c02_u055_e1",
+      "description": "Ross Geller asks what Rachel Green is planning to do tonight."
+    },
+    {
+      "event_id": "s01_e01_c02_u056_e1",
+      "description": "Rachel Green says Rachel Green was supposed to be headed for Aruba on Rachel Green's honeymoon."
+    },
+    {
+      "event_id": "s01_e01_c02_u056_e2",
+      "description": "Rachel Green says Rachel Green was supposed to head for Aruba on Rachel Green's honeymoon."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e1",
+      "description": "Ross Geller says Rachel Green is not even getting Rachel Green's honeymoon."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e2",
+      "description": "Ross Geller says that in Aruba, people talk about big lizards."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e3",
+      "description": "Ross Geller says Rachel Green might not feel like being alone tonight."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e4",
+      "description": "Ross Geller says Rachel Green might be alone tonight."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e5",
+      "description": "Ross Geller says Joey Tribbiani and Chandler Bing are coming over."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e6",
+      "description": "Ross Geller says Joey Tribbiani and Chandler Bing are coming over to help Ross Geller."
+    },
+    {
+      "event_id": "s01_e01_c02_u057_e7",
+      "description": "Ross Geller says Ross Geller will put together Ross Geller's new furniture."
+    },
+    {
+      "event_id": "s01_e01_c02_u058_e1",
+      "description": "Chandler Bing says Chandler Bing and Joey Tribbiani are very excited about helping Ross Geller put together Ross Geller's new furniture."
+    },
+    {
+      "event_id": "s01_e01_c02_u059_e1",
+      "description": "Rachel Green says Rachel Green is going to hang out here tonight."
+    },
+    {
+      "event_id": "s01_e01_c02_u059_e2",
+      "description": "Rachel Green says Rachel Green will hang out here tonight."
+    },
+    {
+      "event_id": "s01_e01_c02_u059_e3",
+      "description": "Rachel Green says it has been a long day."
+    },
+    {
+      "event_id": "s01_e01_c02_u061_e1",
+      "description": "Joey Tribbiani asks whether Phoebe Buffay wants to help."
+    },
+    {
+      "event_id": "s01_e01_c02_u061_e2",
+      "description": "Joey Tribbiani asks Phoebe Buffay to help put together Ross Geller's new furniture."
+    },
+    {
+      "event_id": "s01_e01_c02_u062_e1",
+      "description": "Phoebe Buffay says Phoebe Buffay wishes she could help."
+    },
+    {
+      "event_id": "s01_e01_c02_u062_e2",
+      "description": "Phoebe Buffay says Phoebe Buffay could help."
+    },
+    {
+      "event_id": "s01_e01_c02_u062_e3",
+      "description": "Phoebe Buffay says Phoebe Buffay does not want to help."
+    }
+  ]
+}

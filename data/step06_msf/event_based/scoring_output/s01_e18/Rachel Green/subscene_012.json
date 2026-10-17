@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "In u008 TargetSpeaker openly confronts Speaker_03 with blunt claims about his motives, and in u010 assertively tells Speaker_04 they stepped on her point—outspoken and assertive in a group."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "u008 uses provocative, accusatory language toward Speaker_03 (“has a penis,” “has to win money to exert his power over women”), showing a confrontational, unsympathetic tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization or diligence; TargetSpeaker only makes brief confrontational remarks (u008, u010)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker appears confident and unfazed while challenging others (u008) and asserting a point (u010), with no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "u008 offers an abstract social interpretation about male power dynamics driving gambling, indicating conceptual, interpretive thinking rather than cautiousness."
+  }
+}

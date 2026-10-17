@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks only two brief, defensive lines; another speaker describes them as happy alone, reading and doing puzzles and having “no friends,” suggesting a solitary tendency."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker challenges others (“What’s that supposed to mean?”) and directly contradicts (“No, it’s not.”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker reacts sensitively to a remark, taking offense and demanding clarification (“What’s that supposed to mean?”)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear actions show curiosity/inventiveness or dogmatism/caution in this exchange."
+  }
+}

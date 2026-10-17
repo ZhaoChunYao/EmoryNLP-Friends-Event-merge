@@ -1,0 +1,234 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c11_u002",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u002_e1",
+          "tuples": [
+            "('be', 'you/Monica Geller', None, 's01_e21_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u003",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u003_e1",
+          "tuples": [
+            "('crash', 'Monica and I', 'an embassy party', 's01_e21_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u004_e1",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'drunk', 's01_e21_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u005",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u005_e1",
+          "tuples": [
+            "('lie', 'I/Monica Geller', None, 's01_e21_c11_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u005_e2",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'so drunk', 's01_e21_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u006",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u006_e1",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'what', 's01_e21_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u006_e2",
+          "tuples": [
+            "('call', 'you/Monica Geller', None, 's01_e21_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u006_e3",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'up here', 's01_e21_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u006_e4",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'worried', 's01_e21_c11_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u009",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u009_e1",
+          "tuples": [
+            "('rule', 'Water', None, 's01_e21_c11_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u010",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u010_e1",
+          "tuples": [
+            "('do', 'it/Water', None, 's01_e21_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u010_e2",
+          "tuples": [
+            "('look', 'you/Monica Geller', None, 's01_e21_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u010_e3",
+          "tuples": [
+            "('call', 'the restaurant', None, 's01_e21_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u010_e4",
+          "tuples": [
+            "('want', 'they/the restaurant', 'to know if you are gonna be showing up for work', 's01_e21_c11_u010')",
+            "('know', 'they/the restaurant', 'if you are gonna be showing up for work', 's01_e21_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u010_e5",
+          "tuples": [
+            "('show', 'you/Monica Geller', 'up for work', 's01_e21_c11_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u011_e1",
+          "tuples": [
+            "('go', 'I/Monica Geller', 'to the Big Apple Circus', 's01_e21_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u012",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u012_e1",
+          "tuples": [
+            "('do', 'you/Monica Geller', 'what', 's01_e21_c11_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u012_e2",
+          "tuples": [
+            "('lose', 'you/Monica Geller', 'your job', 's01_e21_c11_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u012_e3",
+          "tuples": [
+            "('be', 'This', 'not you', 's01_e21_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u013",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u013_e1",
+          "tuples": [
+            "('be', 'it/this', 'me', 's01_e21_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u013_e2",
+          "tuples": [
+            "('know', 'you/Monica Geller', None, 's01_e21_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u013_e3",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'not just the person who needs to fluff the pillows and pay the bills as soon as they come in', 's01_e21_c11_u013')",
+            "('need', 'who/Monica Geller', 'to fluff the pillows and pay the bills as soon as they come in', 's01_e21_c11_u013')",
+            "('fluff', 'who/Monica Geller', 'the pillows', 's01_e21_c11_u013')",
+            "('pay', 'who/Monica Geller', 'the bills', 's01_e21_c11_u013')",
+            "('come', 'they/the bills', 'in', 's01_e21_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u013_e4",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'with her', 's01_e21_c11_u013')",
+            "('be', 'I/Monica Geller', 'so much more than that', 's01_e21_c11_u013')",
+            "('be', 'I/Monica Geller', 'Monana', 's01_e21_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u015",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u015_e1",
+          "tuples": [
+            "('be', 'she/Monica Geller', None, 's01_e21_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u015_e2",
+          "tuples": [
+            "('hold', 'you/the credit card people', 'on a second', 's01_e21_c11_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c11_u015_e3",
+          "tuples": [
+            "('be', 'it/the call', 'for you', 's01_e21_c11_u015')",
+            "('be', 'it/the call', 'the credit card people', 's01_e21_c11_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c11_u018",
+      "events": [
+        {
+          "event_id": "s01_e21_c11_u018_e1",
+          "tuples": [
+            "('arrest', 'They/the credit card people', 'Monica', 's01_e21_c11_u018')"
+          ]
+        }
+      ]
+    }
+  ]
+}

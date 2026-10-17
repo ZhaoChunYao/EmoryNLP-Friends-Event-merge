@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief, task-focused comments in class without showing outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are straightforward about not understanding (u017) and try to normalize it by noting others have felt uncoordinated (u019), indicating a cooperative, non-boastful stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness is shown; they simply report difficulty with the routine."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admits confusion with the routine (u017) and brings up feeling uncoordinated (u019), suggesting sensitivity/insecurity in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "There is no indication of curiosity or inventive thinking; the remarks are limited to immediate task difficulty."
+  }
+}

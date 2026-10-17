@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes a bold, provocative remark about Speaker_01 and then urges Speaker_03 to “boogie,” taking an assertive, energetic tone."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker harshly says that Hell is filled with people like Speaker_01 and gives a curt directive to Speaker_03, showing low warmth/consideration."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior from TargetSpeaker indicates organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or anxiety, nor explicit calm/secure behavior are shown."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "The moralistic judgment (“Hell is filled with people like Speaker_01”) suggests a dogmatic, closed stance rather than curiosity or openness."
+  }
+}

@@ -1,0 +1,69 @@
+('be', 'Windows', 'clean', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('be', 'candels', 'lit', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('be', 'belt', 'to tight', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('change', 'I/Monica Geller', 'the belt', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('turn', 'I/Monica Geller', 'the fish', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('make', 'I/Monica Geller', 'lasagne', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('be', 'I/Monica Geller', 'out of control', 's01_e22_c04_u001')
+[s01_e22_c04_u001] Monica Geller: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?
+
+('understand', 'I/Rachel Green', None, 's01_e22_c04_u002')
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+
+('mean', 'I/Rachel Green', None, 's01_e22_c04_u002')
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+
+('date', 'you/Monica Geller', 'this guy', 's01_e22_c04_u002')
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+
+('date', 'you/Monica Geller', 'since his midterms', 's01_e22_c04_u002')
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+
+('be', 'you/Monica Geller', None, 's01_e22_c04_u002')
+[s01_e22_c04_u002] Rachel Green: Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.
+
+('be', 'tonight', 'the Night', 's01_e22_c04_u004')
+[s01_e22_c04_u004] Rachel Green: Could tonight be the Night?
+
+('know', 'I/Monica Geller', None, 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('look', 'you/Rachel Green', None, 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('be', "he/(Monica's boyfriend)", 'a great guy', 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('love', 'I/Monica Geller', 'being with him', 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('be', 'I/Monica Geller', None, 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('be', 'I/Monica Geller', 'with him', 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('know', 'you/Rachel Green', None, 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('happen', 'Things', None, 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('plan', 'you/Rachel Green', 'these things', 's01_e22_c04_u005')
+[s01_e22_c04_u005] Monica Geller: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+
+('shave', 'you/Monica Geller', 'your legs', 's01_e22_c04_u006')
+[s01_e22_c04_u006] Rachel Green: So, did you shave your legs?
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief replies (e.g., “Uh-huh”), asks a curt question (“Do you have a point?”), and focuses on the game rather than engaging socially—showing reserved, not talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational tone (“Do you have a point?”), dismisses the simian as “just a fur ball,” and argues over Scrabble scoring and a missing tile rather than accommodating."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks Scrabble scoring precisely (“I just got 43 points for ‘KIDNEY’”) and notices a missing ‘K’ tile, showing attention to rules and details."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays calm under criticism (“Uh-huh”) and asserts his points and tile confidently without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or imaginative thinking; comments are rule-focused and dismissive of the simian but not strongly indicative of low openness."
+  }
+}

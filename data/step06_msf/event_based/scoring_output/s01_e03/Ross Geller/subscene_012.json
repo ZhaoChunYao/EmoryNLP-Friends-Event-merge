@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates the exchange by asking how the meeting went and then invites Speaker_01 to come over, engaging actively and socially."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows concern and support, noting Speaker_01 has had a rough day and inviting them to come here for comfort."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization, planning, or diligence are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No concrete signs of nervousness or emotional instability, but also no clear evidence of pronounced calm under stress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or openness to new ideas are expressed."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Aside from a brief thanks and a panic reaction about the task, there is no clear sign of outgoing or reserved social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely says, \"Thank [Speaker_01],\" showing courteous, cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Saying \"I'm not ready\" reflects anxiety rather than clear evidence of being organized or sloppy."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses strong fear and self-doubt: \"No... I'm not ready... I can't do this!\""
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Resists the new/uncertain situation, comparing it to jumping without a parachute and insisting they can’t do it, indicating caution and reluctance to engage in novel experience."
+  }
+}

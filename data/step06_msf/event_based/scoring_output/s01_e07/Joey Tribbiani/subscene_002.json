@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker asks what is happening and gives an instruction to listen, but shows no clear signs of sociability or energetic engagement beyond basic communication."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They cooperate and help by clarifying Speaker_01’s message (“You’re trapped in an ATM vestibule with [Speaker_03]”) and guiding him to listen."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They efficiently interpret the garbled statement and take charge by giving clear direction (“listen”), showing organized, goal-directed behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They stay calm and directive in an unusual situation, with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or resistance to new ideas appears in the brief exchange."
+  }
+}

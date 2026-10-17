@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives a brief greeting and minimal speech; no clear sign of being outgoing or reserved beyond the situation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds politely to introduction with a friendly 'Hi,' indicating cooperative, courteous behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, anxiety, or emotional volatility in the brief exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, new ideas, or rigidity/dogmatism are shown."
+  }
+}

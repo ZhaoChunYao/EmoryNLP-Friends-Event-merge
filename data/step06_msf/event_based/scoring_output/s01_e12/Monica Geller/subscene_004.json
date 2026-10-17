@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up in the group to ask direct, explicit questions—first challenging if Speaker_01 is sure about her account and then bluntly clarifying if the problem was an erection creating a tent."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The questions are probing but not rude or compassionate; no clear signs of cooperation or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Requesting clarification hints at care for accuracy, but there’s insufficient evidence of organization or diligence beyond brief questioning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly discusses an explicit, potentially awkward topic without hesitation, indicating comfort and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and comfort exploring explicit details (asking about the ‘tent’), indicating openness to discussing unconventional topics."
+  }
+}

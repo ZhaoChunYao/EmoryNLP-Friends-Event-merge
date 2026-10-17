@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the social activity—urges the group to come on, calls the place fun, asks for a hug, proposes tequila, asks who’s doing shots, and tells Speaker_02 to do a shot."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Tells the group to shut up and pressures Speaker_02 to do a shot, showing pushy/abrasive behavior rather than accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing efficiency/organization or sloppiness; picking a dive and proposing shots don’t indicate conscientiousness either way."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Acts confident and assertive—taking charge of plans, initiating shots, and requesting a hug—without signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete signs of curiosity, creativity, or openness to new ideas; choosing a fun dive and tequila is not sufficient evidence."
+  }
+}

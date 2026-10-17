@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages actively in group banter and task, making upbeat, humorous remarks like “It’s a beautiful thing” and “All finished!”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Dismisses a friend’s emotional moment with sarcasm: “Yes, please don’t spoil all this fun,” showing low empathy/support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Admits not knowing where the bracket goes and jokingly declares completion, but there’s no clear evidence of either careful organization or outright carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Stays calm and humorous despite confusion; confident tone (“All finished!”) with no signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or inventive thinking beyond casual banter."
+  }
+}

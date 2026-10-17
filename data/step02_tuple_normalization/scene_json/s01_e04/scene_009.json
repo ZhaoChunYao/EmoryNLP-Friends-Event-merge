@@ -1,0 +1,130 @@
+{
+  "tuples": [
+    {
+      "verb": "excuse",
+      "subject": "you/(Receptionist)",
+      "object": "me",
+      "uid": "s01_e04_c09_u001"
+    },
+    {
+      "verb": "say",
+      "subject": "it/(candy bar wrapper)",
+      "object": "to call this number if you're not completely satisfied with this candy bar",
+      "uid": "s01_e04_c09_u002"
+    },
+    {
+      "verb": "call",
+      "subject": "you/(Receptionist)",
+      "object": "this number",
+      "uid": "s01_e04_c09_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Receptionist)",
+      "object": "not completely satisfied",
+      "uid": "s01_e04_c09_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Receptionist)",
+      "object": "with this candy bar",
+      "uid": "s01_e04_c09_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Receptionist)",
+      "object": "not completely satisfied",
+      "uid": "s01_e04_c09_u002"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/(Receptionist)",
+      "object": null,
+      "uid": "s01_e04_c09_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(situation)",
+      "object": "kind of an emergency",
+      "uid": "s01_e04_c09_u003"
+    },
+    {
+      "verb": "guess",
+      "subject": "I/(Chandler Bing)",
+      "object": "you know that",
+      "uid": "s01_e04_c09_u003"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Receptionist)",
+      "object": "that",
+      "uid": "s01_e04_c09_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "we/(Chandler Bing + Receptionist)",
+      "object": "in the predicament room",
+      "uid": "s01_e04_c09_u003"
+    },
+    {
+      "verb": "hold on",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e04_c09_u004"
+    },
+    {
+      "verb": "fill out",
+      "subject": "you/(Ross Geller)",
+      "object": "these",
+      "uid": "s01_e04_c09_u004"
+    },
+    {
+      "verb": "sit",
+      "subject": "you/(Ross Geller)",
+      "object": "over there",
+      "uid": "s01_e04_c09_u004"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Receptionist)",
+      "object": null,
+      "uid": "s01_e04_c09_u005"
+    },
+    {
+      "verb": "make",
+      "subject": "I/(Ross Geller)",
+      "object": "any trouble",
+      "uid": "s01_e04_c09_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "in a lot of pain",
+      "uid": "s01_e04_c09_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "my face",
+      "object": "dented",
+      "uid": "s01_e04_c09_u005"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/(Ross Geller)",
+      "object": "your turn",
+      "uid": "s01_e04_c09_u006"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(Receptionist)",
+      "object": "how long it will be",
+      "uid": "s01_e04_c09_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(wait time)",
+      "object": "how long",
+      "uid": "s01_e04_c09_u007"
+    }
+  ]
+}

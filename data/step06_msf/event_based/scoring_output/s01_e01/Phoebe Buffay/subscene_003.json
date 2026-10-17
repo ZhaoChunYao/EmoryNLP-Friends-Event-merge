@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively joins the group exchange by listing calming things and then speaks up to say they helped Speaker_02, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker contributes to soothing Speaker_02 by listing calming things and emphasizes having helped, indicating supportive, cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization, planning, or task-focused behavior from TargetSpeaker."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or defensiveness; a confident remark is present but not strong enough to judge low neuroticism definitively."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Listing calming things provides no clear indication of curiosity, imagination, or unconventional thinking."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, low-energy responses (e.g., “Mmmm. Good.”) and contributes minimally to the conversation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a polite compliment on the food and expresses disagreement gently (“does not know whether the extra creaminess is better”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses concern about physical discomfort (“happy that [I’m] keeping the whipped fish down”), indicating sensitivity/anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Tries the dish and comments on its qualities but shows no strong curiosity or dogmatism; uncertainty about creaminess isn’t clearly cautious or inventive."
+  }
+}

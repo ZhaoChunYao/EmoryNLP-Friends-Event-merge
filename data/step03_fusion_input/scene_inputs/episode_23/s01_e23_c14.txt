@@ -1,0 +1,99 @@
+('know', 'I/Dr. Franzblau', None, 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('be', 'it', 'an hour', 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('be', 'it', 'three', 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('relax', 'you/Rachel Green', None, 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('do', "she/(Rachel's friend)", 'great', 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('tell', 'you/Rachel Green', 'me', 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('involve', 'you/Rachel Green', 'with anyone', 's01_e23_c14_u001')
+[s01_e23_c14_u001] Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+
+('be', 'I/Rachel Green', None, 's01_e23_c14_u002')
+[s01_e23_c14_u002] Rachel Green: No, no, not at the moment, no, I'm not. Are you?
+
+('be', 'it', 'hard enough to get women to go out with me', 's01_e23_c14_u003')
+[s01_e23_c14_u003] Dr. Franzblau: No, it's hard enough to get women to go out with me.
+
+('get', 'I/Dr. Franzblau', 'women', 's01_e23_c14_u003')
+[s01_e23_c14_u003] Dr. Franzblau: No, it's hard enough to get women to go out with me.
+
+('go out', 'women', 'with me', 's01_e23_c14_u003')
+[s01_e23_c14_u003] Dr. Franzblau: No, it's hard enough to get women to go out with me.
+
+('hear', 'I/Rachel Green', 'that', 's01_e23_c14_u004')
+[s01_e23_c14_u004] Rachel Green: Right, yeah, I've heard that about cute doctors.
+
+('hear', 'I/Rachel Green', 'about cute doctors', 's01_e23_c14_u004')
+[s01_e23_c14_u004] Rachel Green: Right, yeah, I've heard that about cute doctors.
+
+('suppose', 'I/Dr. Franzblau', "it's because I spend so much time", 's01_e23_c14_u005')
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+
+('be', 'it', 'because I spend so much time', 's01_e23_c14_u005')
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+
+('spend', 'I/Dr. Franzblau', 'so much time', 's01_e23_c14_u005')
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+
+('do', 'I/Dr. Franzblau', None, 's01_e23_c14_u005')
+[s01_e23_c14_u005] Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.
+
+('try', 'I/Dr. Franzblau', 'not to let my work affect my personal life', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('let', 'I/Dr. Franzblau', 'my work', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('affect', 'my work', 'my personal life', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('be', 'it', 'hard', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('do', 'you/Rachel Green', 'what I do', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('be', 'it', 'like', 's01_e23_c14_u007')
+[s01_e23_c14_u007] Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+
+('be', 'I/Rachel Green', 'a waitress', 's01_e23_c14_u008')
+[s01_e23_c14_u008] Rachel Green: I'm a waitress.
+
+('be', 'there', 'times', 's01_e23_c14_u009')
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+
+('come', 'you/Rachel Green', 'home', 's01_e23_c14_u009')
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+
+('come', 'you/Rachel Green', 'at the end of the day', 's01_e23_c14_u009')
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+
+('be like', 'you/Rachel Green', 'if I see one more cup of coffee', 's01_e23_c14_u009')
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+
+('see', 'I/Dr. Franzblau', 'one more cup of coffee', 's01_e23_c14_u009')
+[s01_e23_c14_u009] Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+
+('get', 'I/Rachel Green', 'you', 's01_e23_c14_u010')
+[s01_e23_c14_u010] Rachel Green: Yeah. Gotcha.
+
+('go', 'I/Dr. Franzblau', 'check up on your friend', 's01_e23_c14_u011')
+[s01_e23_c14_u011] Dr. Franzblau: I'm gonna go check up on your friend.
+
+('check up', 'I/Dr. Franzblau', 'on your friend', 's01_e23_c14_u011')
+[s01_e23_c14_u011] Dr. Franzblau: I'm gonna go check up on your friend.
+
+('be', 'that', 'fine', 's01_e23_c14_u012')
+[s01_e23_c14_u012] Rachel Green: Ok. That's fine.
+

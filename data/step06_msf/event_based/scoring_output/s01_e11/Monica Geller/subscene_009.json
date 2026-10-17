@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, factual replies and a simple greeting (“Hello”), without showing notable outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker cooperatively answers the question (“he can free his ‘love stick’”) and provides helpful guidance, showing willingness to assist."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker corrects the spelling (“there is no ‘j’ in the word ‘engorged’”), indicating attention to detail and care."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks calmly and matter-of-factly, confidently correcting a word without signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages nonjudgmentally in a creative/erotic writing discussion, suggesting curiosity and openness to unconventional topics."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c04_u001_e1",
+          "tuples": [
+            "('be', 'Windows', 'clean', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e2",
+          "tuples": [
+            "('be', 'candels', 'lit', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e3",
+          "tuples": [
+            "('be', 'belt', 'to tight', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e4",
+          "tuples": [
+            "('change', 'I/Monica Geller', 'the belt', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e5",
+          "tuples": [
+            "('turn', 'I/Monica Geller', 'the fish', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e6",
+          "tuples": [
+            "('make', 'I/Monica Geller', 'lasagne', 's01_e22_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u001_e7",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'out of control', 's01_e22_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e22_c04_u002_e1",
+          "tuples": [
+            "('understand', 'I/Rachel Green', None, 's01_e22_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u002_e2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', None, 's01_e22_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u002_e3",
+          "tuples": [
+            "('date', 'you/Monica Geller', 'this guy', 's01_e22_c04_u002')",
+            "('date', 'you/Monica Geller', 'since his midterms', 's01_e22_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u002_e4",
+          "tuples": [
+            "('be', 'you/Monica Geller', None, 's01_e22_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c04_u004_e1",
+          "tuples": [
+            "('be', 'tonight', 'the Night', 's01_e22_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e22_c04_u005_e1",
+          "tuples": [
+            "('know', 'I/Monica Geller', None, 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e2",
+          "tuples": [
+            "('look', 'you/Rachel Green', None, 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e3",
+          "tuples": [
+            "('be', \"he/(Monica's boyfriend)\", 'a great guy', 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e4",
+          "tuples": [
+            "('love', 'I/Monica Geller', 'being with him', 's01_e22_c04_u005')",
+            "('be', 'I/Monica Geller', 'with him', 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e5",
+          "tuples": [
+            "('be', 'I/Monica Geller', None, 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e6",
+          "tuples": [
+            "('know', 'you/Rachel Green', None, 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e7",
+          "tuples": [
+            "('happen', 'Things', None, 's01_e22_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c04_u005_e8",
+          "tuples": [
+            "('plan', 'you/Rachel Green', 'these things', 's01_e22_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e22_c04_u006_e1",
+          "tuples": [
+            "('shave', 'you/Monica Geller', 'your legs', 's01_e22_c04_u006')"
+          ]
+        }
+      ]
+    }
+  ]
+}

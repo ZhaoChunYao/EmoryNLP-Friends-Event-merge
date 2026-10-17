@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and only in response to requests, without showing outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They agree to do a favor by trying on the present, compliment it as \"really nice,\" and straightforwardly report that it fits—cooperative and considerate."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of planning or diligence; they merely comply with a request."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or irritability; demeanor appears neutral, but no strong evidence either way."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or preference for new ideas; responses are purely practical."
+  }
+}

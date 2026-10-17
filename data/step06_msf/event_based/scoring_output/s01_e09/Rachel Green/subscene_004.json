@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief updates and simple instructions about the mail; no clear signs of outgoing, energetic, or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker thanks Speaker_05 and later tells the group they are great, showing politeness and appreciation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker decides to give up the Vail trip and seeing family after not making the money, indicating responsible, practical planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Says they are giving up plans but does not display anxiety or emotional volatility; tone remains matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or seeking new experiences; actions are practical rather than exploratory."
+  }
+}

@@ -1,0 +1,102 @@
+('show', 'I/Ross Geller', 'you everything we have', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('have', 'we/(store)', 'everything', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('want', 'you/Aunt Lillian', 'your mother to spend eternity in a lemon yellow pant-suit', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('spend', 'your mother', 'eternity', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('spend', 'your mother', 'in a lemon yellow pant-suit', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('go', 'you/Aunt Lillian', None, 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('go', 'you/Aunt Lillian', 'with the burgundy', 's01_e08_c08_u003')
+[s01_e08_c08_u003] Ross Geller: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+
+('know', 'you/Ross Geller', None, 's01_e08_c08_u004')
+[s01_e08_c08_u004] Aunt Lillian: You know, whatever we pick, she would've told us it's the wrong one.
+
+('pick', 'we/Judy Geller & Aunt Lillian', 'whatever', 's01_e08_c08_u004')
+[s01_e08_c08_u004] Aunt Lillian: You know, whatever we pick, she would've told us it's the wrong one.
+
+('tell', 'she/Nana', "us it's the wrong one", 's01_e08_c08_u004')
+[s01_e08_c08_u004] Aunt Lillian: You know, whatever we pick, she would've told us it's the wrong one.
+
+('be', 'it/the choice', 'the wrong one', 's01_e08_c08_u004')
+[s01_e08_c08_u004] Aunt Lillian: You know, whatever we pick, she would've told us it's the wrong one.
+
+('be', 'you/Aunt Lillian', 'right', 's01_e08_c08_u005')
+[s01_e08_c08_u005] Judy Geller: You're right. We'll go with the burgundy.
+
+('go', 'we/Judy Geller & Aunt Lillian', None, 's01_e08_c08_u005')
+[s01_e08_c08_u005] Judy Geller: You're right. We'll go with the burgundy.
+
+('go', 'we/Judy Geller & Aunt Lillian', 'with the burgundy', 's01_e08_c08_u005')
+[s01_e08_c08_u005] Judy Geller: You're right. We'll go with the burgundy.
+
+('come out', 'I/Ross Geller', None, 's01_e08_c08_u006')
+[s01_e08_c08_u006] Ross Geller: Oh! A fine choice. I'm coming out.
+
+('wait', 'you/Ross Geller', None, 's01_e08_c08_u007')
+[s01_e08_c08_u007] Aunt Lillian: Wait! We need shoes!
+
+('need', 'we/Judy Geller & Aunt Lillian', 'shoes', 's01_e08_c08_u007')
+[s01_e08_c08_u007] Aunt Lillian: Wait! We need shoes!
+
+('be', 'that/the shoes', 'really a day shoe', 's01_e08_c08_u010')
+[s01_e08_c08_u010] Judy Geller: That's really a day shoe.
+
+('go', 'she/Nana', 'where', 's01_e08_c08_u011')
+[s01_e08_c08_u011] Ross Geller: And where she's going everyone else'll be dressier?
+
+('be', 'everyone else', 'dressier', 's01_e08_c08_u011')
+[s01_e08_c08_u011] Ross Geller: And where she's going everyone else'll be dressier?
+
+('see', 'we/Judy Geller & Aunt Lillian', 'something', 's01_e08_c08_u012')
+[s01_e08_c08_u012] Aunt Lillian: Could we see something in a slimmer heel?
+
+('see', 'we/Judy Geller & Aunt Lillian', 'in a slimmer heel', 's01_e08_c08_u012')
+[s01_e08_c08_u012] Aunt Lillian: Could we see something in a slimmer heel?
+
+('have', 'I/Ross Geller', 'nothing', 's01_e08_c08_u013')
+[s01_e08_c08_u013] Ross Geller: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+
+('have', 'I/Ross Geller', 'in an evening shoe', 's01_e08_c08_u013')
+[s01_e08_c08_u013] Ross Geller: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+
+('have', 'I/Ross Geller', 'in the burgundy', 's01_e08_c08_u013')
+[s01_e08_c08_u013] Ross Geller: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+
+('show', 'I/Ross Geller', 'you something in a silver that may work', 's01_e08_c08_u013')
+[s01_e08_c08_u013] Ross Geller: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+
+('work', 'that/the silver option', None, 's01_e08_c08_u013')
+[s01_e08_c08_u013] Ross Geller: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+
+('be', 'it/the color', 'burgundy', 's01_e08_c08_u014')
+[s01_e08_c08_u014] Aunt Lillian: No, it really should be burgundy.
+
+('go', 'we/Judy Geller & Aunt Lillian', None, 's01_e08_c08_u015')
+[s01_e08_c08_u015] Judy Geller: Mm. Unless we go with a different dress?
+
+('go', 'we/Judy Geller & Aunt Lillian', 'with a different dress', 's01_e08_c08_u015')
+[s01_e08_c08_u015] Judy Geller: Mm. Unless we go with a different dress?
+
+('wait', 'you/Judy Geller & Aunt Lillian', 'a sec', 's01_e08_c08_u016')
+[s01_e08_c08_u016] Ross Geller: No! Nonono, wait a sec. I may have something in the back.
+
+('have', 'I/Ross Geller', 'something', 's01_e08_c08_u016')
+[s01_e08_c08_u016] Ross Geller: No! Nonono, wait a sec. I may have something in the back.
+
+('have', 'I/Ross Geller', 'in the back', 's01_e08_c08_u016')
+[s01_e08_c08_u016] Ross Geller: No! Nonono, wait a sec. I may have something in the back.
+
+('be', 'everything', 'all right', 's01_e08_c08_u019')
+[s01_e08_c08_u019] Judy Geller: Is everything all right, dear?
+

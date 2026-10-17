@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively introduces a friend and makes a playful, flirtatious comment (“a little cute to be a doctor”), showing sociable, outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They introduce a friend warmly and offer a compliment to Speaker_03, indicating friendliness and a cooperative tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness are shown in the brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Making a bold, teasing compliment in a social setting suggests comfort and confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The dialogue does not show curiosity, unconventional thinking, or caution; the playful remark alone is insufficient to judge openness."
+  }
+}

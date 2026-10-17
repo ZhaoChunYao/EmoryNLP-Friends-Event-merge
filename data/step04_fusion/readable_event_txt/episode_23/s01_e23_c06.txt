@@ -1,0 +1,121 @@
+event_id: s01_e23_c06_u001_e1
+utterance_id: s01_e23_c06_u001
+  tuple: ('breathe', 'you/(Carol Willick)', None, 's01_e23_c06_u001')
+
+event_id: s01_e23_c06_u007_e1
+utterance_id: s01_e23_c06_u007
+  tuple: ('kill', 'you/(Ross Geller,Susan Bunch)', 'me', 's01_e23_c06_u007')
+
+event_id: s01_e23_c06_u009_e1
+utterance_id: s01_e23_c06_u009
+  tuple: ('count', 'you/(Ross Geller)', None, 's01_e23_c06_u009')
+
+event_id: s01_e23_c06_u010_e1
+utterance_id: s01_e23_c06_u010
+  tuple: ('be', 'it', 'ok', 's01_e23_c06_u010')
+
+event_id: s01_e23_c06_u010_e2
+utterance_id: s01_e23_c06_u010
+  tuple: ('remember', 'you/(Carol Willick)', None, 's01_e23_c06_u010')
+
+event_id: s01_e23_c06_u010_e3
+utterance_id: s01_e23_c06_u010
+  tuple: ('do', 'we/(Susan Bunch,Carol Willick)', 'this for Jordie', 's01_e23_c06_u010')
+
+event_id: s01_e23_c06_u010_e4
+utterance_id: s01_e23_c06_u010
+  tuple: ('keep', 'you/(Carol Willick)', 'focusing on Jordie', 's01_e23_c06_u010')
+  tuple: ('focus', 'you/(Carol Willick)', 'on Jordie', 's01_e23_c06_u010')
+
+event_id: s01_e23_c06_u011_e1
+utterance_id: s01_e23_c06_u011
+  tuple: ('be', 'who', 'Jordie', 's01_e23_c06_u011')
+
+event_id: s01_e23_c06_u013_e1
+utterance_id: s01_e23_c06_u013
+  tuple: ('have', 'I/(Ross Geller)', 'a son named Jordie', 's01_e23_c06_u013')
+
+event_id: s01_e23_c06_u013_e2
+utterance_id: s01_e23_c06_u013
+  tuple: ('agree', 'we all/(Ross Geller,Susan Bunch,Carol Willick)', None, 's01_e23_c06_u013')
+
+event_id: s01_e23_c06_u013_e3
+utterance_id: s01_e23_c06_u013
+  tuple: ('be', "my/(Ross Geller) son's name", 'Jamie', 's01_e23_c06_u013')
+
+event_id: s01_e23_c06_u014_e1
+utterance_id: s01_e23_c06_u014
+  tuple: ('be', 'Jamie', "the name of Susan's first girlfriend", 's01_e23_c06_u014')
+
+event_id: s01_e23_c06_u014_e2
+utterance_id: s01_e23_c06_u014
+  tuple: ('go back', 'we/(Carol Willick,Susan Bunch)', 'to Jordie', 's01_e23_c06_u014')
+
+event_id: s01_e23_c06_u015_e1
+utterance_id: s01_e23_c06_u015
+  tuple: ('mean', 'you/(Carol Willick)', 'what', 's01_e23_c06_u015')
+  tuple: ('mean', 'you/(Carol Willick)', 'back to Jordie', 's01_e23_c06_u015')
+
+event_id: s01_e23_c06_u015_e2
+utterance_id: s01_e23_c06_u015
+  tuple: ('land', 'we/(Ross Geller,Susan Bunch,Carol Willick)', 'on Jordie', 's01_e23_c06_u015')
+
+event_id: s01_e23_c06_u015_e3
+utterance_id: s01_e23_c06_u015
+  tuple: ('pass', 'we/(Ross Geller,Susan Bunch,Carol Willick)', 'by it', 's01_e23_c06_u015')
+  tuple: ('pass', 'we/(Ross Geller,Susan Bunch,Carol Willick)', 'during the whole Jessy, Cody, Dylan fiasco', 's01_e23_c06_u015')
+
+event_id: s01_e23_c06_u017_e1
+utterance_id: s01_e23_c06_u017
+  tuple: ('get', 'I/(Ross Geller)', 'it', 's01_e23_c06_u017')
+
+event_id: s01_e23_c06_u019_e1
+utterance_id: s01_e23_c06_u019
+  tuple: ('get', 'you/(Susan Bunch)', 'to sleep with Carol Willick', 's01_e23_c06_u019')
+  tuple: ('sleep', 'you/(Susan Bunch)', 'with Carol Willick', 's01_e23_c06_u019')
+
+event_id: s01_e23_c06_u019_e2
+utterance_id: s01_e23_c06_u019
+  tuple: ('get', 'I/(Ross Geller)', 'the cramps', 's01_e23_c06_u019')
+
+event_id: s01_e23_c06_u021_e1
+utterance_id: s01_e23_c06_u021
+  tuple: ('be', 'that', 'it', 's01_e23_c06_u021')
+
+event_id: s01_e23_c06_u021_e2
+utterance_id: s01_e23_c06_u021
+  tuple: ('want', 'I/(Carol Willick)', 'both of you out', 's01_e23_c06_u021')
+
+event_id: s01_e23_c06_u023_e1
+utterance_id: s01_e23_c06_u023
+  tuple: ('start', 'he/(Ross Geller)', 'it', 's01_e23_c06_u023')
+
+event_id: s01_e23_c06_u025_e1
+utterance_id: s01_e23_c06_u025
+  tuple: ('do', 'you/(Ross Geller)', None, 's01_e23_c06_u025')
+
+event_id: s01_e23_c06_u026_e1
+utterance_id: s01_e23_c06_u026
+  tuple: ('care', 'I/(Carol Willick)', None, 's01_e23_c06_u026')
+
+event_id: s01_e23_c06_u026_e2
+utterance_id: s01_e23_c06_u026
+  tuple: ('try', 'I/(Carol Willick)', 'to get a person out of my body here', 's01_e23_c06_u026')
+  tuple: ('get', 'I/(Carol Willick)', 'a person out of my body here', 's01_e23_c06_u026')
+
+event_id: s01_e23_c06_u026_e3
+utterance_id: s01_e23_c06_u026
+  tuple: ('make', 'you/(Ross Geller,Susan Bunch)', 'it', 's01_e23_c06_u026')
+
+event_id: s01_e23_c06_u028_e1
+utterance_id: s01_e23_c06_u028
+  tuple: ('go', 'you/(Ross Geller,Susan Bunch)', None, 's01_e23_c06_u028')
+
+event_id: s01_e23_c06_u030_e1
+utterance_id: s01_e23_c06_u030
+  tuple: ('see', 'you/(Ross Geller)', 'what you did', 's01_e23_c06_u030')
+
+event_id: s01_e23_c06_u031_e1
+utterance_id: s01_e23_c06_u031
+  tuple: ('listen', 'you/(Carol Willick)', None, 's01_e23_c06_u031')
+

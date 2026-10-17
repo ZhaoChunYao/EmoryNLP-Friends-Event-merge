@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives practical advice and a follow-up question but shows no clear signs of being especially outgoing or reserved in this brief exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers helpful, supportive guidance—suggests calling the answering machine and explains what the beeps could mean, trying to help Speaker_03."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Uses a systematic, detail-oriented approach—infers from the number of beeps whether messages were retrieved and asks, “How many beeps?”"
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and solution-focused, showing no anxiety or insecurity while others worry about seeming desperate."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and flexible problem-solving—connects beeps to message status and probes further with a clarifying question."
+  }
+}

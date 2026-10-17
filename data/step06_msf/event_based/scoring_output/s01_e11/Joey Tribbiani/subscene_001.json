@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively engages and leads the exchange (calls out the “code,” questions if another mom is sexy, defends moms), showing assertive, talkative behavior rather than being withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Downplays the incident (“Right. No big deal.”) and helps his friend with a cover story to Speaker_02 (adds details about the racquet and grip size), showing cooperation and support."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Emphasizes rules and responsibility (“you broke the code… you don’t kiss your friend’s mom”), and cites specific logistical details (“you didn’t call… didn’t leave your grip size”), indicating organization and rule-following."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and confidently, confronting the issue directly and even joking without showing nervousness or distress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Takes a rigid, conventional stance (“you don’t kiss your friend’s mom” and invoking a fixed ‘code’), reflecting caution and dogmatism rather than curiosity or flexibility."
+  }
+}

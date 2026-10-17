@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, procedural directions and a short reassurance but shows no clear outgoing or talkative behavior beyond role-based instructions."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite Speaker_02 saying he is in a lot of pain and his face is dented, TargetSpeaker tells him to fill out forms, sit in the waiting area, and wait his turn."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides structured, orderly instructions—have the patient fill out forms, sit in a designated area, and wait his turn—indicating an organized, rule-following approach."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident, responding \"Any minute now\" rather than showing anxiety despite others describing the situation as an emergency."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Rigidly adheres to procedure (forms, waiting turn) even after being told it is an emergency, showing a cautious, rule-bound stance over flexibility."
+  }
+}

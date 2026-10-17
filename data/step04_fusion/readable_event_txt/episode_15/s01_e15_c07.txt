@@ -1,0 +1,17 @@
+event_id: s01_e15_c07_u001_e1
+utterance_id: s01_e15_c07_u001
+  tuple: ('talk', 'you/(Ross Geller)', 'to me', 's01_e15_c07_u001')
+
+event_id: s01_e15_c07_u002_e1
+utterance_id: s01_e15_c07_u002
+  tuple: ('happen', 'a weird thing', 'to me', 's01_e15_c07_u002')
+  tuple: ('happen', 'a weird thing', 'on the train', 's01_e15_c07_u002')
+
+event_id: s01_e15_c07_u003_e1
+utterance_id: s01_e15_c07_u003
+  tuple: ('talk', 'you/(Ross Geller)', 'dirty', 's01_e15_c07_u003')
+
+event_id: s01_e15_c07_u007_e1
+utterance_id: s01_e15_c07_u007
+  tuple: ('say', 'you/(Ross Geller)', 'something hot', 's01_e15_c07_u007')
+

@@ -1,0 +1,113 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c11_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('excuse', 'you/(crowd)', 'me', 's01_e24_c11_u001')",
+            "('pardon', 'you/(crowd)', 'me', 's01_e24_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('let', 'you/(unknown)', 'it', 's01_e24_c11_u003')",
+            "('go', 'it/(the search for Rachel)', None, 's01_e24_c11_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'There', 'no Rachel', 's01_e24_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'I/Ross Geller', 'that', 's01_e24_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'I/Ross Geller', 'for you to meet my friends', 's01_e24_c11_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('meet', 'you/Julie', 'my friends', 's01_e24_c11_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('think', 'you/Ross Geller', \"they'll judge and ridicule me\", 's01_e24_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('judge', \"they/(Ross's friends)\", 'me', 's01_e24_c11_u011')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('ridicule', \"they/(Ross's friends)\", 'me', 's01_e24_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u013",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('wait', 'Julie and Ross Geller', None, 's01_e24_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c11_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('come', 'you/Julie', 'on', 's01_e24_c11_u014')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('love', \"they/(Ross's friends)\", 'you', 's01_e24_c11_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

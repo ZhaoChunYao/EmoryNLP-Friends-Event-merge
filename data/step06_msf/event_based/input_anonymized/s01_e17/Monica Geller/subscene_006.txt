@@ -1,0 +1,23 @@
+Episode: s01_e17
+Scene: s01_e17_c06
+Subscene index for speaker: 006
+Main speaker: TargetSpeaker
+UID span: s01_e17_c06_u001 → s01_e17_c06_u009
+Peak window: 0 → 2
+
+Dialogue:
+  [s01_e17_c06_u001]
+  1. TargetSpeaker says Speaker_01 and Speaker_02 are here.
+  [s01_e17_c06_u002]
+  1. Speaker_03 says Speaker_03 is coming.
+  [s01_e17_c06_u003] Unknown Speaker: 
+  [s01_e17_c06_u004]
+  1. TargetSpeaker says Speaker_01 and Speaker_02 should come in.
+  [s01_e17_c06_u005] Speaker_01: Hey.
+  [s01_e17_c06_u006] TargetSpeaker: Hi, Geoffrey.
+  [s01_e17_c06_u007] Speaker_03: Hi.
+  [s01_e17_c06_u008]
+  1. Speaker_02 says Speaker_02 and Speaker_01 brought wine.
+  [s01_e17_c06_u009]
+  1. Speaker_01 tells TargetSpeaker and Speaker_03 to look at the wine and says the wine is from the cellars of Speaker_04 and Speaker_05.
+  2. Speaker_01 says Speaker_01 and Speaker_02 could not resist choosing that wine from Speaker_04 and Speaker_05’s cellars.

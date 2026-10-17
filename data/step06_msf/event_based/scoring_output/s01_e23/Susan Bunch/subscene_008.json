@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly declares love for Speaker_03 and actively engages in a direct, humorous back-and-forth (e.g., noting there is no Lesbian Lover Day), showing outgoing, assertive behavior rather than withdrawal."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker argues competitively with Speaker_01 (“has been waiting… just as much as Speaker_01”) and uses a sarcastic jab about holidays, indicating low cooperativeness in the moment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior shows organization or carelessness; being stuck in the closet is attributed by Speaker_01, not confirmed by TargetSpeaker’s actions."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker voices insecurity about their role (“TargetSpeaker's identity in Speaker_02's life is unclear”) and sensitivity about recognition (lamenting no Lesbian Lover Day)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a witty remark, there is no concrete behavior indicating curiosity, unconventional thinking, or dogmatism in this exchange."
+  }
+}

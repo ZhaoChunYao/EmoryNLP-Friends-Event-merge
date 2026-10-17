@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Describes self as energetic (“bing, bing, bing”), is very talkative and expressive during a social interaction, and proposes teaming up with Speaker_02 to break up with people together."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Immediately apologizes after hitting Speaker_01 and asks if they are okay; shows appreciation for Speaker_02’s calming help; no signs of hostility or selfishness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits not knowing how many drinks they’ve had and accidentally hits Speaker_01 in the eye during the breakup, suggesting poor self-regulation and carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says “I’m fine” then “I’m not fine,” calls it the worst breakup ever, becomes anxious when Speaker_01 is coming back, and needs guided breathing to calm down."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a playful metaphor (“bing, bing, bing” vs. “boom, boom, boom”), there is no clear behavior indicating curiosity or unconventional thinking."
+  }
+}

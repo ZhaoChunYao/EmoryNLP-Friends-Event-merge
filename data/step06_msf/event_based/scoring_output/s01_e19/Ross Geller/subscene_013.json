@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead and repeatedly speaks up, confronting others and issuing commands like telling people to give the monkey back and calling, \"C'mere, Marcel.\""
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational and accusatory—calls Speaker_01 insane and makes demanding statements rather than cooperating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization/efficiency or sloppiness/carelessness; focus is only on retrieving the monkey."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence and control—assertively questions and orders others without signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, inventiveness, or dogmatism in the brief dispute."
+  }
+}

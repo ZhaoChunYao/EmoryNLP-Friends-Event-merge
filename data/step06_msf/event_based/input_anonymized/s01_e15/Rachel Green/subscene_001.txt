@@ -1,0 +1,22 @@
+Episode: s01_e15
+Scene: s01_e15_c01
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e15_c01_u001 → s01_e15_c01_u009
+Peak window: 0 → 4
+
+Dialogue:
+  [s01_e15_c01_u001] TargetSpeaker: Coffee.
+  [s01_e15_c01_u002]
+  1. Speaker_01 says Speaker_01 is thanking TargetSpeaker for the coffee that TargetSpeaker just served to Speaker_01.
+  [s01_e15_c01_u003] TargetSpeaker: Cappuccino.
+  [s01_e15_c01_u004] Speaker_02: Grazie.
+  [s01_e15_c01_u005] TargetSpeaker: And a nice hot cider for Monica.
+  [s01_e15_c01_u006]
+  1. Speaker_03 says Speaker_03 is thanking TargetSpeaker for the hot cider that TargetSpeaker just gave to Speaker_03.
+  [s01_e15_c01_u007] TargetSpeaker: Yeah?
+  [s01_e15_c01_u008]
+  1. Speaker_03 says Speaker_03's cinnamon stick in Speaker_03's hot cider has an eraser attached.
+  [s01_e15_c01_u009]
+  1. TargetSpeaker says TargetSpeaker accidentally gave Speaker_03 a pencil instead of a cinnamon stick, which is why Speaker_03's cinnamon stick has an eraser.
+  2. TargetSpeaker says TargetSpeaker is sorry for accidentally giving Speaker_03 a pencil instead of a cinnamon stick.

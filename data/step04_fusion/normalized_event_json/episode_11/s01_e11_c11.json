@@ -1,0 +1,382 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u001_e1",
+          "tuples": [
+            "('wait', 'Car', None, 's01_e11_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u001_e2",
+          "tuples": [
+            "('want', 'I/(Nora Tyler Bing)', 'drop off these copies of my book for your friends', 's01_e11_c11_u001')",
+            "('drop off', 'I/(Nora Tyler Bing)', 'these copies of my book', 's01_e11_c11_u001')",
+            "('drop off', 'I/(Nora Tyler Bing)', 'for your friends', 's01_e11_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u001_e3",
+          "tuples": [
+            "('want', 'you/(Chandler Bing)', 'anything', 's01_e11_c11_u001')",
+            "('want', 'you/(Chandler Bing)', 'from Lisbon', 's01_e11_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u002",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u002_e1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', 'you are gonna be there', 's01_e11_c11_u002')",
+            "('be', 'you/(Nora Tyler Bing)', 'there', 's01_e11_c11_u002')",
+            "('be', 'knowing you are gonna be there', 'enough', 's01_e11_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u003",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u003_e1",
+          "tuples": [
+            "('be', 'you/(Chandler Bing)', 'good', 's01_e11_c11_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u003_e2",
+          "tuples": [
+            "('love', 'I/(Nora Tyler Bing)', 'you', 's01_e11_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u004_e1",
+          "tuples": [
+            "('kiss', 'you/(Nora Tyler Bing)', 'my best Ross', 's01_e11_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u005",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u005_e1",
+          "tuples": [
+            "('look', 'you/(Chandler Bing)', None, 's01_e11_c11_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u005_e2",
+          "tuples": [
+            "('be', 'it/(the kiss)', 'stupid', 's01_e11_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u007_e1",
+          "tuples": [
+            "('know', 'I/(Nora Tyler Bing)', 'how it happened', 's01_e11_c11_u007')",
+            "('happen', 'it/(the kiss)', None, 's01_e11_c11_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u007_e2",
+          "tuples": [
+            "('be', 'I/(Nora Tyler Bing)', 'sorry', 's01_e11_c11_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u007_e3",
+          "tuples": [
+            "('promise', 'I/(Nora Tyler Bing)', 'it will never happen again', 's01_e11_c11_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u007_e4",
+          "tuples": [
+            "('be', 'we/(Nora Tyler Bing+Chandler Bing)', 'okay', 's01_e11_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u011_e1",
+          "tuples": [
+            "('do', 'he/(Chandler Bing)', 'it/(tell her off)', 's01_e11_c11_u011')",
+            "('tell off', 'he/(Chandler Bing)', 'her', 's01_e11_c11_u011')",
+            "('tell', 'he/(Chandler Bing)', 'about the kiss', 's01_e11_c11_u011')",
+            "('tell', 'he/(Chandler Bing)', 'about everything', 's01_e11_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u012",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u012_e1",
+          "tuples": [
+            "('kid', 'you/(Joey Tribbiani)', None, 's01_e11_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u013",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u013_e1",
+          "tuples": [
+            "('say', 'he/(Chandler Bing)', '\"When are you gonna grow up and start being a mom?\"', 's01_e11_c11_u013')",
+            "('grow up', 'you/(Nora Tyler Bing)', None, 's01_e11_c11_u013')",
+            "('start', 'you/(Nora Tyler Bing)', 'being a mom', 's01_e11_c11_u013')",
+            "('be', 'you/(Nora Tyler Bing)', 'a mom', 's01_e11_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u015",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u015_e1",
+          "tuples": [
+            "('come back with', 'she/(Nora Tyler Bing)', '\"The question is, when are you gonna grow up and realise I have a bomb?\"', 's01_e11_c11_u015')",
+            "('be', 'the question', 'when are you gonna grow up and realise I have a bomb', 's01_e11_c11_u015')",
+            "('grow up', 'you/(Chandler Bing)', None, 's01_e11_c11_u015')",
+            "('realise', 'you/(Chandler Bing)', 'I have a bomb', 's01_e11_c11_u015')",
+            "('have', 'I/(Nora Tyler Bing)', 'a bomb', 's01_e11_c11_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u016",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u016_e1",
+          "tuples": [
+            "('wait', 'you/(Joey Tribbiani)', 'a minute', 's01_e11_c11_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u016_e2",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'sure', 's01_e11_c11_u016')",
+            "('say', 'she/(Nora Tyler Bing)', '\"When are you gonna grow up and realise I am your mom?\"', 's01_e11_c11_u016')",
+            "('realise', 'you/(Chandler Bing)', 'I am your mom', 's01_e11_c11_u016')",
+            "('be', 'I/(Nora Tyler Bing)', 'your mom', 's01_e11_c11_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u017",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u017_e1",
+          "tuples": [
+            "('make', 'that/(the \\'I am your mom\\' version)', 'more sense', 's01_e11_c11_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u018",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u018_e1",
+          "tuples": [
+            "('go on', 'what/(the situation now)', None, 's01_e11_c11_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u019",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u019_e1",
+          "tuples": [
+            "('know', 'I/(Joey Tribbiani)', None, 's01_e11_c11_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u019_e2",
+          "tuples": [
+            "('stand', 'I/(Joey Tribbiani)', None, 's01_e11_c11_u019')",
+            "('spell out', 'I/(Joey Tribbiani)', 'it', 's01_e11_c11_u019')",
+            "('spell out', 'I/(Joey Tribbiani)', 'for you', 's01_e11_c11_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u019_e3",
+          "tuples": [
+            "('hear', 'I/(Joey Tribbiani)', 'anything', 's01_e11_c11_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u019_e4",
+          "tuples": [
+            "('wait', 'you/(Ross Geller)', None, 's01_e11_c11_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u020",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u020_e1",
+          "tuples": [
+            "('see', 'you/(Joey Tribbiani)', 'what', 's01_e11_c11_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u021",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u021_e1",
+          "tuples": [
+            "('be', 'they/(Chandler Bing+Nora Tyler Bing)', 'so tiny and upside-down', 's01_e11_c11_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u021_e2",
+          "tuples": [
+            "('walk away', 'they/(Chandler Bing+Nora Tyler Bing)', None, 's01_e11_c11_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u021_e3",
+          "tuples": [
+            "('come', 'they/(Chandler Bing+Nora Tyler Bing)', None, 's01_e11_c11_u021')",
+            "('come', 'they/(Chandler Bing+Nora Tyler Bing)', 'at us', 's01_e11_c11_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u021_e4",
+          "tuples": [
+            "('run', 'you/(Ross Geller)', None, 's01_e11_c11_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u023",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u023_e1",
+          "tuples": [
+            "('be', 'you/(Chandler Bing)', 'okay', 's01_e11_c11_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u033",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u033_e1",
+          "tuples": [
+            "('mean', 'you/(Chandler Bing)', 'that', 's01_e11_c11_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u034",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u034_e1",
+          "tuples": [
+            "('tell', 'I/(Chandler Bing)', 'her', 's01_e11_c11_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u035",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u035_e1",
+          "tuples": [
+            "('go', 'it/(the talk)', None, 's01_e11_c11_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u036",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u036_e1",
+          "tuples": [
+            "('go', 'it/(the talk)', 'worse', 's01_e11_c11_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u037",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u037_e1",
+          "tuples": [
+            "('feel', 'you/(Chandler Bing)', None, 's01_e11_c11_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c11_u039",
+      "events": [
+        {
+          "event_id": "s01_e11_c11_u039_e1",
+          "tuples": [
+            "('see', 'you/(Chandler Bing)', None, 's01_e11_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u039_e2",
+          "tuples": [
+            "('be', 'it/(Ross kissing your mom)', 'such a bad idea', 's01_e11_c11_u039')",
+            "('kiss', 'me/(Ross Geller)', 'your mom', 's01_e11_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u039_e3",
+          "tuples": [
+            "('go', 'we/(Ross Geller+Chandler Bing)', 'down that road', 's01_e11_c11_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c11_u039_e4",
+          "tuples": [
+            "('know', 'you/(Chandler Bing)', None, 's01_e11_c11_u039')"
+          ]
+        }
+      ]
+    }
+  ]
+}

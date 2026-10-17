@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and functionally while reading mail (“Lots of responses.” “OK… Dear Ms. Green… yeah… No.”) without clearly outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helps by bringing the mail with another person and reading the responses to Speaker_01, showing cooperative, helpful behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Engages in the task of reading and sorting responses and quickly evaluates a letter (“…yeah… yeah… yeah… No.”), suggesting efficient, task-focused behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional reactivity; remarks are neutral and task-focused."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Simply reads and filters mail; no clear indications of curiosity/creativity or of dogmatic resistance to new ideas."
+  }
+}

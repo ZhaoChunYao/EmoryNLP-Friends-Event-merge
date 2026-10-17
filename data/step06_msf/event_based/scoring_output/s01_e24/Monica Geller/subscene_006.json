@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only brief, factual replies without elaboration: “Yeah.” (u030), “She’s out having drinks with Carl.” (u034), “She met Carl at the coffeehouse.” (u036), showing minimal engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperatively and straightforwardly provides information about Speaker_05’s whereabouts and who Carl is when asked, with no signs of hostility or evasiveness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness; the speaker simply answers questions."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or emotional reactivity; responses are calm and neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or imaginative thinking, nor of dogmatism; the speaker just relays facts."
+  }
+}

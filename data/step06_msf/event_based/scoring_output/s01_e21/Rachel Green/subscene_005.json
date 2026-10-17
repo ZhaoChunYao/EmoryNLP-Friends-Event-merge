@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, neutral remarks (clarifies what Speaker_01 means; notes a woman could be Speaker_02) without showing outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker neither agrees nor resists; simply comments on meaning and identifies someone, with no clear cooperation or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating planning, organization, or follow-through; TargetSpeaker only makes observations."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, frustration, or emotional volatility in the brief comments made."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "While TargetSpeaker interprets Speaker_01’s statement and speculates about someone’s identity, the behavior is minimal and not clearly inventive or curious."
+  }
+}

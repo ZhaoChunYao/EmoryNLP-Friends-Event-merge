@@ -1,0 +1,406 @@
+{
+  "tuples": [
+    {
+      "verb": "know",
+      "subject": "I/(Ross Geller)",
+      "object": "whether he's testing me, or just acting out",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "test",
+      "subject": "he/(Marcel)",
+      "object": "me",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "act out",
+      "subject": "he/(Marcel)",
+      "object": null,
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "my monkey",
+      "object": "out of control",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "keep",
+      "subject": "he/(Marcel)",
+      "object": "erasing the messages on my machine by accident",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "erase",
+      "subject": "he/(Marcel)",
+      "object": "the messages",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "erase",
+      "subject": "he/(Marcel)",
+      "object": "on my machine",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "erase",
+      "subject": "he/(Marcel)",
+      "object": "by accident",
+      "uid": "s01_e16_c02_u001"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "that",
+      "uid": "s01_e16_c02_u002"
+    },
+    {
+      "verb": "get",
+      "subject": "he/(Marcel)",
+      "object": "to the newspaper",
+      "uid": "s01_e16_c02_u003"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e16_c02_u003"
+    },
+    {
+      "verb": "pee",
+      "subject": "he/(Marcel)",
+      "object": null,
+      "uid": "s01_e16_c02_u003"
+    },
+    {
+      "verb": "pee",
+      "subject": "he/(Marcel)",
+      "object": "all over the crossword",
+      "uid": "s01_e16_c02_u003"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Rachel Green)",
+      "object": "that",
+      "uid": "s01_e16_c02_u004"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "at her",
+      "uid": "s01_e16_c02_u006"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "me",
+      "uid": "s01_e16_c02_u006"
+    },
+    {
+      "verb": "look",
+      "subject": "she/(Ursula Buffay)",
+      "object": "like her sister",
+      "uid": "s01_e16_c02_u006"
+    },
+    {
+      "verb": "say",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "I see a difference",
+      "uid": "s01_e16_c02_u007"
+    },
+    {
+      "verb": "see",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "a difference",
+      "uid": "s01_e16_c02_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(Ursula Buffay and Phoebe Buffay)",
+      "object": "twins",
+      "uid": "s01_e16_c02_u008"
+    },
+    {
+      "verb": "care",
+      "subject": "I/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e16_c02_u009"
+    },
+    {
+      "verb": "be",
+      "subject": "Phoebe Buffay",
+      "object": "Phoebe",
+      "uid": "s01_e16_c02_u009"
+    },
+    {
+      "verb": "be",
+      "subject": "Ursula Buffay",
+      "object": "hot",
+      "uid": "s01_e16_c02_u009"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "that thing",
+      "uid": "s01_e16_c02_u011"
+    },
+    {
+      "verb": "talk",
+      "subject": "you and I/(Joey Tribbiani and Chandler Bing)",
+      "object": null,
+      "uid": "s01_e16_c02_u011"
+    },
+    {
+      "verb": "talk",
+      "subject": "you and I/(Joey Tribbiani and Chandler Bing)",
+      "object": "to each other",
+      "uid": "s01_e16_c02_u011"
+    },
+    {
+      "verb": "talk",
+      "subject": "you and I/(Joey Tribbiani and Chandler Bing)",
+      "object": "about things",
+      "uid": "s01_e16_c02_u011"
+    },
+    {
+      "verb": "let",
+      "subject": "us/(Chandler Bing and Joey Tribbiani)",
+      "object": "not do that any more",
+      "uid": "s01_e16_c02_u013"
+    },
+    {
+      "verb": "do",
+      "subject": "we/(Chandler Bing and Joey Tribbiani)",
+      "object": "that",
+      "uid": "s01_e16_c02_u013"
+    },
+    {
+      "verb": "guess",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "who we saw today",
+      "uid": "s01_e16_c02_u016"
+    },
+    {
+      "verb": "see",
+      "subject": "we/(Joey Tribbiani and Chandler Bing)",
+      "object": "who",
+      "uid": "s01_e16_c02_u016"
+    },
+    {
+      "verb": "cut",
+      "subject": "the woman",
+      "object": "my hair",
+      "uid": "s01_e16_c02_u021"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(everyone)",
+      "object": null,
+      "uid": "s01_e16_c02_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "a really long game",
+      "uid": "s01_e16_c02_u022"
+    },
+    {
+      "verb": "work",
+      "subject": "she/(Ursula Buffay)",
+      "object": "over at that place",
+      "uid": "s01_e16_c02_u025"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e16_c02_u026"
+    },
+    {
+      "verb": "say",
+      "subject": "she/(Ursula Buffay)",
+      "object": "you guys haven't talked in like years",
+      "uid": "s01_e16_c02_u027"
+    },
+    {
+      "verb": "talk",
+      "subject": "you guys/(Phoebe Buffay and Ursula Buffay)",
+      "object": "in like years",
+      "uid": "s01_e16_c02_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "she/(Ursula Buffay)",
+      "object": "fat",
+      "uid": "s01_e16_c02_u028"
+    },
+    {
+      "verb": "stand",
+      "subject": "I/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e16_c02_u029"
+    },
+    {
+      "verb": "stand",
+      "subject": "you/(Joey Tribbiani)",
+      "object": null,
+      "uid": "s01_e16_c02_u030"
+    },
+    {
+      "verb": "get along",
+      "subject": "you guys/(Phoebe Buffay and Ursula Buffay)",
+      "object": null,
+      "uid": "s01_e16_c02_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "mostly just dumb sister stuff",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "think",
+      "subject": "everyone",
+      "object": null,
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "think",
+      "subject": "everyone",
+      "object": "of her",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "think",
+      "subject": "everyone",
+      "object": "as the pretty one",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "she/(Ursula Buffay)",
+      "object": "the first one to start walking",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "start",
+      "subject": "she/(Ursula Buffay)",
+      "object": "walking",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "walk",
+      "subject": "she/(Ursula Buffay)",
+      "object": null,
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "do",
+      "subject": "I/(Phoebe Buffay)",
+      "object": "it",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "like yeah, right, well what else is new?",
+      "uid": "s01_e16_c02_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "sorry",
+      "uid": "s01_e16_c02_u033"
+    },
+    {
+      "verb": "go",
+      "subject": "I/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e16_c02_u033"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Ross Geller)",
+      "object": "Lamaze class",
+      "uid": "s01_e16_c02_u033"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Chandler Bing)",
+      "object": "Earth Science",
+      "uid": "s01_e16_c02_u034"
+    },
+    {
+      "verb": "catch",
+      "subject": "I/(Chandler Bing)",
+      "object": "you",
+      "uid": "s01_e16_c02_u034"
+    },
+    {
+      "verb": "catch",
+      "subject": "I/(Chandler Bing)",
+      "object": "in Gym",
+      "uid": "s01_e16_c02_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "you and Carol",
+      "uid": "s01_e16_c02_u035"
+    },
+    {
+      "verb": "be",
+      "subject": "Susan",
+      "object": "there",
+      "uid": "s01_e16_c02_u036"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Ross Geller, Carol, and Susan)",
+      "object": "dads",
+      "uid": "s01_e16_c02_u036"
+    },
+    {
+      "verb": "have",
+      "subject": "we/(Ross Geller, Carol, and Susan)",
+      "object": "lesbians",
+      "uid": "s01_e16_c02_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "weird",
+      "uid": "s01_e16_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e16_c02_u038"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Ross Geller)",
+      "object": "I'm pretty comfortable with the whole situation",
+      "uid": "s01_e16_c02_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "pretty comfortable with the whole situation",
+      "uid": "s01_e16_c02_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "my jacket",
+      "uid": "s01_e16_c02_u039"
+    },
+    {
+      "verb": "know",
+      "subject": "I/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e16_c02_u040"
+    }
+  ]
+}

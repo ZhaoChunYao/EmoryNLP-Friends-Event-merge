@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is outspoken and assertive: challenges blame (“how could that be my fault?”), confronts Speaker_01 (“Do you know what your problem is?”), declares Speaker_01 is threatened by them, and answers “Yes” without hesitation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker engages in open arguing, uses a sarcastic retort about Speaker_02, accuses Speaker_01 of being threatened, and is included in the admonition to stop yelling—showing confrontational, uncooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or diligence versus carelessness; the exchange is argumentative but does not directly indicate conscientiousness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and lack of anxiety: counters blame, labels the other as threatened, and responds “Yes” decisively."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete signs of curiosity or openness to new ideas; remarks are defensive and confrontational rather than exploratory."
+  }
+}

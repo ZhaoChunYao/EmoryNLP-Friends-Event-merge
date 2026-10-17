@@ -1,0 +1,53 @@
+event_id: s01_e15_c10_u001_e1
+utterance_id: s01_e15_c10_u001
+  tuple: ('have', 'we/(Monica Geller+Wendy)', 'a deal', 's01_e15_c10_u001')
+  tuple: ('promise', 'you/(Wendy)', None, 's01_e15_c10_u001')
+
+event_id: s01_e15_c10_u002_e1
+utterance_id: s01_e15_c10_u002
+  tuple: ('be', 'that/(Wendy)', 'who', 's01_e15_c10_u002')
+
+event_id: s01_e15_c10_u003_e1
+utterance_id: s01_e15_c10_u003
+  tuple: ('bail', 'Wendy', None, 's01_e15_c10_u003')
+
+event_id: s01_e15_c10_u003_e2
+utterance_id: s01_e15_c10_u003
+  tuple: ('have', 'I/(Monica Geller)', 'no waitress', 's01_e15_c10_u003')
+
+event_id: s01_e15_c10_u004_e1
+utterance_id: s01_e15_c10_u004
+  tuple: ('be', 'that/(Wendy bailed)', 'too bad', 's01_e15_c10_u004')
+
+event_id: s01_e15_c10_u008_e1
+utterance_id: s01_e15_c10_u008
+  tuple: ('wish', 'I/(Rachel Green)', 'I could', 's01_e15_c10_u008')
+
+event_id: s01_e15_c10_u008_e2
+utterance_id: s01_e15_c10_u008
+  tuple: ('make', 'I/(Rachel Green)', 'plans to walk around', 's01_e15_c10_u008')
+  tuple: ('walk', 'I/(Rachel Green)', 'around', 's01_e15_c10_u008')
+
+event_id: s01_e15_c10_u009_e1
+utterance_id: s01_e15_c10_u009
+  tuple: ('know', 'you/(Rachel Green)', None, 's01_e15_c10_u009')
+
+event_id: s01_e15_c10_u009_e2
+utterance_id: s01_e15_c10_u009
+  tuple: ('run', 'you/(Rachel Green)', 'out of your wedding', 's01_e15_c10_u009')
+
+event_id: s01_e15_c10_u009_e3
+utterance_id: s01_e15_c10_u009
+  tuple: ('be', 'I/(Monica Geller)', 'there', 's01_e15_c10_u009')
+  tuple: ('be', 'I/(Monica Geller)', 'for you', 's01_e15_c10_u009')
+
+event_id: s01_e15_c10_u009_e4
+utterance_id: s01_e15_c10_u009
+  tuple: ('put', 'I/(Monica Geller)', 'a roof', 's01_e15_c10_u009')
+  tuple: ('put', 'I/(Monica Geller)', 'over your head', 's01_e15_c10_u009')
+
+event_id: s01_e15_c10_u009_e5
+utterance_id: s01_e15_c10_u009
+  tuple: ('mean', "that/(Monica's help)", 'nothing', 's01_e15_c10_u009')
+  tuple: ('mean', "that/(Monica's help)", 'to you', 's01_e15_c10_u009')
+

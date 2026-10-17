@@ -1,0 +1,141 @@
+event_id: s01_e21_c12_u003_e1
+utterance_id: s01_e21_c12_u003
+  tuple: ('be', 'you/Fake Monica', None, 's01_e21_c12_u003')
+
+event_id: s01_e21_c12_u004_e1
+utterance_id: s01_e21_c12_u004
+  tuple: ('be', 'I/Fake Monica', 'not too bad', 's01_e21_c12_u004')
+
+event_id: s01_e21_c12_u004_e2
+utterance_id: s01_e21_c12_u004
+  tuple: ('be', 'blue', 'my colour', 's01_e21_c12_u004')
+
+event_id: s01_e21_c12_u004_e3
+utterance_id: s01_e21_c12_u004
+  tuple: ('know', 'you/Monica Geller', 'I was here', 's01_e21_c12_u004')
+  tuple: ('be', 'I/Fake Monica', 'here', 's01_e21_c12_u004')
+
+event_id: s01_e21_c12_u005_e1
+utterance_id: s01_e21_c12_u005
+  tuple: ('be', 'I/Monica Geller', 'Monica Geller', 's01_e21_c12_u005')
+
+event_id: s01_e21_c12_u005_e2
+utterance_id: s01_e21_c12_u005
+  tuple: ('be', 'it', 'my credit card you were using', 's01_e21_c12_u005')
+  tuple: ('use', 'you/Fake Monica', 'my credit card', 's01_e21_c12_u005')
+
+event_id: s01_e21_c12_u006_e1
+utterance_id: s01_e21_c12_u006
+  tuple: ('expect', 'I/Fake Monica', 'that', 's01_e21_c12_u006')
+
+event_id: s01_e21_c12_u007_e1
+utterance_id: s01_e21_c12_u007
+  tuple: ('want', 'I/Monica Geller', 'you to know', 's01_e21_c12_u007')
+
+event_id: s01_e21_c12_u007_e2
+utterance_id: s01_e21_c12_u007
+  tuple: ('know', 'you/Fake Monica', "it wasn't me who turned you in", 's01_e21_c12_u007')
+
+event_id: s01_e21_c12_u007_e3
+utterance_id: s01_e21_c12_u007
+  tuple: ('be', 'it', 'me who turned you in', 's01_e21_c12_u007')
+  tuple: ('turn', 'who/Monica Geller', 'in you', 's01_e21_c12_u007')
+
+event_id: s01_e21_c12_u009_e1
+utterance_id: s01_e21_c12_u009
+  tuple: ('thank', 'I/Monica Geller', 'you', 's01_e21_c12_u009')
+
+event_id: s01_e21_c12_u009_e2
+utterance_id: s01_e21_c12_u009
+  tuple: ('give', 'you/Fake Monica', 'me so much', 's01_e21_c12_u009')
+
+event_id: s01_e21_c12_u009_e3
+utterance_id: s01_e21_c12_u009
+  tuple: ('be', 'it', 'for you', 's01_e21_c12_u009')
+
+event_id: s01_e21_c12_u009_e4
+utterance_id: s01_e21_c12_u009
+  tuple: ('get', 'I/Monica Geller', 'to sing Memories on the stage at the Wintergarden Theater', 's01_e21_c12_u009')
+  tuple: ('sing', 'I/Monica Geller', 'Memories', 's01_e21_c12_u009')
+  tuple: ('sing', 'I/Monica Geller', 'on the stage', 's01_e21_c12_u009')
+  tuple: ('sing', 'I/Monica Geller', 'at the Wintergarden Theater', 's01_e21_c12_u009')
+
+event_id: s01_e21_c12_u010_e1
+utterance_id: s01_e21_c12_u010
+  tuple: ('get', 'you/Monica Geller', "to sing 'Memo-'", 's01_e21_c12_u010')
+  tuple: ('sing', 'you/Monica Geller', "'Memo-'", 's01_e21_c12_u010')
+
+event_id: s01_e21_c12_u011_e1
+utterance_id: s01_e21_c12_u011
+  tuple: ('believe', 'I/Monica Geller', "you're in here", 's01_e21_c12_u011')
+  tuple: ('be', 'you/Fake Monica', 'in here', 's01_e21_c12_u011')
+
+event_id: s01_e21_c12_u011_e2
+utterance_id: s01_e21_c12_u011
+  tuple: ('do', 'I/Monica Geller', 'what', 's01_e21_c12_u011')
+  tuple: ('do', 'I/Monica Geller', 'without you', 's01_e21_c12_u011')
+
+event_id: s01_e21_c12_u011_e3
+utterance_id: s01_e21_c12_u011
+  tuple: ('crash', 'who', 'the embassy parties', 's01_e21_c12_u011')
+  tuple: ('crash', 'who', 'with me', 's01_e21_c12_u011')
+
+event_id: s01_e21_c12_u011_e4
+utterance_id: s01_e21_c12_u011
+  tuple: ('take', 'who', 'me', 's01_e21_c12_u011')
+  tuple: ('take', 'who', 'to the Big Apple Circus', 's01_e21_c12_u011')
+
+event_id: s01_e21_c12_u012_e1
+utterance_id: s01_e21_c12_u012
+  tuple: ('start', 'I/Fake Monica', 'my day', 's01_e21_c12_u012')
+  tuple: ('start', 'I/Fake Monica', 'by peeing in front of twenty-five other women', 's01_e21_c12_u012')
+  tuple: ('pee', 'I/Fake Monica', 'in front of twenty-five other women', 's01_e21_c12_u012')
+
+event_id: s01_e21_c12_u012_e2
+utterance_id: s01_e21_c12_u012
+  tuple: ('worry', 'you/Monica Geller', "about who's gonna take you to the Big Apple Circus", 's01_e21_c12_u012')
+
+event_id: s01_e21_c12_u012_e3
+utterance_id: s01_e21_c12_u012
+  tuple: ('take', 'who', 'you', 's01_e21_c12_u012')
+
+event_id: s01_e21_c12_u013_e1
+utterance_id: s01_e21_c12_u013
+  tuple: ('worry', 'I/Monica Geller', None, 's01_e21_c12_u013')
+
+event_id: s01_e21_c12_u013_e2
+utterance_id: s01_e21_c12_u013
+  tuple: ('wonder', 'I/Monica Geller', None, 's01_e21_c12_u013')
+
+event_id: s01_e21_c12_u014_e1
+utterance_id: s01_e21_c12_u014
+  tuple: ('be', 'there', 'nothing to wonder about', 's01_e21_c12_u014')
+  tuple: ('wonder', 'you/Monica Geller', 'about nothing', 's01_e21_c12_u014')
+
+event_id: s01_e21_c12_u014_e2
+utterance_id: s01_e21_c12_u014
+  tuple: ('go back', 'you/Monica Geller', 'to being exactly who you were', 's01_e21_c12_u014')
+  tuple: ('be', 'you/Monica Geller', 'exactly who you were', 's01_e21_c12_u014')
+
+event_id: s01_e21_c12_u014_e3
+utterance_id: s01_e21_c12_u014
+  tuple: ('be', 'you/Monica Geller', 'who', 's01_e21_c12_u014')
+  tuple: ('be', 'that', 'who you are', 's01_e21_c12_u014')
+
+event_id: s01_e21_c12_u016_e1
+utterance_id: s01_e21_c12_u016
+  tuple: ('know', 'I/Fake Monica', 'what it is', 's01_e21_c12_u016')
+  tuple: ('be', 'it', 'what', 's01_e21_c12_u016')
+
+event_id: s01_e21_c12_u016_e2
+utterance_id: s01_e21_c12_u016
+  tuple: ('be', 'it', 'the Amish thing', 's01_e21_c12_u016')
+
+event_id: s01_e21_c12_u017_e1
+utterance_id: s01_e21_c12_u017
+  tuple: ('be', 'I/Monica Geller', 'not actually Amish', 's01_e21_c12_u017')
+
+event_id: s01_e21_c12_u018_e1
+utterance_id: s01_e21_c12_u018
+  tuple: ('be', 'you/Monica Geller', 'like that', 's01_e21_c12_u018')
+

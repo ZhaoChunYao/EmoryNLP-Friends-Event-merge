@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very short, minimal replies ('So.', 'Sorry. You look good too.') and speaks sparingly until the key disclosure; not talkative or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is polite and considerate ('Sorry. You look good too.') and is straightforward and honest in sharing important news ('I'm pregnant.')."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Comes specifically to inform the other person about the pregnancy and states it clearly, showing responsibility and follow-through."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Hesitation and fillers ('Oh, and, uh -') and the tentative opener ('So.') suggest nervousness about the conversation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking; conversation stays on immediate personal matters without exploring ideas or new experiences."
+  }
+}

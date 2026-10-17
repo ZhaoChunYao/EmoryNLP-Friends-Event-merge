@@ -1,0 +1,201 @@
+('come', 'Chandler', None, 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('say', 'he/Chandler', 'he has this incredible news', 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('have', 'he/Chandler', 'this incredible news', 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('get', 'he/Chandler', 'here', 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('act', 'we/#ALL#', 'like you know', 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('know', 'you/#ALL#', None, 's01_e15_c03_u001')
+[s01_e15_c03_u001] Phoebe Buffay: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
+
+('mind', 'you/#ALL#', None, 's01_e15_c03_u005')
+[s01_e15_c03_u005] Phoebe Buffay: Never mind. But it was going to be really good.
+
+('be', 'it/(plan)', 'really good', 's01_e15_c03_u005')
+[s01_e15_c03_u005] Phoebe Buffay: Never mind. But it was going to be really good.
+
+('go on', 'what', None, 's01_e15_c03_u006')
+[s01_e15_c03_u006] Ross Geller: What's going on?
+
+('be', 'it/(news)', 'what', 's01_e15_c03_u007')
+[s01_e15_c03_u007] #ALL#: What is it?
+
+('be', 'it/(day)', 'a typical day', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('be', 'it/(day)', 'at work', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('input', 'I/Chandler', 'my numbers', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('call', 'Big Al', 'me', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('call', 'Big Al', 'into his office', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('tell', 'Big Al', 'me', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('tell', 'Big Al', 'he wants to make me processing supervisor', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('want', 'he/Big Al', 'to make me processing supervisor', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('make', 'he/Big Al', 'me processing supervisor', 's01_e15_c03_u008')
+[s01_e15_c03_u008] Chandler Bing: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.
+
+('be', 'that/(news)', 'great', 's01_e15_c03_u009')
+[s01_e15_c03_u009] #ALL#: That's great!
+
+('quit', 'I/Chandler', None, 's01_e15_c03_u010')
+[s01_e15_c03_u010] Chandler Bing: So.... I quit.
+
+('be', 'this/(job)', 'a temp job', 's01_e15_c03_u012')
+[s01_e15_c03_u012] Chandler Bing: Why? This was supposed to be a temp job!
+
+('be', 'you/Chandler', 'there', 's01_e15_c03_u013')
+[s01_e15_c03_u013] Monica Geller: Yeah, Chandler... you've been there for five years.
+
+('be', 'you/Chandler', 'for five years', 's01_e15_c03_u013')
+[s01_e15_c03_u013] Monica Geller: Yeah, Chandler... you've been there for five years.
+
+('take', 'I/Chandler', 'this promotion', 's01_e15_c03_u014')
+[s01_e15_c03_u014] Chandler Bing: If I took this promotion, it'd be like admitting that this is what I actually do.
+
+('be', 'it/(taking the promotion)', 'like admitting that this is what I actually do', 's01_e15_c03_u014')
+[s01_e15_c03_u014] Chandler Bing: If I took this promotion, it'd be like admitting that this is what I actually do.
+
+('admit', 'I/Chandler', 'that this is what I actually do', 's01_e15_c03_u014')
+[s01_e15_c03_u014] Chandler Bing: If I took this promotion, it'd be like admitting that this is what I actually do.
+
+('be', 'this/(job)', 'what I actually do', 's01_e15_c03_u014')
+[s01_e15_c03_u014] Chandler Bing: If I took this promotion, it'd be like admitting that this is what I actually do.
+
+('do', 'I/Chandler', 'what I actually do', 's01_e15_c03_u014')
+[s01_e15_c03_u014] Chandler Bing: If I took this promotion, it'd be like admitting that this is what I actually do.
+
+('be', 'it/(promotion)', 'a lot more money', 's01_e15_c03_u015')
+[s01_e15_c03_u015] Phoebe Buffay: So was it a lot more money?
+
+('matter', 'it/(money)', None, 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('want', 'I/Chandler', "to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS", 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('be', 'I/Chandler', "one of those guys that's in his office until twelve o'clock at night worrying about the WENUS", 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('be', 'those guys', 'in his office', 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('be', 'those guys', "until twelve o'clock at night", 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('worry', 'those guys', 'about the WENUS', 's01_e15_c03_u016')
+[s01_e15_c03_u016] Chandler Bing: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.
+
+('do', 'you/Chandler', 'what', 's01_e15_c03_u021')
+[s01_e15_c03_u021] Joey Tribbiani: So what're you going to do?
+
+('know', 'I/Chandler', None, 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('be', 'that/(situation)', 'the thing', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('know', 'I/Chandler', 'what I want to do', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('want', 'I/Chandler', 'to do what', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('do', 'I/Chandler', 'what', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('know', 'I/Chandler', "I'm not going to figure it out working there", 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('figure out', 'I/Chandler', 'it', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('work', 'I/Chandler', 'there', 's01_e15_c03_u022')
+[s01_e15_c03_u022] Chandler Bing: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.
+
+('have', 'I/Phoebe', 'something you can do', 's01_e15_c03_u023')
+[s01_e15_c03_u023] Phoebe Buffay: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.
+
+('do', 'you/Chandler', 'something', 's01_e15_c03_u023')
+[s01_e15_c03_u023] Phoebe Buffay: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.
+
+('have', 'I/Phoebe', 'this new massage client', 's01_e15_c03_u023')
+[s01_e15_c03_u023] Phoebe Buffay: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.
+
+('open up', 'he/Steve', 'a restaurant', 's01_e15_c03_u023')
+[s01_e15_c03_u023] Phoebe Buffay: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.
+
+('look', 'he/Steve', 'for a head chef', 's01_e15_c03_u023')
+[s01_e15_c03_u023] Phoebe Buffay: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.
+
+('know', 'I/Phoebe', None, 's01_e15_c03_u025')
+[s01_e15_c03_u025] Phoebe Buffay: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....
+
+('be', 'you/Monica', 'a chef', 's01_e15_c03_u025')
+[s01_e15_c03_u025] Phoebe Buffay: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....
+
+('think', 'I/Phoebe', 'of you', 's01_e15_c03_u025')
+[s01_e15_c03_u025] Phoebe Buffay: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....
+
+('be', 'Chandler', 'the one who needs a job right now', 's01_e15_c03_u025')
+[s01_e15_c03_u025] Phoebe Buffay: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....
+
+('need', 'Chandler', 'a job', 's01_e15_c03_u025')
+[s01_e15_c03_u025] Phoebe Buffay: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....
+
+('have', 'I/Chandler', 'that much cheffing experience', 's01_e15_c03_u026')
+[s01_e15_c03_u026] Chandler Bing: Yeah... I just don't have that much cheffing experience. Unless it's an all-toast restaurant.
+
+('be', 'it/(restaurant)', 'an all-toast restaurant', 's01_e15_c03_u026')
+[s01_e15_c03_u026] Chandler Bing: Yeah... I just don't have that much cheffing experience. Unless it's an all-toast restaurant.
+
+('look', 'he/Steve', 'for what kind of food', 's01_e15_c03_u028')
+[s01_e15_c03_u028] Monica Geller: Well, what kind of food is he looking for?
+
+('want', 'he/Steve', 'to do some ecclectic', 's01_e15_c03_u029')
+[s01_e15_c03_u029] Phoebe Buffay: Well, he wants to do some ecclectic, so he's looking for someone who can, you know, create the entire menu.
+
+('do', 'he/Steve', 'some ecclectic', 's01_e15_c03_u029')
+[s01_e15_c03_u029] Phoebe Buffay: Well, he wants to do some ecclectic, so he's looking for someone who can, you know, create the entire menu.
+
+('look', 'he/Steve', 'for someone', 's01_e15_c03_u029')
+[s01_e15_c03_u029] Phoebe Buffay: Well, he wants to do some ecclectic, so he's looking for someone who can, you know, create the entire menu.
+
+('create', 'someone', 'the entire menu', 's01_e15_c03_u029')
+[s01_e15_c03_u029] Phoebe Buffay: Well, he wants to do some ecclectic, so he's looking for someone who can, you know, create the entire menu.
+
+('think', 'you/Monica', 'what', 's01_e15_c03_u031')
+[s01_e15_c03_u031] Phoebe Buffay: Yeah, I know! So, what do you think?
+
+('thank', 'I/Chandler', 'Phoebe', 's01_e15_c03_u032')
+[s01_e15_c03_u032] Chandler Bing: Thanks, Phoebe. But I just don't really see myself in a big white hat.
+
+('see', 'I/Chandler', 'myself', 's01_e15_c03_u032')
+[s01_e15_c03_u032] Chandler Bing: Thanks, Phoebe. But I just don't really see myself in a big white hat.
+
+('see', 'I/Chandler', 'in a big white hat', 's01_e15_c03_u032')
+[s01_e15_c03_u032] Chandler Bing: Thanks, Phoebe. But I just don't really see myself in a big white hat.
+
+('guess', 'you/Monica', 'what', 's01_e15_c03_u033')
+[s01_e15_c03_u033] Phoebe Buffay: OK. Oh Monica! Guess what!
+

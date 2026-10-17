@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks only to clarify a point and list items for the ritual; no clear signs of outgoing or highly talkative behavior beyond functional contributions."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They cooperate with the group plan, quickly moving to contribute items (“Ok, Barry’s letters. Speaker_03’s boxer shorts.”) and are straightforward in communication."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They make a logical, goal-focused clarification (“if we had the semen… we wouldn’t be doing the ritual”) and then methodically list items to proceed with the task."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They remain calm and matter-of-fact—asserting a clear point and then proceeding without signs of anxiety or agitation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "They readily engage in an unusual ritual and suggest unconventional items to include, indicating openness to novel experiences."
+  }
+}

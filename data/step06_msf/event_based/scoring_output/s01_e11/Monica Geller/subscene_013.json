@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly states they got a foot massager and read to Speaker_02; not notably outgoing or talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Provides care and kindness—gave a foot massager, read to Speaker_02, and responds to thanks with “Oh, my pleasure,” indicating helpfulness and warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "While participating in caregiving, there’s no clear indication of organization or diligence beyond basic helpful acts."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, but also no strong display of confident assertiveness; emotional tone is neutral/polite."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Nothing in the exchange indicates curiosity, creativity, or dogmatism."
+  }
+}

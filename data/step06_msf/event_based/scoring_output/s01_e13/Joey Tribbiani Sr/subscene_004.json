@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge in the group and declares a plan (“We’ll go to a hotel”), speaking assertively for both."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for Speaker_03’s well-being by not wanting her to take the last train and proposing a considerate alternative."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Quickly organizes a practical solution (go to a hotel) to avoid missing the last train."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and confidently without showing worry or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking; the response is a straightforward, practical plan."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He engages in playful back-and-forth about choosing a name, states preferences (wants 'Joe'), and evaluates suggestions like 'Joe Stalin,' showing talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He cooperates with the other speaker’s suggestions and even agrees that 'Joe Stalin' is pretty good, showing compliance and lack of conflict."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He endorses 'Joe Stalin' as pretty good even though he only thinks the name sounds familiar, suggesting careless evaluation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "He expresses concern about sounding small ('Joey makes me sound very small') but asserts confidence ('I am not very small'); no clear signs of anxiety or strong emotionality."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He actively explores alternative names and is willing to consider unusual options (e.g., 'Joe Stalin'), indicating openness to new ideas."
+  }
+}

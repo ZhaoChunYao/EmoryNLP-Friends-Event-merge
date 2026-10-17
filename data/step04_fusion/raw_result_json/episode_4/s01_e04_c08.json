@@ -1,0 +1,91 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c08_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'you/(players)', 'him', 's01_e04_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('laugh', 'you/(pal)', None, 's01_e04_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c08_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('see', 'you/(Ross Geller)', None, 's01_e04_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'that', 'all you need', 's01_e04_c08_u002')",
+            "('need', 'you/(Ross Geller)', 'a bunch of toothless guys hitting each other with sticks', 's01_e04_c08_u002')",
+            "('hit', 'a bunch of toothless guys', 'each other', 's01_e04_c08_u002')",
+            "('hit', 'a bunch of toothless guys', 'with sticks', 's01_e04_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c08_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('pass', 'you/(players)', 'it', 's01_e04_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c08_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/(player)', 'open', 's01_e04_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c08_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('shoot', 'you/(players)', None, 's01_e04_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c08_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('look', 'you/(Ross Geller)', None, 's01_e04_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'we/(Chandler Bing and Ross Geller)', 'on that TV thing', 's01_e04_c08_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

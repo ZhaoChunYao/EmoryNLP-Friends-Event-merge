@@ -1,0 +1,103 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u001_e1",
+          "tuples": [
+            "('look', 'I/Joey Tribbiani', None, 's01_e14_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u002_e1",
+          "tuples": [
+            "('care', 'I/Chandler Bing', None, 's01_e14_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c03_u002_e2",
+          "tuples": [
+            "('remember', 'you/Joey Tribbiani', 'no trading', 's01_e14_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c03_u002_e3",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'the pretty one', 's01_e14_c03_u002')",
+            "('get', 'I/Chandler Bing', 'the mess', 's01_e14_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c03_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u003_e1",
+          "tuples": [
+            "('look', 'you/Joey Tribbiani', 'what you brought', 's01_e14_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c03_u003_e2",
+          "tuples": [
+            "('bring', 'you/Joey Tribbiani', 'what', 's01_e14_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u004_e1",
+          "tuples": [
+            "('bring', 'you/Lorraine', 'what', 's01_e14_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u005_e1",
+          "tuples": [
+            "('check', 'she/Janice Litman Goralnik', 'the coats', 's01_e14_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c03_u005_e2",
+          "tuples": [
+            "('go', 'I/Lorraine', 'wash the cab smell off my hands', 's01_e14_c03_u005')",
+            "('wash', 'I/Lorraine', 'the cab smell off my hands', 's01_e14_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c03_u005_e3",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'a white Zinfandel', 's01_e14_c03_u005')",
+            "('get', 'you/Joey Tribbiani', 'a glass of red for Janice', 's01_e14_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e14_c03_u009_e1",
+          "tuples": [
+            "('be', 'it/Janice Litman Goralnik', 'Janice', 's01_e14_c03_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

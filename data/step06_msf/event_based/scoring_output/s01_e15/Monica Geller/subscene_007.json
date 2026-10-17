@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is hosting a dinner and proactively coordinates with others—arranges help, agrees on pay, and sets a meeting time at eight."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker offers a small appetizer to cheer Speaker_02 and explains decisions politely and straightforwardly about choosing a professional waitress."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker organizes details meticulously—agrees on $10/hour, schedules, hires a professional because the dinner “has to go perfectly,” and explains the amuse-bouche."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and decisively, setting standards and logistics without showing worry or nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows interest in culinary sophistication by introducing and explaining a French amuse-bouche and structuring the meal."
+  }
+}

@@ -1,0 +1,150 @@
+('think', 'you/Phoebe Buffay', 'what', 's01_e21_c05_u001')
+[s01_e21_c05_u001] Monica Geller: What d'you think?
+
+('think', 'you/Monica Geller', 'which one', 's01_e21_c05_u004')
+[s01_e21_c05_u004] Rachel Green: Which one do you think she is?
+
+('be', 'she/(a woman in class)', 'which one', 's01_e21_c05_u004')
+[s01_e21_c05_u004] Rachel Green: Which one do you think she is?
+
+('help', 'I/Teacher', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 's01_e21_c05_u006')
+[s01_e21_c05_u006] Teacher: May I help you?
+
+('be', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', 'here', 's01_e21_c05_u007')
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+
+('observe', 'we/(Monica Geller+Rachel Green+Phoebe Buffay)', None, 's01_e21_c05_u007')
+[s01_e21_c05_u007] Monica Geller: Oh, no thanks, we're just here to observe.
+
+('observe', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'a dance class', 's01_e21_c05_u008')
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+
+('dance', 'you/(Monica Geller+Rachel Green+Phoebe Buffay)', 'a dance class', 's01_e21_c05_u008')
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+
+('be', 'spare shoes', 'over there', 's01_e21_c05_u008')
+[s01_e21_c05_u008] Teacher: You don't observe a dance class. You dance a dance class. Spare shoes are over there.
+
+('mean', 'she/Teacher', 'what', 's01_e21_c05_u009')
+[s01_e21_c05_u009] Rachel Green: What does she mean?
+
+('think', 'I/Phoebe Buffay', "she means 'You dance a dance class'", 's01_e21_c05_u010')
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+
+('mean', 'she/Teacher', "'You dance a dance class'", 's01_e21_c05_u010')
+[s01_e21_c05_u010] Phoebe Buffay: I think she means 'You dance a dance class'. Oh, c'mon, c'mon.
+
+('see', 'you/(Rachel Green+Phoebe Buffay)', 'anybody', 's01_e21_c05_u011')
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+
+('think', 'you/(Rachel Green+Phoebe Buffay)', 'anybody', 's01_e21_c05_u011')
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+
+('be', 'anybody/(a person in class)', 'me', 's01_e21_c05_u011')
+[s01_e21_c05_u011] Monica Geller: Okay, d'y'see anybody you think could be me?
+
+('be', 'there', 'some empty yoghurt containers', 's01_e21_c05_u012')
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+
+('lie', 'some empty yoghurt containers', 'around', 's01_e21_c05_u012')
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+
+('lie', 'some empty yoghurt containers', 'after class', 's01_e21_c05_u012')
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+
+('have', 'us/(class)', 'that happen again', 's01_e21_c05_u012')
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+
+('happen', 'that', None, 's01_e21_c05_u012')
+[s01_e21_c05_u012] Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!
+
+('be', 'she/(a woman in class)', 'you', 's01_e21_c05_u013')
+[s01_e21_c05_u013] Rachel Green: She could be you.
+
+('start', 'us/(class)', None, 's01_e21_c05_u015')
+[s01_e21_c05_u015] Teacher: Let's get started. Five, six, a-five six seven eight...
+
+('get', 'I/Monica Geller', 'this', 's01_e21_c05_u017')
+[s01_e21_c05_u017] Monica Geller: Okay, I'm not getting this!
+
+('get', 'I/Phoebe Buffay', 'it', 's01_e21_c05_u018')
+[s01_e21_c05_u018] Phoebe Buffay: I'm totally getting it!
+
+('feel', 'you/(Rachel Green+Phoebe Buffay)', 'like sometimes you are just so unbelievably uncoordinated', 's01_e21_c05_u019')
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+
+('be', 'you/(Rachel Green+Phoebe Buffay)', 'so unbelievably uncoordinated', 's01_e21_c05_u019')
+[s01_e21_c05_u019] Monica Geller: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+
+('click', 'you/Monica Geller', None, 's01_e21_c05_u021')
+[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+
+('click', 'they/(other dancers)', None, 's01_e21_c05_u021')
+[s01_e21_c05_u021] Rachel Green: What? You just click when they click.
+
+('grab', 'everyone/(class)', 'a partner', 's01_e21_c05_u022')
+[s01_e21_c05_u022] Teacher: Alright people, now everyone grab a partner.
+
+('say', 'my dead mother', 'you are it', 's01_e21_c05_u024')
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+
+('be', 'you/Monica Geller', 'it', 's01_e21_c05_u024')
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+
+('be', 'I/Phoebe Buffay', 'with Rachel', 's01_e21_c05_u024')
+[s01_e21_c05_u024] Phoebe Buffay: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.
+
+('be', 'it/(situation)', 'gym class', 's01_e21_c05_u025')
+[s01_e21_c05_u025] Monica Geller: Great. It's gym class all over again.
+
+('be', 'that/(situation)', 'all right', 's01_e21_c05_u027')
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+
+('come', 'you/Monica Geller', 'up to the front', 's01_e21_c05_u027')
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+
+('dance', 'you/Monica Geller', 'with me', 's01_e21_c05_u027')
+[s01_e21_c05_u027] Teacher: Well that's all right, you can come up to the front and dance with me.
+
+('take', 'I/Monica Geller', 'off my clothes', 's01_e21_c05_u028')
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+
+('have', 'I/Monica Geller', 'a nightmare', 's01_e21_c05_u028')
+[s01_e21_c05_u028] Monica Geller: Why don't I just take off my clothes and have a nightmare.
+
+('be', 'it/(situation)', 'okay', 's01_e21_c05_u030')
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+
+('be', 'I/Fake Monica', 'here', 's01_e21_c05_u030')
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+
+('be', 'I/Fake Monica', 'late', 's01_e21_c05_u030')
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+
+('be', 'who/(unknown person)', 'the new tense girl', 's01_e21_c05_u030')
+[s01_e21_c05_u030] Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?
+
+('be', 'she/Monica Geller', 'your partner', 's01_e21_c05_u031')
+[s01_e21_c05_u031] Teacher: She's your partner.
+
+('be', 'I/Fake Monica', 'Monica', 's01_e21_c05_u032')
+[s01_e21_c05_u032] Woman: Hi. I'm Monica.
+
+('be', 'I/Monica Geller', 'Monana', 's01_e21_c05_u033')
+[s01_e21_c05_u033] Monica Geller: Oh. Monica! ...Hi. I'm Mo- ...nana.
+
+('be', 'it/(the name "Monana")', 'Dutch', 's01_e21_c05_u035')
+[s01_e21_c05_u035] Monica Geller: Yeah. It's Dutch.
+
+('kid', 'you/Monica Geller', None, 's01_e21_c05_u036')
+[s01_e21_c05_u036] Fake Monica: You're kidding! I-I spent three years in Amsterdam.
+
+('spend', 'I/Fake Monica', 'three years', 's01_e21_c05_u036')
+[s01_e21_c05_u036] Fake Monica: You're kidding! I-I spent three years in Amsterdam.
+
+('spend', 'I/Fake Monica', 'in Amsterdam', 's01_e21_c05_u036')
+[s01_e21_c05_u036] Fake Monica: You're kidding! I-I spent three years in Amsterdam.
+
+('dance', 'we/(class)', None, 's01_e21_c05_u038')
+[s01_e21_c05_u038] Teacher: And we're dancing. A-five, six, seven, eight...
+

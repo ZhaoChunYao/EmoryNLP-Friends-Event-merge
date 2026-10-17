@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief, factual statements about phone calls; no clear sign of being outgoing or reserved beyond context-driven brevity."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shares useful information to others (“[Speaker_06] is calling from Rome,” “the call from Jack Geller is about Nana”), cooperating without conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "While concise, there is no clear indication of planning or organization beyond simply relaying information."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or distress; also no explicit display of confidence—neutral emotional tone."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity, imagination, or resistance to new ideas; statements are purely informational."
+  }
+}

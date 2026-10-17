@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly; offers encouragement but no clear sign of outgoing, energetic sociability beyond two short prompts."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Supports and reassures the other person: “You can, I know you can!” showing kindness and encouragement."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Asks “All right, [are you] ready?” which hints at organizing the task, but there’s insufficient evidence of planning or diligence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure under the other person’s anxiety: “You can, I know you can!” indicating security rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or unconventional thinking."
+  }
+}

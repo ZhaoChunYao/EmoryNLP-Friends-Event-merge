@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly corrects the baby name choice and later reacts to pain; there is no clear sign of outgoing or reserved social behavior beyond these functional statements."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker brings up that 'Jamie' was Speaker_03’s first girlfriend and asserts, 'we went back to' another name, pushing against others’ claims—more confrontational than accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Nothing in the snippet indicates organization/efficiency or sloppiness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly cries out about a leg cramp ('Ow, ow, ow…'), showing heightened distress and sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Stating a preference to return to a prior baby name shows a choice but not clear curiosity/creativity or dogmatism/caution."
+  }
+}

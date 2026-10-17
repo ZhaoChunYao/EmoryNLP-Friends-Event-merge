@@ -1,0 +1,201 @@
+('know', 'I/(Ross Geller)', "whether he's testing me, or just acting out", 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('test', 'he/(Marcel)', 'me', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('act out', 'he/(Marcel)', None, 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('be', 'my monkey', 'out of control', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('keep', 'he/(Marcel)', 'erasing the messages on my machine by accident', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('erase', 'he/(Marcel)', 'the messages', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('erase', 'he/(Marcel)', 'on my machine', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('erase', 'he/(Marcel)', 'by accident', 's01_e16_c02_u001')
+[s01_e16_c02_u001] Ross Geller: I dont know whether hes testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+
+('do', 'I/(Rachel Green)', 'that', 's01_e16_c02_u002')
+[s01_e16_c02_u002] Rachel Green: No, yeah, Ive done that.
+
+('get', 'he/(Marcel)', 'to the newspaper', 's01_e16_c02_u003')
+[s01_e16_c02_u003] Ross Geller: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.
+
+('do', 'I/(Ross Geller)', None, 's01_e16_c02_u003')
+[s01_e16_c02_u003] Ross Geller: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.
+
+('pee', 'he/(Marcel)', None, 's01_e16_c02_u003')
+[s01_e16_c02_u003] Ross Geller: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.
+
+('pee', 'he/(Marcel)', 'all over the crossword', 's01_e16_c02_u003')
+[s01_e16_c02_u003] Ross Geller: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.
+
+('do', 'I/(Rachel Green)', 'that', 's01_e16_c02_u004')
+[s01_e16_c02_u004] Rachel Green: Ive never done that.
+
+('look', 'you/(Joey Tribbiani)', 'at her', 's01_e16_c02_u006')
+[s01_e16_c02_u006] Chandler Bing: All right, now look at her and tell me she doesnt look exactly like her sister.
+
+('tell', 'you/(Joey Tribbiani)', 'me', 's01_e16_c02_u006')
+[s01_e16_c02_u006] Chandler Bing: All right, now look at her and tell me she doesnt look exactly like her sister.
+
+('look', 'she/(Ursula Buffay)', 'like her sister', 's01_e16_c02_u006')
+[s01_e16_c02_u006] Chandler Bing: All right, now look at her and tell me she doesnt look exactly like her sister.
+
+('say', 'I/(Joey Tribbiani)', 'I see a difference', 's01_e16_c02_u007')
+[s01_e16_c02_u007] Joey Tribbiani: Im sayin I see a difference.
+
+('see', 'I/(Joey Tribbiani)', 'a difference', 's01_e16_c02_u007')
+[s01_e16_c02_u007] Joey Tribbiani: Im sayin I see a difference.
+
+('be', 'they/(Ursula Buffay and Phoebe Buffay)', 'twins', 's01_e16_c02_u008')
+[s01_e16_c02_u008] Chandler Bing: Theyre twins!
+
+('care', 'I/(Joey Tribbiani)', None, 's01_e16_c02_u009')
+[s01_e16_c02_u009] Joey Tribbiani: I dont care. Phoebes Phoebe. Ursulas... hot!
+
+('be', 'Phoebe Buffay', 'Phoebe', 's01_e16_c02_u009')
+[s01_e16_c02_u009] Joey Tribbiani: I dont care. Phoebes Phoebe. Ursulas... hot!
+
+('be', 'Ursula Buffay', 'hot', 's01_e16_c02_u009')
+[s01_e16_c02_u009] Joey Tribbiani: I dont care. Phoebes Phoebe. Ursulas... hot!
+
+('know', 'you/(Joey Tribbiani)', 'that thing', 's01_e16_c02_u011')
+[s01_e16_c02_u011] Chandler Bing: You know that thing, when you and I talk to each other about things?
+
+('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', None, 's01_e16_c02_u011')
+[s01_e16_c02_u011] Chandler Bing: You know that thing, when you and I talk to each other about things?
+
+('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', 'to each other', 's01_e16_c02_u011')
+[s01_e16_c02_u011] Chandler Bing: You know that thing, when you and I talk to each other about things?
+
+('talk', 'you and I/(Joey Tribbiani and Chandler Bing)', 'about things', 's01_e16_c02_u011')
+[s01_e16_c02_u011] Chandler Bing: You know that thing, when you and I talk to each other about things?
+
+('let', 'us/(Chandler Bing and Joey Tribbiani)', 'not do that any more', 's01_e16_c02_u013')
+[s01_e16_c02_u013] Chandler Bing: Lets not do that any more.
+
+('do', 'we/(Chandler Bing and Joey Tribbiani)', 'that', 's01_e16_c02_u013')
+[s01_e16_c02_u013] Chandler Bing: Lets not do that any more.
+
+('guess', 'you/(Phoebe Buffay)', 'who we saw today', 's01_e16_c02_u016')
+[s01_e16_c02_u016] Joey Tribbiani: Hey Pheebs, guess who we saw today.
+
+('see', 'we/(Joey Tribbiani and Chandler Bing)', 'who', 's01_e16_c02_u016')
+[s01_e16_c02_u016] Joey Tribbiani: Hey Pheebs, guess who we saw today.
+
+('cut', 'the woman', 'my hair', 's01_e16_c02_u021')
+[s01_e16_c02_u021] Phoebe Buffay: The woman who cuts my hair!
+
+('look', 'you/(everyone)', None, 's01_e16_c02_u022')
+[s01_e16_c02_u022] Monica Geller: Okay, look, this could be a really long game.
+
+('be', 'this', 'a really long game', 's01_e16_c02_u022')
+[s01_e16_c02_u022] Monica Geller: Okay, look, this could be a really long game.
+
+('work', 'she/(Ursula Buffay)', 'over at that place', 's01_e16_c02_u025')
+[s01_e16_c02_u025] Chandler Bing: Yeah, yeah, she works over at that place, uh...
+
+('know', 'I/(Phoebe Buffay)', None, 's01_e16_c02_u026')
+[s01_e16_c02_u026] Phoebe Buffay: Rifts. Yeah, I know.
+
+('say', 'she/(Ursula Buffay)', "you guys haven't talked in like years", 's01_e16_c02_u027')
+[s01_e16_c02_u027] Chandler Bing: Oh, you do? Because she said you guys havent talked in like years.
+
+('talk', 'you guys/(Phoebe Buffay and Ursula Buffay)', 'in like years', 's01_e16_c02_u027')
+[s01_e16_c02_u027] Chandler Bing: Oh, you do? Because she said you guys havent talked in like years.
+
+('be', 'she/(Ursula Buffay)', 'fat', 's01_e16_c02_u028')
+[s01_e16_c02_u028] Phoebe Buffay: Hmmm? Yeah. So, um, is she fat?
+
+('stand', 'I/(Joey Tribbiani)', None, 's01_e16_c02_u029')
+[s01_e16_c02_u029] Joey Tribbiani: Not from where I was standin.
+
+('stand', 'you/(Joey Tribbiani)', None, 's01_e16_c02_u030')
+[s01_e16_c02_u030] Phoebe Buffay: where were you standing?
+
+('get along', 'you guys/(Phoebe Buffay and Ursula Buffay)', None, 's01_e16_c02_u031')
+[s01_e16_c02_u031] Rachel Green: Um, Pheebs, so, you guys just dont get along?
+
+('be', 'it', 'mostly just dumb sister stuff', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('think', 'everyone', None, 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('think', 'everyone', 'of her', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('think', 'everyone', 'as the pretty one', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('be', 'she/(Ursula Buffay)', 'the first one to start walking', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('start', 'she/(Ursula Buffay)', 'walking', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('walk', 'she/(Ursula Buffay)', None, 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('do', 'I/(Phoebe Buffay)', 'it', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('be', 'it', 'like yeah, right, well what else is new?', 's01_e16_c02_u032')
+[s01_e16_c02_u032] Phoebe Buffay: Its mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like "yeah, right, well what else is new?"
+
+('be', 'I/(Ross Geller)', 'sorry', 's01_e16_c02_u033')
+[s01_e16_c02_u033] Ross Geller: Oh, Pheebs, I'm sorry, Ive got to go. Ive got Lamaze class.
+
+('go', 'I/(Ross Geller)', None, 's01_e16_c02_u033')
+[s01_e16_c02_u033] Ross Geller: Oh, Pheebs, I'm sorry, Ive got to go. Ive got Lamaze class.
+
+('have', 'I/(Ross Geller)', 'Lamaze class', 's01_e16_c02_u033')
+[s01_e16_c02_u033] Ross Geller: Oh, Pheebs, I'm sorry, Ive got to go. Ive got Lamaze class.
+
+('have', 'I/(Chandler Bing)', 'Earth Science', 's01_e16_c02_u034')
+[s01_e16_c02_u034] Chandler Bing: Oh, and Ive got Earth Science, but I'll catch you in Gym.
+
+('catch', 'I/(Chandler Bing)', 'you', 's01_e16_c02_u034')
+[s01_e16_c02_u034] Chandler Bing: Oh, and Ive got Earth Science, but I'll catch you in Gym.
+
+('catch', 'I/(Chandler Bing)', 'in Gym', 's01_e16_c02_u034')
+[s01_e16_c02_u034] Chandler Bing: Oh, and Ive got Earth Science, but I'll catch you in Gym.
+
+('be', 'this', 'you and Carol', 's01_e16_c02_u035')
+[s01_e16_c02_u035] Rachel Green: So, is this just gonna be you and Carol?
+
+('be', 'Susan', 'there', 's01_e16_c02_u036')
+[s01_e16_c02_u036] Ross Geller: No, Susans gonna be there too. Weve got dads, weve got lesbians, the whole parenting team.
+
+('have', 'we/(Ross Geller, Carol, and Susan)', 'dads', 's01_e16_c02_u036')
+[s01_e16_c02_u036] Ross Geller: No, Susans gonna be there too. Weve got dads, weve got lesbians, the whole parenting team.
+
+('have', 'we/(Ross Geller, Carol, and Susan)', 'lesbians', 's01_e16_c02_u036')
+[s01_e16_c02_u036] Ross Geller: No, Susans gonna be there too. Weve got dads, weve got lesbians, the whole parenting team.
+
+('be', 'that', 'weird', 's01_e16_c02_u037')
+[s01_e16_c02_u037] Rachel Green: Well, isnt, isnt that gonna be weird?
+
+('be', 'it', None, 's01_e16_c02_u038')
+[s01_e16_c02_u038] Ross Geller: No, no. I mean, it mighta been at first, but by now I, I think I'm pretty comfortable with the whole situation.
+
+('think', 'I/(Ross Geller)', "I'm pretty comfortable with the whole situation", 's01_e16_c02_u038')
+[s01_e16_c02_u038] Ross Geller: No, no. I mean, it mighta been at first, but by now I, I think I'm pretty comfortable with the whole situation.
+
+('be', 'I/(Ross Geller)', 'pretty comfortable with the whole situation', 's01_e16_c02_u038')
+[s01_e16_c02_u038] Ross Geller: No, no. I mean, it mighta been at first, but by now I, I think I'm pretty comfortable with the whole situation.
+
+('be', 'that', 'my jacket', 's01_e16_c02_u039')
+[s01_e16_c02_u039] Monica Geller: Ross, thats my jacket.
+
+('know', 'I/(Ross Geller)', None, 's01_e16_c02_u040')
+[s01_e16_c02_u040] Ross Geller: I know.
+

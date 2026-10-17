@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Keeps the interaction going with Speaker_03, asks how they are doing, and assertively directs the server to bring champagne (“we want to get a bottle…”, confirms “each”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Expresses hostility and spite: hopes Speaker_02 will throw up on Speaker_01; calls Speaker_01 “not a friend” and “a stupid man”; decides to buy “the most overpriced champagne” on Speaker_01’s credit card."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless and impulsive behavior: doesn’t notice shirt sticking out of zipper; impulsively orders overpriced champagne on someone else’s card."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows strong negative affect and reactivity: “Oh, what a crappy night!” and vengeful wish that Speaker_02 throws up on Speaker_01."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Expresses curiosity and willingness to try things: “has always wanted to know about a [Speaker_04]” and orders extravagant champagne."
+  }
+}

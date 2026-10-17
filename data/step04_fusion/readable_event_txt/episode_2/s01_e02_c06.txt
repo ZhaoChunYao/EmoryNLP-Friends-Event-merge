@@ -1,0 +1,48 @@
+event_id: s01_e02_c06_u001_e1
+utterance_id: s01_e02_c06_u001
+  tuple: ('late', 'I/Ross Geller', None, 's01_e02_c06_u001')
+
+event_id: s01_e02_c06_u001_e2
+utterance_id: s01_e02_c06_u001
+  tuple: ('stuck', 'I/Ross Geller', 'at work', 's01_e02_c06_u001')
+
+event_id: s01_e02_c06_u001_e3
+utterance_id: s01_e02_c06_u001
+  tuple: ('be', 'there', 'this big dinosaur thing', 's01_e02_c06_u001')
+
+event_id: s01_e02_c06_u004_e1
+utterance_id: s01_e02_c06_u004
+  tuple: ('remember', 'you/Ross Geller', 'Susan', 's01_e02_c06_u004')
+
+event_id: s01_e02_c06_u005_e1
+utterance_id: s01_e02_c06_u005
+  tuple: ('forget', 'I/Ross Geller', None, 's01_e02_c06_u005')
+
+event_id: s01_e02_c06_u007_e1
+utterance_id: s01_e02_c06_u007
+  tuple: ('wait', 'we/Ross Geller, Carol Willick, Susan Bunch', 'for', 's01_e02_c06_u007')
+
+event_id: s01_e02_c06_u009_e1
+utterance_id: s01_e02_c06_u009
+  tuple: ('be', 'he/Dr. Oberman', None, 's01_e02_c06_u009')
+
+event_id: s01_e02_c06_u011_e1
+utterance_id: s01_e02_c06_u011
+  tuple: ('familiar', 'she/Dr. Oberman', 'with our special situation', 's01_e02_c06_u011')
+
+event_id: s01_e02_c06_u012_e1
+utterance_id: s01_e02_c06_u012
+  tuple: ('supportive', 'she/Dr. Oberman', 'very', 's01_e02_c06_u012')
+
+event_id: s01_e02_c06_u013_e1
+utterance_id: s01_e02_c06_u013
+  tuple: ('great', "that/Dr. Oberman's supportiveness", None, 's01_e02_c06_u013')
+
+event_id: s01_e02_c06_u013_e2
+utterance_id: s01_e02_c06_u013
+  tuple: ('be', 'I/Ross Geller', None, 's01_e02_c06_u013')
+
+event_id: s01_e02_c06_u016_e1
+utterance_id: s01_e02_c06_u016
+  tuple: ('open', 'that/Quack, quack (sound)', 'my cervix', 's01_e02_c06_u016')
+

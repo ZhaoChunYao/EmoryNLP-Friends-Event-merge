@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Asks multiple personal questions about Speaker_02’s feelings and immediately decides, “I have to talk to Speaker_02,” showing initiative to engage socially."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Neutral, cooperative tone but no strong evidence of either generosity/straightforwardness beyond basic sharing or of conflict/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Expresses a desire to talk right away, but there’s no clear indication of planning/organization or of carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows urgency without signs of anxiety, nervousness, or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Demonstrates curiosity and willingness to explore a new possibility by asking what else was said about feelings and whether Speaker_02 wants to go out."
+  }
+}

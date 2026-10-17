@@ -1,0 +1,190 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u001_e1",
+          "tuples": [
+            "('be', 'what/(the matter)', 'the matter', 's01_e20_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u002",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u002_e1",
+          "tuples": [
+            "('be', 'it/(the situation)', None, 's01_e20_c05_u002')",
+            "('be', 'this/(the situation)', 'not good', 's01_e20_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u003_e1",
+          "tuples": [
+            "('be', 'it/(sex)', 'very very good', 's01_e20_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u006_e1",
+          "tuples": [
+            "('mean', 'I/Rachel Green', None, 's01_e20_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u007",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u007_e1",
+          "tuples": [
+            "('want', 'you/Rachel Green', None, 's01_e20_c05_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u007_e2",
+          "tuples": [
+            "('break', 'I/Barry Farber', 'with her', 's01_e20_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u008_e1",
+          "tuples": [
+            "('do', 'you/Barry Farber', 'that', 's01_e20_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u008_e2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'for me', 's01_e20_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u009",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u009_e1",
+          "tuples": [
+            "('be', 'Bobby Rush', 'here', 's01_e20_c05_u009')",
+            "('be', 'Bobby Rush', 'for his adjustment', 's01_e20_c05_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u010",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u010_e1",
+          "tuples": [
+            "('go', 'we/(Barry Farber+Rachel Green)', 'away this weekend', 's01_e20_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u011_e1",
+          "tuples": [
+            "('come', 'you/Barry Farber', None, 's01_e20_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u012",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u012_e1",
+          "tuples": [
+            "('go', 'we/(Barry Farber+Rachel Green)', 'to Aruba', 's01_e20_c05_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u012_e2",
+          "tuples": [
+            "('go', 'I/Barry Farber', None, 's01_e20_c05_u012')",
+            "('go', 'I/Barry Farber', 'on what would have been our honeymoon', 's01_e20_c05_u012')",
+            "('be', 'what/(that trip)', 'our honeymoon', 's01_e20_c05_u012')",
+            "('be', 'it/(Aruba)', 'really nice', 's01_e20_c05_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u012_e3",
+          "tuples": [
+            "('like', 'you/Rachel Green', 'it/(Aruba)', 's01_e20_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u014",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u014_e1",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'a bra', 's01_e20_c05_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u018",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u018_e1",
+          "tuples": [
+            "('look', 'everything', 'fine', 's01_e20_c05_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u018_e2",
+          "tuples": [
+            "('think', 'I/Barry Farber', \"we're starting to see some real progress here\", 's01_e20_c05_u018')",
+            "('start', 'we/(Barry Farber+Rachel Green)', 'to see some real progress here', 's01_e20_c05_u018')",
+            "('see', 'we/(Barry Farber+Rachel Green)', 'some real progress', 's01_e20_c05_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c05_u021",
+      "events": [
+        {
+          "event_id": "s01_e20_c05_u021_e1",
+          "tuples": [
+            "('be', 'I/Bobby Rush', 'twelve', 's01_e20_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c05_u021_e2",
+          "tuples": [
+            "('be', 'I/Bobby Rush', 'not stupid', 's01_e20_c05_u021')"
+          ]
+        }
+      ]
+    }
+  ]
+}

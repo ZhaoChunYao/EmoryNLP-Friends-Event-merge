@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives brief, factual updates (turkey doneness, oven on, keys clarification) without clear signs of sociability or withdrawal."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "He corrects Speaker_01 about what he said ('Got the keys?' vs. 'Got the keys') but is not hostile or boastful; just a straightforward disagreement."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Group is waiting for him to open the door because he was believed to have the keys, but he doesn’t have them, and he notes the oven is currently on—suggesting careless oversight while locked out."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite the oven being on and access issue, he shows no visible anxiety or emotional reactivity; he speaks calmly and matter-of-factly."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments focus on practical details (turkey state, oven on, keys) with no display of curiosity, creativity, or dogmatism."
+  }
+}

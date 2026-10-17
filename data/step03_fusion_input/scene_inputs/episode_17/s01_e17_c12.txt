@@ -1,0 +1,111 @@
+('do', 'you/(Ursula Buffay)', 'what', 's01_e17_c12_u004')
+[s01_e17_c12_u004] Joey Tribbiani: ..ah, what're you doing here? I've been trying to call you.
+
+('try', 'I/(Joey Tribbiani)', 'call you', 's01_e17_c12_u004')
+[s01_e17_c12_u004] Joey Tribbiani: ..ah, what're you doing here? I've been trying to call you.
+
+('call', 'I/(Joey Tribbiani)', 'you', 's01_e17_c12_u004')
+[s01_e17_c12_u004] Joey Tribbiani: ..ah, what're you doing here? I've been trying to call you.
+
+('listen', 'you/(Joey Tribbiani)', None, 's01_e17_c12_u005')
+[s01_e17_c12_u005] Phoebe Buffay: Listen, um...
+
+('say', 'you/(Ursula Buffay)', 'listen', 's01_e17_c12_u006')
+[s01_e17_c12_u006] Joey Tribbiani: No, no, no, don't say "listen." I know that "listen." I've said that "listen."
+
+('know', 'I/(Joey Tribbiani)', 'listen', 's01_e17_c12_u006')
+[s01_e17_c12_u006] Joey Tribbiani: No, no, no, don't say "listen." I know that "listen." I've said that "listen."
+
+('say', 'I/(Joey Tribbiani)', 'listen', 's01_e17_c12_u006')
+[s01_e17_c12_u006] Joey Tribbiani: No, no, no, don't say "listen." I know that "listen." I've said that "listen."
+
+('be', 'I/(Phoebe Buffay)', 'sorry', 's01_e17_c12_u007')
+[s01_e17_c12_u007] Phoebe Buffay: I'm sorry.
+
+('get', 'I/(Joey Tribbiani)', 'it', 's01_e17_c12_u008')
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+
+('happen', 'what', None, 's01_e17_c12_u008')
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+
+('say', 'you/(Ursula Buffay)', 'everything', 's01_e17_c12_u008')
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+
+('say', 'you/(Ursula Buffay)', 'under the bridge', 's01_e17_c12_u008')
+[s01_e17_c12_u008] Joey Tribbiani: I don't get it. What happened? What about everything you said under the bridge?
+
+('know', 'you/(Joey Tribbiani)', None, 's01_e17_c12_u010')
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+
+('forget', 'you/(Joey Tribbiani)', 'about what I said under the bridge', 's01_e17_c12_u010')
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+
+('say', 'I/(Phoebe Buffay)', None, 's01_e17_c12_u010')
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+
+('say', 'I/(Phoebe Buffay)', 'under the bridge', 's01_e17_c12_u010')
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+
+('talk', 'I/(Phoebe Buffay)', 'crazy', 's01_e17_c12_u010')
+[s01_e17_c12_u010] Phoebe Buffay: : Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!
+
+('drink', 'you/(Ursula Buffay)', None, 's01_e17_c12_u011')
+[s01_e17_c12_u011] Joey Tribbiani: You don't drink.
+
+('be', 'that', 'right', 's01_e17_c12_u012')
+[s01_e17_c12_u012] Phoebe Buffay: That's right, I don't... But I was, I was drunk on you!
+
+('do', 'I/(Phoebe Buffay)', None, 's01_e17_c12_u012')
+[s01_e17_c12_u012] Phoebe Buffay: That's right, I don't... But I was, I was drunk on you!
+
+('be', 'I/(Phoebe Buffay)', 'drunk on you', 's01_e17_c12_u012')
+[s01_e17_c12_u012] Phoebe Buffay: That's right, I don't... But I was, I was drunk on you!
+
+('work', 'it', None, 's01_e17_c12_u014')
+[s01_e17_c12_u014] Phoebe Buffay: Okay, yeah, so it's not gonna work.
+
+('be', 'it', "because I'm friends with Phoebe", 's01_e17_c12_u015')
+[s01_e17_c12_u015] Joey Tribbiani: Why? Is it because I'm friends with Phoebe?
+
+('be', 'I/(Joey Tribbiani)', 'friends with Phoebe', 's01_e17_c12_u015')
+[s01_e17_c12_u015] Joey Tribbiani: Why? Is it because I'm friends with Phoebe?
+
+('be', 'it', None, 's01_e17_c12_u016')
+[s01_e17_c12_u016] Phoebe Buffay: If it was, would you stop hanging out with her?
+
+('stop', 'you/(Joey Tribbiani)', 'hanging out with her', 's01_e17_c12_u016')
+[s01_e17_c12_u016] Phoebe Buffay: If it was, would you stop hanging out with her?
+
+('hang out', 'you/(Joey Tribbiani)', 'with her', 's01_e17_c12_u016')
+[s01_e17_c12_u016] Phoebe Buffay: If it was, would you stop hanging out with her?
+
+('do', 'I/(Joey Tribbiani)', 'that', 's01_e17_c12_u017')
+[s01_e17_c12_u017] Joey Tribbiani: no. No, I, I couldn't do that.
+
+('be', 'it', 'either her or me', 's01_e17_c12_u018')
+[s01_e17_c12_u018] Phoebe Buffay: Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.
+
+('be', 'I/(Joey Tribbiani)', 'sorry', 's01_e17_c12_u019')
+[s01_e17_c12_u019] Joey Tribbiani: Then, uh, then I'm sorry.
+
+('be', 'you/(Joey Tribbiani)', 'really, really hard to get over', 's01_e17_c12_u021')
+[s01_e17_c12_u021] Phoebe Buffay: You know... You're gonna be really, really hard to get over.
+
+('get', 'I/(Phoebe Buffay)', 'over you', 's01_e17_c12_u021')
+[s01_e17_c12_u021] Phoebe Buffay: You know... You're gonna be really, really hard to get over.
+
+('know', 'I/(Joey Tribbiani)', None, 's01_e17_c12_u022')
+[s01_e17_c12_u022] Joey Tribbiani: I know...
+
+('know', 'I/(Joey Tribbiani)', "whether it's just 'cause we're breakin' up or what", 's01_e17_c12_u024')
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+
+('be', 'it', "just 'cause we're breakin' up", 's01_e17_c12_u024')
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+
+('break up', 'we/(Joey Tribbiani+Ursula Buffay)', None, 's01_e17_c12_u024')
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+
+('look', 'you/(Ursula Buffay)', 'so beautiful', 's01_e17_c12_u024')
+[s01_e17_c12_u024] Joey Tribbiani: I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.
+

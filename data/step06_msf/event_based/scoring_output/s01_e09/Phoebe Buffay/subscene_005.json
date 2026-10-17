@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker excitedly says “Ooh” and then narrates to the group that the neighbor is taking out a turkey, is not alone, and is having dinner with Ugly Naked Gal—sharing observations aloud in a lively group setting."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker says it’s nice that the neighbor has someone to share Thanksgiving with, expressing empathy and goodwill."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness; TargetSpeaker only comments on what they see."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or distress; tone is neutral/positive, but there’s insufficient evidence of strong confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Simply reports and accepts what is seen without showing curiosity, unconventional thinking, or resistance; no clear indicator either way."
+  }
+}

@@ -1,0 +1,670 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s01_e09,s01_e09_c01,Rachel Green,0,0,0,0,0,3,s01_e09_c01_u001,s01_e09_c01_u005,"[s01_e09_c01_u001] Rachel Green: Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?
+[s01_e09_c01_u002] Terry: An advance?
+[s01_e09_c01_u003] Rachel Green: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
+[s01_e09_c01_u004] Terry: Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful.
+[s01_e09_c01_u005] Rachel Green: Ok, I, I hear what you're sayin'. I'm with you. Um, but I, but I'm trying really hard. And I think I'm doing better. I really do. Does anybody need coffee? Oh, look at that."
+s01_e09,s01_e09_c01,Terry,0,0,0,0,0,2,s01_e09_c01_u001,s01_e09_c01_u005,"[s01_e09_c01_u001] Rachel Green: Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?
+[s01_e09_c01_u002] Terry: An advance?
+[s01_e09_c01_u003] Rachel Green: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
+[s01_e09_c01_u004] Terry: Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful.
+[s01_e09_c01_u005] Rachel Green: Ok, I, I hear what you're sayin'. I'm with you. Um, but I, but I'm trying really hard. And I think I'm doing better. I really do. Does anybody need coffee? Oh, look at that."
+s01_e09,s01_e09_c02,Chandler Bing,0,10,14,9,15,3,s01_e09_c02_u011,s01_e09_c02_u022,"[s01_e09_c02_u011] Monica Geller: No, I just talked to them.
+[s01_e09_c02_u012] Ross Geller: I'm calling Mom.
+[s01_e09_c02_u013] Unknown Speaker: 
+[s01_e09_c02_u014] Joey Tribbiani: Hey, hey.
+[s01_e09_c02_u015] Chandler Bing: Hey.
+[s01_e09_c02_u016] Phoebe Buffay: Hey.
+[s01_e09_c02_u017] Chandler Bing: And this from the cry-for-help department. Are you wearing makeup?
+[s01_e09_c02_u018] Joey Tribbiani: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.
+[s01_e09_c02_u019] Chandler Bing: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.
+[s01_e09_c02_u020] Phoebe Buffay: What were you modeling for?
+[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?
+[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?"
+s01_e09,s01_e09_c02,Chandler Bing,1,19,21,18,22,2,s01_e09_c02_u021,s01_e09_c02_u030,"[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?
+[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?
+[s01_e09_c02_u023] Phoebe Buffay: You know, the asthma guy was really cute.
+[s01_e09_c02_u024] Chandler Bing: Do you know which one you're gonna be?
+[s01_e09_c02_u025] Joey Tribbiani: No, but I hear lyme disease is open, so...
+[s01_e09_c02_u026] Chandler Bing: Good luck, man. I hope you get it.
+[s01_e09_c02_u027] Joey Tribbiani: Thanks.
+[s01_e09_c02_u028] Unknown Speaker: 
+[s01_e09_c02_u029] Ross Geller: Well, you were right. How can they do this to us, huh? It's Thanksgiving.
+[s01_e09_c02_u030] Monica Geller: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's."
+s01_e09,s01_e09_c02,Joey Tribbiani,0,11,11,10,12,2,s01_e09_c02_u012,s01_e09_c02_u019,"[s01_e09_c02_u012] Ross Geller: I'm calling Mom.
+[s01_e09_c02_u013] Unknown Speaker: 
+[s01_e09_c02_u014] Joey Tribbiani: Hey, hey.
+[s01_e09_c02_u015] Chandler Bing: Hey.
+[s01_e09_c02_u016] Phoebe Buffay: Hey.
+[s01_e09_c02_u017] Chandler Bing: And this from the cry-for-help department. Are you wearing makeup?
+[s01_e09_c02_u018] Joey Tribbiani: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.
+[s01_e09_c02_u019] Chandler Bing: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman."
+s01_e09,s01_e09_c02,Joey Tribbiani,1,14,15,13,16,2,s01_e09_c02_u016,s01_e09_c02_u023,"[s01_e09_c02_u016] Phoebe Buffay: Hey.
+[s01_e09_c02_u017] Chandler Bing: And this from the cry-for-help department. Are you wearing makeup?
+[s01_e09_c02_u018] Joey Tribbiani: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.
+[s01_e09_c02_u019] Chandler Bing: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.
+[s01_e09_c02_u020] Phoebe Buffay: What were you modeling for?
+[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?
+[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?
+[s01_e09_c02_u023] Phoebe Buffay: You know, the asthma guy was really cute."
+s01_e09,s01_e09_c02,Joey Tribbiani,2,18,18,17,19,2,s01_e09_c02_u020,s01_e09_c02_u026,"[s01_e09_c02_u020] Phoebe Buffay: What were you modeling for?
+[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?
+[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?
+[s01_e09_c02_u023] Phoebe Buffay: You know, the asthma guy was really cute.
+[s01_e09_c02_u024] Chandler Bing: Do you know which one you're gonna be?
+[s01_e09_c02_u025] Joey Tribbiani: No, but I hear lyme disease is open, so...
+[s01_e09_c02_u026] Chandler Bing: Good luck, man. I hope you get it."
+s01_e09,s01_e09_c02,Joey Tribbiani,3,20,22,19,23,2,s01_e09_c02_u022,s01_e09_c02_u031,"[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?
+[s01_e09_c02_u023] Phoebe Buffay: You know, the asthma guy was really cute.
+[s01_e09_c02_u024] Chandler Bing: Do you know which one you're gonna be?
+[s01_e09_c02_u025] Joey Tribbiani: No, but I hear lyme disease is open, so...
+[s01_e09_c02_u026] Chandler Bing: Good luck, man. I hope you get it.
+[s01_e09_c02_u027] Joey Tribbiani: Thanks.
+[s01_e09_c02_u028] Unknown Speaker: 
+[s01_e09_c02_u029] Ross Geller: Well, you were right. How can they do this to us, huh? It's Thanksgiving.
+[s01_e09_c02_u030] Monica Geller: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.
+[s01_e09_c02_u031] Ross Geller: Will you make the mashed potatoes with the lumps?"
+s01_e09,s01_e09_c02,Monica Geller,0,1,7,0,8,3,s01_e09_c02_u001,s01_e09_c02_u015,"[s01_e09_c02_u001] Rachel Green: Excuse me, sir. Hi, you come in here all time. I was just wondering, do you think there's a possibility that you could give me an advance on my tips?
+[s01_e09_c02_u002] Guy: Huh?
+[s01_e09_c02_u003] Rachel Green: Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. Only $98.50 to go.
+[s01_e09_c02_u004] Unknown Speaker: 
+[s01_e09_c02_u005] Monica Geller: Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?
+[s01_e09_c02_u006] Ross Geller: No, they're not.
+[s01_e09_c02_u007] Monica Geller: Yes, they are. The Blymens invited them.
+[s01_e09_c02_u008] Ross Geller: You're wrong.
+[s01_e09_c02_u009] Monica Geller: I am not wrong.
+[s01_e09_c02_u010] Ross Geller: You're wrong.
+[s01_e09_c02_u011] Monica Geller: No, I just talked to them.
+[s01_e09_c02_u012] Ross Geller: I'm calling Mom.
+[s01_e09_c02_u013] Unknown Speaker: 
+[s01_e09_c02_u014] Joey Tribbiani: Hey, hey.
+[s01_e09_c02_u015] Chandler Bing: Hey."
+s01_e09,s01_e09_c02,Monica Geller,1,24,34,23,35,3,s01_e09_c02_u026,s01_e09_c02_u043,"[s01_e09_c02_u026] Chandler Bing: Good luck, man. I hope you get it.
+[s01_e09_c02_u027] Joey Tribbiani: Thanks.
+[s01_e09_c02_u028] Unknown Speaker: 
+[s01_e09_c02_u029] Ross Geller: Well, you were right. How can they do this to us, huh? It's Thanksgiving.
+[s01_e09_c02_u030] Monica Geller: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.
+[s01_e09_c02_u031] Ross Geller: Will you make the mashed potatoes with the lumps?
+[s01_e09_c02_u032] Monica Geller: You know, they're not actually supposed to have... I'll work on the lumps. Joey, you're going home, right?
+[s01_e09_c02_u033] Joey Tribbiani: Yeah.
+[s01_e09_c02_u034] Monica Geller: And I assume, Chandler, you are still boycotting all the pilgrim holidays.
+[s01_e09_c02_u035] Chandler Bing: Yes, every single one of them.
+[s01_e09_c02_u036] Monica Geller: Phoebe, you're gonna be with your grandma?
+[s01_e09_c02_u037] Phoebe Buffay: Yes, and her boyfriend. But we're celebrating Thanksgiving in December 'cause he is lunar.
+[s01_e09_c02_u038] Monica Geller: So you're free Thursday, then.
+[s01_e09_c02_u039] Phoebe Buffay: Yeah. Oh, can I come?
+[s01_e09_c02_u040] Monica Geller: Yeah. Rach, are you thinking you're gonna make it to Vail?
+[s01_e09_c02_u041] Rachel Green: Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.
+[s01_e09_c02_u042] Chandler Bing: I thought it was $98.50.
+[s01_e09_c02_u043] Rachel Green: Yeah, well it was. I, I broke a cup."
+s01_e09,s01_e09_c02,Phoebe Buffay,0,13,13,12,14,2,s01_e09_c02_u015,s01_e09_c02_u021,"[s01_e09_c02_u015] Chandler Bing: Hey.
+[s01_e09_c02_u016] Phoebe Buffay: Hey.
+[s01_e09_c02_u017] Chandler Bing: And this from the cry-for-help department. Are you wearing makeup?
+[s01_e09_c02_u018] Joey Tribbiani: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.
+[s01_e09_c02_u019] Chandler Bing: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.
+[s01_e09_c02_u020] Phoebe Buffay: What were you modeling for?
+[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?"
+s01_e09,s01_e09_c02,Phoebe Buffay,1,16,17,15,18,2,s01_e09_c02_u018,s01_e09_c02_u025,"[s01_e09_c02_u018] Joey Tribbiani: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.
+[s01_e09_c02_u019] Chandler Bing: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.
+[s01_e09_c02_u020] Phoebe Buffay: What were you modeling for?
+[s01_e09_c02_u021] Joey Tribbiani: You know those posters for the city free clinic?
+[s01_e09_c02_u022] Monica Geller: Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?
+[s01_e09_c02_u023] Phoebe Buffay: You know, the asthma guy was really cute.
+[s01_e09_c02_u024] Chandler Bing: Do you know which one you're gonna be?
+[s01_e09_c02_u025] Joey Tribbiani: No, but I hear lyme disease is open, so..."
+s01_e09,s01_e09_c02,Phoebe Buffay,2,31,33,30,34,2,s01_e09_c02_u034,s01_e09_c02_u042,"[s01_e09_c02_u034] Monica Geller: And I assume, Chandler, you are still boycotting all the pilgrim holidays.
+[s01_e09_c02_u035] Chandler Bing: Yes, every single one of them.
+[s01_e09_c02_u036] Monica Geller: Phoebe, you're gonna be with your grandma?
+[s01_e09_c02_u037] Phoebe Buffay: Yes, and her boyfriend. But we're celebrating Thanksgiving in December 'cause he is lunar.
+[s01_e09_c02_u038] Monica Geller: So you're free Thursday, then.
+[s01_e09_c02_u039] Phoebe Buffay: Yeah. Oh, can I come?
+[s01_e09_c02_u040] Monica Geller: Yeah. Rach, are you thinking you're gonna make it to Vail?
+[s01_e09_c02_u041] Rachel Green: Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.
+[s01_e09_c02_u042] Chandler Bing: I thought it was $98.50."
+s01_e09,s01_e09_c02,Rachel Green,0,0,0,0,1,2,s01_e09_c02_u001,s01_e09_c02_u007,"[s01_e09_c02_u001] Rachel Green: Excuse me, sir. Hi, you come in here all time. I was just wondering, do you think there's a possibility that you could give me an advance on my tips?
+[s01_e09_c02_u002] Guy: Huh?
+[s01_e09_c02_u003] Rachel Green: Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. Only $98.50 to go.
+[s01_e09_c02_u004] Unknown Speaker: 
+[s01_e09_c02_u005] Monica Geller: Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?
+[s01_e09_c02_u006] Ross Geller: No, they're not.
+[s01_e09_c02_u007] Monica Geller: Yes, they are. The Blymens invited them."
+s01_e09,s01_e09_c02,Rachel Green,1,35,37,34,38,2,s01_e09_c02_u038,s01_e09_c02_u046,"[s01_e09_c02_u038] Monica Geller: So you're free Thursday, then.
+[s01_e09_c02_u039] Phoebe Buffay: Yeah. Oh, can I come?
+[s01_e09_c02_u040] Monica Geller: Yeah. Rach, are you thinking you're gonna make it to Vail?
+[s01_e09_c02_u041] Rachel Green: Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.
+[s01_e09_c02_u042] Chandler Bing: I thought it was $98.50.
+[s01_e09_c02_u043] Rachel Green: Yeah, well it was. I, I broke a cup.
+[s01_e09_c02_u044] Ross Geller: Well, I'm off to Carol's.
+[s01_e09_c02_u045] Phoebe Buffay: Ooh, ooh! Why don't we invite her?
+[s01_e09_c02_u046] Ross Geller: Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner."
+s01_e09,s01_e09_c02,Ross Geller,0,2,8,1,9,3,s01_e09_c02_u002,s01_e09_c02_u016,"[s01_e09_c02_u002] Guy: Huh?
+[s01_e09_c02_u003] Rachel Green: Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. Only $98.50 to go.
+[s01_e09_c02_u004] Unknown Speaker: 
+[s01_e09_c02_u005] Monica Geller: Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?
+[s01_e09_c02_u006] Ross Geller: No, they're not.
+[s01_e09_c02_u007] Monica Geller: Yes, they are. The Blymens invited them.
+[s01_e09_c02_u008] Ross Geller: You're wrong.
+[s01_e09_c02_u009] Monica Geller: I am not wrong.
+[s01_e09_c02_u010] Ross Geller: You're wrong.
+[s01_e09_c02_u011] Monica Geller: No, I just talked to them.
+[s01_e09_c02_u012] Ross Geller: I'm calling Mom.
+[s01_e09_c02_u013] Unknown Speaker: 
+[s01_e09_c02_u014] Joey Tribbiani: Hey, hey.
+[s01_e09_c02_u015] Chandler Bing: Hey.
+[s01_e09_c02_u016] Phoebe Buffay: Hey."
+s01_e09,s01_e09_c02,Ross Geller,1,23,25,22,26,2,s01_e09_c02_u025,s01_e09_c02_u034,"[s01_e09_c02_u025] Joey Tribbiani: No, but I hear lyme disease is open, so...
+[s01_e09_c02_u026] Chandler Bing: Good luck, man. I hope you get it.
+[s01_e09_c02_u027] Joey Tribbiani: Thanks.
+[s01_e09_c02_u028] Unknown Speaker: 
+[s01_e09_c02_u029] Ross Geller: Well, you were right. How can they do this to us, huh? It's Thanksgiving.
+[s01_e09_c02_u030] Monica Geller: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.
+[s01_e09_c02_u031] Ross Geller: Will you make the mashed potatoes with the lumps?
+[s01_e09_c02_u032] Monica Geller: You know, they're not actually supposed to have... I'll work on the lumps. Joey, you're going home, right?
+[s01_e09_c02_u033] Joey Tribbiani: Yeah.
+[s01_e09_c02_u034] Monica Geller: And I assume, Chandler, you are still boycotting all the pilgrim holidays."
+s01_e09,s01_e09_c02,Ross Geller,2,38,38,37,38,2,s01_e09_c02_u041,s01_e09_c02_u046,"[s01_e09_c02_u041] Rachel Green: Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.
+[s01_e09_c02_u042] Chandler Bing: I thought it was $98.50.
+[s01_e09_c02_u043] Rachel Green: Yeah, well it was. I, I broke a cup.
+[s01_e09_c02_u044] Ross Geller: Well, I'm off to Carol's.
+[s01_e09_c02_u045] Phoebe Buffay: Ooh, ooh! Why don't we invite her?
+[s01_e09_c02_u046] Ross Geller: Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner."
+s01_e09,s01_e09_c03,Ross Geller,0,0,14,0,14,3,s01_e09_c03_u001,s01_e09_c03_u019,"[s01_e09_c03_u001] Ross Geller: Hi, is uh, is Carol here?
+[s01_e09_c03_u002] Susan Bunch: No, she's at a faculty meeting.
+[s01_e09_c03_u003] Ross Geller: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+[s01_e09_c03_u004] Ross Geller: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+[s01_e09_c03_u005] Susan Bunch: What's it look like?
+[s01_e09_c03_u006] Ross Geller: Kinda like a big face without skin.
+[s01_e09_c03_u007] Susan Bunch: Yes, I'm familiar with the concept. We can just look for it.
+[s01_e09_c03_u008] Ross Geller: Ok. Wow, you guys sure have a lot of books about bein' a lesbian.
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+[s01_e09_c03_u010] Ross Geller: Hey, hey, Yertle the Turtle. A classic.
+[s01_e09_c03_u011] Susan Bunch: Actually, I'm reading it to the baby.
+[s01_e09_c03_u012] Ross Geller: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+[s01_e09_c03_u013] Susan Bunch: What, you don't think they can hear sounds in there?
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+[s01_e09_c03_u015] Susan Bunch: Yeah, all the time. I want the baby to know my voice.
+[s01_e09_c03_u016] Ross Geller: Do you uh, do you talk about me?
+[s01_e09_c03_u017] Susan Bunch: Yeah, yeah, all the time.
+[s01_e09_c03_u018] Ross Geller: Really?
+[s01_e09_c03_u019] Susan Bunch: But um, we just refer to you as Bobo the Sperm Guy."
+s01_e09,s01_e09_c03,Susan Bunch,0,0,14,0,14,3,s01_e09_c03_u001,s01_e09_c03_u019,"[s01_e09_c03_u001] Ross Geller: Hi, is uh, is Carol here?
+[s01_e09_c03_u002] Susan Bunch: No, she's at a faculty meeting.
+[s01_e09_c03_u003] Ross Geller: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+[s01_e09_c03_u004] Ross Geller: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+[s01_e09_c03_u005] Susan Bunch: What's it look like?
+[s01_e09_c03_u006] Ross Geller: Kinda like a big face without skin.
+[s01_e09_c03_u007] Susan Bunch: Yes, I'm familiar with the concept. We can just look for it.
+[s01_e09_c03_u008] Ross Geller: Ok. Wow, you guys sure have a lot of books about bein' a lesbian.
+[s01_e09_c03_u009] Susan Bunch: Well, you know, you have to take a course. Otherwise, they don't let you do it.
+[s01_e09_c03_u010] Ross Geller: Hey, hey, Yertle the Turtle. A classic.
+[s01_e09_c03_u011] Susan Bunch: Actually, I'm reading it to the baby.
+[s01_e09_c03_u012] Ross Geller: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+[s01_e09_c03_u013] Susan Bunch: What, you don't think they can hear sounds in there?
+[s01_e09_c03_u014] Ross Geller: You're not serious, I mean, you really... you really talk to it?
+[s01_e09_c03_u015] Susan Bunch: Yeah, all the time. I want the baby to know my voice.
+[s01_e09_c03_u016] Ross Geller: Do you uh, do you talk about me?
+[s01_e09_c03_u017] Susan Bunch: Yeah, yeah, all the time.
+[s01_e09_c03_u018] Ross Geller: Really?
+[s01_e09_c03_u019] Susan Bunch: But um, we just refer to you as Bobo the Sperm Guy."
+s01_e09,s01_e09_c04,Chandler Bing,0,15,17,14,17,3,s01_e09_c04_u017,s01_e09_c04_u024,"[s01_e09_c04_u017] Rachel Green: Thank you. Thank you so much!
+[s01_e09_c04_u018] Monica Geller: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+[s01_e09_c04_u019] Rachel Green: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?
+[s01_e09_c04_u020] Chandler Bing: All right, I'm nine years old.
+[s01_e09_c04_u021] Ross Geller: Oh, I hate this story.
+[s01_e09_c04_u022] Chandler Bing: We just finished this magnificent Thanksgiving dinner. I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.
+[s01_e09_c04_u023] Rachel Green: Oh my god.
+[s01_e09_c04_u024] Chandler Bing: Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse."
+s01_e09,s01_e09_c04,Monica Geller,0,1,13,0,14,3,s01_e09_c04_u001,s01_e09_c04_u021,"[s01_e09_c04_u001] Ross Geller: Look, if she's talking to it, I just think that I should get some belly time too. Not that I believe any of this.
+[s01_e09_c04_u002] Phoebe Buffay: Oh, I believe it. I think the baby can totally hear everything. I can show you. Look, this will seem a little weird, but you put your head inside this turkey, and then we'll all talk, and you'll hear everything we say.
+[s01_e09_c04_u003] Chandler Bing: I'd just like to say that I'm totally behind this experiment. In fact, I'd very much like to butter your head.
+[s01_e09_c04_u004] Unknown Speaker: 
+[s01_e09_c04_u005] Monica Geller: Hey, Rach, did you make your money?
+[s01_e09_c04_u006] Rachel Green: No, not even close. Forget Vail, forget seeing my family, forget shoop, shoop, shoop.
+[s01_e09_c04_u007] Monica Geller: Rach, here's your mail.
+[s01_e09_c04_u008] Rachel Green: Thanks, you can just put it on the table.
+[s01_e09_c04_u009] Monica Geller: No, here's your mail.
+[s01_e09_c04_u010] Rachel Green: Thanks, you can just put it on the table.
+[s01_e09_c04_u011] Monica Geller: Would you just open it?
+[s01_e09_c04_u012] Unknown Speaker: 
+[s01_e09_c04_u013] Rachel Green: Oh my god, oh, you guys are great.
+[s01_e09_c04_u014] Monica Geller: We all chipped in.
+[s01_e09_c04_u015] Joey Tribbiani: We did?
+[s01_e09_c04_u016] Monica Geller: You owe me 20 bucks.
+[s01_e09_c04_u017] Rachel Green: Thank you. Thank you so much!
+[s01_e09_c04_u018] Monica Geller: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+[s01_e09_c04_u019] Rachel Green: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?
+[s01_e09_c04_u020] Chandler Bing: All right, I'm nine years old.
+[s01_e09_c04_u021] Ross Geller: Oh, I hate this story."
+s01_e09,s01_e09_c04,Rachel Green,0,2,8,1,9,3,s01_e09_c04_u002,s01_e09_c04_u016,"[s01_e09_c04_u002] Phoebe Buffay: Oh, I believe it. I think the baby can totally hear everything. I can show you. Look, this will seem a little weird, but you put your head inside this turkey, and then we'll all talk, and you'll hear everything we say.
+[s01_e09_c04_u003] Chandler Bing: I'd just like to say that I'm totally behind this experiment. In fact, I'd very much like to butter your head.
+[s01_e09_c04_u004] Unknown Speaker: 
+[s01_e09_c04_u005] Monica Geller: Hey, Rach, did you make your money?
+[s01_e09_c04_u006] Rachel Green: No, not even close. Forget Vail, forget seeing my family, forget shoop, shoop, shoop.
+[s01_e09_c04_u007] Monica Geller: Rach, here's your mail.
+[s01_e09_c04_u008] Rachel Green: Thanks, you can just put it on the table.
+[s01_e09_c04_u009] Monica Geller: No, here's your mail.
+[s01_e09_c04_u010] Rachel Green: Thanks, you can just put it on the table.
+[s01_e09_c04_u011] Monica Geller: Would you just open it?
+[s01_e09_c04_u012] Unknown Speaker: 
+[s01_e09_c04_u013] Rachel Green: Oh my god, oh, you guys are great.
+[s01_e09_c04_u014] Monica Geller: We all chipped in.
+[s01_e09_c04_u015] Joey Tribbiani: We did?
+[s01_e09_c04_u016] Monica Geller: You owe me 20 bucks."
+s01_e09,s01_e09_c04,Rachel Green,1,10,10,9,11,2,s01_e09_c04_u011,s01_e09_c04_u018,"[s01_e09_c04_u011] Monica Geller: Would you just open it?
+[s01_e09_c04_u012] Unknown Speaker: 
+[s01_e09_c04_u013] Rachel Green: Oh my god, oh, you guys are great.
+[s01_e09_c04_u014] Monica Geller: We all chipped in.
+[s01_e09_c04_u015] Joey Tribbiani: We did?
+[s01_e09_c04_u016] Monica Geller: You owe me 20 bucks.
+[s01_e09_c04_u017] Rachel Green: Thank you. Thank you so much!
+[s01_e09_c04_u018] Monica Geller: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns."
+s01_e09,s01_e09_c04,Rachel Green,2,12,14,11,15,2,s01_e09_c04_u014,s01_e09_c04_u022,"[s01_e09_c04_u014] Monica Geller: We all chipped in.
+[s01_e09_c04_u015] Joey Tribbiani: We did?
+[s01_e09_c04_u016] Monica Geller: You owe me 20 bucks.
+[s01_e09_c04_u017] Rachel Green: Thank you. Thank you so much!
+[s01_e09_c04_u018] Monica Geller: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+[s01_e09_c04_u019] Rachel Green: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?
+[s01_e09_c04_u020] Chandler Bing: All right, I'm nine years old.
+[s01_e09_c04_u021] Ross Geller: Oh, I hate this story.
+[s01_e09_c04_u022] Chandler Bing: We just finished this magnificent Thanksgiving dinner. I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced."
+s01_e09,s01_e09_c04,Rachel Green,3,16,16,15,17,2,s01_e09_c04_u018,s01_e09_c04_u024,"[s01_e09_c04_u018] Monica Geller: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+[s01_e09_c04_u019] Rachel Green: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?
+[s01_e09_c04_u020] Chandler Bing: All right, I'm nine years old.
+[s01_e09_c04_u021] Ross Geller: Oh, I hate this story.
+[s01_e09_c04_u022] Chandler Bing: We just finished this magnificent Thanksgiving dinner. I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.
+[s01_e09_c04_u023] Rachel Green: Oh my god.
+[s01_e09_c04_u024] Chandler Bing: Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse."
+s01_e09,s01_e09_c05,Girl,0,0,12,0,12,3,s01_e09_c05_u001,s01_e09_c05_u017,"[s01_e09_c05_u001] Joey Tribbiani: Uh, hi. We uh, we used to work together.
+[s01_e09_c05_u002] Girl: We did?
+[s01_e09_c05_u003] Joey Tribbiani: Yeah, at Macy's. You were the Obsession girl, right? I was the Aramis guy. Aramis? Aramis?
+[s01_e09_c05_u004] Girl: Yeah, right.
+[s01_e09_c05_u005] Joey Tribbiani: I gotta tell you. You're the best in the business.
+[s01_e09_c05_u006] Girl: Get out.
+[s01_e09_c05_u007] Joey Tribbiani: I'm serious. You're amazing. You know when to spritz, when to lay back.
+[s01_e09_c05_u008] Girl: Really? You don't know what that means to me.
+[s01_e09_c05_u009] Joey Tribbiani: Ooh, you smell great tonight. What're you wearing?
+[s01_e09_c05_u010] Girl: Nothing.
+[s01_e09_c05_u011] Joey Tribbiani: Listen, uh, you wanna go get a drink or something?
+[s01_e09_c05_u012] Girl: Yeah. Oh.
+[s01_e09_c05_u013] Joey Tribbiani: What's wrong?
+[s01_e09_c05_u014] Girl: I just remembered, I have to do something.
+[s01_e09_c05_u015] Joey Tribbiani: Oh. What?
+[s01_e09_c05_u016] Girl: Um, leave.
+[s01_e09_c05_u017] Joey Tribbiani: Wait, wait, wait!"
+s01_e09,s01_e09_c05,Joey Tribbiani,0,0,12,0,12,3,s01_e09_c05_u001,s01_e09_c05_u017,"[s01_e09_c05_u001] Joey Tribbiani: Uh, hi. We uh, we used to work together.
+[s01_e09_c05_u002] Girl: We did?
+[s01_e09_c05_u003] Joey Tribbiani: Yeah, at Macy's. You were the Obsession girl, right? I was the Aramis guy. Aramis? Aramis?
+[s01_e09_c05_u004] Girl: Yeah, right.
+[s01_e09_c05_u005] Joey Tribbiani: I gotta tell you. You're the best in the business.
+[s01_e09_c05_u006] Girl: Get out.
+[s01_e09_c05_u007] Joey Tribbiani: I'm serious. You're amazing. You know when to spritz, when to lay back.
+[s01_e09_c05_u008] Girl: Really? You don't know what that means to me.
+[s01_e09_c05_u009] Joey Tribbiani: Ooh, you smell great tonight. What're you wearing?
+[s01_e09_c05_u010] Girl: Nothing.
+[s01_e09_c05_u011] Joey Tribbiani: Listen, uh, you wanna go get a drink or something?
+[s01_e09_c05_u012] Girl: Yeah. Oh.
+[s01_e09_c05_u013] Joey Tribbiani: What's wrong?
+[s01_e09_c05_u014] Girl: I just remembered, I have to do something.
+[s01_e09_c05_u015] Joey Tribbiani: Oh. What?
+[s01_e09_c05_u016] Girl: Um, leave.
+[s01_e09_c05_u017] Joey Tribbiani: Wait, wait, wait!"
+s01_e09,s01_e09_c08,Chandler Bing,0,4,8,3,9,2,s01_e09_c08_u004,s01_e09_c08_u017,"[s01_e09_c08_u004] Ross Geller: That's closer.
+[s01_e09_c08_u005] Unknown Speaker: 
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+[s01_e09_c08_u007] Chandler Bing: Oh, you must stop shooping.
+[s01_e09_c08_u008] Rachel Green: Ok, I'm gonna get my stuff.
+[s01_e09_c08_u009] Joey Tribbiani: Chandler, will you just come in already?
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+[s01_e09_c08_u011] Unknown Speaker: 
+[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+[s01_e09_c08_u014] Unknown Speaker: 
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+[s01_e09_c08_u016] Monica Geller: That's not a question.
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease."
+s01_e09,s01_e09_c08,Chandler Bing,1,23,27,22,28,3,s01_e09_c08_u028,s01_e09_c08_u039,"[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+[s01_e09_c08_u029] Monica Geller: Ok, three kinds of potatoes coming up.
+[s01_e09_c08_u030] Rachel Green: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!
+[s01_e09_c08_u031] Unknown Speaker: 
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away.
+[s01_e09_c08_u033] Joey Tribbiani: The balloon?
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+[s01_e09_c08_u035] Rachel Green: I can't, I gotta go.
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+[s01_e09_c08_u037] Phoebe Buffay: Almost never.
+[s01_e09_c08_u038] Monica Geller: Got the keys? or Got the keys!
+[s01_e09_c08_u039] Rachel Green: Ok."
+s01_e09,s01_e09_c08,Joey Tribbiani,0,7,7,6,8,2,s01_e09_c08_u008,s01_e09_c08_u016,"[s01_e09_c08_u008] Rachel Green: Ok, I'm gonna get my stuff.
+[s01_e09_c08_u009] Joey Tribbiani: Chandler, will you just come in already?
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+[s01_e09_c08_u011] Unknown Speaker: 
+[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+[s01_e09_c08_u014] Unknown Speaker: 
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+[s01_e09_c08_u016] Monica Geller: That's not a question."
+s01_e09,s01_e09_c08,Joey Tribbiani,1,9,11,8,12,2,s01_e09_c08_u010,s01_e09_c08_u021,"[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+[s01_e09_c08_u011] Unknown Speaker: 
+[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+[s01_e09_c08_u014] Unknown Speaker: 
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+[s01_e09_c08_u016] Monica Geller: That's not a question.
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+[s01_e09_c08_u018] Monica Geller: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+[s01_e09_c08_u020] Unknown Speaker: 
+[s01_e09_c08_u021] Monica Geller: Ah!"
+s01_e09,s01_e09_c08,Monica Geller,0,0,0,0,1,2,s01_e09_c08_u001,s01_e09_c08_u007,"[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+[s01_e09_c08_u004] Ross Geller: That's closer.
+[s01_e09_c08_u005] Unknown Speaker: 
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+[s01_e09_c08_u007] Chandler Bing: Oh, you must stop shooping."
+s01_e09,s01_e09_c08,Monica Geller,1,10,21,9,22,3,s01_e09_c08_u012,s01_e09_c08_u033,"[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!
+[s01_e09_c08_u013] Chandler Bing: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+[s01_e09_c08_u014] Unknown Speaker: 
+[s01_e09_c08_u015] Joey Tribbiani: Hey, Monica, I got a question. I don't see any tater tots.
+[s01_e09_c08_u016] Monica Geller: That's not a question.
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+[s01_e09_c08_u018] Monica Geller: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+[s01_e09_c08_u020] Unknown Speaker: 
+[s01_e09_c08_u021] Monica Geller: Ah!
+[s01_e09_c08_u022] Ross Geller: Ok, Mom never hit.
+[s01_e09_c08_u023] Unknown Speaker: 
+[s01_e09_c08_u024] Phoebe Buffay: Ok, all done.
+[s01_e09_c08_u025] Monica Geller: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.
+[s01_e09_c08_u027] Monica Geller: Why would we do that?
+[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+[s01_e09_c08_u029] Monica Geller: Ok, three kinds of potatoes coming up.
+[s01_e09_c08_u030] Rachel Green: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!
+[s01_e09_c08_u031] Unknown Speaker: 
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away.
+[s01_e09_c08_u033] Joey Tribbiani: The balloon?"
+s01_e09,s01_e09_c08,Phoebe Buffay,0,16,20,15,21,3,s01_e09_c08_u019,s01_e09_c08_u032,"[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+[s01_e09_c08_u020] Unknown Speaker: 
+[s01_e09_c08_u021] Monica Geller: Ah!
+[s01_e09_c08_u022] Ross Geller: Ok, Mom never hit.
+[s01_e09_c08_u023] Unknown Speaker: 
+[s01_e09_c08_u024] Phoebe Buffay: Ok, all done.
+[s01_e09_c08_u025] Monica Geller: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.
+[s01_e09_c08_u027] Monica Geller: Why would we do that?
+[s01_e09_c08_u028] Phoebe Buffay: Well, 'cause then they'd be like my mom used to make them, you know, before she died.
+[s01_e09_c08_u029] Monica Geller: Ok, three kinds of potatoes coming up.
+[s01_e09_c08_u030] Rachel Green: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!
+[s01_e09_c08_u031] Unknown Speaker: 
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away."
+s01_e09,s01_e09_c08,Rachel Green,0,2,4,1,5,2,s01_e09_c08_u002,s01_e09_c08_u012,"[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+[s01_e09_c08_u004] Ross Geller: That's closer.
+[s01_e09_c08_u005] Unknown Speaker: 
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+[s01_e09_c08_u007] Chandler Bing: Oh, you must stop shooping.
+[s01_e09_c08_u008] Rachel Green: Ok, I'm gonna get my stuff.
+[s01_e09_c08_u009] Joey Tribbiani: Chandler, will you just come in already?
+[s01_e09_c08_u010] Chandler Bing: No, I prefer to keep a safe distance from all this merriment.
+[s01_e09_c08_u011] Unknown Speaker: 
+[s01_e09_c08_u012] Phoebe Buffay: Look out, incoming pumpkin pie!"
+s01_e09,s01_e09_c08,Rachel Green,1,24,24,23,25,2,s01_e09_c08_u029,s01_e09_c08_u036,"[s01_e09_c08_u029] Monica Geller: Ok, three kinds of potatoes coming up.
+[s01_e09_c08_u030] Rachel Green: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!
+[s01_e09_c08_u031] Unknown Speaker: 
+[s01_e09_c08_u032] Chandler Bing: The most unbelievable thing has happened. Underdog has just gotten away.
+[s01_e09_c08_u033] Joey Tribbiani: The balloon?
+[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+[s01_e09_c08_u035] Rachel Green: I can't, I gotta go.
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?"
+s01_e09,s01_e09_c08,Rachel Green,2,28,28,27,28,2,s01_e09_c08_u034,s01_e09_c08_u039,"[s01_e09_c08_u034] Chandler Bing: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?
+[s01_e09_c08_u035] Rachel Green: I can't, I gotta go.
+[s01_e09_c08_u036] Chandler Bing: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+[s01_e09_c08_u037] Phoebe Buffay: Almost never.
+[s01_e09_c08_u038] Monica Geller: Got the keys? or Got the keys!
+[s01_e09_c08_u039] Rachel Green: Ok."
+s01_e09,s01_e09_c08,Ross Geller,0,0,1,0,2,2,s01_e09_c08_u001,s01_e09_c08_u008,"[s01_e09_c08_u001] Monica Geller: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?
+[s01_e09_c08_u002] Ross Geller: I don't know. It's just not the same without Mom in the kitchen.
+[s01_e09_c08_u003] Monica Geller: All right, that's it. You know what? Just get out of my way and stop moping.
+[s01_e09_c08_u004] Ross Geller: That's closer.
+[s01_e09_c08_u005] Unknown Speaker: 
+[s01_e09_c08_u006] Rachel Green: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.
+[s01_e09_c08_u007] Chandler Bing: Oh, you must stop shooping.
+[s01_e09_c08_u008] Rachel Green: Ok, I'm gonna get my stuff."
+s01_e09,s01_e09_c08,Ross Geller,1,13,15,12,16,2,s01_e09_c08_u016,s01_e09_c08_u026,"[s01_e09_c08_u016] Monica Geller: That's not a question.
+[s01_e09_c08_u017] Joey Tribbiani: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.
+[s01_e09_c08_u018] Monica Geller: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+[s01_e09_c08_u019] Ross Geller: Ok, I'm off to talk to my unborn child.
+[s01_e09_c08_u020] Unknown Speaker: 
+[s01_e09_c08_u021] Monica Geller: Ah!
+[s01_e09_c08_u022] Ross Geller: Ok, Mom never hit.
+[s01_e09_c08_u023] Unknown Speaker: 
+[s01_e09_c08_u024] Phoebe Buffay: Ok, all done.
+[s01_e09_c08_u025] Monica Geller: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+[s01_e09_c08_u026] Phoebe Buffay: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions."
+s01_e09,s01_e09_c09,Carol Willick,0,0,1,0,1,3,s01_e09_c09_u001,s01_e09_c09_u006,"[s01_e09_c09_u001] Carol Willick: Anytime you're ready.
+[s01_e09_c09_u002] Ross Geller: Ok, ok, here we go. Ok, where am I talking to, here? I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...
+[s01_e09_c09_u003] Carol Willick: Just aim for the bump.
+[s01_e09_c09_u004] Ross Geller: Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid.
+[s01_e09_c09_u005] Carol Willick: So don't do it, it's fine. You don't have to do it just because Susan does it.
+[s01_e09_c09_u006] Ross Geller: Hello, baby. Hello, hello."
+s01_e09,s01_e09_c09,Ross Geller,0,0,1,0,1,3,s01_e09_c09_u001,s01_e09_c09_u006,"[s01_e09_c09_u001] Carol Willick: Anytime you're ready.
+[s01_e09_c09_u002] Ross Geller: Ok, ok, here we go. Ok, where am I talking to, here? I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...
+[s01_e09_c09_u003] Carol Willick: Just aim for the bump.
+[s01_e09_c09_u004] Ross Geller: Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid.
+[s01_e09_c09_u005] Carol Willick: So don't do it, it's fine. You don't have to do it just because Susan does it.
+[s01_e09_c09_u006] Ross Geller: Hello, baby. Hello, hello."
+s01_e09,s01_e09_c10,Joey Tribbiani,0,9,11,8,11,3,s01_e09_c10_u009,s01_e09_c10_u016,"[s01_e09_c10_u009] Chandler Bing: Do either of you have the keys?
+[s01_e09_c10_u010] Monica Geller: The oven is on.
+[s01_e09_c10_u011] Rachel Green: Oh, I gotta get my ticket!
+[s01_e09_c10_u012] Joey Tribbiani: Wait, wait, we have a copy of your key.
+[s01_e09_c10_u013] Monica Geller: Well then get it, get it!
+[s01_e09_c10_u014] Joey Tribbiani: That tone will not make me go any faster.
+[s01_e09_c10_u015] Monica Geller: Joey!
+[s01_e09_c10_u016] Joey Tribbiani: That one will."
+s01_e09,s01_e09_c10,Monica Geller,0,0,6,0,7,3,s01_e09_c10_u001,s01_e09_c10_u012,"[s01_e09_c10_u001] Rachel Green: I loved the moment when you first saw the giant dog shadow all over the park.
+[s01_e09_c10_u002] Phoebe Buffay: Yeah, but did they have to shoot him down? I mean, that was just mean.
+[s01_e09_c10_u003] Monica Geller: Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?
+[s01_e09_c10_u004] Rachel Green: We're waiting for you to open the door. You got the keys.
+[s01_e09_c10_u005] Monica Geller: No I don't.
+[s01_e09_c10_u006] Rachel Green: Yes, you do. When we left, you said, ""got the keys.""
+[s01_e09_c10_u007] Monica Geller: No I didn't. I asked, ""got the ke-eys?""
+[s01_e09_c10_u008] Rachel Green: No, no, no, you said, ""got the keys"".
+[s01_e09_c10_u009] Chandler Bing: Do either of you have the keys?
+[s01_e09_c10_u010] Monica Geller: The oven is on.
+[s01_e09_c10_u011] Rachel Green: Oh, I gotta get my ticket!
+[s01_e09_c10_u012] Joey Tribbiani: Wait, wait, we have a copy of your key."
+s01_e09,s01_e09_c10,Monica Geller,1,8,11,7,11,2,s01_e09_c10_u008,s01_e09_c10_u016,"[s01_e09_c10_u008] Rachel Green: No, no, no, you said, ""got the keys"".
+[s01_e09_c10_u009] Chandler Bing: Do either of you have the keys?
+[s01_e09_c10_u010] Monica Geller: The oven is on.
+[s01_e09_c10_u011] Rachel Green: Oh, I gotta get my ticket!
+[s01_e09_c10_u012] Joey Tribbiani: Wait, wait, we have a copy of your key.
+[s01_e09_c10_u013] Monica Geller: Well then get it, get it!
+[s01_e09_c10_u014] Joey Tribbiani: That tone will not make me go any faster.
+[s01_e09_c10_u015] Monica Geller: Joey!
+[s01_e09_c10_u016] Joey Tribbiani: That one will."
+s01_e09,s01_e09_c10,Rachel Green,0,0,7,0,8,3,s01_e09_c10_u001,s01_e09_c10_u013,"[s01_e09_c10_u001] Rachel Green: I loved the moment when you first saw the giant dog shadow all over the park.
+[s01_e09_c10_u002] Phoebe Buffay: Yeah, but did they have to shoot him down? I mean, that was just mean.
+[s01_e09_c10_u003] Monica Geller: Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?
+[s01_e09_c10_u004] Rachel Green: We're waiting for you to open the door. You got the keys.
+[s01_e09_c10_u005] Monica Geller: No I don't.
+[s01_e09_c10_u006] Rachel Green: Yes, you do. When we left, you said, ""got the keys.""
+[s01_e09_c10_u007] Monica Geller: No I didn't. I asked, ""got the ke-eys?""
+[s01_e09_c10_u008] Rachel Green: No, no, no, you said, ""got the keys"".
+[s01_e09_c10_u009] Chandler Bing: Do either of you have the keys?
+[s01_e09_c10_u010] Monica Geller: The oven is on.
+[s01_e09_c10_u011] Rachel Green: Oh, I gotta get my ticket!
+[s01_e09_c10_u012] Joey Tribbiani: Wait, wait, we have a copy of your key.
+[s01_e09_c10_u013] Monica Geller: Well then get it, get it!"
+s01_e09,s01_e09_c11,Carol Willick,0,1,1,0,2,2,s01_e09_c11_u001,s01_e09_c11_u008,"[s01_e09_c11_u001] Ross Geller: And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore.
+[s01_e09_c11_u002] Carol Willick: Look, you don't have to talk to it. You can sing to it if you want.
+[s01_e09_c11_u003] Ross Geller: Oh, please. I am not singing to your stomach, ok?
+[s01_e09_c11_u004] Unknown Speaker: 
+[s01_e09_c11_u005] Susan Bunch: Hi, how's it goin?
+[s01_e09_c11_u006] Ross Geller: Shh! Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! Hey, uh, did you just feel that?
+[s01_e09_c11_u007] Carol Willick: I did.
+[s01_e09_c11_u008] Ross Geller: Does it always, uh--?"
+s01_e09,s01_e09_c11,Carol Willick,1,3,5,2,6,2,s01_e09_c11_u003,s01_e09_c11_u012,"[s01_e09_c11_u003] Ross Geller: Oh, please. I am not singing to your stomach, ok?
+[s01_e09_c11_u004] Unknown Speaker: 
+[s01_e09_c11_u005] Susan Bunch: Hi, how's it goin?
+[s01_e09_c11_u006] Ross Geller: Shh! Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! Hey, uh, did you just feel that?
+[s01_e09_c11_u007] Carol Willick: I did.
+[s01_e09_c11_u008] Ross Geller: Does it always, uh--?
+[s01_e09_c11_u009] Carol Willick: No, no that was the first.
+[s01_e09_c11_u010] Susan Bunch: Keep singing! Keep singing!
+[s01_e09_c11_u011] Ross Geller: Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.
+[s01_e09_c11_u012] Susan Bunch: I felt it!"
+s01_e09,s01_e09_c11,Ross Geller,0,0,7,0,7,3,s01_e09_c11_u001,s01_e09_c11_u013,"[s01_e09_c11_u001] Ross Geller: And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore.
+[s01_e09_c11_u002] Carol Willick: Look, you don't have to talk to it. You can sing to it if you want.
+[s01_e09_c11_u003] Ross Geller: Oh, please. I am not singing to your stomach, ok?
+[s01_e09_c11_u004] Unknown Speaker: 
+[s01_e09_c11_u005] Susan Bunch: Hi, how's it goin?
+[s01_e09_c11_u006] Ross Geller: Shh! Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! Hey, uh, did you just feel that?
+[s01_e09_c11_u007] Carol Willick: I did.
+[s01_e09_c11_u008] Ross Geller: Does it always, uh--?
+[s01_e09_c11_u009] Carol Willick: No, no that was the first.
+[s01_e09_c11_u010] Susan Bunch: Keep singing! Keep singing!
+[s01_e09_c11_u011] Ross Geller: Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.
+[s01_e09_c11_u012] Susan Bunch: I felt it!
+[s01_e09_c11_u013] Ross Geller: Hey, hey, I'm your daddy. I'm the one without any breasts."
+s01_e09,s01_e09_c11,Susan Bunch,0,6,7,5,7,2,s01_e09_c11_u007,s01_e09_c11_u013,"[s01_e09_c11_u007] Carol Willick: I did.
+[s01_e09_c11_u008] Ross Geller: Does it always, uh--?
+[s01_e09_c11_u009] Carol Willick: No, no that was the first.
+[s01_e09_c11_u010] Susan Bunch: Keep singing! Keep singing!
+[s01_e09_c11_u011] Ross Geller: Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.
+[s01_e09_c11_u012] Susan Bunch: I felt it!
+[s01_e09_c11_u013] Ross Geller: Hey, hey, I'm your daddy. I'm the one without any breasts."
+s01_e09,s01_e09_c12,Chandler Bing,0,32,34,31,35,2,s01_e09_c12_u038,s01_e09_c12_u047,"[s01_e09_c12_u038] Joey Tribbiani: I've gotta see this. All right Ugly Naked Guy!
+[s01_e09_c12_u039] Monica Geller: Ooh, Ugly Naked Dancing!
+[s01_e09_c12_u040] Phoebe Buffay: It's nice that he has someone.
+[s01_e09_c12_u041] Unknown Speaker: 
+[s01_e09_c12_u042] Chandler Bing: Shall I carve?
+[s01_e09_c12_u043] Rachel Green: By all means.
+[s01_e09_c12_u044] Chandler Bing: Ok, who wants light cheese, and who wants dark cheese?
+[s01_e09_c12_u045] Ross Geller: I don't even wanna know about the dark cheese.
+[s01_e09_c12_u046] Monica Geller: Does anybody wanna split this with me?
+[s01_e09_c12_u047] Joey Tribbiani: Oh, I will."
+s01_e09,s01_e09_c12,Chandler Bing,1,43,43,42,43,2,s01_e09_c12_u050,s01_e09_c12_u056,"[s01_e09_c12_u050] Phoebe Buffay: Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?
+[s01_e09_c12_u051] Joey Tribbiani: The bigger half.
+[s01_e09_c12_u052] Chandler Bing: I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.
+[s01_e09_c12_u053] #ALL#: That's so sweet.
+[s01_e09_c12_u054] Ross Geller: And hey, here's to a lousy Christmas.
+[s01_e09_c12_u055] Rachel Green: And a crappy New Year.
+[s01_e09_c12_u056] Chandler Bing: Here, here!"
+s01_e09,s01_e09_c12,Joey Tribbiani,0,0,0,0,1,2,s01_e09_c12_u001,s01_e09_c12_u006,"[s01_e09_c12_u001] Joey Tribbiani: Nope, not that one.
+[s01_e09_c12_u002] Monica Geller: Can you go any faster with that?
+[s01_e09_c12_u003] Joey Tribbiani: Hey, I got one keyhole and about a zillion keys. You do the math.
+[s01_e09_c12_u004] Monica Geller: Why do you guys have so many keys in there anyway?
+[s01_e09_c12_u005] Chandler Bing: For an emergency just like this.
+[s01_e09_c12_u006] Rachel Green: All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not."
+s01_e09,s01_e09_c12,Joey Tribbiani,1,21,23,20,24,2,s01_e09_c12_u024,s01_e09_c12_u034,"[s01_e09_c12_u024] Ross Geller: Here we come, walkin' down thethis doesn't smell like Mom's.
+[s01_e09_c12_u025] Monica Geller: No, it doesn't, does it? But you wanted lumps, Ross? Well, here you go, buddy, ya got one.
+[s01_e09_c12_u026] Rachel Green: Oh, god, this is great! The plane is gone, so it looks like I'm stuck here with you guys.
+[s01_e09_c12_u027] Joey Tribbiani: Hey, we all had better plans. This was nobody's first choice.
+[s01_e09_c12_u028] Monica Geller: Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?
+[s01_e09_c12_u029] Joey Tribbiani: You call that delicious?
+[s01_e09_c12_u030] Unknown Speaker: 
+[s01_e09_c12_u031] Monica Geller: Stop it, stop it, stop it!
+[s01_e09_c12_u032] Chandler Bing: Now this feels like Thanksgiving.
+[s01_e09_c12_u033] Unknown Speaker: 
+[s01_e09_c12_u034] Phoebe Buffay: Ooh."
+s01_e09,s01_e09_c12,Joey Tribbiani,2,39,39,38,40,2,s01_e09_c12_u046,s01_e09_c12_u052,"[s01_e09_c12_u046] Monica Geller: Does anybody wanna split this with me?
+[s01_e09_c12_u047] Joey Tribbiani: Oh, I will.
+[s01_e09_c12_u048] Phoebe Buffay: Ooh, you guys have to make a wish.
+[s01_e09_c12_u049] Monica Geller: Make a wish?
+[s01_e09_c12_u050] Phoebe Buffay: Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?
+[s01_e09_c12_u051] Joey Tribbiani: The bigger half.
+[s01_e09_c12_u052] Chandler Bing: I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked."
+s01_e09,s01_e09_c12,Monica Geller,0,0,3,0,4,2,s01_e09_c12_u001,s01_e09_c12_u009,"[s01_e09_c12_u001] Joey Tribbiani: Nope, not that one.
+[s01_e09_c12_u002] Monica Geller: Can you go any faster with that?
+[s01_e09_c12_u003] Joey Tribbiani: Hey, I got one keyhole and about a zillion keys. You do the math.
+[s01_e09_c12_u004] Monica Geller: Why do you guys have so many keys in there anyway?
+[s01_e09_c12_u005] Chandler Bing: For an emergency just like this.
+[s01_e09_c12_u006] Rachel Green: All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not.
+[s01_e09_c12_u007] Monica Geller: I swear you said you had the keys.
+[s01_e09_c12_u008] Rachel Green: No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.
+[s01_e09_c12_u009] Phoebe Buffay: Ooh, ok, that's it. Enough with the keys. No one say keys."
+s01_e09,s01_e09_c12,Monica Geller,1,5,24,4,25,3,s01_e09_c12_u005,s01_e09_c12_u035,"[s01_e09_c12_u005] Chandler Bing: For an emergency just like this.
+[s01_e09_c12_u006] Rachel Green: All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not.
+[s01_e09_c12_u007] Monica Geller: I swear you said you had the keys.
+[s01_e09_c12_u008] Rachel Green: No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.
+[s01_e09_c12_u009] Phoebe Buffay: Ooh, ok, that's it. Enough with the keys. No one say keys.
+[s01_e09_c12_u010] Unknown Speaker: 
+[s01_e09_c12_u011] Monica Geller: Why would I have the keys?
+[s01_e09_c12_u012] Rachel Green: Aside from the fact that you said you had them?
+[s01_e09_c12_u013] Monica Geller: But I didn't.
+[s01_e09_c12_u014] Rachel Green: Well, you should have.
+[s01_e09_c12_u015] Monica Geller: Why?
+[s01_e09_c12_u016] Rachel Green: Because!
+[s01_e09_c12_u017] Monica Geller: Why?
+[s01_e09_c12_u018] Rachel Green: Because!
+[s01_e09_c12_u019] Monica Geller: Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...
+[s01_e09_c12_u020] Chandler Bing: Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go.
+[s01_e09_c12_u021] Unknown Speaker: 
+[s01_e09_c12_u022] Monica Geller: Well, the turkey's burnt. Potatoes are ruined, potatoes are ruined, potatoes are ruined.
+[s01_e09_c12_u023] Unknown Speaker: 
+[s01_e09_c12_u024] Ross Geller: Here we come, walkin' down thethis doesn't smell like Mom's.
+[s01_e09_c12_u025] Monica Geller: No, it doesn't, does it? But you wanted lumps, Ross? Well, here you go, buddy, ya got one.
+[s01_e09_c12_u026] Rachel Green: Oh, god, this is great! The plane is gone, so it looks like I'm stuck here with you guys.
+[s01_e09_c12_u027] Joey Tribbiani: Hey, we all had better plans. This was nobody's first choice.
+[s01_e09_c12_u028] Monica Geller: Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?
+[s01_e09_c12_u029] Joey Tribbiani: You call that delicious?
+[s01_e09_c12_u030] Unknown Speaker: 
+[s01_e09_c12_u031] Monica Geller: Stop it, stop it, stop it!
+[s01_e09_c12_u032] Chandler Bing: Now this feels like Thanksgiving.
+[s01_e09_c12_u033] Unknown Speaker: 
+[s01_e09_c12_u034] Phoebe Buffay: Ooh.
+[s01_e09_c12_u035] Rachel Green: What?"
+s01_e09,s01_e09_c12,Monica Geller,2,37,38,36,39,2,s01_e09_c12_u044,s01_e09_c12_u051,"[s01_e09_c12_u044] Chandler Bing: Ok, who wants light cheese, and who wants dark cheese?
+[s01_e09_c12_u045] Ross Geller: I don't even wanna know about the dark cheese.
+[s01_e09_c12_u046] Monica Geller: Does anybody wanna split this with me?
+[s01_e09_c12_u047] Joey Tribbiani: Oh, I will.
+[s01_e09_c12_u048] Phoebe Buffay: Ooh, you guys have to make a wish.
+[s01_e09_c12_u049] Monica Geller: Make a wish?
+[s01_e09_c12_u050] Phoebe Buffay: Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?
+[s01_e09_c12_u051] Joey Tribbiani: The bigger half."
+s01_e09,s01_e09_c12,Phoebe Buffay,0,26,30,25,31,2,s01_e09_c12_u029,s01_e09_c12_u043,"[s01_e09_c12_u029] Joey Tribbiani: You call that delicious?
+[s01_e09_c12_u030] Unknown Speaker: 
+[s01_e09_c12_u031] Monica Geller: Stop it, stop it, stop it!
+[s01_e09_c12_u032] Chandler Bing: Now this feels like Thanksgiving.
+[s01_e09_c12_u033] Unknown Speaker: 
+[s01_e09_c12_u034] Phoebe Buffay: Ooh.
+[s01_e09_c12_u035] Rachel Green: What?
+[s01_e09_c12_u036] Phoebe Buffay: Ugly Naked Guy's taking his turkey out of the oven. Oh my god. He's not alone. Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.
+[s01_e09_c12_u037] Unknown Speaker: 
+[s01_e09_c12_u038] Joey Tribbiani: I've gotta see this. All right Ugly Naked Guy!
+[s01_e09_c12_u039] Monica Geller: Ooh, Ugly Naked Dancing!
+[s01_e09_c12_u040] Phoebe Buffay: It's nice that he has someone.
+[s01_e09_c12_u041] Unknown Speaker: 
+[s01_e09_c12_u042] Chandler Bing: Shall I carve?
+[s01_e09_c12_u043] Rachel Green: By all means."
+s01_e09,s01_e09_c12,Phoebe Buffay,1,38,40,37,41,2,s01_e09_c12_u045,s01_e09_c12_u054,"[s01_e09_c12_u045] Ross Geller: I don't even wanna know about the dark cheese.
+[s01_e09_c12_u046] Monica Geller: Does anybody wanna split this with me?
+[s01_e09_c12_u047] Joey Tribbiani: Oh, I will.
+[s01_e09_c12_u048] Phoebe Buffay: Ooh, you guys have to make a wish.
+[s01_e09_c12_u049] Monica Geller: Make a wish?
+[s01_e09_c12_u050] Phoebe Buffay: Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?
+[s01_e09_c12_u051] Joey Tribbiani: The bigger half.
+[s01_e09_c12_u052] Chandler Bing: I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.
+[s01_e09_c12_u053] #ALL#: That's so sweet.
+[s01_e09_c12_u054] Ross Geller: And hey, here's to a lousy Christmas."
+s01_e09,s01_e09_c12,Rachel Green,0,3,14,2,15,3,s01_e09_c12_u003,s01_e09_c12_u022,"[s01_e09_c12_u003] Joey Tribbiani: Hey, I got one keyhole and about a zillion keys. You do the math.
+[s01_e09_c12_u004] Monica Geller: Why do you guys have so many keys in there anyway?
+[s01_e09_c12_u005] Chandler Bing: For an emergency just like this.
+[s01_e09_c12_u006] Rachel Green: All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not.
+[s01_e09_c12_u007] Monica Geller: I swear you said you had the keys.
+[s01_e09_c12_u008] Rachel Green: No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.
+[s01_e09_c12_u009] Phoebe Buffay: Ooh, ok, that's it. Enough with the keys. No one say keys.
+[s01_e09_c12_u010] Unknown Speaker: 
+[s01_e09_c12_u011] Monica Geller: Why would I have the keys?
+[s01_e09_c12_u012] Rachel Green: Aside from the fact that you said you had them?
+[s01_e09_c12_u013] Monica Geller: But I didn't.
+[s01_e09_c12_u014] Rachel Green: Well, you should have.
+[s01_e09_c12_u015] Monica Geller: Why?
+[s01_e09_c12_u016] Rachel Green: Because!
+[s01_e09_c12_u017] Monica Geller: Why?
+[s01_e09_c12_u018] Rachel Green: Because!
+[s01_e09_c12_u019] Monica Geller: Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...
+[s01_e09_c12_u020] Chandler Bing: Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go.
+[s01_e09_c12_u021] Unknown Speaker: 
+[s01_e09_c12_u022] Monica Geller: Well, the turkey's burnt. Potatoes are ruined, potatoes are ruined, potatoes are ruined."

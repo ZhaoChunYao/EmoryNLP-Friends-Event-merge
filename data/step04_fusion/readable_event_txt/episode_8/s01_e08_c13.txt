@@ -1,0 +1,68 @@
+event_id: s01_e08_c13_u003_e1
+utterance_id: s01_e08_c13_u003
+  tuple: ('go', 'it/(things)', 'in Financial Services', 's01_e08_c13_u003')
+
+event_id: s01_e08_c13_u004_e1
+utterance_id: s01_e08_c13_u004
+  tuple: ('be', 'it/(Financial Services)', 'like Mardi Gras', 's01_e08_c13_u004')
+  tuple: ('be', 'it/(Financial Services)', 'without the paper mache heads', 's01_e08_c13_u004')
+
+event_id: s01_e08_c13_u005_e1
+utterance_id: s01_e08_c13_u005
+  tuple: ('listen', 'you/Lowell', None, 's01_e08_c13_u005')
+
+event_id: s01_e08_c13_u005_e2
+utterance_id: s01_e08_c13_u005
+  tuple: ('know', 'I/Chandler Bing', 'what Shelley told you about me', 's01_e08_c13_u005')
+
+event_id: s01_e08_c13_u005_e3
+utterance_id: s01_e08_c13_u005
+  tuple: ('tell', 'Shelley', 'you', 's01_e08_c13_u005')
+  tuple: ('tell', 'Shelley', 'about me', 's01_e08_c13_u005')
+
+event_id: s01_e08_c13_u005_e4
+utterance_id: s01_e08_c13_u005
+  tuple: ('be', 'I/Chandler Bing', None, 's01_e08_c13_u005')
+
+event_id: s01_e08_c13_u006_e1
+utterance_id: s01_e08_c13_u006
+  tuple: ('know', 'I/Lowell', None, 's01_e08_c13_u006')
+
+event_id: s01_e08_c13_u006_e2
+utterance_id: s01_e08_c13_u006
+  tuple: ('be', 'that/(previous statement)', 'what I told her', 's01_e08_c13_u006')
+  tuple: ('tell', 'I/Lowell', 'her', 's01_e08_c13_u006')
+
+event_id: s01_e08_c13_u009_e1
+utterance_id: s01_e08_c13_u009
+  tuple: ('tell', 'you/Lowell', None, 's01_e08_c13_u009')
+
+event_id: s01_e08_c13_u010_e1
+utterance_id: s01_e08_c13_u010
+  tuple: ('have', 'we/(gay people)', 'a kind of radar', 's01_e08_c13_u010')
+
+event_id: s01_e08_c13_u011_e1
+utterance_id: s01_e08_c13_u011
+  tuple: ('think', 'you/Lowell', 'I have a quality', 's01_e08_c13_u011')
+
+event_id: s01_e08_c13_u011_e2
+utterance_id: s01_e08_c13_u011
+  tuple: ('have', 'I/Chandler Bing', 'a quality', 's01_e08_c13_u011')
+
+event_id: s01_e08_c13_u012_e1
+utterance_id: s01_e08_c13_u012
+  tuple: ('speak', 'I/Lowell', 'for my people', 's01_e08_c13_u012')
+  tuple: ('say', 'I/Lowell', 'no', 's01_e08_c13_u012')
+
+event_id: s01_e08_c13_u012_e2
+utterance_id: s01_e08_c13_u012
+  tuple: ('be', 'he/Brian from Payroll', None, 's01_e08_c13_u012')
+
+event_id: s01_e08_c13_u015_e1
+utterance_id: s01_e08_c13_u015
+  tuple: ('get', 'I/Chandler Bing', 'a Brian', 's01_e08_c13_u015')
+
+event_id: s01_e08_c13_u015_e2
+utterance_id: s01_e08_c13_u015
+  tuple: ('want', 'I/Chandler Bing', 'to get a Brian', 's01_e08_c13_u015')
+

@@ -1,0 +1,24 @@
+Episode: s01_e11
+Scene: s01_e11_c10
+Subscene index for speaker: 012
+Main speaker: TargetSpeaker
+UID span: s01_e11_c10_u009 → s01_e11_c10_u015
+Peak window: 8 → 8
+
+Dialogue:
+  [s01_e11_c10_u009]
+  1. Speaker_01 says Speaker_01 is Speaker_01.
+  [s01_e11_c10_u010]
+  1. TargetSpeaker says TargetSpeaker is TargetSpeaker.
+  2. TargetSpeaker says TargetSpeaker has been taking care of Speaker_02.
+  [s01_e11_c10_u011]
+  1. Speaker_01 says TargetSpeaker and Speaker_01 have both been taking care of Speaker_02.
+  [s01_e11_c10_u012]
+  1. Speaker_02 asks whether the Etch-a-Sketch is from TargetSpeaker and Speaker_01.
+  [s01_e11_c10_u013]
+  1. Speaker_01 says the Etch-a-Sketch is from Speaker_01.
+  [s01_e11_c10_u014]
+  1. TargetSpeaker says TargetSpeaker got the foot massager for Speaker_02.
+  [s01_e11_c10_u015]
+  1. Speaker_01 asks whether Speaker_02 knows who shaved Speaker_02.
+  2. Speaker_01 says Speaker_01 shaved Speaker_02.

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Participates actively in the group, asks about a friend’s well-being (u023), shares a personal update (u026), and proactively offers to get coffee (u028)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and support—asks if Speaker_01 is okay (u023) and offers to get them coffee (u028)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or sloppiness; offering coffee (u028) reflects helpfulness rather than conscientiousness per se."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mentions someone moved their stuff out (u026) but shows no visible anxiety or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, imagination, or unconventional thinking."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes the lead by asking if Speaker_01 is ready to cut up the credit cards and follows with confident encouragement, showing assertive, proactive engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers supportive reassurance—\"I know you can\"—which is warm and helpful toward Speaker_01."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Encourages a concrete, disciplined action (cutting up credit cards) to address a problem, reflecting organization and self-control."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Expresses calm certainty—\"I know you can\"—indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or unconventional thinking; merely promotes a straightforward solution."
+  }
+}

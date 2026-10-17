@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only brief, polite remarks ('Hello, Mr. Bing.' and 'Sure.') with no clear sign of being either outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite greeting and cooperative acceptance of the task and deadline without complaint."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Agrees to deliver numbers by nine but offers no evidence of planning, organization, or follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or insecurity are expressed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity, creativity, or rigidity/dogmatism."
+  }
+}

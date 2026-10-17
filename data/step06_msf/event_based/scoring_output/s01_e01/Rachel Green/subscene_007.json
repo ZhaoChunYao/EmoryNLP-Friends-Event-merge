@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Playful, social banter with Speaker_03 (noticing their smile and making a joke about a hanger), offers a wedding dress, and prompts engagement (“look,” “wish me luck”), showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows supportive, friendly tone—recognizes Speaker_03’s feelings, jokes without hostility, and even offers her “hardly used wedding dress,” indicating cooperative/generous intent."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States a clear, goal-directed plan—“I’m going to go get a job”—and seeks luck before acting, reflecting initiative and purposefulness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and emotional stability—lighthearted joking and calmly deciding to go get a job without expressing worry or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from humor, there is no clear indication of curiosity, unconventional ideas, or imaginative pursuits; no evidence for dogmatism either."
+  }
+}

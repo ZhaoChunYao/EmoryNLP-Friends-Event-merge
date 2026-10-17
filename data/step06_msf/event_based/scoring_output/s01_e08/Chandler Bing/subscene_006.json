@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only reacts briefly ('Oh, no-') and then states identity and a fact; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker directly clarifies 'I am [self]' and openly admits having no idea who Speaker_05 is (u010), indicating straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "An 'Oh, no-' (u008) could indicate concern but there is no clear sign of nervousness or calmness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity/inventiveness or dogmatism/cautiousness."
+  }
+}

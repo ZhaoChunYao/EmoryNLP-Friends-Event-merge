@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, minimal answers to prompts (“Dr. Speaker_03.”; “Yes, and Speaker_03's very supportive.”) and does not initiate or elaborate."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds cooperatively and positively, affirming the doctor is “very supportive,” with no signs of conflict or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Only provides short factual replies; no clear evidence of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit signs of anxiety or distress, but also no strong display of confidence; neutral demeanor."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, inventiveness, or rigidity/dogmatism."
+  }
+}

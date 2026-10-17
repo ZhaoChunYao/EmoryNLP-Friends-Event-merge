@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge of the conversation and speaks assertively and at length—giving advice on writing (offers a formula), evaluates characters, and openly compliments and reassures Speaker_01 (e.g., says they are smart and sexy and will be fine)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Boastful and blunt: cites selling one hundred million books to demand being listened to; dismisses Speaker_04 as a mere complication to be killed off; uses a derisive label (“Italian hand-licker”)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides structured, goal-oriented advice (“start with half a dozen European cities, add thirty euphemisms… you’ll have a book”) and reasons about marketability with specific criteria and numbers (e.g., 325 pages, lead vs. secondary)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and composure throughout—asserts expertise, declares who the hero is, and reassures Speaker_01 (“you’re going to be fine”) with no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Shows a prescriptive, formulaic mindset and is dismissive of unconventional choices (“cannot sell a character like Speaker_04 as a lead,” advises a set formula), indicating dogmatism rather than curiosity or openness."
+  }
+}

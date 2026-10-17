@@ -1,0 +1,109 @@
+event_id: s01_e13_c07_u001_e1
+utterance_id: s01_e13_c07_u001
+  tuple: ('do', 'you/Joey Tribbiani', 'what', 's01_e13_c07_u001')
+
+event_id: s01_e13_c07_u002_e1
+utterance_id: s01_e13_c07_u002
+  tuple: ('try', 'I/Joey Tribbiani', 'to get comfortable', 's01_e13_c07_u002')
+  tuple: ('get', 'I/Joey Tribbiani', 'comfortable', 's01_e13_c07_u002')
+
+event_id: s01_e13_c07_u002_e2
+utterance_id: s01_e13_c07_u002
+  tuple: ('sleep', 'I/Joey Tribbiani', None, 's01_e13_c07_u002')
+  tuple: ('sleep', 'I/Joey Tribbiani', 'in my underwear', 's01_e13_c07_u002')
+
+event_id: s01_e13_c07_u003_e1
+utterance_id: s01_e13_c07_u003
+  tuple: ('go', 'you/Joey Tribbiani', None, 's01_e13_c07_u003')
+
+event_id: s01_e13_c07_u004_e1
+utterance_id: s01_e13_c07_u004
+  tuple: ('think', 'I/Joey Tribbiani', 'about how I am always seeing girls on top of girls', 's01_e13_c07_u004')
+
+event_id: s01_e13_c07_u004_e2
+utterance_id: s01_e13_c07_u004
+  tuple: ('see', 'I/Joey Tribbiani', 'girls', 's01_e13_c07_u004')
+  tuple: ('see', 'I/Joey Tribbiani', 'on top of girls', 's01_e13_c07_u004')
+
+event_id: s01_e13_c07_u005_e1
+utterance_id: s01_e13_c07_u005
+  tuple: ('be', 'they/(girls)', 'end to end', 's01_e13_c07_u005')
+  tuple: ('be', 'they/(girls)', 'tall like pancakes', 's01_e13_c07_u005')
+  tuple: ('be', 'they/(girls)', 'like pancakes', 's01_e13_c07_u005')
+
+event_id: s01_e13_c07_u006_e1
+utterance_id: s01_e13_c07_u006
+  tuple: ('know', 'you/Chandler Bing', 'what I mean', 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u006_e2
+utterance_id: s01_e13_c07_u006
+  tuple: ('mean', 'I/Joey Tribbiani', 'what', 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u006_e3
+utterance_id: s01_e13_c07_u006
+  tuple: ('go', 'I/Joey Tribbiani', 'out', 's01_e13_c07_u006')
+  tuple: ('go', 'I/Joey Tribbiani', 'out with all these women', 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u006_e4
+utterance_id: s01_e13_c07_u006
+  tuple: ('figure', 'I/Joey Tribbiani', "when the right one comes along, I'd be able to be a stand-up guy and go the distance", 's01_e13_c07_u006')
+  tuple: ('come', 'the right one', 'along', 's01_e13_c07_u006')
+  tuple: ('be', 'I/Joey Tribbiani', 'able to be a stand-up guy and go the distance', 's01_e13_c07_u006')
+  tuple: ('be', 'I/Joey Tribbiani', 'a stand-up guy', 's01_e13_c07_u006')
+  tuple: ('go', 'I/Joey Tribbiani', 'the distance', 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u006_e5
+utterance_id: s01_e13_c07_u006
+  tuple: ('look', 'I/Joey Tribbiani', None, 's01_e13_c07_u006')
+  tuple: ('look', 'I/Joey Tribbiani', 'at my dad', 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u006_e6
+utterance_id: s01_e13_c07_u006
+  tuple: ('think', 'I/Joey Tribbiani', None, 's01_e13_c07_u006')
+
+event_id: s01_e13_c07_u007_e1
+utterance_id: s01_e13_c07_u007
+  tuple: ('be', 'you/Joey Tribbiani', 'not him', 's01_e13_c07_u007')
+  tuple: ('be', 'you/Joey Tribbiani', 'you', 's01_e13_c07_u007')
+
+event_id: s01_e13_c07_u007_e2
+utterance_id: s01_e13_c07_u007
+  tuple: ('be', 'they/(people)', "all over you to go into your father's pipe-fitting business", 's01_e13_c07_u007')
+  tuple: ('go', 'you/Joey Tribbiani', "into your father's pipe-fitting business", 's01_e13_c07_u007')
+
+event_id: s01_e13_c07_u007_e3
+utterance_id: s01_e13_c07_u007
+  tuple: ('cave', 'you/Joey Tribbiani', None, 's01_e13_c07_u007')
+
+event_id: s01_e13_c07_u009_e1
+utterance_id: s01_e13_c07_u009
+  tuple: ('decide', 'you/Joey Tribbiani', 'to go into the out-of-work actor business', 's01_e13_c07_u009')
+  tuple: ('go', 'you/Joey Tribbiani', 'into the out-of-work actor business', 's01_e13_c07_u009')
+  tuple: ('be', 'that/(going into the out-of-work actor business)', 'not easy', 's01_e13_c07_u009')
+  tuple: ('do', 'you/Joey Tribbiani', 'it', 's01_e13_c07_u009')
+
+event_id: s01_e13_c07_u009_e2
+utterance_id: s01_e13_c07_u009
+  tuple: ('like', 'I/Chandler Bing', 'to believe that when the right woman comes along, you will have the courage and the guts to say "No thanks, I\'m married."', 's01_e13_c07_u009')
+  tuple: ('believe', 'I/Chandler Bing', 'that when the right woman comes along, you will have the courage and the guts to say "No thanks, I\'m married."', 's01_e13_c07_u009')
+  tuple: ('come', 'the right woman', 'along', 's01_e13_c07_u009')
+  tuple: ('have', 'you/Joey Tribbiani', 'the courage and the guts to say "No thanks, I\'m married."', 's01_e13_c07_u009')
+  tuple: ('say', 'you/Joey Tribbiani', '"No thanks, I\'m married."', 's01_e13_c07_u009')
+  tuple: ('be', 'I/Joey Tribbiani', 'married', 's01_e13_c07_u009')
+
+event_id: s01_e13_c07_u010_e1
+utterance_id: s01_e13_c07_u010
+  tuple: ('think', 'you/Chandler Bing', 'so', 's01_e13_c07_u010')
+
+event_id: s01_e13_c07_u011_e1
+utterance_id: s01_e13_c07_u011
+  tuple: ('do', 'I/Chandler Bing', None, 's01_e13_c07_u011')
+
+event_id: s01_e13_c07_u012_e1
+utterance_id: s01_e13_c07_u012
+  tuple: ('thank', 'I/Joey Tribbiani', 'Chandler', 's01_e13_c07_u012')
+
+event_id: s01_e13_c07_u013_e1
+utterance_id: s01_e13_c07_u013
+  tuple: ('get', 'you/Joey Tribbiani', 'off', 's01_e13_c07_u013')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is talkative about a personal topic, sets a social/romantic scene (candles lit, windows clean), and openly says they love being with Speaker_02, showing outgoing engagement rather than withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks warmly and supportively about Speaker_02 (“a great guy,” “love being with him”) and responds cooperatively to questions (e.g., answers about shaving legs)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker prepared and organized the setting (windows are clean, candles are lit), cooked lasagne, and is planning attire adjustments (changing the belt), indicating planning and orderliness despite one lapse (“did not turn the fish”)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker explicitly asks if they are “out of control” and says they are unsure, showing anxiety and insecurity in the moment."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker embraces spontaneity in the relationship (“they just happen,” “people do not plan”) and is open to the possibility of spending the night without rigid plans."
+  }
+}

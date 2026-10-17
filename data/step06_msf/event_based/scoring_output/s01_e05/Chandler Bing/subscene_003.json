@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and sustains social interaction (asks where friends are, enjoys one-on-one time, greets and calls Speaker_01, orders drinks and offers refills)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes a callous joke about renting a car to run over puppies, showing insensitivity despite some polite gestures."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Suggests a plan to rent a car but otherwise shows no clear signs of organization or sloppiness; behavior is neutral for conscientiousness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays calm, confident behavior—takes initiative, offers help, and shows no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Proposes novel/edgy ideas (renting a car, dark humor) and embraces unconventional choices (enthusiastic about mix-and-match sock options)."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively engages the group by offering to get something for multiple people and talking about having scones available."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to get something for Speaker_03, Speaker_01, and Speaker_02 and shares that there are scones, showing generosity and helpfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization or carelessness; a huge Visa bill is mentioned by another speaker but this alone doesn’t demonstrate TargetSpeaker’s conscientiousness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "When told about the Visa bill, responds with a simple “What?” without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, or dogmatism are present in the dialogue."
+  }
+}

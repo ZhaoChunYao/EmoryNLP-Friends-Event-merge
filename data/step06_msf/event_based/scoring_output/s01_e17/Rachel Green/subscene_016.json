@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Manages a phone call and logistics (u008, u010, u019) but shows no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes blunt/critical remarks about Speaker_01 and their father (u001) and refuses to help explain to admissions, telling Speaker_03 to handle it instead (u013), showing low cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Forgot to sign an admissions form (u016) and dismisses the paperwork as \"not worth it\" (u017), indicating low diligence/organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admits not knowing what to do about the admissions problem (u011) and reacts with frustration, calling the process not worth it (u017)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity/inventiveness or of dogmatic/cautious thinking in the exchange."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively calls the neighbor to confront her, talks at length, and even adds unsolicited compliments about her green dress and likeness to a celebrity, showing outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Addresses the issue directly and honestly, thanks her for the compliment, and clarifies the point politely that she should stop spying—straightforward rather than hostile."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Although he states the point is to stop spying, he drifts into complimenting her appearance and a celebrity comparison, undermining focus and showing careless, distractible behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently confronts the spying and asserts boundaries without signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or creativity versus dogmatism; the exchange is about setting boundaries rather than exploring ideas."
+  }
+}

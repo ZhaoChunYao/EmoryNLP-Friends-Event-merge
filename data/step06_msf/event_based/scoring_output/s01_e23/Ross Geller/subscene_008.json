@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge vocally during labor coaching—repeatedly telling Speaker_01 to breathe and actively counting down the seconds."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Provides supportive, cooperative guidance (prompting breathing, assisting with timing) to help Speaker_01 through childbirth."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes the process by timing contractions and counting precisely, showing structured, task-focused behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and methodical under stress (steady coaching and countdown), showing confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of creativity or rigidity; actions follow standard childbirth coaching without indicating openness or closed-mindedness."
+  }
+}

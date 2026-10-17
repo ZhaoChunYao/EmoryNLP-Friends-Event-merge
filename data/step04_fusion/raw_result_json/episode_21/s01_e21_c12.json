@@ -1,0 +1,277 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c12_u003",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u003_e1",
+          "tuples": [
+            "('be', 'you/Fake Monica', None, 's01_e21_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u004_e1",
+          "tuples": [
+            "('be', 'I/Fake Monica', 'not too bad', 's01_e21_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u004_e2",
+          "tuples": [
+            "('be', 'blue', 'my colour', 's01_e21_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u004_e3",
+          "tuples": [
+            "('know', 'you/Monica Geller', 'I was here', 's01_e21_c12_u004')",
+            "('be', 'I/Fake Monica', 'here', 's01_e21_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u005_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'Monica Geller', 's01_e21_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u005_e2",
+          "tuples": [
+            "('be', 'it', 'my credit card you were using', 's01_e21_c12_u005')",
+            "('use', 'you/Fake Monica', 'my credit card', 's01_e21_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u006",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u006_e1",
+          "tuples": [
+            "('expect', 'I/Fake Monica', 'that', 's01_e21_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u007",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u007_e1",
+          "tuples": [
+            "('want', 'I/Monica Geller', 'you to know', 's01_e21_c12_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u007_e2",
+          "tuples": [
+            "('know', 'you/Fake Monica', \"it wasn't me who turned you in\", 's01_e21_c12_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u007_e3",
+          "tuples": [
+            "('be', 'it', 'me who turned you in', 's01_e21_c12_u007')",
+            "('turn', 'who/Monica Geller', 'in you', 's01_e21_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u009",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u009_e1",
+          "tuples": [
+            "('thank', 'I/Monica Geller', 'you', 's01_e21_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u009_e2",
+          "tuples": [
+            "('give', 'you/Fake Monica', 'me so much', 's01_e21_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u009_e3",
+          "tuples": [
+            "('be', 'it', 'for you', 's01_e21_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u009_e4",
+          "tuples": [
+            "('get', 'I/Monica Geller', 'to sing Memories on the stage at the Wintergarden Theater', 's01_e21_c12_u009')",
+            "('sing', 'I/Monica Geller', 'Memories', 's01_e21_c12_u009')",
+            "('sing', 'I/Monica Geller', 'on the stage', 's01_e21_c12_u009')",
+            "('sing', 'I/Monica Geller', 'at the Wintergarden Theater', 's01_e21_c12_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u010",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u010_e1",
+          "tuples": [
+            "('get', 'you/Monica Geller', \"to sing 'Memo-'\", 's01_e21_c12_u010')",
+            "('sing', 'you/Monica Geller', \"'Memo-'\", 's01_e21_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u011",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u011_e1",
+          "tuples": [
+            "('believe', 'I/Monica Geller', \"you're in here\", 's01_e21_c12_u011')",
+            "('be', 'you/Fake Monica', 'in here', 's01_e21_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u011_e2",
+          "tuples": [
+            "('do', 'I/Monica Geller', 'what', 's01_e21_c12_u011')",
+            "('do', 'I/Monica Geller', 'without you', 's01_e21_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u011_e3",
+          "tuples": [
+            "('crash', 'who', 'the embassy parties', 's01_e21_c12_u011')",
+            "('crash', 'who', 'with me', 's01_e21_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u011_e4",
+          "tuples": [
+            "('take', 'who', 'me', 's01_e21_c12_u011')",
+            "('take', 'who', 'to the Big Apple Circus', 's01_e21_c12_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u012",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u012_e1",
+          "tuples": [
+            "('start', 'I/Fake Monica', 'my day', 's01_e21_c12_u012')",
+            "('start', 'I/Fake Monica', 'by peeing in front of twenty-five other women', 's01_e21_c12_u012')",
+            "('pee', 'I/Fake Monica', 'in front of twenty-five other women', 's01_e21_c12_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u012_e2",
+          "tuples": [
+            "('worry', 'you/Monica Geller', \"about who's gonna take you to the Big Apple Circus\", 's01_e21_c12_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u012_e3",
+          "tuples": [
+            "('take', 'who', 'you', 's01_e21_c12_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u013",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u013_e1",
+          "tuples": [
+            "('worry', 'I/Monica Geller', None, 's01_e21_c12_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u013_e2",
+          "tuples": [
+            "('wonder', 'I/Monica Geller', None, 's01_e21_c12_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u014",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u014_e1",
+          "tuples": [
+            "('be', 'there', 'nothing to wonder about', 's01_e21_c12_u014')",
+            "('wonder', 'you/Monica Geller', 'about nothing', 's01_e21_c12_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u014_e2",
+          "tuples": [
+            "('go back', 'you/Monica Geller', 'to being exactly who you were', 's01_e21_c12_u014')",
+            "('be', 'you/Monica Geller', 'exactly who you were', 's01_e21_c12_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u014_e3",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'who', 's01_e21_c12_u014')",
+            "('be', 'that', 'who you are', 's01_e21_c12_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u016",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u016_e1",
+          "tuples": [
+            "('know', 'I/Fake Monica', 'what it is', 's01_e21_c12_u016')",
+            "('be', 'it', 'what', 's01_e21_c12_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c12_u016_e2",
+          "tuples": [
+            "('be', 'it', 'the Amish thing', 's01_e21_c12_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u017",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u017_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'not actually Amish', 's01_e21_c12_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c12_u018",
+      "events": [
+        {
+          "event_id": "s01_e21_c12_u018_e1",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'like that', 's01_e21_c12_u018')"
+          ]
+        }
+      ]
+    }
+  ]
+}

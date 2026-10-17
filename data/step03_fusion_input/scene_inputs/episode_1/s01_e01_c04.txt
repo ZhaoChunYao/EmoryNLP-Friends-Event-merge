@@ -1,0 +1,84 @@
+('suppose', 'I/Ross Geller', 'attach a brackety thing to the side things', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('attach', 'I/Ross Geller', 'a brackety thing', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('attach', 'I/Ross Geller', 'to the side things', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('attach', 'I/Ross Geller', 'using a bunch of these little worm guys', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('use', 'I/Ross Geller', 'a bunch of these little worm guys', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('have', 'I/Ross Geller', 'no brackety thing', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('see', 'I/Ross Geller', 'no whim guys whatsoever', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('feel', 'I/Ross Geller', 'my legs', 's01_e01_c04_u001')
+[s01_e01_c04_u001] Ross Geller: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+
+('think', 'I/Joey Tribbiani', "we've got a bookcase here", 's01_e01_c04_u003')
+[s01_e01_c04_u003] Joey Tribbiani: I'm thinking we've got a bookcase here.
+
+('have', 'we/(Joey Tribbiani, Chandler Bing)', 'a bookcase', 's01_e01_c04_u003')
+[s01_e01_c04_u003] Joey Tribbiani: I'm thinking we've got a bookcase here.
+
+('be', 'it/bookcase', 'a beautiful thing', 's01_e01_c04_u004')
+[s01_e01_c04_u004] Chandler Bing: It's a beautiful thing.
+
+('be', 'this/L-shaped bracket', 'what', 's01_e01_c04_u005')
+[s01_e01_c04_u005] Joey Tribbiani: What's this?
+
+('say', 'I/Chandler Bing', "that is an 'L'-shaped bracket", 's01_e01_c04_u006')
+[s01_e01_c04_u006] Chandler Bing: I would have to say that is an 'L'-shaped bracket.
+
+('be', 'that/L-shaped bracket', "an 'L'-shaped bracket", 's01_e01_c04_u006')
+[s01_e01_c04_u006] Chandler Bing: I would have to say that is an 'L'-shaped bracket.
+
+('go', 'which/L-shaped bracket', 'where', 's01_e01_c04_u007')
+[s01_e01_c04_u007] Joey Tribbiani: Which goes where?
+
+('have', 'I/Chandler Bing', 'no idea', 's01_e01_c04_u008')
+[s01_e01_c04_u008] Chandler Bing: I have no idea.
+
+('be', 'this/beer', "Carol's favorite beer", 's01_e01_c04_u012')
+[s01_e01_c04_u012] Ross Geller: This was Carol's favorite beer. She always drank it out of the can, I should have known.
+
+('drink', 'she/Carol', 'it', 's01_e01_c04_u012')
+[s01_e01_c04_u012] Ross Geller: This was Carol's favorite beer. She always drank it out of the can, I should have known.
+
+('drink', 'she/Carol', 'out of the can', 's01_e01_c04_u012')
+[s01_e01_c04_u012] Ross Geller: This was Carol's favorite beer. She always drank it out of the can, I should have known.
+
+('know', 'I/Ross Geller', None, 's01_e01_c04_u012')
+[s01_e01_c04_u012] Ross Geller: This was Carol's favorite beer. She always drank it out of the can, I should have known.
+
+('start', 'you/Ross Geller', 'with that stuff', 's01_e01_c04_u013')
+[s01_e01_c04_u013] Joey Tribbiani: Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.
+
+('be', 'we/(Joey Tribbiani, Chandler Bing)', 'out of here', 's01_e01_c04_u013')
+[s01_e01_c04_u013] Joey Tribbiani: Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.
+
+('spoil', 'you/Ross Geller', 'all this fun', 's01_e01_c04_u014')
+[s01_e01_c04_u014] Chandler Bing: Yes, please don't spoil all this fun.
+
+('let', 'you/Ross Geller', 'me ask you a question', 's01_e01_c04_u015')
+[s01_e01_c04_u015] Joey Tribbiani: Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?
+
+('ask', 'me/Joey Tribbiani', 'you a question', 's01_e01_c04_u015')
+[s01_e01_c04_u015] Joey Tribbiani: Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?
+
+('get', 'she/Carol', 'the furniture, the stereo, the good TV', 's01_e01_c04_u015')
+[s01_e01_c04_u015] Joey Tribbiani: Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?
+
+('get', 'you/Ross Geller', 'what', 's01_e01_c04_u015')
+[s01_e01_c04_u015] Joey Tribbiani: Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?
+
+('screw', 'you/Ross Geller', None, 's01_e01_c04_u018')
+[s01_e01_c04_u018] Joey Tribbiani: You got screwed.
+

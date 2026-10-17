@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, minimal replies and asks one clarifying question; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely declines the odd offer with “that’s okay” (u004) and asks a calm clarifying question (u008) rather than reacting confrontationally."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization/efficiency or of carelessness in the short exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Remains calm when confronted with a strange offer; no signs of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Declining the bizarre puppet-head idea is reasonable boundary-setting; insufficient evidence of either curiosity/creativity or dogmatism/caution."
+  }
+}

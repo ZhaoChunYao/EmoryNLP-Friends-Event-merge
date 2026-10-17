@@ -1,0 +1,30 @@
+Episode: s01_e07
+Scene: s01_e07_c07
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e07_c07_u001 → s01_e07_c07_u012
+Peak window: 0 → 7
+
+Dialogue:
+  [s01_e07_c07_u001] Speaker_01: Hello?
+  [s01_e07_c07_u002]
+  1. TargetSpeaker says the caller is TargetSpeaker.
+  [s01_e07_c07_u003]
+  1. Speaker_01 says the caller is TargetSpeaker and asks whether TargetSpeaker is OK.
+  [s01_e07_c07_u004]
+  1. TargetSpeaker says TargetSpeaker is fine.
+  [s01_e07_c07_u005] Speaker_01: What?
+  [s01_e07_c07_u006] TargetSpeaker: I'm trppd... in an ATM vstbl... wth Jll Gdcr!
+  [s01_e07_c07_u007]
+  1. Speaker_01 says Speaker_01 has no idea what TargetSpeaker just said.
+  2. Speaker_01 says TargetSpeaker just said something that Speaker_01 could not understand.
+  [s01_e07_c07_u008]
+  1. TargetSpeaker tells Speaker_01 to put Speaker_02 on the phone.
+  [s01_e07_c07_u009]
+  1. Speaker_02 asks TargetSpeaker what is happening.
+  [s01_e07_c07_u010] TargetSpeaker: I'm trppd... in an ATM vstbl... wth JLL GDCR.
+  [s01_e07_c07_u011]
+  1. Speaker_02 says TargetSpeaker is trapped in an ATM vestibule with Speaker_03.
+  2. Speaker_02 tells TargetSpeaker to listen.
+  [s01_e07_c07_u012]
+  1. TargetSpeaker says the thought that TargetSpeaker is trapped in an ATM vestibule with Speaker_03 entered TargetSpeaker's mind.

@@ -1,0 +1,111 @@
+('be', 'your zoo', None, 's01_e21_c10_u001')
+[s01_e21_c10_u001] Ross Geller: Where exactly is your zoo?
+
+('be', 'it/(Dr. Baldhara’s facility)', 'technically not a zoo per se', 's01_e21_c10_u002')
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+
+('be', 'it/(Dr. Baldhara’s facility)', 'more of an interactive wildlife experience', 's01_e21_c10_u002')
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+
+('ask', 'I/(Dr. Baldhara)', 'you some questions', 's01_e21_c10_u002')
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+
+('ask', 'I/(Dr. Baldhara)', 'about Marcel', 's01_e21_c10_u002')
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+
+('be', 'it/(Ross’s monkey)', 'Marcel', 's01_e21_c10_u002')
+[s01_e21_c10_u002] Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?
+
+('fight', 'he/(Marcel)', None, 's01_e21_c10_u004')
+[s01_e21_c10_u004] Dr. Baldhara: Does he, uh, fight with other animals?
+
+('fight', 'he/(Marcel)', 'with other animals', 's01_e21_c10_u004')
+[s01_e21_c10_u004] Dr. Baldhara: Does he, uh, fight with other animals?
+
+('be', 'he/(Marcel)', 'very docile', 's01_e21_c10_u005')
+[s01_e21_c10_u005] Ross Geller: No-no, he's, he's very docile.
+
+('be', 'he/(Marcel)', 'cornered', 's01_e21_c10_u006')
+[s01_e21_c10_u006] Dr. Baldhara: Even if he were... cornered?
+
+('know', 'I/(Ross Geller)', None, 's01_e21_c10_u007')
+[s01_e21_c10_u007] Ross Geller: Well I, I don't know. Why?
+
+('be', 'he/(Marcel)', None, 's01_e21_c10_u008')
+[s01_e21_c10_u008] Dr. Baldhara: Uh, how is he at handling small objects?
+
+('be', 'he/(Marcel)', 'at handling small objects', 's01_e21_c10_u008')
+[s01_e21_c10_u008] Dr. Baldhara: Uh, how is he at handling small objects?
+
+('handle', 'he/(Marcel)', 'small objects', 's01_e21_c10_u008')
+[s01_e21_c10_u008] Dr. Baldhara: Uh, how is he at handling small objects?
+
+('hold', 'he/(Marcel)', 'a banana', 's01_e21_c10_u009')
+[s01_e21_c10_u009] Ross Geller: He can hold a banana, if that's whatcha mean...
+
+('be', 'that', 'what you mean', 's01_e21_c10_u009')
+[s01_e21_c10_u009] Ross Geller: He can hold a banana, if that's whatcha mean...
+
+('mean', 'you/(Dr. Baldhara)', 'that', 's01_e21_c10_u009')
+[s01_e21_c10_u009] Ross Geller: He can hold a banana, if that's whatcha mean...
+
+('need', 'he/(Marcel)', 'a blade', 's01_e21_c10_u011')
+[s01_e21_c10_u011] Ross Geller: Why- why- why would he need a blade?
+
+('be', 'he/(Marcel)', 'up against a jungle cat or an animal with horns', 's01_e21_c10_u012')
+[s01_e21_c10_u012] Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
+
+('give', 'you/(Ross Geller)', 'the little guy something', 's01_e21_c10_u012')
+[s01_e21_c10_u012] Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
+
+('be', 'it/(leaving Marcel unarmed)', 'just cruel', 's01_e21_c10_u012')
+[s01_e21_c10_u012] Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.
+
+('get in', 'he/(Marcel)', None, 's01_e21_c10_u014')
+[s01_e21_c10_u014] Chandler Bing, Joey Tribbiani: He- he- he got in, he- he got in to San Diego.
+
+('get in', 'he/(Marcel)', 'to San Diego', 's01_e21_c10_u014')
+[s01_e21_c10_u014] Chandler Bing, Joey Tribbiani: He- he- he got in, he- he got in to San Diego.
+
+('come back', 'we/(Joey Tribbiani and Chandler Bing)', None, 's01_e21_c10_u015')
+[s01_e21_c10_u015] Joey Tribbiani: We, we come back from our walk and the- the phone was ringing...
+
+('come back', 'we/(Joey Tribbiani and Chandler Bing)', 'from our walk', 's01_e21_c10_u015')
+[s01_e21_c10_u015] Joey Tribbiani: We, we come back from our walk and the- the phone was ringing...
+
+('ring', 'the phone', None, 's01_e21_c10_u015')
+[s01_e21_c10_u015] Joey Tribbiani: We, we come back from our walk and the- the phone was ringing...
+
+('be', 'he/(Marcel)', 'in', 's01_e21_c10_u016')
+[s01_e21_c10_u016] Chandler Bing: ...He's in.
+
+('hear', 'you/(Marcel)', 'that', 's01_e21_c10_u017')
+[s01_e21_c10_u017] Ross Geller: He's in! Oh, did you hear that, Marcel? San Diego. San Diego!
+
+('make', 'you/(Ross Geller)', 'a big mistake', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('mean', 'I/(Dr. Baldhara)', None, 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('be', 'San Diego', 'all well and good', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('give', 'you/(Ross Geller)', 'him', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('give', 'you/(Ross Geller)', 'to me', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('start', 'I/(Dr. Baldhara)', 'him', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('start', 'I/(Dr. Baldhara)', 'off against a blind rabbit', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('give', 'I/(Dr. Baldhara)', 'you twenty percent', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+
+('give', 'I/(Dr. Baldhara)', 'of the gains', 's01_e21_c10_u018')
+[s01_e21_c10_u018] Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.
+

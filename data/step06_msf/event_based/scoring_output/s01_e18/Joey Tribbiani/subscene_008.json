@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and only to offer help; no clear signs of being outgoing or talkative."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker reassures Speaker_01 ('that is OK'), invites them to ask for money, and contributes five dollars—showing generosity and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or efficiency; only a willingness to contribute money."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of nervousness or strong confidence; tone is neutral and focused on helping."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No discussion of new ideas or curiosity; interaction is purely practical."
+  }
+}

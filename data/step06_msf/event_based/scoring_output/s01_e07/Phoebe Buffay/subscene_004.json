@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He takes charge of the interaction, telling Speaker_06 to wait and assertively questioning him about the cat’s name."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He is distrustful and confrontational—claims the Mendels hate all living things and challenges Speaker_06’s ownership and that the cat hates him."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He insists on verifying ownership before handing over the cat, asking for the cat’s name and pausing the handoff to check."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He appears calm and confident while directing others and challenging claims, with no signs of anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He makes a dogmatic generalization about the Mendels and behaves cautiously, requiring proof before acting."
+  }
+}

@@ -1,0 +1,21 @@
+Episode: s01_e22
+Scene: s01_e22_c02
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e22_c02_u032 → s01_e22_c02_u038
+Peak window: 30 → 30
+
+Dialogue:
+  [s01_e22_c02_u032]
+  1. Speaker_01 asks whether Speaker_02 has any problem with how old Speaker_03 is.
+  [s01_e22_c02_u033]
+  1. Speaker_03 says the age difference between Speaker_03 and Speaker_02 is not even an issue.
+  2. Speaker_03 says Speaker_03 told Speaker_02 that Speaker_03 was 22.
+  [s01_e22_c02_u034] Speaker_04: What?
+  [s01_e22_c02_u035]
+  1. Speaker_03 asks whether Speaker_03 can pass for 22.
+  [s01_e22_c02_u036] TargetSpeaker: Well, maybe 25-26.
+  [s01_e22_c02_u037]
+  1. Speaker_03 says Speaker_03 is 26.
+  [s01_e22_c02_u038]
+  1. TargetSpeaker says Speaker_03 has proven the point by being 26.

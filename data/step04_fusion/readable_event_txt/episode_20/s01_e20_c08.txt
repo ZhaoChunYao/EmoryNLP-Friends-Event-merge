@@ -1,0 +1,171 @@
+event_id: s01_e20_c08_u003_e1
+utterance_id: s01_e20_c08_u003
+  tuple: ('be', 'what', 'up', 's01_e20_c08_u003')
+
+event_id: s01_e20_c08_u004_e1
+utterance_id: s01_e20_c08_u004
+  tuple: ('sit', 'we/(Mindy and Rachel)', None, 's01_e20_c08_u004')
+  tuple: ('sit', 'we/(Mindy and Rachel)', 'for this', 's01_e20_c08_u004')
+
+event_id: s01_e20_c08_u006_e1
+utterance_id: s01_e20_c08_u006
+  tuple: ('know', 'I/Mindy', None, 's01_e20_c08_u006')
+  tuple: ('be', 'things', 'weird lately', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e2
+utterance_id: s01_e20_c08_u006
+  tuple: ('be', 'you/Rachel', 'like my oldest friend', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e3
+utterance_id: s01_e20_c08_u006
+  tuple: ('talk', 'I/Mindy', 'to Laurie Schaffer', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e4
+utterance_id: s01_e20_c08_u006
+  tuple: ('be', 'she/Laurie Schaffer', 'all bitter now', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e5
+utterance_id: s01_e20_c08_u006
+  tuple: ('lose', 'she/Laurie Schaffer', 'the weight', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e6
+utterance_id: s01_e20_c08_u006
+  tuple: ('turn out', 'it', "she doesn't have a pretty face", 's01_e20_c08_u006')
+  tuple: ('have', 'she/Laurie Schaffer', 'a pretty face', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u006_e7
+utterance_id: s01_e20_c08_u006
+  tuple: ('ask', 'I/Mindy', 'you', 's01_e20_c08_u006')
+  tuple: ('want', 'I/Mindy', 'a straight answer', 's01_e20_c08_u006')
+
+event_id: s01_e20_c08_u008_e1
+utterance_id: s01_e20_c08_u008
+  tuple: ('be', 'you/Rachel', 'my maid of honour', 's01_e20_c08_u008')
+
+event_id: s01_e20_c08_u010_e1
+utterance_id: s01_e20_c08_u010
+  tuple: ('be', 'that', 'so great', 's01_e20_c08_u010')
+
+event_id: s01_e20_c08_u011_e1
+utterance_id: s01_e20_c08_u011
+  tuple: ('be', 'that', 'all you wanted to ask me', 's01_e20_c08_u011')
+  tuple: ('want', 'you/Mindy', 'to ask me', 's01_e20_c08_u011')
+  tuple: ('ask', 'you/Mindy', 'me', 's01_e20_c08_u011')
+
+event_id: s01_e20_c08_u012_e1
+utterance_id: s01_e20_c08_u012
+  tuple: ('be', 'that', 'all', 's01_e20_c08_u012')
+
+event_id: s01_e20_c08_u014_e1
+utterance_id: s01_e20_c08_u014
+  tuple: ('be', 'that', 'not all', 's01_e20_c08_u014')
+
+event_id: s01_e20_c08_u015_e1
+utterance_id: s01_e20_c08_u015
+  tuple: ('be', 'it', None, 's01_e20_c08_u015')
+
+event_id: s01_e20_c08_u016_e1
+utterance_id: s01_e20_c08_u016
+  tuple: ('think', 'I/Mindy', 'Barry is seeing someone in the city', 's01_e20_c08_u016')
+  tuple: ('see', 'Barry', 'someone', 's01_e20_c08_u016')
+  tuple: ('see', 'Barry', 'in the city', 's01_e20_c08_u016')
+
+event_id: s01_e20_c08_u017_e1
+utterance_id: s01_e20_c08_u017
+  tuple: ('make', 'what', 'you think that', 's01_e20_c08_u017')
+  tuple: ('think', 'you/Mindy', 'that', 's01_e20_c08_u017')
+
+event_id: s01_e20_c08_u018_e1
+utterance_id: s01_e20_c08_u018
+  tuple: ('announce', 'we/(Mindy and Barry)', 'the engagement', 's01_e20_c08_u018')
+
+event_id: s01_e20_c08_u018_e2
+utterance_id: s01_e20_c08_u018
+  tuple: ('act', 'he/Barry', 'really weird', 's01_e20_c08_u018')
+  tuple: ('act', 'he/Barry', 'since we announced the engagement', 's01_e20_c08_u018')
+
+event_id: s01_e20_c08_u018_e3
+utterance_id: s01_e20_c08_u018
+  tuple: ('come', 'he/Barry', None, 's01_e20_c08_u018')
+  tuple: ('smell', 'he/Barry', 'like Chanel', 's01_e20_c08_u018')
+
+event_id: s01_e20_c08_u019_e1
+utterance_id: s01_e20_c08_u019
+  tuple: ('make', 'it', 'you feel any better', 's01_e20_c08_u019')
+  tuple: ('feel', 'you/Mindy', 'any better', 's01_e20_c08_u019')
+
+event_id: s01_e20_c08_u019_e2
+utterance_id: s01_e20_c08_u019
+  tuple: ('engage', 'I/Rachel', 'to him', 's01_e20_c08_u019')
+
+event_id: s01_e20_c08_u019_e3
+utterance_id: s01_e20_c08_u019
+  tuple: ('go', 'he/Barry', 'through a whole weird thing', 's01_e20_c08_u019')
+
+event_id: s01_e20_c08_u020_e1
+utterance_id: s01_e20_c08_u020
+  tuple: ('see', 'you/Rachel', None, 's01_e20_c08_u020')
+
+event_id: s01_e20_c08_u020_e2
+utterance_id: s01_e20_c08_u020
+  tuple: ('be', 'that', 'what I was afraid of', 's01_e20_c08_u020')
+  tuple: ('be', 'I/Mindy', 'afraid of what', 's01_e20_c08_u020')
+
+event_id: s01_e20_c08_u021_e1
+utterance_id: s01_e20_c08_u021
+  tuple: ('be', 'what', 'what you were afraid of', 's01_e20_c08_u021')
+  tuple: ('be', 'you/Mindy', 'afraid of what', 's01_e20_c08_u021')
+
+event_id: s01_e20_c08_u022_e1
+utterance_id: s01_e20_c08_u022
+  tuple: ('engage', 'Barry', 'to you/Rachel', 's01_e20_c08_u022')
+
+event_id: s01_e20_c08_u022_e2
+utterance_id: s01_e20_c08_u022
+  tuple: ('have', 'he and I/(Barry and Mindy)', 'a little thing', 's01_e20_c08_u022')
+  tuple: ('have', 'he and I/(Barry and Mindy)', 'on the side', 's01_e20_c08_u022')
+
+event_id: s01_e20_c08_u024_e1
+utterance_id: s01_e20_c08_u024
+  tuple: ('know', 'I/Mindy', None, 's01_e20_c08_u024')
+
+event_id: s01_e20_c08_u024_e2
+utterance_id: s01_e20_c08_u024
+  tuple: ('propose', 'he/Barry', 'to me', 's01_e20_c08_u024')
+
+event_id: s01_e20_c08_u024_e3
+utterance_id: s01_e20_c08_u024
+  tuple: ('say', 'everyone', '"Don\'t do it, he\'s just gonna do to you what he did to Rachel,"', 's01_e20_c08_u024')
+  tuple: ('do', 'you/Mindy', 'it', 's01_e20_c08_u024')
+  tuple: ('do', 'he/Barry', 'to you', 's01_e20_c08_u024')
+  tuple: ('do', 'he/Barry', 'to Rachel', 's01_e20_c08_u024')
+  tuple: ('do', 'he/Barry', 'what', 's01_e20_c08_u024')
+
+event_id: s01_e20_c08_u024_e4
+utterance_id: s01_e20_c08_u024
+  tuple: ('feel', 'I/Mindy', 'so stupid', 's01_e20_c08_u024')
+
+event_id: s01_e20_c08_u025_e1
+utterance_id: s01_e20_c08_u025
+  tuple: ('be', 'you/Mindy', 'so stupid', 's01_e20_c08_u025')
+
+event_id: s01_e20_c08_u025_e2
+utterance_id: s01_e20_c08_u025
+  tuple: ('be', 'we/(Mindy and Rachel)', 'both so stupid', 's01_e20_c08_u025')
+
+event_id: s01_e20_c08_u026_e1
+utterance_id: s01_e20_c08_u026
+  tuple: ('mean', 'you/Rachel', 'what', 's01_e20_c08_u026')
+
+event_id: s01_e20_c08_u027_e1
+utterance_id: s01_e20_c08_u027
+  tuple: ('smell', 'it', 'familiar', 's01_e20_c08_u027')
+
+event_id: s01_e20_c08_u029_e1
+utterance_id: s01_e20_c08_u029
+  tuple: ('be', 'I/Rachel', 'so sorry', 's01_e20_c08_u029')
+
+event_id: s01_e20_c08_u030_e1
+utterance_id: s01_e20_c08_u030
+  tuple: ('be', 'I/Mindy', 'so sorry', 's01_e20_c08_u030')
+

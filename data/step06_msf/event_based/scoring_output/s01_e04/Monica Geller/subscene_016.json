@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes a bold, flirtatious public remark (“[Speaker_03] should drop the towel”), showing outgoing, uninhibited engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "The suggestion is pushy/inconsiderate toward Speaker_03 rather than cooperative or gentle."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior here reflects organization or reliability; only a brief impulsive comment is given."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks boldly without hesitation or signs of anxiety, indicating confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or imaginative thinking beyond a cheeky remark."
+  }
+}

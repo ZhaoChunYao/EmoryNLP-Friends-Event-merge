@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At a party, she engages the group with a long, detailed story about the cab incident and comments that everybody is having fun at the party."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She straightforwardly answers where Speaker_04 is and shows concern for others enjoying the party, noting people are eating her dip, without hostile or boastful remarks."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She had prepared dip for the party and carried an attack whistle, indicating planning and preparedness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Although she describes being hurt in a fight, she recounts it matter-of-factly without showing anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "She reports concrete events without displaying curiosity, imaginative ideas, or unconventional thinking."
+  }
+}

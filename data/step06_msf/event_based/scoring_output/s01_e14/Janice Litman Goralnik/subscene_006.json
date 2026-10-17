@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Brings a gift, talks a lot, confidently declares the relationship will continue and that Speaker_01 loves them; assertively lists shared events and says they’ll see Speaker_01 later."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Disregards Speaker_01’s clear breakup and boundaries, insisting “it’s not the end” and “you love me/can’t live without me,” using loaded, manipulative candy hearts."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Planned ahead and “had the little candy hearts made special,” and cites specific past occasions (New Year’s, Valentine’s) to make a case."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and self-assured during the breakup (“that’s fine”), repeatedly confident the relationship isn’t over."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses creative gestures and imagery (custom candy hearts; “something deep in your soul… like a foghorn”), showing imaginative, unconventional expression."
+  }
+}

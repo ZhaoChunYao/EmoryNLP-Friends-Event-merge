@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Declares the table is done with chit-chat and ready to play serious poker; questions and presses Speaker_01 about staying to play."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uses a curt, directive tone (“done with the chit-chat”) and pressures Speaker_01 (“Do you want to go to the bathroom or play poker?”), showing low accommodation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Cuts off small talk and pushes to start “serious poker,” focusing the group on the task."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and assertively with no signs of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or openness to new ideas; focus is on proceeding with the planned game."
+  }
+}

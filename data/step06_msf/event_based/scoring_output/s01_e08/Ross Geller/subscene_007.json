@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Interaction is task-focused and professional (suggests dress and shoes, responds to requests) without clear signs of outgoing/energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperative and accommodating: shows all available options (u003-1/2), recommends a suitable dress (u003-5), proposes an alternative shoe when burgundy is unavailable (u013-2/3), and offers to check the back room (u016-1/2)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organized and efficient: has already shown everything in stock (u003-1/2), knows inventory limits ('no evening shoe in burgundy', u013-1), and promptly seeks solutions (u016-1/2)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays emotional stress and worry about grandmother’s attire: talks about 'spend eternity in a lemon yellow pantsuit' (u003-3/4), notes others will be dressier (u011-1/2), exclaims 'Oh my God..' (u018) and then says 'just... Nana stuff' (u020)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Considers a practical alternative (silver shoe) but otherwise sticks to conventional options and client preferences; no strong signs of imaginative or unconventional thinking."
+  }
+}

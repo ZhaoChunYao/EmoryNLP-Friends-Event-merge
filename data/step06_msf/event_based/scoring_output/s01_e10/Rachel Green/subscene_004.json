@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At u007, the TargetSpeaker says everyone present is going ahead, taking initiative in directing the group."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After u008 notes there is no room for milk, the TargetSpeaker replies at u009 that there is now room for milk—helpfully addressing another’s concern."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "At u009 the TargetSpeaker indicates the space issue has been resolved (“there is now room for milk”), suggesting quick, organized problem-solving."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Statements at u007 and u009 are decisive and solution-oriented, showing confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or unconventional thinking; statements focus on practical logistics."
+  }
+}

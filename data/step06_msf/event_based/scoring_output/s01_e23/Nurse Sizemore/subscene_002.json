@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Takes charge vocally in the delivery room, announces there are too many people, directs non-essentials to leave, and issues a firm 'Out!' command."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Communicates boundaries clearly and straightforwardly about who may stay, without manipulation or boastfulness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes the situation efficiently by limiting the delivery room to essential people to maintain order and focus."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Decisive and confident under pressure, giving clear commands with no signs of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or closed-mindedness; actions are procedural without expressing views or ideas."
+  }
+}

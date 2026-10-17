@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages by asking what Speaker_02 will say and by urging Speaker_02 to tell Speaker_03 the good news now (u016, u020)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker frames Speaker_02’s feelings as “good news” and encourages honest, supportive sharing with Speaker_03 (u020)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about planning, organization, or diligence; only immediate advice is given."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks confidently and urges immediate action without showing worry or hesitation (u020)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking what Speaker_02 will say (u016) and favors a less cautious, open approach by urging disclosure now (u020)."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives only brief, one-word responses (“Ross.” and “She.”), correcting facts without engaging further, indicating a reserved, non-talkative stance."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of warmth or uncooperativeness; the short corrections are neutral in tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization or reliability is shown in the brief exchanges."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional volatility are present."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or closed-mindedness are evident in the minimal replies."
+  }
+}

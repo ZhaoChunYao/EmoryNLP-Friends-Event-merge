@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker is hesitant and reserved: he downplays interest ('Speaker_02 barely knows TargetSpeaker'), gives minimal responses ('Aw, right.' 'Hey.'), and does not initiate approaching Speaker_02 until friends push a plan."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of either cooperative/generous behavior or antagonism; his statements are neutral and factual."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, reliability, or carelessness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He shows self-doubt and insecurity about being wanted ('Speaker_02 barely knows TargetSpeaker') and hesitates about engaging."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "He is cautious and skeptical about new/social ideas, questioning the egg plan ('An egg?') and dismissing the possibility that Speaker_02 wants him."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly asks for a $100 advance, shares personal plans about Thanksgiving and the annual Vail ski trip, and actively engages customers by asking if they need coffee."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When told she is a terrible waitress, she agrees without arguing and focuses on helping (tries to improve and points out a customer needing coffee)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She says she is trying really hard, is checking with customers about coffee, and notices a customer signaling—showing diligence and task focus despite being new."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Accepts harsh feedback calmly, agrees with it, and states she thinks she is doing better—shows composure and confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "States she started an 'independence' push and took the waitress job because of it, indicating willingness to embrace change and new experiences."
+  }
+}

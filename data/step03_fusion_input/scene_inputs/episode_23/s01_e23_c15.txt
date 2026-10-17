@@ -1,0 +1,39 @@
+('know', 'you/(Guy)', 'I was even here', 's01_e23_c15_u001')
+[s01_e23_c15_u001] Lydia: So how did you know I was even here?
+
+('be', 'I/(Lydia)', 'even here', 's01_e23_c15_u001')
+[s01_e23_c15_u001] Lydia: So how did you know I was even here?
+
+('call', 'Your mom', 'me', 's01_e23_c15_u002')
+[s01_e23_c15_u002] Guy: Your mom called me. So is this her?
+
+('be', 'this/(car)', 'her', 's01_e23_c15_u002')
+[s01_e23_c15_u002] Guy: Your mom called me. So is this her?
+
+('be', 'this/(car)', 'a loaner', 's01_e23_c15_u003')
+[s01_e23_c15_u003] Lydia: No, this is a loaner.
+
+('be', 'I/(Guy)', 'sorry you had to do this by yourself', 's01_e23_c15_u004')
+[s01_e23_c15_u004] Guy: I'm sorry you had to do this by yourself.
+
+('do', 'you/(Lydia)', 'this by yourself', 's01_e23_c15_u004')
+[s01_e23_c15_u004] Guy: I'm sorry you had to do this by yourself.
+
+('be', 'I/(Lydia)', 'by myself', 's01_e23_c15_u005')
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+
+('have', 'I/(Lydia)', 'a doctor, a nurse, and a helper guy', 's01_e23_c15_u005')
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+
+('see', 'you/(Guy)', 'who won the game', 's01_e23_c15_u005')
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+
+('win', 'who/(the Knicks)', 'the game', 's01_e23_c15_u005')
+[s01_e23_c15_u005] Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?
+
+('suck', 'they/(the Knicks)', None, 's01_e23_c15_u006')
+[s01_e23_c15_u006] Guy: Yeah, the Knicks by 10. They suck.
+
+('be', 'they/(the Knicks)', 'not so bad', 's01_e23_c15_u007')
+[s01_e23_c15_u007] Lydia: Yeah, they're not so bad.
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Urges another to try the salmon mousse they are serving and actively shares opinions about which version is better, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Hospitably serves food and encourages another to try it; interacts cooperatively without any hostility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Prepared multiple versions of the dish and evaluates quality details like extra creaminess, indicating care and standards."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently that one mousse is better and shows no signs of worry or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Experiments with and compares different versions of the mousse and discusses texture preferences, showing curiosity and openness to variation."
+  }
+}

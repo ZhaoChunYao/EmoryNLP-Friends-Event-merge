@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively confronts Speaker_04, speaks at length and with energy (calls the situation ridiculous, lists multiple concerns, snaps “What? What?”), not reserved during the exchange."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Blames and criticizes Speaker_04, uses sarcasm (“thanks”), says it’s typical of Speaker_04, refuses to hear the explanation and says to forget it."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Reports having been all over the neighborhood searching for Speaker_02 despite cold, dark, and a broken foot—showing diligence and persistence."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Anxious and irritable: worries that Speaker_02 is gone, emphasizes cold/dark, expresses frustration (“Oh gosh,” “ridiculous”), and snaps during the argument."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Closed off to new information: explicitly says not wanting to hear Speaker_04’s explanation and dismisses it as “typical,” telling them to forget it."
+  }
+}

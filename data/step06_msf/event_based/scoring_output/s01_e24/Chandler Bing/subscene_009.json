@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only two brief comments; participation is limited and does not clearly show being outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker dismisses others’ excitement by saying the news is small and asks for a mute button to silence Speaker_03, which is blunt and unsympathetic."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker downplays the dramatic news and shows no anxiety, instead making a controlled, joking remark about muting the chatter."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or openness to new ideas; minimizing gossip does not indicate either openness or closed-mindedness."
+  }
+}

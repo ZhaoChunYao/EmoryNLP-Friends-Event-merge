@@ -1,0 +1,24 @@
+event_id: s01_e04_c06_u002_e1
+utterance_id: s01_e04_c06_u002
+  tuple: ('be', 'There', 'ice', 's01_e04_c06_u002')
+
+event_id: s01_e04_c06_u003_e1
+utterance_id: s01_e04_c06_u003
+  tuple: ('say', 'I/(Ross Geller)', "it looks like we're not sitting together", 's01_e04_c06_u003')
+  tuple: ('look', 'it/(the seating situation)', "like we're not sitting together", 's01_e04_c06_u003')
+  tuple: ('sit', 'we/(Ross Geller and Chandler Bing)', None, 's01_e04_c06_u003')
+
+event_id: s01_e04_c06_u003_e2
+utterance_id: s01_e04_c06_u003
+  tuple: ('mention', 'you/(Chandler Bing)', 'it', 's01_e04_c06_u003')
+
+event_id: s01_e04_c06_u003_e3
+utterance_id: s01_e04_c06_u003
+  tuple: ('be', 'it/(that night)', 'the first frost', 's01_e04_c06_u003')
+
+event_id: s01_e04_c06_u004_e1
+utterance_id: s01_e04_c06_u004
+  tuple: ('come', 'you/(Ross Geller)', 'on', 's01_e04_c06_u004')
+  tuple: ('sit', 'you/(Ross Geller)', 'down', 's01_e04_c06_u004')
+  tuple: ('sit', 'you/(Ross Geller)', None, 's01_e04_c06_u004')
+

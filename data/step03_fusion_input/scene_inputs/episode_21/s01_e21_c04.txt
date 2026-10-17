@@ -1,0 +1,75 @@
+('be', 'this/Monica Geller', 'Monica Geller', 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('believe', 'I/Monica Geller', "I'm taking some classes with you", 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('take', 'I/Monica Geller', 'some classes', 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('take', 'I/Monica Geller', 'with you/(class provider)', 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('wonder', 'I/Monica Geller', 'what they were', 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('be', 'they/(classes)', 'what', 's01_e21_c04_u003')
+[s01_e21_c04_u003] Monica Geller: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+
+('do', 'you/Monica Geller', 'what', 's01_e21_c04_u004')
+[s01_e21_c04_u004] Phoebe Buffay: What are you doing?
+
+('go', 'I/Monica Geller', 'to tap class', 's01_e21_c04_u005')
+[s01_e21_c04_u005] Monica Geller: Alright, great. Thanks a lot. I'm going to tap class.
+
+('dance', 'you/Monica Geller', 'with the woman', 's01_e21_c04_u006')
+[s01_e21_c04_u006] Rachel Green: What, what, so that you can dance with the woman that stole your credit card?
+
+('steal', 'the woman', 'your credit card', 's01_e21_c04_u006')
+[s01_e21_c04_u006] Rachel Green: What, what, so that you can dance with the woman that stole your credit card?
+
+('get', 'this woman', 'my life', 's01_e21_c04_u007')
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+
+('get', 'I/Monica Geller', 'to see who she is', 's01_e21_c04_u007')
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+
+('see', 'I/Monica Geller', 'who she is', 's01_e21_c04_u007')
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+
+('be', 'she/(the woman)', 'who', 's01_e21_c04_u007')
+[s01_e21_c04_u007] Monica Geller: This woman's got my life, I should get to see who she is.
+
+('go', 'you/Monica Geller', 'to the post office', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('be', 'I/Rachel Green', 'her picture is up', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('be', 'her picture', 'up', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('lose', 'you/Monica Geller', 'it', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('mean', 'I/Rachel Green', 'this is really becoming like a weird obsession thing', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('be', "this/(Monica's behavior)", 'really becoming like a weird obsession thing', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('become', "this/(Monica's behavior)", 'like a weird obsession thing', 's01_e21_c04_u008')
+[s01_e21_c04_u008] Rachel Green: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.
+
+('be', "this/(Monica's plan)", 'madness', 's01_e21_c04_u009')
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.
+
+('tell', 'I/Phoebe Buffay', 'you/Monica Geller', 's01_e21_c04_u009')
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.
+
+('do', 'you/Monica Geller', 'it', 's01_e21_c04_u009')
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.
+
+('thank', 'I/Phoebe Buffay', 'you/Monica Geller', 's01_e21_c04_u009')
+[s01_e21_c04_u009] Phoebe Buffay: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.
+

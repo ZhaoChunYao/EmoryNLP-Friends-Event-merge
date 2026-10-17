@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly (“Yes, please don't spoil all this fun.”; “Oh, God.”; “Oh my God!”) without showing outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker politely tries to keep harmony: “Yes, please don't spoil all this fun,” aiming to prevent negativity and support the group mood."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or diligence is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Exclamations (“Oh, God,” “Oh my God!”) show momentary reaction but no clear signs of anxiety, insecurity, or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicate curiosity, creativity, or dogmatism/caution."
+  }
+}

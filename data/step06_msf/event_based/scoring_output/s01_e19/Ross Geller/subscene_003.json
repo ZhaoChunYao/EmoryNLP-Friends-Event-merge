@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly discusses and enthusiastically pursues a date, detailing plans to see Speaker_03 and be alone together (u008) and to pick up wine, go to her place, and try to woo her (u010), showing outgoing, assertive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After initially implying Speaker_03 wanted someone exactly like TargetSpeaker, TargetSpeaker promptly clarifies they added that part themselves (u006), demonstrating straightforwardness and honesty."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Lays out a clear, step-by-step evening plan—after work pick up wine, go to Speaker_03’s place, and try to woo her (u010)—indicating organization and forethought."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Expresses confidence in the plan (“I think my plan for the evening is perfect,” u008) and shows no signs of anxiety or self-doubt."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No strong indications of inventive or unconventional thinking beyond a standard romantic plan; also no evidence of dogmatic or overly cautious attitudes."
+  }
+}

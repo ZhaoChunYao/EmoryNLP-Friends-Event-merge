@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, hesitant replies focused on uncertainty rather than engaging energetically; no clear sign of outgoing talkativeness (u017, u021)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforwardly admits not knowing what to say instead of pretending otherwise (u017, u021)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Shows lack of planning, saying they don’t know what they’ll say and will figure it out in the moment (u017, u021)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Repeated uncertainty about what to say before an emotionally charged meeting suggests nervousness/indecision (u017, u021)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Expresses willingness to improvise—'will know what to say when I see them'—showing comfort with spontaneity (u021)."
+  }
+}

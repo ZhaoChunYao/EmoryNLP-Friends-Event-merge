@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates conversation and asks two social questions—whether Speaker_01 and Speaker_03 get along and who will be at the Lamaze class—showing active engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Questions are neutral and informational; no clear signs of kindness/cooperation or hostility/untrustworthiness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Asking who will attend the Lamaze class shows curiosity but not clear organization or task management by TargetSpeaker."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, worry, or emotional instability in the brief exchanges."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Inquiries concern social relations and attendance, not ideas, creativity, or openness to new experiences."
+  }
+}

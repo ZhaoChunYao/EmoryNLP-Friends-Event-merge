@@ -1,0 +1,51 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e20_c11_u001_e1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'okay', 's01_e20_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e20_c11_u004_e1",
+          "tuples": [
+            "('know', 'you/Monica Geller', None, 's01_e20_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c11_u004_e2",
+          "tuples": [
+            "('run out', 'I/Rachel Green', 'on Barry', 's01_e20_c11_u004')",
+            "('run out', 'I/Rachel Green', 'at the wedding', 's01_e20_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c11_u004_e3",
+          "tuples": [
+            "('wonder', 'I/Rachel Green', 'whether I made the right choice', 's01_e20_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c11_u004_e4",
+          "tuples": [
+            "('make', 'I/Rachel Green', 'the right choice', 's01_e20_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c11_u004_e5",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e20_c11_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Joins in the group greeting and says, “Hi Pheebs!”, engaging socially and talkatively."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses friendly greetings and helpfully notes that Speaker_01 already knows the baby's sex."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating planning or organization; only casual conversation."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or distress; tone is neutral and casual."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No curiosity or imaginative discussion; gives a straightforward factual remark."
+  }
+}

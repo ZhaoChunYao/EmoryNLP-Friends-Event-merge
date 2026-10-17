@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively invites Speaker_02 to stay at their and Rachel Green's apartment, indicating comfort with social contact and hosting."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker notices something is going on with Speaker_02 and generously offers them a place to stay for the night."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior shows organization or efficiency vs. carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or emotional instability; response is calm but not strong enough to indicate pronounced security or confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/inventiveness or dogmatism/caution in this exchange."
+  }
+}

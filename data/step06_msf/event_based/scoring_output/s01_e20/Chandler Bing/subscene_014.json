@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Another speaker reports TargetSpeaker is going ahead with arranging a date, indicating proactive social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He says Speaker_03 seems very nice but then calls her caring visit 'needy,' a blunt, critical judgment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from arranging a date, there is no strong sign of organization or carelessness; he even says he does not currently know about details."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; he simply states views and clarifies his point."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or dogmatism beyond a single value judgment."
+  }
+}

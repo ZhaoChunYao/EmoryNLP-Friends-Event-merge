@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Focuses on practical matters and concern; no clear signs of outgoing, energetic social behavior beyond admonishing and coordinating."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows care and support—says they’ve been worried (u006), affirms “water does rule” (u010), and helps by managing the credit card call and handing it over (u015)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Holds friend accountable and stays organized—says they could have called earlier and has been up waiting (u006), relays the restaurant’s call about work and asks if they’ll show (u010), warns about losing the job (u012), and manages the credit card call (u015)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Explicitly states being worried and staying up (u006), indicating anxiety/sensitivity in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or inventiveness; discussion centers on responsibilities and concern rather than openness or dogmatism."
+  }
+}

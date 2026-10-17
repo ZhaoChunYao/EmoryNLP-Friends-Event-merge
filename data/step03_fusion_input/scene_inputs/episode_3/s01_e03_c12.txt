@@ -1,0 +1,255 @@
+('be', 'that sock', 'old', 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('have', 'I/Chandler Bing', 'a sock', 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('have', 'I/Chandler Bing', 'on my hand', 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('have', 'I/Chandler Bing', 'for thirty years', 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('be', 'it/that sock', None, 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('talk', 'it/that sock', None, 's01_e03_c12_u001')
+[s01_e03_c12_u001] Chandler Bing: Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.
+
+('think', 'I/Ross Geller', "it is time to change somebody's nicotine patch", 's01_e03_c12_u002')
+[s01_e03_c12_u002] Ross Geller: Okay. I think it's time to change somebody's nicotine patch.
+
+('be', 'it/impersonal', 'time', 's01_e03_c12_u002')
+[s01_e03_c12_u002] Ross Geller: Okay. I think it's time to change somebody's nicotine patch.
+
+('change', 'I/Ross Geller', "somebody's nicotine patch", 's01_e03_c12_u002')
+[s01_e03_c12_u002] Ross Geller: Okay. I think it's time to change somebody's nicotine patch.
+
+('be', 'Joey Tribbiani', None, 's01_e03_c12_u003')
+[s01_e03_c12_u003] Monica Geller: Hey. Where's Joey?
+
+('eat', 'Joey Tribbiani', 'my last stick of gum', 's01_e03_c12_u004')
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+
+('kill', 'I/Chandler Bing', 'him/Joey Tribbiani', 's01_e03_c12_u004')
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+
+('think', 'you/#ALL#', 'that was wrong', 's01_e03_c12_u004')
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+
+('be', 'that/(killing him)', 'wrong', 's01_e03_c12_u004')
+[s01_e03_c12_u004] Chandler Bing: Joey ate my last stick of gum, so I killed him. Do you think that was wrong?
+
+('think', 'I/Rachel Green', 'he is across the hall', 's01_e03_c12_u005')
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+
+('be', 'he/Joey Tribbiani', None, 's01_e03_c12_u005')
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+
+('be', 'he/Joey Tribbiani', 'across the hall', 's01_e03_c12_u005')
+[s01_e03_c12_u005] Rachel Green: I think he's across the hall.
+
+('go', 'you/Monica Geller', None, 's01_e03_c12_u007')
+[s01_e03_c12_u007] Ross Geller: There y'go.
+
+('be', 'I/Chandler Bing', 'alive', 's01_e03_c12_u008')
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now.
+
+('be', 'I/Chandler Bing', 'with pleasure', 's01_e03_c12_u008')
+[s01_e03_c12_u008] Chandler Bing: Ooh, I'm alive with pleasure now.
+
+('have', 'you/Phoebe Buffay', 'the rest of that Pop-Tart', 's01_e03_c12_u009')
+[s01_e03_c12_u009] Ross Geller: Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?
+
+('want', 'anyone', 'the rest of this Pop-Tart', 's01_e03_c12_u010')
+[s01_e03_c12_u010] Phoebe Buffay: Does anyone want the rest of this Pop-Tart?
+
+('give', 'those stupid soda people', 'me seven thousand dollars', 's01_e03_c12_u012')
+[s01_e03_c12_u012] Phoebe Buffay: Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+
+('give', 'those stupid soda people', 'for the thumb', 's01_e03_c12_u012')
+[s01_e03_c12_u012] Phoebe Buffay: Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.
+
+('be', 'you/Phoebe Buffay', 'kidding', 's01_e03_c12_u013')
+[s01_e03_c12_u013] #ALL#: You're kidding. Oh my God.
+
+('step', 'I/Phoebe Buffay', None, 's01_e03_c12_u014')
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+
+('step', 'I/Phoebe Buffay', 'in gum', 's01_e03_c12_u014')
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+
+('be', 'what/(situation)', 'up', 's01_e03_c12_u014')
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+
+('be', 'what/(situation)', 'with the universe', 's01_e03_c12_u014')
+[s01_e03_c12_u014] Phoebe Buffay: And on my way over here, I stepped in gum. ...What is up with the universe?!
+
+('go', 'what', 'on', 's01_e03_c12_u015')
+[s01_e03_c12_u015] Joey Tribbiani: What's going on?
+
+('think', 'I/Monica Geller', 'it is nice when we are all here together', 's01_e03_c12_u016')
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+
+('be', 'it/(everyone here together)', 'nice', 's01_e03_c12_u016')
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+
+('be', 'we/#ALL#', 'here', 's01_e03_c12_u016')
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+
+('be', 'we/#ALL#', 'together', 's01_e03_c12_u016')
+[s01_e03_c12_u016] Monica Geller: Nothing. I just think it's nice when we're all here together.
+
+('get', 'everyone', 'to wear their underwear', 's01_e03_c12_u017')
+[s01_e03_c12_u017] Joey Tribbiani: Even nicer when everyone gets to wear their underwear..
+
+('wear', 'everyone', 'their underwear', 's01_e03_c12_u017')
+[s01_e03_c12_u017] Joey Tribbiani: Even nicer when everyone gets to wear their underwear..
+
+('be', 'that/(sound)', 'Lambchop', 's01_e03_c12_u021')
+[s01_e03_c12_u021] #ALL#: Oh! That was Lambchop!
+
+('talk', 'we/#ALL#', None, 's01_e03_c12_u022')
+[s01_e03_c12_u022] Monica Geller: Please, guys, we have to talk.
+
+('get', 'I/Phoebe Buffay', 'a deja vu', 's01_e03_c12_u023')
+[s01_e03_c12_u023] Phoebe Buffay: Wait, wait, I'm getting a deja vu...no, I'm not.
+
+('be', 'I/Phoebe Buffay', None, 's01_e03_c12_u023')
+[s01_e03_c12_u023] Phoebe Buffay: Wait, wait, I'm getting a deja vu...no, I'm not.
+
+('talk', 'we/#ALL#', None, 's01_e03_c12_u024')
+[s01_e03_c12_u024] Monica Geller: Alright, we have to talk.
+
+('be', 'it/(deja vu)', None, 's01_e03_c12_u025')
+[s01_e03_c12_u025] Phoebe Buffay: There it is!
+
+('be', 'it/(topic)', 'about Alan', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('be', 'there', 'something', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('know', 'you/#ALL#', 'something', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('be', 'there', 'no easy way', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('say', 'I/Monica Geller', 'this', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('decide', 'I/Monica Geller', 'to break up with Alan', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('break', 'I/Monica Geller', 'up', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('break', 'I/Monica Geller', 'with Alan', 's01_e03_c12_u026')
+[s01_e03_c12_u026] Monica Geller: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+
+('be', 'there', 'somebody else', 's01_e03_c12_u028')
+[s01_e03_c12_u028] Ross Geller: Is there somebody else?
+
+('be', 'it/(situation)', None, 's01_e03_c12_u029')
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+
+('change', 'things', None, 's01_e03_c12_u029')
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+
+('change', 'people', None, 's01_e03_c12_u029')
+[s01_e03_c12_u029] Monica Geller: No, nononono.. it's just.. things change. People change.
+
+('change', 'we/#ALL#', None, 's01_e03_c12_u030')
+[s01_e03_c12_u030] Rachel Green: We didn't change..
+
+('be', 'that/(relationship)', 'it', 's01_e03_c12_u031')
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+
+('be', 'it/(relationship)', 'over', 's01_e03_c12_u031')
+[s01_e03_c12_u031] Joey Tribbiani: So that's it? It's over? Just like that?
+
+('know', 'you/#ALL#', None, 's01_e03_c12_u032')
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+
+('let', 'you/anyone', 'down your guard', 's01_e03_c12_u032')
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+
+('start', 'you/anyone', 'to really care about someone', 's01_e03_c12_u032')
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+
+('care', 'you/anyone', None, 's01_e03_c12_u032')
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+
+('care', 'you/anyone', 'about someone', 's01_e03_c12_u032')
+[s01_e03_c12_u032] Phoebe Buffay: You know.. you let your guard down, you start to really care about someone, and I just- I-
+
+('go', 'I/Monica Geller', 'on pretending', 's01_e03_c12_u033')
+[s01_e03_c12_u033] Monica Geller: Look, I- I could go on pretending-
+
+('pretend', 'I/Monica Geller', None, 's01_e03_c12_u033')
+[s01_e03_c12_u033] Monica Geller: Look, I- I could go on pretending-
+
+('be', 'that/(pretending)', 'fair to me', 's01_e03_c12_u035')
+[s01_e03_c12_u035] Monica Geller: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+
+('be', 'it/(pretending)', 'fair to Alan', 's01_e03_c12_u035')
+[s01_e03_c12_u035] Monica Geller: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+
+('be', 'it/(pretending)', 'fair to you', 's01_e03_c12_u035')
+[s01_e03_c12_u035] Monica Geller: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+
+('want', 'who', 'fair', 's01_e03_c12_u036')
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+
+('want', 'I/Ross Geller', 'things back', 's01_e03_c12_u036')
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+
+('be', 'they/(things)', None, 's01_e03_c12_u036')
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+
+('know', 'you/Monica Geller', None, 's01_e03_c12_u036')
+[s01_e03_c12_u036] Ross Geller: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+
+('be', 'I/Monica Geller', 'sorry', 's01_e03_c12_u037')
+[s01_e03_c12_u037] Monica Geller: I'm sorry..
+
+('be', 'she/Monica Geller', 'sorry', 's01_e03_c12_u038')
+[s01_e03_c12_u038] Chandler Bing: Oh, she's sorry! I feel better!
+
+('feel', 'I/Chandler Bing', 'better', 's01_e03_c12_u038')
+[s01_e03_c12_u038] Chandler Bing: Oh, she's sorry! I feel better!
+
+('believe', 'I/Rachel Green', 'this/(breakup)', 's01_e03_c12_u039')
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+
+('come', 'the holidays', 'up', 's01_e03_c12_u039')
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+
+('mean', 'I/Rachel Green', None, 's01_e03_c12_u039')
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+
+('want', 'I/Rachel Green', 'him/Alan to meet my family', 's01_e03_c12_u039')
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+
+('meet', 'him/Alan', 'my family', 's01_e03_c12_u039')
+[s01_e03_c12_u039] Rachel Green: I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-
+
+('meet', 'I/Monica Geller', 'someone else', 's01_e03_c12_u040')
+[s01_e03_c12_u040] Monica Geller: I'll meet somone else. There'll be other Alans.
+
+('be', 'there', 'other Alans', 's01_e03_c12_u040')
+[s01_e03_c12_u040] Monica Geller: I'll meet somone else. There'll be other Alans.
+
+('be', 'you guys/#ALL#', 'okay', 's01_e03_c12_u042')
+[s01_e03_c12_u042] Monica Geller: Are you guys gonna be okay?
+
+('be', 'we/#ALL#', 'fine', 's01_e03_c12_u043')
+[s01_e03_c12_u043] Ross Geller: Hey hey, we'll be fine. We're just gonna need a little time.
+
+('need', 'we/#ALL#', 'a little time', 's01_e03_c12_u043')
+[s01_e03_c12_u043] Ross Geller: Hey hey, we'll be fine. We're just gonna need a little time.
+
+('understand', 'I/Monica Geller', None, 's01_e03_c12_u044')
+[s01_e03_c12_u044] Monica Geller: I understand.
+

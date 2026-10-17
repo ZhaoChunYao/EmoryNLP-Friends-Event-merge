@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker only gives very brief replies (“Hi.” and saying a name, “Ross.”) and does not engage further, indicating reserved, non-talkative behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of cooperation, warmth, or hostility beyond a neutral greeting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, reliability, or task management in the brief exchanges."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No observable signs of anxiety, stress, or emotional instability; responses are neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No displays of curiosity, imagination, or dogmatism; content is minimal and factual."
+  }
+}

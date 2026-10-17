@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker directly states they are here to break up right now and later speaks up to demand clarity about whom Speaker_01 is addressing, showing assertive engagement rather than withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward and honest, plainly stating the breakup and seeking clear communication by asking who Speaker_01 is talking to, without adding insults."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker is decisive about timing (right now) and requests precise specification of the addressee, indicating attention to detail and organized communication."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker shows no nervousness; confidently initiates the breakup and calmly requests clarification."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, inventiveness, or dogmatism appear in this brief exchange."
+  }
+}

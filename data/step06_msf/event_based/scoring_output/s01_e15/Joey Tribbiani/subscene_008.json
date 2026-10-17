@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Participates in social banter and group planning for a late movie; proactively asks where the missing friend is, showing active social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows cooperative concern for the group by asking about the missing person before proceeding."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from a simple logistical question, there is no clear sign of organization or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Displays no signs of stress, anxiety, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of interest in new ideas or unconventional experiences; conversation is routine logistics."
+  }
+}

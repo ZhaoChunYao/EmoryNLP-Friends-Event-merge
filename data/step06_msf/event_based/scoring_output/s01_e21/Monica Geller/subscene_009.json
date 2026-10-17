@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief comments and shows no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Saying Speaker_02 and Speaker_01 have sometimes felt unbelievably uncoordinated could be empathetic or critical; intent is unclear."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, diligence, or carelessness regarding the routine or instructions."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker compares the situation to being back in gym class, implying discomfort or anxiety during partner selection."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or dogmatism; the brief simile alone doesn’t establish openness."
+  }
+}

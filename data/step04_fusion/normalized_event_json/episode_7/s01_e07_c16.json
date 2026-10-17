@@ -1,0 +1,197 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c16_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u002_e1",
+          "tuples": [
+            "('be', 'this/(Paolo)', 'Paolo', 's01_e07_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u002_e2",
+          "tuples": [
+            "('want', 'I/(Rachel Green)', 'you to meet my friends', 's01_e07_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u002_e3",
+          "tuples": [
+            "('meet', 'you/(Paolo)', 'my friends', 's01_e07_c16_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u002_e4",
+          "tuples": [
+            "('be', 'this/(Monica)', 'Monica', 's01_e07_c16_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u009",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u009_e1",
+          "tuples": [
+            "('speak', 'He/(Paolo)', 'much English', 's01_e07_c16_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u011",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u011_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', 'at that', 's01_e07_c16_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u012",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u012_e1",
+          "tuples": [
+            "('come', 'Paolo', 'from where', 's01_e07_c16_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u013",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u013_e1",
+          "tuples": [
+            "('think', 'I/(Rachel Green)', 'Italy', 's01_e07_c16_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u014",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u014_e1",
+          "tuples": [
+            "('mean', 'I/(Ross Geller)', 'tonight', 's01_e07_c16_u014')",
+            "('mean', 'I/(Ross Geller)', 'in the building', 's01_e07_c16_u014')",
+            "('mean', 'I/(Ross Geller)', 'into our lives', 's01_e07_c16_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u015",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u015_e1",
+          "tuples": [
+            "('turn out to be', 'the cat', \"Paolo's cat\", 's01_e07_c16_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u016",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u016_e1",
+          "tuples": [
+            "('be', 'that', 'funny', 's01_e07_c16_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u016_e2",
+          "tuples": [
+            "('keep touching', 'Rachel', 'him', 's01_e07_c16_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u018",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u018_e1",
+          "tuples": [
+            "('look', 'I/(Phoebe Buffay)', 'all over the building', 's01_e07_c16_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u018_e2",
+          "tuples": [
+            "('find', 'I/(Phoebe Buffay)', 'the kitty', 's01_e07_c16_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u019",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u019_e1",
+          "tuples": [
+            "('find', 'I/(Rachel Green)', 'him', 's01_e07_c16_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u019_e2",
+          "tuples": [
+            "('be', 'He/(the cat)', \"Paolo's cat\", 's01_e07_c16_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u020",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u020_e1",
+          "tuples": [
+            "('go', 'you/(Rachel Green)', 'there', 's01_e07_c16_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u020_e2",
+          "tuples": [
+            "('guess', 'I/(Phoebe Buffay)', None, 's01_e07_c16_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c16_u020_e3",
+          "tuples": [
+            "('tell', 'nobody', 'me', 's01_e07_c16_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u021",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u021_e1",
+          "tuples": [
+            "('be', 'this/(Phoebe)', 'Phoebe', 's01_e07_c16_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c16_u023",
+      "events": [
+        {
+          "event_id": "s01_e07_c16_u023_e1",
+          "tuples": [
+            "('bet', 'you/(Paolo)', None, 's01_e07_c16_u023')"
+          ]
+        }
+      ]
+    }
+  ]
+}

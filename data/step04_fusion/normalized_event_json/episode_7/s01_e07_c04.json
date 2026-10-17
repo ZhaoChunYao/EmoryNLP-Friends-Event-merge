@@ -1,0 +1,126 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u001_e1",
+          "tuples": [
+            "('be', 'it/Jill Goodacre', \"that Victoria's Secret model\", 's01_e07_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u002_e1",
+          "tuples": [
+            "('be', 'it/Jill Goodacre', 'Jill', 's01_e07_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u003_e1",
+          "tuples": [
+            "('be', 'She/Jill Goodacre', 'right', 's01_e07_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u003_e2",
+          "tuples": [
+            "('trap', 'I/Chandler Bing', 'in an ATM vestibule with Jill Goodacre', 's01_e07_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u003_e3",
+          "tuples": [
+            "('be', 'it/ATM area', 'a vestibule', 's01_e07_c04_u003')",
+            "('be', 'it/ATM area', 'an atrium', 's01_e07_c04_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u003_e4",
+          "tuples": [
+            "('be', 'that/(classification question)', 'the part to focus on', 's01_e07_c04_u003')",
+            "('focus', 'you/Chandler Bing', 'on that', 's01_e07_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u004_e1",
+          "tuples": [
+            "('be', 'I/Jill Goodacre', 'fine', 's01_e07_c04_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u004_e2",
+          "tuples": [
+            "('stick', 'I/Jill Goodacre', 'at the bank in an ATM vestibule', 's01_e07_c04_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u005_e1",
+          "tuples": [
+            "('say', 'Jill Goodacre', 'vestibule', 's01_e07_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u005_e2",
+          "tuples": [
+            "('go', 'I/Chandler Bing', 'with vestibule', 's01_e07_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u006_e1",
+          "tuples": [
+            "('be', 'I/Jill Goodacre', 'not alone', 's01_e07_c04_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u006_e2",
+          "tuples": [
+            "('know', 'I/Jill Goodacre', None, 's01_e07_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e07_c04_u007_e1",
+          "tuples": [
+            "('see', 'I/Chandler Bing', 'you/Jill Goodacre', 's01_e07_c04_u007')",
+            "('see', 'I/Chandler Bing', 'with some guy', 's01_e07_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c04_u007_e2",
+          "tuples": [
+            "('be', 'he/some guy', 'some guy', 's01_e07_c04_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

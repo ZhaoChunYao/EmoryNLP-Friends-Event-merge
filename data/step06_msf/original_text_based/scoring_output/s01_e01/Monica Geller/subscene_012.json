@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks up in the group with direct commands—\"Stop!\", \"We'll talk later,\" and \"Shut up...\"—taking charge of the situation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Uses blunt, rude language and cuts others off (\"Shut up\"), showing low cooperativeness and warmth."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Sets a plan/boundary (\"We'll talk later\") and instructs to restore order (\"put [my] table back\"), indicating organization and control."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responds decisively and confidently with commands, showing no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, imagination, or openness to new ideas; statements focus on control of the immediate situation."
+  }
+}

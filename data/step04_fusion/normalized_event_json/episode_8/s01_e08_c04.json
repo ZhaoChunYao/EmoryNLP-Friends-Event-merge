@@ -1,0 +1,251 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u001_e1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', None, 's01_e08_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u001_e2",
+          "tuples": [
+            "('be', 'it/(the reason)', 'my hair', 's01_e08_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u002_e1",
+          "tuples": [
+            "('be', 'that/(the reason)', 'exactly what it is', 's01_e08_c04_u002')",
+            "('be', 'it/(the reason)', 'your hair', 's01_e08_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u003",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u003_e1",
+          "tuples": [
+            "('have', 'you/Chandler Bing', 'homosexual hair', 's01_e08_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u008",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u008_e1",
+          "tuples": [
+            "('suck', 'that/(situation)', None, 's01_e08_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u009_e1",
+          "tuples": [
+            "('be', 'you guys/(Ross Geller & Monica Geller)', 'okay', 's01_e08_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u010_e1",
+          "tuples": [
+            "('know', 'I/Ross Geller', None, 's01_e08_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u010_e2",
+          "tuples": [
+            "('be', 'it/(the situation)', 'weird', 's01_e08_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u010_e3",
+          "tuples": [
+            "('mean', 'I/Ross Geller', None, 's01_e08_c04_u010')",
+            "('know', 'I/Ross Geller', \"she's gone\", 's01_e08_c04_u010')",
+            "('be', 'she/Nana', 'gone', 's01_e08_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u010_e4",
+          "tuples": [
+            "('feel', 'I/Ross Geller', None, 's01_e08_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u011_e1",
+          "tuples": [
+            "('be', 'that/(the weird feeling)', \"because she's not really gone\", 's01_e08_c04_u011')",
+            "('be', 'she/Nana', 'not really gone', 's01_e08_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u013",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u013_e1",
+          "tuples": [
+            "('check', 'we/(Ross Geller & Monica Geller)', None, 's01_e08_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u014_e1",
+          "tuples": [
+            "('mean', 'I/Phoebe Buffay', 'maybe no-one ever really goes', 's01_e08_c04_u014')",
+            "('go', 'no-one', None, 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e2",
+          "tuples": [
+            "('die', 'my mom', None, 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e3",
+          "tuples": [
+            "('get', 'I/Phoebe Buffay', \"the feeling that she's like right here\", 's01_e08_c04_u014')",
+            "('be', \"she/Phoebe's mom\", 'right here', 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e4",
+          "tuples": [
+            "('strike', 'Debbie, my best friend from junior high', 'by lightning', 's01_e08_c04_u014')",
+            "('strike', 'Debbie, my best friend from junior high', 'on a miniature golf course', 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e5",
+          "tuples": [
+            "('get', 'I/Phoebe Buffay', 'this really strong Debbie vibe', 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e6",
+          "tuples": [
+            "('use', 'I/Phoebe Buffay', 'one of those little yellow pencils', 's01_e08_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u014_e7",
+          "tuples": [
+            "('miss', 'I/Phoebe Buffay', 'her', 's01_e08_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u015_e1",
+          "tuples": [
+            "('want', 'you/Phoebe Buffay', 'this', 's01_e08_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u017",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u017_e1",
+          "tuples": [
+            "('sharpen', 'I/Rachel Green', 'her', 's01_e08_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u018_e1",
+          "tuples": [
+            "('see', 'you/(everyone)', None, 's01_e08_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u018_e2",
+          "tuples": [
+            "('believe', 'I/Joey Tribbiani', 'any of that', 's01_e08_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u018_e3",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', \"once you're dead, you're dead\", 's01_e08_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u018_e4",
+          "tuples": [
+            "('be', 'you/(people in general)', 'worm food', 's01_e08_c04_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u018_e5",
+          "tuples": [
+            "('look', 'Chandler Bing', 'gay', 's01_e08_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c04_u019",
+      "events": [
+        {
+          "event_id": "s01_e08_c04_u019_e1",
+          "tuples": [
+            "('know', 'you/(everyone)', None, 's01_e08_c04_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u019_e2",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', 'who this is', 's01_e08_c04_u019')",
+            "('be', 'this/(presence)', 'who', 's01_e08_c04_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c04_u019_e3",
+          "tuples": [
+            "('be', 'it/(presence)', 'not Debbie', 's01_e08_c04_u019')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+('owe', 'Phoebs', '$7.50', 's01_e18_c06_u001')
+[s01_e18_c06_u001] Ross Geller: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+
+('owe', 'you/Monica Geller', '$10', 's01_e18_c06_u001')
+[s01_e18_c06_u001] Ross Geller: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+
+('owe', 'you/Rachel Green', 'fifteen big ones', 's01_e18_c06_u001')
+[s01_e18_c06_u001] Ross Geller: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+
+('teach', 'you/(Monica Geller, Rachel Green, Phoebe Buffay)', 'us Cross-Eyed Mary', 's01_e18_c06_u002')
+[s01_e18_c06_u002] Joey Tribbiani: But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.
+
+('play', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'that at our regular game', 's01_e18_c06_u002')
+[s01_e18_c06_u002] Joey Tribbiani: But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.
+
+('be', 'my $7.50', 'here', 's01_e18_c06_u003')
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+
+('think', 'I/Phoebe Buffay', 'you should know that this money is cursed', 's01_e18_c06_u003')
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+
+('know', 'you/(Ross Geller, Monica Geller, Chandler Bing, Joey Tribbiani, Rachel Green)', 'that this money is cursed', 's01_e18_c06_u003')
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+
+('be', 'this money', 'cursed', 's01_e18_c06_u003')
+[s01_e18_c06_u003] Phoebe Buffay: Alright, here's my $7.50. But I think you should know that this money is cursed.
+
+('curse', 'I/Phoebe Buffay', 'it', 's01_e18_c06_u005')
+[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+
+('happen', 'bad things', 'to he who spends it', 's01_e18_c06_u005')
+[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+
+('spend', 'he who', 'it', 's01_e18_c06_u005')
+[s01_e18_c06_u005] Phoebe Buffay: Oh, I cursed it. So now bad things will happen to he who spends it.
+
+('be', 'that', 'alright', 's01_e18_c06_u006')
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+
+('take', 'I/Chandler Bing', 'it', 's01_e18_c06_u006')
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+
+('happen', 'Bad things', 'to me', 's01_e18_c06_u006')
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+
+('break', 'I/Chandler Bing', "'em up with a movie", 's01_e18_c06_u006')
+[s01_e18_c06_u006] Chandler Bing: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.
+
+('leave', 'that', 'the big Green poker machine', 's01_e18_c06_u007')
+[s01_e18_c06_u007] Ross Geller: Well, that just leaves the big Green poker machine, who owes fifteen...
+
+('owe', 'the big Green poker machine', 'fifteen', 's01_e18_c06_u007')
+[s01_e18_c06_u007] Ross Geller: Well, that just leaves the big Green poker machine, who owes fifteen...
+
+('be', 'I/Rachel Green', 'a man', 's01_e18_c06_u008')
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+
+('have', 'I/Rachel Green', 'a penis', 's01_e18_c06_u008')
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+
+('win', 'I/Rachel Green', 'money to exert my power over women', 's01_e18_c06_u008')
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+
+('exert', 'I/Rachel Green', 'my power', 's01_e18_c06_u008')
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+
+('exert', 'I/Rachel Green', 'over women', 's01_e18_c06_u008')
+[s01_e18_c06_u008] Rachel Green: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.
+
+('know', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'what', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('be', 'this', 'not over', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('play', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', 'you', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('win', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('lose', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('beg', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('laugh', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('take', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', 'every last dime you have', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('have', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'every last dime', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('hate', 'you/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'yourselves', 's01_e18_c06_u009')
+[s01_e18_c06_u009] Monica Geller: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+
+('step', 'you/Monica Geller', 'on my point', 's01_e18_c06_u010')
+[s01_e18_c06_u010] Rachel Green: Hmm. Kinda stepped on my point there, Mon.
+

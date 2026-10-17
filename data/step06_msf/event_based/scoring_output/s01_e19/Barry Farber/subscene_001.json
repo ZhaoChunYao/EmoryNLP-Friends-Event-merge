@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker arrives and immediately calls out to Rachel, then openly declares feelings in front of others."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Says he cannot go through with marrying Speaker_03, indicating unreliability toward a committed partner."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Backing out of a planned wedding shows poor follow-through and responsibility."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses emotional turmoil and uncertainty: says he cannot marry Speaker_03 and thinks he is still in love with Speaker_02."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, imagination, or openness to new ideas in the dialogue."
+  }
+}

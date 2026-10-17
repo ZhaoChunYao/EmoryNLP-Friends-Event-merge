@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Provides brief, factual updates (identifies self, says she’s fine, states she’s stuck) without notably outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforward and cooperative: identifies herself, says she’s fine, and honestly reports being with a man she doesn’t know."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Communicates the situation clearly and efficiently: specifies she’s stuck at the bank in an ATM vestibule and clarifies she is not alone and with an unknown man."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and says she is fine despite being stuck, showing no signs of nervousness or panic."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Emphasizes caution by noting she is not alone and does not know who the man is, rather than showing curiosity or engagement."
+  }
+}

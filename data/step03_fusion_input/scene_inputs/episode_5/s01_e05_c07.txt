@@ -1,0 +1,138 @@
+('come', 'Woman', 'through', 's01_e05_c07_u001')
+[s01_e05_c07_u001] Woman: Comin' through. Move, move.
+
+('move', 'you/(others in laundromat)', None, 's01_e05_c07_u001')
+[s01_e05_c07_u001] Woman: Comin' through. Move, move.
+
+('excuse', 'you/(Woman)', 'me', 's01_e05_c07_u002')
+[s01_e05_c07_u002] Rachel Green: Oh, 'scuse me. I was kinda using that machine.
+
+('use', 'Rachel Green', 'that machine', 's01_e05_c07_u002')
+[s01_e05_c07_u002] Rachel Green: Oh, 'scuse me. I was kinda using that machine.
+
+('save', 'Rachel Green', 'it', 's01_e05_c07_u004')
+[s01_e05_c07_u004] Rachel Green: But I saved it. I put my basket on top.
+
+('put', 'Rachel Green', 'my basket', 's01_e05_c07_u004')
+[s01_e05_c07_u004] Rachel Green: But I saved it. I put my basket on top.
+
+('put', 'Rachel Green', 'on top', 's01_e05_c07_u004')
+[s01_e05_c07_u004] Rachel Green: But I saved it. I put my basket on top.
+
+('be', 'Woman', 'sorry', 's01_e05_c07_u005')
+[s01_e05_c07_u005] Woman: Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.
+
+('be', 'that/(basket)', 'your basket', 's01_e05_c07_u005')
+[s01_e05_c07_u005] Woman: Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.
+
+('be', 'it/(basket)', 'really pretty', 's01_e05_c07_u005')
+[s01_e05_c07_u005] Woman: Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.
+
+('see', 'Woman', 'suds', 's01_e05_c07_u005')
+[s01_e05_c07_u005] Woman: Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.
+
+('go', 'what/(situation)', 'on', 's01_e05_c07_u009')
+[s01_e05_c07_u009] Ross Geller: What's goin' on?
+
+('take', 'that horrible woman', 'my machine', 's01_e05_c07_u010')
+[s01_e05_c07_u010] Rachel Green: Hi, uh, nothing. That horrible woman just took my machine.
+
+('be', 'your basket', 'on top', 's01_e05_c07_u011')
+[s01_e05_c07_u011] Ross Geller: Was your basket on top?
+
+('be', 'there/(existential)', 'no suds', 's01_e05_c07_u012')
+[s01_e05_c07_u012] Rachel Green: Yeah, but, there were no suds.
+
+('hold', 'you/(Woman)', 'on a second', 's01_e05_c07_u015')
+[s01_e05_c07_u015] Ross Geller: No suds? Excuse me, hold on a second. That's my friend's machine.
+
+('be', 'that/(machine)', "my friend's machine", 's01_e05_c07_u015')
+[s01_e05_c07_u015] Ross Geller: No suds? Excuse me, hold on a second. That's my friend's machine.
+
+('be', 'her stuff', None, 's01_e05_c07_u016')
+[s01_e05_c07_u016] Woman: Hey, hey, hey, her stuff wasn't in it.
+
+('be', 'her stuff', 'in it/(machine)', 's01_e05_c07_u016')
+[s01_e05_c07_u016] Woman: Hey, hey, hey, her stuff wasn't in it.
+
+('be', 'that/(rule claim)', 'not the rule', 's01_e05_c07_u017')
+[s01_e05_c07_u017] Ross Geller: Hey, hey, hey, that's not the rule and you know it.
+
+('know', 'you/(Woman)', 'it', 's01_e05_c07_u017')
+[s01_e05_c07_u017] Ross Geller: Hey, hey, hey, that's not the rule and you know it.
+
+('be', 'show', 'over', 's01_e05_c07_u019')
+[s01_e05_c07_u019] Ross Geller: All right, show's over. Nothing to see here. Ok, let's do laundry.
+
+('do', 'we/(Ross Geller & Rachel Green)', 'laundry', 's01_e05_c07_u019')
+[s01_e05_c07_u019] Ross Geller: All right, show's over. Nothing to see here. Ok, let's do laundry.
+
+('let', 'us/(Ross Geller & Rachel Green)', 'do laundry', 's01_e05_c07_u019')
+[s01_e05_c07_u019] Ross Geller: All right, show's over. Nothing to see here. Ok, let's do laundry.
+
+('be', 'that/(what Ross did)', 'amazing', 's01_e05_c07_u020')
+[s01_e05_c07_u020] Rachel Green: That was amazing. I can't even send back soup.
+
+('send', 'I/(Rachel Green)', 'back soup', 's01_e05_c07_u020')
+[s01_e05_c07_u020] Rachel Green: That was amazing. I can't even send back soup.
+
+('need', 'you/(Rachel Green)', 'detergent', 's01_e05_c07_u021')
+[s01_e05_c07_u021] Ross Geller: Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.
+
+('be', 'what/(detergent)', 'that', 's01_e05_c07_u023')
+[s01_e05_c07_u023] Rachel Green: What's that?
+
+('be', 'it/(detergent)', 'new', 's01_e05_c07_u024')
+[s01_e05_c07_u024] Ross Geller: Uberveiss. It's new, it's German, it's extra-tough.
+
+('be', 'it/(detergent)', 'German', 's01_e05_c07_u024')
+[s01_e05_c07_u024] Ross Geller: Uberveiss. It's new, it's German, it's extra-tough.
+
+('be', 'it/(detergent)', 'extra-tough', 's01_e05_c07_u024')
+[s01_e05_c07_u024] Ross Geller: Uberveiss. It's new, it's German, it's extra-tough.
+
+('separate', 'you/(Rachel Green)', 'those', 's01_e05_c07_u026')
+[s01_e05_c07_u026] Ross Geller: Rach, do you uh, are you gonna separate those?
+
+('be', 'I/(Rachel Green)', 'a total laundry spaz', 's01_e05_c07_u027')
+[s01_e05_c07_u027] Rachel Green: Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?
+
+('use', 'I/(Rachel Green)', 'one machine for shirts and another machine for pants', 's01_e05_c07_u027')
+[s01_e05_c07_u027] Rachel Green: Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?
+
+('do', 'you/(Rachel Green)', 'before this', 's01_e05_c07_u028')
+[s01_e05_c07_u028] Ross Geller: Rach, have you never done this before?
+
+('know', 'I/(Rachel Green)', 'other people', 's01_e05_c07_u029')
+[s01_e05_c07_u029] Rachel Green: Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.
+
+('catch', 'you/(Ross Geller)', 'me', 's01_e05_c07_u029')
+[s01_e05_c07_u029] Rachel Green: Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.
+
+('be', 'I/(Rachel Green)', 'a laundry virgin', 's01_e05_c07_u029')
+[s01_e05_c07_u029] Rachel Green: Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.
+
+('worry', 'you/(Rachel Green)', None, 's01_e05_c07_u030')
+[s01_e05_c07_u030] Ross Geller: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+
+('use', 'I/(Ross Geller)', 'the gentle cycle', 's01_e05_c07_u030')
+[s01_e05_c07_u030] Ross Geller: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+
+('want', 'you/(Rachel Green)', 'use one machine for all your whites, a whole nother machine for colors, and a third for your delicates', 's01_e05_c07_u030')
+[s01_e05_c07_u030] Ross Geller: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+
+('be', 'that/(your delicates)', 'your bras and your under-panty things', 's01_e05_c07_u030')
+[s01_e05_c07_u030] Ross Geller: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+
+('be', 'these/(panties)', 'white cotton panties', 's01_e05_c07_u031')
+[s01_e05_c07_u031] Rachel Green: Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+
+('go', 'they/(panties)', 'with whites', 's01_e05_c07_u031')
+[s01_e05_c07_u031] Rachel Green: Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+
+('go', 'they/(panties)', 'with delicates', 's01_e05_c07_u031')
+[s01_e05_c07_u031] Rachel Green: Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+
+('be', 'that/(classification question)', 'a judgment call', 's01_e05_c07_u032')
+[s01_e05_c07_u032] Ross Geller: Uh, that, that, that would be a judgment call.
+

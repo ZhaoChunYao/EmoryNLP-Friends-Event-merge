@@ -1,0 +1,104 @@
+event_id: s01_e12_c04_u001_e1
+utterance_id: s01_e12_c04_u001
+  tuple: ('come', 'you/Ross Geller', 'in', 's01_e12_c04_u001')
+
+event_id: s01_e12_c04_u003_e1
+utterance_id: s01_e12_c04_u003
+  tuple: ('bring', 'I/Ross Geller', 'all the books', 's01_e12_c04_u003')
+
+event_id: s01_e12_c04_u003_e2
+utterance_id: s01_e12_c04_u003
+  tuple: ('send', 'Monica', 'her love', 's01_e12_c04_u003')
+  tuple: ('send', 'Monica', 'along with this lasagna', 's01_e12_c04_u003')
+
+event_id: s01_e12_c04_u004_e1
+utterance_id: s01_e12_c04_u004
+  tuple: ('be', 'it/lasagna', 'vegetarian', 's01_e12_c04_u004')
+
+event_id: s01_e12_c04_u004_e2
+utterance_id: s01_e12_c04_u004
+  tuple: ('eat', 'Susan Bunch', 'meat', 's01_e12_c04_u004')
+
+event_id: s01_e12_c04_u005_e1
+utterance_id: s01_e12_c04_u005
+  tuple: ('be', 'I/Ross Geller', 'pretty sure', 's01_e12_c04_u005')
+
+event_id: s01_e12_c04_u006_e1
+utterance_id: s01_e12_c04_u006
+  tuple: ('get', 'I/Carol Willick', 'the results of the amnio', 's01_e12_c04_u006')
+
+event_id: s01_e12_c04_u007_e1
+utterance_id: s01_e12_c04_u007
+  tuple: ('tell', 'you/Carol Willick', 'me', 's01_e12_c04_u007')
+
+event_id: s01_e12_c04_u009_e1
+utterance_id: s01_e12_c04_u009
+  tuple: ('be', 'that/the healthy result', 'great', 's01_e12_c04_u009')
+
+event_id: s01_e12_c04_u010_e1
+utterance_id: s01_e12_c04_u010
+  tuple: ('meet', 'you/Carol Willick and Susan Bunch', 'Huey Lewis', 's01_e12_c04_u010')
+
+event_id: s01_e12_c04_u011_e1
+utterance_id: s01_e12_c04_u011
+  tuple: ('be', 'that/the person in the photo', 'our friend Tanya', 's01_e12_c04_u011')
+
+event_id: s01_e12_c04_u012_e1
+utterance_id: s01_e12_c04_u012
+  tuple: ('be', 'it/the person in the photo', 'your friend Tanya', 's01_e12_c04_u012')
+
+event_id: s01_e12_c04_u013_e1
+utterance_id: s01_e12_c04_u013
+  tuple: ('want', 'you/Ross Geller', 'to know about the sex', 's01_e12_c04_u013')
+
+event_id: s01_e12_c04_u014_e1
+utterance_id: s01_e12_c04_u014
+  tuple: ('have', 'I/Ross Geller', 'trouble', 's01_e12_c04_u014')
+  tuple: ('throw', 'you/(generic)', 'in Tanya', 's01_e12_c04_u014')
+
+event_id: s01_e12_c04_u016_e1
+utterance_id: s01_e12_c04_u016
+  tuple: ('know', 'you/Carol Willick', 'the sex of the baby', 's01_e12_c04_u016')
+
+event_id: s01_e12_c04_u018_e1
+utterance_id: s01_e12_c04_u018
+  tuple: ('look', 'you/(generic)', 'down there', 's01_e12_c04_u018')
+
+event_id: s01_e12_c04_u022_e1
+utterance_id: s01_e12_c04_u022
+  tuple: ('hear', 'you/Ross Geller', None, 's01_e12_c04_u022')
+
+event_id: s01_e12_c04_u023_e1
+utterance_id: s01_e12_c04_u023
+  tuple: ('be', 'everything', 'A-OK', 's01_e12_c04_u023')
+
+event_id: s01_e12_c04_u024_e1
+utterance_id: s01_e12_c04_u024
+  tuple: ('be', 'that', 'so', 's01_e12_c04_u024')
+
+event_id: s01_e12_c04_u024_e2
+utterance_id: s01_e12_c04_u024
+  tuple: ('know', 'we/Carol Willick and Susan Bunch', None, 's01_e12_c04_u024')
+
+event_id: s01_e12_c04_u026_e1
+utterance_id: s01_e12_c04_u026
+  tuple: ('stand', "guy who doesn't want to know", 'right here', 's01_e12_c04_u026')
+
+event_id: s01_e12_c04_u027_e1
+utterance_id: s01_e12_c04_u027
+  tuple: ('be', 'it/baby', 'what we thought it would be', 's01_e12_c04_u027')
+  tuple: ('think', 'we/Carol Willick and Susan Bunch', 'it would be', 's01_e12_c04_u027')
+
+event_id: s01_e12_c04_u029_e1
+utterance_id: s01_e12_c04_u029
+  tuple: ('think', 'we/Ross Geller, Carol Willick, and Susan Bunch', 'it was going to be', 's01_e12_c04_u029')
+
+event_id: s01_e12_c04_u031_e1
+utterance_id: s01_e12_c04_u031
+  tuple: ('go', 'I/Ross Geller', None, 's01_e12_c04_u031')
+
+event_id: s01_e12_c04_u034_e1
+utterance_id: s01_e12_c04_u034
+  tuple: ('call', 'we/Carol Willick and Susan Bunch', 'your folks', 's01_e12_c04_u034')
+  tuple: ('call', 'we/Carol Willick and Susan Bunch', 'Deb and Rona', 's01_e12_c04_u034')
+

@@ -1,0 +1,121 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u001_e1",
+          "tuples": [
+            "('late', 'I/Ross Geller', None, 's01_e02_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c06_u001_e2",
+          "tuples": [
+            "('stuck', 'I/Ross Geller', 'at work', 's01_e02_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c06_u001_e3",
+          "tuples": [
+            "('be', 'there', 'this big dinosaur thing', 's01_e02_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u004_e1",
+          "tuples": [
+            "('remember', 'you/Ross Geller', 'Susan', 's01_e02_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u005",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u005_e1",
+          "tuples": [
+            "('forget', 'I/Ross Geller', None, 's01_e02_c06_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u007_e1",
+          "tuples": [
+            "('wait', 'we/Ross Geller, Carol Willick, Susan Bunch', 'for', 's01_e02_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u009_e1",
+          "tuples": [
+            "('be', 'he/Dr. Oberman', None, 's01_e02_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u011_e1",
+          "tuples": [
+            "('familiar', 'she/Dr. Oberman', 'with our special situation', 's01_e02_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u012",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u012_e1",
+          "tuples": [
+            "('supportive', 'she/Dr. Oberman', 'very', 's01_e02_c06_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u013_e1",
+          "tuples": [
+            "('great', \"that/Dr. Oberman's supportiveness\", None, 's01_e02_c06_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e02_c06_u013_e2",
+          "tuples": [
+            "('be', 'I/Ross Geller', None, 's01_e02_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c06_u016",
+      "events": [
+        {
+          "event_id": "s01_e02_c06_u016_e1",
+          "tuples": [
+            "('open', 'that/Quack, quack (sound)', 'my cervix', 's01_e02_c06_u016')"
+          ]
+        }
+      ]
+    }
+  ]
+}

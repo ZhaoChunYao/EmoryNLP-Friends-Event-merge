@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker volunteers a detailed, animated story to the group, saying others should have seen Speaker_02 acting confident during the poker game."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker publicly points out that Speaker_02 cried last night and rubs it in by telling others they should have seen him, which is teasing rather than supportive."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expression of TargetSpeaker’s own anxiety, sensitivity, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity, creativity, or dogmatism in the exchange."
+  }
+}

@@ -1,0 +1,132 @@
+('be', 'they/(their friends)', None, 's01_e05_c06_u001')
+[s01_e05_c06_u001] Chandler Bing: Where are they? Where are they?
+
+('be', 'This/(their time together)', 'nice', 's01_e05_c06_u002')
+[s01_e05_c06_u002] Phoebe Buffay: This is nice. We never do anything just the two of us.
+
+('do', 'we/Chandler Bing+Phoebe Buffay', 'anything', 's01_e05_c06_u002')
+[s01_e05_c06_u002] Phoebe Buffay: This is nice. We never do anything just the two of us.
+
+('be', 'It/(their time together)', 'great', 's01_e05_c06_u003')
+[s01_e05_c06_u003] Chandler Bing: It's great. Maybe tomorrow we can rent a car and run over some puppies.
+
+('rent', 'we/Chandler Bing+Phoebe Buffay', 'a car', 's01_e05_c06_u003')
+[s01_e05_c06_u003] Chandler Bing: It's great. Maybe tomorrow we can rent a car and run over some puppies.
+
+('run', 'we/Chandler Bing+Phoebe Buffay', 'over some puppies', 's01_e05_c06_u003')
+[s01_e05_c06_u003] Chandler Bing: It's great. Maybe tomorrow we can rent a car and run over some puppies.
+
+('want', 'I/Phoebe Buffay', 'to do that', 's01_e05_c06_u004')
+[s01_e05_c06_u004] Phoebe Buffay: Eww, I don't wanna do that.
+
+('do', 'I/Phoebe Buffay', 'that', 's01_e05_c06_u004')
+[s01_e05_c06_u004] Phoebe Buffay: Eww, I don't wanna do that.
+
+('go', 'we/Chandler Bing+Phoebe Buffay', None, 's01_e05_c06_u006')
+[s01_e05_c06_u006] Chandler Bing: Here we go.
+
+('have', 'you/Chandler Bing', 'a good break-up', 's01_e05_c06_u007')
+[s01_e05_c06_u007] Phoebe Buffay: Ok, have a good break-up.
+
+('be', 'I/Janice Litman Goralnik', 'so glad you called me', 's01_e05_c06_u009')
+[s01_e05_c06_u009] Janice Litman Goralnik: Oh, my god, I am so glad you called me. I had the most supremely awful day.
+
+('call', 'you/Chandler Bing', 'me', 's01_e05_c06_u009')
+[s01_e05_c06_u009] Janice Litman Goralnik: Oh, my god, I am so glad you called me. I had the most supremely awful day.
+
+('have', 'I/Janice Litman Goralnik', 'the most supremely awful day', 's01_e05_c06_u009')
+[s01_e05_c06_u009] Janice Litman Goralnik: Oh, my god, I am so glad you called me. I had the most supremely awful day.
+
+('be', 'that/(her bad day)', 'not good', 's01_e05_c06_u010')
+[s01_e05_c06_u010] Chandler Bing: Hey, that's not good. Can I get an espresso and a latte over here, please?
+
+('get', 'I/Chandler Bing', 'an espresso and a latte', 's01_e05_c06_u010')
+[s01_e05_c06_u010] Chandler Bing: Hey, that's not good. Can I get an espresso and a latte over here, please?
+
+('get', 'I/Chandler Bing', 'over here', 's01_e05_c06_u010')
+[s01_e05_c06_u010] Chandler Bing: Hey, that's not good. Can I get an espresso and a latte over here, please?
+
+('get', "we/(Janice's team)", 'the proofs', 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('get', "we/(Janice's team)", 'from that photo shoot', 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('know', 'you/Chandler Bing', None, 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('suck', 'they/(the proofs)', None, 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('blow', 'I/Janice Litman Goralnik', 'off the rest of the day', 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('go', 'I/Janice Litman Goralnik', 'shopping', 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('look', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u011')
+[s01_e05_c06_u011] Janice Litman Goralnik: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+
+('get', 'you/Janice Litman Goralnik', 'me', 's01_e05_c06_u015')
+[s01_e05_c06_u015] Chandler Bing: What... did you get me there?
+
+('get', 'I/Janice Litman Goralnik', 'you', 's01_e05_c06_u016')
+[s01_e05_c06_u016] Janice Litman Goralnik: I got you...these.
+
+('get', 'I/Janice Litman Goralnik', 'these', 's01_e05_c06_u016')
+[s01_e05_c06_u016] Janice Litman Goralnik: I got you...these.
+
+('be', 'That/(the gift)', 'so sweet', 's01_e05_c06_u017')
+[s01_e05_c06_u017] Chandler Bing: Bullwinkle socks. That's so sweet.
+
+('know', 'I/Janice Litman Goralnik', 'you had the Rockys', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('have', 'you/Chandler Bing', 'the Rockys', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('figure', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('wear', 'you/Chandler Bing', 'Bullwinkle and Bullwinkle', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('wear', 'you/Chandler Bing', 'Rocky and Rocky', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('mix', 'you/Chandler Bing', 'moose and squirrel', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('match', 'you/Chandler Bing', 'moose and squirrel', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('want', 'you/Chandler Bing', 'whatever', 's01_e05_c06_u018')
+[s01_e05_c06_u018] Janice Litman Goralnik: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.
+
+('be', 'That/(the gift options)', 'great', 's01_e05_c06_u019')
+[s01_e05_c06_u019] Chandler Bing: That's great.
+
+('get', 'I/Chandler Bing', 'another espresso', 's01_e05_c06_u021')
+[s01_e05_c06_u021] Chandler Bing: Well, I'm gonna get another espresso. Can I get you another latte?
+
+('get', 'I/Chandler Bing', 'another latte', 's01_e05_c06_u021')
+[s01_e05_c06_u021] Chandler Bing: Well, I'm gonna get another espresso. Can I get you another latte?
+
+('work', 'I/Janice Litman Goralnik', None, 's01_e05_c06_u022')
+[s01_e05_c06_u022] Janice Litman Goralnik: No, no, I'm still working on mine.
+
+('work', 'I/Janice Litman Goralnik', 'on mine', 's01_e05_c06_u022')
+[s01_e05_c06_u022] Janice Litman Goralnik: No, no, I'm still working on mine.
+
+('be', 'That/(the breakup attempt)', 'it', 's01_e05_c06_u024')
+[s01_e05_c06_u024] Chandler Bing: That's it?
+
+('be', 'it/(the breakup)', 'really hard', 's01_e05_c06_u025')
+[s01_e05_c06_u025] Phoebe Buffay: Yeah, it was really hard.
+
+('look', 'that hug', 'pretty brutal', 's01_e05_c06_u026')
+[s01_e05_c06_u026] Chandler Bing: Oh, yeah, that hug looked pretty brutal.
+
+('be', 'you/Chandler Bing', 'there', 's01_e05_c06_u027')
+[s01_e05_c06_u027] Phoebe Buffay: Ok, you weren't there.
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly to update others and reassure (\"he's awake,\" \"you look good\"), but no clear sign of outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows care and warmth, apologizes politely (\"Oh, sorry\"), reassures the patient, and says they have been taking care of them."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Responsibly monitoring and caring for the patient (notes when he’s awake, says he looks good, states they’ve been taking care of him)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and reassuring during the situation, with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, novelty-seeking, or dogmatism in the brief exchange."
+  }
+}

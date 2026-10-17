@@ -1,0 +1,123 @@
+event_id: s01_e01_c13_u001_e1
+utterance_id: s01_e01_c13_u001
+  tuple: ('be', 'it', 'a line', 's01_e01_c13_u001')
+
+event_id: s01_e01_c13_u002_e1
+utterance_id: s01_e01_c13_u002
+  tuple: ('do', 'anybody', 'something', 's01_e01_c13_u002')
+  tuple: ('do', 'anybody', 'like that', 's01_e01_c13_u002')
+
+event_id: s01_e01_c13_u003_e1
+utterance_id: s01_e01_c13_u003
+  tuple: ('assume', 'I/Ross Geller', "we're looking for an answer more sophisticated than 'to get you into bed'", 's01_e01_c13_u003')
+  tuple: ('look', 'we/(group)', 'for an answer', 's01_e01_c13_u003')
+
+event_id: s01_e01_c13_u003_e2
+utterance_id: s01_e01_c13_u003
+  tuple: ('get', 'someone', 'you', 's01_e01_c13_u003')
+  tuple: ('get', 'someone', 'into bed', 's01_e01_c13_u003')
+
+event_id: s01_e01_c13_u004_e1
+utterance_id: s01_e01_c13_u004
+  tuple: ('hate', 'I/Monica Geller', 'men', 's01_e01_c13_u004')
+
+event_id: s01_e01_c13_u005_e1
+utterance_id: s01_e01_c13_u005
+  tuple: ('hate', 'you/Monica Geller', None, 's01_e01_c13_u005')
+
+event_id: s01_e01_c13_u005_e2
+utterance_id: s01_e01_c13_u005
+  tuple: ('want', 'you/Monica Geller', 'to put that out into the universe', 's01_e01_c13_u005')
+  tuple: ('put', 'you/Monica Geller', 'that', 's01_e01_c13_u005')
+  tuple: ('put', 'you/Monica Geller', 'out that', 's01_e01_c13_u005')
+  tuple: ('put', 'you/Monica Geller', 'into the universe', 's01_e01_c13_u005')
+
+event_id: s01_e01_c13_u006_e1
+utterance_id: s01_e01_c13_u006
+  tuple: ('be', 'it', 'me', 's01_e01_c13_u006')
+  tuple: ('be', 'it', 'like I have some sort of beacon that only dogs and men with severe emotional problems can hear', 's01_e01_c13_u006')
+  tuple: ('have', 'I/Monica Geller', 'some sort of beacon', 's01_e01_c13_u006')
+  tuple: ('hear', 'only dogs and men with severe emotional problems', 'that', 's01_e01_c13_u006')
+
+event_id: s01_e01_c13_u007_e1
+utterance_id: s01_e01_c13_u007
+  tuple: ('come', 'you/Monica Geller', None, 's01_e01_c13_u007')
+
+event_id: s01_e01_c13_u007_e2
+utterance_id: s01_e01_c13_u007
+  tuple: ('give', 'you/Monica Geller', 'your feet', 's01_e01_c13_u007')
+
+event_id: s01_e01_c13_u008_e1
+utterance_id: s01_e01_c13_u008
+  tuple: ('think', 'I/Monica Geller', 'he was nice', 's01_e01_c13_u008')
+  tuple: ('be', "he/(Monica's date)", 'nice', 's01_e01_c13_u008')
+
+event_id: s01_e01_c13_u009_e1
+utterance_id: s01_e01_c13_u009
+  tuple: ('believe', 'I/Joey Tribbiani', "you didn't know it was a line", 's01_e01_c13_u009')
+  tuple: ('know', 'you/Monica Geller', 'it was a line', 's01_e01_c13_u009')
+
+event_id: s01_e01_c13_u011_e1
+utterance_id: s01_e01_c13_u011
+  tuple: ('guess', 'you/(group)', 'what', 's01_e01_c13_u011')
+
+event_id: s01_e01_c13_u012_e1
+utterance_id: s01_e01_c13_u012
+  tuple: ('get', 'you/Rachel Green', 'a job', 's01_e01_c13_u012')
+
+event_id: s01_e01_c13_u013_e1
+utterance_id: s01_e01_c13_u013
+  tuple: ('kid', 'you/Ross Geller', None, 's01_e01_c13_u013')
+
+event_id: s01_e01_c13_u013_e2
+utterance_id: s01_e01_c13_u013
+  tuple: ('train', 'I/Rachel Green', None, 's01_e01_c13_u013')
+  tuple: ('train', 'I/Rachel Green', 'for nothing', 's01_e01_c13_u013')
+
+event_id: s01_e01_c13_u013_e3
+utterance_id: s01_e01_c13_u013
+  tuple: ('laugh', 'I/Rachel Green', None, 's01_e01_c13_u013')
+  tuple: ('laugh', 'I/Rachel Green', 'out of twelve interviews', 's01_e01_c13_u013')
+
+event_id: s01_e01_c13_u014_e1
+utterance_id: s01_e01_c13_u014
+  tuple: ('be', 'you/Rachel Green', 'upbeat', 's01_e01_c13_u014')
+
+event_id: s01_e01_c13_u015_e1
+utterance_id: s01_e01_c13_u015
+  tuple: ('be', 'you/Chandler Bing', None, 's01_e01_c13_u015')
+
+event_id: s01_e01_c13_u015_e2
+utterance_id: s01_e01_c13_u015
+  tuple: ('find', 'you/Chandler Bing', 'John and David boots', 's01_e01_c13_u015')
+  tuple: ('find', 'you/Chandler Bing', 'on sale', 's01_e01_c13_u015')
+  tuple: ('find', 'you/Chandler Bing', 'off fifty percent', 's01_e01_c13_u015')
+
+event_id: s01_e01_c13_u016_e1
+utterance_id: s01_e01_c13_u016
+  tuple: ('know', 'you/Rachel Green', 'me', 's01_e01_c13_u016')
+
+event_id: s01_e01_c13_u017_e1
+utterance_id: s01_e01_c13_u017
+  tuple: ('be', 'they/(boots)', "my new 'I don't need a job, I don't need my parents, I've got great boots' boots", 's01_e01_c13_u017')
+
+event_id: s01_e01_c13_u017_e2
+utterance_id: s01_e01_c13_u017
+  tuple: ('need', 'I/Rachel Green', 'a job', 's01_e01_c13_u017')
+
+event_id: s01_e01_c13_u017_e3
+utterance_id: s01_e01_c13_u017
+  tuple: ('need', 'I/Rachel Green', 'my parents', 's01_e01_c13_u017')
+
+event_id: s01_e01_c13_u017_e4
+utterance_id: s01_e01_c13_u017
+  tuple: ('get', 'I/Rachel Green', 'great boots', 's01_e01_c13_u017')
+
+event_id: s01_e01_c13_u018_e1
+utterance_id: s01_e01_c13_u018
+  tuple: ('pay', 'you/Rachel Green', 'for them', 's01_e01_c13_u018')
+
+event_id: s01_e01_c13_u020_e1
+utterance_id: s01_e01_c13_u020
+  tuple: ('pay', "who/(Rachel Green's father)", 'for that', 's01_e01_c13_u020')
+

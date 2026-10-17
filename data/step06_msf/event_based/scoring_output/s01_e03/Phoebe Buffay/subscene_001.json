@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group with “Hi guys!” and readily shares details about the date when asked, indicating sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks in a friendly, straightforward way about what happened on the date, with no boasting or manipulation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization or diligence is shown in this brief exchange."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "She neutrally reports events without showing anxiety, distress, or pronounced confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or cautious/dogmatic attitudes appear in the dialogue."
+  }
+}

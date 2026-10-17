@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly tells the group that TargetSpeaker saw Speaker_04's breasts, volunteering sensitive information in a social setting (u017)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite Speaker_04 being upset, TargetSpeaker brings up having seen Speaker_04's breasts, creating discomfort (u017), showing insensitivity outweighing the brief polite acceptance of an out-of-stock item (u015)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior shows organization or carelessness; TargetSpeaker simply orders and responds briefly."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker stays calm when told the item is unavailable (u015) and explains the incident with humor rather than anxiety (u019)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker uses imaginative, humorous imagery in the denial ('telescope and a box of donuts') and is willing to discuss a taboo topic (u017, u019)."
+  }
+}

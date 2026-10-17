@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a brief “What?” and clarifies confusion; no clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Denies knowing the sender and corrects a misunderstanding without hostility; no clear cooperation or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior showing organization or carelessness; only responds to a confusing message."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Points out receiving a “cold, disapproving look” and expresses confusion, indicating sensitivity to others’ judgment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity or rigidity; simply denies a connection and seeks clarification."
+  }
+}

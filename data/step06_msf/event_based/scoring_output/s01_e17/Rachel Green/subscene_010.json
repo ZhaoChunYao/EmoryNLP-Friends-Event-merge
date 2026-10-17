@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the social interaction: praises the wine and tells everyone to look (u010), directs guests to sit and volunteers to get glasses (u015), and assertively pushes to reveal their identities (u017)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Confrontational toward partner, telling them to stop being such a 'wuss' (u019), which is dismissive and not compassionate, despite some helpful hosting behavior (u015)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows organized, responsible hosting—asks guests to sit and volunteers to get the glasses (u015)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and low anxiety, insisting it will be fine to reveal who they are (u017) and belittling partner’s worry (u019)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or novel ideas; wanting to confess identity reflects confidence/honesty more than openness."
+  }
+}

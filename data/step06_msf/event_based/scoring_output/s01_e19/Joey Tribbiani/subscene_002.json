@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaks little and only asks short clarifying questions (“Did she really say exactly like Speaker_02?” and “Tonight tonight?”), not talkative or outgoing."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Immediately agrees with Speaker_01 that the situation is unbelievable and engages cooperatively without conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Asks for clarification of details but shows no clear organized or task-focused behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Expresses disbelief but no signs of anxiety, insecurity, or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Only basic factual clarification; no evidence of imaginative thinking or strong curiosity."
+  }
+}

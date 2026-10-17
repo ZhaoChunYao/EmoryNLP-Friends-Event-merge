@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the interaction and keeps talking during the task, proposes progress ('I'm thinking ... we've got a bookcase here'), asks questions, announces 'Done with the bookcase!', and assertively addresses Ross."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows low empathy and bluntness: 'if you're gonna start with that stuff we're outta here' and the harsh summary 'You got screwed.'"
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Shows disorganization/sloppiness during assembly—asks 'Which goes where?' and then quickly declares 'Done with the bookcase!' despite earlier uncertainty."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears confident and unbothered—jokes, sets firm boundaries, and shows no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Sticks to practical, straightforward remarks about the furniture and blunt comments; no clear signs of curiosity or imaginative thinking."
+  }
+}

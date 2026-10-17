@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages energetically in a long phone exchange, initiates small talk (“how’s life on the fifteenth floor”), jokes about stealing pens, and speaks assertively throughout the negotiation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds supportively to the relationship news (“it’s OK,” was rooting for them), expresses warmth (“I miss you”), acknowledges the offer as “very generous,” and is straightforward about his stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Shows decisiveness at moments (“this is a rejection”) and attends to details (asks about yearly bonus), but also gives mixed signals by ending with “see you on Monday.” No clear pattern of organization or carelessness overall."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles surprising and potentially pressured situations calmly and confidently—firmly states boundaries (“stop saying numbers”), rejects without visible anxiety, and speaks with composure."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "States a desire for work that is “more than a job” and something he can “really care about,” prioritizing meaning over money—indicative of openness to new, fulfilling paths."
+  }
+}

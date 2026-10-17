@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they do not know what to say to Speaker_01 and only offers a brief personal state (“I am hungry”) after prompting, indicating social reticence."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says Speaker_04 is a monkey, which is disparaging/insulting rather than warm or cooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements or actions indicate organization, reliability, or their opposites."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker admits not knowing what to say, suggesting insecurity or nervousness in the interaction."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity, creativity, or rigidity in the brief responses given."
+  }
+}

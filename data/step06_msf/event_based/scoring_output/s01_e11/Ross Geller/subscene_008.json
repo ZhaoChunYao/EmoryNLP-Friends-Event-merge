@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "When confronted, TargetSpeaker gives only brief, hesitant responses (“Thanks, man, big help.”; “I wasn't- I mean, I-”; “Chandler-”), showing withdrawal rather than talkativeness or energy."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He kissed Speaker_03 despite knowing Speaker_02’s difficulties with her and offers evasive/sarcastic replies instead of being straightforward, which others interpret as a serious breach of trust."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He was caught kissing Speaker_03 and appears to have acted impulsively without consideration of consequences for Speaker_02, indicating careless behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "His stammering (“I wasn't- I mean, I-”) under accusation shows nervousness and insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear statements or behaviors indicate curiosity/inventiveness vs. dogmatism/caution beyond the impulsive act, which is insufficient to judge openness here."
+  }
+}

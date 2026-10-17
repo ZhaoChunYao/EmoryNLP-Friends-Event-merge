@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Acts as an emcee, confidently addressing the audience and introducing the performer with enthusiasm: “Ladies and gentlemen, back by popular demand, Miss Speaker_01. Wooh!”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Supportive and encouraging toward another friend’s performance, cueing them to go on and giving a positive, friendly introduction."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps the event organized by announcing who is up to perform next (“Speaker_01 is up to perform now”)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no signs of anxiety; speaks smoothly and confidently to the crowd while hosting."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, creativity, or unconventional ideas in this exchange."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief statements and shows no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No behavior indicating either warmth/helpfulness or hostility/unreliability is shown."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they are late and couldn’t find their earrings, suggesting disorganization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Aside from a clarifying question (“What did I say?”), there’s no clear sign of anxiety or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or resistance to new ideas are present in the remarks."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets with “Hey” and engages in playful banter, making a joke about Marcel reaching maturity before Speaker_02."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes a teasing jab at Speaker_02 (“Marcel beat you to sexual maturity”), indicating a mildly antagonistic, less agreeable tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization, efficiency, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "A brief quip is not enough to indicate curiosity or inventiveness."
+  }
+}

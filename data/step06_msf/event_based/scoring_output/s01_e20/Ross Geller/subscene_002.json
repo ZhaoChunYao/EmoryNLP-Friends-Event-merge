@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates commentary (“something is going on right now with Speaker_04 and Speaker_05”) and reacts loudly/energetically (“What? What? What?!”)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of kindness or hostility; comments are observational, not cooperative or antagonistic."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to planning, organization, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays heightened reactivity and alarm (“What? What? What?!”) and perceives tension (“Speaker_05 looks upset… was just told to shove something”)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and inference-making about others’ behavior (“something is going on…”, interprets nonverbal cues about Speaker_05)."
+  }
+}

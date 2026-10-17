@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker publicly introduces a performer (“announces that Central Perk is presenting Speaker_03”) and later recaps the act (“says Speaker_03 just performed at Central Perk”), indicating comfort speaking to an audience."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior showing warmth, generosity, or hostility; statements are neutral stage announcements."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Announcing and recapping a performance does not clearly demonstrate organization or care versus sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, stress, or unusual calm in the brief announcements."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or dogmatism in the content of the announcements."
+  }
+}

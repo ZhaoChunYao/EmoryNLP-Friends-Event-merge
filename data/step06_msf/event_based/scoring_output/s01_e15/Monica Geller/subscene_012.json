@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Gives multiple assertive directions and takes charge of the situation: tells Speaker_02 to wait six and a half minutes, to have a seat, to give over the Gummi-bears, and declares “dinner is over.”"
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Unyielding and unsympathetic: repeatedly demands the Gummi-bears rather than sharing and ends dinner punitively, scolding that Speaker_02 “can’t wait four and a half minutes for an onion tartlet.”"
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Highly structured and rule-focused: prevents spoiling appetite, insists on precise waiting times (six and a half/four and a half minutes), and rejects changing the plan to make macaroni and cheese."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Emotionally reactive and stressed: abruptly ends dinner over a minor infraction and emphasizes having waited seven years for this opportunity, showing irritability and tension."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Rigid and inflexible: rejects making macaroni and cheese and strictly adheres to the planned menu/timing, discouraging deviation."
+  }
+}

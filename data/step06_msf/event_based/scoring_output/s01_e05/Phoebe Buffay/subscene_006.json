@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages and takes charge—asks about drink count and gives directions like “go to your happy place,” “wait here,” and “breathe,” showing social assertiveness rather than withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is supportive and soothing, giving calming guidance and agreeing to help with breakups together, despite a mildly boastful remark about having a calming ‘gift.’"
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker handles the situation in an organized way—assessing intoxication and providing clear, step-by-step calming instructions (happy place, wait, breathe)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains calm and confident throughout, even characterizing calming others as a ‘gift,’ with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "There is little direct evidence of curiosity or unconventional thinking; using a common calming technique and agreeing to a plan do not clearly indicate high openness."
+  }
+}

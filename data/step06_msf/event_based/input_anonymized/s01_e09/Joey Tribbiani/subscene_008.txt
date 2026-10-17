@@ -1,0 +1,24 @@
+Episode: s01_e09
+Scene: s01_e09_c10
+Subscene index for speaker: 008
+Main speaker: TargetSpeaker
+UID span: s01_e09_c10_u009 → s01_e09_c10_u016
+Peak window: 9 → 11
+
+Dialogue:
+  [s01_e09_c10_u009]
+  1. Speaker_01 asks whether Speaker_02 or Speaker_03 currently have the keys.
+  [s01_e09_c10_u010]
+  1. Speaker_03 says the oven is currently on.
+  [s01_e09_c10_u011]
+  1. Speaker_02 says Speaker_02 needs to get Speaker_02's ticket.
+  [s01_e09_c10_u012]
+  1. TargetSpeaker tells Speaker_02 and Speaker_03 to wait.
+  2. TargetSpeaker says TargetSpeaker and Speaker_01 have a copy of Speaker_02's apartment key.
+  [s01_e09_c10_u013]
+  1. Speaker_03 tells TargetSpeaker to get the copy of Speaker_02's apartment key.
+  [s01_e09_c10_u014]
+  1. TargetSpeaker says Speaker_03's tone will not make TargetSpeaker go any faster.
+  [s01_e09_c10_u015] Speaker_03: Joey!
+  [s01_e09_c10_u016]
+  1. TargetSpeaker says Speaker_03's sharper tone will make TargetSpeaker go faster.

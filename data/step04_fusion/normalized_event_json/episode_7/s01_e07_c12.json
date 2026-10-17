@@ -1,0 +1,72 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c12_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c12_u001_e1",
+          "tuples": [
+            "('be', 'this/Bactine', 'just Bactine', 's01_e07_c12_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c12_u001_e2",
+          "tuples": [
+            "('hurt', 'it/Bactine', None, 's01_e07_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c12_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c12_u003_e1",
+          "tuples": [
+            "('be', 'that/wax', 'wax', 's01_e07_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c12_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c12_u004_e1",
+          "tuples": [
+            "('be', 'poor little Tooty', 'scared to death', 's01_e07_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c12_u004_e2",
+          "tuples": [
+            "('find', 'we/Phoebe+Monica+Joey+Ross+Rachel', 'his owner', 's01_e07_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c12_u005",
+      "events": [
+        {
+          "event_id": "s01_e07_c12_u005_e1",
+          "tuples": [
+            "('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'poor little Tooty', 's01_e07_c12_u005')",
+            "('put', 'we/Ross+Monica+Joey+Phoebe+Rachel', 'in the hall', 's01_e07_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c12_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c12_u006_e1",
+          "tuples": [
+            "('get', 'he/poor little Tooty', 'trampled', 's01_e07_c12_u006')"
+          ]
+        }
+      ]
+    }
+  ]
+}

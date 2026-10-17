@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, curt replies, tells the other person to leave, and backs out of a social drink invitation after initially agreeing."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Responds with sarcasm (“Yeah, right”), tells the other person to leave, and abruptly exits despite receiving compliments."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Says they just remembered they have to do something and leaves, which could indicate responsibility or could be an excuse; evidence is ambiguous."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says the compliment means a lot to them and shows sudden hesitation (“Yeah. Oh.”) before quickly exiting, suggesting sensitivity and nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Avoids a spontaneous plan to get a drink, choosing a cautious withdrawal instead."
+  }
+}

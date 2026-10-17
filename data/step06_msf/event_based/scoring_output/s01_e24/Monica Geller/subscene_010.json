@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker talks multiple times, jokes about being \"friends-in-law,\" reframes the situation as \"starting on the fifteenth date,\" and quickly affirms with \"Sure,\" showing outgoing, engaged participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker responds supportively, highlighting the \"best part\" that Speaker_01 already knows everything about Speaker_02 and using friendly humor (\"friends-in-law\"), with no confrontational or critical tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from preferring to throw out the slightly torn wrapping paper, there is no clear behavior showing organization or careful follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker appears relaxed and confident, using humor and casual affirmations without any signs of worry or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker uses imaginative reframing (\"friends-in-law,\" \"starting on the fifteenth date\") and highlights conceptual advantages of an already-familiar relationship."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and only makes a simple observation about another’s mood (u041); no clear outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they cannot keep searching the lasagne for the engagement ring (u037), showing unwillingness to cooperate or be generous with effort."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker stops the task (“cannot keep searching,” u037), and another speaker notes they weren’t searching the right way (u036), suggesting low persistence/poor method."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No explicit signs of anxiety, distress, or emotional reactivity are shown."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or openness to new approaches appear in the dialogue."
+  }
+}

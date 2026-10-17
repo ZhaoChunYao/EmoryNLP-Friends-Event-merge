@@ -1,0 +1,88 @@
+event_id: s01_e24_c08_u004_e1
+utterance_id: s01_e24_c08_u004
+  tuple: ('exchange', 'I/Rachel Green', 'the blouse you got me', 's01_e24_c08_u004')
+
+event_id: s01_e24_c08_u004_e2
+utterance_id: s01_e24_c08_u004
+  tuple: ('get', 'you/Monica Geller', 'me', 's01_e24_c08_u004')
+
+event_id: s01_e24_c08_u005_e1
+utterance_id: s01_e24_c08_u005
+  tuple: ('be', 'it/(the gift)', 'the thought', 's01_e24_c08_u005')
+
+event_id: s01_e24_c08_u005_e2
+utterance_id: s01_e24_c08_u005
+  tuple: ('get', "Ross's flight", 'in a couple hours', 's01_e24_c08_u005')
+  tuple: ('get', "Ross's flight", 'at gate 27-B', 's01_e24_c08_u005')
+
+event_id: s01_e24_c08_u006_e1
+utterance_id: s01_e24_c08_u006
+  tuple: ('think', 'I/Rachel Green', 'about it', 's01_e24_c08_u006')
+
+event_id: s01_e24_c08_u006_e2
+utterance_id: s01_e24_c08_u006
+  tuple: ('decide', 'I/Rachel Green', 'this whole Ross thing is just not a good idea', 's01_e24_c08_u006')
+  tuple: ('be', 'it/(this whole Ross thing)', 'just not a good idea', 's01_e24_c08_u006')
+
+event_id: s01_e24_c08_u008_e1
+utterance_id: s01_e24_c08_u008
+  tuple: ('feel', 'I/Rachel Green', "like I wouldn't just be going out with him", 's01_e24_c08_u008')
+  tuple: ('go', 'I/Rachel Green', 'with him', 's01_e24_c08_u008')
+
+event_id: s01_e24_c08_u008_e2
+utterance_id: s01_e24_c08_u008
+  tuple: ('go', 'I/Rachel Green', 'with all of you', 's01_e24_c08_u008')
+
+event_id: s01_e24_c08_u008_e3
+utterance_id: s01_e24_c08_u008
+  tuple: ('be', 'there', 'all this pressure', 's01_e24_c08_u008')
+
+event_id: s01_e24_c08_u008_e4
+utterance_id: s01_e24_c08_u008
+  tuple: ('want', 'I/Rachel Green', None, 's01_e24_c08_u008')
+
+event_id: s01_e24_c08_u010_e1
+utterance_id: s01_e24_c08_u010
+  tuple: ('happen', 'nothing', None, 's01_e24_c08_u010')
+
+event_id: s01_e24_c08_u010_e2
+utterance_id: s01_e24_c08_u010
+  tuple: ('be', 'you/Monica Geller', None, 's01_e24_c08_u010')
+
+event_id: s01_e24_c08_u011_e1
+utterance_id: s01_e24_c08_u011
+  tuple: ('be', 'I/Monica Geller', 'so', 's01_e24_c08_u011')
+
+event_id: s01_e24_c08_u011_e2
+utterance_id: s01_e24_c08_u011
+  tuple: ('be', 'I/Monica Geller', 'a teensy bit weird', 's01_e24_c08_u011')
+  tuple: ('be', 'I/Monica Geller', 'at first', 's01_e24_c08_u011')
+
+event_id: s01_e24_c08_u011_e3
+utterance_id: s01_e24_c08_u011
+  tuple: ('be', 'I/Monica Geller', 'good', 's01_e24_c08_u011')
+
+event_id: s01_e24_c08_u011_e4
+utterance_id: s01_e24_c08_u011
+  tuple: ('promise', 'I/Monica Geller', None, 's01_e24_c08_u011')
+
+event_id: s01_e24_c08_u013_e1
+utterance_id: s01_e24_c08_u013
+  tuple: ('be', 'it', 'who', 's01_e24_c08_u013')
+
+event_id: s01_e24_c08_u014_e1
+utterance_id: s01_e24_c08_u014
+  tuple: ('be', 'it', 'me, Carl', 's01_e24_c08_u014')
+
+event_id: s01_e24_c08_u015_e1
+utterance_id: s01_e24_c08_u015
+  tuple: ('come', 'you/Carl', 'up', 's01_e24_c08_u015')
+
+event_id: s01_e24_c08_u016_e1
+utterance_id: s01_e24_c08_u016
+  tuple: ('be', "it/(dating behind my brother's back)", "exactly the kind of crazy thing you won't be hearing from me", 's01_e24_c08_u016')
+
+event_id: s01_e24_c08_u016_e2
+utterance_id: s01_e24_c08_u016
+  tuple: ('hear', 'you/Rachel Green', 'from me', 's01_e24_c08_u016')
+

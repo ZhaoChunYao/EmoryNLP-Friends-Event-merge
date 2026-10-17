@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaks tersely and insists on acting alone, telling Speaker_02 not to come out while he proceeds with the task."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for Speaker_02’s safety by warning he’d be a “dead man” if he came out, and responds politely with “Thanks.”"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from decisively starting the task and refusing help, there’s no clear evidence of planning or organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Gives firm directives and proceeds without hesitation, showing confidence and no signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, creativity, or rigidity; focus is on immediate action and safety."
+  }
+}

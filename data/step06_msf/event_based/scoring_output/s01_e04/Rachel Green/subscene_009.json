@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Shares personal concerns in conversation but shows no clear signs of being outgoing or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is straightforward and honest about not loving the orthodontist and engages cooperatively without hostility."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Says life is currently \"uncertain and floopy\" and worries it may not come together, indicating disorganization/lack of clear plan."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses anxiety and insecurity: describes feeling uncertain and asks, \"what if it doesn't come together?\""
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Responds to new, uncertain circumstances with caution and doubt rather than curiosity, calling things 'floopy' and fearing they won't come together."
+  }
+}

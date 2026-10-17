@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief comments and advice but shows no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They affirm that the dream is nice and offer supportive, protective advice to take the sack, showing consideration for others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Recommending to “take the sack instead” prioritizes safety and responsibility over risk, indicating a careful, organized approach."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or insecurity; their comments are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative engagement; the practical safety advice doesn’t strongly indicate either openness or dogmatism."
+  }
+}

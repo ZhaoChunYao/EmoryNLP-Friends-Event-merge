@@ -1,0 +1,45 @@
+event_id: s01_e02_c07_u002_e1
+utterance_id: s01_e02_c07_u002
+  tuple: ('come', 'you/Rachel Green', 'in', 's01_e02_c07_u002')
+
+event_id: s01_e02_c07_u003_e1
+utterance_id: s01_e02_c07_u003
+  tuple: ('be', 'you/Barry Farber', 'sure', 's01_e02_c07_u003')
+
+event_id: s01_e02_c07_u004_e1
+utterance_id: s01_e02_c07_u004
+  tuple: ('be', 'it', 'fine', 's01_e02_c07_u004')
+
+event_id: s01_e02_c07_u004_e2
+utterance_id: s01_e02_c07_u004
+  tuple: ('be', 'Robbie', 'here', 's01_e02_c07_u004')
+  tuple: ('be', 'Robbie', 'for hours', 's01_e02_c07_u004')
+
+event_id: s01_e02_c07_u006_e1
+utterance_id: s01_e02_c07_u006
+  tuple: ('do', 'you/Rachel Green', None, 's01_e02_c07_u006')
+
+event_id: s01_e02_c07_u007_e1
+utterance_id: s01_e02_c07_u007
+  tuple: ('be', 'I/Rachel Green', 'okay', 's01_e02_c07_u007')
+
+event_id: s01_e02_c07_u007_e2
+utterance_id: s01_e02_c07_u007
+  tuple: ('look', 'you/Barry Farber', 'great', 's01_e02_c07_u007')
+
+event_id: s01_e02_c07_u009_e1
+utterance_id: s01_e02_c07_u009
+  tuple: ('gag', 'Jason Greenstein', None, 's01_e02_c07_u009')
+
+event_id: s01_e02_c07_u010_e1
+utterance_id: s01_e02_c07_u010
+  tuple: ('be', 'I/Barry Farber', 'right there', 's01_e02_c07_u010')
+
+event_id: s01_e02_c07_u010_e2
+utterance_id: s01_e02_c07_u010
+  tuple: ('be', 'I/Barry Farber', 'back in a sec', 's01_e02_c07_u010')
+
+event_id: s01_e02_c07_u012_e1
+utterance_id: s01_e02_c07_u012
+  tuple: ('dump', 'I/Rachel Green', 'him', 's01_e02_c07_u012')
+

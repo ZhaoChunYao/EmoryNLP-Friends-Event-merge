@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly with simple affirmations; no clear sign of being especially outgoing or reserved beyond normal participation (u014, u018)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Affirms another’s point (“Man’s got a point.”) and offers reassuring, supportive clarification that everyone understands Speaker_01 (u014, u018)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness from TargetSpeaker in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm and reassuring tone, showing confidence rather than anxiety or sensitivity (u014, u018)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity; agreeing with a point does not demonstrate openness or dogmatism on its own."
+  }
+}

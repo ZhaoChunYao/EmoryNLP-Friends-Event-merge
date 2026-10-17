@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At the party, TargetSpeaker enthusiastically declares plans to enlarge a photo of TargetSpeaker with Speaker_03 and write “Reunited” in glitter, and speaks up assertively to Speaker_03."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When told the invitation didn’t mean they were back together, TargetSpeaker responds, “you should listen to me” and issues an ultimatum about a last chance—confrontational rather than accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organized or disorganized behavior; the glitter-photo plan shows enthusiasm but not clear efficiency or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Reacting with “Oh, no. Oh, no.” and issuing a tense ultimatum indicates emotional reactivity and insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Creative, imaginative plan to enlarge a photo and decorate it with glitter and the word “Reunited.”"
+  }
+}

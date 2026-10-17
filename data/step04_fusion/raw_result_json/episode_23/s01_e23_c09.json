@@ -1,0 +1,33 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c09_u001_e1",
+          "tuples": [
+            "('help', '#ALL#', None, 's01_e23_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e23_c09_u002_e1",
+          "tuples": [
+            "('have', 'Ross Geller', 'baby', 's01_e23_c09_u002')",
+            "('have', 'Ross Geller', 'in here', 's01_e23_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c09_u002_e2",
+          "tuples": [
+            "('stand back', 'everyone', None, 's01_e23_c09_u002')"
+          ]
+        }
+      ]
+    }
+  ]
+}

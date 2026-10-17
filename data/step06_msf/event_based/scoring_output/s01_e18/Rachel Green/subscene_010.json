@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets the group, prompts a guessing game about the interview news, and enthusiastically shares many details about a long (2.5-hour) interview conversation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Presents the news in a self-congratulatory way (“the interviewer loved me,” “the job is perfect for me,” “I can do it well”), which comes off as boastful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from attending an interview, there is no clear behavior showing organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks with strong confidence about the interview and personal ability without any signs of worry or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Initiates a playful guessing game and is reported as willing to give poker another try, showing openness to new/varied activities."
+  }
+}

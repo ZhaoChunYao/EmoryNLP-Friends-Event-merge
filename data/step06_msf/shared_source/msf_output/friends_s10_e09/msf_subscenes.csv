@@ -1,0 +1,729 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e09,s10_e09_c01,Chandler Bing,0,0,0,0,1,2,s10_e09_c01_u001,s10_e09_c01_u006,"[s10_e09_c01_u001] Chandler Bing: Hi!
+[s10_e09_c01_u002] Ross Geller: Hey!
+[s10_e09_c01_u003] Monica Geller: Hey!
+[s10_e09_c01_u004] Chandler Bing: We're just here to say goodbye, we're off to Ohio.
+[s10_e09_c01_u005] Phoebe Buffay: Oh, right! Your adoption interview!
+[s10_e09_c01_u006] Monica Geller: Yep, we're gonna meet the lady who could be carrying our baby."
+s10_e09,s10_e09_c01,Chandler Bing,1,3,3,2,4,2,s10_e09_c01_u003,s10_e09_c01_u009,"[s10_e09_c01_u003] Monica Geller: Hey!
+[s10_e09_c01_u004] Chandler Bing: We're just here to say goodbye, we're off to Ohio.
+[s10_e09_c01_u005] Phoebe Buffay: Oh, right! Your adoption interview!
+[s10_e09_c01_u006] Monica Geller: Yep, we're gonna meet the lady who could be carrying our baby.
+[s10_e09_c01_u007] Joey Tribbiani: I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+[s10_e09_c01_u008] Chandler Bing: And so incorrect!
+[s10_e09_c01_u009] Monica Geller: She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us."
+s10_e09,s10_e09_c01,Chandler Bing,2,6,17,5,17,3,s10_e09_c01_u006,s10_e09_c01_u022,"[s10_e09_c01_u006] Monica Geller: Yep, we're gonna meet the lady who could be carrying our baby.
+[s10_e09_c01_u007] Joey Tribbiani: I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+[s10_e09_c01_u008] Chandler Bing: And so incorrect!
+[s10_e09_c01_u009] Monica Geller: She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us.
+[s10_e09_c01_u010] Ross Geller: Come on, she's gonna love you guys!
+[s10_e09_c01_u011] Chandler Bing: Uhm, thank you, but we're really trying not to get our hopes up.
+[s10_e09_c01_u012] Monica Geller: And a lot could still get in our way.
+[s10_e09_c01_u013] Chandler Bing: Yeah. I mean, this girl could decide against adoption or she could like another couple better..
+[s10_e09_c01_u014] Phoebe Buffay: What are you gonna name the baby?
+[s10_e09_c01_u015] Chandler Bing: I can develop a condition in which I talk and talk and no one hears a word.
+[s10_e09_c01_u016] Joey Tribbiani: But just think, ok? What if everything goes right? What if this woman does pick you guys?
+[s10_e09_c01_u017] Monica Geller: Oh my God. She's gonna pick us!
+[s10_e09_c01_u018] Chandler Bing: So we're standing firm on the 'not getting our hopes up'?
+[s10_e09_c01_u019] Monica Geller: You know, I know that things could still go wrong but if they don't? If this works out, we're gonna have a baby Chandler, a baby!
+[s10_e09_c01_u020] Chandler Bing: Yes, but...
+[s10_e09_c01_u021] Monica Geller: Oh my God, it's gonna WORK! We're gonna make it work! I'm gonna be a mummy and you're gonna be a daddy! All right, I'll see you suckers. I'm gonna get me... A BABY!
+[s10_e09_c01_u022] Chandler Bing: Oh, screw it, I'm gonna be a daddy!!"
+s10_e09,s10_e09_c01,Monica Geller,0,1,2,0,3,2,s10_e09_c01_u001,s10_e09_c01_u008,"[s10_e09_c01_u001] Chandler Bing: Hi!
+[s10_e09_c01_u002] Ross Geller: Hey!
+[s10_e09_c01_u003] Monica Geller: Hey!
+[s10_e09_c01_u004] Chandler Bing: We're just here to say goodbye, we're off to Ohio.
+[s10_e09_c01_u005] Phoebe Buffay: Oh, right! Your adoption interview!
+[s10_e09_c01_u006] Monica Geller: Yep, we're gonna meet the lady who could be carrying our baby.
+[s10_e09_c01_u007] Joey Tribbiani: I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+[s10_e09_c01_u008] Chandler Bing: And so incorrect!"
+s10_e09,s10_e09_c01,Monica Geller,1,4,5,3,6,2,s10_e09_c01_u004,s10_e09_c01_u011,"[s10_e09_c01_u004] Chandler Bing: We're just here to say goodbye, we're off to Ohio.
+[s10_e09_c01_u005] Phoebe Buffay: Oh, right! Your adoption interview!
+[s10_e09_c01_u006] Monica Geller: Yep, we're gonna meet the lady who could be carrying our baby.
+[s10_e09_c01_u007] Joey Tribbiani: I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+[s10_e09_c01_u008] Chandler Bing: And so incorrect!
+[s10_e09_c01_u009] Monica Geller: She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us.
+[s10_e09_c01_u010] Ross Geller: Come on, she's gonna love you guys!
+[s10_e09_c01_u011] Chandler Bing: Uhm, thank you, but we're really trying not to get our hopes up."
+s10_e09,s10_e09_c01,Monica Geller,2,7,8,6,9,2,s10_e09_c01_u007,s10_e09_c01_u014,"[s10_e09_c01_u007] Joey Tribbiani: I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+[s10_e09_c01_u008] Chandler Bing: And so incorrect!
+[s10_e09_c01_u009] Monica Geller: She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us.
+[s10_e09_c01_u010] Ross Geller: Come on, she's gonna love you guys!
+[s10_e09_c01_u011] Chandler Bing: Uhm, thank you, but we're really trying not to get our hopes up.
+[s10_e09_c01_u012] Monica Geller: And a lot could still get in our way.
+[s10_e09_c01_u013] Chandler Bing: Yeah. I mean, this girl could decide against adoption or she could like another couple better..
+[s10_e09_c01_u014] Phoebe Buffay: What are you gonna name the baby?"
+s10_e09,s10_e09_c01,Monica Geller,3,14,17,13,17,3,s10_e09_c01_u014,s10_e09_c01_u022,"[s10_e09_c01_u014] Phoebe Buffay: What are you gonna name the baby?
+[s10_e09_c01_u015] Chandler Bing: I can develop a condition in which I talk and talk and no one hears a word.
+[s10_e09_c01_u016] Joey Tribbiani: But just think, ok? What if everything goes right? What if this woman does pick you guys?
+[s10_e09_c01_u017] Monica Geller: Oh my God. She's gonna pick us!
+[s10_e09_c01_u018] Chandler Bing: So we're standing firm on the 'not getting our hopes up'?
+[s10_e09_c01_u019] Monica Geller: You know, I know that things could still go wrong but if they don't? If this works out, we're gonna have a baby Chandler, a baby!
+[s10_e09_c01_u020] Chandler Bing: Yes, but...
+[s10_e09_c01_u021] Monica Geller: Oh my God, it's gonna WORK! We're gonna make it work! I'm gonna be a mummy and you're gonna be a daddy! All right, I'll see you suckers. I'm gonna get me... A BABY!
+[s10_e09_c01_u022] Chandler Bing: Oh, screw it, I'm gonna be a daddy!!"
+s10_e09,s10_e09_c02,Joey Tribbiani,0,0,17,0,18,3,s10_e09_c02_u001,s10_e09_c02_u023,"[s10_e09_c02_u001] Rachel Green: Hey, who's Phoebe with?
+[s10_e09_c02_u002] Joey Tribbiani: I'm gonna say someone I'm gonna have sex with. Hey!
+[s10_e09_c02_u003] Phoebe Buffay: Hey!
+[s10_e09_c02_u004] Joey Tribbiani: So... who's your friend?
+[s10_e09_c02_u005] Phoebe Buffay: Oh, that's Sarah. No, no. Don't you get any ideas, ok? No, I'm not setting you up with any more of my friends!
+[s10_e09_c02_u006] Joey Tribbiani: OW, why, why, why?
+[s10_e09_c02_u007] Phoebe Buffay: Because you'll date her once, sleep with her and then forget she exists!
+[s10_e09_c02_u008] Joey Tribbiani: Oh, name one friend of yours that I did that with.
+[s10_e09_c02_u009] Phoebe Buffay: Mandy.
+[s10_e09_c02_u010] Joey Tribbiani: Mandy, uh? Uh... really hot blonde, big boobs?
+[s10_e09_c02_u011] Phoebe Buffay: No.
+[s10_e09_c02_u012] Joey Tribbiani: I know why I don't remember her, huh?
+[s10_e09_c02_u013] Rachel Green: Do you think I'm someone else?
+[s10_e09_c02_u014] Joey Tribbiani: Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?
+[s10_e09_c02_u015] Rachel Green: Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!
+[s10_e09_c02_u016] Joey Tribbiani: Growth!
+[s10_e09_c02_u017] Phoebe Buffay: Fine, I'll give you her number.
+[s10_e09_c02_u018] Joey Tribbiani: Ok, thank you. And I promise you I will not forget this one. Mandy.
+[s10_e09_c02_u019] Phoebe Buffay: SARAH!
+[s10_e09_c02_u020] Joey Tribbiani: Saraaah.
+[s10_e09_c02_u021] Ross Geller: Hey!
+[s10_e09_c02_u022] Rachel Green: Hi!
+[s10_e09_c02_u023] Ross Geller: Hey you guys, I need some fashion advice."
+s10_e09,s10_e09_c02,Joey Tribbiani,1,29,29,28,29,2,s10_e09_c02_u029,s10_e09_c02_u034,"[s10_e09_c02_u029] Ross Geller: Damnit! I have this date tomorrow night and I have to look cool!
+[s10_e09_c02_u030] Phoebe Buffay: Well, you know, if you want fashion help, Rachel and I are going shopping tomorrow. You're more than welcome to come with us, right?
+[s10_e09_c02_u031] Ross Geller: Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress.
+[s10_e09_c02_u032] Joey Tribbiani: I can see why, nice shirt!
+[s10_e09_c02_u033] Ross Geller: You're wearing the same shirt.
+[s10_e09_c02_u034] Joey Tribbiani: Stupid Gap on every corner!"
+s10_e09,s10_e09_c02,Phoebe Buffay,0,0,8,0,9,3,s10_e09_c02_u001,s10_e09_c02_u014,"[s10_e09_c02_u001] Rachel Green: Hey, who's Phoebe with?
+[s10_e09_c02_u002] Joey Tribbiani: I'm gonna say someone I'm gonna have sex with. Hey!
+[s10_e09_c02_u003] Phoebe Buffay: Hey!
+[s10_e09_c02_u004] Joey Tribbiani: So... who's your friend?
+[s10_e09_c02_u005] Phoebe Buffay: Oh, that's Sarah. No, no. Don't you get any ideas, ok? No, I'm not setting you up with any more of my friends!
+[s10_e09_c02_u006] Joey Tribbiani: OW, why, why, why?
+[s10_e09_c02_u007] Phoebe Buffay: Because you'll date her once, sleep with her and then forget she exists!
+[s10_e09_c02_u008] Joey Tribbiani: Oh, name one friend of yours that I did that with.
+[s10_e09_c02_u009] Phoebe Buffay: Mandy.
+[s10_e09_c02_u010] Joey Tribbiani: Mandy, uh? Uh... really hot blonde, big boobs?
+[s10_e09_c02_u011] Phoebe Buffay: No.
+[s10_e09_c02_u012] Joey Tribbiani: I know why I don't remember her, huh?
+[s10_e09_c02_u013] Rachel Green: Do you think I'm someone else?
+[s10_e09_c02_u014] Joey Tribbiani: Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?"
+s10_e09,s10_e09_c02,Phoebe Buffay,1,14,16,13,17,2,s10_e09_c02_u014,s10_e09_c02_u022,"[s10_e09_c02_u014] Joey Tribbiani: Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?
+[s10_e09_c02_u015] Rachel Green: Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!
+[s10_e09_c02_u016] Joey Tribbiani: Growth!
+[s10_e09_c02_u017] Phoebe Buffay: Fine, I'll give you her number.
+[s10_e09_c02_u018] Joey Tribbiani: Ok, thank you. And I promise you I will not forget this one. Mandy.
+[s10_e09_c02_u019] Phoebe Buffay: SARAH!
+[s10_e09_c02_u020] Joey Tribbiani: Saraaah.
+[s10_e09_c02_u021] Ross Geller: Hey!
+[s10_e09_c02_u022] Rachel Green: Hi!"
+s10_e09,s10_e09_c02,Rachel Green,0,10,12,9,13,2,s10_e09_c02_u010,s10_e09_c02_u018,"[s10_e09_c02_u010] Joey Tribbiani: Mandy, uh? Uh... really hot blonde, big boobs?
+[s10_e09_c02_u011] Phoebe Buffay: No.
+[s10_e09_c02_u012] Joey Tribbiani: I know why I don't remember her, huh?
+[s10_e09_c02_u013] Rachel Green: Do you think I'm someone else?
+[s10_e09_c02_u014] Joey Tribbiani: Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?
+[s10_e09_c02_u015] Rachel Green: Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!
+[s10_e09_c02_u016] Joey Tribbiani: Growth!
+[s10_e09_c02_u017] Phoebe Buffay: Fine, I'll give you her number.
+[s10_e09_c02_u018] Joey Tribbiani: Ok, thank you. And I promise you I will not forget this one. Mandy."
+s10_e09,s10_e09_c02,Rachel Green,1,19,25,18,26,3,s10_e09_c02_u019,s10_e09_c02_u031,"[s10_e09_c02_u019] Phoebe Buffay: SARAH!
+[s10_e09_c02_u020] Joey Tribbiani: Saraaah.
+[s10_e09_c02_u021] Ross Geller: Hey!
+[s10_e09_c02_u022] Rachel Green: Hi!
+[s10_e09_c02_u023] Ross Geller: Hey you guys, I need some fashion advice.
+[s10_e09_c02_u024] Rachel Green: Oh!
+[s10_e09_c02_u025] Ross Geller: How does this look?
+[s10_e09_c02_u026] Rachel Green: Well, it's a little low... pick up a little... a little bit more... a little bit more... There you go! Now throw it away!
+[s10_e09_c02_u027] Ross Geller: C'mon! This looks good!
+[s10_e09_c02_u028] Rachel Green: Ross, please, trust me. I buy 30 fashion magazines a month. Now, I don't know who's running for president or who that... NATO guy is, but I do know that you have to get as far away as you can from that hat.
+[s10_e09_c02_u029] Ross Geller: Damnit! I have this date tomorrow night and I have to look cool!
+[s10_e09_c02_u030] Phoebe Buffay: Well, you know, if you want fashion help, Rachel and I are going shopping tomorrow. You're more than welcome to come with us, right?
+[s10_e09_c02_u031] Ross Geller: Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress."
+s10_e09,s10_e09_c02,Ross Geller,0,18,29,17,29,3,s10_e09_c02_u018,s10_e09_c02_u034,"[s10_e09_c02_u018] Joey Tribbiani: Ok, thank you. And I promise you I will not forget this one. Mandy.
+[s10_e09_c02_u019] Phoebe Buffay: SARAH!
+[s10_e09_c02_u020] Joey Tribbiani: Saraaah.
+[s10_e09_c02_u021] Ross Geller: Hey!
+[s10_e09_c02_u022] Rachel Green: Hi!
+[s10_e09_c02_u023] Ross Geller: Hey you guys, I need some fashion advice.
+[s10_e09_c02_u024] Rachel Green: Oh!
+[s10_e09_c02_u025] Ross Geller: How does this look?
+[s10_e09_c02_u026] Rachel Green: Well, it's a little low... pick up a little... a little bit more... a little bit more... There you go! Now throw it away!
+[s10_e09_c02_u027] Ross Geller: C'mon! This looks good!
+[s10_e09_c02_u028] Rachel Green: Ross, please, trust me. I buy 30 fashion magazines a month. Now, I don't know who's running for president or who that... NATO guy is, but I do know that you have to get as far away as you can from that hat.
+[s10_e09_c02_u029] Ross Geller: Damnit! I have this date tomorrow night and I have to look cool!
+[s10_e09_c02_u030] Phoebe Buffay: Well, you know, if you want fashion help, Rachel and I are going shopping tomorrow. You're more than welcome to come with us, right?
+[s10_e09_c02_u031] Ross Geller: Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress.
+[s10_e09_c02_u032] Joey Tribbiani: I can see why, nice shirt!
+[s10_e09_c02_u033] Ross Geller: You're wearing the same shirt.
+[s10_e09_c02_u034] Joey Tribbiani: Stupid Gap on every corner!"
+s10_e09,s10_e09_c03,Chandler Bing,0,0,2,0,3,2,s10_e09_c03_u001,s10_e09_c03_u008,"[s10_e09_c03_u001] Agency Guy: Please, make yourself comfortable and I will back in a moment with Erica.
+[s10_e09_c03_u002] Monica Geller: Ok, thank you. Uh, well this is it. Are you OK?
+[s10_e09_c03_u003] Chandler Bing: Yeah. Just weird, you know. It's like: ""Hi, I'm Chandler. May I have the human growing inside you?""
+[s10_e09_c03_u004] Monica Geller: Uh, we're gonna be great.
+[s10_e09_c03_u005] Chandler Bing: You're gonna be great.
+[s10_e09_c03_u006] Monica Geller: Well... obviously!
+[s10_e09_c03_u007] Agency Guy: Monica, Chandler. I'd like you to meet Erica.
+[s10_e09_c03_u008] Monica Geller: Hi. It is so, so nice to meet you."
+s10_e09,s10_e09_c03,Chandler Bing,1,8,12,7,13,2,s10_e09_c03_u008,s10_e09_c03_u018,"[s10_e09_c03_u008] Monica Geller: Hi. It is so, so nice to meet you.
+[s10_e09_c03_u009] Erica: Hi...
+[s10_e09_c03_u010] Chandler Bing: Thank you so much for agreeing to see us.
+[s10_e09_c03_u011] Erica: Hi.
+[s10_e09_c03_u012] Agency Guy: I'll let you get acquainted.
+[s10_e09_c03_u013] Chandler Bing: Ok.
+[s10_e09_c03_u014] Erica: So, it's Monica and Chandler. I only know you as file 0W33815-D.
+[s10_e09_c03_u015] Chandler Bing: That's what our friends call us.
+[s10_e09_c03_u016] Erica: Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.
+[s10_e09_c03_u017] Monica Geller: I don't know about that.
+[s10_e09_c03_u018] Erica: You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?"
+s10_e09,s10_e09_c03,Chandler Bing,2,14,14,13,15,2,s10_e09_c03_u014,s10_e09_c03_u020,"[s10_e09_c03_u014] Erica: So, it's Monica and Chandler. I only know you as file 0W33815-D.
+[s10_e09_c03_u015] Chandler Bing: That's what our friends call us.
+[s10_e09_c03_u016] Erica: Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.
+[s10_e09_c03_u017] Monica Geller: I don't know about that.
+[s10_e09_c03_u018] Erica: You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?
+[s10_e09_c03_u019] Chandler Bing: I don't think that's exactly...
+[s10_e09_c03_u020] Monica Geller: Let her finish, doctor."
+s10_e09,s10_e09_c03,Erica,0,6,15,5,15,3,s10_e09_c03_u006,s10_e09_c03_u020,"[s10_e09_c03_u006] Monica Geller: Well... obviously!
+[s10_e09_c03_u007] Agency Guy: Monica, Chandler. I'd like you to meet Erica.
+[s10_e09_c03_u008] Monica Geller: Hi. It is so, so nice to meet you.
+[s10_e09_c03_u009] Erica: Hi...
+[s10_e09_c03_u010] Chandler Bing: Thank you so much for agreeing to see us.
+[s10_e09_c03_u011] Erica: Hi.
+[s10_e09_c03_u012] Agency Guy: I'll let you get acquainted.
+[s10_e09_c03_u013] Chandler Bing: Ok.
+[s10_e09_c03_u014] Erica: So, it's Monica and Chandler. I only know you as file 0W33815-D.
+[s10_e09_c03_u015] Chandler Bing: That's what our friends call us.
+[s10_e09_c03_u016] Erica: Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.
+[s10_e09_c03_u017] Monica Geller: I don't know about that.
+[s10_e09_c03_u018] Erica: You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?
+[s10_e09_c03_u019] Chandler Bing: I don't think that's exactly...
+[s10_e09_c03_u020] Monica Geller: Let her finish, doctor."
+s10_e09,s10_e09_c03,Monica Geller,0,0,5,0,6,3,s10_e09_c03_u001,s10_e09_c03_u011,"[s10_e09_c03_u001] Agency Guy: Please, make yourself comfortable and I will back in a moment with Erica.
+[s10_e09_c03_u002] Monica Geller: Ok, thank you. Uh, well this is it. Are you OK?
+[s10_e09_c03_u003] Chandler Bing: Yeah. Just weird, you know. It's like: ""Hi, I'm Chandler. May I have the human growing inside you?""
+[s10_e09_c03_u004] Monica Geller: Uh, we're gonna be great.
+[s10_e09_c03_u005] Chandler Bing: You're gonna be great.
+[s10_e09_c03_u006] Monica Geller: Well... obviously!
+[s10_e09_c03_u007] Agency Guy: Monica, Chandler. I'd like you to meet Erica.
+[s10_e09_c03_u008] Monica Geller: Hi. It is so, so nice to meet you.
+[s10_e09_c03_u009] Erica: Hi...
+[s10_e09_c03_u010] Chandler Bing: Thank you so much for agreeing to see us.
+[s10_e09_c03_u011] Erica: Hi."
+s10_e09,s10_e09_c03,Monica Geller,1,15,15,14,15,2,s10_e09_c03_u015,s10_e09_c03_u020,"[s10_e09_c03_u015] Chandler Bing: That's what our friends call us.
+[s10_e09_c03_u016] Erica: Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.
+[s10_e09_c03_u017] Monica Geller: I don't know about that.
+[s10_e09_c03_u018] Erica: You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?
+[s10_e09_c03_u019] Chandler Bing: I don't think that's exactly...
+[s10_e09_c03_u020] Monica Geller: Let her finish, doctor."
+s10_e09,s10_e09_c04,Joey Tribbiani,0,0,11,0,12,3,s10_e09_c04_u001,s10_e09_c04_u017,"[s10_e09_c04_u001] Phoebe Buffay: Hey!
+[s10_e09_c04_u002] Joey Tribbiani: Hey.
+[s10_e09_c04_u003] Phoebe Buffay: Oh, my friend Sarah had a great time last night.
+[s10_e09_c04_u004] Joey Tribbiani: Well...
+[s10_e09_c04_u005] Phoebe Buffay: Yeah! So you're gonna call this one back?
+[s10_e09_c04_u006] Joey Tribbiani: Nope.
+[s10_e09_c04_u007] Phoebe Buffay: What are you talking about? Sarah's great!
+[s10_e09_c04_u008] Joey Tribbiani: Oh, really? You know what your great friend did? We're out to dinner, ok? We're getting along, having a really nice time. I was thinking she was really cool. And then, out of nowhere...
+[s10_e09_c04_u009] Phoebe Buffay: That's it? That's why you won't go out with her again? So, she took some fries, big deal!
+[s10_e09_c04_u010] Joey Tribbiani: Hey, hey, look! It's not about a few fries... it's about what the fries represent.
+[s10_e09_c04_u011] Phoebe Buffay: What?
+[s10_e09_c04_u012] Joey Tribbiani: ALL FOOD!
+[s10_e09_c04_u013] Phoebe Buffay: I'm sorry, I can't believe I set you up with such a MONSTER!
+[s10_e09_c04_u014] Joey Tribbiani: Hey, hey, hey, hey. Look. I take a girl out, she can order whatever she wants! The more, the better! All right? Just don't order a Garden salad and then eat my food! That's a good way to lose some fingers!
+[s10_e09_c04_u015] Phoebe Buffay: Oh.
+[s10_e09_c04_u016] Rachel Green: Hi.
+[s10_e09_c04_u017] Phoebe Buffay: Thank God you're here. Listen to this!"
+s10_e09,s10_e09_c04,Joey Tribbiani,1,22,22,21,22,2,s10_e09_c04_u022,s10_e09_c04_u027,"[s10_e09_c04_u022] Rachel Green: Oh, yeah. Joey doesn't share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ...
+[s10_e09_c04_u023] Phoebe Buffay: You wouldn't let her have a grape?
+[s10_e09_c04_u024] Rachel Green: Oh no! Not me! Emma!
+[s10_e09_c04_u025] Joey Tribbiani: JOEY DOESN'T SHARE FOOD!
+[s10_e09_c04_u026] Phoebe Buffay: Well, I still think that it's a stupid reason not to call someone again. You are calling her! And if you need to, just get an extra plate of fries for the table!
+[s10_e09_c04_u027] Joey Tribbiani: I like that! A sharing buffer! Yeah! I'll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail. And some buffalo wings. Maybe an individual pizza, uh? And some mozzarella sticks. What were we talking about?"
+s10_e09,s10_e09_c04,Phoebe Buffay,0,0,22,0,22,3,s10_e09_c04_u001,s10_e09_c04_u027,"[s10_e09_c04_u001] Phoebe Buffay: Hey!
+[s10_e09_c04_u002] Joey Tribbiani: Hey.
+[s10_e09_c04_u003] Phoebe Buffay: Oh, my friend Sarah had a great time last night.
+[s10_e09_c04_u004] Joey Tribbiani: Well...
+[s10_e09_c04_u005] Phoebe Buffay: Yeah! So you're gonna call this one back?
+[s10_e09_c04_u006] Joey Tribbiani: Nope.
+[s10_e09_c04_u007] Phoebe Buffay: What are you talking about? Sarah's great!
+[s10_e09_c04_u008] Joey Tribbiani: Oh, really? You know what your great friend did? We're out to dinner, ok? We're getting along, having a really nice time. I was thinking she was really cool. And then, out of nowhere...
+[s10_e09_c04_u009] Phoebe Buffay: That's it? That's why you won't go out with her again? So, she took some fries, big deal!
+[s10_e09_c04_u010] Joey Tribbiani: Hey, hey, look! It's not about a few fries... it's about what the fries represent.
+[s10_e09_c04_u011] Phoebe Buffay: What?
+[s10_e09_c04_u012] Joey Tribbiani: ALL FOOD!
+[s10_e09_c04_u013] Phoebe Buffay: I'm sorry, I can't believe I set you up with such a MONSTER!
+[s10_e09_c04_u014] Joey Tribbiani: Hey, hey, hey, hey. Look. I take a girl out, she can order whatever she wants! The more, the better! All right? Just don't order a Garden salad and then eat my food! That's a good way to lose some fingers!
+[s10_e09_c04_u015] Phoebe Buffay: Oh.
+[s10_e09_c04_u016] Rachel Green: Hi.
+[s10_e09_c04_u017] Phoebe Buffay: Thank God you're here. Listen to this!
+[s10_e09_c04_u018] Rachel Green: what?
+[s10_e09_c04_u019] Phoebe Buffay: Joey and my friend were out last night and having dinner and she reaches over and takes a few of his fries...
+[s10_e09_c04_u020] Rachel Green: Oh! Oh, no!
+[s10_e09_c04_u021] Phoebe Buffay: What? You know about the plate thing?
+[s10_e09_c04_u022] Rachel Green: Oh, yeah. Joey doesn't share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ...
+[s10_e09_c04_u023] Phoebe Buffay: You wouldn't let her have a grape?
+[s10_e09_c04_u024] Rachel Green: Oh no! Not me! Emma!
+[s10_e09_c04_u025] Joey Tribbiani: JOEY DOESN'T SHARE FOOD!
+[s10_e09_c04_u026] Phoebe Buffay: Well, I still think that it's a stupid reason not to call someone again. You are calling her! And if you need to, just get an extra plate of fries for the table!
+[s10_e09_c04_u027] Joey Tribbiani: I like that! A sharing buffer! Yeah! I'll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail. And some buffalo wings. Maybe an individual pizza, uh? And some mozzarella sticks. What were we talking about?"
+s10_e09,s10_e09_c04,Rachel Green,0,13,21,12,22,3,s10_e09_c04_u013,s10_e09_c04_u027,"[s10_e09_c04_u013] Phoebe Buffay: I'm sorry, I can't believe I set you up with such a MONSTER!
+[s10_e09_c04_u014] Joey Tribbiani: Hey, hey, hey, hey. Look. I take a girl out, she can order whatever she wants! The more, the better! All right? Just don't order a Garden salad and then eat my food! That's a good way to lose some fingers!
+[s10_e09_c04_u015] Phoebe Buffay: Oh.
+[s10_e09_c04_u016] Rachel Green: Hi.
+[s10_e09_c04_u017] Phoebe Buffay: Thank God you're here. Listen to this!
+[s10_e09_c04_u018] Rachel Green: what?
+[s10_e09_c04_u019] Phoebe Buffay: Joey and my friend were out last night and having dinner and she reaches over and takes a few of his fries...
+[s10_e09_c04_u020] Rachel Green: Oh! Oh, no!
+[s10_e09_c04_u021] Phoebe Buffay: What? You know about the plate thing?
+[s10_e09_c04_u022] Rachel Green: Oh, yeah. Joey doesn't share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ...
+[s10_e09_c04_u023] Phoebe Buffay: You wouldn't let her have a grape?
+[s10_e09_c04_u024] Rachel Green: Oh no! Not me! Emma!
+[s10_e09_c04_u025] Joey Tribbiani: JOEY DOESN'T SHARE FOOD!
+[s10_e09_c04_u026] Phoebe Buffay: Well, I still think that it's a stupid reason not to call someone again. You are calling her! And if you need to, just get an extra plate of fries for the table!
+[s10_e09_c04_u027] Joey Tribbiani: I like that! A sharing buffer! Yeah! I'll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail. And some buffalo wings. Maybe an individual pizza, uh? And some mozzarella sticks. What were we talking about?"
+s10_e09,s10_e09_c05,Phoebe Buffay,0,0,0,0,1,2,s10_e09_c05_u001,s10_e09_c05_u006,"[s10_e09_c05_u001] Phoebe Buffay: This place is awesome!
+[s10_e09_c05_u002] Ross Geller: You know, we should just go, I'm not gonna find anything here! This stuff is ridiculous!
+[s10_e09_c05_u003] Rachel Green: Ah, this place is great!
+[s10_e09_c05_u004] Phoebe Buffay: Wow!
+[s10_e09_c05_u005] Ross Geller: Rach, come on, I'm not gonna wear any of this! Nothing silver. . Ok? Nothing with hair! And nothing with padlocks on it! .
+[s10_e09_c05_u006] Rachel Green: Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! . I mean, this is just beautiful!"
+s10_e09,s10_e09_c05,Phoebe Buffay,1,8,10,7,11,2,s10_e09_c05_u008,s10_e09_c05_u016,"[s10_e09_c05_u008] Rachel Green: Yeah, down from seven hundred, you are saving like two hundred bucks!
+[s10_e09_c05_u009] Ross Geller: Both logic and math are taking a serious hit today. Phoebe : Hey, check this out! It's totally you!
+[s10_e09_c05_u010] Ross Geller: Wow!
+[s10_e09_c05_u011] Phoebe Buffay: Yeah!
+[s10_e09_c05_u012] Ross Geller: Actually this looks like pretty good! Yeah! Boys will be boys?
+[s10_e09_c05_u013] Phoebe Buffay: What? They will be!
+[s10_e09_c05_u014] Ross Geller: All right, that's it, I'm getting out of here.
+[s10_e09_c05_u015] Rachel Green: No, no, no, no! Ross, wait! Come on! You know, there's other stuff. Here's a nice shirt, look at these nice pants...
+[s10_e09_c05_u016] Ross Geller: Uh, actually these might look pretty good on me."
+s10_e09,s10_e09_c05,Rachel Green,0,1,5,0,6,2,s10_e09_c05_u001,s10_e09_c05_u011,"[s10_e09_c05_u001] Phoebe Buffay: This place is awesome!
+[s10_e09_c05_u002] Ross Geller: You know, we should just go, I'm not gonna find anything here! This stuff is ridiculous!
+[s10_e09_c05_u003] Rachel Green: Ah, this place is great!
+[s10_e09_c05_u004] Phoebe Buffay: Wow!
+[s10_e09_c05_u005] Ross Geller: Rach, come on, I'm not gonna wear any of this! Nothing silver. . Ok? Nothing with hair! And nothing with padlocks on it! .
+[s10_e09_c05_u006] Rachel Green: Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! . I mean, this is just beautiful!
+[s10_e09_c05_u007] Ross Geller: Wow, this is really soft . Three hundred and fifty dollars?
+[s10_e09_c05_u008] Rachel Green: Yeah, down from seven hundred, you are saving like two hundred bucks!
+[s10_e09_c05_u009] Ross Geller: Both logic and math are taking a serious hit today. Phoebe : Hey, check this out! It's totally you!
+[s10_e09_c05_u010] Ross Geller: Wow!
+[s10_e09_c05_u011] Phoebe Buffay: Yeah!"
+s10_e09,s10_e09_c05,Rachel Green,1,12,16,11,16,3,s10_e09_c05_u012,s10_e09_c05_u021,"[s10_e09_c05_u012] Ross Geller: Actually this looks like pretty good! Yeah! Boys will be boys?
+[s10_e09_c05_u013] Phoebe Buffay: What? They will be!
+[s10_e09_c05_u014] Ross Geller: All right, that's it, I'm getting out of here.
+[s10_e09_c05_u015] Rachel Green: No, no, no, no! Ross, wait! Come on! You know, there's other stuff. Here's a nice shirt, look at these nice pants...
+[s10_e09_c05_u016] Ross Geller: Uh, actually these might look pretty good on me.
+[s10_e09_c05_u017] Rachel Green: Yes, they will! You know what you should do? Just go take a walk, all right? I know your size and I'm... I'm gonna pick up some really good stuff for you.
+[s10_e09_c05_u018] Ross Geller: Really?
+[s10_e09_c05_u019] Rachel Green: Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she's gonna go nuts for you.
+[s10_e09_c05_u020] Ross Geller: So, you're saying, uh, if I wear these pants I might be getting into hers?
+[s10_e09_c05_u021] Rachel Green: Why do men keep talking to me like this?"
+s10_e09,s10_e09_c05,Ross Geller,0,0,16,0,16,3,s10_e09_c05_u001,s10_e09_c05_u021,"[s10_e09_c05_u001] Phoebe Buffay: This place is awesome!
+[s10_e09_c05_u002] Ross Geller: You know, we should just go, I'm not gonna find anything here! This stuff is ridiculous!
+[s10_e09_c05_u003] Rachel Green: Ah, this place is great!
+[s10_e09_c05_u004] Phoebe Buffay: Wow!
+[s10_e09_c05_u005] Ross Geller: Rach, come on, I'm not gonna wear any of this! Nothing silver. . Ok? Nothing with hair! And nothing with padlocks on it! .
+[s10_e09_c05_u006] Rachel Green: Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! . I mean, this is just beautiful!
+[s10_e09_c05_u007] Ross Geller: Wow, this is really soft . Three hundred and fifty dollars?
+[s10_e09_c05_u008] Rachel Green: Yeah, down from seven hundred, you are saving like two hundred bucks!
+[s10_e09_c05_u009] Ross Geller: Both logic and math are taking a serious hit today. Phoebe : Hey, check this out! It's totally you!
+[s10_e09_c05_u010] Ross Geller: Wow!
+[s10_e09_c05_u011] Phoebe Buffay: Yeah!
+[s10_e09_c05_u012] Ross Geller: Actually this looks like pretty good! Yeah! Boys will be boys?
+[s10_e09_c05_u013] Phoebe Buffay: What? They will be!
+[s10_e09_c05_u014] Ross Geller: All right, that's it, I'm getting out of here.
+[s10_e09_c05_u015] Rachel Green: No, no, no, no! Ross, wait! Come on! You know, there's other stuff. Here's a nice shirt, look at these nice pants...
+[s10_e09_c05_u016] Ross Geller: Uh, actually these might look pretty good on me.
+[s10_e09_c05_u017] Rachel Green: Yes, they will! You know what you should do? Just go take a walk, all right? I know your size and I'm... I'm gonna pick up some really good stuff for you.
+[s10_e09_c05_u018] Ross Geller: Really?
+[s10_e09_c05_u019] Rachel Green: Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she's gonna go nuts for you.
+[s10_e09_c05_u020] Ross Geller: So, you're saying, uh, if I wear these pants I might be getting into hers?
+[s10_e09_c05_u021] Rachel Green: Why do men keep talking to me like this?"
+s10_e09,s10_e09_c06,Agency Guy,0,11,17,10,18,3,s10_e09_c06_u011,s10_e09_c06_u023,"[s10_e09_c06_u011] Monica Geller: Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock.
+[s10_e09_c06_u012] Erica: Being a doctor must take up a lot of time.
+[s10_e09_c06_u013] Chandler Bing: No-ot for me it doesn't.
+[s10_e09_c06_u014] Agency Guy: So, how's everything going in here?
+[s10_e09_c06_u015] Erica: We're great, I think I may have asked all my questions.
+[s10_e09_c06_u016] Agency Guy: Do you have any question for Erica?
+[s10_e09_c06_u017] Chandler Bing: Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?
+[s10_e09_c06_u018] Agency Guy: Yes, our system assures total anonimity. We're very proud of it.
+[s10_e09_c06_u019] Chandler Bing: You should be. You're really on top of stuff..
+[s10_e09_c06_u020] Agency Guy: Well, then if there's nothing else, then the two of us should talk.
+[s10_e09_c06_u021] Erica: Actually, I don't think we have to.
+[s10_e09_c06_u022] Monica Geller: We don't?
+[s10_e09_c06_u023] Erica: Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. . I've made my decision. I choose them."
+s10_e09,s10_e09_c06,Chandler Bing,0,0,0,0,1,2,s10_e09_c06_u001,s10_e09_c06_u006,"[s10_e09_c06_u001] Chandler Bing: So, the fact that I am a doctor, and my wife's a reverend, that's important to you?
+[s10_e09_c06_u002] Erica: Yeah, I read some great applications, but then I thought ""who better then a minister to raise a child!""
+[s10_e09_c06_u003] Monica Geller: Amen.
+[s10_e09_c06_u004] Chandler Bing: Plus I thought the baby would be in good hands with a doctor!
+[s10_e09_c06_u005] Monica Geller: Uh, good hands. Healing hands.
+[s10_e09_c06_u006] Erica: Reverend, can I ask? Does the bible say anything about adoption?"
+s10_e09,s10_e09_c06,Chandler Bing,1,8,8,7,9,2,s10_e09_c06_u008,s10_e09_c06_u014,"[s10_e09_c06_u008] Erica: Wow.
+[s10_e09_c06_u009] Chandler Bing: Yeah, wow.
+[s10_e09_c06_u010] Erica: I was wondering you both have such serious jobs. Would you have time to take care of a baby and your flock?
+[s10_e09_c06_u011] Monica Geller: Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock.
+[s10_e09_c06_u012] Erica: Being a doctor must take up a lot of time.
+[s10_e09_c06_u013] Chandler Bing: No-ot for me it doesn't.
+[s10_e09_c06_u014] Agency Guy: So, how's everything going in here?"
+s10_e09,s10_e09_c06,Chandler Bing,2,12,12,11,13,2,s10_e09_c06_u012,s10_e09_c06_u018,"[s10_e09_c06_u012] Erica: Being a doctor must take up a lot of time.
+[s10_e09_c06_u013] Chandler Bing: No-ot for me it doesn't.
+[s10_e09_c06_u014] Agency Guy: So, how's everything going in here?
+[s10_e09_c06_u015] Erica: We're great, I think I may have asked all my questions.
+[s10_e09_c06_u016] Agency Guy: Do you have any question for Erica?
+[s10_e09_c06_u017] Chandler Bing: Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?
+[s10_e09_c06_u018] Agency Guy: Yes, our system assures total anonimity. We're very proud of it."
+s10_e09,s10_e09_c06,Chandler Bing,3,14,16,13,17,2,s10_e09_c06_u014,s10_e09_c06_u022,"[s10_e09_c06_u014] Agency Guy: So, how's everything going in here?
+[s10_e09_c06_u015] Erica: We're great, I think I may have asked all my questions.
+[s10_e09_c06_u016] Agency Guy: Do you have any question for Erica?
+[s10_e09_c06_u017] Chandler Bing: Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?
+[s10_e09_c06_u018] Agency Guy: Yes, our system assures total anonimity. We're very proud of it.
+[s10_e09_c06_u019] Chandler Bing: You should be. You're really on top of stuff..
+[s10_e09_c06_u020] Agency Guy: Well, then if there's nothing else, then the two of us should talk.
+[s10_e09_c06_u021] Erica: Actually, I don't think we have to.
+[s10_e09_c06_u022] Monica Geller: We don't?"
+s10_e09,s10_e09_c06,Erica,0,1,1,0,2,2,s10_e09_c06_u001,s10_e09_c06_u007,"[s10_e09_c06_u001] Chandler Bing: So, the fact that I am a doctor, and my wife's a reverend, that's important to you?
+[s10_e09_c06_u002] Erica: Yeah, I read some great applications, but then I thought ""who better then a minister to raise a child!""
+[s10_e09_c06_u003] Monica Geller: Amen.
+[s10_e09_c06_u004] Chandler Bing: Plus I thought the baby would be in good hands with a doctor!
+[s10_e09_c06_u005] Monica Geller: Uh, good hands. Healing hands.
+[s10_e09_c06_u006] Erica: Reverend, can I ask? Does the bible say anything about adoption?
+[s10_e09_c06_u007] Monica Geller: It says ""Do it!"". And behold she did adopt onto them a baby. And it was good."
+s10_e09,s10_e09_c06,Erica,1,3,11,2,12,3,s10_e09_c06_u003,s10_e09_c06_u017,"[s10_e09_c06_u003] Monica Geller: Amen.
+[s10_e09_c06_u004] Chandler Bing: Plus I thought the baby would be in good hands with a doctor!
+[s10_e09_c06_u005] Monica Geller: Uh, good hands. Healing hands.
+[s10_e09_c06_u006] Erica: Reverend, can I ask? Does the bible say anything about adoption?
+[s10_e09_c06_u007] Monica Geller: It says ""Do it!"". And behold she did adopt onto them a baby. And it was good.
+[s10_e09_c06_u008] Erica: Wow.
+[s10_e09_c06_u009] Chandler Bing: Yeah, wow.
+[s10_e09_c06_u010] Erica: I was wondering you both have such serious jobs. Would you have time to take care of a baby and your flock?
+[s10_e09_c06_u011] Monica Geller: Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock.
+[s10_e09_c06_u012] Erica: Being a doctor must take up a lot of time.
+[s10_e09_c06_u013] Chandler Bing: No-ot for me it doesn't.
+[s10_e09_c06_u014] Agency Guy: So, how's everything going in here?
+[s10_e09_c06_u015] Erica: We're great, I think I may have asked all my questions.
+[s10_e09_c06_u016] Agency Guy: Do you have any question for Erica?
+[s10_e09_c06_u017] Chandler Bing: Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?"
+s10_e09,s10_e09_c06,Erica,2,18,20,17,21,2,s10_e09_c06_u018,s10_e09_c06_u026,"[s10_e09_c06_u018] Agency Guy: Yes, our system assures total anonimity. We're very proud of it.
+[s10_e09_c06_u019] Chandler Bing: You should be. You're really on top of stuff..
+[s10_e09_c06_u020] Agency Guy: Well, then if there's nothing else, then the two of us should talk.
+[s10_e09_c06_u021] Erica: Actually, I don't think we have to.
+[s10_e09_c06_u022] Monica Geller: We don't?
+[s10_e09_c06_u023] Erica: Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. . I've made my decision. I choose them.
+[s10_e09_c06_u024] Monica Geller: Oh my God, this is great! This is so great! . Did you hear that?
+[s10_e09_c06_u025] Chandler Bing: Yeah, I did.
+[s10_e09_c06_u026] Monica Geller: Hey, thank you. Thank you so much. . You are SO going to Heaven!"
+s10_e09,s10_e09_c06,Monica Geller,0,0,4,0,5,3,s10_e09_c06_u001,s10_e09_c06_u010,"[s10_e09_c06_u001] Chandler Bing: So, the fact that I am a doctor, and my wife's a reverend, that's important to you?
+[s10_e09_c06_u002] Erica: Yeah, I read some great applications, but then I thought ""who better then a minister to raise a child!""
+[s10_e09_c06_u003] Monica Geller: Amen.
+[s10_e09_c06_u004] Chandler Bing: Plus I thought the baby would be in good hands with a doctor!
+[s10_e09_c06_u005] Monica Geller: Uh, good hands. Healing hands.
+[s10_e09_c06_u006] Erica: Reverend, can I ask? Does the bible say anything about adoption?
+[s10_e09_c06_u007] Monica Geller: It says ""Do it!"". And behold she did adopt onto them a baby. And it was good.
+[s10_e09_c06_u008] Erica: Wow.
+[s10_e09_c06_u009] Chandler Bing: Yeah, wow.
+[s10_e09_c06_u010] Erica: I was wondering you both have such serious jobs. Would you have time to take care of a baby and your flock?"
+s10_e09,s10_e09_c06,Monica Geller,1,6,6,5,7,2,s10_e09_c06_u006,s10_e09_c06_u012,"[s10_e09_c06_u006] Erica: Reverend, can I ask? Does the bible say anything about adoption?
+[s10_e09_c06_u007] Monica Geller: It says ""Do it!"". And behold she did adopt onto them a baby. And it was good.
+[s10_e09_c06_u008] Erica: Wow.
+[s10_e09_c06_u009] Chandler Bing: Yeah, wow.
+[s10_e09_c06_u010] Erica: I was wondering you both have such serious jobs. Would you have time to take care of a baby and your flock?
+[s10_e09_c06_u011] Monica Geller: Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock.
+[s10_e09_c06_u012] Erica: Being a doctor must take up a lot of time."
+s10_e09,s10_e09_c06,Monica Geller,2,19,21,18,21,3,s10_e09_c06_u019,s10_e09_c06_u026,"[s10_e09_c06_u019] Chandler Bing: You should be. You're really on top of stuff..
+[s10_e09_c06_u020] Agency Guy: Well, then if there's nothing else, then the two of us should talk.
+[s10_e09_c06_u021] Erica: Actually, I don't think we have to.
+[s10_e09_c06_u022] Monica Geller: We don't?
+[s10_e09_c06_u023] Erica: Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. . I've made my decision. I choose them.
+[s10_e09_c06_u024] Monica Geller: Oh my God, this is great! This is so great! . Did you hear that?
+[s10_e09_c06_u025] Chandler Bing: Yeah, I did.
+[s10_e09_c06_u026] Monica Geller: Hey, thank you. Thank you so much. . You are SO going to Heaven!"
+s10_e09,s10_e09_c07,Phoebe Buffay,0,0,1,0,1,3,s10_e09_c07_u001,s10_e09_c07_u006,"[s10_e09_c07_u001] Rachel Green: We got some really great stuff!
+[s10_e09_c07_u002] Phoebe Buffay: Yeah, yeah but I am not sure about some of the bra's I got.
+[s10_e09_c07_u003] Rachel Green: Oh! Really? Do you wanna try some of them on for me?
+[s10_e09_c07_u004] Phoebe Buffay: Oh! okay. Wait, are we in Joey's imagination?
+[s10_e09_c07_u005] Rachel Green: Oh no! I took one of Ross' bags by mistake, and one of mine is missing.
+[s10_e09_c07_u006] Phoebe Buffay: oh, well, Ross probably has it, you can get it from him later."
+s10_e09,s10_e09_c07,Rachel Green,0,0,1,0,1,3,s10_e09_c07_u001,s10_e09_c07_u006,"[s10_e09_c07_u001] Rachel Green: We got some really great stuff!
+[s10_e09_c07_u002] Phoebe Buffay: Yeah, yeah but I am not sure about some of the bra's I got.
+[s10_e09_c07_u003] Rachel Green: Oh! Really? Do you wanna try some of them on for me?
+[s10_e09_c07_u004] Phoebe Buffay: Oh! okay. Wait, are we in Joey's imagination?
+[s10_e09_c07_u005] Rachel Green: Oh no! I took one of Ross' bags by mistake, and one of mine is missing.
+[s10_e09_c07_u006] Phoebe Buffay: oh, well, Ross probably has it, you can get it from him later."
+s10_e09,s10_e09_c08,Joey Tribbiani,0,0,2,0,2,3,s10_e09_c08_u001,s10_e09_c08_u007,"[s10_e09_c08_u001] Ross Geller: So? What do you think?
+[s10_e09_c08_u002] Joey Tribbiani: I think were not wearing the same shirt anymore!!
+[s10_e09_c08_u003] Ross Geller: Yeah! Yeah! Rachel picked it out for me. She told me to trust her and you know what? I'm glad I did! I turned quite a few heads on my way over here.
+[s10_e09_c08_u004] Joey Tribbiani: Dude, I really don't think you should be wearing that.
+[s10_e09_c08_u005] Ross Geller: Oh, I see, somebody is afraid of a little competition with the ladies?
+[s10_e09_c08_u006] Joey Tribbiani: Looks like someone IS the ladies!!
+[s10_e09_c08_u007] Ross Geller: You're just jealous because you couldn't pull this off. Yeah, now if you'll excuse me I have a date. See? ALL eyes on ME!"
+s10_e09,s10_e09_c08,Ross Geller,0,0,2,0,2,3,s10_e09_c08_u001,s10_e09_c08_u007,"[s10_e09_c08_u001] Ross Geller: So? What do you think?
+[s10_e09_c08_u002] Joey Tribbiani: I think were not wearing the same shirt anymore!!
+[s10_e09_c08_u003] Ross Geller: Yeah! Yeah! Rachel picked it out for me. She told me to trust her and you know what? I'm glad I did! I turned quite a few heads on my way over here.
+[s10_e09_c08_u004] Joey Tribbiani: Dude, I really don't think you should be wearing that.
+[s10_e09_c08_u005] Ross Geller: Oh, I see, somebody is afraid of a little competition with the ladies?
+[s10_e09_c08_u006] Joey Tribbiani: Looks like someone IS the ladies!!
+[s10_e09_c08_u007] Ross Geller: You're just jealous because you couldn't pull this off. Yeah, now if you'll excuse me I have a date. See? ALL eyes on ME!"
+s10_e09,s10_e09_c09,Chandler Bing,0,0,17,0,17,3,s10_e09_c09_u001,s10_e09_c09_u022,"[s10_e09_c09_u001] Chandler Bing: We are NOT signing those papers.
+[s10_e09_c09_u002] Monica Geller: Why not?
+[s10_e09_c09_u003] Chandler Bing: It's wrong. They made a mistake. They think we're somebody else.
+[s10_e09_c09_u004] Monica Geller: God works in mysterious ways.
+[s10_e09_c09_u005] Chandler Bing: You have gotta stop!
+[s10_e09_c09_u006] Monica Geller: But she liked us.
+[s10_e09_c09_u007] Chandler Bing: She likes Doctor Chandler and Reverend Monica.
+[s10_e09_c09_u008] Monica Geller: Well, if you think about it, I am kind of like a Reverend. I mean, as a chef, I serve God, by feeing the hungry and poor.
+[s10_e09_c09_u009] Chandler Bing: Your Veal Chop is $34,95!
+[s10_e09_c09_u010] Monica Geller: C'mon Chandler, I think we have been given an opportunity. I mean, the mistake has already been made. They are writing up the paper right now.
+[s10_e09_c09_u011] Chandler Bing: But we are not the one she chose! How can you feel okay about this?
+[s10_e09_c09_u012] Monica Geller: Because... We may not be who she thinks we are but no-one will ever love that baby more than us.
+[s10_e09_c09_u013] Chandler Bing: I know..
+[s10_e09_c09_u014] Monica Geller: I mean, who knows how long it's gonna take for someone else to give us a baby? What if, what if no one ever picks us?
+[s10_e09_c09_u015] Chandler Bing: oh, honey..
+[s10_e09_c09_u016] Monica Geller: Please.. please, we are so close.
+[s10_e09_c09_u017] Chandler Bing: Monica, I want a baby too, but this woman is giving away her child. She deserves to know who it's going to.
+[s10_e09_c09_u018] Monica Geller: okay, right.
+[s10_e09_c09_u019] Chandler Bing: So, we'll tell the truth and who knows, maybe she'll like us for us.
+[s10_e09_c09_u020] Monica Geller: Maybe she will. Uh! Why couldn't I have been a Reverend?
+[s10_e09_c09_u021] Chandler Bing: You're Jewish.
+[s10_e09_c09_u022] Monica Geller: Technicality!"
+s10_e09,s10_e09_c09,Monica Geller,0,0,17,0,17,3,s10_e09_c09_u001,s10_e09_c09_u022,"[s10_e09_c09_u001] Chandler Bing: We are NOT signing those papers.
+[s10_e09_c09_u002] Monica Geller: Why not?
+[s10_e09_c09_u003] Chandler Bing: It's wrong. They made a mistake. They think we're somebody else.
+[s10_e09_c09_u004] Monica Geller: God works in mysterious ways.
+[s10_e09_c09_u005] Chandler Bing: You have gotta stop!
+[s10_e09_c09_u006] Monica Geller: But she liked us.
+[s10_e09_c09_u007] Chandler Bing: She likes Doctor Chandler and Reverend Monica.
+[s10_e09_c09_u008] Monica Geller: Well, if you think about it, I am kind of like a Reverend. I mean, as a chef, I serve God, by feeing the hungry and poor.
+[s10_e09_c09_u009] Chandler Bing: Your Veal Chop is $34,95!
+[s10_e09_c09_u010] Monica Geller: C'mon Chandler, I think we have been given an opportunity. I mean, the mistake has already been made. They are writing up the paper right now.
+[s10_e09_c09_u011] Chandler Bing: But we are not the one she chose! How can you feel okay about this?
+[s10_e09_c09_u012] Monica Geller: Because... We may not be who she thinks we are but no-one will ever love that baby more than us.
+[s10_e09_c09_u013] Chandler Bing: I know..
+[s10_e09_c09_u014] Monica Geller: I mean, who knows how long it's gonna take for someone else to give us a baby? What if, what if no one ever picks us?
+[s10_e09_c09_u015] Chandler Bing: oh, honey..
+[s10_e09_c09_u016] Monica Geller: Please.. please, we are so close.
+[s10_e09_c09_u017] Chandler Bing: Monica, I want a baby too, but this woman is giving away her child. She deserves to know who it's going to.
+[s10_e09_c09_u018] Monica Geller: okay, right.
+[s10_e09_c09_u019] Chandler Bing: So, we'll tell the truth and who knows, maybe she'll like us for us.
+[s10_e09_c09_u020] Monica Geller: Maybe she will. Uh! Why couldn't I have been a Reverend?
+[s10_e09_c09_u021] Chandler Bing: You're Jewish.
+[s10_e09_c09_u022] Monica Geller: Technicality!"
+s10_e09,s10_e09_c10,Joey Tribbiani,0,0,14,0,14,3,s10_e09_c10_u001,s10_e09_c10_u019,"[s10_e09_c10_u001] Waiter: A garden salad for the lady.
+[s10_e09_c10_u002] Joey Tribbiani: Oh, that looks great! Good ordering!
+[s10_e09_c10_u003] Waiter: Seafood platter for the gentleman and extra fries. Enjoy!
+[s10_e09_c10_u004] Sarah: Mmmh, those fries look delicious.
+[s10_e09_c10_u005] Joey Tribbiani: oh, I didn't know you liked French fries. Help yourself! What's mine is yours.
+[s10_e09_c10_u006] Sarah: Oh wow, are those stuffed clams?
+[s10_e09_c10_u007] Joey Tribbiani: Uuuh.. yes, they are my stuffed clams.
+[s10_e09_c10_u008] Joey Tribbiani: How about those fries though, huh?
+[s10_e09_c10_u009] Sarah: They are delicious.
+[s10_e09_c10_u010] Joey Tribbiani: You are beautiful, you know that?
+[s10_e09_c10_u011] Sarah: Oh, that is so sweet..
+[s10_e09_c10_u012] Joey Tribbiani: Oh okay..
+[s10_e09_c10_u013] Joey Tribbiani: NOW look what you did!!
+[s10_e09_c10_u014] Sarah: What? what is the matter with you?
+[s10_e09_c10_u015] Joey Tribbiani: I don't like it when people take food off of my plate, okay?
+[s10_e09_c10_u016] Sarah: But you just said ""What's mine is yours""?
+[s10_e09_c10_u017] Joey Tribbiani: WELL, I DIDN'T MEAN IT!
+[s10_e09_c10_u018] Sarah: Fine, I'm sorry, I didn't think it was that big a deal.
+[s10_e09_c10_u019] Joey Tribbiani: I'm sorry, I'm overreacting. Okay, It's just when it comes to food, I have certain rules, okay, I mean There are things you do..and you now, things.. that you don't do ."
+s10_e09,s10_e09_c10,Sarah,0,1,14,0,14,3,s10_e09_c10_u001,s10_e09_c10_u019,"[s10_e09_c10_u001] Waiter: A garden salad for the lady.
+[s10_e09_c10_u002] Joey Tribbiani: Oh, that looks great! Good ordering!
+[s10_e09_c10_u003] Waiter: Seafood platter for the gentleman and extra fries. Enjoy!
+[s10_e09_c10_u004] Sarah: Mmmh, those fries look delicious.
+[s10_e09_c10_u005] Joey Tribbiani: oh, I didn't know you liked French fries. Help yourself! What's mine is yours.
+[s10_e09_c10_u006] Sarah: Oh wow, are those stuffed clams?
+[s10_e09_c10_u007] Joey Tribbiani: Uuuh.. yes, they are my stuffed clams.
+[s10_e09_c10_u008] Joey Tribbiani: How about those fries though, huh?
+[s10_e09_c10_u009] Sarah: They are delicious.
+[s10_e09_c10_u010] Joey Tribbiani: You are beautiful, you know that?
+[s10_e09_c10_u011] Sarah: Oh, that is so sweet..
+[s10_e09_c10_u012] Joey Tribbiani: Oh okay..
+[s10_e09_c10_u013] Joey Tribbiani: NOW look what you did!!
+[s10_e09_c10_u014] Sarah: What? what is the matter with you?
+[s10_e09_c10_u015] Joey Tribbiani: I don't like it when people take food off of my plate, okay?
+[s10_e09_c10_u016] Sarah: But you just said ""What's mine is yours""?
+[s10_e09_c10_u017] Joey Tribbiani: WELL, I DIDN'T MEAN IT!
+[s10_e09_c10_u018] Sarah: Fine, I'm sorry, I didn't think it was that big a deal.
+[s10_e09_c10_u019] Joey Tribbiani: I'm sorry, I'm overreacting. Okay, It's just when it comes to food, I have certain rules, okay, I mean There are things you do..and you now, things.. that you don't do ."
+s10_e09,s10_e09_c10,Waiter,0,0,0,0,1,2,s10_e09_c10_u001,s10_e09_c10_u006,"[s10_e09_c10_u001] Waiter: A garden salad for the lady.
+[s10_e09_c10_u002] Joey Tribbiani: Oh, that looks great! Good ordering!
+[s10_e09_c10_u003] Waiter: Seafood platter for the gentleman and extra fries. Enjoy!
+[s10_e09_c10_u004] Sarah: Mmmh, those fries look delicious.
+[s10_e09_c10_u005] Joey Tribbiani: oh, I didn't know you liked French fries. Help yourself! What's mine is yours.
+[s10_e09_c10_u006] Sarah: Oh wow, are those stuffed clams?"
+s10_e09,s10_e09_c12,Joey Tribbiani,0,0,6,0,7,3,s10_e09_c12_u001,s10_e09_c12_u012,"[s10_e09_c12_u001] Joey Tribbiani: I really am sorry about, you know..before. I just want to make sure you know that I really do like you.
+[s10_e09_c12_u002] Sarah: Sure Just not as much as clams.
+[s10_e09_c12_u003] Joey Tribbiani: Well, stuffed clams.
+[s10_e09_c12_u004] Waiter: Chocolate Torte for the lady, cheesecake for the gentleman.
+[s10_e09_c12_u005] Joey Tribbiani: Uh, excuse me sir, there seems to be some sort of red crap on my cheesecake.
+[s10_e09_c12_u006] Waiter: Yes, that's Raspberry coule.
+[s10_e09_c12_u007] Joey Tribbiani: So stupid, ordering cheesecake, trying to be healthy.
+[s10_e09_c12_u008] Sarah: Oh my God!
+[s10_e09_c12_u009] Joey Tribbiani: Oh, all right, I'll just have what she's having instead.
+[s10_e09_c12_u010] Waiter: Oh, I'm sorry sir, that was our last piece.
+[s10_e09_c12_u011] Sarah: Mmmm! Mmm!
+[s10_e09_c12_u012] Sarah: Oh, no! This is work. I should call in. Can you excuse me?"
+s10_e09,s10_e09_c12,Joey Tribbiani,1,8,8,7,9,2,s10_e09_c12_u008,s10_e09_c12_u014,"[s10_e09_c12_u008] Sarah: Oh my God!
+[s10_e09_c12_u009] Joey Tribbiani: Oh, all right, I'll just have what she's having instead.
+[s10_e09_c12_u010] Waiter: Oh, I'm sorry sir, that was our last piece.
+[s10_e09_c12_u011] Sarah: Mmmm! Mmm!
+[s10_e09_c12_u012] Sarah: Oh, no! This is work. I should call in. Can you excuse me?
+[s10_e09_c12_u013] Joey Tribbiani: Oh yeah, sure. No problem.
+[s10_e09_c12_u014] Sarah: What are you doing? I thought you don't share food."
+s10_e09,s10_e09_c12,Joey Tribbiani,2,10,18,9,18,5,s10_e09_c12_u010,s10_e09_c12_u023,"[s10_e09_c12_u010] Waiter: Oh, I'm sorry sir, that was our last piece.
+[s10_e09_c12_u011] Sarah: Mmmm! Mmm!
+[s10_e09_c12_u012] Sarah: Oh, no! This is work. I should call in. Can you excuse me?
+[s10_e09_c12_u013] Joey Tribbiani: Oh yeah, sure. No problem.
+[s10_e09_c12_u014] Sarah: What are you doing? I thought you don't share food.
+[s10_e09_c12_u015] Joey Tribbiani: Sure I do. Coule?
+[s10_e09_c12_u016] Sarah: No. If I can't have your clams, you can't have my dessert. This is a two way street.
+[s10_e09_c12_u017] Joey Tribbiani: Really?
+[s10_e09_c12_u018] Sarah: Really! Now this all better be here when I come back.
+[s10_e09_c12_u019] Joey Tribbiani: Yeah, of course. I can control myself.
+[s10_e09_c12_u020] Joey Tribbiani: Stop staring at me!
+[s10_e09_c12_u021] Joey Tribbiani: Why, just a tiny little...
+[s10_e09_c12_u022] Joey Tribbiani: Oh-oh! TIME LAPSE.
+[s10_e09_c12_u023] Joey Tribbiani: I'm not even sorry."
+s10_e09,s10_e09_c12,Sarah,0,6,15,5,16,3,s10_e09_c12_u006,s10_e09_c12_u021,"[s10_e09_c12_u006] Waiter: Yes, that's Raspberry coule.
+[s10_e09_c12_u007] Joey Tribbiani: So stupid, ordering cheesecake, trying to be healthy.
+[s10_e09_c12_u008] Sarah: Oh my God!
+[s10_e09_c12_u009] Joey Tribbiani: Oh, all right, I'll just have what she's having instead.
+[s10_e09_c12_u010] Waiter: Oh, I'm sorry sir, that was our last piece.
+[s10_e09_c12_u011] Sarah: Mmmm! Mmm!
+[s10_e09_c12_u012] Sarah: Oh, no! This is work. I should call in. Can you excuse me?
+[s10_e09_c12_u013] Joey Tribbiani: Oh yeah, sure. No problem.
+[s10_e09_c12_u014] Sarah: What are you doing? I thought you don't share food.
+[s10_e09_c12_u015] Joey Tribbiani: Sure I do. Coule?
+[s10_e09_c12_u016] Sarah: No. If I can't have your clams, you can't have my dessert. This is a two way street.
+[s10_e09_c12_u017] Joey Tribbiani: Really?
+[s10_e09_c12_u018] Sarah: Really! Now this all better be here when I come back.
+[s10_e09_c12_u019] Joey Tribbiani: Yeah, of course. I can control myself.
+[s10_e09_c12_u020] Joey Tribbiani: Stop staring at me!
+[s10_e09_c12_u021] Joey Tribbiani: Why, just a tiny little..."
+s10_e09,s10_e09_c12,Waiter,0,1,3,0,4,2,s10_e09_c12_u001,s10_e09_c12_u009,"[s10_e09_c12_u001] Joey Tribbiani: I really am sorry about, you know..before. I just want to make sure you know that I really do like you.
+[s10_e09_c12_u002] Sarah: Sure Just not as much as clams.
+[s10_e09_c12_u003] Joey Tribbiani: Well, stuffed clams.
+[s10_e09_c12_u004] Waiter: Chocolate Torte for the lady, cheesecake for the gentleman.
+[s10_e09_c12_u005] Joey Tribbiani: Uh, excuse me sir, there seems to be some sort of red crap on my cheesecake.
+[s10_e09_c12_u006] Waiter: Yes, that's Raspberry coule.
+[s10_e09_c12_u007] Joey Tribbiani: So stupid, ordering cheesecake, trying to be healthy.
+[s10_e09_c12_u008] Sarah: Oh my God!
+[s10_e09_c12_u009] Joey Tribbiani: Oh, all right, I'll just have what she's having instead."
+s10_e09,s10_e09_c12,Waiter,1,5,5,4,6,2,s10_e09_c12_u005,s10_e09_c12_u011,"[s10_e09_c12_u005] Joey Tribbiani: Uh, excuse me sir, there seems to be some sort of red crap on my cheesecake.
+[s10_e09_c12_u006] Waiter: Yes, that's Raspberry coule.
+[s10_e09_c12_u007] Joey Tribbiani: So stupid, ordering cheesecake, trying to be healthy.
+[s10_e09_c12_u008] Sarah: Oh my God!
+[s10_e09_c12_u009] Joey Tribbiani: Oh, all right, I'll just have what she's having instead.
+[s10_e09_c12_u010] Waiter: Oh, I'm sorry sir, that was our last piece.
+[s10_e09_c12_u011] Sarah: Mmmm! Mmm!"
+s10_e09,s10_e09_c13,Agency Guy,0,3,3,2,4,2,s10_e09_c13_u003,s10_e09_c13_u009,"[s10_e09_c13_u003] Chandler Bing: Hey.
+[s10_e09_c13_u004] Agency Guy: So, these are the preliminary forms for an open adoption. There's a lot to go over, but I'll explain everything as we go through it.
+[s10_e09_c13_u005] Monica Geller: I-Is... Is that a picture?
+[s10_e09_c13_u006] Erica: Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it.
+[s10_e09_c13_u007] Monica Geller: Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.
+[s10_e09_c13_u008] Agency Guy: I don't understand.
+[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor."
+s10_e09,s10_e09_c13,Agency Guy,1,6,10,5,11,2,s10_e09_c13_u006,s10_e09_c13_u016,"[s10_e09_c13_u006] Erica: Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it.
+[s10_e09_c13_u007] Monica Geller: Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.
+[s10_e09_c13_u008] Agency Guy: I don't understand.
+[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+[s10_e09_c13_u010] Erica: What?
+[s10_e09_c13_u011] Agency Guy: That's impossible.
+[s10_e09_c13_u012] Chandler Bing: I could perform an operation on you and prove it if you'd like.
+[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?
+[s10_e09_c13_u015] Chandler Bing: Well, our names really are Monica and Chandler. We're from New York.
+[s10_e09_c13_u016] Monica Geller: Yeah, but the important thing to know about us, is how much we would care for this little baby."
+s10_e09,s10_e09_c13,Chandler Bing,0,7,8,6,9,2,s10_e09_c13_u007,s10_e09_c13_u014,"[s10_e09_c13_u007] Monica Geller: Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.
+[s10_e09_c13_u008] Agency Guy: I don't understand.
+[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+[s10_e09_c13_u010] Erica: What?
+[s10_e09_c13_u011] Agency Guy: That's impossible.
+[s10_e09_c13_u012] Chandler Bing: I could perform an operation on you and prove it if you'd like.
+[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?"
+s10_e09,s10_e09_c13,Chandler Bing,1,10,11,9,12,2,s10_e09_c13_u010,s10_e09_c13_u017,"[s10_e09_c13_u010] Erica: What?
+[s10_e09_c13_u011] Agency Guy: That's impossible.
+[s10_e09_c13_u012] Chandler Bing: I could perform an operation on you and prove it if you'd like.
+[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?
+[s10_e09_c13_u015] Chandler Bing: Well, our names really are Monica and Chandler. We're from New York.
+[s10_e09_c13_u016] Monica Geller: Yeah, but the important thing to know about us, is how much we would care for this little baby.
+[s10_e09_c13_u017] Erica: So you lied to me before?"
+s10_e09,s10_e09_c13,Chandler Bing,2,21,27,20,27,3,s10_e09_c13_u021,s10_e09_c13_u032,"[s10_e09_c13_u021] Erica: Giving you my baby? You think I'd give you my child after this?
+[s10_e09_c13_u022] Monica Geller: Well, you don't have to decide right now, but if you could just look at our file...
+[s10_e09_c13_u023] Erica: I don't want to look at your file! This is over.
+[s10_e09_c13_u024] Chandler Bing: Erica wait!
+[s10_e09_c13_u025] Erica: I've nothing to say to you.
+[s10_e09_c13_u026] Chandler Bing: You have every reason to be upset. We did lie. But only because we've been waiting and trying to have a baby for so long. Now we don't know how long it's gonna be before we can get another chance again.
+[s10_e09_c13_u027] Erica: Why don't you ask the reverend to pray on it?
+[s10_e09_c13_u028] Chandler Bing: Erica, please. Just consider us. Ask them to see our file. Our last name's Bing. My wife's a chef and I'm in advertising.
+[s10_e09_c13_u029] Erica: Oh yeah. I actually liked you guys. But it doesn't matter, because what you did was wrong.
+[s10_e09_c13_u030] Chandler Bing: But you did like us. And you should. My wife's an incredible woman. She's loving and devoted and caring. And don't tell her I said this but the woman's always right... I love my wife more than anything in this world. And I... It kills me that I can't give her a baby... I really want a kid. And when that day finally comes, I'll learn how to be a good dad. But my wife... she's already there. She's a mother... without a baby... Please?
+[s10_e09_c13_u031] Chandler Bing: You still want that baby?
+[s10_e09_c13_u032] Monica Geller: God bless you Chandler Bing!"
+s10_e09,s10_e09_c13,Erica,0,5,5,4,6,2,s10_e09_c13_u005,s10_e09_c13_u011,"[s10_e09_c13_u005] Monica Geller: I-Is... Is that a picture?
+[s10_e09_c13_u006] Erica: Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it.
+[s10_e09_c13_u007] Monica Geller: Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.
+[s10_e09_c13_u008] Agency Guy: I don't understand.
+[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+[s10_e09_c13_u010] Erica: What?
+[s10_e09_c13_u011] Agency Guy: That's impossible."
+s10_e09,s10_e09_c13,Erica,1,9,9,8,10,2,s10_e09_c13_u009,s10_e09_c13_u015,"[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+[s10_e09_c13_u010] Erica: What?
+[s10_e09_c13_u011] Agency Guy: That's impossible.
+[s10_e09_c13_u012] Chandler Bing: I could perform an operation on you and prove it if you'd like.
+[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?
+[s10_e09_c13_u015] Chandler Bing: Well, our names really are Monica and Chandler. We're from New York."
+s10_e09,s10_e09_c13,Erica,2,12,26,11,27,3,s10_e09_c13_u012,s10_e09_c13_u032,"[s10_e09_c13_u012] Chandler Bing: I could perform an operation on you and prove it if you'd like.
+[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?
+[s10_e09_c13_u015] Chandler Bing: Well, our names really are Monica and Chandler. We're from New York.
+[s10_e09_c13_u016] Monica Geller: Yeah, but the important thing to know about us, is how much we would care for this little baby.
+[s10_e09_c13_u017] Erica: So you lied to me before?
+[s10_e09_c13_u018] Monica Geller: Well, we... ""bore false witness""... See I could be a reverend.
+[s10_e09_c13_u019] Erica: I can't believe this.
+[s10_e09_c13_u020] Monica Geller: But we were hoping that since we told you the truth that you still might consider...
+[s10_e09_c13_u021] Erica: Giving you my baby? You think I'd give you my child after this?
+[s10_e09_c13_u022] Monica Geller: Well, you don't have to decide right now, but if you could just look at our file...
+[s10_e09_c13_u023] Erica: I don't want to look at your file! This is over.
+[s10_e09_c13_u024] Chandler Bing: Erica wait!
+[s10_e09_c13_u025] Erica: I've nothing to say to you.
+[s10_e09_c13_u026] Chandler Bing: You have every reason to be upset. We did lie. But only because we've been waiting and trying to have a baby for so long. Now we don't know how long it's gonna be before we can get another chance again.
+[s10_e09_c13_u027] Erica: Why don't you ask the reverend to pray on it?
+[s10_e09_c13_u028] Chandler Bing: Erica, please. Just consider us. Ask them to see our file. Our last name's Bing. My wife's a chef and I'm in advertising.
+[s10_e09_c13_u029] Erica: Oh yeah. I actually liked you guys. But it doesn't matter, because what you did was wrong.
+[s10_e09_c13_u030] Chandler Bing: But you did like us. And you should. My wife's an incredible woman. She's loving and devoted and caring. And don't tell her I said this but the woman's always right... I love my wife more than anything in this world. And I... It kills me that I can't give her a baby... I really want a kid. And when that day finally comes, I'll learn how to be a good dad. But my wife... she's already there. She's a mother... without a baby... Please?
+[s10_e09_c13_u031] Chandler Bing: You still want that baby?
+[s10_e09_c13_u032] Monica Geller: God bless you Chandler Bing!"
+s10_e09,s10_e09_c13,Monica Geller,0,2,4,1,5,2,s10_e09_c13_u002,s10_e09_c13_u010,"[s10_e09_c13_u002] Adoption Agency Guy: Hey.
+[s10_e09_c13_u003] Chandler Bing: Hey.
+[s10_e09_c13_u004] Agency Guy: So, these are the preliminary forms for an open adoption. There's a lot to go over, but I'll explain everything as we go through it.
+[s10_e09_c13_u005] Monica Geller: I-Is... Is that a picture?
+[s10_e09_c13_u006] Erica: Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it.
+[s10_e09_c13_u007] Monica Geller: Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.
+[s10_e09_c13_u008] Agency Guy: I don't understand.
+[s10_e09_c13_u009] Chandler Bing: The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+[s10_e09_c13_u010] Erica: What?"
+s10_e09,s10_e09_c13,Monica Geller,1,13,19,12,20,3,s10_e09_c13_u013,s10_e09_c13_u025,"[s10_e09_c13_u013] Agency Guy: I'll go check your file. Excuse me.
+[s10_e09_c13_u014] Erica: So who are you?
+[s10_e09_c13_u015] Chandler Bing: Well, our names really are Monica and Chandler. We're from New York.
+[s10_e09_c13_u016] Monica Geller: Yeah, but the important thing to know about us, is how much we would care for this little baby.
+[s10_e09_c13_u017] Erica: So you lied to me before?
+[s10_e09_c13_u018] Monica Geller: Well, we... ""bore false witness""... See I could be a reverend.
+[s10_e09_c13_u019] Erica: I can't believe this.
+[s10_e09_c13_u020] Monica Geller: But we were hoping that since we told you the truth that you still might consider...
+[s10_e09_c13_u021] Erica: Giving you my baby? You think I'd give you my child after this?
+[s10_e09_c13_u022] Monica Geller: Well, you don't have to decide right now, but if you could just look at our file...
+[s10_e09_c13_u023] Erica: I don't want to look at your file! This is over.
+[s10_e09_c13_u024] Chandler Bing: Erica wait!
+[s10_e09_c13_u025] Erica: I've nothing to say to you."
+s10_e09,s10_e09_c14,Joey Tribbiani,0,0,2,0,2,3,s10_e09_c14_u001,s10_e09_c14_u007,"[s10_e09_c14_u001] Ross Geller: Turns out this sweater is made for a woman.
+[s10_e09_c14_u002] Joey Tribbiani: So, why are you still wearing it?
+[s10_e09_c14_u003] Ross Geller: Because it's soft... Hey, so how was your date?
+[s10_e09_c14_u004] Joey Tribbiani: Ooh... Not so good.
+[s10_e09_c14_u005] Ross Geller: Well, looks like it's just the two of us tonight, huh old buddy?
+[s10_e09_c14_u006] Joey Tribbiani: Yeah, and you know what? We could do a lot worse.
+[s10_e09_c14_u007] Joey Tribbiani: JOEY DOESN'T SHARE FOOD! end."
+s10_e09,s10_e09_c14,Ross Geller,0,0,2,0,2,3,s10_e09_c14_u001,s10_e09_c14_u007,"[s10_e09_c14_u001] Ross Geller: Turns out this sweater is made for a woman.
+[s10_e09_c14_u002] Joey Tribbiani: So, why are you still wearing it?
+[s10_e09_c14_u003] Ross Geller: Because it's soft... Hey, so how was your date?
+[s10_e09_c14_u004] Joey Tribbiani: Ooh... Not so good.
+[s10_e09_c14_u005] Ross Geller: Well, looks like it's just the two of us tonight, huh old buddy?
+[s10_e09_c14_u006] Joey Tribbiani: Yeah, and you know what? We could do a lot worse.
+[s10_e09_c14_u007] Joey Tribbiani: JOEY DOESN'T SHARE FOOD! end."

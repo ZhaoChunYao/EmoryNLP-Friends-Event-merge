@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly and enthusiastically compliments another (“think you’re great, really do”) and engages in lively recall of past social attention, showing outgoing, talkative energy."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives a warm, straightforward compliment and responds gently (“Aw...”), indicating kindness and positive regard rather than hostility or manipulation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No information about organization, reliability, or task-focused behavior in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks comfortably about others having a crush on them and shows no signs of anxiety; tone is playful and confident."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity, imagination, or unconventional thinking in the dialogue."
+  }
+}

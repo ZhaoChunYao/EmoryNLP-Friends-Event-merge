@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates energetically (“Hey, Monica!”) and openly blurts out that Speaker_01 had sex, engaging in lively, public banter."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Says “I hate you” to a friend (even if joking) and boasts “I take credit for Speaker_02,” showing boastfulness and antagonistic teasing."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks boldly about sex and teases confidently without signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity or caution/dogmatism in the dialogue."
+  }
+}

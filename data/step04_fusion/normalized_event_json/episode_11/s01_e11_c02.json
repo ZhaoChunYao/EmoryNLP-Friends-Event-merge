@@ -1,0 +1,204 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c02_u001",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u001_e1",
+          "tuples": [
+            "('woo-hoo', 'I/Monica Geller', None, 's01_e11_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u001_e2",
+          "tuples": [
+            "('mean', 'I/Monica Geller', None, 's01_e11_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u001_e3",
+          "tuples": [
+            "('hope', 'I/Monica Geller', 'what would happen', 's01_e11_c02_u001')",
+            "('happen', 'what', None, 's01_e11_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u001_e4",
+          "tuples": [
+            "('turn', 'he/unnamed man', 'round', 's01_e11_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u001_e5",
+          "tuples": [
+            "('say', 'he/unnamed man', 'I love that sound; I must have you now', 's01_e11_c02_u001')",
+            "('love', 'I/unnamed man', 'that sound', 's01_e11_c02_u001')",
+            "('have', 'I/unnamed man', 'you/Monica Geller', 's01_e11_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u002",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u002_e1",
+          "tuples": [
+            "('wish', 'I/Phoebe Buffay', 'there was something we could do', 's01_e11_c02_u002')",
+            "('be', 'there', 'something we could do', 's01_e11_c02_u002')",
+            "('do', 'we/Phoebe Buffay & Monica Geller', 'something', 's01_e11_c02_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u002_e2",
+          "tuples": [
+            "('get', 'you/Coma Guy', 'up', 's01_e11_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u003",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u003_e1",
+          "tuples": [
+            "('do', 'you/Phoebe Buffay', 'what', 's01_e11_c02_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u004",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u004_e1",
+          "tuples": [
+            "('try', 'nobody', 'this', 's01_e11_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u005",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u005_e1",
+          "tuples": [
+            "('wish', 'I/Monica Geller', 'we at least knew his name', 's01_e11_c02_u005')",
+            "('know', 'we/Monica Geller & Phoebe Buffay', 'his name', 's01_e11_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u005_e2",
+          "tuples": [
+            "('look', 'you/Phoebe Buffay', None, 's01_e11_c02_u005')",
+            "('look', 'you/Phoebe Buffay', 'at that face', 's01_e11_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u005_e3",
+          "tuples": [
+            "('sleep', 'he/Coma Guy', None, 's01_e11_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u005_e4",
+          "tuples": [
+            "('look', 'he/Coma Guy', 'smart', 's01_e11_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u005_e5",
+          "tuples": [
+            "('bet', 'I/Monica Geller', \"he's a lawyer\", 's01_e11_c02_u005')",
+            "('be', 'he/Coma Guy', 'a lawyer', 's01_e11_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u006",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u006_e1",
+          "tuples": [
+            "('see', 'you/Monica Geller', 'the dents', 's01_e11_c02_u006')",
+            "('see', 'you/Monica Geller', 'in his knuckles', 's01_e11_c02_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u006_e2",
+          "tuples": [
+            "('mean', 'that/the dents in his knuckles', \"he's artistic\", 's01_e11_c02_u006')",
+            "('be', 'he/Coma Guy', 'artistic', 's01_e11_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u007",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u007_e1",
+          "tuples": [
+            "('teach', 'he/Coma Guy', 'sculpting', 's01_e11_c02_u007')",
+            "('teach', 'he/Coma Guy', 'on the side', 's01_e11_c02_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u007_e2",
+          "tuples": [
+            "('dance', 'he/Coma Guy', None, 's01_e11_c02_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u008",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u008_e1",
+          "tuples": [
+            "('be', 'he/Coma Guy', 'the kinda guy', 's01_e11_c02_u008')",
+            "('talk', 'you/Monica Geller', None, 's01_e11_c02_u008')",
+            "('listen', 'he/Coma Guy', None, 's01_e11_c02_u008')",
+            "('say', 'he/Coma Guy', 'Yeah, I understand', 's01_e11_c02_u008')",
+            "('understand', 'I/Coma Guy', None, 's01_e11_c02_u008')",
+            "('wonder', 'he/Coma Guy', 'what you/Monica Geller look like naked', 's01_e11_c02_u008')",
+            "('look', 'you/Monica Geller', 'like naked', 's01_e11_c02_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c02_u008_e2",
+          "tuples": [
+            "('know', 'you/Monica Geller', None, 's01_e11_c02_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u009",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u009_e1",
+          "tuples": [
+            "('wish', 'I/Monica Geller', 'all guys could be like him', 's01_e11_c02_u009')",
+            "('be', 'all guys', 'like him/Coma Guy', 's01_e11_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c02_u010",
+      "events": [
+        {
+          "event_id": "s01_e11_c02_u010_e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e11_c02_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

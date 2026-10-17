@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages actively with others—greets, comments on the handshake (“Hello, Speaker_01. Good shake.”), asks who they’re waiting for, and makes a playful “Quack, quack,” showing sociable, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Apologizes for being late and is polite/supportive (“Hello… Good shake.” “Okay, that’s great.”). Checks that the doctor knows their “special situation,” showing consideration."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits arriving late (“Sorry I’m late”), indicating poor punctuality."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Hesitant, awkward speech with fillers and repetitions (“uh,” repeated mentions of Speaker_03), abrupt “Oh,” and the odd “Quack, quack,” suggesting nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No strong display of curiosity or imaginative thinking beyond a brief joke; most remarks are practical and situational."
+  }
+}

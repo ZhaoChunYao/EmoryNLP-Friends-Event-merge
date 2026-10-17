@@ -1,0 +1,27 @@
+event_id: s01_e22_c11_u001_e1
+utterance_id: s01_e22_c11_u001
+  tuple: ('be', 'these margaritas', 'any stronger', 's01_e22_c11_u001')
+
+event_id: s01_e22_c11_u003_e1
+utterance_id: s01_e22_c11_u003
+  tuple: ('love', 'I/(Petrie)', 'your Stevie Wonder', 's01_e22_c11_u003')
+
+event_id: s01_e22_c11_u004_e1
+utterance_id: s01_e22_c11_u004
+  tuple: ('listen', 'you/(Gerston,Santos,Petrie)', 'about the weekly numbers', 's01_e22_c11_u004')
+  tuple: ('need', 'I/(Chandler Bing)', "them on my desk by nine o'clock", 's01_e22_c11_u004')
+
+event_id: s01_e22_c11_u008_e1
+utterance_id: s01_e22_c11_u008
+  tuple: ('give', 'you/(Phoebe Buffay)', "'em something", 's01_e22_c11_u008')
+  tuple: ('know', 'you/(Phoebe Buffay)', None, 's01_e22_c11_u008')
+
+event_id: s01_e22_c11_u008_e2
+utterance_id: s01_e22_c11_u008
+  tuple: ('be', 'that/(previous people)', 'Gerston, Santos', 's01_e22_c11_u008')
+  tuple: ('be', 'who/(unknown)', 'the guy with the moustache', 's01_e22_c11_u008')
+
+event_id: s01_e22_c11_u010_e1
+utterance_id: s01_e22_c11_u010
+  tuple: ('work', 'some people', None, 's01_e22_c11_u010')
+

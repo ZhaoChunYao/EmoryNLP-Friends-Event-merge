@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Communicates assertively and at length: announces the baby is coming, reports being paged, and engages in back-and-forth about the 55-JUMBO number and services."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Straightforward and helpful: clearly says he doesn’t perform those services, provides the correct 55-JUMBO number, tells the other to believe him, and self-deprecates that he’d be a disappointment (non-boastful)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Acts responsible and organized: responds to a pager, confirms who is not present with certainty, and supplies precise contact information."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays situational nervousness: urgently declares the baby is coming and is told by another to relax and be cool."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Mostly practical, task-focused talk; aside from a brief joke, no clear signs of curiosity or unconventional thinking."
+  }
+}

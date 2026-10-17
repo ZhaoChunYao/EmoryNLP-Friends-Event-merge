@@ -1,0 +1,111 @@
+('give', 'I/(Joey Tribbiani)', 'this', 's01_e20_c12_u001')
+[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+
+('be', 'Mr. Peanut', 'a better dresser', 's01_e20_c12_u001')
+[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+
+('mean', 'I/(Joey Tribbiani)', None, 's01_e20_c12_u001')
+[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+
+('get', 'he/(Mr. Peanut)', 'the monocle', 's01_e20_c12_u001')
+[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+
+('get', 'he/(Mr. Peanut)', 'the top hat', 's01_e20_c12_u001')
+[s01_e20_c12_u001] Joey Tribbiani: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...
+
+('know', 'you/(Joey Tribbiani)', "he's gay", 's01_e20_c12_u002')
+[s01_e20_c12_u002] Phoebe Buffay: You know he's gay?
+
+('be', 'he/(Mr. Peanut)', 'gay', 's01_e20_c12_u002')
+[s01_e20_c12_u002] Phoebe Buffay: You know he's gay?
+
+('want to clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')
+[s01_e20_c12_u003] Ross Geller: I just wanna clarify this: are you outing Mr. Peanut?
+
+('clarify', 'I/(Ross Geller)', 'this', 's01_e20_c12_u003')
+[s01_e20_c12_u003] Ross Geller: I just wanna clarify this: are you outing Mr. Peanut?
+
+('out', 'you/(Phoebe Buffay)', 'Mr. Peanut', 's01_e20_c12_u003')
+[s01_e20_c12_u003] Ross Geller: I just wanna clarify this: are you outing Mr. Peanut?
+
+('be', 'this/(Danielle)', 'Danielle', 's01_e20_c12_u005')
+[s01_e20_c12_u005] Chandler Bing: Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.
+
+('do', 'you/(Danielle)', None, 's01_e20_c12_u007')
+[s01_e20_c12_u007] Chandler Bing: What are you doing here?
+
+('call', 'I/(Danielle)', 'you', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('turn out', 'it/(situation)', 'I had your number wrong', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('have', 'I/(Danielle)', 'your number wrong', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('get', 'I/(Danielle)', 'the right one', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('get', 'I/(Danielle)', 'from Information', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('be', 'there', 'no answer', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('think', 'I/(Danielle)', "I'd just come down here", 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('come down', 'I/(Danielle)', None, 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('make sure', 'I/(Danielle)', 'you were okay', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('be', 'you/(Chandler Bing)', 'okay', 's01_e20_c12_u008')
+[s01_e20_c12_u008] Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.
+
+('be', 'I/(Chandler Bing)', 'okay', 's01_e20_c12_u009')
+[s01_e20_c12_u009] Chandler Bing: ...I'm, I'm okay.
+
+('listen', 'you/(Chandler Bing)', None, 's01_e20_c12_u010')
+[s01_e20_c12_u010] Danielle: Listen uh, maybe we could get together later?
+
+('get together', 'we/(Danielle+Chandler Bing)', None, 's01_e20_c12_u010')
+[s01_e20_c12_u010] Danielle: Listen uh, maybe we could get together later?
+
+('sound', 'that/(plan)', 'good', 's01_e20_c12_u011')
+[s01_e20_c12_u011] Chandler Bing: That sounds good. I'll call you- or you call me, whatever...
+
+('call', 'I/(Chandler Bing)', 'you', 's01_e20_c12_u011')
+[s01_e20_c12_u011] Chandler Bing: That sounds good. I'll call you- or you call me, whatever...
+
+('call', 'you/(Danielle)', 'me', 's01_e20_c12_u011')
+[s01_e20_c12_u011] Chandler Bing: That sounds good. I'll call you- or you call me, whatever...
+
+('get', 'you/(Danielle)', 'it', 's01_e20_c12_u012')
+[s01_e20_c12_u012] Danielle: You got it.
+
+('go', 'you/(Chandler Bing)', None, 's01_e20_c12_u017')
+[s01_e20_c12_u017] Monica Geller: Yeah, there you go!
+
+('know', 'I/(Chandler Bing)', None, 's01_e20_c12_u019')
+[s01_e20_c12_u019] Chandler Bing: ...I dunno.
+
+('know', 'you/(Chandler Bing)', None, 's01_e20_c12_u020')
+[s01_e20_c12_u020] Rachel Green: You don't know?!
+
+('seem', 'she/(Danielle)', 'very nice', 's01_e20_c12_u021')
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+
+('come', 'her/(Danielle)', None, 's01_e20_c12_u021')
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+
+('see', 'her/(Danielle)', 'if I was okay', 's01_e20_c12_u021')
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+
+('mean', 'I/(Chandler Bing)', None, 's01_e20_c12_u021')
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+
+('be', 'that/(her coming to see if I was okay)', 'needy', 's01_e20_c12_u021')
+[s01_e20_c12_u021] Chandler Bing: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+

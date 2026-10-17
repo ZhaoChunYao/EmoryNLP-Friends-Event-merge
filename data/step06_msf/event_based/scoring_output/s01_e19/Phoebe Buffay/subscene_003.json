@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes two brief factual statements and a thanks; no clear sign of outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker thanks Speaker_02 and helpfully points out that he left his Belgian waffle in the hall, indicating cooperative and polite behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior showing organization or carelessness; TargetSpeaker merely reports a fact and offers thanks."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or pronounced confidence; the tone is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or rigidity; statements are simple and factual."
+  }
+}

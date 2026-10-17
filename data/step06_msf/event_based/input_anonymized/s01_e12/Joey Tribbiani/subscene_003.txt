@@ -1,0 +1,27 @@
+Episode: s01_e12
+Scene: s01_e12_c07
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e12_c07_u003 → s01_e12_c07_u011
+Peak window: 3 → 4
+
+Dialogue:
+  [s01_e12_c07_u003]
+  1. Speaker_01 says Speaker_02 currently knows the sex of Speaker_03's baby.
+  2. Speaker_01 says Speaker_01 currently does not know the sex of Speaker_03's baby.
+  [s01_e12_c07_u004]
+  1. Speaker_02 says Speaker_03 called Speaker_02.
+  2. Speaker_02 says Speaker_03 thanked Speaker_02 for the lasagna.
+  3. Speaker_02 says Speaker_02 asked Speaker_03 about the sex of Speaker_03's baby.
+  4. Speaker_02 says Speaker_03 told Speaker_02 the sex of Speaker_03's baby.
+  [s01_e12_c07_u005]
+  1. TargetSpeaker asks what the baby is going to be (a boy or a girl).
+  [s01_e12_c07_u006]
+  1. Speaker_01 says TargetSpeaker currently knows the sex of Speaker_03's baby.
+  [s01_e12_c07_u007]
+  1. Speaker_02 says Speaker_02 is currently sorry.
+  2. Speaker_02 says Speaker_02 is currently excited about being an aunt to Speaker_03's baby.
+  [s01_e12_c07_u008] TargetSpeaker: Or an uncle...
+  [s01_e12_c07_u009] Unknown Speaker: 
+  [s01_e12_c07_u010] Speaker_04, TargetSpeaker, Speaker_01: Hey Phoebe!
+  [s01_e12_c07_u011] Speaker_01: Hi Pheebs!

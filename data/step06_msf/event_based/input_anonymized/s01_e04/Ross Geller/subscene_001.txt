@@ -1,0 +1,24 @@
+Episode: s01_e04
+Scene: s01_e04_c02
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e04_c02_u001 → s01_e04_c02_u007
+Peak window: 0 → 1
+
+Dialogue:
+  [s01_e04_c02_u001]
+  1. Speaker_01 says Speaker_02 is sleeping peacefully in a public place.
+  [s01_e04_c02_u002]
+  1. TargetSpeaker says TargetSpeaker cannot sleep in a public place.
+  [s01_e04_c02_u003]
+  1. Speaker_01 says TargetSpeaker should look at Speaker_02.
+  2. Speaker_01 says Speaker_02 is very peaceful while sleeping.
+  [s01_e04_c02_u004] Speaker_02: Oh! What what what! ...Hi.
+  [s01_e04_c02_u005]
+  1. TargetSpeaker says Speaker_02 nodding off again is okay.
+  2. TargetSpeaker says Speaker_02 knows that Speaker_02 just nodded off again.
+  3. TargetSpeaker says Speaker_02 just nodded off again.
+  [s01_e04_c02_u006]
+  1. Speaker_01 says something is going on with Speaker_02 right now.
+  [s01_e04_c02_u007]
+  1. Speaker_02 says Speaker_02 got no sleep last night.

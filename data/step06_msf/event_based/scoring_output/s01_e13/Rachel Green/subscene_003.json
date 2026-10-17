@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only interacts to take orders and relay availability; no clear signs of being outgoing, talkative, or energetic beyond routine job talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She politely asks if anyone wants anything else and apologizes when an item is unavailable, showing consideration and straightforwardness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She attends to the group’s needs, checks availability, and clearly communicates that the item is out, reflecting responsible, organized behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Another speaker remarks that TargetSpeaker is still upset, indicating visible emotional sensitivity in the moment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior shows curiosity or inventiveness, nor dogmatism or caution, in this exchange."
+  }
+}

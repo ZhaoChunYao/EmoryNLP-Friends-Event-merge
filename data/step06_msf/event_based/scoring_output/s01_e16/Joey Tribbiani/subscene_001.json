@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is socially energetic—starts a playful guessing game about who they saw (u016–u020) and makes bold, chatty remarks (u009)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows insensitivity and dismissiveness: “I don’t care that [Speaker_04] and [Speaker_05] are twins… [Speaker_05] is hot” (u009), leading Speaker_03 to say they shouldn’t talk about things anymore (u013)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; starting a casual, potentially long guessing game (u016–u022) does not strongly indicate (in)efficiency."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks assertively without hesitation (“I don’t care…” and labeling someone “hot,” u009) and confidently engages others in a game (u016), showing no nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity or unconventional thinking; remarks are straightforward and superficial."
+  }
+}

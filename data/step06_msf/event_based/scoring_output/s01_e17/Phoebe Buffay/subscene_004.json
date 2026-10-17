@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and drives the conversation, tells Speaker_01 to listen, openly expresses feelings, and decisively issues an ultimatum."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker imposes a strict ultimatum (“choose either TargetSpeaker or Speaker_02”) and pushes Speaker_01 to stop hanging out with TargetSpeaker, showing controlling, unaccommodating behavior; also asks him to forget prior statements."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness beyond emotional content; behavior does not strongly indicate either side."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker apologizes, says they were “talking crazy,” and admits it will be really hard to get over Speaker_01, indicating emotional sensitivity and vulnerability."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker frames the issue as a non-negotiable either-or choice, showing inflexibility and a lack of openness to alternatives."
+  }
+}

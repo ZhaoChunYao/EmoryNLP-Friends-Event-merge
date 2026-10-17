@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He initiates and pursues the conversation despite Speaker_03 being mad, asking multiple questions and staying engaged (u029, u031, u036, u038)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He deflects blame for the kiss ('two people were involved') and pushes Speaker_03 to confront Speaker_05 despite their reluctance (u029, u031, u036)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "He shows careless/impulsive behavior (the kiss) and then offers a flimsy cover story ('we're rehearsing a Greek play') and jokes instead of taking responsibility (u034, u038)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He confronts the conflict directly, keeps pressing his points, and even jokes/acts out the 'play,' indicating comfort and confidence rather than nervousness (u029, u036, u038)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He gives an imaginative explanation ('Greek play') and continues playful, theatrical improvisation ('that's my finger... knee... I'm still doing the play') (u034, u038)."
+  }
+}

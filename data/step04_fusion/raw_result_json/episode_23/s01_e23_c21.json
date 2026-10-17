@@ -1,0 +1,173 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c21_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u001_e1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'you to know that there may be some times when I may not be around', 's01_e23_c21_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u001_e2",
+          "tuples": [
+            "('know', 'you/Ben', 'that there may be some times when I may not be around', 's01_e23_c21_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u001_e3",
+          "tuples": [
+            "('be', 'there', 'some times', 's01_e23_c21_u001')",
+            "('be', 'I/Ross Geller', 'not around', 's01_e23_c21_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u001_e4",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'around like this', 's01_e23_c21_u001')",
+            "('come back', 'I/Ross Geller', 'like this', 's01_e23_c21_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u001_e5",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'away longer', 's01_e23_c21_u001')",
+            "('be', 'I/Ross Geller', 'away like this', 's01_e23_c21_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u003_e1",
+          "tuples": [
+            "('want', 'I/Chandler Bing', 'you to steal third', 's01_e23_c21_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u003_e2",
+          "tuples": [
+            "('steal', 'you/Ben', 'third', 's01_e23_c21_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u003_e3",
+          "tuples": [
+            "('go', 'I/Chandler Bing', 'like this', 's01_e23_c21_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u005_e1",
+          "tuples": [
+            "('be', 'he/Ben', 'so amazing', 's01_e23_c21_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u006_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e23_c21_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u006_e2",
+          "tuples": [
+            "('look', 'you/all', None, 's01_e23_c21_u006')",
+            "('look', 'you/all', 'at him', 's01_e23_c21_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u007",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u007_e1",
+          "tuples": [
+            "('think', 'I/Joey Tribbiani', 'that that is his name', 's01_e23_c21_u007')",
+            "('be', 'that/Ben', 'his name', 's01_e23_c21_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u008",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u008_e1",
+          "tuples": [
+            "('close', 'he/Ben', 'his eyes', 's01_e23_c21_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u008_e2",
+          "tuples": [
+            "('open', 'he/Ben', 'his eyes', 's01_e23_c21_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u009",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u009_e1",
+          "tuples": [
+            "('do', 'he/Ben', 'much', 's01_e23_c21_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u010",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u010_e1",
+          "tuples": [
+            "('be', 'this', 'pretty much it', 's01_e23_c21_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u012",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u012_e1",
+          "tuples": [
+            "('want', 'you guys/ALL', 'to get some coffee', 's01_e23_c21_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c21_u012_e2",
+          "tuples": [
+            "('get', 'you guys/ALL', 'some coffee', 's01_e23_c21_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c21_u014",
+      "events": [
+        {
+          "event_id": "s01_e23_c21_u014_e1",
+          "tuples": [
+            "('see', 'I/Ross Geller', 'you guys/ALL', 's01_e23_c21_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

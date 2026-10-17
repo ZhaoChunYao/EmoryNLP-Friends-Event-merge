@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively guides the social interaction by instructing Speaker_01 to say 'hello' now and engages directly with others in the moment."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Is straightforward and helpful—prompts polite behavior and points out to Speaker_06 that there is dental floss in their hair to help them."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Refers to a prior discussion about using 'hello' and applies the rule at the appropriate time, showing attention to social etiquette and follow-through."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks in a confident, directive manner with no signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, imagination, or unconventional thinking in the exchange."
+  }
+}

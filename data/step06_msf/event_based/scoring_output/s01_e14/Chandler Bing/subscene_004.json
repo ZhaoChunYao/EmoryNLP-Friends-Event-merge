@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being outgoing or reserved; TargetSpeaker participates in the date plan and identifies someone but shows no strong social enthusiasm or withdrawal."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When Speaker_01 asked about appearance, TargetSpeaker said they did not care how Speaker_01 looks, which is dismissive and inconsiderate."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker firmly reminds Speaker_01 of their plan not to trade dates and specifies who will be with whom, showing planning and rule adherence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Aside from a brief surprised recognition (“Janice?”), there are no signs of nervousness, sensitivity, or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or dogmatism; interactions are logistical and neutral regarding new ideas."
+  }
+}

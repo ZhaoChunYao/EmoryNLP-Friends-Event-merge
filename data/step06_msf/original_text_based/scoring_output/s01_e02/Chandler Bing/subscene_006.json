@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Actively engages and leads the group: jokes with Speaker_02 and then declares, “Boys? Speaker_03 and TargetSpeaker're going in.”"
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Corrects Speaker_02 with light humor rather than harshness and immediately offers help by organizing a joint effort."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows task focus and organization by proposing a concrete plan (“going in”) after noting the wrong way to search the lasagne."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and decisive while others hesitate (“Speaker_02 just... can't do it”), showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No strong indication of curiosity or unconventional thinking beyond a brief joke; insufficient evidence for openness."
+  }
+}

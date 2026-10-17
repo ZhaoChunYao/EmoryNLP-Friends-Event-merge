@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads the exchange, jokes about staying and covering topics, shares stories (mints/Sweet 'n' Low), updates everyone on the situation, and volunteers to go see Speaker_03."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Tells Speaker_02 to relax, offers comfort (“she’s with Pop-Pop now”), says goodbye to Nana, and cooperatively checks on Speaker_03’s status."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Tracks and clarifies the status (not dead, may have died), states they’re looking into it, takes responsibility to verify (“I’ll go and see her”), and delivers the final update."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed under stress, reassures others (“Relax”), and handles the death confusion without visible panic."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from light reminiscing about mints and Sweet ’n’ Low, there’s no strong indication of either curiosity/inventiveness or dogmatism/caution."
+  }
+}

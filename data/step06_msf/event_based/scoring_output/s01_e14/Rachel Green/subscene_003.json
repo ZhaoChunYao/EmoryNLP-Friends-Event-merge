@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, minimal replies (“Speaker_03 is voluntarily bald.” and “Or?”) without clear outgoing or energetic engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They neither agree nor argue; the brief correction and a request for alternatives show no clear cooperative or confrontational stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No indications of planning, organization, or carelessness in the short responses."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, sensitivity, or emotional volatility; tone appears neutral and calm."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "After hearing a proposed ritual (burning exes’ gifts), TargetSpeaker asks “Or?”, seeking alternative approaches—showing curiosity and openness to different ideas."
+  }
+}

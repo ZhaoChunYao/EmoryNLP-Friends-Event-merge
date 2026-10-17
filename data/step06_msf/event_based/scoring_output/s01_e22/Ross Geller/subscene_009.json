@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only reports status during an urgent moment (here, having a baby) without showing clear outgoing sociability or marked reserve."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They state their condition plainly, but there’s no clear sign of generosity/cooperation or of hostility/unreliability."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Says they are looking for the phone (goal-directed), but there’s insufficient evidence of being organized/efficient versus sloppy/careless overall."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Exclaims in pain (“Ooh, Ooh,” “I’m hurt”) due to the situation, but there’s no clear display of nervousness/panic or of notable calm/confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, inventiveness, or dogmatism; statements are purely about immediate practical needs."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively participates in the group by suggesting a baby name: \"How 'bout Ben?\""
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker collaborates and uses inclusive language: \"we just came up with the name 'Ben',\" aligning with others who like the idea."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness; the exchange is simple brainstorming."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When told he had never mentioned the name before, he calmly explains, \"we just came up with the name 'Ben',\" showing composure and confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He readily proposes a new idea for the baby's name during brainstorming, indicating openness to new possibilities."
+  }
+}

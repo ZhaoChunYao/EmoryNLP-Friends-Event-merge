@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being especially outgoing or reserved; interactions are brief and focused on conflict and complaints."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Argues with Speaker_01 and assumes negative intent toward him (“they wait for me to come out so they can kiss in front of me”), indicating low cooperativeness and uncharitable attributions."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Speaker_01 says TargetSpeaker forgot to leave his grip size, showing forgetfulness/carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He interprets others’ kissing as targeted to upset him, showing jealousy and sensitivity (“they wait for me to come out so they can kiss in front of me”)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, creativity, or rigidity is shown in this exchange."
+  }
+}

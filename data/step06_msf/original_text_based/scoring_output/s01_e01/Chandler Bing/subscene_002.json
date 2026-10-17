@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaks assertively and publicly in the group: “Tuna or egg salad? Decide!” and makes an unsolicited comment about someone’s outfit, indicating outgoing, take-charge behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Critical and unsympathetic remark: “Ooh, [someone] should not be wearing those pants,” plus a brusque command to decide; shows low warmth and considerateness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Urging a quick choice could reflect efficiency, but there’s insufficient evidence of organization or carelessness beyond that moment."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, nervousness, or emotional volatility in the remarks."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or creativity, nor strong dogmatism beyond a single fashion judgment."
+  }
+}

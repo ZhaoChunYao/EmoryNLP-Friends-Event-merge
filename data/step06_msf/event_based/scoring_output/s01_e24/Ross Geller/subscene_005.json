@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker is brief and hesitant: “I guess… I don’t know,” and defers action to others to deliver the present, showing a reserved, non-assertive stance."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Despite being told to forget Speaker_02, TargetSpeaker asks friends to give Speaker_02 a birthday present and responds cooperatively (“I know”), indicating kindness and trust."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes sure a responsibility (delivering a birthday present) is handled by arranging for friends to deliver it, showing follow-through and organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Language like “I guess… I don’t know” shows uncertainty and lack of confidence in an emotional situation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or dogmatism/caution beyond general uncertainty; openness isn’t directly expressed."
+  }
+}

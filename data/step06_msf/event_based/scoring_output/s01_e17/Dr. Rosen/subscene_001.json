@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly identifies as a friend and offers one polite challenge; not enough to show outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When called 'a little cute to be a doctor,' TargetSpeaker responds with a polite 'excuse me,' addressing the remark without hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicate organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently challenges the comment ('excuse me') rather than showing nervousness or withdrawal."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements show curiosity or rigidness."
+  }
+}

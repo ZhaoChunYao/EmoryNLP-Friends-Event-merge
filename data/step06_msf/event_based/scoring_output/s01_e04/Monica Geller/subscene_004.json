@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Plans a social slumber party, gets magazines, cookie dough, and Twister, and talks about having Tiki Death Punch—behaving outgoing and engaged with others."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Helps manage Speaker_01’s Visa call, asks what it’s in reference to, puts them on hold, and checks if Speaker_01 is okay; also inclusive in planning activities with a friend staying over."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Organizes a slumber party with specific supplies and games; handles the phone call methodically (asks purpose, puts on hold, follows up, and ends the call appropriately)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and even jokes about the unusual activity on the card, showing no signs of anxiety or distress while handling the situation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Enjoying party drinks and games shows playfulness but provides no clear evidence of curiosity or preference for novel/complex ideas over routine."
+  }
+}

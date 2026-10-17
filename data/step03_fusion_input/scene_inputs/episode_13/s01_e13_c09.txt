@@ -1,0 +1,51 @@
+('go', 'it', None, 's01_e13_c09_u003')
+[s01_e13_c09_u003] Monica Geller: How's it going?
+
+('have', 'Roger', 'a dinner thing', 's01_e13_c09_u004')
+[s01_e13_c09_u004] Phoebe Buffay: Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.
+
+('want', 'he/Roger', 'me to invite you guys', 's01_e13_c09_u004')
+[s01_e13_c09_u004] Phoebe Buffay: Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.
+
+('invite', 'me/Phoebe Buffay', 'you guys', 's01_e13_c09_u004')
+[s01_e13_c09_u004] Phoebe Buffay: Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.
+
+('go', 'what', 'on', 's01_e13_c09_u006')
+[s01_e13_c09_u006] Phoebe Buffay: So what's going on?
+
+('be', 'it', 'just', 's01_e13_c09_u007')
+[s01_e13_c09_u007] Monica Geller: Nothing, um, it's just, um... It's Roger.
+
+('be', 'it', 'Roger', 's01_e13_c09_u007')
+[s01_e13_c09_u007] Monica Geller: Nothing, um, it's just, um... It's Roger.
+
+('know', 'I/Ross Geller', None, 's01_e13_c09_u008')
+[s01_e13_c09_u008] Ross Geller: I dunno, there's just something about...
+
+('be', 'there', 'just something about', 's01_e13_c09_u008')
+[s01_e13_c09_u008] Ross Geller: I dunno, there's just something about...
+
+('feel', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', "that he's...", 's01_e13_c09_u009')
+[s01_e13_c09_u009] Chandler Bing: Basically we just feel that he's...
+
+('be', 'he/Roger', None, 's01_e13_c09_u009')
+[s01_e13_c09_u009] Chandler Bing: Basically we just feel that he's...
+
+('hate', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', 'that guy', 's01_e13_c09_u010')
+[s01_e13_c09_u010] Rachel Green: We hate that guy.
+
+('be', 'we/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', 'sorry', 's01_e13_c09_u012')
+[s01_e13_c09_u012] Ross Geller: We're sorry, Pheebs, we're sorry.
+
+('think', 'you/(Monica Geller, Ross Geller, Chandler Bing, Rachel Green)', "it's just that he's so perceptive that it freaks you out", 's01_e13_c09_u013')
+[s01_e13_c09_u013] Phoebe Buffay: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
+
+('be', 'it', "just that he's so perceptive that it freaks you out", 's01_e13_c09_u013')
+[s01_e13_c09_u013] Phoebe Buffay: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
+
+('be', 'he/Roger', 'so perceptive', 's01_e13_c09_u013')
+[s01_e13_c09_u013] Phoebe Buffay: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
+
+('freak', 'it/(that he is so perceptive)', 'you out', 's01_e13_c09_u013')
+[s01_e13_c09_u013] Phoebe Buffay: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
+

@@ -1,0 +1,242 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e13_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u001_e1",
+          "tuples": [
+            "('go', 'I/Joey Tribbiani Sr.', None, 's01_e13_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u001_e2",
+          "tuples": [
+            "('miss', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u001_e3",
+          "tuples": [
+            "('love', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u001_e4",
+          "tuples": [
+            "('get', 'it/time', 'real late now', 's01_e13_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u002_e1",
+          "tuples": [
+            "('listen', 'you/Ronni', None, 's01_e13_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u002_e2",
+          "tuples": [
+            "('make', 'I/Joey Tribbiani', 'the appointment', 's01_e13_c03_u002')",
+            "('make', 'I/Joey Tribbiani', 'with Dr. Bazida', 's01_e13_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u002_e3",
+          "tuples": [
+            "('excuse', 'you/Ronni', 'me', 's01_e13_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u002_e4",
+          "tuples": [
+            "('know', 'you/Ronni', \"this isn't Ma\", 's01_e13_c03_u002')",
+            "('be', 'this/Ronni', 'Ma', 's01_e13_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u004_e1",
+          "tuples": [
+            "('be', 'her name', 'Ronni', 's01_e13_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u004_e2",
+          "tuples": [
+            "('be', 'she/Ronni', 'a pet mortician', 's01_e13_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u005_e1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani Sr.', None, 's01_e13_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u006",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u006_e1",
+          "tuples": [
+            "('remember', 'you/Joey Tribbiani', 'when you were a little kid, I used to take you to the navy yard and show you the big ships', 's01_e13_c03_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u006_e2",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'a little kid', 's01_e13_c03_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u006_e3",
+          "tuples": [
+            "('take', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u006')",
+            "('take', 'I/Joey Tribbiani Sr.', 'to the navy yard', 's01_e13_c03_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u006_e4",
+          "tuples": [
+            "('show', 'I/Joey Tribbiani Sr.', 'you the big ships', 's01_e13_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u008_e1",
+          "tuples": [
+            "('be', 'it/time', 'six years', 's01_e13_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u008_e2",
+          "tuples": [
+            "('want', 'I/Joey Tribbiani Sr.', 'to put a nice memory in your head', 's01_e13_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u008_e3",
+          "tuples": [
+            "('put', 'I/Joey Tribbiani Sr.', 'a nice memory', 's01_e13_c03_u008')",
+            "('put', 'I/Joey Tribbiani Sr.', 'in your head', 's01_e13_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u008_e4",
+          "tuples": [
+            "('know', 'you/Joey Tribbiani', \"that I wasn't always such a terrible guy\", 's01_e13_c03_u008')",
+            "('be', 'I/Joey Tribbiani Sr.', 'always such a terrible guy', 's01_e13_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u008_e5",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'in love', 's01_e13_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u009_e1",
+          "tuples": [
+            "('know', 'I/Joey Tribbiani', None, 's01_e13_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u010_e1",
+          "tuples": [
+            "('have', 'you/Joey Tribbiani', None, 's01_e13_c03_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u010_e2",
+          "tuples": [
+            "('burn', 'you/Joey Tribbiani', 'your tomatoes', 's01_e13_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u011",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u011_e1",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani Sr.', 'one to talk', 's01_e13_c03_u011')",
+            "('talk', 'you/Joey Tribbiani Sr.', None, 's01_e13_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u012_e1",
+          "tuples": [
+            "('be', 'your dad', 'in love big time', 's01_e13_c03_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e13_c03_u012_e2",
+          "tuples": [
+            "('be', 'the worst part of it', None, 's01_e13_c03_u012')",
+            "('be', 'it/(the worst part of it)', None, 's01_e13_c03_u012')",
+            "('be', 'it/(the worst part of it)', 'with two different women', 's01_e13_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u013_e1",
+          "tuples": [
+            "('tell', 'you/Joey Tribbiani Sr.', 'me', 's01_e13_c03_u013')",
+            "('be', \"one of 'em\", 'Ma', 's01_e13_c03_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e13_c03_u014",
+      "events": [
+        {
+          "event_id": "s01_e13_c03_u014_e1",
+          "tuples": [
+            "('be', 'what/(the matter)', 'the matter', 's01_e13_c03_u014')",
+            "('be', 'what/(the matter)', 'with you', 's01_e13_c03_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages socially by calling another speaker’s remark funny and shares a personal story about his dog, then enthusiastically elaborates with details about the farm and rabbits."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Compliments another speaker’s comment as funny and maintains a friendly, non-confrontational tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization or reliability is shown in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks lightheartedly and confidently, showing no signs of anxiety or distress while discussing the topic."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "When his sibling hints at the truth, he insists on the comforting farm story, rejecting new information and displaying dogmatic denial."
+  }
+}

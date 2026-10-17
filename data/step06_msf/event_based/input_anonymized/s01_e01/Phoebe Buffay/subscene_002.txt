@@ -1,0 +1,26 @@
+Episode: s01_e01
+Scene: s01_e01_c01
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e01_c01_u027 → s01_e01_c01_u035
+Peak window: 23 → 25
+
+Dialogue:
+  [s01_e01_c01_u027] Speaker_01: Ohh.
+  [s01_e01_c01_u028]
+  1. Speaker_02 says Speaker_02 will get Speaker_03 some coffee.
+  [s01_e01_c01_u029] Speaker_03: Thanks.
+  [s01_e01_c01_u030] TargetSpeaker: Ooh! Oh!
+  [s01_e01_c01_u031]
+  1. Speaker_03 tells TargetSpeaker to stop cleansing Speaker_03's aura.
+  2. Speaker_03 tells TargetSpeaker to leave Speaker_03's aura alone.
+  [s01_e01_c01_u032]
+  1. TargetSpeaker tells Speaker_03 to be murky.
+  [s01_e01_c01_u033]
+  1. Speaker_03 says Speaker_03 will be fine.
+  2. Speaker_03 says Speaker_03 hopes Speaker_04 will be very happy.
+  [s01_e01_c01_u034]
+  1. Speaker_02 says Speaker_03 does not hope Speaker_04 will be very happy.
+  [s01_e01_c01_u035]
+  1. Speaker_03 says Speaker_03 does not hope Speaker_04 will be very happy.
+  2. Speaker_03 says Speaker_04 left Speaker_03.

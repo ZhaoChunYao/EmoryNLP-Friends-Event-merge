@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being outgoing or reserved; TargetSpeaker speaks only a few brief, apologetic lines."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Conciliatory and apologetic: \"Ohhhhh, don't be mad...\" and \"Oh, TargetSpeaker am sorry...\" seek harmony and accept fault."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless with responsibility: others say \"Speaker_05 gave TargetSpeaker one job!\" and TargetSpeaker lost it; deflects with \"look how straight those noodles are!\" instead of the task."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows worry and sensitivity about others' reactions: \"don't be mad\" and repeated apologies indicate nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity or imaginative thinking; comments about noodles do not reflect openness or dogmatism."
+  }
+}

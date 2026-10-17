@@ -1,0 +1,81 @@
+event_id: s01_e09_c05_u001_e1
+utterance_id: s01_e09_c05_u001
+  tuple: ('work', 'we/(Joey Tribbiani+Girl)', None, 's01_e09_c05_u001')
+
+event_id: s01_e09_c05_u002_e1
+utterance_id: s01_e09_c05_u002
+  tuple: ('do', 'we/(Joey Tribbiani+Girl)', None, 's01_e09_c05_u002')
+
+event_id: s01_e09_c05_u003_e1
+utterance_id: s01_e09_c05_u003
+  tuple: ('be', 'you/(Girl)', 'the Obsession girl', 's01_e09_c05_u003')
+
+event_id: s01_e09_c05_u003_e2
+utterance_id: s01_e09_c05_u003
+  tuple: ('be', 'I/(Joey Tribbiani)', 'the Aramis guy', 's01_e09_c05_u003')
+
+event_id: s01_e09_c05_u005_e1
+utterance_id: s01_e09_c05_u005
+  tuple: ('tell', 'I/(Joey Tribbiani)', 'you', 's01_e09_c05_u005')
+  tuple: ('be', 'you/(Girl)', 'the best', 's01_e09_c05_u005')
+  tuple: ('be', 'you/(Girl)', 'in the business', 's01_e09_c05_u005')
+
+event_id: s01_e09_c05_u006_e1
+utterance_id: s01_e09_c05_u006
+  tuple: ('get', 'you/(Joey Tribbiani)', 'out', 's01_e09_c05_u006')
+
+event_id: s01_e09_c05_u007_e1
+utterance_id: s01_e09_c05_u007
+  tuple: ('be', 'I/(Joey Tribbiani)', 'serious', 's01_e09_c05_u007')
+
+event_id: s01_e09_c05_u007_e2
+utterance_id: s01_e09_c05_u007
+  tuple: ('be', 'you/(Girl)', 'amazing', 's01_e09_c05_u007')
+
+event_id: s01_e09_c05_u007_e3
+utterance_id: s01_e09_c05_u007
+  tuple: ('know', 'you/(Girl)', 'when to spritz', 's01_e09_c05_u007')
+  tuple: ('know', 'you/(Girl)', 'when to lay back', 's01_e09_c05_u007')
+  tuple: ('spritz', 'you/(Girl)', None, 's01_e09_c05_u007')
+  tuple: ('lay', 'you/(Girl)', 'back', 's01_e09_c05_u007')
+
+event_id: s01_e09_c05_u008_e1
+utterance_id: s01_e09_c05_u008
+  tuple: ('know', 'you/(Joey Tribbiani)', 'what that means to me', 's01_e09_c05_u008')
+  tuple: ('mean', 'that/(compliment)', 'to me', 's01_e09_c05_u008')
+
+event_id: s01_e09_c05_u009_e1
+utterance_id: s01_e09_c05_u009
+  tuple: ('smell', 'you/(Girl)', 'great', 's01_e09_c05_u009')
+
+event_id: s01_e09_c05_u009_e2
+utterance_id: s01_e09_c05_u009
+  tuple: ('wear', 'you/(Girl)', 'what', 's01_e09_c05_u009')
+
+event_id: s01_e09_c05_u011_e1
+utterance_id: s01_e09_c05_u011
+  tuple: ('listen', 'you/(Girl)', None, 's01_e09_c05_u011')
+
+event_id: s01_e09_c05_u011_e2
+utterance_id: s01_e09_c05_u011
+  tuple: ('want', 'you/(Girl)', 'go get a drink or something', 's01_e09_c05_u011')
+  tuple: ('go', 'you/(Girl)', 'get a drink or something', 's01_e09_c05_u011')
+  tuple: ('get', 'you/(Girl)', 'a drink or something', 's01_e09_c05_u011')
+
+event_id: s01_e09_c05_u013_e1
+utterance_id: s01_e09_c05_u013
+  tuple: ('be', 'what/(problem)', 'wrong', 's01_e09_c05_u013')
+
+event_id: s01_e09_c05_u014_e1
+utterance_id: s01_e09_c05_u014
+  tuple: ('remember', 'I/(Girl)', 'I have to do something', 's01_e09_c05_u014')
+  tuple: ('do', 'I/(Girl)', 'something', 's01_e09_c05_u014')
+
+event_id: s01_e09_c05_u016_e1
+utterance_id: s01_e09_c05_u016
+  tuple: ('leave', 'I/(Girl)', None, 's01_e09_c05_u016')
+
+event_id: s01_e09_c05_u017_e1
+utterance_id: s01_e09_c05_u017
+  tuple: ('wait', 'you/(Girl)', None, 's01_e09_c05_u017')
+

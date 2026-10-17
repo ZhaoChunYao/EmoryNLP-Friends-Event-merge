@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes a couple of comments but shows no clear signs of being outgoing or reserved beyond normal participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker reassures Speaker_01 that repeatedly fluffing the pillow is fine, showing tolerance and a cooperative attitude."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No statements indicate organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says Speaker_01 is acting chaotic and twirly and is scaring TargetSpeaker, showing anxiety/sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or dogmatism are present."
+  }
+}

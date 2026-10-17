@@ -1,0 +1,118 @@
+event_id: s01_e04_c07_u001_e1
+utterance_id: s01_e04_c07_u001
+  tuple: ('feel', 'you/Rachel Green', 'great about yourself', 's01_e04_c07_u001')
+
+event_id: s01_e04_c07_u001_e2
+utterance_id: s01_e04_c07_u001
+  tuple: ('do', 'you/Rachel Green', 'this amazing independence thing', 's01_e04_c07_u001')
+
+event_id: s01_e04_c07_u002_e1
+utterance_id: s01_e04_c07_u002
+  tuple: ('be', 'what', 'so amazing', 's01_e04_c07_u002')
+
+event_id: s01_e04_c07_u002_e2
+utterance_id: s01_e04_c07_u002
+  tuple: ('give up', 'I/Rachel Green', 'everything', 's01_e04_c07_u002')
+
+event_id: s01_e04_c07_u003_e1
+utterance_id: s01_e04_c07_u003
+  tuple: ('be', 'you/Rachel Green', 'just like Jack', 's01_e04_c07_u003')
+
+event_id: s01_e04_c07_u007_e1
+utterance_id: s01_e04_c07_u007
+  tuple: ('see', 'you/Rachel Green', None, 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e2
+utterance_id: s01_e04_c07_u007
+  tuple: ('give up', 'he/Jack', 'something', 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e3
+utterance_id: s01_e04_c07_u007
+  tuple: ('get', 'he/Jack', 'those magic beans', 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e4
+utterance_id: s01_e04_c07_u007
+  tuple: ('wake up', 'he/Jack', None, 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e5
+utterance_id: s01_e04_c07_u007
+  tuple: ('be', 'there', 'this big plant', 's01_e04_c07_u007')
+  tuple: ('be', 'this big plant', 'outside his window', 's01_e04_c07_u007')
+  tuple: ('be', 'this big plant', 'full of possibilities and stuff', 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e6
+utterance_id: s01_e04_c07_u007
+  tuple: ('live', 'he/Jack', None, 's01_e04_c07_u007')
+  tuple: ('live', 'he/Jack', 'in a village', 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u007_e7
+utterance_id: s01_e04_c07_u007
+  tuple: ('live', 'you/Rachel Green', None, 's01_e04_c07_u007')
+  tuple: ('live', 'you/Rachel Green', 'in the Village', 's01_e04_c07_u007')
+
+event_id: s01_e04_c07_u008_e1
+utterance_id: s01_e04_c07_u008
+  tuple: ('give up', 'Jack', 'a cow', 's01_e04_c07_u008')
+
+event_id: s01_e04_c07_u008_e2
+utterance_id: s01_e04_c07_u008
+  tuple: ('give up', 'I/Rachel Green', 'an orthodontist', 's01_e04_c07_u008')
+
+event_id: s01_e04_c07_u008_e3
+utterance_id: s01_e04_c07_u008
+  tuple: ('know', 'I/Rachel Green', None, 's01_e04_c07_u008')
+  tuple: ('love', 'I/Rachel Green', 'him/(orthodontist)', 's01_e04_c07_u008')
+
+event_id: s01_e04_c07_u009_e1
+utterance_id: s01_e04_c07_u009
+  tuple: ('love', 'Jack', 'the cow', 's01_e04_c07_u009')
+
+event_id: s01_e04_c07_u010_e1
+utterance_id: s01_e04_c07_u010
+  tuple: ('be', 'it/(the situation)', 'a plan', 's01_e04_c07_u010')
+  tuple: ('be', 'it/(the situation)', 'clear', 's01_e04_c07_u010')
+  tuple: ('figure out', 'it/(the situation)', None, 's01_e04_c07_u010')
+
+event_id: s01_e04_c07_u010_e2
+utterance_id: s01_e04_c07_u010
+  tuple: ('know', 'you/(Monica Geller, Phoebe Buffay)', None, 's01_e04_c07_u010')
+
+event_id: s01_e04_c07_u010_e3
+utterance_id: s01_e04_c07_u010
+  tuple: ('be', 'everything', 'just kinda like', 's01_e04_c07_u010')
+
+event_id: s01_e04_c07_u013_e1
+utterance_id: s01_e04_c07_u013
+  tuple: ('be', 'you/Rachel Green', 'not the only one', 's01_e04_c07_u013')
+
+event_id: s01_e04_c07_u013_e2
+utterance_id: s01_e04_c07_u013
+  tuple: ('know', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', "where we're going", 's01_e04_c07_u013')
+  tuple: ('go', 'we/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e04_c07_u013')
+
+event_id: s01_e04_c07_u013_e3
+utterance_id: s01_e04_c07_u013
+  tuple: ('figure', 'you/Rachel Green', "at some point it's all gonna come together", 's01_e04_c07_u013')
+
+event_id: s01_e04_c07_u013_e4
+utterance_id: s01_e04_c07_u013
+  tuple: ('come', 'it/(everything)', None, 's01_e04_c07_u013')
+  tuple: ('be', 'it/(everything)', 'un-floopy', 's01_e04_c07_u013')
+
+event_id: s01_e04_c07_u014_e1
+utterance_id: s01_e04_c07_u014
+  tuple: ('be', 'that/(un-floopy)', 'a word', 's01_e04_c07_u014')
+
+event_id: s01_e04_c07_u017_e1
+utterance_id: s01_e04_c07_u017
+  tuple: ('like', 'I/Phoebe Buffay', 'this question', 's01_e04_c07_u017')
+
+event_id: s01_e04_c07_u018_e1
+utterance_id: s01_e04_c07_u018
+  tuple: ('get', 'we/(Rachel Green, Monica Geller, Phoebe Buffay)', 'magic beans', 's01_e04_c07_u018')
+
+event_id: s01_e04_c07_u018_e2
+utterance_id: s01_e04_c07_u018
+  tuple: ('get', 'we/(Rachel Green, Monica Geller, Phoebe Buffay)', 'all', 's01_e04_c07_u018')
+  tuple: ('be', 'all', 'beans', 's01_e04_c07_u018')
+

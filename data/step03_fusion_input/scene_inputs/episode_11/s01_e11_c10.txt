@@ -1,0 +1,135 @@
+('do', 'you/Monica Geller', 'what', 's01_e11_c10_u001')
+[s01_e11_c10_u001] Phoebe Buffay: Alright, whadyou do with him?
+
+('do', 'you/Monica Geller', 'with him', 's01_e11_c10_u001')
+[s01_e11_c10_u001] Phoebe Buffay: Alright, whadyou do with him?
+
+('be', 'you/Coma Guy', 'awake', 's01_e11_c10_u003')
+[s01_e11_c10_u003] Monica Geller: Oh! You're awake!
+
+('look', 'you/Coma Guy', 'at you', 's01_e11_c10_u004')
+[s01_e11_c10_u004] Phoebe Buffay: Look at you! How, how do you feel?
+
+('feel', 'you/Coma Guy', None, 's01_e11_c10_u004')
+[s01_e11_c10_u004] Phoebe Buffay: Look at you! How, how do you feel?
+
+('look', 'you/Coma Guy', 'good', 's01_e11_c10_u006')
+[s01_e11_c10_u006] Monica Geller: You look good!
+
+('feel', 'I/Coma Guy', 'good', 's01_e11_c10_u007')
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?
+
+('be', 'you/Monica Geller & Phoebe Buffay', 'who', 's01_e11_c10_u007')
+[s01_e11_c10_u007] Coma Guy: I feel good! ...Who are you?
+
+('be', 'I/Phoebe Buffay', 'Phoebe Buffay', 's01_e11_c10_u009')
+[s01_e11_c10_u009] Phoebe Buffay: I'm Phoebe Buffay.
+
+('be', 'I/Monica Geller', 'Monica Geller', 's01_e11_c10_u010')
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you.
+
+('take care', 'I/Monica Geller', 'of you', 's01_e11_c10_u010')
+[s01_e11_c10_u010] Monica Geller: I'm Monica Geller. I've been taking care of you.
+
+('have', 'we/Monica Geller & Phoebe Buffay', None, 's01_e11_c10_u011')
+[s01_e11_c10_u011] Phoebe Buffay: Well, we both have.
+
+('be', 'the Etch-a-Sketch', 'from you guys', 's01_e11_c10_u012')
+[s01_e11_c10_u012] Coma Guy: So, the Etch-a-Sketch is from you guys?
+
+('be', 'it/the Etch-a-Sketch', 'from me', 's01_e11_c10_u013')
+[s01_e11_c10_u013] Phoebe Buffay: Well, actually it's just from me.
+
+('get', 'I/Monica Geller', 'the foot massager', 's01_e11_c10_u014')
+[s01_e11_c10_u014] Monica Geller: I got you the foot massager.
+
+('know', 'you/Coma Guy', 'who shaved you', 's01_e11_c10_u015')
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me.
+
+('shave', 'who/Phoebe Buffay', 'you', 's01_e11_c10_u015')
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me.
+
+('be', 'that/Phoebe Buffay', 'me', 's01_e11_c10_u015')
+[s01_e11_c10_u015] Phoebe Buffay: You know who shaved you? That was me.
+
+('read', 'I/Monica Geller', 'to you', 's01_e11_c10_u016')
+[s01_e11_c10_u016] Monica Geller: I read to you.
+
+('sing', 'I/Phoebe Buffay', None, 's01_e11_c10_u017')
+[s01_e11_c10_u017] Phoebe Buffay: I sang. Hah!
+
+('be', 'you/Coma Guy', 'welcome', 's01_e11_c10_u020')
+[s01_e11_c10_u020] Phoebe Buffay: You're welcome.
+
+('guess', 'I/Coma Guy', "I'll see you around", 's01_e11_c10_u021')
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+
+('see', 'I/Coma Guy', 'around you', 's01_e11_c10_u021')
+[s01_e11_c10_u021] Coma Guy: So. I guess I'll see you around.
+
+('be', 'that/see you around', 'it', 's01_e11_c10_u022')
+[s01_e11_c10_u022] Phoebe Buffay: What, that's it?
+
+('see', 'I/Monica Geller', 'around you', 's01_e11_c10_u023')
+[s01_e11_c10_u023] Monica Geller: "See you around?"
+
+('want', 'you/Monica Geller & Phoebe Buffay', 'me to say', 's01_e11_c10_u024')
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+
+('say', 'me/Coma Guy', None, 's01_e11_c10_u024')
+[s01_e11_c10_u024] Coma Guy: Well, what do you want me to say?
+
+('know', 'I/Monica Geller', None, 's01_e11_c10_u025')
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+
+('admit', 'you/Coma Guy', 'something', 's01_e11_c10_u025')
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+
+('admit', 'you/Coma Guy', 'to me', 's01_e11_c10_u025')
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+
+('be', 'that/(what happened)', 'nice', 's01_e11_c10_u025')
+[s01_e11_c10_u025] Monica Geller: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+
+('call', 'I/Coma Guy', 'you', 's01_e11_c10_u026')
+[s01_e11_c10_u026] Coma Guy: Alright, I'll call you.
+
+('think', 'I/Phoebe Buffay', 'you mean that', 's01_e11_c10_u027')
+[s01_e11_c10_u027] Phoebe Buffay: I don't think you mean that.
+
+('mean', 'you/Coma Guy', 'that', 's01_e11_c10_u027')
+[s01_e11_c10_u027] Phoebe Buffay: I don't think you mean that.
+
+('be', 'this/situation', 'so typical', 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('know', 'you/Phoebe Buffay', None, 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('give', 'we/Monica Geller & Phoebe Buffay', None, 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('get', 'we/Monica Geller & Phoebe Buffay', 'nothing', 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('wake up', 'you/(generic)', None, 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('go', 'we/Monica Geller & Phoebe Buffay', None, 's01_e11_c10_u028')
+[s01_e11_c10_u028] Monica Geller: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+
+('know', 'you/Coma Guy', 'what', 's01_e11_c10_u029')
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma.
+
+('think', 'we/Monica Geller & Phoebe Buffay', 'you were different', 's01_e11_c10_u029')
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma.
+
+('be', 'you/Coma Guy', 'different', 's01_e11_c10_u029')
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma.
+
+('guess', 'I/Phoebe Buffay', 'it was just the coma', 's01_e11_c10_u029')
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma.
+
+('be', 'it', 'just the coma', 's01_e11_c10_u029')
+[s01_e11_c10_u029] Phoebe Buffay: Y'know what? We thought you were different. But I guess it was just the coma.
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief professional directives (“send him in,” “come in”) and addresses an issue; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Addresses the problem directly and civilly, explaining the issue (“you’ve been post-dating Friday numbers” and how it affects statistics) without hostility."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States he has been reviewing data and identifies misreporting; emphasizes that post-dating throws Weekly Estimated Net Usage Statistics out of whack—showing attention to accuracy and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles the issue calmly and matter-of-factly, giving clear instructions and explanations with no signs of anxiety or emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Focuses on procedures and statistics; no evidence of either inventive curiosity or dogmatic resistance to new ideas."
+  }
+}

@@ -1,0 +1,61 @@
+event_id: s01_e07_c03_u001_e1
+utterance_id: s01_e07_c03_u001
+  tuple: ('be', 'this/(the blackout)', 'so cool', 's01_e07_c03_u001')
+
+event_id: s01_e07_c03_u001_e2
+utterance_id: s01_e07_c03_u001
+  tuple: ('black out', 'The entire city', None, 's01_e07_c03_u001')
+
+event_id: s01_e07_c03_u002_e1
+utterance_id: s01_e07_c03_u002
+  tuple: ('say', 'Mom', "it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on", 's01_e07_c03_u002')
+
+event_id: s01_e07_c03_u002_e2
+utterance_id: s01_e07_c03_u002
+  tuple: ('be', 'it/(the blackout)', 'all of Manhattan, parts of Brooklyn and Queens', 's01_e07_c03_u002')
+
+event_id: s01_e07_c03_u002_e3
+utterance_id: s01_e07_c03_u002
+  tuple: ('have', 'they/(authorities)', "no idea when it's coming back on", 's01_e07_c03_u002')
+
+event_id: s01_e07_c03_u002_e4
+utterance_id: s01_e07_c03_u002
+  tuple: ('come back on', 'it/(power)', None, 's01_e07_c03_u002')
+
+event_id: s01_e07_c03_u003_e1
+utterance_id: s01_e07_c03_u003
+  tuple: ('be', 'this/(the blackout)', 'big', 's01_e07_c03_u003')
+
+event_id: s01_e07_c03_u004_e1
+utterance_id: s01_e07_c03_u004
+  tuple: ('meet', 'I/Monica Geller', 'who', 's01_e07_c03_u004')
+  tuple: ('meet', 'I/Monica Geller', 'in a blackout', 's01_e07_c03_u004')
+
+event_id: s01_e07_c03_u004_e2
+utterance_id: s01_e07_c03_u004
+  tuple: ('talk', 'we/(Monica Geller+Mom)', 'about this', 's01_e07_c03_u004')
+
+event_id: s01_e07_c03_u005_e1
+utterance_id: s01_e07_c03_u005
+  tuple: ('borrow', 'I/Phoebe Buffay', 'the phone', 's01_e07_c03_u005')
+
+event_id: s01_e07_c03_u005_e2
+utterance_id: s01_e07_c03_u005
+  tuple: ('want', 'I/Phoebe Buffay', 'call my apartment and check on my grandma', 's01_e07_c03_u005')
+
+event_id: s01_e07_c03_u005_e3
+utterance_id: s01_e07_c03_u005
+  tuple: ('call', 'I/Phoebe Buffay', 'my apartment', 's01_e07_c03_u005')
+
+event_id: s01_e07_c03_u005_e4
+utterance_id: s01_e07_c03_u005
+  tuple: ('check', 'I/Phoebe Buffay', 'on my grandma', 's01_e07_c03_u005')
+
+event_id: s01_e07_c03_u005_e5
+utterance_id: s01_e07_c03_u005
+  tuple: ('be', 'my number', 'what', 's01_e07_c03_u005')
+
+event_id: s01_e07_c03_u007_e1
+utterance_id: s01_e07_c03_u007
+  tuple: ('call', 'I/Phoebe Buffay', 'me', 's01_e07_c03_u007')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker simply volunteers to get the door and offers a brief greeting; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He politely greets Mr. Heckles and calmly, straightforwardly explains they were just sitting and talking quietly rather than arguing or boasting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Saying “I’ll get the door” shows minor helpfulness, but there’s no clear evidence of organization or efficiency versus carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When accused of making noise, he responds calmly and confidently denies it, showing no nervousness or irritability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflect curiosity, creativity, or rigid dogmatism."
+  }
+}

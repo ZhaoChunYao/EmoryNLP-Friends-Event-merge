@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives short, hesitant replies with stammering ('uh', 'I'm okay...') and is not talkative (u007)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a friendly compliment ('you look great!') and speaks politely, asking 'Are you sure?' (u003, u007)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Seeks reassurance ('Are you sure?') and hesitates/stammers, suggesting nervousness (u003, u007)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity, inventiveness, or dogmatism."
+  }
+}

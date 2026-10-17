@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She eagerly introduces Speaker_02 to each friend (“And Joey… And Ross”), says she wants him to meet her friends, and draws attention to him recognizing “Monopoly,” showing energetic, social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She warmly includes Speaker_02 by introducing him to everyone and explains the cat situation without hostility, indicating friendliness and cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "She found the cat (helpful), but another remarks nobody told them about Speaker_02 and that she keeps touching him, suggesting some distraction; overall mixed evidence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She confidently leads introductions, is affectionate, and shows no signs of nervousness or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She readily embraces a non–English-speaking newcomer she just met through the cat and brings him to meet friends, indicating comfort with novelty and cross-cultural interaction."
+  }
+}

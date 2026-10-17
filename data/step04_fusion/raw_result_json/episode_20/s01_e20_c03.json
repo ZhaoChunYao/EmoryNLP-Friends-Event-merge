@@ -1,0 +1,45 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e20_c03_u003",
+      "events": [
+        {
+          "event_id": "s01_e20_c03_u003_e1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'not crazy', 's01_e20_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e20_c03_u003_e2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'it was never like that', 's01_e20_c03_u003')",
+            "('be', 'it', 'never like that', 's01_e20_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e20_c03_u004_e1",
+          "tuples": [
+            "('be', 'it', None, 's01_e20_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e20_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e20_c03_u005_e1",
+          "tuples": [
+            "('be', 'it', 'so nice having this little sink here', 's01_e20_c03_u005')",
+            "('have', 'I/Rachel Green', 'this little sink here', 's01_e20_c03_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

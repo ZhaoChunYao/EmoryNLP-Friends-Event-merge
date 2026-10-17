@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Shares information about Thanksgiving plans and makes a specific food request; nothing clearly shows being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Acknowledges another was right and collaborates on Thanksgiving dinner, politely requesting mashed potatoes with lumps."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from expressing a preference for mashed potatoes, there is no clear sign of organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Reports others’ plans matter-of-factly without showing anxiety, irritation, or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or inventiveness; a preference for lumpy mashed potatoes does not strongly indicate openness or dogmatism."
+  }
+}

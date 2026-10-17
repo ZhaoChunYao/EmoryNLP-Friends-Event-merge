@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and focuses on action, but there’s not enough evidence of either outgoing talkativeness or clear reserve beyond a short reply."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After being urged to have a heart, TargetSpeaker agrees to help—“I’m going to take a look at Marcel”—and is thanked, showing cooperativeness and compassion."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; only a decision to examine Marcel is shown."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "In a tense exchange, TargetSpeaker calmly decides to help without showing anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Willing to examine an unconventional ‘patient’ (Marcel) in a people’s hospital, showing flexibility and openness to unusual situations."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates social talk by asking how Speaker_03 and Speaker_04's plan went (u008), showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes a positive remark about Speaker_02's coordinated clothes and shows interest in others' plan (u005, u008)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker states they will coordinate their own clothes so they all match like Speaker_02's (u005), indicating planning and organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or emotional instability in the brief remarks."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from routine curiosity about a plan, there is no clear evidence of creativity or rigidity; clothing coordination reflects organization more than openness."
+  }
+}

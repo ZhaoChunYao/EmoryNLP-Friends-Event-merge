@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Interrupts the group with loud exclamations (“Ew, ew, ew...”) and eagerly announces news (“Speaker_07 got a Thighmaster!”), drawing attention and engaging the room."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear cooperative or hostile behavior toward others; the exclamation isn’t clearly aimed at a person."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or reliability in this brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Strong immediate emotional reaction (“Ew, ew, ew...”), showing sensitivity and reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or dogmatism; the reaction doesn’t indicate openness level."
+  }
+}

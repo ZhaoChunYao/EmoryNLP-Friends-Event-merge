@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At the party, the speaker initiates a group photo, tells everyone to smile, and notes everyone is on their camera—active, social, and leading group interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They cooperatively involve others by asking someone to take a picture and encouraging everyone to smile, aiming to include people in a positive moment."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from arranging a quick photo, there is no clear evidence of being especially organized or careless."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "They speak and direct others confidently with no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicates curiosity/inventiveness or caution/dogmatism."
+  }
+}

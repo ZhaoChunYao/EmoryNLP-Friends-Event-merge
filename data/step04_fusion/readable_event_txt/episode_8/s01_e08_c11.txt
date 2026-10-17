@@ -1,0 +1,215 @@
+event_id: s01_e08_c11_u001_e1
+utterance_id: s01_e08_c11_u001
+  tuple: ('worry', 'you/Ross Geller', None, 's01_e08_c11_u001')
+
+event_id: s01_e08_c11_u001_e2
+utterance_id: s01_e08_c11_u001
+  tuple: ('check', 'I/Phoebe Buffay', 'to see if the muscle is in spasm', 's01_e08_c11_u001')
+  tuple: ('see', 'I/Phoebe Buffay', 'if the muscle is in spasm', 's01_e08_c11_u001')
+  tuple: ('be', 'the muscle', 'in spasm', 's01_e08_c11_u001')
+
+event_id: s01_e08_c11_u002_e1
+utterance_id: s01_e08_c11_u002
+  tuple: ('be', 'it/(the problem)', 'what', 's01_e08_c11_u002')
+
+event_id: s01_e08_c11_u003_e1
+utterance_id: s01_e08_c11_u003
+  tuple: ('miss', 'you/Ross Geller', 'a belt loop', 's01_e08_c11_u003')
+
+event_id: s01_e08_c11_u005_e1
+utterance_id: s01_e08_c11_u005
+  tuple: ('be', 'it/(the muscle)', 'in spasm', 's01_e08_c11_u005')
+
+event_id: s01_e08_c11_u006_e1
+utterance_id: s01_e08_c11_u006
+  tuple: ('take', 'I/Judy Geller', 'these', 's01_e08_c11_u006')
+
+event_id: s01_e08_c11_u006_e2
+utterance_id: s01_e08_c11_u006
+  tuple: ('have', 'I/Judy Geller', 'my golfing accident', 's01_e08_c11_u006')
+
+event_id: s01_e08_c11_u009_e1
+utterance_id: s01_e08_c11_u009
+  tuple: ('be', 'I/Andrea', "Dorothy's daughter", 's01_e08_c11_u009')
+
+event_id: s01_e08_c11_u010_e1
+utterance_id: s01_e08_c11_u010
+  tuple: ('be', 'I/Chandler Bing', 'Chandler', 's01_e08_c11_u010')
+
+event_id: s01_e08_c11_u010_e2
+utterance_id: s01_e08_c11_u010
+  tuple: ('have', 'I/Chandler Bing', 'no idea who Dorothy is', 's01_e08_c11_u010')
+  tuple: ('be', 'Dorothy', 'who', 's01_e08_c11_u010')
+
+event_id: s01_e08_c11_u012_e1
+utterance_id: s01_e08_c11_u012
+  tuple: ('look', 'you/Ross Geller', 'who is up', 's01_e08_c11_u012')
+  tuple: ('be', 'who/Ross Geller', 'up', 's01_e08_c11_u012')
+
+event_id: s01_e08_c11_u012_e2
+utterance_id: s01_e08_c11_u012
+  tuple: ('feel', 'you/Ross Geller', None, 's01_e08_c11_u012')
+
+event_id: s01_e08_c11_u013_e1
+utterance_id: s01_e08_c11_u013
+  tuple: ('feel', 'I/Ross Geller', 'great', 's01_e08_c11_u013')
+
+event_id: s01_e08_c11_u014_e1
+utterance_id: s01_e08_c11_u014
+  tuple: ('work', 'those pills', None, 's01_e08_c11_u014')
+
+event_id: s01_e08_c11_u015_e1
+utterance_id: s01_e08_c11_u015
+  tuple: ('love', 'I/Ross Geller', 'you guys', 's01_e08_c11_u015')
+  tuple: ('be', 'you guys', 'the greatest', 's01_e08_c11_u015')
+  tuple: ('love', 'I/Ross Geller', 'my sister', 's01_e08_c11_u015')
+  tuple: ('love', 'I/Ross Geller', 'Pheebs', 's01_e08_c11_u015')
+
+event_id: s01_e08_c11_u016_e1
+utterance_id: s01_e08_c11_u016
+  tuple: ('be', 'that/(Ross\'s declaration)', 'so nice', 's01_e08_c11_u016')
+
+event_id: s01_e08_c11_u019_e1
+utterance_id: s01_e08_c11_u019
+  tuple: ('listen', 'you/Chandler Bing', None, 's01_e08_c11_u019')
+  tuple: ('want', 'you/Chandler Bing', 'to be gay', 's01_e08_c11_u019')
+  tuple: ('be', 'you/Chandler Bing', 'gay', 's01_e08_c11_u019')
+  tuple: ('matter', 'it/(whether you are gay)', 'to me', 's01_e08_c11_u019')
+
+event_id: s01_e08_c11_u020_e1
+utterance_id: s01_e08_c11_u020
+  tuple: ('be', 'you/Chandler Bing', 'right', 's01_e08_c11_u020')
+
+event_id: s01_e08_c11_u021_e1
+utterance_id: s01_e08_c11_u021
+  tuple: ('love', 'I/Ross Geller', 'you/Rachel Green', 's01_e08_c11_u021')
+
+event_id: s01_e08_c11_u022_e1
+utterance_id: s01_e08_c11_u022
+  tuple: ('know', 'you/Ross Geller', 'who I love the most', 's01_e08_c11_u022')
+  tuple: ('love', 'I/Rachel Green', 'who/Ross Geller', 's01_e08_c11_u022')
+
+event_id: s01_e08_c11_u025_e1
+utterance_id: s01_e08_c11_u025
+  tuple: ('get', 'you/Rachel Green', 'it', 's01_e08_c11_u025')
+
+event_id: s01_e08_c11_u027_e1
+utterance_id: s01_e08_c11_u027
+  tuple: ('get', 'you/Joey Tribbiani', 'what', 's01_e08_c11_u027')
+
+event_id: s01_e08_c11_u029_e1
+utterance_id: s01_e08_c11_u029
+  tuple: ('be', 'the score', 'what', 's01_e08_c11_u029')
+
+event_id: s01_e08_c11_u030_e1
+utterance_id: s01_e08_c11_u030
+  tuple: ('go', 'three minutes', 'in the third', 's01_e08_c11_u030')
+
+event_id: s01_e08_c11_u033_e1
+utterance_id: s01_e08_c11_u033
+  tuple: ('hand', 'you/Phoebe Buffay', 'a cracker', 's01_e08_c11_u033')
+
+event_id: s01_e08_c11_u034_e1
+utterance_id: s01_e08_c11_u034
+  tuple: ('hate', 'your grandmother', 'this', 's01_e08_c11_u034')
+
+event_id: s01_e08_c11_u035_e1
+utterance_id: s01_e08_c11_u035
+  tuple: ('be', 'it/(this)', 'her funeral', 's01_e08_c11_u035')
+
+event_id: s01_e08_c11_u036_e1
+utterance_id: s01_e08_c11_u036
+  tuple: ('hear', 'I/Judy Geller', 'about "Why didn\'t I get the honey-glazed ham?"', 's01_e08_c11_u036')
+  tuple: ('get', 'I/Judy Geller', 'the honey-glazed ham', 's01_e08_c11_u036')
+  tuple: ('spend', 'I/Judy Geller', 'enough', 's01_e08_c11_u036')
+  tuple: ('spend', 'I/Judy Geller', 'on flowers', 's01_e08_c11_u036')
+  tuple: ('spend', 'I/Judy Geller', 'more', 's01_e08_c11_u036')
+  tuple: ('say', 'she/Nana', '"Why are you wasting your money? I don\'t need flowers, I\'m dead"', 's01_e08_c11_u036')
+  tuple: ('waste', 'you/Judy Geller', 'your money', 's01_e08_c11_u036')
+  tuple: ('need', 'I/Nana', 'flowers', 's01_e08_c11_u036')
+  tuple: ('be', 'I/Nana', 'dead', 's01_e08_c11_u036')
+
+event_id: s01_e08_c11_u037_e1
+utterance_id: s01_e08_c11_u037
+  tuple: ('sound', 'that/(complaints)', 'like Nana', 's01_e08_c11_u037')
+
+event_id: s01_e08_c11_u038_e1
+utterance_id: s01_e08_c11_u038
+  tuple: ('know', 'you/Monica Geller', "what it's like to grow up with someone who is critical of every single thing you say", 's01_e08_c11_u038')
+  tuple: ('be', 'it/(what it is like)', 'like to grow up with someone who is critical of every single thing you say', 's01_e08_c11_u038')
+  tuple: ('grow up', 'you/Monica Geller', 'with someone', 's01_e08_c11_u038')
+  tuple: ('be', 'who/(someone)', 'critical of every single thing you say', 's01_e08_c11_u038')
+  tuple: ('say', 'you/Monica Geller', 'every single thing', 's01_e08_c11_u038')
+
+event_id: s01_e08_c11_u039_e1
+utterance_id: s01_e08_c11_u039
+  tuple: ('imagine', 'I/Monica Geller', None, 's01_e08_c11_u039')
+
+event_id: s01_e08_c11_u040_e1
+utterance_id: s01_e08_c11_u040
+  tuple: ('tell', 'I/Judy Geller', 'you/Monica Geller', 's01_e08_c11_u040')
+  tuple: ('be', 'it/(a wonder)', 'a wonder your mother turned out to be the positive, life-affirming person that she is', 's01_e08_c11_u040')
+  tuple: ('turn out', 'your mother', 'to be the positive, life-affirming person that she is', 's01_e08_c11_u040')
+  tuple: ('be', 'your mother', 'the positive, life-affirming person', 's01_e08_c11_u040')
+  tuple: ('be', 'she/Nana', None, 's01_e08_c11_u040')
+
+event_id: s01_e08_c11_u041_e1
+utterance_id: s01_e08_c11_u041
+  tuple: ('be', 'that/(statement)', 'a wonder', 's01_e08_c11_u041')
+
+event_id: s01_e08_c11_u041_e2
+utterance_id: s01_e08_c11_u041
+  tuple: ('tell', 'you/Judy Geller', 'me something', 's01_e08_c11_u041')
+  tuple: ('do', 'you/Judy Geller', 'it all over again', 's01_e08_c11_u041')
+  tuple: ('be', 'she/Nana', 'here right now', 's01_e08_c11_u041')
+  tuple: ('tell', 'you/Judy Geller', 'her/Nana', 's01_e08_c11_u041')
+
+event_id: s01_e08_c11_u043_e1
+utterance_id: s01_e08_c11_u043
+  tuple: ('drive', 'she/Nana', 'you/Monica Geller', 's01_e08_c11_u043')
+  tuple: ('pick', 'she/Nana', 'on every little detail', 's01_e08_c11_u043')
+
+event_id: s01_e08_c11_u044_e1
+utterance_id: s01_e08_c11_u044
+  tuple: ('be', 'I/Judy Geller', 'not sure', 's01_e08_c11_u044')
+  tuple: ('know', 'I/Judy Geller', 'what you are getting at', 's01_e08_c11_u044')
+  tuple: ('get', 'you/Monica Geller', 'at what', 's01_e08_c11_u044')
+
+event_id: s01_e08_c11_u045_e1
+utterance_id: s01_e08_c11_u045
+  tuple: ('think', 'you/Monica Geller', "things would have been better if you'd just told her the truth", 's01_e08_c11_u045')
+  tuple: ('be', 'things', 'better', 's01_e08_c11_u045')
+  tuple: ('tell', 'you/Judy Geller', 'the truth', 's01_e08_c11_u045')
+
+event_id: s01_e08_c11_u046_e1
+utterance_id: s01_e08_c11_u046
+  tuple: ('think', 'I/Judy Geller', 'some things are better left unsaid', 's01_e08_c11_u046')
+  tuple: ('be', 'some things', 'better left unsaid', 's01_e08_c11_u046')
+
+event_id: s01_e08_c11_u046_e2
+utterance_id: s01_e08_c11_u046
+  tuple: ('think', 'I/Judy Geller', 'it is nicer when people just get along', 's01_e08_c11_u046')
+  tuple: ('be', 'it/(dummy)', 'nicer when people just get along', 's01_e08_c11_u046')
+  tuple: ('get along', 'people', None, 's01_e08_c11_u046')
+
+event_id: s01_e08_c11_u049_e1
+utterance_id: s01_e08_c11_u049
+  tuple: ('think', 'I/Monica Geller', 'so', 's01_e08_c11_u049')
+
+event_id: s01_e08_c11_u050_e1
+utterance_id: s01_e08_c11_u050
+  tuple: ('look', 'those earrings', 'really lovely', 's01_e08_c11_u050')
+  tuple: ('look', 'those earrings', 'on you', 's01_e08_c11_u050')
+
+event_id: s01_e08_c11_u051_e1
+utterance_id: s01_e08_c11_u051
+  tuple: ('be', 'they/(those earrings)', 'yours', 's01_e08_c11_u051')
+
+event_id: s01_e08_c11_u052_e1
+utterance_id: s01_e08_c11_u052
+  tuple: ('be', 'they/(those earrings)', "Nana's", 's01_e08_c11_u052')
+
+event_id: s01_e08_c11_u054_e1
+utterance_id: s01_e08_c11_u054
+  tuple: ('be', 'I/Ross Geller', 'depressed', 's01_e08_c11_u054')
+

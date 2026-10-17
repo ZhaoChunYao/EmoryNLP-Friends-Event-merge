@@ -1,0 +1,17 @@
+event_id: s01_e01_c03_u001_e1
+utterance_id: s01_e01_c03_u001
+  tuple: ('be', 'Love', 'sweet as summer showers', 's01_e01_c03_u001')
+
+event_id: s01_e01_c03_u001_e2
+utterance_id: s01_e01_c03_u001
+  tuple: ('be', 'love', 'a wondrous work of art', 's01_e01_c03_u001')
+
+event_id: s01_e01_c03_u001_e3
+utterance_id: s01_e01_c03_u001
+  tuple: ('be', 'your love', 'like a giant pigeon crapping on my heart', 's01_e01_c03_u001')
+  tuple: ('crap', 'a giant pigeon', 'on my heart', 's01_e01_c03_u001')
+
+event_id: s01_e01_c03_u001_e4
+utterance_id: s01_e01_c03_u001
+  tuple: ('thank', 'I/Phoebe Buffay', 'you', 's01_e01_c03_u001')
+

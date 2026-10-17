@@ -1,0 +1,66 @@
+event_id: s01_e16_c03_u001_e1
+utterance_id: s01_e16_c03_u001
+  tuple: ('be', 'we/(J.C. and Michael)', 'the Rostins', 's01_e16_c03_u001')
+  tuple: ('be', 'I/(J.C.)', 'J.C.', 's01_e16_c03_u001')
+  tuple: ('be', 'he/(Michael)', 'Michael', 's01_e16_c03_u001')
+
+event_id: s01_e16_c03_u001_e2
+utterance_id: s01_e16_c03_u001
+  tuple: ('have', 'we/(J.C. and Michael)', 'a boy', 's01_e16_c03_u001')
+  tuple: ('have', 'we/(J.C. and Michael)', 'a girl', 's01_e16_c03_u001')
+
+event_id: s01_e16_c03_u003_e1
+utterance_id: s01_e16_c03_u003
+  tuple: ('be', 'I/(Ross Geller)', 'Ross Geller', 's01_e16_c03_u003')
+
+event_id: s01_e16_c03_u003_e2
+utterance_id: s01_e16_c03_u003
+  tuple: ('be', 'that/(ultrasound image)', 'my boy', 's01_e16_c03_u003')
+  tuple: ('be', 'my boy', 'in there', 's01_e16_c03_u003')
+
+event_id: s01_e16_c03_u003_e3
+utterance_id: s01_e16_c03_u003
+  tuple: ('be', 'this/(Carol Willick)', 'Carol Willick', 's01_e16_c03_u003')
+
+event_id: s01_e16_c03_u003_e4
+utterance_id: s01_e16_c03_u003
+  tuple: ('be', 'this/(Susan Bunch)', 'Susan Bunch', 's01_e16_c03_u003')
+  tuple: ('be', 'Susan', None, 's01_e16_c03_u003')
+
+event_id: s01_e16_c03_u004_e1
+utterance_id: s01_e16_c03_u004
+  tuple: ('be', 'I/(Teacher)', 'sorry', 's01_e16_c03_u004')
+
+event_id: s01_e16_c03_u004_e2
+utterance_id: s01_e16_c03_u004
+  tuple: ('get', 'I/(Teacher)', None, 's01_e16_c03_u004')
+
+event_id: s01_e16_c03_u005_e1
+utterance_id: s01_e16_c03_u005
+  tuple: ('be', 'Susan', 'Carols friend', 's01_e16_c03_u005')
+
+event_id: s01_e16_c03_u009_e1
+utterance_id: s01_e16_c03_u009
+  tuple: ('know', 'you/(general)', 'how close women can get', 's01_e16_c03_u009')
+  tuple: ('get', 'women', 'close', 's01_e16_c03_u009')
+
+event_id: s01_e16_c03_u011_e1
+utterance_id: s01_e16_c03_u011
+  tuple: ('live', 'Susan and I/(Carol Willick)', 'together', 's01_e16_c03_u011')
+
+event_id: s01_e16_c03_u012_e1
+utterance_id: s01_e16_c03_u012
+  tuple: ('marry', 'I/(Ross Geller)', 'to her', 's01_e16_c03_u012')
+
+event_id: s01_e16_c03_u015_e1
+utterance_id: s01_e16_c03_u015
+  tuple: ('be', 'it/(their situation)', 'a little complicated', 's01_e16_c03_u015')
+
+event_id: s01_e16_c03_u017_e1
+utterance_id: s01_e16_c03_u017
+  tuple: ('be', 'we/(Ross Geller, Carol Willick, Susan Bunch)', 'fine', 's01_e16_c03_u017')
+
+event_id: s01_e16_c03_u018_e1
+utterance_id: s01_e16_c03_u018
+  tuple: ('be', 'that/(twins)', 'like two births', 's01_e16_c03_u018')
+

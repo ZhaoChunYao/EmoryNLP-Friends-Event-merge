@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She loudly and repeatedly voices her feelings to the group during class (u006, u008, u010), showing talkative, outward expressiveness rather than being reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She rebuffs reassurance with a sharp, sarcastic remark about pushing a pot roast through a nostril (u010), showing confrontational, less cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about organization or reliability; her statements reflect emotion, not task management."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She panics about childbirth—calling it impossible and insisting the baby must stay inside (u006, u008)—and needs calming breaths (u011), indicating high anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "She rejects the experience outright (“I’m not going to do what she did… the baby is going to have to stay inside” u008), showing resistance to an inevitable new experience."
+  }
+}

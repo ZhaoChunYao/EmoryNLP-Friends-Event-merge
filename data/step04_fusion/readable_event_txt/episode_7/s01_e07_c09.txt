@@ -1,0 +1,28 @@
+event_id: s01_e07_c09_u001_e1
+utterance_id: s01_e07_c09_u001
+  tuple: ('like', 'you/Chandler Bing', 'some gum', 's01_e07_c09_u001')
+
+event_id: s01_e07_c09_u002_e1
+utterance_id: s01_e07_c09_u002
+  tuple: ('be', 'it/gum', 'sugarless', 's01_e07_c09_u002')
+
+event_id: s01_e07_c09_u003_e1
+utterance_id: s01_e07_c09_u003
+  tuple: ('be', 'it/gum', 'not', 's01_e07_c09_u003')
+
+event_id: s01_e07_c09_u004_e1
+utterance_id: s01_e07_c09_u004
+  tuple: ('be', "that/Chandler Bing's refusal", 'what the hell', 's01_e07_c09_u004')
+
+event_id: s01_e07_c09_u004_e2
+utterance_id: s01_e07_c09_u004
+  tuple: ('offer', 'Jill Goodacre', 'gum to you/Chandler Bing', 's01_e07_c09_u004')
+
+event_id: s01_e07_c09_u004_e3
+utterance_id: s01_e07_c09_u004
+  tuple: ('take', 'you/Chandler Bing', 'it', 's01_e07_c09_u004')
+
+event_id: s01_e07_c09_u004_e4
+utterance_id: s01_e07_c09_u004
+  tuple: ('offer', 'she/Jill Goodacre', 'mangled animal carcass to you/Chandler Bing', 's01_e07_c09_u004')
+

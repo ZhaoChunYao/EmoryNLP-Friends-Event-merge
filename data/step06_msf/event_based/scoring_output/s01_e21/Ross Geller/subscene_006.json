@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He speaks at length to the group about the Scranton zoo, insisting they see his point, showing outspoken, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He takes out frustration on a chair and declares 'nobody wants Speaker_01,' which is harsh and unkind."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "He refers to the Scranton zoo as their 'safety' choice, indicating prior planning and organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He is stressed and frustrated about the rejection—others note the chair is taking the brunt of it—and he dwells on how hard it is on him."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity, inventiveness, or rigidity beyond the complaint about the zoo."
+  }
+}

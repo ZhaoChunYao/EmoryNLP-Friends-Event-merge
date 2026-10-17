@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She proactively probes Speaker_01’s behavior and relationship, asks a very personal question about shaving legs, and reacts with an emphatic 'A‑ha!', showing bold, outgoing engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "She is straightforward and says she is clarifying her point, but her probing ('why are you acting this way?', 'first night?') is intrusive and somewhat accusatory, mixing directness with low warmth."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "She references timing ('since midterms') and builds an inference, but there is no clear evidence of organized or careful task behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She questions assertively and responds with confidence ('A‑ha!'), showing no signs of nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Her curious, investigative questioning about what is happening indicates openness and inquisitiveness."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She confronts loudly and immediately (“Mindy?! My maid of honour, Mindy?!”) and jumps in with pointed comments (hair plugs, contacts)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She is mocking/critical toward Speaker_01 (comments about hair plugs and contact lenses) rather than warm or cooperative."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She responsibly returns the ring (“I think the ring belongs to you”), which Speaker_01 confirms she gave back."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays strong emotional reactivity and disbelief to the betrayal (exclamations like “Mindy?! …” and confused “What?”)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear sign of curiosity or open-minded exploration; she mostly reacts to events."
+  }
+}

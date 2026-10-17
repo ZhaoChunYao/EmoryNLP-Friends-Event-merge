@@ -1,0 +1,39 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e01_c09_u001_e1",
+          "tuples": [
+            "('gather', 'We/(Priest On Tv and attendees)', 'to join Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola in the bound of holy matrimony', 's01_e01_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c09_u001_e2",
+          "tuples": [
+            "('join', 'We/(Priest On Tv and attendees)', 'Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola', 's01_e01_c09_u001')",
+            "('join', 'We/(Priest On Tv and attendees)', 'in the bound of holy matrimony', 's01_e01_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e01_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e01_c09_u002_e1",
+          "tuples": [
+            "('love', 'Joanne', 'Chachi', 's01_e01_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c09_u002_e2",
+          "tuples": [
+            "('be', 'That/(Joanne loved Chachi)', 'the difference', 's01_e01_c09_u002')"
+          ]
+        }
+      ]
+    }
+  ]
+}

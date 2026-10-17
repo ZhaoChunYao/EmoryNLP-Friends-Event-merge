@@ -1,0 +1,83 @@
+event_id: s01_e05_c04_u001_e1
+utterance_id: s01_e05_c04_u001
+  tuple: ('come', 'Monica', None, 's01_e05_c04_u001')
+  tuple: ('be', 'it/laundry', 'me and Rachel', 's01_e05_c04_u001')
+
+event_id: s01_e05_c04_u002_e1
+utterance_id: s01_e05_c04_u002
+  tuple: ('hold', 'you/Ross Geller', 'on', 's01_e05_c04_u002')
+
+event_id: s01_e05_c04_u002_e2
+utterance_id: s01_e05_c04_u002
+  tuple: ('be', 'you/Ross Geller', 'sure', 's01_e05_c04_u002')
+
+event_id: s01_e05_c04_u002_e3
+utterance_id: s01_e05_c04_u002
+  tuple: ('think', 'you/Ross Geller', 'through this thing', 's01_e05_c04_u002')
+
+event_id: s01_e05_c04_u003_e1
+utterance_id: s01_e05_c04_u003
+  tuple: ('be', 'it/plan', 'laundry', 's01_e05_c04_u003')
+
+event_id: s01_e05_c04_u003_e2
+utterance_id: s01_e05_c04_u003
+  tuple: ('be', 'The thinking through', 'minimal', 's01_e05_c04_u003')
+
+event_id: s01_e05_c04_u004_e1
+utterance_id: s01_e05_c04_u004
+  tuple: ('be', 'it/plan', 'you and Rachel', 's01_e05_c04_u004')
+  tuple: ('be', 'This/situation', 'a date', 's01_e05_c04_u004')
+  tuple: ('go', 'you/Ross Geller', 'on a date', 's01_e05_c04_u004')
+
+event_id: s01_e05_c04_u007_e1
+utterance_id: s01_e05_c04_u007
+  tuple: ('say', 'you/Chandler Bing', 'what', 's01_e05_c04_u007')
+
+event_id: s01_e05_c04_u007_e2
+utterance_id: s01_e05_c04_u007
+  tuple: ('shave', 'I/Ross Geller', None, 's01_e05_c04_u007')
+
+event_id: s01_e05_c04_u007_e3
+utterance_id: s01_e05_c04_u007
+  tuple: ('pick up', 'I/Ross Geller', 'some wine', 's01_e05_c04_u007')
+
+event_id: s01_e05_c04_u008_e1
+utterance_id: s01_e05_c04_u008
+  tuple: ('want', 'you/Ross Geller', 'to rethink the dirty underwear', 's01_e05_c04_u008')
+  tuple: ('rethink', 'you/Ross Geller', 'the dirty underwear', 's01_e05_c04_u008')
+
+event_id: s01_e05_c04_u008_e2
+utterance_id: s01_e05_c04_u008
+  tuple: ('be', 'This/situation', "the first time she's gonna see your underwear", 's01_e05_c04_u008')
+  tuple: ('see', 'she/Rachel', 'your underwear', 's01_e05_c04_u008')
+
+event_id: s01_e05_c04_u008_e3
+utterance_id: s01_e05_c04_u008
+  tuple: ('want', 'you/Ross Geller', 'it to be dirty', 's01_e05_c04_u008')
+  tuple: ('be', 'it/underwear', 'dirty', 's01_e05_c04_u008')
+
+event_id: s01_e05_c04_u011_e1
+utterance_id: s01_e05_c04_u011
+  tuple: ('be', 'what', 'wrong with my Snuggles', 's01_e05_c04_u011')
+
+event_id: s01_e05_c04_u011_e2
+utterance_id: s01_e05_c04_u011
+  tuple: ('say', 'it/Snuggles', "I'm a sensitive, warm kinda guy", 's01_e05_c04_u011')
+
+event_id: s01_e05_c04_u011_e3
+utterance_id: s01_e05_c04_u011
+  tuple: ('be', 'I/Ross Geller', 'a sensitive, warm kinda guy', 's01_e05_c04_u011')
+
+event_id: s01_e05_c04_u011_e4
+utterance_id: s01_e05_c04_u011
+  tuple: ('know', 'you/Chandler Bing', None, 's01_e05_c04_u011')
+
+event_id: s01_e05_c04_u011_e5
+utterance_id: s01_e05_c04_u011
+  tuple: ('pick up', 'I/Ross Geller', 'something else', 's01_e05_c04_u011')
+  tuple: ('pick up', 'I/Ross Geller', 'on the way', 's01_e05_c04_u011')
+
+event_id: s01_e05_c04_u012_e1
+utterance_id: s01_e05_c04_u012
+  tuple: ('go', 'you/Ross Geller', 'there', 's01_e05_c04_u012')
+

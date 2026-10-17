@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "At a social gathering, TargetSpeaker openly volunteers a very personal story (leaving someone at the altar) and actively engages guests by telling them to try the hummus."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker reports leaving Speaker_03 at the altar and calls it \"pretty selfish\" and \"typical\" of them—showing inconsiderate, unreliable behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Abandoning a wedding commitment at the altar indicates careless, unreliable follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The disclosure is delivered matter-of-factly; there are no signs of anxiety, nervousness, or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, creativity, or openness to new ideas are expressed in the exchange."
+  }
+}

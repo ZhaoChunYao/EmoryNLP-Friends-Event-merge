@@ -1,0 +1,130 @@
+event_id: s01_e03_c09_u004_e1
+utterance_id: s01_e03_c09_u004
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e03_c09_u004')
+
+event_id: s01_e03_c09_u004_e2
+utterance_id: s01_e03_c09_u004
+  tuple: ('open', 'I/Phoebe Buffay', 'it up', 's01_e03_c09_u004')
+  tuple: ('be', 'it/(thumb)', None, 's01_e03_c09_u004')
+  tuple: ('float', 'it/(thumb)', 'in there', 's01_e03_c09_u004')
+
+event_id: s01_e03_c09_u005_e1
+utterance_id: s01_e03_c09_u005
+  tuple: ('be', 'it', 'a contest', 's01_e03_c09_u005')
+
+event_id: s01_e03_c09_u005_e2
+utterance_id: s01_e03_c09_u005
+  tuple: ('know', 'you/ALL', None, 's01_e03_c09_u005')
+
+event_id: s01_e03_c09_u005_e3
+utterance_id: s01_e03_c09_u005
+  tuple: ('collect', 'you/ALL', 'all five', 's01_e03_c09_u005')
+
+event_id: s01_e03_c09_u006_e1
+utterance_id: s01_e03_c09_u006
+  tuple: ('want', 'anyone', 'to see', 's01_e03_c09_u006')
+
+event_id: s01_e03_c09_u009_e1
+utterance_id: s01_e03_c09_u009
+  tuple: ('do', 'you/Phoebe Buffay', 'that', 's01_e03_c09_u009')
+
+event_id: s01_e03_c09_u009_e2
+utterance_id: s01_e03_c09_u009
+  tuple: ('cut', 'you/Phoebe Buffay', 'it out', 's01_e03_c09_u009')
+
+event_id: s01_e03_c09_u010_e1
+utterance_id: s01_e03_c09_u010
+  tuple: ('be', 'it', 'worse than the thumb', 's01_e03_c09_u010')
+
+event_id: s01_e03_c09_u011_e1
+utterance_id: s01_e03_c09_u011
+  tuple: ('be', 'this', 'so unfair', 's01_e03_c09_u011')
+
+event_id: s01_e03_c09_u012_e1
+utterance_id: s01_e03_c09_u012
+  tuple: ('be', 'it', 'unfair', 's01_e03_c09_u012')
+
+event_id: s01_e03_c09_u013_e1
+utterance_id: s01_e03_c09_u013
+  tuple: ('have', 'I/Chandler Bing', 'a flaw', 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e2
+utterance_id: s01_e03_c09_u013
+  tuple: ('be', "Joey's constant knuckle-cracking", 'not annoying', 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e3
+utterance_id: s01_e03_c09_u013
+  tuple: ('over-pronounce', 'Ross Geller', 'every single word', 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e4
+utterance_id: s01_e03_c09_u013
+  tuple: ('laugh', 'she/Monica Geller', None, 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e5
+utterance_id: s01_e03_c09_u013
+  tuple: ('be', 'that thing', None, 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e6
+utterance_id: s01_e03_c09_u013
+  tuple: ('accept', 'I/Chandler Bing', 'all those flaws', 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u013_e7
+utterance_id: s01_e03_c09_u013
+  tuple: ('accept', 'you/ALL', 'me', 's01_e03_c09_u013')
+  tuple: ('accept', 'you/ALL', 'for this', 's01_e03_c09_u013')
+
+event_id: s01_e03_c09_u015_e1
+utterance_id: s01_e03_c09_u015
+  tuple: ('bother', 'the knuckle-cracking', 'everybody', 's01_e03_c09_u015')
+
+event_id: s01_e03_c09_u016_e1
+utterance_id: s01_e03_c09_u016
+  tuple: ('live', 'I/Rachel Green', 'without it', 's01_e03_c09_u016')
+
+event_id: s01_e03_c09_u017_e1
+utterance_id: s01_e03_c09_u017
+  tuple: ('be', 'it/(knuckle-cracking)', 'a little annoying', 's01_e03_c09_u017')
+  tuple: ('be', 'it/(knuckle-cracking)', 'like when Phoebe chews her hair', 's01_e03_c09_u017')
+
+event_id: s01_e03_c09_u017_e2
+utterance_id: s01_e03_c09_u017
+  tuple: ('chew', 'Phoebe Buffay', 'her hair', 's01_e03_c09_u017')
+
+event_id: s01_e03_c09_u019_e1
+utterance_id: s01_e03_c09_u019
+  tuple: ('listen', 'you/Phoebe Buffay', 'to him', 's01_e03_c09_u019')
+
+event_id: s01_e03_c09_u019_e2
+utterance_id: s01_e03_c09_u019
+  tuple: ('think', 'I/Ross Geller', "it's endearing", 's01_e03_c09_u019')
+  tuple: ('be', 'it/(knuckle-cracking)', 'endearing', 's01_e03_c09_u019')
+
+event_id: s01_e03_c09_u020_e1
+utterance_id: s01_e03_c09_u020
+  tuple: ('do', 'you/Ross Geller', None, 's01_e03_c09_u020')
+
+event_id: s01_e03_c09_u022_e1
+utterance_id: s01_e03_c09_u022
+  tuple: ('be', 'there', 'nothing wrong', 's01_e03_c09_u022')
+
+event_id: s01_e03_c09_u023_e1
+utterance_id: s01_e03_c09_u023
+  tuple: ('be', 'there', None, 's01_e03_c09_u023')
+
+event_id: s01_e03_c09_u023_e2
+utterance_id: s01_e03_c09_u023
+  tuple: ('get', 'I/Rachel Green', 'back to work', 's01_e03_c09_u023')
+
+event_id: s01_e03_c09_u024_e1
+utterance_id: s01_e03_c09_u024
+  tuple: ('get', 'someone', 'what they actually ordered', 's01_e03_c09_u024')
+  tuple: ('order', 'they/someone', 'what', 's01_e03_c09_u024')
+
+event_id: s01_e03_c09_u025_e1
+utterance_id: s01_e03_c09_u025
+  tuple: ('come', 'the hair', 'out', 's01_e03_c09_u025')
+
+event_id: s01_e03_c09_u025_e2
+utterance_id: s01_e03_c09_u025
+  tuple: ('come', 'the gloves', 'on', 's01_e03_c09_u025')
+

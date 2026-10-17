@@ -1,0 +1,87 @@
+('tell', 'I/(Joey Tribbiani)', 'you', 's01_e05_c03_u001')
+[s01_e05_c03_u001] Joey Tribbiani: Monica, I'm tellin' you, this guy is perfect for you.
+
+('tell', 'I/(Joey Tribbiani)', 'this guy is perfect for you', 's01_e05_c03_u001')
+[s01_e05_c03_u001] Joey Tribbiani: Monica, I'm tellin' you, this guy is perfect for you.
+
+('be', 'this guy', 'perfect', 's01_e05_c03_u001')
+[s01_e05_c03_u001] Joey Tribbiani: Monica, I'm tellin' you, this guy is perfect for you.
+
+('be perfect', 'this guy', 'for you', 's01_e05_c03_u001')
+[s01_e05_c03_u001] Joey Tribbiani: Monica, I'm tellin' you, this guy is perfect for you.
+
+('forget', 'you/(Joey Tribbiani)', 'it', 's01_e05_c03_u002')
+[s01_e05_c03_u002] Monica Geller: Forget it. Not after your cousin who could belch the alphabet.
+
+('belch', 'your cousin', 'the alphabet', 's01_e05_c03_u002')
+[s01_e05_c03_u002] Monica Geller: Forget it. Not after your cousin who could belch the alphabet.
+
+('come on', 'you/(Monica Geller)', None, 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'this guy', 'great', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'his name', 'Bob', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'he/(Bob)', "Angela's brother", 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'he/(Bob)', 'smart', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'he/(Bob)', 'sophisticated', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('have', 'he/(Bob)', 'a real job', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('go on', 'I/(Joey Tribbiani)', 'three auditions', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('call', 'I/(Joey Tribbiani)', 'myself an actor', 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('be', 'Bob', None, 's01_e05_c03_u003')
+[s01_e05_c03_u003] Joey Tribbiani: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+
+('help', 'god', 'us', 's01_e05_c03_u004')
+[s01_e05_c03_u004] Monica Geller: Oh, god help us.
+
+('lay', 'Ugly Naked Guy', 'kitchen tile', 's01_e05_c03_u006')
+[s01_e05_c03_u006] Monica Geller: Ugly Naked Guy's laying kitchen tile. Eww!
+
+('look', 'you/(Monica Geller)', None, 's01_e05_c03_u007')
+[s01_e05_c03_u007] Joey Tribbiani: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+
+('ask', 'I/(Joey Tribbiani)', 'a favor', 's01_e05_c03_u007')
+[s01_e05_c03_u007] Joey Tribbiani: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+
+('do', 'I/(Joey Tribbiani)', 'this', 's01_e05_c03_u007')
+[s01_e05_c03_u007] Joey Tribbiani: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+
+('do', 'I/(Joey Tribbiani)', 'for her brother', 's01_e05_c03_u007')
+[s01_e05_c03_u007] Joey Tribbiani: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+
+('come back', 'Angela', 'to me', 's01_e05_c03_u007')
+[s01_e05_c03_u007] Joey Tribbiani: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+
+('go on', 'what', 'here', 's01_e05_c03_u008')
+[s01_e05_c03_u008] Monica Geller: What's going on here? You go out with tons of girls.
+
+('go out', 'you/(Monica Geller)', 'with tons of girls', 's01_e05_c03_u008')
+[s01_e05_c03_u008] Monica Geller: What's going on here? You go out with tons of girls.
+
+('know', 'I/(Joey Tribbiani)', None, 's01_e05_c03_u009')
+[s01_e05_c03_u009] Joey Tribbiani: I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?
+
+('make', 'I/(Joey Tribbiani)', 'a huge mistake', 's01_e05_c03_u009')
+[s01_e05_c03_u009] Joey Tribbiani: I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?
+
+('break up', 'I/(Joey Tribbiani)', 'with her', 's01_e05_c03_u009')
+[s01_e05_c03_u009] Joey Tribbiani: I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?
+
+('help', 'you/(Monica Geller)', 'me', 's01_e05_c03_u009')
+[s01_e05_c03_u009] Joey Tribbiani: I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?
+

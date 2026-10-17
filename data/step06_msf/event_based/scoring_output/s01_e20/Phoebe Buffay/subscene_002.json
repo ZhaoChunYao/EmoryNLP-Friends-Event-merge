@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes brief, matter-of-fact comments—pointing out the lack of a message (u010) and noting two people are talking (u014)—without outgoing or energetic engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The remarks are neutral and factual (u010, u014), neither especially warm/helpful nor hostile or boastful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to planning, organization, or diligence is shown; only simple observations (u010, u014)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or emotional volatility; statements are calm and factual (u010, u014)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No curiosity, imaginative ideas, or openness to new perspectives; only straightforward reporting of what is happening (u010, u014)."
+  }
+}

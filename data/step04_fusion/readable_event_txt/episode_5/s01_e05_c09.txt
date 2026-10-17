@@ -1,0 +1,36 @@
+event_id: s01_e05_c09_u003_e1
+utterance_id: s01_e05_c09_u003
+  tuple: ('be', 'you/Bob', 'a lucky man', 's01_e05_c09_u003')
+
+event_id: s01_e05_c09_u003_e2
+utterance_id: s01_e05_c09_u003
+  tuple: ('know', 'you/Bob', 'what I miss the most about her', 's01_e05_c09_u003')
+
+event_id: s01_e05_c09_u003_e3
+utterance_id: s01_e05_c09_u003
+  tuple: ('miss', 'I/Joey Tribbiani', 'about her', 's01_e05_c09_u003')
+
+event_id: s01_e05_c09_u003_e4
+utterance_id: s01_e05_c09_u003
+  tuple: ('eat', 'she/Angela', None, 's01_e05_c09_u003')
+
+event_id: s01_e05_c09_u004_e1
+utterance_id: s01_e05_c09_u004
+  tuple: ('notice', 'I/Bob', None, 's01_e05_c09_u004')
+
+event_id: s01_e05_c09_u005_e1
+utterance_id: s01_e05_c09_u005
+  tuple: ('listen', 'you/Bob', 'for it', 's01_e05_c09_u005')
+
+event_id: s01_e05_c09_u006_e1
+utterance_id: s01_e05_c09_u006
+  tuple: ('be', 'Monica', 'great', 's01_e05_c09_u006')
+
+event_id: s01_e05_c09_u007_e1
+utterance_id: s01_e05_c09_u007
+  tuple: ('last', 'it/(Bob–Monica relationship)', None, 's01_e05_c09_u007')
+
+event_id: s01_e05_c09_u007_e2
+utterance_id: s01_e05_c09_u007
+  tuple: ('be', 'She/Monica', 'too much for me in bed', 's01_e05_c09_u007')
+

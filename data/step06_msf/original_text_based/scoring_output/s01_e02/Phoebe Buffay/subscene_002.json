@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, minimal responses (“Yeah, it’s beautiful.”) and one directive; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Offers a light remark and then a firm instruction (“No, look, don’t touch that!”); behavior isn’t clearly cooperative/warm or hostile/unreliable."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Steps in with a clear, cautionary directive during the search (“No, look, don’t touch that!”), indicating attentiveness and care to handle things properly."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Remains calm and matter‑of‑fact while another speaker is panicking; no signs of nervousness or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imaginative suggestions, or unconventional thinking in the exchange."
+  }
+}

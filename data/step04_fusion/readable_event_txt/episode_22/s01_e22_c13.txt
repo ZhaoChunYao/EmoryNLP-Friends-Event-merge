@@ -1,0 +1,78 @@
+event_id: s01_e22_c13_u001_e1
+utterance_id: s01_e22_c13_u001
+  tuple: ('go', 'we/Ross Geller and friends', None, 's01_e22_c13_u001')
+  tuple: ('come', 'people', None, 's01_e22_c13_u001')
+
+event_id: s01_e22_c13_u003_e1
+utterance_id: s01_e22_c13_u003
+  tuple: ('look', 'you/Ross Geller', "what I've got going here", 's01_e22_c13_u003')
+
+event_id: s01_e22_c13_u003_e2
+utterance_id: s01_e22_c13_u003
+  tuple: ('get', 'I/Chandler Bing', 'what', 's01_e22_c13_u003')
+  tuple: ('go', 'what', None, 's01_e22_c13_u003')
+
+event_id: s01_e22_c13_u004_e1
+utterance_id: s01_e22_c13_u004
+  tuple: ('save', 'you/Chandler Bing', 'it', 's01_e22_c13_u004')
+  tuple: ('save', 'you/Chandler Bing', 'for the cab', 's01_e22_c13_u004')
+
+event_id: s01_e22_c13_u006_e1
+utterance_id: s01_e22_c13_u006
+  tuple: ('do', 'you/Rachel Green', 'what', 's01_e22_c13_u006')
+
+event_id: s01_e22_c13_u006_e2
+utterance_id: s01_e22_c13_u006
+  tuple: ('go', 'we/Ross Geller and friends', 'to a hospital', 's01_e22_c13_u006')
+
+event_id: s01_e22_c13_u007_e1
+utterance_id: s01_e22_c13_u007
+  tuple: ('look', 'I/Rachel Green', 'nice', 's01_e22_c13_u007')
+
+event_id: s01_e22_c13_u007_e2
+utterance_id: s01_e22_c13_u007
+  tuple: ('be', 'there', 'doctors', 's01_e22_c13_u007')
+
+event_id: s01_e22_c13_u008_e1
+utterance_id: s01_e22_c13_u008
+  tuple: ('get', 'Joey Tribbiani', 'out of the fridge', 's01_e22_c13_u008')
+
+event_id: s01_e22_c13_u010_e1
+utterance_id: s01_e22_c13_u010
+  tuple: ('be', 'that', 'what', 's01_e22_c13_u010')
+
+event_id: s01_e22_c13_u014_e1
+utterance_id: s01_e22_c13_u014
+  tuple: ('hate', 'I/Chandler Bing', 'this', 's01_e22_c13_u014')
+
+event_id: s01_e22_c13_u015_e1
+utterance_id: s01_e22_c13_u015
+  tuple: ('come', 'Monica Geller', None, 's01_e22_c13_u015')
+
+event_id: s01_e22_c13_u015_e2
+utterance_id: s01_e22_c13_u015
+  tuple: ('come', 'baby', None, 's01_e22_c13_u015')
+
+event_id: s01_e22_c13_u017_e1
+utterance_id: s01_e22_c13_u017
+  tuple: ('believe', 'I/Monica Geller', 'it', 's01_e22_c13_u017')
+  tuple: ('be', 'I/Monica Geller', 'an aunt', 's01_e22_c13_u017')
+  tuple: ('have', 'I/Monica Geller', 'a nephew', 's01_e22_c13_u017')
+
+event_id: s01_e22_c13_u018_e1
+utterance_id: s01_e22_c13_u018
+  tuple: ('be', 'that', 'nice', 's01_e22_c13_u018')
+
+event_id: s01_e22_c13_u018_e2
+utterance_id: s01_e22_c13_u018
+  tuple: ('get', 'you/everyone', None, 's01_e22_c13_u018')
+  tuple: ('come', 'you/everyone', None, 's01_e22_c13_u018')
+
+event_id: s01_e22_c13_u019_e1
+utterance_id: s01_e22_c13_u019
+  tuple: ('go', 'I/Joey Tribbiani', None, 's01_e22_c13_u019')
+
+event_id: s01_e22_c13_u021_e1
+utterance_id: s01_e22_c13_u021
+  tuple: ('go', 'we/Chandler Bing and friends', None, 's01_e22_c13_u021')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly and task-focused without sociable or energetic engagement; no clear signs of outgoing behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker accuses Speaker_01 of putting the ring in the lasagne and criticizes with “I gave you one job to do,” then refuses to keep helping search, showing impatience and low agreeableness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker’s search is called out as “not the right way” by another, and TargetSpeaker gives up with “cannot keep searching,” indicating inefficient, low-persistence behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows irritation and stress—suspicion about the ring in the lasagne and stating they can’t keep searching—suggesting emotional strain."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or inventiveness, nor strong rigidity; openness is not evidenced."
+  }
+}

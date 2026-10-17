@@ -1,0 +1,73 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e24_c09_u002_e1",
+          "tuples": [
+            "('do', 'you/Joey Tribbiani', 'it', 's01_e24_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c09_u002_e2",
+          "tuples": [
+            "('have', 'we/Chandler Bing+Joey Tribbiani', 'any fruit', 's01_e24_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e24_c09_u003_e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', 'what', 's01_e24_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c09_u003_e2",
+          "tuples": [
+            "('feel', 'I/Joey Tribbiani', 'like I learned something', 's01_e24_c09_u003')",
+            "('learn', 'I/Joey Tribbiani', 'something', 's01_e24_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e24_c09_u004_e1",
+          "tuples": [
+            "('stick', 'you/Joey Tribbiani', \"with this 'it's all for her' thing\", 's01_e24_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e24_c09_u005_e1",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'crazy', 's01_e24_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c09_u005_e2",
+          "tuples": [
+            "('get', 'a blind man', 'back his sight', 's01_e24_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c09_u005_e3",
+          "tuples": [
+            "('walk around', 'he/a blind man', 'like this', 's01_e24_c09_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

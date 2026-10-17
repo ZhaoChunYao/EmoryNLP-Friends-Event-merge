@@ -1,0 +1,71 @@
+event_id: s01_e23_c20_u001_e1
+utterance_id: s01_e23_c20_u001
+  tuple: ('shout', 'you/(everyone)', None, 's01_e23_c20_u001')
+
+event_id: s01_e23_c20_u001_e2
+utterance_id: s01_e23_c20_u001
+  tuple: ('need', 'we/(Susan Bunch, Carol Willick, Ross Geller)', 'a name', 's01_e23_c20_u001')
+  tuple: ('need', 'we/(Susan Bunch, Carol Willick, Ross Geller)', 'for this little guy', 's01_e23_c20_u001')
+
+event_id: s01_e23_c20_u003_e1
+utterance_id: s01_e23_c20_u003
+  tuple: ('like', 'I/(Susan Bunch)', 'Ben', 's01_e23_c20_u003')
+
+event_id: s01_e23_c20_u004_e1
+utterance_id: s01_e23_c20_u004
+  tuple: ('be', 'Ben', 'good', 's01_e23_c20_u004')
+
+event_id: s01_e23_c20_u004_e2
+utterance_id: s01_e23_c20_u004
+  tuple: ('mention', 'you/(Ross Geller)', 'Ben', 's01_e23_c20_u004')
+
+event_id: s01_e23_c20_u005_e1
+utterance_id: s01_e23_c20_u005
+  tuple: ('cook up', 'we/(Ross Geller, Susan Bunch)', 'it', 's01_e23_c20_u005')
+
+event_id: s01_e23_c20_u006_e1
+utterance_id: s01_e23_c20_u006
+  tuple: ('be', 'That', 'what we were off doing', 's01_e23_c20_u006')
+  tuple: ('do', 'we/(Ross Geller, Susan Bunch)', None, 's01_e23_c20_u006')
+
+event_id: s01_e23_c20_u010_e1
+utterance_id: s01_e23_c20_u010
+  tuple: ('come', 'we/(Monica Geller, Rachel Green)', 'in', 's01_e23_c20_u010')
+
+event_id: s01_e23_c20_u012_e1
+utterance_id: s01_e23_c20_u012
+  tuple: ('know', 'I/(Ross Geller)', None, 's01_e23_c20_u012')
+
+event_id: s01_e23_c20_u012_e2
+utterance_id: s01_e23_c20_u012
+  tuple: ('be', 'there', "someone I'd like you to meet", 's01_e23_c20_u012')
+  tuple: ('like', 'I/(Ross Geller)', 'you to meet', 's01_e23_c20_u012')
+  tuple: ('meet', 'you/(everybody)', 'someone', 's01_e23_c20_u012')
+  tuple: ('be', 'This', 'Ben', 's01_e23_c20_u012')
+  tuple: ('be', 'this', 'everybody', 's01_e23_c20_u012')
+
+event_id: s01_e23_c20_u013_e1
+utterance_id: s01_e23_c20_u013
+  tuple: ('look', 'he/(Ben)', 'like you', 's01_e23_c20_u013')
+
+event_id: s01_e23_c20_u015_e1
+utterance_id: s01_e23_c20_u015
+  tuple: ('believe', 'I/(Rachel Green)', 'one of us actually has one of these', 's01_e23_c20_u015')
+  tuple: ('have', 'one of us', 'one of these', 's01_e23_c20_u015')
+
+event_id: s01_e23_c20_u016_e1
+utterance_id: s01_e23_c20_u016
+  tuple: ('know', 'I/(Chandler Bing)', None, 's01_e23_c20_u016')
+
+event_id: s01_e23_c20_u016_e2
+utterance_id: s01_e23_c20_u016
+  tuple: ('be', 'I/(Chandler Bing)', 'one of these', 's01_e23_c20_u016')
+
+event_id: s01_e23_c20_u020_e1
+utterance_id: s01_e23_c20_u020
+  tuple: ('be', 'I/(Monica Geller)', 'your Aunt Monica', 's01_e23_c20_u020')
+
+event_id: s01_e23_c20_u020_e2
+utterance_id: s01_e23_c20_u020
+  tuple: ('have', 'I/(Monica Geller)', 'gum', 's01_e23_c20_u020')
+

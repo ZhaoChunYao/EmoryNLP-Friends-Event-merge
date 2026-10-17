@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, matter-of-fact statements; asks Speaker_03 to handle Marcel but shows no notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When told a 'thief' used the card, TargetSpeaker immediately admits the $69.95 Wonder Mop purchase was theirs, showing honesty and straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from telling Speaker_03 to do something about Marcel’s humping, there is no clear sign of organized or diligent behavior."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calmly admits the purchase and assertively tells Speaker_03 to address the issue, indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements indicating curiosity, imagination, or willingness to try new ideas."
+  }
+}

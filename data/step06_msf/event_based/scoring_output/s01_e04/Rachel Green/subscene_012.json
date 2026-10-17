@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only makes two brief information-seeking comments ([s01_e04_c10_u022], [s01_e04_c10_u026]); no clear signs of especially outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not show friendliness or hostility; they just ask neutral questions ([s01_e04_c10_u022], [s01_e04_c10_u026])."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness; TargetSpeaker only asks who someone is and who they are spying on ([s01_e04_c10_u022], [s01_e04_c10_u026])."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness or insecurity; TargetSpeaker calmly asks questions, including 'who are we spying on?' ([s01_e04_c10_u026])."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows curiosity by asking who 'George Snuffalopagus' is ([s01_e04_c10_u022]) and who they are spying on ([s01_e04_c10_u026])."
+  }
+}

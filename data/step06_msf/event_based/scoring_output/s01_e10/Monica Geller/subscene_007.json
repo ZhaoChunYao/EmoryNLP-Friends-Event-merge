@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives only brief replies (“Vividly.” and “Hi.”) and does not engage further, indicating reserved behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Only a neutral greeting; no clear signs of warmth/helpfulness or conflict/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; tone is neutral but not clearly confident."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, imagination, or resistance to new ideas."
+  }
+}

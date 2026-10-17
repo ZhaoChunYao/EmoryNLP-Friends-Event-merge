@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Expressive and engaged: exclaims \"Oh my God!\", asks follow-up \"How did you get through it?\", interjects a joke \"- leg?\", and shares a personal anecdote about what she did."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Shows aggressive/boastful streak: suggests breaking a \"leg?\", admits \"I shredded [their] favorite bath towel,\" and affirms \"That's right\" when told to steer clear."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or diligence; the towel incident is spiteful but not evidence about reliability or orderliness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears confident and unflustered, using humor (\"- leg?\") and agreeing \"That's right\" without showing nervousness or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Displays curiosity and a bit of creativity: asks \"How did you get through it?\" and makes a dark-humor, imaginative suggestion (\"- leg?\")."
+  }
+}

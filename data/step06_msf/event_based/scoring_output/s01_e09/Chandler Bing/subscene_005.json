@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Excitedly shares news, says they are going to the roof and asks who will go with them, then urges “everyone should come on,” leading a group activity."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Invites others to join (“who will go with me,” “everyone should come on”) in a friendly, inclusive way; no signs of conflict or deception."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Spontaneously decides to go to the roof, but there is no clear evidence of either organized planning or careless neglect."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks decisively and confidently (“I’m going to the roof”) without anxiety, taking charge of the situation."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows eagerness to experience a rare, novel event (escaped parade balloon) and emphasizes its uniqueness, wanting to go see it."
+  }
+}

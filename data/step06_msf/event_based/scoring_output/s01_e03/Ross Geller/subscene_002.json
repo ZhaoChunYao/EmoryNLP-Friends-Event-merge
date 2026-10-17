@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and takes charge of the interaction, asking what’s going on and then firmly telling Speaker_03 to ‘hold on a second,’ showing assertive, outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They show concern for Speaker_03’s well-being by reminding them of the hardship of quitting and urging them to reconsider, which is supportive and considerate."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They encourage self-control and long-term thinking, asking Speaker_03 to think about the last quit attempt and its difficulties to avoid an impulsive relapse."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional volatility; the intervention is calm and reasoned."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "They advocate caution—stopping and reconsidering based on past experience—indicating a risk-averse, conservative stance rather than exploratory openness."
+  }
+}

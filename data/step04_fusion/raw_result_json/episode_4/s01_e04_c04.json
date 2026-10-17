@@ -1,0 +1,161 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c04_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('come', 'you guys/(Kiki+Joanne+Leslie)', None, 's01_e04_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('tell', 'you guys/(Kiki+Joanne+Leslie)', 'all the dirt', 's01_e04_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u002",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'the biggest news', 'you dumping Barry at the altar', 's01_e04_c04_u002')",
+            "('dump', 'you/(Rachel Green)', 'Barry', 's01_e04_c04_u002')",
+            "('dump', 'you/(Rachel Green)', 'at the altar', 's01_e04_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('let', 'us/(Joanne+Kiki+Leslie+Rachel Green)', 'talk reality for a second', 's01_e04_c04_u003')",
+            "('talk', 'us/(Joanne+Kiki+Leslie+Rachel Green)', 'reality', 's01_e04_c04_u003')",
+            "('talk', 'us/(Joanne+Kiki+Leslie+Rachel Green)', 'for a second', 's01_e04_c04_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u005",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('come', 'you/(Rachel Green)', 'home', 's01_e04_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', None, 's01_e04_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('come', 'you/(Rachel Green)', None, 's01_e04_c04_u007')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'this', 'us', 's01_e04_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u008",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'This', \"what I'm doing now\", 's01_e04_c04_u008')",
+            "('do', 'I/(Rachel Green)', 'what', 's01_e04_c04_u008')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('have', 'I/(Rachel Green)', 'this job', 's01_e04_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u009",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('waitress', 'you/(Rachel Green)', None, 's01_e04_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u010",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'not just waitressing', 's01_e04_c04_u010')",
+            "('waitress', 'I/(Rachel Green)', None, 's01_e04_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('write', 'I/(Rachel Green)', 'the specials', 's01_e04_c04_u010')",
+            "('write', 'I/(Rachel Green)', 'on the specials board', 's01_e04_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('take', 'I/(Rachel Green)', 'the dead flowers', 's01_e04_c04_u010')",
+            "('take', 'I/(Rachel Green)', 'out of the vase', 's01_e04_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('let', 'Artelle', 'me put the little chocolate blobbies on the cookies', 's01_e04_c04_u010')",
+            "('put', 'me/(Rachel Green)', 'the little chocolate blobbies', 's01_e04_c04_u010')",
+            "('put', 'me/(Rachel Green)', 'on the cookies', 's01_e04_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c04_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('tell', 'your mom', 'us', 's01_e04_c04_u011')",
+            "('tell', 'your mom', 'about the blobbies', 's01_e04_c04_u011')"
+          ]
+        }
+      ]
+    }
+  ]
+}

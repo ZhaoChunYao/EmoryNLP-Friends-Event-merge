@@ -1,0 +1,60 @@
+('think', 'My agent', "I should have a name that's more neutral", 's01_e21_c03_u002')
+[s01_e21_c03_u002] Joey Tribbiani: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+
+('have', 'I/(Joey Tribbiani)', 'a name', 's01_e21_c03_u002')
+[s01_e21_c03_u002] Joey Tribbiani: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+
+('be', 'that/(a name)', 'more neutral', 's01_e21_c03_u002')
+[s01_e21_c03_u002] Joey Tribbiani: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+
+('think', 'I/(Joey Tribbiani)', 'it should be Joe', 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('be', 'it/(a name)', 'Joe', 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('make', 'Joey', "me sound like I'm this big", 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('sound', 'me/(Joey Tribbiani)', "like I'm this big", 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('be', 'I/(Joey Tribbiani)', 'this big', 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('be', 'I/(Joey Tribbiani)', None, 's01_e21_c03_u005')
+[s01_e21_c03_u005] Joey Tribbiani: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.
+
+('know', 'I/(Joey Tribbiani)', 'that name', 's01_e21_c03_u007')
+[s01_e21_c03_u007] Joey Tribbiani: Stalin...Stalin...do I know that name? It sounds familiar.
+
+('sound', 'it/(that name)', 'familiar', 's01_e21_c03_u007')
+[s01_e21_c03_u007] Joey Tribbiani: Stalin...Stalin...do I know that name? It sounds familiar.
+
+('ring', 'it/(that name)', 'a bell', 's01_e21_c03_u008')
+[s01_e21_c03_u008] Chandler Bing: Well, it does not ring a bell with me...
+
+('ring', 'it/(that name)', 'with me', 's01_e21_c03_u008')
+[s01_e21_c03_u008] Chandler Bing: Well, it does not ring a bell with me...
+
+('be', 'that/(Joe Stalin)', 'pretty good', 's01_e21_c03_u009')
+[s01_e21_c03_u009] Joey Tribbiani: Joe Stalin. Y'know, that's pretty good.
+
+('want', 'you/(Joey Tribbiani)', 'to try Joseph', 's01_e21_c03_u010')
+[s01_e21_c03_u010] Chandler Bing: Might wanna try Joseph.
+
+('try', 'you/(Joey Tribbiani)', 'Joseph', 's01_e21_c03_u010')
+[s01_e21_c03_u010] Chandler Bing: Might wanna try Joseph.
+
+('think', 'I/(Joey Tribbiani)', "you'd remember that", 's01_e21_c03_u012')
+[s01_e21_c03_u012] Joey Tribbiani: Joseph Stalin. I think you'd remember that!
+
+('remember', 'you/(Chandler Bing)', 'that', 's01_e21_c03_u012')
+[s01_e21_c03_u012] Joey Tribbiani: Joseph Stalin. I think you'd remember that!
+
+('star', 'Bye Bye Birdie', 'Joseph Stalin', 's01_e21_c03_u013')
+[s01_e21_c03_u013] Chandler Bing: Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.
+
+('be', 'Joseph Stalin', 'the Fiddler on the Roof', 's01_e21_c03_u013')
+[s01_e21_c03_u013] Chandler Bing: Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.
+

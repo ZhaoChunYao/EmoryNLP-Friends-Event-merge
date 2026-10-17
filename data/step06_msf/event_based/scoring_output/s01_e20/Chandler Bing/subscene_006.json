@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Spent hours sitting in the apartment honing a phone message and only tried to sound like he was out at a restaurant, implying he wasn’t actually being socially active."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Planned to mislead Speaker_01 by adding dishes clinking so they’d think he was in a restaurant; not straightforward."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Worked meticulously for two hours 'honing' the message and engineered background sounds, showing careful planning and effort."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Showed insecurity about impressions—worked for hours on one message and worried about seeming to 'have some kind of life.'"
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Used a creative tactic (dishes clinking to simulate a restaurant) to craft the desired impression."
+  }
+}

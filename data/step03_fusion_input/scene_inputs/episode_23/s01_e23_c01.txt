@@ -1,0 +1,135 @@
+('be', 'She/Carol Willick', 'here', 's01_e23_c01_u001')
+[s01_e23_c01_u001] Ross Geller: She's not here yet. She's not here. She's having my baby and she's not here.
+
+('have', 'She/Carol Willick', 'my baby', 's01_e23_c01_u001')
+[s01_e23_c01_u001] Ross Geller: She's not here yet. She's not here. She's having my baby and she's not here.
+
+('be', 'I/Monica Geller', "sure everything's fine", 's01_e23_c01_u002')
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+
+('be', 'everything', 'fine', 's01_e23_c01_u002')
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+
+('break', 'her water', None, 's01_e23_c01_u002')
+[s01_e23_c01_u002] Monica Geller: I'm sure everything's fine. Has her water broke yet?
+
+('know', 'I/Ross Geller', None, 's01_e23_c01_u003')
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+
+('speak', 'I/Ross Geller', 'to her', 's01_e23_c01_u003')
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+
+('say', 'she/Carol Willick', 'she had already passed the mucus plug', 's01_e23_c01_u003')
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+
+('pass', 'she/Carol Willick', 'the mucus plug', 's01_e23_c01_u003')
+[s01_e23_c01_u003] Ross Geller: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+
+('know', 'we/(Ross Geller+Monica Geller+Joey Tribbiani+Chandler Bing+Rachel Green)', 'that', 's01_e23_c01_u005')
+[s01_e23_c01_u005] Joey Tribbiani: Do we have to know about that?
+
+('do', 'you/Joey Tribbiani', 'what', 's01_e23_c01_u006')
+[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+
+('have', 'you/Joey Tribbiani', 'a baby', 's01_e23_c01_u006')
+[s01_e23_c01_u006] Monica Geller: Joey, what are you gonna do when you have a baby?
+
+('be', 'I/Joey Tribbiani', "in the waitin' room", 's01_e23_c01_u007')
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+
+('hand out', 'I/Joey Tribbiani', 'cigars', 's01_e23_c01_u007')
+[s01_e23_c01_u007] Joey Tribbiani: I'm gonna be in the waitin' room, handing out cigars.
+
+('make', 'Joey Tribbiani', "arrangements to have his baby in a movie from the 50's", 's01_e23_c01_u008')
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+
+('have', 'Joey Tribbiani', 'his baby', 's01_e23_c01_u008')
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+
+('have', 'Joey Tribbiani', 'in a movie', 's01_e23_c01_u008')
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+
+('have', 'Joey Tribbiani', "from the 50's", 's01_e23_c01_u008')
+[s01_e23_c01_u008] Chandler Bing: Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+
+('believe', 'I/Ross Geller', 'this', 's01_e23_c01_u009')
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+
+('give birth', 'she/Carol Willick', None, 's01_e23_c01_u009')
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+
+('give birth', 'she/Carol Willick', 'in the cab', 's01_e23_c01_u009')
+[s01_e23_c01_u009] Ross Geller: God, I don't believe this. She could be giving birth in the cab.
+
+('relax', 'you/Ross Geller', None, 's01_e23_c01_u010')
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+
+('be', 'It/(cab fare)', 'like two dollars', 's01_e23_c01_u010')
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+
+('be', 'It/(cab fare)', 'for the first contraction', 's01_e23_c01_u010')
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+
+('be', 'It/(cab fare)', 'fifty cents', 's01_e23_c01_u010')
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+
+('be', 'It/(cab fare)', 'for each additional contraction', 's01_e23_c01_u010')
+[s01_e23_c01_u010] Rachel Green: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+
+('be', 'it/(Chandler making a joke)', 'ok', 's01_e23_c01_u012')
+[s01_e23_c01_u012] Rachel Green: What, it's ok when Chandler does it?
+
+('do', 'Chandler Bing', 'it', 's01_e23_c01_u012')
+[s01_e23_c01_u012] Rachel Green: What, it's ok when Chandler does it?
+
+('pick', 'you/Rachel Green', 'your moments', 's01_e23_c01_u013')
+[s01_e23_c01_u013] Chandler Bing: You have to pick your moments.
+
+('miss', 'I/Phoebe Buffay', 'it', 's01_e23_c01_u015')
+[s01_e23_c01_u015] Phoebe Buffay: Did I miss it, did I miss it?
+
+('be', 'what', 'with the guitar', 's01_e23_c01_u017')
+[s01_e23_c01_u017] Monica Geller: What's with the guitar?
+
+('think', 'I/Phoebe Buffay', 'we might be here for awhile', 's01_e23_c01_u018')
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+
+('be', 'we/(Monica Geller+Chandler Bing+Phoebe Buffay+Rachel Green+Ross Geller+Joey Tribbiani)', 'here', 's01_e23_c01_u018')
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+
+('be', 'we/(Monica Geller+Chandler Bing+Phoebe Buffay+Rachel Green+Ross Geller+Joey Tribbiani)', 'for awhile', 's01_e23_c01_u018')
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+
+('know', 'you/(everyone)', None, 's01_e23_c01_u018')
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+
+('get', 'things', 'musical', 's01_e23_c01_u018')
+[s01_e23_c01_u018] Phoebe Buffay: I just thought we might be here for awhile. You know, things might get musical.
+
+('be', 'you/(Susan Bunch+Carol Willick)', None, 's01_e23_c01_u020')
+[s01_e23_c01_u020] Ross Geller: Where the hell have you been?
+
+('stop', 'we/(Susan Bunch+Carol Willick)', 'at the gift shop', 's01_e23_c01_u021')
+[s01_e23_c01_u021] Susan Bunch: We stopped at the gift shop.
+
+('look', 'I/Carol Willick', 'at stuffed animals', 's01_e23_c01_u022')
+[s01_e23_c01_u022] Carol Willick: I was looking at stuffed animals, and Susan wanted a Chunky.
+
+('want', 'Susan Bunch', 'a Chunky', 's01_e23_c01_u022')
+[s01_e23_c01_u022] Carol Willick: I was looking at stuffed animals, and Susan wanted a Chunky.
+
+('have', 'we/(Ross Geller+Carol Willick+Susan Bunch)', 'a baby', 's01_e23_c01_u023')
+[s01_e23_c01_u023] Ross Geller: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+
+('stop', 'you/Susan Bunch', 'for Chunkys', 's01_e23_c01_u023')
+[s01_e23_c01_u023] Ross Geller: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+
+('have', 'I/Chandler Bing', 'that bumper sticker', 's01_e23_c01_u024')
+[s01_e23_c01_u024] Chandler Bing: I used to have that bumper sticker.
+
+('see', 'you/Rachel Green', 'what I mean', 's01_e23_c01_u026')
+[s01_e23_c01_u026] Chandler Bing: You see what I mean.
+
+('mean', 'I/Chandler Bing', 'what', 's01_e23_c01_u026')
+[s01_e23_c01_u026] Chandler Bing: You see what I mean.
+

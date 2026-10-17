@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes initiative in the group, telling others to look and presenting a provocative photo, then verbally asserts what it shows."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Showing a nude photo of another person to the group is inconsiderate and leads to others’ disgust; TargetSpeaker dismisses a softening claim with a firm 'No.'"
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Unabashedly presents a provocative image and responds firmly without signs of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The behavior is provocative but provides no clear evidence of curiosity, imagination, or intellectual openness."
+  }
+}

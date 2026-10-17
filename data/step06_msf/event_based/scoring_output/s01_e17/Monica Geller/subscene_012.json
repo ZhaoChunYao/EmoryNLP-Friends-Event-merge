@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only explains the paperwork issue; no clear signs of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Openly explains the mistake, admits fault, and accepts the insult without arguing, showing straightforwardness and cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Admits putting the wrong name on the hospital admissions form again and needing a whole new form, indicating carelessness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Self-deprecating statement “I am that stupid” suggests insecurity/negative self-assessment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or dogmatism; the exchange is about routine paperwork."
+  }
+}

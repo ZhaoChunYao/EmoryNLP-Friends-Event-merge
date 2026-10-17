@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker laughs (\"Ha. Ha, ha.\") and then makes a teasing joke, calling Speaker_02 the 'kettle' in 'pot calling the kettle black'—an outgoing, playful interjection in a group."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker mocks/accuses Speaker_02 of hypocrisy ('pot calling the kettle black') rather than responding supportively or diplomatically, showing a confrontational stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, diligence, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, sensitivity, or emotional volatility; the brief joking does not indicate either side."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from using a common idiom, there is no clear evidence of curiosity/imagination or of closed-mindedness."
+  }
+}

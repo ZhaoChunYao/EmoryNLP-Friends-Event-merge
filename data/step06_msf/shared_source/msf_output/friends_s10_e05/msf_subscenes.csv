@@ -1,0 +1,870 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e05,s10_e05_c01,Chandler Bing,0,5,6,4,7,2,s10_e05_c01_u005,s10_e05_c01_u012,"[s10_e05_c01_u005] Monica Geller: Hey Rach, the adoption agency needs letters of recommendation and we were wondering if you would write one for us.
+[s10_e05_c01_u006] Rachel Green: Of course, I'd be honored!
+[s10_e05_c01_u007] Chandler Bing: Thanks!
+[s10_e05_c01_u008] Monica Geller: Thank you!
+[s10_e05_c01_u009] Joey Tribbiani: U-U-Um, I think there's been an oversight.
+[s10_e05_c01_u010] Chandler Bing: Joey, we would've asked you, we just thought you wouldn't be interested.
+[s10_e05_c01_u011] Monica Geller: Yeah, it's just we don't think of you as really being so much ""with the words"".
+[s10_e05_c01_u012] Joey Tribbiani: Whoo-weh hey weh-hey whoo hey!!"
+s10_e05,s10_e05_c01,Joey Tribbiani,0,0,1,0,2,2,s10_e05_c01_u001,s10_e05_c01_u007,"[s10_e05_c01_u001] Rachel Green: You know, I'm thinking about letting Emma have her first cookie.
+[s10_e05_c01_u002] Joey Tribbiani: Her first cookie? She has cookies all the time!
+[s10_e05_c01_u003] Rachel Green: I've never given her a cookie. Have you?
+[s10_e05_c01_u004] Joey Tribbiani: No! No... and, for the record, I've also never given her a frosting from a can!
+[s10_e05_c01_u005] Monica Geller: Hey Rach, the adoption agency needs letters of recommendation and we were wondering if you would write one for us.
+[s10_e05_c01_u006] Rachel Green: Of course, I'd be honored!
+[s10_e05_c01_u007] Chandler Bing: Thanks!"
+s10_e05,s10_e05_c01,Joey Tribbiani,1,7,15,6,16,3,s10_e05_c01_u007,s10_e05_c01_u022,"[s10_e05_c01_u007] Chandler Bing: Thanks!
+[s10_e05_c01_u008] Monica Geller: Thank you!
+[s10_e05_c01_u009] Joey Tribbiani: U-U-Um, I think there's been an oversight.
+[s10_e05_c01_u010] Chandler Bing: Joey, we would've asked you, we just thought you wouldn't be interested.
+[s10_e05_c01_u011] Monica Geller: Yeah, it's just we don't think of you as really being so much ""with the words"".
+[s10_e05_c01_u012] Joey Tribbiani: Whoo-weh hey weh-hey whoo hey!!
+[s10_e05_c01_u013] Monica Geller: Clearly we were wrong.
+[s10_e05_c01_u014] Joey Tribbiani: I gotta a lot of nice stuff to say about you guys, ok? And I know how much you wanna have a baby, you know, and I would love to help you get one.
+[s10_e05_c01_u015] Monica Geller: You know what? Then, Joey, we want you to do it.
+[s10_e05_c01_u016] Joey Tribbiani: Thank you! Alright, let me see how I'm gonna start... ""Dear baby adoption decider people...""
+[s10_e05_c01_u017] Chandler Bing: So excited about your letter!
+[s10_e05_c01_u018] Phoebe Buffay: Hey!
+[s10_e05_c01_u019] #ALL#: Hey Phoebe!
+[s10_e05_c01_u020] Joey Tribbiani: Hey!
+[s10_e05_c01_u021] Monica Geller: Wow! Don't you look nice?!
+[s10_e05_c01_u022] Phoebe Buffay: Yes, I do! Today is Mike and my one-year anniversary."
+s10_e05,s10_e05_c01,Monica Geller,0,3,4,2,5,2,s10_e05_c01_u003,s10_e05_c01_u010,"[s10_e05_c01_u003] Rachel Green: I've never given her a cookie. Have you?
+[s10_e05_c01_u004] Joey Tribbiani: No! No... and, for the record, I've also never given her a frosting from a can!
+[s10_e05_c01_u005] Monica Geller: Hey Rach, the adoption agency needs letters of recommendation and we were wondering if you would write one for us.
+[s10_e05_c01_u006] Rachel Green: Of course, I'd be honored!
+[s10_e05_c01_u007] Chandler Bing: Thanks!
+[s10_e05_c01_u008] Monica Geller: Thank you!
+[s10_e05_c01_u009] Joey Tribbiani: U-U-Um, I think there's been an oversight.
+[s10_e05_c01_u010] Chandler Bing: Joey, we would've asked you, we just thought you wouldn't be interested."
+s10_e05,s10_e05_c01,Monica Geller,1,6,12,5,13,3,s10_e05_c01_u006,s10_e05_c01_u018,"[s10_e05_c01_u006] Rachel Green: Of course, I'd be honored!
+[s10_e05_c01_u007] Chandler Bing: Thanks!
+[s10_e05_c01_u008] Monica Geller: Thank you!
+[s10_e05_c01_u009] Joey Tribbiani: U-U-Um, I think there's been an oversight.
+[s10_e05_c01_u010] Chandler Bing: Joey, we would've asked you, we just thought you wouldn't be interested.
+[s10_e05_c01_u011] Monica Geller: Yeah, it's just we don't think of you as really being so much ""with the words"".
+[s10_e05_c01_u012] Joey Tribbiani: Whoo-weh hey weh-hey whoo hey!!
+[s10_e05_c01_u013] Monica Geller: Clearly we were wrong.
+[s10_e05_c01_u014] Joey Tribbiani: I gotta a lot of nice stuff to say about you guys, ok? And I know how much you wanna have a baby, you know, and I would love to help you get one.
+[s10_e05_c01_u015] Monica Geller: You know what? Then, Joey, we want you to do it.
+[s10_e05_c01_u016] Joey Tribbiani: Thank you! Alright, let me see how I'm gonna start... ""Dear baby adoption decider people...""
+[s10_e05_c01_u017] Chandler Bing: So excited about your letter!
+[s10_e05_c01_u018] Phoebe Buffay: Hey!"
+s10_e05,s10_e05_c01,Phoebe Buffay,0,16,24,15,24,3,s10_e05_c01_u016,s10_e05_c01_u030,"[s10_e05_c01_u016] Joey Tribbiani: Thank you! Alright, let me see how I'm gonna start... ""Dear baby adoption decider people...""
+[s10_e05_c01_u017] Chandler Bing: So excited about your letter!
+[s10_e05_c01_u018] Phoebe Buffay: Hey!
+[s10_e05_c01_u019] #ALL#: Hey Phoebe!
+[s10_e05_c01_u020] Joey Tribbiani: Hey!
+[s10_e05_c01_u021] Monica Geller: Wow! Don't you look nice?!
+[s10_e05_c01_u022] Phoebe Buffay: Yes, I do! Today is Mike and my one-year anniversary.
+[s10_e05_c01_u023] Rachel Green: OH! What's it the anniversary of? Your first date, your first kiss, first time you had sex...
+[s10_e05_c01_u024] Phoebe Buffay: YEAH!
+[s10_e05_c01_u025] Chandler Bing: So you must be going to somewhere fancy to celebrate?
+[s10_e05_c01_u026] Phoebe Buffay: Uh-uh. Ehm, a Knicks game.
+[s10_e05_c01_u027] Joey Tribbiani: Uhm... Aren't you a little overdressed?
+[s10_e05_c01_u028] Phoebe Buffay: Hey, you know what, I've never had a one-year anniversary before, so no matter where we go, I'm wearing something fancy pants, and... I'm gonna put on my finest jewelry and we're gonna have sex in a public rest room.
+[s10_e05_c01_u029] Monica Geller: You guys do that? Chandler won't even have sex in our bathroom!
+[s10_e05_c01_u030] Chandler Bing: That's where people make number two!!"
+s10_e05,s10_e05_c01,Rachel Green,0,0,2,0,3,2,s10_e05_c01_u001,s10_e05_c01_u008,"[s10_e05_c01_u001] Rachel Green: You know, I'm thinking about letting Emma have her first cookie.
+[s10_e05_c01_u002] Joey Tribbiani: Her first cookie? She has cookies all the time!
+[s10_e05_c01_u003] Rachel Green: I've never given her a cookie. Have you?
+[s10_e05_c01_u004] Joey Tribbiani: No! No... and, for the record, I've also never given her a frosting from a can!
+[s10_e05_c01_u005] Monica Geller: Hey Rach, the adoption agency needs letters of recommendation and we were wondering if you would write one for us.
+[s10_e05_c01_u006] Rachel Green: Of course, I'd be honored!
+[s10_e05_c01_u007] Chandler Bing: Thanks!
+[s10_e05_c01_u008] Monica Geller: Thank you!"
+s10_e05,s10_e05_c02,Amy Green,0,7,16,6,16,3,s10_e05_c02_u007,s10_e05_c02_u021,"[s10_e05_c02_u007] Charlie Wheeler: Oh, Ross, you gave a B to a Pottery Barn catalogue.
+[s10_e05_c02_u008] Ross Geller: Well, it had some good ideas, take off your shirt.
+[s10_e05_c02_u009] Ross Geller: Damnit!
+[s10_e05_c02_u010] Amy Green: Rachel!! Open up!! It's your sister!! I have to talk to you!!
+[s10_e05_c02_u011] Ross Geller: Hi Amy!
+[s10_e05_c02_u012] Amy Green: You're not Rachel.
+[s10_e05_c02_u013] Ross Geller: Still sharp as a tack!
+[s10_e05_c02_u014] Amy Green: Um... Charlie, this is Rachel's sister Amy. Amy, this is Charlie.
+[s10_e05_c02_u015] Charlie Wheeler: Hi!
+[s10_e05_c02_u016] Amy Green: Hi!
+[s10_e05_c02_u017] Charlie Wheeler: Nice to meet you.
+[s10_e05_c02_u018] Amy Green: H-Hi!! And you are...?
+[s10_e05_c02_u019] Ross Geller: Ross? I... I grew up on your block! We had Thanksgiving together last year... I had a baby with your sister!
+[s10_e05_c02_u020] Amy Green: N-no... uhm... did I buy a falafel from you yesterday?
+[s10_e05_c02_u021] Ross Geller: Yes, yes, you did."
+s10_e05,s10_e05_c02,Charlie Wheeler,0,0,4,0,5,3,s10_e05_c02_u001,s10_e05_c02_u010,"[s10_e05_c02_u001] Charlie Wheeler: Hey!
+[s10_e05_c02_u002] Ross Geller: Hey...
+[s10_e05_c02_u003] Charlie Wheeler: So, you know... I have a little time. If you... if you want to...
+[s10_e05_c02_u004] Ross Geller: Oh... Ohh... I'd love to but I really have to grade these papers.
+[s10_e05_c02_u005] Charlie Wheeler: Fine, it's fine... I'll just shower by myself...
+[s10_e05_c02_u006] Ross Geller: B, B, B, B, B!
+[s10_e05_c02_u007] Charlie Wheeler: Oh, Ross, you gave a B to a Pottery Barn catalogue.
+[s10_e05_c02_u008] Ross Geller: Well, it had some good ideas, take off your shirt.
+[s10_e05_c02_u009] Ross Geller: Damnit!
+[s10_e05_c02_u010] Amy Green: Rachel!! Open up!! It's your sister!! I have to talk to you!!"
+s10_e05,s10_e05_c02,Charlie Wheeler,1,12,14,11,15,2,s10_e05_c02_u012,s10_e05_c02_u020,"[s10_e05_c02_u012] Amy Green: You're not Rachel.
+[s10_e05_c02_u013] Ross Geller: Still sharp as a tack!
+[s10_e05_c02_u014] Amy Green: Um... Charlie, this is Rachel's sister Amy. Amy, this is Charlie.
+[s10_e05_c02_u015] Charlie Wheeler: Hi!
+[s10_e05_c02_u016] Amy Green: Hi!
+[s10_e05_c02_u017] Charlie Wheeler: Nice to meet you.
+[s10_e05_c02_u018] Amy Green: H-Hi!! And you are...?
+[s10_e05_c02_u019] Ross Geller: Ross? I... I grew up on your block! We had Thanksgiving together last year... I had a baby with your sister!
+[s10_e05_c02_u020] Amy Green: N-no... uhm... did I buy a falafel from you yesterday?"
+s10_e05,s10_e05_c02,Ross Geller,0,0,10,0,11,3,s10_e05_c02_u001,s10_e05_c02_u016,"[s10_e05_c02_u001] Charlie Wheeler: Hey!
+[s10_e05_c02_u002] Ross Geller: Hey...
+[s10_e05_c02_u003] Charlie Wheeler: So, you know... I have a little time. If you... if you want to...
+[s10_e05_c02_u004] Ross Geller: Oh... Ohh... I'd love to but I really have to grade these papers.
+[s10_e05_c02_u005] Charlie Wheeler: Fine, it's fine... I'll just shower by myself...
+[s10_e05_c02_u006] Ross Geller: B, B, B, B, B!
+[s10_e05_c02_u007] Charlie Wheeler: Oh, Ross, you gave a B to a Pottery Barn catalogue.
+[s10_e05_c02_u008] Ross Geller: Well, it had some good ideas, take off your shirt.
+[s10_e05_c02_u009] Ross Geller: Damnit!
+[s10_e05_c02_u010] Amy Green: Rachel!! Open up!! It's your sister!! I have to talk to you!!
+[s10_e05_c02_u011] Ross Geller: Hi Amy!
+[s10_e05_c02_u012] Amy Green: You're not Rachel.
+[s10_e05_c02_u013] Ross Geller: Still sharp as a tack!
+[s10_e05_c02_u014] Amy Green: Um... Charlie, this is Rachel's sister Amy. Amy, this is Charlie.
+[s10_e05_c02_u015] Charlie Wheeler: Hi!
+[s10_e05_c02_u016] Amy Green: Hi!"
+s10_e05,s10_e05_c02,Ross Geller,1,16,16,15,16,2,s10_e05_c02_u016,s10_e05_c02_u021,"[s10_e05_c02_u016] Amy Green: Hi!
+[s10_e05_c02_u017] Charlie Wheeler: Nice to meet you.
+[s10_e05_c02_u018] Amy Green: H-Hi!! And you are...?
+[s10_e05_c02_u019] Ross Geller: Ross? I... I grew up on your block! We had Thanksgiving together last year... I had a baby with your sister!
+[s10_e05_c02_u020] Amy Green: N-no... uhm... did I buy a falafel from you yesterday?
+[s10_e05_c02_u021] Ross Geller: Yes, yes, you did."
+s10_e05,s10_e05_c03,Amy Green,0,0,11,0,12,3,s10_e05_c03_u002,s10_e05_c03_u018,"[s10_e05_c03_u002] Ross Geller: Hi Rachel! Here's your sister Amy! She thinks I need pec implants!
+[s10_e05_c03_u003] Rachel Green: Amy! Hi! Oh-oh-hoh! Wow! You remember Joey?
+[s10_e05_c03_u004] Amy Green: Yeah! Hey, sure! The ""Days of Our Lives"" guy!
+[s10_e05_c03_u005] Joey Tribbiani: That's right, yeah.
+[s10_e05_c03_u006] Amy Green: You're not good!
+[s10_e05_c03_u007] Joey Tribbiani: Always nice to meet a fan!
+[s10_e05_c03_u008] Rachel Green: So now, what are you doing here?
+[s10_e05_c03_u009] Amy Green: Well, I have huge news.
+[s10_e05_c03_u010] Rachel Green: Oh sorry, hold on. Let me just check on the baby!
+[s10_e05_c03_u011] Amy Green: Wait, this is important! Can Ella wait?
+[s10_e05_c03_u012] Ross Geller: Ehm... Her name is Emma.
+[s10_e05_c03_u013] Amy Green: Why did you change it, Ella was so much prettier!
+[s10_e05_c03_u014] Ross Geller: What do I know? I just sell Middle Eastern food from a cart!
+[s10_e05_c03_u015] Amy Green: Hey, your English is getting better!!
+[s10_e05_c03_u016] Ross Geller: Oh my God!
+[s10_e05_c03_u017] Joey Tribbiani: I know, she may be the hottest girl I've ever hated.
+[s10_e05_c03_u018] Ross Geller: What... what you working on?"
+s10_e05,s10_e05_c03,Joey Tribbiani,0,1,3,0,4,2,s10_e05_c03_u002,s10_e05_c03_u010,"[s10_e05_c03_u002] Ross Geller: Hi Rachel! Here's your sister Amy! She thinks I need pec implants!
+[s10_e05_c03_u003] Rachel Green: Amy! Hi! Oh-oh-hoh! Wow! You remember Joey?
+[s10_e05_c03_u004] Amy Green: Yeah! Hey, sure! The ""Days of Our Lives"" guy!
+[s10_e05_c03_u005] Joey Tribbiani: That's right, yeah.
+[s10_e05_c03_u006] Amy Green: You're not good!
+[s10_e05_c03_u007] Joey Tribbiani: Always nice to meet a fan!
+[s10_e05_c03_u008] Rachel Green: So now, what are you doing here?
+[s10_e05_c03_u009] Amy Green: Well, I have huge news.
+[s10_e05_c03_u010] Rachel Green: Oh sorry, hold on. Let me just check on the baby!"
+s10_e05,s10_e05_c03,Joey Tribbiani,1,13,17,12,17,3,s10_e05_c03_u014,s10_e05_c03_u023,"[s10_e05_c03_u014] Ross Geller: What do I know? I just sell Middle Eastern food from a cart!
+[s10_e05_c03_u015] Amy Green: Hey, your English is getting better!!
+[s10_e05_c03_u016] Ross Geller: Oh my God!
+[s10_e05_c03_u017] Joey Tribbiani: I know, she may be the hottest girl I've ever hated.
+[s10_e05_c03_u018] Ross Geller: What... what you working on?
+[s10_e05_c03_u019] Joey Tribbiani: Oh, Monica and Chandler's recommendation. I want it to sound smart but.. I don't know any big words or anything, so...
+[s10_e05_c03_u020] Ross Geller: Why don't you use your Thesaurus?
+[s10_e05_c03_u021] Joey Tribbiani: What did I just say?
+[s10_e05_c03_u022] Ross Geller: Watch. Here, you ehm... You highlight the word you want to change. Go under Tools and the Thesaurus generates... 'gives'... 'gives' a whole list of choices. You can pick the word that sounds smartest.
+[s10_e05_c03_u023] Joey Tribbiani: Oh my God, that's great! I'm smart!! No, no, I'm... ""brainy, bright, clever"", I love this thing! Look out ladies, Joey Tribbiani's got the whole package!!"
+s10_e05,s10_e05_c03,Rachel Green,0,4,6,3,7,2,s10_e05_c03_u005,s10_e05_c03_u013,"[s10_e05_c03_u005] Joey Tribbiani: That's right, yeah.
+[s10_e05_c03_u006] Amy Green: You're not good!
+[s10_e05_c03_u007] Joey Tribbiani: Always nice to meet a fan!
+[s10_e05_c03_u008] Rachel Green: So now, what are you doing here?
+[s10_e05_c03_u009] Amy Green: Well, I have huge news.
+[s10_e05_c03_u010] Rachel Green: Oh sorry, hold on. Let me just check on the baby!
+[s10_e05_c03_u011] Amy Green: Wait, this is important! Can Ella wait?
+[s10_e05_c03_u012] Ross Geller: Ehm... Her name is Emma.
+[s10_e05_c03_u013] Amy Green: Why did you change it, Ella was so much prettier!"
+s10_e05,s10_e05_c03,Ross Geller,0,8,17,7,17,3,s10_e05_c03_u009,s10_e05_c03_u023,"[s10_e05_c03_u009] Amy Green: Well, I have huge news.
+[s10_e05_c03_u010] Rachel Green: Oh sorry, hold on. Let me just check on the baby!
+[s10_e05_c03_u011] Amy Green: Wait, this is important! Can Ella wait?
+[s10_e05_c03_u012] Ross Geller: Ehm... Her name is Emma.
+[s10_e05_c03_u013] Amy Green: Why did you change it, Ella was so much prettier!
+[s10_e05_c03_u014] Ross Geller: What do I know? I just sell Middle Eastern food from a cart!
+[s10_e05_c03_u015] Amy Green: Hey, your English is getting better!!
+[s10_e05_c03_u016] Ross Geller: Oh my God!
+[s10_e05_c03_u017] Joey Tribbiani: I know, she may be the hottest girl I've ever hated.
+[s10_e05_c03_u018] Ross Geller: What... what you working on?
+[s10_e05_c03_u019] Joey Tribbiani: Oh, Monica and Chandler's recommendation. I want it to sound smart but.. I don't know any big words or anything, so...
+[s10_e05_c03_u020] Ross Geller: Why don't you use your Thesaurus?
+[s10_e05_c03_u021] Joey Tribbiani: What did I just say?
+[s10_e05_c03_u022] Ross Geller: Watch. Here, you ehm... You highlight the word you want to change. Go under Tools and the Thesaurus generates... 'gives'... 'gives' a whole list of choices. You can pick the word that sounds smartest.
+[s10_e05_c03_u023] Joey Tribbiani: Oh my God, that's great! I'm smart!! No, no, I'm... ""brainy, bright, clever"", I love this thing! Look out ladies, Joey Tribbiani's got the whole package!!"
+s10_e05,s10_e05_c04,Amy Green,0,0,20,0,20,3,s10_e05_c04_u001,s10_e05_c04_u025,"[s10_e05_c04_u001] Rachel Green: God!
+[s10_e05_c04_u002] Amy Green: So beautiful.
+[s10_e05_c04_u003] Rachel Green: Oh, I know, isn't she?
+[s10_e05_c04_u004] Amy Green: No, I was talking about your bedding.
+[s10_e05_c04_u005] Rachel Green: All right. What's your news, Amy?
+[s10_e05_c04_u006] Amy Green: Oh! Um... Well... I'm getting married.
+[s10_e05_c04_u007] Rachel Green: What? Oh my God! To who?
+[s10_e05_c04_u008] Amy Green: This guy! He has a killer apartment.
+[s10_e05_c04_u009] Rachel Green: A-And??
+[s10_e05_c04_u010] Amy Green: A-And it's on Fifth. And the elevator opens up right into the living room.
+[s10_e05_c04_u011] Rachel Green: No, what's he like?
+[s10_e05_c04_u012] Amy Green: Oh! He's ok. Do you remember my old boyfriend Mark?
+[s10_e05_c04_u013] Rachel Green: Yeah.
+[s10_e05_c04_u014] Amy Green: It's his dad.
+[s10_e05_c04_u015] Rachel Green: Huh... wow, so he's gotta be...
+[s10_e05_c04_u016] Amy Green: Old? Yeah! But he travels a lot, so he's hardly ever there.
+[s10_e05_c04_u017] Rachel Green: Sweety, I gotta tell ya... it sounds a little bit like you like the apartment more than you like...
+[s10_e05_c04_u018] Amy Green: Myron. Hmm... I told you he was old!
+[s10_e05_c04_u019] Rachel Green: Oh... sit down, sit down. Oh, honey, you know, I once also almost married somebody that I didn't love. Do you remember Barry?
+[s10_e05_c04_u020] Amy Green: Humpf, remember him? How we used to make out all the time after you went to sleep.
+[s10_e05_c04_u021] Rachel Green: Sometimes just nodding is ok. Uhm, so but anyway, listen, not marrying Barry was the best decision that I ever, ever made. Honey, you deserve true love. Your soulmate is out there, somewhere. Someone that is your age, that is smart, that is fun and that you care about!
+[s10_e05_c04_u022] Amy Green: You're right, you're right! I'm gonna do it!
+[s10_e05_c04_u023] Rachel Green: Ok.
+[s10_e05_c04_u024] Amy Green: I'm gonna marry Myron and keep looking for Mr Right.
+[s10_e05_c04_u025] Rachel Green: Ok, let's keep talking."
+s10_e05,s10_e05_c04,Rachel Green,0,0,20,0,20,3,s10_e05_c04_u001,s10_e05_c04_u025,"[s10_e05_c04_u001] Rachel Green: God!
+[s10_e05_c04_u002] Amy Green: So beautiful.
+[s10_e05_c04_u003] Rachel Green: Oh, I know, isn't she?
+[s10_e05_c04_u004] Amy Green: No, I was talking about your bedding.
+[s10_e05_c04_u005] Rachel Green: All right. What's your news, Amy?
+[s10_e05_c04_u006] Amy Green: Oh! Um... Well... I'm getting married.
+[s10_e05_c04_u007] Rachel Green: What? Oh my God! To who?
+[s10_e05_c04_u008] Amy Green: This guy! He has a killer apartment.
+[s10_e05_c04_u009] Rachel Green: A-And??
+[s10_e05_c04_u010] Amy Green: A-And it's on Fifth. And the elevator opens up right into the living room.
+[s10_e05_c04_u011] Rachel Green: No, what's he like?
+[s10_e05_c04_u012] Amy Green: Oh! He's ok. Do you remember my old boyfriend Mark?
+[s10_e05_c04_u013] Rachel Green: Yeah.
+[s10_e05_c04_u014] Amy Green: It's his dad.
+[s10_e05_c04_u015] Rachel Green: Huh... wow, so he's gotta be...
+[s10_e05_c04_u016] Amy Green: Old? Yeah! But he travels a lot, so he's hardly ever there.
+[s10_e05_c04_u017] Rachel Green: Sweety, I gotta tell ya... it sounds a little bit like you like the apartment more than you like...
+[s10_e05_c04_u018] Amy Green: Myron. Hmm... I told you he was old!
+[s10_e05_c04_u019] Rachel Green: Oh... sit down, sit down. Oh, honey, you know, I once also almost married somebody that I didn't love. Do you remember Barry?
+[s10_e05_c04_u020] Amy Green: Humpf, remember him? How we used to make out all the time after you went to sleep.
+[s10_e05_c04_u021] Rachel Green: Sometimes just nodding is ok. Uhm, so but anyway, listen, not marrying Barry was the best decision that I ever, ever made. Honey, you deserve true love. Your soulmate is out there, somewhere. Someone that is your age, that is smart, that is fun and that you care about!
+[s10_e05_c04_u022] Amy Green: You're right, you're right! I'm gonna do it!
+[s10_e05_c04_u023] Rachel Green: Ok.
+[s10_e05_c04_u024] Amy Green: I'm gonna marry Myron and keep looking for Mr Right.
+[s10_e05_c04_u025] Rachel Green: Ok, let's keep talking."
+s10_e05,s10_e05_c05,Mike Hannigan,0,0,1,0,2,2,s10_e05_c05_u001,s10_e05_c05_u007,"[s10_e05_c05_u001] Phoebe Buffay: Excuse me, anniversary. Excuse me, anniversary. . Uhm, sir, could you move your nachos... they're in my seat. It's my anniversary. Here we are! . Can't believe it's been a whole year!
+[s10_e05_c05_u002] Mike Hannigan: I know. This has been the best year... THIS HAS BEEN THE BEST YEAR OF MY LIFE!
+[s10_e05_c05_u003] Phoebe Buffay: ME TOO! I NEVER THOUGHT I COULD LOVE SOMEONE THIS MUCH!
+[s10_e05_c05_u004] Mike Hannigan: I FEEL THE SAME WAY!
+[s10_e05_c05_u005] Phoebe Buffay: YOU'RE SO GENEROUS AND KIND AND YOU'RE AMAZING IN BED IT'S OUR ANNIVERSARY!
+[s10_e05_c05_u006] Announcer: Knicks fans, please turn your attention to the big screen on the score board. Someone has a special question to ask.
+[s10_e05_c05_u007] Phoebe Buffay: Oh how lame... oh, it's so tacky, and impersonal."
+s10_e05,s10_e05_c05,Mike Hannigan,1,3,3,2,4,2,s10_e05_c05_u003,s10_e05_c05_u009,"[s10_e05_c05_u003] Phoebe Buffay: ME TOO! I NEVER THOUGHT I COULD LOVE SOMEONE THIS MUCH!
+[s10_e05_c05_u004] Mike Hannigan: I FEEL THE SAME WAY!
+[s10_e05_c05_u005] Phoebe Buffay: YOU'RE SO GENEROUS AND KIND AND YOU'RE AMAZING IN BED IT'S OUR ANNIVERSARY!
+[s10_e05_c05_u006] Announcer: Knicks fans, please turn your attention to the big screen on the score board. Someone has a special question to ask.
+[s10_e05_c05_u007] Phoebe Buffay: Oh how lame... oh, it's so tacky, and impersonal.
+[s10_e05_c05_u008] Mike Hannigan: Really?
+[s10_e05_c05_u009] Phoebe Buffay: Oh, it's the worst way to propose!"
+s10_e05,s10_e05_c05,Mike Hannigan,2,5,5,4,5,2,s10_e05_c05_u005,s10_e05_c05_u010,"[s10_e05_c05_u005] Phoebe Buffay: YOU'RE SO GENEROUS AND KIND AND YOU'RE AMAZING IN BED IT'S OUR ANNIVERSARY!
+[s10_e05_c05_u006] Announcer: Knicks fans, please turn your attention to the big screen on the score board. Someone has a special question to ask.
+[s10_e05_c05_u007] Phoebe Buffay: Oh how lame... oh, it's so tacky, and impersonal.
+[s10_e05_c05_u008] Mike Hannigan: Really?
+[s10_e05_c05_u009] Phoebe Buffay: Oh, it's the worst way to propose!
+[s10_e05_c05_u010] Mike Hannigan: Excuse me... ."
+s10_e05,s10_e05_c05,Phoebe Buffay,0,0,5,0,5,3,s10_e05_c05_u001,s10_e05_c05_u010,"[s10_e05_c05_u001] Phoebe Buffay: Excuse me, anniversary. Excuse me, anniversary. . Uhm, sir, could you move your nachos... they're in my seat. It's my anniversary. Here we are! . Can't believe it's been a whole year!
+[s10_e05_c05_u002] Mike Hannigan: I know. This has been the best year... THIS HAS BEEN THE BEST YEAR OF MY LIFE!
+[s10_e05_c05_u003] Phoebe Buffay: ME TOO! I NEVER THOUGHT I COULD LOVE SOMEONE THIS MUCH!
+[s10_e05_c05_u004] Mike Hannigan: I FEEL THE SAME WAY!
+[s10_e05_c05_u005] Phoebe Buffay: YOU'RE SO GENEROUS AND KIND AND YOU'RE AMAZING IN BED IT'S OUR ANNIVERSARY!
+[s10_e05_c05_u006] Announcer: Knicks fans, please turn your attention to the big screen on the score board. Someone has a special question to ask.
+[s10_e05_c05_u007] Phoebe Buffay: Oh how lame... oh, it's so tacky, and impersonal.
+[s10_e05_c05_u008] Mike Hannigan: Really?
+[s10_e05_c05_u009] Phoebe Buffay: Oh, it's the worst way to propose!
+[s10_e05_c05_u010] Mike Hannigan: Excuse me... ."
+s10_e05,s10_e05_c06,Chandler Bing,0,1,1,0,2,2,s10_e05_c06_u001,s10_e05_c06_u007,"[s10_e05_c06_u001] Joey Tribbiani: Hey, finished my recommendation. Here. And I think you'll be very, very happy. It's the longest I ever spent on a computer without looking at porn.
+[s10_e05_c06_u002] Chandler Bing: I don't... uh... understand.
+[s10_e05_c06_u003] Joey Tribbiani: Some of the words are a little too sophisticated for ya?
+[s10_e05_c06_u004] Monica Geller: It doesn't make any sense.
+[s10_e05_c06_u005] Joey Tribbiani: Of course it does! It's smart! I used the the-saurus!
+[s10_e05_c06_u006] Chandler Bing: On every word?
+[s10_e05_c06_u007] Joey Tribbiani: Yep!"
+s10_e05,s10_e05_c06,Chandler Bing,1,5,5,4,6,2,s10_e05_c06_u005,s10_e05_c06_u011,"[s10_e05_c06_u005] Joey Tribbiani: Of course it does! It's smart! I used the the-saurus!
+[s10_e05_c06_u006] Chandler Bing: On every word?
+[s10_e05_c06_u007] Joey Tribbiani: Yep!
+[s10_e05_c06_u008] Monica Geller: Alright, what was this sentence originally?
+[s10_e05_c06_u009] Joey Tribbiani: Oh, 'They are warm, nice, people with big hearts'.
+[s10_e05_c06_u010] Chandler Bing: And that became 'they are humid prepossessing Homo Sapiens with full sized aortic pumps...?
+[s10_e05_c06_u011] Joey Tribbiani: Yeah, yeah and hey, I really mean it, dude."
+s10_e05,s10_e05_c06,Joey Tribbiani,0,0,10,0,10,3,s10_e05_c06_u001,s10_e05_c06_u015,"[s10_e05_c06_u001] Joey Tribbiani: Hey, finished my recommendation. Here. And I think you'll be very, very happy. It's the longest I ever spent on a computer without looking at porn.
+[s10_e05_c06_u002] Chandler Bing: I don't... uh... understand.
+[s10_e05_c06_u003] Joey Tribbiani: Some of the words are a little too sophisticated for ya?
+[s10_e05_c06_u004] Monica Geller: It doesn't make any sense.
+[s10_e05_c06_u005] Joey Tribbiani: Of course it does! It's smart! I used the the-saurus!
+[s10_e05_c06_u006] Chandler Bing: On every word?
+[s10_e05_c06_u007] Joey Tribbiani: Yep!
+[s10_e05_c06_u008] Monica Geller: Alright, what was this sentence originally?
+[s10_e05_c06_u009] Joey Tribbiani: Oh, 'They are warm, nice, people with big hearts'.
+[s10_e05_c06_u010] Chandler Bing: And that became 'they are humid prepossessing Homo Sapiens with full sized aortic pumps...?
+[s10_e05_c06_u011] Joey Tribbiani: Yeah, yeah and hey, I really mean it, dude.
+[s10_e05_c06_u012] Monica Geller: Hey Joey, I don't think we can use this.
+[s10_e05_c06_u013] Joey Tribbiani: Why not?
+[s10_e05_c06_u014] Monica Geller: Well, because you signed it baby kangaroo Tribbiani . Hey, why don't you stop worrying about sounding smart and just be yourself!
+[s10_e05_c06_u015] Chandler Bing: You know what? You don't need a thesaurus, just write from here, your full sized aortic pump."
+s10_e05,s10_e05_c06,Monica Geller,0,3,3,2,4,2,s10_e05_c06_u003,s10_e05_c06_u009,"[s10_e05_c06_u003] Joey Tribbiani: Some of the words are a little too sophisticated for ya?
+[s10_e05_c06_u004] Monica Geller: It doesn't make any sense.
+[s10_e05_c06_u005] Joey Tribbiani: Of course it does! It's smart! I used the the-saurus!
+[s10_e05_c06_u006] Chandler Bing: On every word?
+[s10_e05_c06_u007] Joey Tribbiani: Yep!
+[s10_e05_c06_u008] Monica Geller: Alright, what was this sentence originally?
+[s10_e05_c06_u009] Joey Tribbiani: Oh, 'They are warm, nice, people with big hearts'."
+s10_e05,s10_e05_c06,Monica Geller,1,7,7,6,8,2,s10_e05_c06_u007,s10_e05_c06_u013,"[s10_e05_c06_u007] Joey Tribbiani: Yep!
+[s10_e05_c06_u008] Monica Geller: Alright, what was this sentence originally?
+[s10_e05_c06_u009] Joey Tribbiani: Oh, 'They are warm, nice, people with big hearts'.
+[s10_e05_c06_u010] Chandler Bing: And that became 'they are humid prepossessing Homo Sapiens with full sized aortic pumps...?
+[s10_e05_c06_u011] Joey Tribbiani: Yeah, yeah and hey, I really mean it, dude.
+[s10_e05_c06_u012] Monica Geller: Hey Joey, I don't think we can use this.
+[s10_e05_c06_u013] Joey Tribbiani: Why not?"
+s10_e05,s10_e05_c06,Monica Geller,2,9,10,8,10,2,s10_e05_c06_u009,s10_e05_c06_u015,"[s10_e05_c06_u009] Joey Tribbiani: Oh, 'They are warm, nice, people with big hearts'.
+[s10_e05_c06_u010] Chandler Bing: And that became 'they are humid prepossessing Homo Sapiens with full sized aortic pumps...?
+[s10_e05_c06_u011] Joey Tribbiani: Yeah, yeah and hey, I really mean it, dude.
+[s10_e05_c06_u012] Monica Geller: Hey Joey, I don't think we can use this.
+[s10_e05_c06_u013] Joey Tribbiani: Why not?
+[s10_e05_c06_u014] Monica Geller: Well, because you signed it baby kangaroo Tribbiani . Hey, why don't you stop worrying about sounding smart and just be yourself!
+[s10_e05_c06_u015] Chandler Bing: You know what? You don't need a thesaurus, just write from here, your full sized aortic pump."
+s10_e05,s10_e05_c07,Amy Green,0,0,6,0,6,3,s10_e05_c07_u001,s10_e05_c07_u011,"[s10_e05_c07_u001] Rachel Green: Amy, hi!
+[s10_e05_c07_u002] Amy Green: I took your advice, I left Myron.
+[s10_e05_c07_u003] Rachel Green: Oh, good for you!
+[s10_e05_c07_u004] Amy Green: I know! I'm Erin Brockovich!
+[s10_e05_c07_u005] Rachel Green: Yes you are! Oh, I am so proud of you!
+[s10_e05_c07_u006] Amy Green: Thank you! So, can I stay with you?
+[s10_e05_c07_u007] Rachel Green: But Erin Brockovich had her own house.
+[s10_e05_c07_u008] Joey Tribbiani: Ah, look who's back! Why do you have bags? RACH, WHY DOES SHE HAVE BAGS?
+[s10_e05_c07_u009] Amy Green: Well, I'm staying with you guys!
+[s10_e05_c07_u010] Joey Tribbiani: What?
+[s10_e05_c07_u011] Amy Green: We're gonna be roomies! Come on!"
+s10_e05,s10_e05_c07,Joey Tribbiani,0,5,6,4,6,2,s10_e05_c07_u005,s10_e05_c07_u011,"[s10_e05_c07_u005] Rachel Green: Yes you are! Oh, I am so proud of you!
+[s10_e05_c07_u006] Amy Green: Thank you! So, can I stay with you?
+[s10_e05_c07_u007] Rachel Green: But Erin Brockovich had her own house.
+[s10_e05_c07_u008] Joey Tribbiani: Ah, look who's back! Why do you have bags? RACH, WHY DOES SHE HAVE BAGS?
+[s10_e05_c07_u009] Amy Green: Well, I'm staying with you guys!
+[s10_e05_c07_u010] Joey Tribbiani: What?
+[s10_e05_c07_u011] Amy Green: We're gonna be roomies! Come on!"
+s10_e05,s10_e05_c07,Rachel Green,0,0,4,0,5,3,s10_e05_c07_u001,s10_e05_c07_u010,"[s10_e05_c07_u001] Rachel Green: Amy, hi!
+[s10_e05_c07_u002] Amy Green: I took your advice, I left Myron.
+[s10_e05_c07_u003] Rachel Green: Oh, good for you!
+[s10_e05_c07_u004] Amy Green: I know! I'm Erin Brockovich!
+[s10_e05_c07_u005] Rachel Green: Yes you are! Oh, I am so proud of you!
+[s10_e05_c07_u006] Amy Green: Thank you! So, can I stay with you?
+[s10_e05_c07_u007] Rachel Green: But Erin Brockovich had her own house.
+[s10_e05_c07_u008] Joey Tribbiani: Ah, look who's back! Why do you have bags? RACH, WHY DOES SHE HAVE BAGS?
+[s10_e05_c07_u009] Amy Green: Well, I'm staying with you guys!
+[s10_e05_c07_u010] Joey Tribbiani: What?"
+s10_e05,s10_e05_c08,Amy Green,0,9,12,8,12,2,s10_e05_c08_u009,s10_e05_c08_u017,"[s10_e05_c08_u009] Joey Tribbiani: Yeah, Monica made us!
+[s10_e05_c08_u010] Rachel Green: Well, uhm... whatever, I have really appreciated it, 'cause I don't think I would be the person that I am today if it wasn't for you guys. See, I wanna help Amy the way you guys helped me. And I know it's gonna take patience, but that's ok.
+[s10_e05_c08_u011] Amy Green: Good morning.
+[s10_e05_c08_u012] Joey Tribbiani: Yeaah.
+[s10_e05_c08_u013] Rachel Green: Amy, that's what I was supposed to wear today, that's why I hung it on the door.
+[s10_e05_c08_u014] Amy Green: Oh, sweety, you can't pull this off.
+[s10_e05_c08_u015] Rachel Green: Amy, you know what? I was thinking that maybe now it'd be a good time for us to sit down and, you know, talk about your future.
+[s10_e05_c08_u016] Amy Green: Oh, I can't, honey. I'm gonna go get my eyebrows shaped. I am not happy. Oh... sure you wanna eat that?
+[s10_e05_c08_u017] Joey Tribbiani: I'M CURVY, AND I LIKE IT!"
+s10_e05,s10_e05_c08,Joey Tribbiani,0,0,8,0,9,3,s10_e05_c08_u001,s10_e05_c08_u014,"[s10_e05_c08_u001] Joey Tribbiani: You slept out here?
+[s10_e05_c08_u002] Rachel Green: Yeah... Amy kept kicking me in her sleep yelling 'Myron, get off!'
+[s10_e05_c08_u003] Joey Tribbiani: But uhm, we're getting rid of her, right? Rach, please tell me we're getting rid of her.
+[s10_e05_c08_u004] Rachel Green: Joey, I can't do that!
+[s10_e05_c08_u005] Joey Tribbiani: Oh, come on! Last night I was finishing off a pizza and she said ""Uoh oh oh, a moment on the lips, forever on the hips!"" I don't need that kind of talk in my house!
+[s10_e05_c08_u006] Rachel Green: Well Joey, uhm look, I know that she's difficult, but I think it's really good that she's here.
+[s10_e05_c08_u007] Joey Tribbiani: 'Cause we will appreciate it more when she's gone?
+[s10_e05_c08_u008] Rachel Green: No, it's just... look, you know, when I first moved to the city I was a lot like her! I was spoiled, self-centered and you guys really took care of me.
+[s10_e05_c08_u009] Joey Tribbiani: Yeah, Monica made us!
+[s10_e05_c08_u010] Rachel Green: Well, uhm... whatever, I have really appreciated it, 'cause I don't think I would be the person that I am today if it wasn't for you guys. See, I wanna help Amy the way you guys helped me. And I know it's gonna take patience, but that's ok.
+[s10_e05_c08_u011] Amy Green: Good morning.
+[s10_e05_c08_u012] Joey Tribbiani: Yeaah.
+[s10_e05_c08_u013] Rachel Green: Amy, that's what I was supposed to wear today, that's why I hung it on the door.
+[s10_e05_c08_u014] Amy Green: Oh, sweety, you can't pull this off."
+s10_e05,s10_e05_c08,Rachel Green,0,0,12,0,12,3,s10_e05_c08_u001,s10_e05_c08_u017,"[s10_e05_c08_u001] Joey Tribbiani: You slept out here?
+[s10_e05_c08_u002] Rachel Green: Yeah... Amy kept kicking me in her sleep yelling 'Myron, get off!'
+[s10_e05_c08_u003] Joey Tribbiani: But uhm, we're getting rid of her, right? Rach, please tell me we're getting rid of her.
+[s10_e05_c08_u004] Rachel Green: Joey, I can't do that!
+[s10_e05_c08_u005] Joey Tribbiani: Oh, come on! Last night I was finishing off a pizza and she said ""Uoh oh oh, a moment on the lips, forever on the hips!"" I don't need that kind of talk in my house!
+[s10_e05_c08_u006] Rachel Green: Well Joey, uhm look, I know that she's difficult, but I think it's really good that she's here.
+[s10_e05_c08_u007] Joey Tribbiani: 'Cause we will appreciate it more when she's gone?
+[s10_e05_c08_u008] Rachel Green: No, it's just... look, you know, when I first moved to the city I was a lot like her! I was spoiled, self-centered and you guys really took care of me.
+[s10_e05_c08_u009] Joey Tribbiani: Yeah, Monica made us!
+[s10_e05_c08_u010] Rachel Green: Well, uhm... whatever, I have really appreciated it, 'cause I don't think I would be the person that I am today if it wasn't for you guys. See, I wanna help Amy the way you guys helped me. And I know it's gonna take patience, but that's ok.
+[s10_e05_c08_u011] Amy Green: Good morning.
+[s10_e05_c08_u012] Joey Tribbiani: Yeaah.
+[s10_e05_c08_u013] Rachel Green: Amy, that's what I was supposed to wear today, that's why I hung it on the door.
+[s10_e05_c08_u014] Amy Green: Oh, sweety, you can't pull this off.
+[s10_e05_c08_u015] Rachel Green: Amy, you know what? I was thinking that maybe now it'd be a good time for us to sit down and, you know, talk about your future.
+[s10_e05_c08_u016] Amy Green: Oh, I can't, honey. I'm gonna go get my eyebrows shaped. I am not happy. Oh... sure you wanna eat that?
+[s10_e05_c08_u017] Joey Tribbiani: I'M CURVY, AND I LIKE IT!"
+s10_e05,s10_e05_c09,Amy Green,0,27,29,26,30,2,s10_e05_c09_u027,s10_e05_c09_u035,"[s10_e05_c09_u027] Monica Geller: What? what? He obviously thinks that's a nice way to be proposed to, plus he'd never suspect it!
+[s10_e05_c09_u028] Phoebe Buffay: Yeah, that does make sense. Ok, now, would... would you two like that?
+[s10_e05_c09_u029] Chandler Bing: Sounds good to me... but what would a guy think?
+[s10_e05_c09_u030] Amy Green: Nana is on the phone.
+[s10_e05_c09_u031] Rachel Green: Oh! That's interesting, since she died seven years ago!!
+[s10_e05_c09_u032] Amy Green: She did? Who got her condo in Boca?
+[s10_e05_c09_u033] Rachel Green: Hello? Oh, it's our nanny! Hi! Oh... God! I hope you feel better! Ok, bye! That's Molly, she's sick. Can you watch Emma today?
+[s10_e05_c09_u034] Ross Geller: No, I can't. I have back-to-back classes. Did Molly say what she had? Because my throat's been hurting?
+[s10_e05_c09_u035] Rachel Green: Menstrual cramps."
+s10_e05,s10_e05_c09,Amy Green,1,52,52,51,52,2,s10_e05_c09_u052,s10_e05_c09_u057,"[s10_e05_c09_u052] Rachel Green: Ross, I am trying to help her become a better person. This is a huge breakthrough for her! She just offered to do something for another human being!!
+[s10_e05_c09_u053] Ross Geller: I... I don't know..
+[s10_e05_c09_u054] Rachel Green: Ross, I'm telling you, she's giving up getting her eyebrows shaped to do this alright? Do you understand how important that is in our world?
+[s10_e05_c09_u055] Amy Green: um... listen, I couldn't help but overhear... 'cause I was trying to... Listen, let me do this alright? I really wanna help you guys out, and plus Rachel's been so wonderful to me...
+[s10_e05_c09_u056] Rachel Green: Absolutely.
+[s10_e05_c09_u057] Amy Green: Oh! Great! So how much does it pay?"
+s10_e05,s10_e05_c09,Chandler Bing,0,0,1,0,2,2,s10_e05_c09_u001,s10_e05_c09_u007,"[s10_e05_c09_u001] Phoebe Buffay: Hi. I just had the worst anniversary ever.
+[s10_e05_c09_u002] Chandler Bing: I doubt that! Tell her about us last year.
+[s10_e05_c09_u003] Monica Geller: Oh, well, I bought Chandler a five hundred dollar watch and he wrote me a rap song.
+[s10_e05_c09_u004] Ross Geller: Seriously?
+[s10_e05_c09_u005] Chandler Bing: Word!
+[s10_e05_c09_u006] Phoebe Buffay: Well, mine was worse than that.
+[s10_e05_c09_u007] Rachel Green: Well, what happened?"
+s10_e05,s10_e05_c09,Chandler Bing,1,14,14,13,15,2,s10_e05_c09_u014,s10_e05_c09_u020,"[s10_e05_c09_u014] Phoebe Buffay: Yeah, I really do! Yes, but, after I dumped on the way he was gonna propose to me, I don't think he's ever gonna ask again! I mean, I said no in Barbados and now this!
+[s10_e05_c09_u015] Chandler Bing: She's right! If I were a guy and... Did I just say if I were a guy..?
+[s10_e05_c09_u016] Monica Geller: Maybe you don't need him to propose to you, maybe you can propose to him!
+[s10_e05_c09_u017] Phoebe Buffay: Oh, I don't know, I don't know, isn't that a little desperate?
+[s10_e05_c09_u018] Monica Geller: I proposed to Chandler! Alright, moving on...
+[s10_e05_c09_u019] Chandler Bing: Oh, I don't think it was desperate, I think it was amazing!
+[s10_e05_c09_u020] Monica Geller: Thank you."
+s10_e05,s10_e05_c09,Monica Geller,0,13,17,12,18,3,s10_e05_c09_u013,s10_e05_c09_u023,"[s10_e05_c09_u013] Ross Geller: Well, do you wanna marry him?
+[s10_e05_c09_u014] Phoebe Buffay: Yeah, I really do! Yes, but, after I dumped on the way he was gonna propose to me, I don't think he's ever gonna ask again! I mean, I said no in Barbados and now this!
+[s10_e05_c09_u015] Chandler Bing: She's right! If I were a guy and... Did I just say if I were a guy..?
+[s10_e05_c09_u016] Monica Geller: Maybe you don't need him to propose to you, maybe you can propose to him!
+[s10_e05_c09_u017] Phoebe Buffay: Oh, I don't know, I don't know, isn't that a little desperate?
+[s10_e05_c09_u018] Monica Geller: I proposed to Chandler! Alright, moving on...
+[s10_e05_c09_u019] Chandler Bing: Oh, I don't think it was desperate, I think it was amazing!
+[s10_e05_c09_u020] Monica Geller: Thank you.
+[s10_e05_c09_u021] Phoebe Buffay: Well, do you think I should propose?
+[s10_e05_c09_u022] Rachel Green: I think it could be kind of great!
+[s10_e05_c09_u023] Ross Geller: Absolutely! You'll love the feeling! There's nothing like it!"
+s10_e05,s10_e05_c09,Monica Geller,1,22,24,21,25,2,s10_e05_c09_u022,s10_e05_c09_u030,"[s10_e05_c09_u022] Rachel Green: I think it could be kind of great!
+[s10_e05_c09_u023] Ross Geller: Absolutely! You'll love the feeling! There's nothing like it!
+[s10_e05_c09_u024] Phoebe Buffay: Ok, ok, so how should I do it?
+[s10_e05_c09_u025] Monica Geller: How about at a game, on the big screen?
+[s10_e05_c09_u026] Rachel Green: Uuuh!! How about at a Footlocker?
+[s10_e05_c09_u027] Monica Geller: What? what? He obviously thinks that's a nice way to be proposed to, plus he'd never suspect it!
+[s10_e05_c09_u028] Phoebe Buffay: Yeah, that does make sense. Ok, now, would... would you two like that?
+[s10_e05_c09_u029] Chandler Bing: Sounds good to me... but what would a guy think?
+[s10_e05_c09_u030] Amy Green: Nana is on the phone."
+s10_e05,s10_e05_c09,Phoebe Buffay,0,3,7,2,8,3,s10_e05_c09_u003,s10_e05_c09_u013,"[s10_e05_c09_u003] Monica Geller: Oh, well, I bought Chandler a five hundred dollar watch and he wrote me a rap song.
+[s10_e05_c09_u004] Ross Geller: Seriously?
+[s10_e05_c09_u005] Chandler Bing: Word!
+[s10_e05_c09_u006] Phoebe Buffay: Well, mine was worse than that.
+[s10_e05_c09_u007] Rachel Green: Well, what happened?
+[s10_e05_c09_u008] Phoebe Buffay: We were at the game, and this guy proposed to his girlfriend on the big screen thing...
+[s10_e05_c09_u009] Rachel Green: Oh, that is so tacky.
+[s10_e05_c09_u010] Phoebe Buffay: Well, that's what I said, but it turns out, Mike was planning on proposing to me that same way last night!
+[s10_e05_c09_u011] Monica Geller: Oh my God, Mike was gonna propose?
+[s10_e05_c09_u012] Rachel Green: Phoebe, that's huge!
+[s10_e05_c09_u013] Ross Geller: Well, do you wanna marry him?"
+s10_e05,s10_e05_c09,Phoebe Buffay,1,9,9,8,10,2,s10_e05_c09_u009,s10_e05_c09_u015,"[s10_e05_c09_u009] Rachel Green: Oh, that is so tacky.
+[s10_e05_c09_u010] Phoebe Buffay: Well, that's what I said, but it turns out, Mike was planning on proposing to me that same way last night!
+[s10_e05_c09_u011] Monica Geller: Oh my God, Mike was gonna propose?
+[s10_e05_c09_u012] Rachel Green: Phoebe, that's huge!
+[s10_e05_c09_u013] Ross Geller: Well, do you wanna marry him?
+[s10_e05_c09_u014] Phoebe Buffay: Yeah, I really do! Yes, but, after I dumped on the way he was gonna propose to me, I don't think he's ever gonna ask again! I mean, I said no in Barbados and now this!
+[s10_e05_c09_u015] Chandler Bing: She's right! If I were a guy and... Did I just say if I were a guy..?"
+s10_e05,s10_e05_c09,Phoebe Buffay,2,12,13,11,14,2,s10_e05_c09_u012,s10_e05_c09_u019,"[s10_e05_c09_u012] Rachel Green: Phoebe, that's huge!
+[s10_e05_c09_u013] Ross Geller: Well, do you wanna marry him?
+[s10_e05_c09_u014] Phoebe Buffay: Yeah, I really do! Yes, but, after I dumped on the way he was gonna propose to me, I don't think he's ever gonna ask again! I mean, I said no in Barbados and now this!
+[s10_e05_c09_u015] Chandler Bing: She's right! If I were a guy and... Did I just say if I were a guy..?
+[s10_e05_c09_u016] Monica Geller: Maybe you don't need him to propose to you, maybe you can propose to him!
+[s10_e05_c09_u017] Phoebe Buffay: Oh, I don't know, I don't know, isn't that a little desperate?
+[s10_e05_c09_u018] Monica Geller: I proposed to Chandler! Alright, moving on...
+[s10_e05_c09_u019] Chandler Bing: Oh, I don't think it was desperate, I think it was amazing!"
+s10_e05,s10_e05_c09,Phoebe Buffay,3,16,16,15,17,2,s10_e05_c09_u016,s10_e05_c09_u022,"[s10_e05_c09_u016] Monica Geller: Maybe you don't need him to propose to you, maybe you can propose to him!
+[s10_e05_c09_u017] Phoebe Buffay: Oh, I don't know, I don't know, isn't that a little desperate?
+[s10_e05_c09_u018] Monica Geller: I proposed to Chandler! Alright, moving on...
+[s10_e05_c09_u019] Chandler Bing: Oh, I don't think it was desperate, I think it was amazing!
+[s10_e05_c09_u020] Monica Geller: Thank you.
+[s10_e05_c09_u021] Phoebe Buffay: Well, do you think I should propose?
+[s10_e05_c09_u022] Rachel Green: I think it could be kind of great!"
+s10_e05,s10_e05_c09,Phoebe Buffay,4,19,20,18,21,2,s10_e05_c09_u019,s10_e05_c09_u026,"[s10_e05_c09_u019] Chandler Bing: Oh, I don't think it was desperate, I think it was amazing!
+[s10_e05_c09_u020] Monica Geller: Thank you.
+[s10_e05_c09_u021] Phoebe Buffay: Well, do you think I should propose?
+[s10_e05_c09_u022] Rachel Green: I think it could be kind of great!
+[s10_e05_c09_u023] Ross Geller: Absolutely! You'll love the feeling! There's nothing like it!
+[s10_e05_c09_u024] Phoebe Buffay: Ok, ok, so how should I do it?
+[s10_e05_c09_u025] Monica Geller: How about at a game, on the big screen?
+[s10_e05_c09_u026] Rachel Green: Uuuh!! How about at a Footlocker?"
+s10_e05,s10_e05_c09,Phoebe Buffay,5,23,23,22,24,2,s10_e05_c09_u023,s10_e05_c09_u029,"[s10_e05_c09_u023] Ross Geller: Absolutely! You'll love the feeling! There's nothing like it!
+[s10_e05_c09_u024] Phoebe Buffay: Ok, ok, so how should I do it?
+[s10_e05_c09_u025] Monica Geller: How about at a game, on the big screen?
+[s10_e05_c09_u026] Rachel Green: Uuuh!! How about at a Footlocker?
+[s10_e05_c09_u027] Monica Geller: What? what? He obviously thinks that's a nice way to be proposed to, plus he'd never suspect it!
+[s10_e05_c09_u028] Phoebe Buffay: Yeah, that does make sense. Ok, now, would... would you two like that?
+[s10_e05_c09_u029] Chandler Bing: Sounds good to me... but what would a guy think?"
+s10_e05,s10_e05_c09,Rachel Green,0,4,8,3,9,2,s10_e05_c09_u004,s10_e05_c09_u014,"[s10_e05_c09_u004] Ross Geller: Seriously?
+[s10_e05_c09_u005] Chandler Bing: Word!
+[s10_e05_c09_u006] Phoebe Buffay: Well, mine was worse than that.
+[s10_e05_c09_u007] Rachel Green: Well, what happened?
+[s10_e05_c09_u008] Phoebe Buffay: We were at the game, and this guy proposed to his girlfriend on the big screen thing...
+[s10_e05_c09_u009] Rachel Green: Oh, that is so tacky.
+[s10_e05_c09_u010] Phoebe Buffay: Well, that's what I said, but it turns out, Mike was planning on proposing to me that same way last night!
+[s10_e05_c09_u011] Monica Geller: Oh my God, Mike was gonna propose?
+[s10_e05_c09_u012] Rachel Green: Phoebe, that's huge!
+[s10_e05_c09_u013] Ross Geller: Well, do you wanna marry him?
+[s10_e05_c09_u014] Phoebe Buffay: Yeah, I really do! Yes, but, after I dumped on the way he was gonna propose to me, I don't think he's ever gonna ask again! I mean, I said no in Barbados and now this!"
+s10_e05,s10_e05_c09,Rachel Green,1,21,21,20,22,2,s10_e05_c09_u021,s10_e05_c09_u027,"[s10_e05_c09_u021] Phoebe Buffay: Well, do you think I should propose?
+[s10_e05_c09_u022] Rachel Green: I think it could be kind of great!
+[s10_e05_c09_u023] Ross Geller: Absolutely! You'll love the feeling! There's nothing like it!
+[s10_e05_c09_u024] Phoebe Buffay: Ok, ok, so how should I do it?
+[s10_e05_c09_u025] Monica Geller: How about at a game, on the big screen?
+[s10_e05_c09_u026] Rachel Green: Uuuh!! How about at a Footlocker?
+[s10_e05_c09_u027] Monica Geller: What? what? He obviously thinks that's a nice way to be proposed to, plus he'd never suspect it!"
+s10_e05,s10_e05_c09,Rachel Green,2,28,52,27,52,3,s10_e05_c09_u028,s10_e05_c09_u057,"[s10_e05_c09_u028] Phoebe Buffay: Yeah, that does make sense. Ok, now, would... would you two like that?
+[s10_e05_c09_u029] Chandler Bing: Sounds good to me... but what would a guy think?
+[s10_e05_c09_u030] Amy Green: Nana is on the phone.
+[s10_e05_c09_u031] Rachel Green: Oh! That's interesting, since she died seven years ago!!
+[s10_e05_c09_u032] Amy Green: She did? Who got her condo in Boca?
+[s10_e05_c09_u033] Rachel Green: Hello? Oh, it's our nanny! Hi! Oh... God! I hope you feel better! Ok, bye! That's Molly, she's sick. Can you watch Emma today?
+[s10_e05_c09_u034] Ross Geller: No, I can't. I have back-to-back classes. Did Molly say what she had? Because my throat's been hurting?
+[s10_e05_c09_u035] Rachel Green: Menstrual cramps.
+[s10_e05_c09_u036] Ross Geller: I don't think that's what this is.
+[s10_e05_c09_u037] Rachel Green: Can any of you watch Emma?
+[s10_e05_c09_u038] Monica Geller: No, sorry sweety..
+[s10_e05_c09_u039] Phoebe Buffay: No, I've got work and then I'm proposing..
+[s10_e05_c09_u040] Rachel Green: Great, shoot, what are we gonna do?
+[s10_e05_c09_u041] Amy Green: Well, I can do it.
+[s10_e05_c09_u042] Rachel Green: Well, actually...
+[s10_e05_c09_u043] Ross Geller: Well, can I talk to you for a sec.?
+[s10_e05_c09_u044] Rachel Green: Yeah.
+[s10_e05_c09_u045] Ross Geller: Um, I do not want her baby-sitting our child.
+[s10_e05_c09_u046] Rachel Green: Why not?
+[s10_e05_c09_u047] Ross Geller: Well, for one thing, she keeps calling her Ella!
+[s10_e05_c09_u048] Rachel Green: Wha.. well, Ella's a nice name!
+[s10_e05_c09_u049] Ross Geller: Fine, we'll call the next one Ella.
+[s10_e05_c09_u050] Rachel Green: Wha... the next one?
+[s10_e05_c09_u051] Ross Geller: Okay, um... I don't want her watching our baby.
+[s10_e05_c09_u052] Rachel Green: Ross, I am trying to help her become a better person. This is a huge breakthrough for her! She just offered to do something for another human being!!
+[s10_e05_c09_u053] Ross Geller: I... I don't know..
+[s10_e05_c09_u054] Rachel Green: Ross, I'm telling you, she's giving up getting her eyebrows shaped to do this alright? Do you understand how important that is in our world?
+[s10_e05_c09_u055] Amy Green: um... listen, I couldn't help but overhear... 'cause I was trying to... Listen, let me do this alright? I really wanna help you guys out, and plus Rachel's been so wonderful to me...
+[s10_e05_c09_u056] Rachel Green: Absolutely.
+[s10_e05_c09_u057] Amy Green: Oh! Great! So how much does it pay?"
+s10_e05,s10_e05_c09,Ross Geller,0,31,33,30,34,2,s10_e05_c09_u031,s10_e05_c09_u039,"[s10_e05_c09_u031] Rachel Green: Oh! That's interesting, since she died seven years ago!!
+[s10_e05_c09_u032] Amy Green: She did? Who got her condo in Boca?
+[s10_e05_c09_u033] Rachel Green: Hello? Oh, it's our nanny! Hi! Oh... God! I hope you feel better! Ok, bye! That's Molly, she's sick. Can you watch Emma today?
+[s10_e05_c09_u034] Ross Geller: No, I can't. I have back-to-back classes. Did Molly say what she had? Because my throat's been hurting?
+[s10_e05_c09_u035] Rachel Green: Menstrual cramps.
+[s10_e05_c09_u036] Ross Geller: I don't think that's what this is.
+[s10_e05_c09_u037] Rachel Green: Can any of you watch Emma?
+[s10_e05_c09_u038] Monica Geller: No, sorry sweety..
+[s10_e05_c09_u039] Phoebe Buffay: No, I've got work and then I'm proposing.."
+s10_e05,s10_e05_c09,Ross Geller,1,40,50,39,51,3,s10_e05_c09_u040,s10_e05_c09_u056,"[s10_e05_c09_u040] Rachel Green: Great, shoot, what are we gonna do?
+[s10_e05_c09_u041] Amy Green: Well, I can do it.
+[s10_e05_c09_u042] Rachel Green: Well, actually...
+[s10_e05_c09_u043] Ross Geller: Well, can I talk to you for a sec.?
+[s10_e05_c09_u044] Rachel Green: Yeah.
+[s10_e05_c09_u045] Ross Geller: Um, I do not want her baby-sitting our child.
+[s10_e05_c09_u046] Rachel Green: Why not?
+[s10_e05_c09_u047] Ross Geller: Well, for one thing, she keeps calling her Ella!
+[s10_e05_c09_u048] Rachel Green: Wha.. well, Ella's a nice name!
+[s10_e05_c09_u049] Ross Geller: Fine, we'll call the next one Ella.
+[s10_e05_c09_u050] Rachel Green: Wha... the next one?
+[s10_e05_c09_u051] Ross Geller: Okay, um... I don't want her watching our baby.
+[s10_e05_c09_u052] Rachel Green: Ross, I am trying to help her become a better person. This is a huge breakthrough for her! She just offered to do something for another human being!!
+[s10_e05_c09_u053] Ross Geller: I... I don't know..
+[s10_e05_c09_u054] Rachel Green: Ross, I'm telling you, she's giving up getting her eyebrows shaped to do this alright? Do you understand how important that is in our world?
+[s10_e05_c09_u055] Amy Green: um... listen, I couldn't help but overhear... 'cause I was trying to... Listen, let me do this alright? I really wanna help you guys out, and plus Rachel's been so wonderful to me...
+[s10_e05_c09_u056] Rachel Green: Absolutely."
+s10_e05,s10_e05_c10,Amy Green,0,16,30,15,31,3,s10_e05_c10_u016,s10_e05_c10_u036,"[s10_e05_c10_u016] Chandler Bing: They thought it was very smart of us to have a child write the recommendation letter.
+[s10_e05_c10_u017] Monica Geller: They thought Joey was a child?
+[s10_e05_c10_u018] Chandler Bing: She guessed 8, 9, based on his drawings.
+[s10_e05_c10_u019] Amy Green: Hi!
+[s10_e05_c10_u020] Monica Geller: Hey, what did you guys do today?
+[s10_e05_c10_u021] Amy Green: Ella wanted to go out, so we went shopping and got some sushi.
+[s10_e05_c10_u022] Chandler Bing: That sounds like fun.
+[s10_e05_c10_u023] Amy Green: Yeah, not really. Babies are dull.
+[s10_e05_c10_u024] Rachel Green: Hey! Hi, how's my girl?
+[s10_e05_c10_u025] Amy Green: I'm fine! And, I got you a present for letting me stay with you. Ready?
+[s10_e05_c10_u026] Rachel Green: Yeah!
+[s10_e05_c10_u027] Amy Green: Ta-daaa!
+[s10_e05_c10_u028] Rachel Green: You pierced her ears!?
+[s10_e05_c10_u029] Amy Green: Doesn't it make her nose look smaller?
+[s10_e05_c10_u030] Rachel Green: You pierced her ears? How could you do this without telling me?
+[s10_e05_c10_u031] Amy Green: Well, if I had told you, then it wouldn't have been surprise, now would it?
+[s10_e05_c10_u032] Chandler Bing: I think she looks cute. ... but I am wrong!
+[s10_e05_c10_u033] Rachel Green: Oh my God, Oh my God, here comes Ross. He's gonna flip out.
+[s10_e05_c10_u034] Amy Green: Why, did something happen to his falafel cart?
+[s10_e05_c10_u035] Rachel Green: Ugh.
+[s10_e05_c10_u036] Ross Geller: Hey guys."
+s10_e05,s10_e05_c10,Amy Green,1,47,60,46,60,3,s10_e05_c10_u047,s10_e05_c10_u065,"[s10_e05_c10_u047] Rachel Green: Oh, they're real!
+[s10_e05_c10_u048] Ross Geller: Did she do this to her? I told you we shouldn't have left Emma with her!
+[s10_e05_c10_u049] Rachel Green: I know, I know, and you were right Ross. You are soo irresponsible I am never letting you baby-sit ever again!
+[s10_e05_c10_u050] Amy Green: Hey you know what, this kid needs me, okay? She needs to have a cool fun aunt!
+[s10_e05_c10_u051] Monica Geller: I'm a cool, fun aunt!
+[s10_e05_c10_u052] Amy Green: O-Okay!
+[s10_e05_c10_u053] Chandler Bing: Hey! Monica can be cool and fun at organized indoor projects!
+[s10_e05_c10_u054] Rachel Green: I can't believe this. All I wanted to do was help you try to figure out what to do with your life and this is how you repay me?
+[s10_e05_c10_u055] Amy Green: Well, I don't need you to help me, because I already know what I'm going to do with my life.
+[s10_e05_c10_u056] Rachel Green: Oh yeah? Since when?
+[s10_e05_c10_u057] Amy Green: Since today... I am going to be a baby stylist.
+[s10_e05_c10_u058] Rachel Green: What?
+[s10_e05_c10_u059] Ross Geller: That's not a thing!
+[s10_e05_c10_u060] Amy Green: Well, it should be. I'm gonna help babies learn how to accessorize, what colors to wear, what clothes are slimming...
+[s10_e05_c10_u061] Rachel Green: Babies don't care if they're slim.
+[s10_e05_c10_u062] Amy Green: Enter Amy!
+[s10_e05_c10_u063] Ross Geller: Amy, I ju... I just... I just wanna...
+[s10_e05_c10_u064] Amy Green: What? What are you gonna do?
+[s10_e05_c10_u065] Ross Geller: No more falafel for you!"
+s10_e05,s10_e05_c10,Chandler Bing,0,0,0,0,1,2,s10_e05_c10_u001,s10_e05_c10_u006,"[s10_e05_c10_u001] Chandler Bing: Hey Joe! How's the second draft of the letter coming?
+[s10_e05_c10_u002] Joey Tribbiani: Great, I'm finished! In fact, I just dropped it off at the agency.
+[s10_e05_c10_u003] Monica Geller: You dropped it off?
+[s10_e05_c10_u004] Joey Tribbiani: Yeah.
+[s10_e05_c10_u005] Chandler Bing: Can we read it? Can you print out another copy?
+[s10_e05_c10_u006] Joey Tribbiani: No can do amigo. No, I didn't use the computer. Felt more personal to hand-write it."
+s10_e05,s10_e05_c10,Chandler Bing,1,7,15,6,16,3,s10_e05_c10_u007,s10_e05_c10_u021,"[s10_e05_c10_u007] Monica Geller: You hand-wrote it?
+[s10_e05_c10_u008] Joey Tribbiani: Yeah, and don't worry. I didn't try to sound smart at all! See ya later!
+[s10_e05_c10_u009] Monica Geller: Oh my God, oh my God, that letter is gonna go in our file! We're never gonna get a kid. No, we're gonna be one of those old couples that collects orchids or has a lot of birds!
+[s10_e05_c10_u010] Chandler Bing: It's ok, it's ok. You know what? I'll just call the agency and tell them to throw out the letter.
+[s10_e05_c10_u011] Monica Geller: Okay good.
+[s10_e05_c10_u012] Chandler Bing: Hello, this is Chandler Bing. Somebody just dropped off a handwritten recommendation letter, and.. Uh-huh... Uh-huh... okay... thank you. Good-bye. .
+[s10_e05_c10_u013] Monica Geller: Ugh, we're screwed, aren't we? You know what? Just tell me on the way to the bird store.
+[s10_e05_c10_u014] Chandler Bing: They loved it.
+[s10_e05_c10_u015] Monica Geller: What?
+[s10_e05_c10_u016] Chandler Bing: They thought it was very smart of us to have a child write the recommendation letter.
+[s10_e05_c10_u017] Monica Geller: They thought Joey was a child?
+[s10_e05_c10_u018] Chandler Bing: She guessed 8, 9, based on his drawings.
+[s10_e05_c10_u019] Amy Green: Hi!
+[s10_e05_c10_u020] Monica Geller: Hey, what did you guys do today?
+[s10_e05_c10_u021] Amy Green: Ella wanted to go out, so we went shopping and got some sushi."
+s10_e05,s10_e05_c10,Chandler Bing,2,17,17,16,18,2,s10_e05_c10_u017,s10_e05_c10_u023,"[s10_e05_c10_u017] Monica Geller: They thought Joey was a child?
+[s10_e05_c10_u018] Chandler Bing: She guessed 8, 9, based on his drawings.
+[s10_e05_c10_u019] Amy Green: Hi!
+[s10_e05_c10_u020] Monica Geller: Hey, what did you guys do today?
+[s10_e05_c10_u021] Amy Green: Ella wanted to go out, so we went shopping and got some sushi.
+[s10_e05_c10_u022] Chandler Bing: That sounds like fun.
+[s10_e05_c10_u023] Amy Green: Yeah, not really. Babies are dull."
+s10_e05,s10_e05_c10,Joey Tribbiani,0,0,5,0,6,3,s10_e05_c10_u001,s10_e05_c10_u011,"[s10_e05_c10_u001] Chandler Bing: Hey Joe! How's the second draft of the letter coming?
+[s10_e05_c10_u002] Joey Tribbiani: Great, I'm finished! In fact, I just dropped it off at the agency.
+[s10_e05_c10_u003] Monica Geller: You dropped it off?
+[s10_e05_c10_u004] Joey Tribbiani: Yeah.
+[s10_e05_c10_u005] Chandler Bing: Can we read it? Can you print out another copy?
+[s10_e05_c10_u006] Joey Tribbiani: No can do amigo. No, I didn't use the computer. Felt more personal to hand-write it.
+[s10_e05_c10_u007] Monica Geller: You hand-wrote it?
+[s10_e05_c10_u008] Joey Tribbiani: Yeah, and don't worry. I didn't try to sound smart at all! See ya later!
+[s10_e05_c10_u009] Monica Geller: Oh my God, oh my God, that letter is gonna go in our file! We're never gonna get a kid. No, we're gonna be one of those old couples that collects orchids or has a lot of birds!
+[s10_e05_c10_u010] Chandler Bing: It's ok, it's ok. You know what? I'll just call the agency and tell them to throw out the letter.
+[s10_e05_c10_u011] Monica Geller: Okay good."
+s10_e05,s10_e05_c10,Monica Geller,0,2,2,1,3,2,s10_e05_c10_u002,s10_e05_c10_u008,"[s10_e05_c10_u002] Joey Tribbiani: Great, I'm finished! In fact, I just dropped it off at the agency.
+[s10_e05_c10_u003] Monica Geller: You dropped it off?
+[s10_e05_c10_u004] Joey Tribbiani: Yeah.
+[s10_e05_c10_u005] Chandler Bing: Can we read it? Can you print out another copy?
+[s10_e05_c10_u006] Joey Tribbiani: No can do amigo. No, I didn't use the computer. Felt more personal to hand-write it.
+[s10_e05_c10_u007] Monica Geller: You hand-wrote it?
+[s10_e05_c10_u008] Joey Tribbiani: Yeah, and don't worry. I didn't try to sound smart at all! See ya later!"
+s10_e05,s10_e05_c10,Monica Geller,1,4,16,3,17,3,s10_e05_c10_u004,s10_e05_c10_u022,"[s10_e05_c10_u004] Joey Tribbiani: Yeah.
+[s10_e05_c10_u005] Chandler Bing: Can we read it? Can you print out another copy?
+[s10_e05_c10_u006] Joey Tribbiani: No can do amigo. No, I didn't use the computer. Felt more personal to hand-write it.
+[s10_e05_c10_u007] Monica Geller: You hand-wrote it?
+[s10_e05_c10_u008] Joey Tribbiani: Yeah, and don't worry. I didn't try to sound smart at all! See ya later!
+[s10_e05_c10_u009] Monica Geller: Oh my God, oh my God, that letter is gonna go in our file! We're never gonna get a kid. No, we're gonna be one of those old couples that collects orchids or has a lot of birds!
+[s10_e05_c10_u010] Chandler Bing: It's ok, it's ok. You know what? I'll just call the agency and tell them to throw out the letter.
+[s10_e05_c10_u011] Monica Geller: Okay good.
+[s10_e05_c10_u012] Chandler Bing: Hello, this is Chandler Bing. Somebody just dropped off a handwritten recommendation letter, and.. Uh-huh... Uh-huh... okay... thank you. Good-bye. .
+[s10_e05_c10_u013] Monica Geller: Ugh, we're screwed, aren't we? You know what? Just tell me on the way to the bird store.
+[s10_e05_c10_u014] Chandler Bing: They loved it.
+[s10_e05_c10_u015] Monica Geller: What?
+[s10_e05_c10_u016] Chandler Bing: They thought it was very smart of us to have a child write the recommendation letter.
+[s10_e05_c10_u017] Monica Geller: They thought Joey was a child?
+[s10_e05_c10_u018] Chandler Bing: She guessed 8, 9, based on his drawings.
+[s10_e05_c10_u019] Amy Green: Hi!
+[s10_e05_c10_u020] Monica Geller: Hey, what did you guys do today?
+[s10_e05_c10_u021] Amy Green: Ella wanted to go out, so we went shopping and got some sushi.
+[s10_e05_c10_u022] Chandler Bing: That sounds like fun."
+s10_e05,s10_e05_c10,Rachel Green,0,21,32,20,33,3,s10_e05_c10_u021,s10_e05_c10_u038,"[s10_e05_c10_u021] Amy Green: Ella wanted to go out, so we went shopping and got some sushi.
+[s10_e05_c10_u022] Chandler Bing: That sounds like fun.
+[s10_e05_c10_u023] Amy Green: Yeah, not really. Babies are dull.
+[s10_e05_c10_u024] Rachel Green: Hey! Hi, how's my girl?
+[s10_e05_c10_u025] Amy Green: I'm fine! And, I got you a present for letting me stay with you. Ready?
+[s10_e05_c10_u026] Rachel Green: Yeah!
+[s10_e05_c10_u027] Amy Green: Ta-daaa!
+[s10_e05_c10_u028] Rachel Green: You pierced her ears!?
+[s10_e05_c10_u029] Amy Green: Doesn't it make her nose look smaller?
+[s10_e05_c10_u030] Rachel Green: You pierced her ears? How could you do this without telling me?
+[s10_e05_c10_u031] Amy Green: Well, if I had told you, then it wouldn't have been surprise, now would it?
+[s10_e05_c10_u032] Chandler Bing: I think she looks cute. ... but I am wrong!
+[s10_e05_c10_u033] Rachel Green: Oh my God, Oh my God, here comes Ross. He's gonna flip out.
+[s10_e05_c10_u034] Amy Green: Why, did something happen to his falafel cart?
+[s10_e05_c10_u035] Rachel Green: Ugh.
+[s10_e05_c10_u036] Ross Geller: Hey guys.
+[s10_e05_c10_u037] Chandler Bing, Monica Geller: Hi Ross.
+[s10_e05_c10_u038] Ross Geller: Hey Emma. Oh, why is she wearing her hat so low? She can barely see. ."
+s10_e05,s10_e05_c10,Rachel Green,1,34,34,33,35,2,s10_e05_c10_u034,s10_e05_c10_u040,"[s10_e05_c10_u034] Amy Green: Why, did something happen to his falafel cart?
+[s10_e05_c10_u035] Rachel Green: Ugh.
+[s10_e05_c10_u036] Ross Geller: Hey guys.
+[s10_e05_c10_u037] Chandler Bing, Monica Geller: Hi Ross.
+[s10_e05_c10_u038] Ross Geller: Hey Emma. Oh, why is she wearing her hat so low? She can barely see. .
+[s10_e05_c10_u039] Rachel Green: Nah, I don't really want her to see.
+[s10_e05_c10_u040] Ross Geller: Why not?"
+s10_e05,s10_e05_c10,Rachel Green,2,42,46,41,47,3,s10_e05_c10_u042,s10_e05_c10_u052,"[s10_e05_c10_u042] Chandler Bing: Like war. Or that thing in Joey's refrigerator. Remember? It was in a milk carton but it looked like meat?
+[s10_e05_c10_u043] Ross Geller: Come here Oh! There she is! Hi!
+[s10_e05_c10_u044] Ross Geller: What?
+[s10_e05_c10_u045] Rachel Green: Nothing.
+[s10_e05_c10_u046] Ross Geller: Hi! What... . Please tell me those are clip-ons.
+[s10_e05_c10_u047] Rachel Green: Oh, they're real!
+[s10_e05_c10_u048] Ross Geller: Did she do this to her? I told you we shouldn't have left Emma with her!
+[s10_e05_c10_u049] Rachel Green: I know, I know, and you were right Ross. You are soo irresponsible I am never letting you baby-sit ever again!
+[s10_e05_c10_u050] Amy Green: Hey you know what, this kid needs me, okay? She needs to have a cool fun aunt!
+[s10_e05_c10_u051] Monica Geller: I'm a cool, fun aunt!
+[s10_e05_c10_u052] Amy Green: O-Okay!"
+s10_e05,s10_e05_c10,Rachel Green,3,51,57,50,58,3,s10_e05_c10_u051,s10_e05_c10_u063,"[s10_e05_c10_u051] Monica Geller: I'm a cool, fun aunt!
+[s10_e05_c10_u052] Amy Green: O-Okay!
+[s10_e05_c10_u053] Chandler Bing: Hey! Monica can be cool and fun at organized indoor projects!
+[s10_e05_c10_u054] Rachel Green: I can't believe this. All I wanted to do was help you try to figure out what to do with your life and this is how you repay me?
+[s10_e05_c10_u055] Amy Green: Well, I don't need you to help me, because I already know what I'm going to do with my life.
+[s10_e05_c10_u056] Rachel Green: Oh yeah? Since when?
+[s10_e05_c10_u057] Amy Green: Since today... I am going to be a baby stylist.
+[s10_e05_c10_u058] Rachel Green: What?
+[s10_e05_c10_u059] Ross Geller: That's not a thing!
+[s10_e05_c10_u060] Amy Green: Well, it should be. I'm gonna help babies learn how to accessorize, what colors to wear, what clothes are slimming...
+[s10_e05_c10_u061] Rachel Green: Babies don't care if they're slim.
+[s10_e05_c10_u062] Amy Green: Enter Amy!
+[s10_e05_c10_u063] Ross Geller: Amy, I ju... I just... I just wanna..."
+s10_e05,s10_e05_c10,Ross Geller,0,33,45,32,46,3,s10_e05_c10_u033,s10_e05_c10_u051,"[s10_e05_c10_u033] Rachel Green: Oh my God, Oh my God, here comes Ross. He's gonna flip out.
+[s10_e05_c10_u034] Amy Green: Why, did something happen to his falafel cart?
+[s10_e05_c10_u035] Rachel Green: Ugh.
+[s10_e05_c10_u036] Ross Geller: Hey guys.
+[s10_e05_c10_u037] Chandler Bing, Monica Geller: Hi Ross.
+[s10_e05_c10_u038] Ross Geller: Hey Emma. Oh, why is she wearing her hat so low? She can barely see. .
+[s10_e05_c10_u039] Rachel Green: Nah, I don't really want her to see.
+[s10_e05_c10_u040] Ross Geller: Why not?
+[s10_e05_c10_u041] Monica Geller: Because there are so many terrible sights in this world.
+[s10_e05_c10_u042] Chandler Bing: Like war. Or that thing in Joey's refrigerator. Remember? It was in a milk carton but it looked like meat?
+[s10_e05_c10_u043] Ross Geller: Come here Oh! There she is! Hi!
+[s10_e05_c10_u044] Ross Geller: What?
+[s10_e05_c10_u045] Rachel Green: Nothing.
+[s10_e05_c10_u046] Ross Geller: Hi! What... . Please tell me those are clip-ons.
+[s10_e05_c10_u047] Rachel Green: Oh, they're real!
+[s10_e05_c10_u048] Ross Geller: Did she do this to her? I told you we shouldn't have left Emma with her!
+[s10_e05_c10_u049] Rachel Green: I know, I know, and you were right Ross. You are soo irresponsible I am never letting you baby-sit ever again!
+[s10_e05_c10_u050] Amy Green: Hey you know what, this kid needs me, okay? She needs to have a cool fun aunt!
+[s10_e05_c10_u051] Monica Geller: I'm a cool, fun aunt!"
+s10_e05,s10_e05_c10,Ross Geller,1,58,58,57,59,2,s10_e05_c10_u058,s10_e05_c10_u064,"[s10_e05_c10_u058] Rachel Green: What?
+[s10_e05_c10_u059] Ross Geller: That's not a thing!
+[s10_e05_c10_u060] Amy Green: Well, it should be. I'm gonna help babies learn how to accessorize, what colors to wear, what clothes are slimming...
+[s10_e05_c10_u061] Rachel Green: Babies don't care if they're slim.
+[s10_e05_c10_u062] Amy Green: Enter Amy!
+[s10_e05_c10_u063] Ross Geller: Amy, I ju... I just... I just wanna...
+[s10_e05_c10_u064] Amy Green: What? What are you gonna do?"
+s10_e05,s10_e05_c10,Ross Geller,2,60,60,59,60,2,s10_e05_c10_u060,s10_e05_c10_u065,"[s10_e05_c10_u060] Amy Green: Well, it should be. I'm gonna help babies learn how to accessorize, what colors to wear, what clothes are slimming...
+[s10_e05_c10_u061] Rachel Green: Babies don't care if they're slim.
+[s10_e05_c10_u062] Amy Green: Enter Amy!
+[s10_e05_c10_u063] Ross Geller: Amy, I ju... I just... I just wanna...
+[s10_e05_c10_u064] Amy Green: What? What are you gonna do?
+[s10_e05_c10_u065] Ross Geller: No more falafel for you!"
+s10_e05,s10_e05_c11,Announcer,0,6,8,5,8,2,s10_e05_c11_u006,s10_e05_c11_u013,"[s10_e05_c11_u006] Phoebe Buffay: Well, I think you should wait.
+[s10_e05_c11_u007] Mike Hannigan: Why?
+[s10_e05_c11_u008] Phoebe Buffay: Well, if you don't... if you don't hold it in, you don't get all the nutrients.
+[s10_e05_c11_u009] Announcer: Knicks fans, please turn your attention to the big screen on the scoreboard. Someone has a special question to ask.
+[s10_e05_c11_u010] Phoebe Buffay: Mike Hannigan... will you marry me?
+[s10_e05_c11_u011] Announcer: Get a load of this... She's proposing to him. Guess we know who wears the pants in that family.
+[s10_e05_c11_u012] Phoebe Buffay: That's not very enlightened!
+[s10_e05_c11_u013] Phoebe Buffay: Hey, hey! Boo us? Boo you!"
+s10_e05,s10_e05_c11,Mike Hannigan,0,0,4,0,5,3,s10_e05_c11_u001,s10_e05_c11_u010,"[s10_e05_c11_u001] Mike Hannigan: Great game, huh?
+[s10_e05_c11_u002] Phoebe Buffay: Uhuh, uhuh...
+[s10_e05_c11_u003] Mike Hannigan: Why do you keep looking at the screen?
+[s10_e05_c11_u004] Phoebe Buffay: I'm not. I'm praying. Please let the Knicks win... Thank you Thor! Where... where are you going?
+[s10_e05_c11_u005] Mike Hannigan: Going go to the bathroom.
+[s10_e05_c11_u006] Phoebe Buffay: Well, I think you should wait.
+[s10_e05_c11_u007] Mike Hannigan: Why?
+[s10_e05_c11_u008] Phoebe Buffay: Well, if you don't... if you don't hold it in, you don't get all the nutrients.
+[s10_e05_c11_u009] Announcer: Knicks fans, please turn your attention to the big screen on the scoreboard. Someone has a special question to ask.
+[s10_e05_c11_u010] Phoebe Buffay: Mike Hannigan... will you marry me?"
+s10_e05,s10_e05_c11,Phoebe Buffay,0,0,8,0,8,3,s10_e05_c11_u001,s10_e05_c11_u013,"[s10_e05_c11_u001] Mike Hannigan: Great game, huh?
+[s10_e05_c11_u002] Phoebe Buffay: Uhuh, uhuh...
+[s10_e05_c11_u003] Mike Hannigan: Why do you keep looking at the screen?
+[s10_e05_c11_u004] Phoebe Buffay: I'm not. I'm praying. Please let the Knicks win... Thank you Thor! Where... where are you going?
+[s10_e05_c11_u005] Mike Hannigan: Going go to the bathroom.
+[s10_e05_c11_u006] Phoebe Buffay: Well, I think you should wait.
+[s10_e05_c11_u007] Mike Hannigan: Why?
+[s10_e05_c11_u008] Phoebe Buffay: Well, if you don't... if you don't hold it in, you don't get all the nutrients.
+[s10_e05_c11_u009] Announcer: Knicks fans, please turn your attention to the big screen on the scoreboard. Someone has a special question to ask.
+[s10_e05_c11_u010] Phoebe Buffay: Mike Hannigan... will you marry me?
+[s10_e05_c11_u011] Announcer: Get a load of this... She's proposing to him. Guess we know who wears the pants in that family.
+[s10_e05_c11_u012] Phoebe Buffay: That's not very enlightened!
+[s10_e05_c11_u013] Phoebe Buffay: Hey, hey! Boo us? Boo you!"
+s10_e05,s10_e05_c12,Amy Green,0,1,20,0,20,3,s10_e05_c12_u001,s10_e05_c12_u025,"[s10_e05_c12_u001] Joey Tribbiani: Hello? Yeah, this is Joey Tribbiani... Oh, hi! Well, I'm glad you liked my letter... No my mommy and daddy aren't home right now... Okay, bye bye. She was nice!
+[s10_e05_c12_u002] Rachel Green: Joey, get Amy's bags, she is moving out!
+[s10_e05_c12_u003] Joey Tribbiani: Whoo-hoo!
+[s10_e05_c12_u004] Amy Green: You're kicking me out?
+[s10_e05_c12_u005] Rachel Green: You put holes in my baby's ears!
+[s10_e05_c12_u006] Amy Green: Yeah well, at least now people will know she is a girl!
+[s10_e05_c12_u007] Rachel Green: I can't believe I ever even tried to help you. You are so beyond help.
+[s10_e05_c12_u008] Amy Green: You know what? Ever since I got here, you have been nothing but negative.
+[s10_e05_c12_u009] Rachel Green: Excuse me?
+[s10_e05_c12_u010] Amy Green: You didn't want me to marry the old guy with the great apartment. Then, I tried to help your daughter to de-emphasize her flaws And suddenly I am the bad guy?
+[s10_e05_c12_u011] Rachel Green: Joey, where are those bags?
+[s10_e05_c12_u012] Joey Tribbiani: She has a lot of crap!
+[s10_e05_c12_u013] Amy Green: You know what? When I moved in here I thought: This is gonna be so great. Just us sisters, back together again like when we were kids, except without that stupid Jill... Oh! Who has gotten fat by the way...
+[s10_e05_c12_u014] Rachel Green: Seriously?
+[s10_e05_c12_u015] Amy Green: hm-mmm... Mom said she gained like fifteen pounds.
+[s10_e05_c12_u016] Rachel Green: Hips or thighs?
+[s10_e05_c12_u017] Amy Green: Ass and face.
+[s10_e05_c12_u018] Rachel Green: Oh! Oh my God! I thought she was on Atkins.
+[s10_e05_c12_u019] Amy Green: She was. Carbs found her... See, this is what I wanted. Two sisters, talking about real stuff.
+[s10_e05_c12_u020] Rachel Green: Oh, I can give you that.
+[s10_e05_c12_u021] Amy Green: You can?
+[s10_e05_c12_u022] Rachel Green: Yeah. I just, I kept trying to make you a better person, but you're... you're already a pretty perfect version of what you are.
+[s10_e05_c12_u023] Amy Green: Thank you. I've got to admit, Emma does look cute.
+[s10_e05_c12_u024] Rachel Green: Did you just say Emma?
+[s10_e05_c12_u025] Amy Green: Ugh, I'm sorry... Ella."
+s10_e05,s10_e05_c12,Joey Tribbiani,0,0,0,0,1,2,s10_e05_c12_u001,s10_e05_c12_u006,"[s10_e05_c12_u001] Joey Tribbiani: Hello? Yeah, this is Joey Tribbiani... Oh, hi! Well, I'm glad you liked my letter... No my mommy and daddy aren't home right now... Okay, bye bye. She was nice!
+[s10_e05_c12_u002] Rachel Green: Joey, get Amy's bags, she is moving out!
+[s10_e05_c12_u003] Joey Tribbiani: Whoo-hoo!
+[s10_e05_c12_u004] Amy Green: You're kicking me out?
+[s10_e05_c12_u005] Rachel Green: You put holes in my baby's ears!
+[s10_e05_c12_u006] Amy Green: Yeah well, at least now people will know she is a girl!"
+s10_e05,s10_e05_c12,Rachel Green,0,0,20,0,20,3,s10_e05_c12_u001,s10_e05_c12_u025,"[s10_e05_c12_u001] Joey Tribbiani: Hello? Yeah, this is Joey Tribbiani... Oh, hi! Well, I'm glad you liked my letter... No my mommy and daddy aren't home right now... Okay, bye bye. She was nice!
+[s10_e05_c12_u002] Rachel Green: Joey, get Amy's bags, she is moving out!
+[s10_e05_c12_u003] Joey Tribbiani: Whoo-hoo!
+[s10_e05_c12_u004] Amy Green: You're kicking me out?
+[s10_e05_c12_u005] Rachel Green: You put holes in my baby's ears!
+[s10_e05_c12_u006] Amy Green: Yeah well, at least now people will know she is a girl!
+[s10_e05_c12_u007] Rachel Green: I can't believe I ever even tried to help you. You are so beyond help.
+[s10_e05_c12_u008] Amy Green: You know what? Ever since I got here, you have been nothing but negative.
+[s10_e05_c12_u009] Rachel Green: Excuse me?
+[s10_e05_c12_u010] Amy Green: You didn't want me to marry the old guy with the great apartment. Then, I tried to help your daughter to de-emphasize her flaws And suddenly I am the bad guy?
+[s10_e05_c12_u011] Rachel Green: Joey, where are those bags?
+[s10_e05_c12_u012] Joey Tribbiani: She has a lot of crap!
+[s10_e05_c12_u013] Amy Green: You know what? When I moved in here I thought: This is gonna be so great. Just us sisters, back together again like when we were kids, except without that stupid Jill... Oh! Who has gotten fat by the way...
+[s10_e05_c12_u014] Rachel Green: Seriously?
+[s10_e05_c12_u015] Amy Green: hm-mmm... Mom said she gained like fifteen pounds.
+[s10_e05_c12_u016] Rachel Green: Hips or thighs?
+[s10_e05_c12_u017] Amy Green: Ass and face.
+[s10_e05_c12_u018] Rachel Green: Oh! Oh my God! I thought she was on Atkins.
+[s10_e05_c12_u019] Amy Green: She was. Carbs found her... See, this is what I wanted. Two sisters, talking about real stuff.
+[s10_e05_c12_u020] Rachel Green: Oh, I can give you that.
+[s10_e05_c12_u021] Amy Green: You can?
+[s10_e05_c12_u022] Rachel Green: Yeah. I just, I kept trying to make you a better person, but you're... you're already a pretty perfect version of what you are.
+[s10_e05_c12_u023] Amy Green: Thank you. I've got to admit, Emma does look cute.
+[s10_e05_c12_u024] Rachel Green: Did you just say Emma?
+[s10_e05_c12_u025] Amy Green: Ugh, I'm sorry... Ella."
+s10_e05,s10_e05_c13,Mike Hannigan,0,0,13,0,13,3,s10_e05_c13_u001,s10_e05_c13_u018,"[s10_e05_c13_u001] Phoebe Buffay: That woman at the game didn't know what she was talking about. Mike, obviously you have balls.
+[s10_e05_c13_u002] Mike Hannigan: But please, let's just forget the whole thing.
+[s10_e05_c13_u003] Phoebe Buffay: I would love it. Consider it forgotten... But just so you know... however and whenever you decide to propose, I promise I'll say yes. Whether... whether, you know, it is in a basketball game, or in sky writing, or you know, like some lame guy in a cheesy movie who hides it in the cake.
+[s10_e05_c13_u004] Phoebe Buffay: It's in the cake, isn't it?
+[s10_e05_c13_u005] Mike Hannigan: Where else would lame Mr. No Balls hide it?
+[s10_e05_c13_u006] Phoebe Buffay: What's the matter with me? How do I keep ruining this? I'm sorry, I'm sorry!
+[s10_e05_c13_u007] Mike Hannigan: No! It's my fault. I keep trying to propose in these stupid ways and all I wanna do is tell you that I love you and I want to spend the rest of my life with you.
+[s10_e05_c13_u008] Mike Hannigan: I'm gonna do this now.
+[s10_e05_c13_u009] Phoebe Buffay: Oh my God!
+[s10_e05_c13_u010] Mike Hannigan: Phoebe, I...
+[s10_e05_c13_u011] Phoebe Buffay: Wait! Oh wait! Oh no!
+[s10_e05_c13_u012] Mike Hannigan: Ready?
+[s10_e05_c13_u013] Phoebe Buffay: Uh-huh!
+[s10_e05_c13_u014] Mike Hannigan: Phoebe, I love you. There's no-one else in the world I would ask to marry me... three times. But I wanna take care of you, have babies with you, and grow old with you... Phoebe Buffay, will you marry me?
+[s10_e05_c13_u015] Phoebe Buffay: Yes!
+[s10_e05_c13_u016] Mike Hannigan: I love you!
+[s10_e05_c13_u017] Phoebe Buffay: I love you more!
+[s10_e05_c13_u018] Mike Hannigan: Not possible! She's gonna be Mrs. No Balls."
+s10_e05,s10_e05_c13,Phoebe Buffay,0,0,13,0,13,3,s10_e05_c13_u001,s10_e05_c13_u018,"[s10_e05_c13_u001] Phoebe Buffay: That woman at the game didn't know what she was talking about. Mike, obviously you have balls.
+[s10_e05_c13_u002] Mike Hannigan: But please, let's just forget the whole thing.
+[s10_e05_c13_u003] Phoebe Buffay: I would love it. Consider it forgotten... But just so you know... however and whenever you decide to propose, I promise I'll say yes. Whether... whether, you know, it is in a basketball game, or in sky writing, or you know, like some lame guy in a cheesy movie who hides it in the cake.
+[s10_e05_c13_u004] Phoebe Buffay: It's in the cake, isn't it?
+[s10_e05_c13_u005] Mike Hannigan: Where else would lame Mr. No Balls hide it?
+[s10_e05_c13_u006] Phoebe Buffay: What's the matter with me? How do I keep ruining this? I'm sorry, I'm sorry!
+[s10_e05_c13_u007] Mike Hannigan: No! It's my fault. I keep trying to propose in these stupid ways and all I wanna do is tell you that I love you and I want to spend the rest of my life with you.
+[s10_e05_c13_u008] Mike Hannigan: I'm gonna do this now.
+[s10_e05_c13_u009] Phoebe Buffay: Oh my God!
+[s10_e05_c13_u010] Mike Hannigan: Phoebe, I...
+[s10_e05_c13_u011] Phoebe Buffay: Wait! Oh wait! Oh no!
+[s10_e05_c13_u012] Mike Hannigan: Ready?
+[s10_e05_c13_u013] Phoebe Buffay: Uh-huh!
+[s10_e05_c13_u014] Mike Hannigan: Phoebe, I love you. There's no-one else in the world I would ask to marry me... three times. But I wanna take care of you, have babies with you, and grow old with you... Phoebe Buffay, will you marry me?
+[s10_e05_c13_u015] Phoebe Buffay: Yes!
+[s10_e05_c13_u016] Mike Hannigan: I love you!
+[s10_e05_c13_u017] Phoebe Buffay: I love you more!
+[s10_e05_c13_u018] Mike Hannigan: Not possible! She's gonna be Mrs. No Balls."

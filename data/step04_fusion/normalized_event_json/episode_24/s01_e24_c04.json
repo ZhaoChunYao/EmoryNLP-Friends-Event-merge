@@ -1,0 +1,182 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u005_e1",
+          "tuples": [
+            "('excuse', 'you/(crowd)', 'me', 's01_e24_c04_u005')",
+            "('pardon', 'you/(crowd)', 'me', 's01_e24_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u009_e1",
+          "tuples": [
+            "('see', 'I/Flight Attendant', 'your boarding pass', 's01_e24_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u010_e1",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'one', 's01_e24_c04_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u010_e2",
+          "tuples": [
+            "('need', 'I/Rachel Green', 'to talk to my friend', 's01_e24_c04_u010')",
+            "('talk', 'I/Rachel Green', 'to my friend', 's01_e24_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u011",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u011_e1",
+          "tuples": [
+            "('be', 'I/Flight Attendant', 'sorry', 's01_e24_c04_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u011_e2",
+          "tuples": [
+            "('allow', 'you/Rachel Green', 'on the jetway', 's01_e24_c04_u011')",
+            "('have', 'you/Rachel Green', 'a boarding pass', 's01_e24_c04_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u012",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u012_e1",
+          "tuples": [
+            "('go', 'he/Ross Geller', None, 's01_e24_c04_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u012_e2",
+          "tuples": [
+            "('be', 'he/Ross Geller', 'right there', 's01_e24_c04_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u012_e3",
+          "tuples": [
+            "('get', 'he/Ross Geller', 'on the blue jacket', 's01_e24_c04_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u014_e1",
+          "tuples": [
+            "('give', 'you/Flight Attendant', 'a message', 's01_e24_c04_u014')",
+            "('give', 'you/Flight Attendant', 'for me', 's01_e24_c04_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u014_e2",
+          "tuples": [
+            "('be', 'this', 'very important', 's01_e24_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u015_e1",
+          "tuples": [
+            "('be', 'the message', 'what', 's01_e24_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u016",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u016_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e24_c04_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u018_e1",
+          "tuples": [
+            "('have', 'I/Flight Attendant', 'a message', 's01_e24_c04_u018')",
+            "('have', 'I/Flight Attendant', 'for you', 's01_e24_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u020",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u020_e1",
+          "tuples": [
+            "('be', 'it/(message)', 'from Rachel', 's01_e24_c04_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u020_e2",
+          "tuples": [
+            "('say', 'she/Rachel Green', 'that she loved the present, and she will see you when you get back', 's01_e24_c04_u020')",
+            "('love', 'she/Rachel Green', 'the present', 's01_e24_c04_u020')",
+            "('see', 'she/Rachel Green', 'you', 's01_e24_c04_u020')",
+            "('get back', 'you/Man', None, 's01_e24_c04_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c04_u021",
+      "events": [
+        {
+          "event_id": "s01_e24_c04_u021_e1",
+          "tuples": [
+            "('know', 'I/Man', \"what she's talking about\", 's01_e24_c04_u021')",
+            "('talk', 'she/Rachel Green', 'about what', 's01_e24_c04_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u021_e2",
+          "tuples": [
+            "('be', 'there', 'no Rachel', 's01_e24_c04_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e24_c04_u021_e3",
+          "tuples": [
+            "('give', 'you/Flight Attendant', 'that deep freeze', 's01_e24_c04_u021')"
+          ]
+        }
+      ]
+    }
+  ]
+}

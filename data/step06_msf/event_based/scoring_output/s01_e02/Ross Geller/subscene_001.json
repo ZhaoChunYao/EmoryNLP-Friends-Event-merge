@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He greets and engages others (“Hi”), keeps the conversation going with jokes and comments about the video, compliments Speaker_04, and asks follow‑up questions (“what is new,” “how is your family”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is polite and supportive—compliments Speaker_04 (“you look great”) and shows concern by asking about her family; he responds without hostility even to awkward topics."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or carelessness; mostly casual conversation and jokes."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He shows insecurity and nervousness—quick denial when told it’s his ex-wife (“No. No.”), admits he hates that she looks great, and reacts with startled surprise (“Pregnant?!”)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He uses imaginative, playful references to cave people and the Ice Age and responds to an unexpected topic with “you never know,” indicating flexibility rather than dogmatism."
+  }
+}

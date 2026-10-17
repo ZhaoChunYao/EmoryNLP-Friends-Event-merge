@@ -1,0 +1,451 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e18_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u003_e1",
+          "tuples": [
+            "('get', 'I/(Rachel Green)', 'anything', 's01_e18_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u003_e2",
+          "tuples": [
+            "('bring', 'you/(Monica Geller & Phoebe Buffay)', 'the mail', 's01_e18_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u005_e1",
+          "tuples": [
+            "('have', 'we/(Rachel Green)', 'scones', 's01_e18_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u005_e2",
+          "tuples": [
+            "('read', 'you/(Monica Geller & Phoebe Buffay)', 'them', 's01_e18_c01_u005')",
+            "('read', 'you/(Monica Geller & Phoebe Buffay)', 'to me', 's01_e18_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u006_e1",
+          "tuples": [
+            "('thank', 'we/(letter sender)', 'you', 's01_e18_c01_u006')",
+            "('thank', 'we/(letter sender)', 'for your inquiry', 's01_e18_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u007_e1",
+          "tuples": [
+            "('have', 'we/(Rachel Green)', 'apple cinnamon', 's01_e18_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u011",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u011_e1",
+          "tuples": [
+            "('be', 'Your Visa bill', 'huge', 's01_e18_c01_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u012",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u012_e1",
+          "tuples": [
+            "('give', 'you/(Phoebe Buffay)', 'that', 's01_e18_c01_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u014",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u014_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', None, 's01_e18_c01_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u014_e2",
+          "tuples": [
+            "('believe', 'I/(Chandler Bing)', 'you', 's01_e18_c01_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u014_e3",
+          "tuples": [
+            "('be', 'Linda', 'so great', 's01_e18_c01_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u014_e4",
+          "tuples": [
+            "('go out', 'you/(Ross Geller)', None, 's01_e18_c01_u014')",
+            "('go out', 'you/(Ross Geller)', 'with her', 's01_e18_c01_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u015",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u015_e1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e18_c01_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u016",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u016_e1",
+          "tuples": [
+            "('be', 'this/(Ross’s issue with Linda)', 'about her whole \"The Flintstones could’ve really happened\" thing', 's01_e18_c01_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u016_e2",
+          "tuples": [
+            "('happen', 'The Flintstones', None, 's01_e18_c01_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u017",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u017_e1",
+          "tuples": [
+            "('be', 'it/(Ross’s reason)', 'not just that', 's01_e18_c01_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u017_e2",
+          "tuples": [
+            "('want', 'I/(Ross Geller)', 'someone', 's01_e18_c01_u017')",
+            "('do', 'who/(someone)', 'something', 's01_e18_c01_u017')",
+            "('do', 'who/(someone)', 'for me', 's01_e18_c01_u017')",
+            "('get', 'who/(someone)', 'my heart pounding', 's01_e18_c01_u017')",
+            "('make', 'who/(someone)', 'me', 's01_e18_c01_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u020",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u020_e1",
+          "tuples": [
+            "('want', 'you/(Ross Geller)', 'her', 's01_e18_c01_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u023",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u023_e1",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'over her', 's01_e18_c01_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u024",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u024_e1",
+          "tuples": [
+            "('be', 'you/(Ross Geller)', None, 's01_e18_c01_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u025",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u025_e1",
+          "tuples": [
+            "('be', 'we/(Ross Geller & Chandler Bing)', 'fine', 's01_e18_c01_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u028",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u028_e1",
+          "tuples": [
+            "('shut up', 'you/(Chandler Bing & Ross Geller)', None, 's01_e18_c01_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u029",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u029_e1",
+          "tuples": [
+            "('say', 'we/(Chandler Bing & Ross Geller)', 'anything', 's01_e18_c01_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u031",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u031_e1",
+          "tuples": [
+            "('cry', 'Joey Tribbiani', None, 's01_e18_c01_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u032",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u032_e1",
+          "tuples": [
+            "('thank', 'I/(Joey Tribbiani)', 'you', 's01_e18_c01_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u033",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u033_e1",
+          "tuples": [
+            "('play', 'we/(Chandler Bing, Ross Geller, Joey Tribbiani)', 'poker', 's01_e18_c01_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u034",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u034_e1",
+          "tuples": [
+            "('be', 'chocolate', None, 's01_e18_c01_u034')",
+            "('be', 'chocolate', 'on the three', 's01_e18_c01_u034')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u034_e2",
+          "tuples": [
+            "('look', 'it/(the three)', None, 's01_e18_c01_u034')",
+            "('look', 'it/(the three)', 'like an eight', 's01_e18_c01_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u035",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u035_e1",
+          "tuples": [
+            "('see', 'you/(Monica Geller, Rachel Green, Phoebe Buffay)', 'him', 's01_e18_c01_u035')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u035_e2",
+          "tuples": [
+            "('read', 'you/(Chandler Bing & Ross Geller)', 'them', 's01_e18_c01_u035')",
+            "('weep', 'you/(Chandler Bing & Ross Geller)', None, 's01_e18_c01_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u036",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u036_e1",
+          "tuples": [
+            "('do', 'he/(Joey Tribbiani)', None, 's01_e18_c01_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u037",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u037_e1",
+          "tuples": [
+            "('play', 'you guys/(Chandler Bing, Ross Geller, Joey Tribbiani)', 'poker', 's01_e18_c01_u037')",
+            "('play', 'you guys/(Chandler Bing, Ross Geller, Joey Tribbiani)', 'with us', 's01_e18_c01_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u038",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u038_e1",
+          "tuples": [
+            "('be', 'that/(the reason)', 'what', 's01_e18_c01_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u038_e2",
+          "tuples": [
+            "('be', 'it/(that thing)', 'poker', 's01_e18_c01_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u038_e3",
+          "tuples": [
+            "('play', 'only guys', None, 's01_e18_c01_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u039",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u039_e1",
+          "tuples": [
+            "('be', 'women', 'welcome to play', 's01_e18_c01_u039')",
+            "('play', 'women', None, 's01_e18_c01_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u040",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u040_e1",
+          "tuples": [
+            "('be', 'it/(that thing)', 'what', 's01_e18_c01_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u041",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u041_e1",
+          "tuples": [
+            "('be', 'there/(existential)', 'any women in our games', 's01_e18_c01_u041')",
+            "('be', 'any women', None, 's01_e18_c01_u041')",
+            "('be', 'any women', 'in our games', 's01_e18_c01_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u042",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u042_e1",
+          "tuples": [
+            "('know', 'we/(Chandler Bing, Ross Geller, Joey Tribbiani)', 'any women that know how to play poker', 's01_e18_c01_u042')",
+            "('know', 'women', 'how to play poker', 's01_e18_c01_u042')",
+            "('play', 'they/(women that know how to play poker)', 'poker', 's01_e18_c01_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u044",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u044_e1",
+          "tuples": [
+            "('be', 'that/(your reason)', 'such a lame excuse', 's01_e18_c01_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u046",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u046_e1",
+          "tuples": [
+            "('mean', 'I/(Monica Geller)', None, 's01_e18_c01_u046')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u046_e2",
+          "tuples": [
+            "('be', 'that/(your reason)', 'a typical guy response', 's01_e18_c01_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u047",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u047_e1",
+          "tuples": [
+            "('excuse', 'you/(everyone)', 'me', 's01_e18_c01_u047')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c01_u047_e2",
+          "tuples": [
+            "('know', 'any of you/(Monica Geller, Rachel Green, Phoebe Buffay)', 'how to play', 's01_e18_c01_u047')",
+            "('play', 'you/(Monica Geller, Rachel Green, Phoebe Buffay)', None, 's01_e18_c01_u047')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c01_u049",
+      "events": [
+        {
+          "event_id": "s01_e18_c01_u049_e1",
+          "tuples": [
+            "('teach', 'you/(Chandler Bing, Ross Geller, Joey Tribbiani)', 'us', 's01_e18_c01_u049')"
+          ]
+        }
+      ]
+    }
+  ]
+}

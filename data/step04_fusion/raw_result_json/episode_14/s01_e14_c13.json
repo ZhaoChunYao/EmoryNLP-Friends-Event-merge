@@ -1,0 +1,114 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e14_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u001_e1",
+          "tuples": [
+            "('get', 'we/Firemen', 'what', 's01_e14_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c13_u002",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u002_e1",
+          "tuples": [
+            "('look', 'what', 'like a half-charred picture', 's01_e14_c13_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u002_e2",
+          "tuples": [
+            "('be', 'that guy', 'hairier than the Chief', 's01_e14_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u003_e1",
+          "tuples": [
+            "('know', 'you/Firemen', None, 's01_e14_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u003_e2",
+          "tuples": [
+            "('be', 'it/this situation', 'a really funny story', 's01_e14_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u003_e3",
+          "tuples": [
+            "('happen', 'this/this situation', None, 's01_e14_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c13_u004",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u004_e1",
+          "tuples": [
+            "('be', 'it/this situation', 'all right', 's01_e14_c13_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u004_e2",
+          "tuples": [
+            "('explain', 'you/Monica Geller and friends', None, 's01_e14_c13_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u004_e3",
+          "tuples": [
+            "('be', 'this/this boyfriend bonfire', 'the first boyfriend bonfire', 's01_e14_c13_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u004_e4",
+          "tuples": [
+            "('see', 'we/Firemen', 'that/the boyfriend bonfire', 's01_e14_c13_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e14_c13_u004_e5",
+          "tuples": [
+            "('get', 'that/the boyfriend bonfire', None, 's01_e14_c13_u004')",
+            "('get', 'that/the boyfriend bonfire', 'out of control', 's01_e14_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c13_u005",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u005_e1",
+          "tuples": [
+            "('be', 'you/Monica Geller and friends', 'our third call', 's01_e14_c13_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e14_c13_u007",
+      "events": [
+        {
+          "event_id": "s01_e14_c13_u007_e1",
+          "tuples": [
+            "('be', \"Valentine's\", 'our busiest night', 's01_e14_c13_u007')",
+            "('be', \"Valentine's\", 'of the year', 's01_e14_c13_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

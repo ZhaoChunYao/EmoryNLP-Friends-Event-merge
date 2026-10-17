@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only attempts brief interjections (“Chandler-”, “Joey-”) and shows no clear tendency toward outgoing talkativeness or marked reserve."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Speaker_02 explicitly says TargetSpeaker kissed Speaker_03 and “broke the friends’ code,” and Speaker_01 is mad about this. This indicates untrustworthy, norm-violating behavior toward friends."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Breaking the agreed friends’ code (as stated by Speaker_02) suggests carelessness toward commitments and responsibilities to the group."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety, sensitivity, or emotional volatility from TargetSpeaker in the brief interjections."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or actions reflecting curiosity, inventiveness, or dogmatism/caution are present in this exchange."
+  }
+}

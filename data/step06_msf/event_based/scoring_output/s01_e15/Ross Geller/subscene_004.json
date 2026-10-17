@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker is reserved and hesitant, responding with pauses and minimal talk: \"Wha... what, here?\" (u004), \"Ah....\" (u006), \"Er.... um.....\" (u008), and finally only a single word \"vulva\" (u010)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of warmth, generosity, or antagonism; TargetSpeaker eventually complies but without explicit cooperative or uncooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence about organization, planning, or carefulness in the brief exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Frequent hesitation and fillers indicate nervousness: \"Wha... what, here?\" (u004), \"Er.... um.....\" (u008), and \"Um... uh....\" (u010)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or inventiveness; the hesitation around the topic could suggest caution but is not strong enough to judge."
+  }
+}

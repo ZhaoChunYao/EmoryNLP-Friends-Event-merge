@@ -1,0 +1,59 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e18_c08_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'time', 'up', 's01_e18_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c08_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'That', 'a bird', 's01_e18_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c08_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'my turn', 's01_e18_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c08_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('go', 'you/Rachel Green', None, 's01_e18_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c08_u017",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Joey Tribbiani', 'that', 's01_e18_c08_u017')"
+          ]
+        }
+      ]
+    }
+  ]
+}

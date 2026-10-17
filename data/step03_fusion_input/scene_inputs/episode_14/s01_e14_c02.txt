@@ -1,0 +1,114 @@
+('do', 'you/Phoebe Buffay', 'this', 's01_e14_c02_u001')
+[s01_e14_c02_u001] Monica Geller: You can not do this.
+
+('do', 'you/Monica Geller', 'what', 's01_e14_c02_u002')
+[s01_e14_c02_u002] Rachel Green: Do what, do what?
+
+('take', 'Roger', 'her out tomorrow night', 's01_e14_c02_u003')
+[s01_e14_c02_u003] Monica Geller: Roger wants to take her out tomorrow night.
+
+('remember', 'you/Phoebe Buffay', 'why you dumped the guy', 's01_e14_c02_u004')
+[s01_e14_c02_u004] Rachel Green: No! Phoebes! Don't you remember why you dumped the guy?
+
+('dump', 'you/Phoebe Buffay', 'the guy', 's01_e14_c02_u004')
+[s01_e14_c02_u004] Rachel Green: No! Phoebes! Don't you remember why you dumped the guy?
+
+('be', 'he/Roger', 'creepy', 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('be', 'he/Roger', 'mean', 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('be', 'he/Roger', 'a little frightening', 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('be', 'it', "nice to have a date on Valentine's Day", 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('have', 'I/Phoebe Buffay', 'a date', 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('have', 'I/Phoebe Buffay', "on Valentine's Day", 's01_e14_c02_u005')
+[s01_e14_c02_u005] Phoebe Buffay: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!
+
+('go', 'you/Phoebe Buffay', 'out with a creepy guy', 's01_e14_c02_u006')
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+
+('know', 'I/Monica Geller', None, 's01_e14_c02_u006')
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+
+('do', 'I/Monica Geller', None, 's01_e14_c02_u006')
+[s01_e14_c02_u006] Monica Geller: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+
+('do', 'you guys/(Monica Geller, Phoebe Buffay, Joey Tribbiani, Chandler Bing)', None, 's01_e14_c02_u007')
+[s01_e14_c02_u007] Rachel Green: Well, what are you guys doing tomorrow night?
+
+('depend', 'tomorrow night', 'on how tonight goes', 's01_e14_c02_u008')
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes.
+
+('go', 'tonight', None, 's01_e14_c02_u008')
+[s01_e14_c02_u008] Joey Tribbiani: Actually, tomorrow night kinda depends on how tonight goes.
+
+('listen', 'you/Joey Tribbiani', 'about tonight', 's01_e14_c02_u009')
+[s01_e14_c02_u009] Chandler Bing: Oh, uh, listen, about tonight...
+
+('dare', 'you/Chandler Bing', 'bail on me', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('bail', 'you/Chandler Bing', 'on me', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('be', 'The only reason', 'because I said I could bring a friend for her friend', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('go', 'she/(Joey’s date)', 'out with me', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('say', 'I/Joey Tribbiani', 'I could bring a friend for her friend', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('bring', 'I/Joey Tribbiani', 'a friend', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('bring', 'I/Joey Tribbiani', 'for her friend', 's01_e14_c02_u010')
+[s01_e14_c02_u010] Joey Tribbiani: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.
+
+('know', 'I/Chandler Bing', None, 's01_e14_c02_u011')
+[s01_e14_c02_u011] Chandler Bing: Yes, I know, but her friend sounds like such a...
+
+('sound', 'her friend', 'like such a...', 's01_e14_c02_u011')
+[s01_e14_c02_u011] Chandler Bing: Yes, I know, but her friend sounds like such a...
+
+('know', 'I/Joey Tribbiani', None, 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('come', 'you/Chandler Bing', 'on', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('be', 'she/(her friend)', 'needy', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('be', 'she/(her friend)', 'vulnerable', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('think', 'I/Joey Tribbiani', 'cha-ching', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('look', 'you/Chandler Bing', None, 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('be', 'you/Chandler Bing', 'out with a woman', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('be', 'you/Chandler Bing', 'out since Janice', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('do', 'you/Chandler Bing', 'this', 's01_e14_c02_u012')
+[s01_e14_c02_u012] Joey Tribbiani: Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.
+
+('say', 'she/(the woman Ross asked)', 'yes', 's01_e14_c02_u013')
+[s01_e14_c02_u013] Ross Geller: Hi. She said yes.
+
+('get', 'you/Ross Geller', 'the egg', 's01_e14_c02_u014')
+[s01_e14_c02_u014] Chandler Bing: Yes! Way to go, man! Still got the egg, huh?
+

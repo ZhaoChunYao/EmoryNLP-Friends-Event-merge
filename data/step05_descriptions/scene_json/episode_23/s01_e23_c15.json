@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "event_id": "s01_e23_c15_u001_e1",
+      "description": "Lydia asks how Guy knew that Lydia was at the hospital."
+    },
+    {
+      "event_id": "s01_e23_c15_u002_e1",
+      "description": "Guy says Lydia's mom called Guy."
+    },
+    {
+      "event_id": "s01_e23_c15_u002_e2",
+      "description": "Guy asks whether the car in question is Lydia's mom's car."
+    },
+    {
+      "event_id": "s01_e23_c15_u003_e1",
+      "description": "Lydia says the car in question is a loaner."
+    },
+    {
+      "event_id": "s01_e23_c15_u004_e1",
+      "description": "Guy says Lydia had to handle the delivery by herself."
+    },
+    {
+      "event_id": "s01_e23_c15_u005_e1",
+      "description": "Lydia says Lydia was not by herself and that Lydia had a doctor (Person 1), a nurse (Person 2), and Joey Tribbiani helping."
+    },
+    {
+      "event_id": "s01_e23_c15_u005_e2",
+      "description": "Lydia asks whether Guy saw who won the game."
+    },
+    {
+      "event_id": "s01_e23_c15_u006_e1",
+      "description": "Guy says the New York Knicks are terrible."
+    },
+    {
+      "event_id": "s01_e23_c15_u007_e1",
+      "description": "Lydia says the New York Knicks are not so bad."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief comments and does not display outgoing or energetic behavior (u002, u005)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear cooperative, generous, or hostile behavior; he simply notes Speaker_01 has called and complains about parental pressure (u002, u005)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No indications of organization, planning, or carelessness in the brief remarks."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses distress/disbelief about being pressured by parents to choose a partner, indicating sensitivity to the situation (u005)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity/inventiveness or dogmatism/caution in the statements provided."
+  }
+}

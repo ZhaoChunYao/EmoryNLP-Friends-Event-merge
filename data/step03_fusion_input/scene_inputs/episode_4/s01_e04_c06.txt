@@ -1,0 +1,27 @@
+('be', 'There', 'ice', 's01_e04_c06_u002')
+[s01_e04_c06_u002] Chandler Bing: What? There was ice there that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans?
+
+('say', 'I/(Ross Geller)', "it looks like we're not sitting together", 's01_e04_c06_u003')
+[s01_e04_c06_u003] Ross Geller: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+
+('look', 'it/(the seating situation)', "like we're not sitting together", 's01_e04_c06_u003')
+[s01_e04_c06_u003] Ross Geller: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+
+('sit', 'we/(Ross Geller and Chandler Bing)', None, 's01_e04_c06_u003')
+[s01_e04_c06_u003] Ross Geller: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+
+('mention', 'you/(Chandler Bing)', 'it', 's01_e04_c06_u003')
+[s01_e04_c06_u003] Ross Geller: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+
+('be', 'it/(that night)', 'the first frost', 's01_e04_c06_u003')
+[s01_e04_c06_u003] Ross Geller: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+
+('come', 'you/(Ross Geller)', 'on', 's01_e04_c06_u004')
+[s01_e04_c06_u004] Joey Tribbiani: C'mon, sit. Just sit down, sit.
+
+('sit', 'you/(Ross Geller)', 'down', 's01_e04_c06_u004')
+[s01_e04_c06_u004] Joey Tribbiani: C'mon, sit. Just sit down, sit.
+
+('sit', 'you/(Ross Geller)', None, 's01_e04_c06_u004')
+[s01_e04_c06_u004] Joey Tribbiani: C'mon, sit. Just sit down, sit.
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker enthusiastically praises Speaker_02 in front of the group, using a lively, colorful comparison."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker gives generous credit to Speaker_02 (“unbelievable,” like playing all positions), showing praise and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; the brief “What?” response is neutral."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a creative pop-culture analogy (Bugs Bunny playing all positions) to describe performance."
+  }
+}

@@ -1,0 +1,106 @@
+event_id: s01_e05_c15_u001_e1
+utterance_id: s01_e05_c15_u001
+  tuple: ('get', 'you/Rachel Green', 'the clothes clean', 's01_e05_c15_u001')
+
+event_id: s01_e05_c15_u001_e2
+utterance_id: s01_e05_c15_u001
+  tuple: ('be', 'that', 'the important part', 's01_e05_c15_u001')
+
+event_id: s01_e05_c15_u002_e1
+utterance_id: s01_e05_c15_u002
+  tuple: ('guess', 'I/Rachel Green', None, 's01_e05_c15_u002')
+
+event_id: s01_e05_c15_u002_e2
+utterance_id: s01_e05_c15_u002
+  tuple: ('look', 'everything', 'like jammies', 's01_e05_c15_u002')
+
+event_id: s01_e05_c15_u004_e1
+utterance_id: s01_e05_c15_u004
+  tuple: ('be', 'I/Rachel Green', 'sorry', 's01_e05_c15_u004')
+
+event_id: s01_e05_c15_u004_e2
+utterance_id: s01_e05_c15_u004
+  tuple: ('excuse', 'you/Woman', 'me', 's01_e05_c15_u004')
+
+event_id: s01_e05_c15_u004_e3
+utterance_id: s01_e05_c15_u004
+  tuple: ('have', 'we/Rachel Green+Ross Geller', 'this cart', 's01_e05_c15_u004')
+
+event_id: s01_e05_c15_u005_e1
+utterance_id: s01_e05_c15_u005
+  tuple: ('have', 'I/Woman', 'a 24-inch waist', 's01_e05_c15_u005')
+
+event_id: s01_e05_c15_u005_e2
+utterance_id: s01_e05_c15_u005
+  tuple: ('lose', 'you/Rachel Green', 'things', 's01_e05_c15_u005')
+
+event_id: s01_e05_c15_u005_e3
+utterance_id: s01_e05_c15_u005
+  tuple: ('come on', 'you/Rachel Green', None, 's01_e05_c15_u005')
+
+event_id: s01_e05_c15_u005_e4
+utterance_id: s01_e05_c15_u005
+  tuple: ('get', 'you/Rachel Green', 'outta my way', 's01_e05_c15_u005')
+
+event_id: s01_e05_c15_u007_e1
+utterance_id: s01_e05_c15_u007
+  tuple: ('know', 'you/Woman', None, 's01_e05_c15_u007')
+
+event_id: s01_e05_c15_u007_e2
+utterance_id: s01_e05_c15_u007
+  tuple: ('be', 'I/Rachel Green', 'clear', 's01_e05_c15_u007')
+
+event_id: s01_e05_c15_u007_e3
+utterance_id: s01_e05_c15_u007
+  tuple: ('be', 'this', 'our cart', 's01_e05_c15_u007')
+
+event_id: s01_e05_c15_u008_e1
+utterance_id: s01_e05_c15_u008
+  tuple: ('be', 'there', 'any clothes', 's01_e05_c15_u008')
+  tuple: ('be', 'any clothes', 'in it', 's01_e05_c15_u008')
+
+event_id: s01_e05_c15_u009_e1
+utterance_id: s01_e05_c15_u009
+  tuple: ('quit', 'you/Woman', 'making up rules', 's01_e05_c15_u009')
+  tuple: ('make up', 'you/Woman', 'rules', 's01_e05_c15_u009')
+
+event_id: s01_e05_c15_u010_e1
+utterance_id: s01_e05_c15_u010
+  tuple: ('let go', 'you/Rachel Green', None, 's01_e05_c15_u010')
+
+event_id: s01_e05_c15_u012_e1
+utterance_id: s01_e05_c15_u012
+  tuple: ('listen', 'you/Woman', None, 's01_e05_c15_u012')
+
+event_id: s01_e05_c15_u012_e2
+utterance_id: s01_e05_c15_u012
+  tuple: ('want', 'you/Woman', 'this cart', 's01_e05_c15_u012')
+
+event_id: s01_e05_c15_u012_e3
+utterance_id: s01_e05_c15_u012
+  tuple: ('take', 'you/Woman', 'me with it', 's01_e05_c15_u012')
+
+event_id: s01_e05_c15_u014_e1
+utterance_id: s01_e05_c15_u014
+  tuple: ('see', 'you/Ross Geller', 'that', 's01_e05_c15_u014')
+
+event_id: s01_e05_c15_u015_e1
+utterance_id: s01_e05_c15_u015
+  tuple: ('be', 'you/Rachel Green', 'incredible', 's01_e05_c15_u015')
+
+event_id: s01_e05_c15_u016_e1
+utterance_id: s01_e05_c15_u016
+  tuple: ('do', 'I/Rachel Green', 'this without you', 's01_e05_c15_u016')
+
+event_id: s01_e05_c15_u018_e1
+utterance_id: s01_e05_c15_u018
+  tuple: ('be', 'more clothes', 'in the dryer', 's01_e05_c15_u018')
+
+event_id: s01_e05_c15_u018_e2
+utterance_id: s01_e05_c15_u018
+  tuple: ('be', 'I/Ross Geller', 'fine', 's01_e05_c15_u018')
+
+event_id: s01_e05_c15_u019_e1
+utterance_id: s01_e05_c15_u019
+  tuple: ('be', 'you/Ross Geller', 'sure', 's01_e05_c15_u019')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of being notably outgoing or reserved; TargetSpeaker simply responds about whether Speaker_01 should stay or go."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "After first saying Speaker_01 staying would be good (u038), TargetSpeaker then encourages Speaker_01 to go on the date with Speaker_03 (u040), showing consideration for Speaker_01’s plans."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses a desire for Speaker_01 to stay (u038), suggesting need for support and some emotional vulnerability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Nothing in the dialogue indicates curiosity, inventiveness, or rigidity/dogmatism."
+  }
+}

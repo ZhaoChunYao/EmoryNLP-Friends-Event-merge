@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Says he is leaving and has a date, but shows no clear outgoing/talkative or reserved/avoidant behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "States his intentions plainly (“I’m leaving now. I have a date with Speaker_02”), indicating straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete signs of organization or diligence beyond having a date; he simply repeats that he’s leaving."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently announces he’s leaving for a date with no signs of worry or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Provides factual statements (month is June, leaving now) without showing curiosity or unconventional ideas."
+  }
+}

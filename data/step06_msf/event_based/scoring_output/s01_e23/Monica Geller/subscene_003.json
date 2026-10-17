@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages actively and assertively, asking follow‑up and challenging questions like \"Oh yeah? When?\" (u011), \"Ok, hypothetically, why won't I be married when I'm 40?\" (u015), pressing with \"Well?\" (u019)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She confronts and presses Speaker_03 about the implication she won't be married (u015, u017, u019), putting them on the spot rather than responding cooperatively."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors indicate organization/efficiency or carelessness/sloppiness in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She shows insecurity and sensitivity about being \"fundamentally unmarriable\" (u017) and anxiously presses for reassurance (u015, u019)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Although she uses the word \"hypothetically\" (u015), she does not engage in imaginative exploration; her focus is on reassurance, providing no clear sign of curiosity or dogmatism."
+  }
+}

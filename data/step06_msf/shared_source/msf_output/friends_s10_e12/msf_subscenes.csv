@@ -1,0 +1,950 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e12,s10_e12_c01,Joey Tribbiani,0,0,9,0,9,3,s10_e12_c01_u001,s10_e12_c01_u014,"[s10_e12_c01_u001] Phoebe Buffay: Oh, hey Joey.
+[s10_e12_c01_u002] Joey Tribbiani: Uh, hey.
+[s10_e12_c01_u003] Phoebe Buffay: Listen, I need to ask you something. Ok, you know how my step dad's in prison.
+[s10_e12_c01_u004] Joey Tribbiani: Yeah.
+[s10_e12_c01_u005] Phoebe Buffay: Yeah. Well, uhm... listen he was supposed to get a weekend furlough, so he'd come to the wedding tomorrow, but he just called and... uhm... well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday.
+[s10_e12_c01_u006] Joey Tribbiani: So he can't come?
+[s10_e12_c01_u007] Phoebe Buffay: No, and so there's no one to walk me down the aisle and... well, I would just really love it if you would do it.
+[s10_e12_c01_u008] Joey Tribbiani: Seriously?
+[s10_e12_c01_u009] Phoebe Buffay: Yeah, you've... you know, sort of been like a dad to me. I mean, you've always, you know, looked out for me and shared your wisdom...
+[s10_e12_c01_u010] Joey Tribbiani: I am pretty wisdomous.
+[s10_e12_c01_u011] Phoebe Buffay: So... what do you say?
+[s10_e12_c01_u012] Joey Tribbiani: Are you kidding? Phoebe, I would be honored.
+[s10_e12_c01_u013] Phoebe Buffay: Oh, thank you. I hope... I hope you know how much you mean to me.
+[s10_e12_c01_u014] Joey Tribbiani: Listen, I hope... that you know... I don't want you to see your father cry, GO TO YOUR ROOM!"
+s10_e12,s10_e12_c01,Phoebe Buffay,0,0,9,0,9,3,s10_e12_c01_u001,s10_e12_c01_u014,"[s10_e12_c01_u001] Phoebe Buffay: Oh, hey Joey.
+[s10_e12_c01_u002] Joey Tribbiani: Uh, hey.
+[s10_e12_c01_u003] Phoebe Buffay: Listen, I need to ask you something. Ok, you know how my step dad's in prison.
+[s10_e12_c01_u004] Joey Tribbiani: Yeah.
+[s10_e12_c01_u005] Phoebe Buffay: Yeah. Well, uhm... listen he was supposed to get a weekend furlough, so he'd come to the wedding tomorrow, but he just called and... uhm... well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday.
+[s10_e12_c01_u006] Joey Tribbiani: So he can't come?
+[s10_e12_c01_u007] Phoebe Buffay: No, and so there's no one to walk me down the aisle and... well, I would just really love it if you would do it.
+[s10_e12_c01_u008] Joey Tribbiani: Seriously?
+[s10_e12_c01_u009] Phoebe Buffay: Yeah, you've... you know, sort of been like a dad to me. I mean, you've always, you know, looked out for me and shared your wisdom...
+[s10_e12_c01_u010] Joey Tribbiani: I am pretty wisdomous.
+[s10_e12_c01_u011] Phoebe Buffay: So... what do you say?
+[s10_e12_c01_u012] Joey Tribbiani: Are you kidding? Phoebe, I would be honored.
+[s10_e12_c01_u013] Phoebe Buffay: Oh, thank you. I hope... I hope you know how much you mean to me.
+[s10_e12_c01_u014] Joey Tribbiani: Listen, I hope... that you know... I don't want you to see your father cry, GO TO YOUR ROOM!"
+s10_e12,s10_e12_c02,Monica Geller,0,1,16,0,16,3,s10_e12_c02_u001,s10_e12_c02_u021,"[s10_e12_c02_u001] Phoebe Buffay: Oh.
+[s10_e12_c02_u002] Joey Tribbiani: Oh no, no, no, let your dad get this.
+[s10_e12_c02_u003] Phoebe Buffay: Oh, it's my wedding planner. She's driving me crazy! Hello... Hey, ok, stop screaming! Ok? So, halibut. All right, so salmon, either way. I don't-I don't... it doesn't matter to me!
+[s10_e12_c02_u004] Monica Geller: Well, it matters to me!
+[s10_e12_c02_u005] Phoebe Buffay: Well, I don't care, so you pick!
+[s10_e12_c02_u006] Monica Geller: Did you just hung up on me? All right, look, I need you at the rehearsal dinner tonight at 1800 hours.
+[s10_e12_c02_u007] Phoebe Buffay: Uh-uh. Ok. What time is that.
+[s10_e12_c02_u008] Monica Geller: You don't know military time?
+[s10_e12_c02_u009] Phoebe Buffay: Why, I must have been in missile training the day they taught that.
+[s10_e12_c02_u010] Monica Geller: Just subtract twelve.
+[s10_e12_c02_u011] Phoebe Buffay: Ok, so... 1800 minus twelve is... one thousand, seven hundred and...
+[s10_e12_c02_u012] Monica Geller: Six o'clock!
+[s10_e12_c02_u013] Phoebe Buffay: Ok.
+[s10_e12_c02_u014] Monica Geller: Ok. Hold on. Geller here! No! I said it has to be there by 4 o'clock. Goodbye. Oh, how hard it is to make an ice sculpture?
+[s10_e12_c02_u015] Phoebe Buffay: Ice sculpture? That sounds really fancy! I told you I just want a simple wedding.
+[s10_e12_c02_u016] Monica Geller: Please... honey, leave the details to me. Now I wanna make this day as special for you as I can. Now, ok, I was thinking that the harpist should wear white.
+[s10_e12_c02_u017] Phoebe Buffay: What harpist? My friend Marjorie is playing the steel drums.
+[s10_e12_c02_u018] Monica Geller: Ooh... she backed out.
+[s10_e12_c02_u019] Phoebe Buffay: She did? Why?
+[s10_e12_c02_u020] Monica Geller: I made her. Steel drums don't really say ""elegant wedding"". Nor does Marjorie's overwhelming scent.
+[s10_e12_c02_u021] Phoebe Buffay: Hey! She will shower when Tibet is free."
+s10_e12,s10_e12_c02,Phoebe Buffay,0,0,16,0,16,3,s10_e12_c02_u001,s10_e12_c02_u021,"[s10_e12_c02_u001] Phoebe Buffay: Oh.
+[s10_e12_c02_u002] Joey Tribbiani: Oh no, no, no, let your dad get this.
+[s10_e12_c02_u003] Phoebe Buffay: Oh, it's my wedding planner. She's driving me crazy! Hello... Hey, ok, stop screaming! Ok? So, halibut. All right, so salmon, either way. I don't-I don't... it doesn't matter to me!
+[s10_e12_c02_u004] Monica Geller: Well, it matters to me!
+[s10_e12_c02_u005] Phoebe Buffay: Well, I don't care, so you pick!
+[s10_e12_c02_u006] Monica Geller: Did you just hung up on me? All right, look, I need you at the rehearsal dinner tonight at 1800 hours.
+[s10_e12_c02_u007] Phoebe Buffay: Uh-uh. Ok. What time is that.
+[s10_e12_c02_u008] Monica Geller: You don't know military time?
+[s10_e12_c02_u009] Phoebe Buffay: Why, I must have been in missile training the day they taught that.
+[s10_e12_c02_u010] Monica Geller: Just subtract twelve.
+[s10_e12_c02_u011] Phoebe Buffay: Ok, so... 1800 minus twelve is... one thousand, seven hundred and...
+[s10_e12_c02_u012] Monica Geller: Six o'clock!
+[s10_e12_c02_u013] Phoebe Buffay: Ok.
+[s10_e12_c02_u014] Monica Geller: Ok. Hold on. Geller here! No! I said it has to be there by 4 o'clock. Goodbye. Oh, how hard it is to make an ice sculpture?
+[s10_e12_c02_u015] Phoebe Buffay: Ice sculpture? That sounds really fancy! I told you I just want a simple wedding.
+[s10_e12_c02_u016] Monica Geller: Please... honey, leave the details to me. Now I wanna make this day as special for you as I can. Now, ok, I was thinking that the harpist should wear white.
+[s10_e12_c02_u017] Phoebe Buffay: What harpist? My friend Marjorie is playing the steel drums.
+[s10_e12_c02_u018] Monica Geller: Ooh... she backed out.
+[s10_e12_c02_u019] Phoebe Buffay: She did? Why?
+[s10_e12_c02_u020] Monica Geller: I made her. Steel drums don't really say ""elegant wedding"". Nor does Marjorie's overwhelming scent.
+[s10_e12_c02_u021] Phoebe Buffay: Hey! She will shower when Tibet is free."
+s10_e12,s10_e12_c03,Chandler Bing,0,0,2,0,3,3,s10_e12_c03_u001,s10_e12_c03_u008,"[s10_e12_c03_u001] Chandler Bing: Hey!
+[s10_e12_c03_u002] Phoebe Buffay: Hey!
+[s10_e12_c03_u003] Chandler Bing: You look great. I'm so glad we're having this rehearsal dinner, you know, I so rarely get to practice my meals before I eat them.
+[s10_e12_c03_u004] Phoebe Buffay: Okay, what did we say was your one gift to us?
+[s10_e12_c03_u005] Chandler Bing: No stupid jokes. I thought that was for the actual wedding.
+[s10_e12_c03_u006] Phoebe Buffay: Rehearse it!
+[s10_e12_c03_u007] Ross Geller: Hi!
+[s10_e12_c03_u008] Mike Hannigan: Thanks for coming you guys."
+s10_e12,s10_e12_c03,Chandler Bing,1,35,37,34,38,2,s10_e12_c03_u035,s10_e12_c03_u043,"[s10_e12_c03_u035] Rachel Green: Well, this is really awkward Oh, and I can leave!
+[s10_e12_c03_u036] Phoebe Buffay: I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut.
+[s10_e12_c03_u037] Ross Geller: Oh, man!
+[s10_e12_c03_u038] Chandler Bing: This is like figure skating team all over again. I mean synchronized swimming. I mean- I mean the balance beam. Help me!
+[s10_e12_c03_u039] Ross Geller: FOOTBALL!
+[s10_e12_c03_u040] Chandler Bing: Thank you.
+[s10_e12_c03_u041] Monica Geller: Pheebs, spit that out, that has pork in it.
+[s10_e12_c03_u042] Phoebe Buffay: Oh! I though the pot stickers were supposed to be vegetarian!
+[s10_e12_c03_u043] Monica Geller: Yeah, I changed them. I-I sent you a fax about it!"
+s10_e12,s10_e12_c03,Chandler Bing,2,45,49,44,50,2,s10_e12_c03_u045,s10_e12_c03_u055,"[s10_e12_c03_u045] Monica Geller: Ah, well then there are gonna be a few surprises!
+[s10_e12_c03_u046] Ross Geller: I can't believe we're gonna be the only people that aren't in this wedding.
+[s10_e12_c03_u047] Chandler Bing: I know, I hate being left out of things.
+[s10_e12_c03_u048] Ross Geller: And it's a wedding! It'd be weird if I'm not in it...
+[s10_e12_c03_u049] Mike Hannigan: Hey guys, how is it going?
+[s10_e12_c03_u050] Chandler Bing: Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+[s10_e12_c03_u051] Mike Hannigan: Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it.
+[s10_e12_c03_u052] Chandler Bing: What happened?
+[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!"
+s10_e12,s10_e12_c03,Chandler Bing,3,51,51,50,52,2,s10_e12_c03_u051,s10_e12_c03_u057,"[s10_e12_c03_u051] Mike Hannigan: Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it.
+[s10_e12_c03_u052] Chandler Bing: What happened?
+[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one."
+s10_e12,s10_e12_c03,Chandler Bing,4,53,55,52,56,2,s10_e12_c03_u053,s10_e12_c03_u061,"[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.
+[s10_e12_c03_u061] Ross Geller: Well, if Phoebe's choosing, then say hello to Mike's next groomsman."
+s10_e12,s10_e12_c03,Chandler Bing,5,57,57,56,58,2,s10_e12_c03_u057,s10_e12_c03_u063,"[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.
+[s10_e12_c03_u061] Ross Geller: Well, if Phoebe's choosing, then say hello to Mike's next groomsman.
+[s10_e12_c03_u062] Chandler Bing: Oh, I will. But I will need a mirror... as he is me!
+[s10_e12_c03_u063] Ross Geller: Please, you're going down!"
+s10_e12,s10_e12_c03,Chandler Bing,6,59,61,58,61,3,s10_e12_c03_u059,s10_e12_c03_u066,"[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.
+[s10_e12_c03_u061] Ross Geller: Well, if Phoebe's choosing, then say hello to Mike's next groomsman.
+[s10_e12_c03_u062] Chandler Bing: Oh, I will. But I will need a mirror... as he is me!
+[s10_e12_c03_u063] Ross Geller: Please, you're going down!
+[s10_e12_c03_u064] Chandler Bing: You are going downer!
+[s10_e12_c03_u065] Ross Geller: Is that what they say on the Figure Skating Team?
+[s10_e12_c03_u066] Chandler Bing: I wouldn't know, I didn't make it!"
+s10_e12,s10_e12_c03,Joey Tribbiani,0,15,21,14,22,3,s10_e12_c03_u015,s10_e12_c03_u027,"[s10_e12_c03_u015] Phoebe Buffay: Where is Emma?
+[s10_e12_c03_u016] Rachel Green: Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix.
+[s10_e12_c03_u017] Monica Geller: Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time!
+[s10_e12_c03_u018] Joey Tribbiani: Hey, you're Mike's parents, right?
+[s10_e12_c03_u019] Mike's Mother: Yes, we are.
+[s10_e12_c03_u020] Joey Tribbiani: Ah, our little ones are growing up fast, uh?
+[s10_e12_c03_u021] Mike's Father: How's that?
+[s10_e12_c03_u022] Joey Tribbiani: You know, on the one hand you're happy for them, but on the other hand it's hard to let go.
+[s10_e12_c03_u023] Mike's Father: Who in God's name are you?
+[s10_e12_c03_u024] Joey Tribbiani: Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!
+[s10_e12_c03_u025] Chandler Bing: You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+[s10_e12_c03_u026] Ross Geller: Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?
+[s10_e12_c03_u027] Rachel Green: Uh... November?"
+s10_e12,s10_e12_c03,Mike Hannigan,0,5,9,4,10,3,s10_e12_c03_u005,s10_e12_c03_u015,"[s10_e12_c03_u005] Chandler Bing: No stupid jokes. I thought that was for the actual wedding.
+[s10_e12_c03_u006] Phoebe Buffay: Rehearse it!
+[s10_e12_c03_u007] Ross Geller: Hi!
+[s10_e12_c03_u008] Mike Hannigan: Thanks for coming you guys.
+[s10_e12_c03_u009] Ross Geller: Oh, hey, oh... I... I was-I was going for a hand shake.
+[s10_e12_c03_u010] Mike Hannigan: Is that why your hand is pressed against my crotch?
+[s10_e12_c03_u011] Ross Geller: That is why!
+[s10_e12_c03_u012] Mike Hannigan: Yeah.
+[s10_e12_c03_u013] Phoebe Buffay: So Rach.
+[s10_e12_c03_u014] Rachel Green: Yeah.
+[s10_e12_c03_u015] Phoebe Buffay: Where is Emma?"
+s10_e12,s10_e12_c03,Mike Hannigan,1,46,50,45,51,2,s10_e12_c03_u046,s10_e12_c03_u056,"[s10_e12_c03_u046] Ross Geller: I can't believe we're gonna be the only people that aren't in this wedding.
+[s10_e12_c03_u047] Chandler Bing: I know, I hate being left out of things.
+[s10_e12_c03_u048] Ross Geller: And it's a wedding! It'd be weird if I'm not in it...
+[s10_e12_c03_u049] Mike Hannigan: Hey guys, how is it going?
+[s10_e12_c03_u050] Chandler Bing: Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+[s10_e12_c03_u051] Mike Hannigan: Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it.
+[s10_e12_c03_u052] Chandler Bing: What happened?
+[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!"
+s10_e12,s10_e12_c03,Mike Hannigan,2,52,53,51,54,2,s10_e12_c03_u052,s10_e12_c03_u059,"[s10_e12_c03_u052] Chandler Bing: What happened?
+[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?"
+s10_e12,s10_e12_c03,Mike Hannigan,3,55,56,54,57,2,s10_e12_c03_u055,s10_e12_c03_u062,"[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.
+[s10_e12_c03_u061] Ross Geller: Well, if Phoebe's choosing, then say hello to Mike's next groomsman.
+[s10_e12_c03_u062] Chandler Bing: Oh, I will. But I will need a mirror... as he is me!"
+s10_e12,s10_e12_c03,Mike's Father,0,18,20,17,21,2,s10_e12_c03_u018,s10_e12_c03_u026,"[s10_e12_c03_u018] Joey Tribbiani: Hey, you're Mike's parents, right?
+[s10_e12_c03_u019] Mike's Mother: Yes, we are.
+[s10_e12_c03_u020] Joey Tribbiani: Ah, our little ones are growing up fast, uh?
+[s10_e12_c03_u021] Mike's Father: How's that?
+[s10_e12_c03_u022] Joey Tribbiani: You know, on the one hand you're happy for them, but on the other hand it's hard to let go.
+[s10_e12_c03_u023] Mike's Father: Who in God's name are you?
+[s10_e12_c03_u024] Joey Tribbiani: Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!
+[s10_e12_c03_u025] Chandler Bing: You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+[s10_e12_c03_u026] Ross Geller: Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?"
+s10_e12,s10_e12_c03,Monica Geller,0,38,42,37,43,3,s10_e12_c03_u038,s10_e12_c03_u048,"[s10_e12_c03_u038] Chandler Bing: This is like figure skating team all over again. I mean synchronized swimming. I mean- I mean the balance beam. Help me!
+[s10_e12_c03_u039] Ross Geller: FOOTBALL!
+[s10_e12_c03_u040] Chandler Bing: Thank you.
+[s10_e12_c03_u041] Monica Geller: Pheebs, spit that out, that has pork in it.
+[s10_e12_c03_u042] Phoebe Buffay: Oh! I though the pot stickers were supposed to be vegetarian!
+[s10_e12_c03_u043] Monica Geller: Yeah, I changed them. I-I sent you a fax about it!
+[s10_e12_c03_u044] Phoebe Buffay: I don't have a fax machine.
+[s10_e12_c03_u045] Monica Geller: Ah, well then there are gonna be a few surprises!
+[s10_e12_c03_u046] Ross Geller: I can't believe we're gonna be the only people that aren't in this wedding.
+[s10_e12_c03_u047] Chandler Bing: I know, I hate being left out of things.
+[s10_e12_c03_u048] Ross Geller: And it's a wedding! It'd be weird if I'm not in it..."
+s10_e12,s10_e12_c03,Phoebe Buffay,0,0,3,0,4,3,s10_e12_c03_u001,s10_e12_c03_u009,"[s10_e12_c03_u001] Chandler Bing: Hey!
+[s10_e12_c03_u002] Phoebe Buffay: Hey!
+[s10_e12_c03_u003] Chandler Bing: You look great. I'm so glad we're having this rehearsal dinner, you know, I so rarely get to practice my meals before I eat them.
+[s10_e12_c03_u004] Phoebe Buffay: Okay, what did we say was your one gift to us?
+[s10_e12_c03_u005] Chandler Bing: No stupid jokes. I thought that was for the actual wedding.
+[s10_e12_c03_u006] Phoebe Buffay: Rehearse it!
+[s10_e12_c03_u007] Ross Geller: Hi!
+[s10_e12_c03_u008] Mike Hannigan: Thanks for coming you guys.
+[s10_e12_c03_u009] Ross Geller: Oh, hey, oh... I... I was-I was going for a hand shake."
+s10_e12,s10_e12_c03,Phoebe Buffay,1,10,12,9,13,2,s10_e12_c03_u010,s10_e12_c03_u018,"[s10_e12_c03_u010] Mike Hannigan: Is that why your hand is pressed against my crotch?
+[s10_e12_c03_u011] Ross Geller: That is why!
+[s10_e12_c03_u012] Mike Hannigan: Yeah.
+[s10_e12_c03_u013] Phoebe Buffay: So Rach.
+[s10_e12_c03_u014] Rachel Green: Yeah.
+[s10_e12_c03_u015] Phoebe Buffay: Where is Emma?
+[s10_e12_c03_u016] Rachel Green: Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix.
+[s10_e12_c03_u017] Monica Geller: Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time!
+[s10_e12_c03_u018] Joey Tribbiani: Hey, you're Mike's parents, right?"
+s10_e12,s10_e12_c03,Phoebe Buffay,2,28,29,27,30,2,s10_e12_c03_u028,s10_e12_c03_u035,"[s10_e12_c03_u028] Ross Geller: I wanna say it's not looking good.
+[s10_e12_c03_u029] Rachel Green: Hey Pheebs...
+[s10_e12_c03_u030] Phoebe Buffay: What's up?
+[s10_e12_c03_u031] Rachel Green: Uhm... you haven't told these guys what they're doing in the wedding yet.
+[s10_e12_c03_u032] Chandler Bing: Heh.
+[s10_e12_c03_u033] Phoebe Buffay: Uhm... well, they're not in the wedding.
+[s10_e12_c03_u034] Ross Geller: What?
+[s10_e12_c03_u035] Rachel Green: Well, this is really awkward Oh, and I can leave!"
+s10_e12,s10_e12_c03,Phoebe Buffay,3,31,32,30,33,2,s10_e12_c03_u031,s10_e12_c03_u038,"[s10_e12_c03_u031] Rachel Green: Uhm... you haven't told these guys what they're doing in the wedding yet.
+[s10_e12_c03_u032] Chandler Bing: Heh.
+[s10_e12_c03_u033] Phoebe Buffay: Uhm... well, they're not in the wedding.
+[s10_e12_c03_u034] Ross Geller: What?
+[s10_e12_c03_u035] Rachel Green: Well, this is really awkward Oh, and I can leave!
+[s10_e12_c03_u036] Phoebe Buffay: I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut.
+[s10_e12_c03_u037] Ross Geller: Oh, man!
+[s10_e12_c03_u038] Chandler Bing: This is like figure skating team all over again. I mean synchronized swimming. I mean- I mean the balance beam. Help me!"
+s10_e12,s10_e12_c03,Phoebe Buffay,4,39,41,38,42,2,s10_e12_c03_u039,s10_e12_c03_u047,"[s10_e12_c03_u039] Ross Geller: FOOTBALL!
+[s10_e12_c03_u040] Chandler Bing: Thank you.
+[s10_e12_c03_u041] Monica Geller: Pheebs, spit that out, that has pork in it.
+[s10_e12_c03_u042] Phoebe Buffay: Oh! I though the pot stickers were supposed to be vegetarian!
+[s10_e12_c03_u043] Monica Geller: Yeah, I changed them. I-I sent you a fax about it!
+[s10_e12_c03_u044] Phoebe Buffay: I don't have a fax machine.
+[s10_e12_c03_u045] Monica Geller: Ah, well then there are gonna be a few surprises!
+[s10_e12_c03_u046] Ross Geller: I can't believe we're gonna be the only people that aren't in this wedding.
+[s10_e12_c03_u047] Chandler Bing: I know, I hate being left out of things."
+s10_e12,s10_e12_c03,Rachel Green,0,11,13,10,14,2,s10_e12_c03_u011,s10_e12_c03_u019,"[s10_e12_c03_u011] Ross Geller: That is why!
+[s10_e12_c03_u012] Mike Hannigan: Yeah.
+[s10_e12_c03_u013] Phoebe Buffay: So Rach.
+[s10_e12_c03_u014] Rachel Green: Yeah.
+[s10_e12_c03_u015] Phoebe Buffay: Where is Emma?
+[s10_e12_c03_u016] Rachel Green: Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix.
+[s10_e12_c03_u017] Monica Geller: Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time!
+[s10_e12_c03_u018] Joey Tribbiani: Hey, you're Mike's parents, right?
+[s10_e12_c03_u019] Mike's Mother: Yes, we are."
+s10_e12,s10_e12_c03,Rachel Green,1,24,28,23,29,3,s10_e12_c03_u024,s10_e12_c03_u034,"[s10_e12_c03_u024] Joey Tribbiani: Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!
+[s10_e12_c03_u025] Chandler Bing: You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+[s10_e12_c03_u026] Ross Geller: Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?
+[s10_e12_c03_u027] Rachel Green: Uh... November?
+[s10_e12_c03_u028] Ross Geller: I wanna say it's not looking good.
+[s10_e12_c03_u029] Rachel Green: Hey Pheebs...
+[s10_e12_c03_u030] Phoebe Buffay: What's up?
+[s10_e12_c03_u031] Rachel Green: Uhm... you haven't told these guys what they're doing in the wedding yet.
+[s10_e12_c03_u032] Chandler Bing: Heh.
+[s10_e12_c03_u033] Phoebe Buffay: Uhm... well, they're not in the wedding.
+[s10_e12_c03_u034] Ross Geller: What?"
+s10_e12,s10_e12_c03,Rachel Green,2,30,30,29,31,2,s10_e12_c03_u030,s10_e12_c03_u036,"[s10_e12_c03_u030] Phoebe Buffay: What's up?
+[s10_e12_c03_u031] Rachel Green: Uhm... you haven't told these guys what they're doing in the wedding yet.
+[s10_e12_c03_u032] Chandler Bing: Heh.
+[s10_e12_c03_u033] Phoebe Buffay: Uhm... well, they're not in the wedding.
+[s10_e12_c03_u034] Ross Geller: What?
+[s10_e12_c03_u035] Rachel Green: Well, this is really awkward Oh, and I can leave!
+[s10_e12_c03_u036] Phoebe Buffay: I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut."
+s10_e12,s10_e12_c03,Ross Geller,0,4,8,3,9,3,s10_e12_c03_u004,s10_e12_c03_u014,"[s10_e12_c03_u004] Phoebe Buffay: Okay, what did we say was your one gift to us?
+[s10_e12_c03_u005] Chandler Bing: No stupid jokes. I thought that was for the actual wedding.
+[s10_e12_c03_u006] Phoebe Buffay: Rehearse it!
+[s10_e12_c03_u007] Ross Geller: Hi!
+[s10_e12_c03_u008] Mike Hannigan: Thanks for coming you guys.
+[s10_e12_c03_u009] Ross Geller: Oh, hey, oh... I... I was-I was going for a hand shake.
+[s10_e12_c03_u010] Mike Hannigan: Is that why your hand is pressed against my crotch?
+[s10_e12_c03_u011] Ross Geller: That is why!
+[s10_e12_c03_u012] Mike Hannigan: Yeah.
+[s10_e12_c03_u013] Phoebe Buffay: So Rach.
+[s10_e12_c03_u014] Rachel Green: Yeah."
+s10_e12,s10_e12_c03,Ross Geller,1,23,25,22,26,2,s10_e12_c03_u023,s10_e12_c03_u031,"[s10_e12_c03_u023] Mike's Father: Who in God's name are you?
+[s10_e12_c03_u024] Joey Tribbiani: Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!
+[s10_e12_c03_u025] Chandler Bing: You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+[s10_e12_c03_u026] Ross Geller: Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?
+[s10_e12_c03_u027] Rachel Green: Uh... November?
+[s10_e12_c03_u028] Ross Geller: I wanna say it's not looking good.
+[s10_e12_c03_u029] Rachel Green: Hey Pheebs...
+[s10_e12_c03_u030] Phoebe Buffay: What's up?
+[s10_e12_c03_u031] Rachel Green: Uhm... you haven't told these guys what they're doing in the wedding yet."
+s10_e12,s10_e12_c03,Ross Geller,2,32,36,31,37,2,s10_e12_c03_u032,s10_e12_c03_u042,"[s10_e12_c03_u032] Chandler Bing: Heh.
+[s10_e12_c03_u033] Phoebe Buffay: Uhm... well, they're not in the wedding.
+[s10_e12_c03_u034] Ross Geller: What?
+[s10_e12_c03_u035] Rachel Green: Well, this is really awkward Oh, and I can leave!
+[s10_e12_c03_u036] Phoebe Buffay: I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut.
+[s10_e12_c03_u037] Ross Geller: Oh, man!
+[s10_e12_c03_u038] Chandler Bing: This is like figure skating team all over again. I mean synchronized swimming. I mean- I mean the balance beam. Help me!
+[s10_e12_c03_u039] Ross Geller: FOOTBALL!
+[s10_e12_c03_u040] Chandler Bing: Thank you.
+[s10_e12_c03_u041] Monica Geller: Pheebs, spit that out, that has pork in it.
+[s10_e12_c03_u042] Phoebe Buffay: Oh! I though the pot stickers were supposed to be vegetarian!"
+s10_e12,s10_e12_c03,Ross Geller,3,43,45,42,46,2,s10_e12_c03_u043,s10_e12_c03_u051,"[s10_e12_c03_u043] Monica Geller: Yeah, I changed them. I-I sent you a fax about it!
+[s10_e12_c03_u044] Phoebe Buffay: I don't have a fax machine.
+[s10_e12_c03_u045] Monica Geller: Ah, well then there are gonna be a few surprises!
+[s10_e12_c03_u046] Ross Geller: I can't believe we're gonna be the only people that aren't in this wedding.
+[s10_e12_c03_u047] Chandler Bing: I know, I hate being left out of things.
+[s10_e12_c03_u048] Ross Geller: And it's a wedding! It'd be weird if I'm not in it...
+[s10_e12_c03_u049] Mike Hannigan: Hey guys, how is it going?
+[s10_e12_c03_u050] Chandler Bing: Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+[s10_e12_c03_u051] Mike Hannigan: Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it."
+s10_e12,s10_e12_c03,Ross Geller,4,50,52,49,53,2,s10_e12_c03_u050,s10_e12_c03_u058,"[s10_e12_c03_u050] Chandler Bing: Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+[s10_e12_c03_u051] Mike Hannigan: Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it.
+[s10_e12_c03_u052] Chandler Bing: What happened?
+[s10_e12_c03_u053] Ross Geller: Who cares, AND?
+[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus."
+s10_e12,s10_e12_c03,Ross Geller,5,54,54,53,55,2,s10_e12_c03_u054,s10_e12_c03_u060,"[s10_e12_c03_u054] Mike Hannigan: ...and I was wondering if... you know, maybe one of you guys...
+[s10_e12_c03_u055] Ross Geller: I'll do it!
+[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose."
+s10_e12,s10_e12_c03,Ross Geller,6,56,61,55,61,3,s10_e12_c03_u056,s10_e12_c03_u066,"[s10_e12_c03_u056] Chandler Bing: M-Me-me-me!
+[s10_e12_c03_u057] Mike Hannigan: You both wanna do it? Uhm... there's only room for one.
+[s10_e12_c03_u058] Chandler Bing: Pick me, I look great in a tux and I will not steal focus.
+[s10_e12_c03_u059] Ross Geller: No, Mike, no, no. You wanna pick me, I mean... watch! Huh?
+[s10_e12_c03_u060] Mike Hannigan: You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.
+[s10_e12_c03_u061] Ross Geller: Well, if Phoebe's choosing, then say hello to Mike's next groomsman.
+[s10_e12_c03_u062] Chandler Bing: Oh, I will. But I will need a mirror... as he is me!
+[s10_e12_c03_u063] Ross Geller: Please, you're going down!
+[s10_e12_c03_u064] Chandler Bing: You are going downer!
+[s10_e12_c03_u065] Ross Geller: Is that what they say on the Figure Skating Team?
+[s10_e12_c03_u066] Chandler Bing: I wouldn't know, I didn't make it!"
+s10_e12,s10_e12_c04,Chandler Bing,0,9,11,8,12,2,s10_e12_c04_u009,s10_e12_c04_u017,"[s10_e12_c04_u009] Joey Tribbiani: Strike three! You only get one more, Mike!
+[s10_e12_c04_u010] Ross Geller: So, what did you decide?
+[s10_e12_c04_u011] Phoebe Buffay: I decided to pee.
+[s10_e12_c04_u012] Chandler Bing: Mike didn't tell you? You have to chose one of us to be in your wedding. One of his groomsmen fell out.
+[s10_e12_c04_u013] Phoebe Buffay: Oh no, no. I can't choose between you two! I love you both so much!
+[s10_e12_c04_u014] Chandler Bing: Just not enough to put us in the original wedding party.
+[s10_e12_c04_u015] Phoebe Buffay: Oh, I don't wanna choose! It's . Oh okay, wait. Rach! Listen I have a very special bridesmaid task for you today.
+[s10_e12_c04_u016] Rachel Green: Goody, what is it!
+[s10_e12_c04_u017] Phoebe Buffay: Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that."
+s10_e12,s10_e12_c04,Joey Tribbiani,0,0,6,0,7,3,s10_e12_c04_u001,s10_e12_c04_u012,"[s10_e12_c04_u001] Joey Tribbiani: So, you know I'm filling in for Phoebe's step dad, tomorrow, right?
+[s10_e12_c04_u002] Mike Hannigan: Yeah, yeah. Hey, thanks for doing that.
+[s10_e12_c04_u003] Joey Tribbiani: Oh, hey, my pleasure. So what are your intentions with my Phoebe?
+[s10_e12_c04_u004] Mike Hannigan: I intend to marry her.
+[s10_e12_c04_u005] Joey Tribbiani: Oh, a wiseacre. . No, no, no, I understand you plan to support your wife by playing the piano? Isn't that kind of unstable?
+[s10_e12_c04_u006] Mike Hannigan: No more so than acting.
+[s10_e12_c04_u007] Joey Tribbiani: Strike two!
+[s10_e12_c04_u008] Mike Hannigan: You're right. She probably will support me. Hey, unless we move in with you, dad?
+[s10_e12_c04_u009] Joey Tribbiani: Strike three! You only get one more, Mike!
+[s10_e12_c04_u010] Ross Geller: So, what did you decide?
+[s10_e12_c04_u011] Phoebe Buffay: I decided to pee.
+[s10_e12_c04_u012] Chandler Bing: Mike didn't tell you? You have to chose one of us to be in your wedding. One of his groomsmen fell out."
+s10_e12,s10_e12_c04,Mike Hannigan,0,0,5,0,6,3,s10_e12_c04_u001,s10_e12_c04_u011,"[s10_e12_c04_u001] Joey Tribbiani: So, you know I'm filling in for Phoebe's step dad, tomorrow, right?
+[s10_e12_c04_u002] Mike Hannigan: Yeah, yeah. Hey, thanks for doing that.
+[s10_e12_c04_u003] Joey Tribbiani: Oh, hey, my pleasure. So what are your intentions with my Phoebe?
+[s10_e12_c04_u004] Mike Hannigan: I intend to marry her.
+[s10_e12_c04_u005] Joey Tribbiani: Oh, a wiseacre. . No, no, no, I understand you plan to support your wife by playing the piano? Isn't that kind of unstable?
+[s10_e12_c04_u006] Mike Hannigan: No more so than acting.
+[s10_e12_c04_u007] Joey Tribbiani: Strike two!
+[s10_e12_c04_u008] Mike Hannigan: You're right. She probably will support me. Hey, unless we move in with you, dad?
+[s10_e12_c04_u009] Joey Tribbiani: Strike three! You only get one more, Mike!
+[s10_e12_c04_u010] Ross Geller: So, what did you decide?
+[s10_e12_c04_u011] Phoebe Buffay: I decided to pee."
+s10_e12,s10_e12_c04,Mike Hannigan,1,19,21,18,22,2,s10_e12_c04_u019,s10_e12_c04_u027,"[s10_e12_c04_u019] Phoebe Buffay: All right, I guess I'll have to find a new bridesmaid.
+[s10_e12_c04_u020] Ross Geller: I'll do it!
+[s10_e12_c04_u021] Monica Geller: Ok, it's 2100 hours. Time for your toast.
+[s10_e12_c04_u022] Mike Hannigan: Do I have a minute to go to the bathroom?
+[s10_e12_c04_u023] Monica Geller: You had a bathroom break at 2030. Pee on your own time, Mike! . Now, in regard to the toast, okay, you wanna keep them short, nothing kills a rehearsal dinner like long speeches. Okay. You just get in, do your thing and get out!
+[s10_e12_c04_u024] Mike Hannigan: Is that what you say to Chandler?
+[s10_e12_c04_u025] Monica Geller: It's 2101 and I am not amused. . Ok, the bride and groom have a few words they'd like to say.
+[s10_e12_c04_u026] Phoebe Buffay: Ok. Hello everyone and thank you all for being here tonight. So tomorrow's the big event and some of you might not know, but Mike and I didn't get off to the best start. . My friend Joey and I decided to fix each other up with friends so I, I... oh I... hum... I gave it a lot of thought and I fixed him up with my friend Mary Ellen who couldn't be here tonight because... it's not important... she is in rehab. Anyway, so, ok, Joey said that he was fixing me up with his friend Mike, only he didn't have a friend Mike so he just brought, uhm, my Mike and, and but despite, you know... it got... it got good. Ok, I wanna take a moment to mention my mother, who couldn't be here...
+[s10_e12_c04_u027] Monica Geller: oh God."
+s10_e12,s10_e12_c04,Monica Geller,0,18,25,17,25,3,s10_e12_c04_u018,s10_e12_c04_u030,"[s10_e12_c04_u018] Rachel Green: What, what, what, no, I don't wanna do that.
+[s10_e12_c04_u019] Phoebe Buffay: All right, I guess I'll have to find a new bridesmaid.
+[s10_e12_c04_u020] Ross Geller: I'll do it!
+[s10_e12_c04_u021] Monica Geller: Ok, it's 2100 hours. Time for your toast.
+[s10_e12_c04_u022] Mike Hannigan: Do I have a minute to go to the bathroom?
+[s10_e12_c04_u023] Monica Geller: You had a bathroom break at 2030. Pee on your own time, Mike! . Now, in regard to the toast, okay, you wanna keep them short, nothing kills a rehearsal dinner like long speeches. Okay. You just get in, do your thing and get out!
+[s10_e12_c04_u024] Mike Hannigan: Is that what you say to Chandler?
+[s10_e12_c04_u025] Monica Geller: It's 2101 and I am not amused. . Ok, the bride and groom have a few words they'd like to say.
+[s10_e12_c04_u026] Phoebe Buffay: Ok. Hello everyone and thank you all for being here tonight. So tomorrow's the big event and some of you might not know, but Mike and I didn't get off to the best start. . My friend Joey and I decided to fix each other up with friends so I, I... oh I... hum... I gave it a lot of thought and I fixed him up with my friend Mary Ellen who couldn't be here tonight because... it's not important... she is in rehab. Anyway, so, ok, Joey said that he was fixing me up with his friend Mike, only he didn't have a friend Mike so he just brought, uhm, my Mike and, and but despite, you know... it got... it got good. Ok, I wanna take a moment to mention my mother, who couldn't be here...
+[s10_e12_c04_u027] Monica Geller: oh God.
+[s10_e12_c04_u028] Phoebe Buffay: And... moment's over! So, ok, uh, I can forget that. I can forget that and uhm... Oh this is funny! Oh, but you need to know that to... that, to... Oh, ok, well, uhm, I . Ok, ok, I, ok, I.... MONICA I CAN'T DO IT LIKE THIS! THIS IS MY WEDDING! OKAY, I DON'T WANT THIS OR THIS OR THIS OK? I JUST WANTED A SIMPLE WEDDING! WHERE MY FIANCEE CAN GO TO THE BATHROOM ANYTIME HE WANTS! You know what? You're done.
+[s10_e12_c04_u029] Monica Geller: What?
+[s10_e12_c04_u030] Phoebe Buffay: YOU'RE FIRED! Cheers!"
+s10_e12,s10_e12_c04,Phoebe Buffay,0,8,16,7,17,3,s10_e12_c04_u008,s10_e12_c04_u022,"[s10_e12_c04_u008] Mike Hannigan: You're right. She probably will support me. Hey, unless we move in with you, dad?
+[s10_e12_c04_u009] Joey Tribbiani: Strike three! You only get one more, Mike!
+[s10_e12_c04_u010] Ross Geller: So, what did you decide?
+[s10_e12_c04_u011] Phoebe Buffay: I decided to pee.
+[s10_e12_c04_u012] Chandler Bing: Mike didn't tell you? You have to chose one of us to be in your wedding. One of his groomsmen fell out.
+[s10_e12_c04_u013] Phoebe Buffay: Oh no, no. I can't choose between you two! I love you both so much!
+[s10_e12_c04_u014] Chandler Bing: Just not enough to put us in the original wedding party.
+[s10_e12_c04_u015] Phoebe Buffay: Oh, I don't wanna choose! It's . Oh okay, wait. Rach! Listen I have a very special bridesmaid task for you today.
+[s10_e12_c04_u016] Rachel Green: Goody, what is it!
+[s10_e12_c04_u017] Phoebe Buffay: Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that.
+[s10_e12_c04_u018] Rachel Green: What, what, what, no, I don't wanna do that.
+[s10_e12_c04_u019] Phoebe Buffay: All right, I guess I'll have to find a new bridesmaid.
+[s10_e12_c04_u020] Ross Geller: I'll do it!
+[s10_e12_c04_u021] Monica Geller: Ok, it's 2100 hours. Time for your toast.
+[s10_e12_c04_u022] Mike Hannigan: Do I have a minute to go to the bathroom?"
+s10_e12,s10_e12_c04,Phoebe Buffay,1,23,25,22,25,3,s10_e12_c04_u023,s10_e12_c04_u030,"[s10_e12_c04_u023] Monica Geller: You had a bathroom break at 2030. Pee on your own time, Mike! . Now, in regard to the toast, okay, you wanna keep them short, nothing kills a rehearsal dinner like long speeches. Okay. You just get in, do your thing and get out!
+[s10_e12_c04_u024] Mike Hannigan: Is that what you say to Chandler?
+[s10_e12_c04_u025] Monica Geller: It's 2101 and I am not amused. . Ok, the bride and groom have a few words they'd like to say.
+[s10_e12_c04_u026] Phoebe Buffay: Ok. Hello everyone and thank you all for being here tonight. So tomorrow's the big event and some of you might not know, but Mike and I didn't get off to the best start. . My friend Joey and I decided to fix each other up with friends so I, I... oh I... hum... I gave it a lot of thought and I fixed him up with my friend Mary Ellen who couldn't be here tonight because... it's not important... she is in rehab. Anyway, so, ok, Joey said that he was fixing me up with his friend Mike, only he didn't have a friend Mike so he just brought, uhm, my Mike and, and but despite, you know... it got... it got good. Ok, I wanna take a moment to mention my mother, who couldn't be here...
+[s10_e12_c04_u027] Monica Geller: oh God.
+[s10_e12_c04_u028] Phoebe Buffay: And... moment's over! So, ok, uh, I can forget that. I can forget that and uhm... Oh this is funny! Oh, but you need to know that to... that, to... Oh, ok, well, uhm, I . Ok, ok, I, ok, I.... MONICA I CAN'T DO IT LIKE THIS! THIS IS MY WEDDING! OKAY, I DON'T WANT THIS OR THIS OR THIS OK? I JUST WANTED A SIMPLE WEDDING! WHERE MY FIANCEE CAN GO TO THE BATHROOM ANYTIME HE WANTS! You know what? You're done.
+[s10_e12_c04_u029] Monica Geller: What?
+[s10_e12_c04_u030] Phoebe Buffay: YOU'RE FIRED! Cheers!"
+s10_e12,s10_e12_c04,Rachel Green,0,13,15,12,16,2,s10_e12_c04_u013,s10_e12_c04_u021,"[s10_e12_c04_u013] Phoebe Buffay: Oh no, no. I can't choose between you two! I love you both so much!
+[s10_e12_c04_u014] Chandler Bing: Just not enough to put us in the original wedding party.
+[s10_e12_c04_u015] Phoebe Buffay: Oh, I don't wanna choose! It's . Oh okay, wait. Rach! Listen I have a very special bridesmaid task for you today.
+[s10_e12_c04_u016] Rachel Green: Goody, what is it!
+[s10_e12_c04_u017] Phoebe Buffay: Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that.
+[s10_e12_c04_u018] Rachel Green: What, what, what, no, I don't wanna do that.
+[s10_e12_c04_u019] Phoebe Buffay: All right, I guess I'll have to find a new bridesmaid.
+[s10_e12_c04_u020] Ross Geller: I'll do it!
+[s10_e12_c04_u021] Monica Geller: Ok, it's 2100 hours. Time for your toast."
+s10_e12,s10_e12_c05,Monica Geller,0,3,13,2,14,3,s10_e12_c05_u003,s10_e12_c05_u019,"[s10_e12_c05_u003] Phoebe Buffay: Oh, happy my wedding day to you!
+[s10_e12_c05_u004] Rachel Green: Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+[s10_e12_c05_u005] Joey Tribbiani: Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+[s10_e12_c05_u006] Monica Geller: Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back.
+[s10_e12_c05_u007] Phoebe Buffay: Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid.
+[s10_e12_c05_u008] Monica Geller: Oh, is that so? Ok. If that's really what you want, then here... I give you the headset. Well, I don't really want to give you the headset. Well I guess if you're taking over, you should probably return these messages.
+[s10_e12_c05_u009] Phoebe Buffay: Wow, this is a lot!
+[s10_e12_c05_u010] Monica Geller: Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine.
+[s10_e12_c05_u011] Phoebe Buffay: You won awards?
+[s10_e12_c05_u012] Monica Geller: Mm-mh. I printed them out on my computer.
+[s10_e12_c05_u013] Ross Geller: Hey!
+[s10_e12_c05_u014] Monica Geller: Hi.
+[s10_e12_c05_u015] Ross Geller: Where's Rach?
+[s10_e12_c05_u016] Monica Geller: She's in her room, why?
+[s10_e12_c05_u017] Ross Geller: I have to talk to her about this groomsman situation, ok? I'm not gonna watch Chandler up there while I'm sitting in the seats like some chump! . Oh! My God! You're breathtaking!
+[s10_e12_c05_u018] Rachel Green: What d'you want?
+[s10_e12_c05_u019] Ross Geller: You haven't by any chance chosen a groomsman yet, have you?"
+s10_e12,s10_e12_c05,Phoebe Buffay,0,0,0,0,1,2,s10_e12_c05_u001,s10_e12_c05_u006,"[s10_e12_c05_u001] Phoebe Buffay: Hey!
+[s10_e12_c05_u002] Rachel Green: Happy wedding day!
+[s10_e12_c05_u003] Phoebe Buffay: Oh, happy my wedding day to you!
+[s10_e12_c05_u004] Rachel Green: Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+[s10_e12_c05_u005] Joey Tribbiani: Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+[s10_e12_c05_u006] Monica Geller: Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back."
+s10_e12,s10_e12_c05,Phoebe Buffay,1,2,2,1,3,2,s10_e12_c05_u002,s10_e12_c05_u008,"[s10_e12_c05_u002] Rachel Green: Happy wedding day!
+[s10_e12_c05_u003] Phoebe Buffay: Oh, happy my wedding day to you!
+[s10_e12_c05_u004] Rachel Green: Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+[s10_e12_c05_u005] Joey Tribbiani: Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+[s10_e12_c05_u006] Monica Geller: Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back.
+[s10_e12_c05_u007] Phoebe Buffay: Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid.
+[s10_e12_c05_u008] Monica Geller: Oh, is that so? Ok. If that's really what you want, then here... I give you the headset. Well, I don't really want to give you the headset. Well I guess if you're taking over, you should probably return these messages."
+s10_e12,s10_e12_c05,Phoebe Buffay,2,4,8,3,9,3,s10_e12_c05_u004,s10_e12_c05_u014,"[s10_e12_c05_u004] Rachel Green: Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+[s10_e12_c05_u005] Joey Tribbiani: Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+[s10_e12_c05_u006] Monica Geller: Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back.
+[s10_e12_c05_u007] Phoebe Buffay: Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid.
+[s10_e12_c05_u008] Monica Geller: Oh, is that so? Ok. If that's really what you want, then here... I give you the headset. Well, I don't really want to give you the headset. Well I guess if you're taking over, you should probably return these messages.
+[s10_e12_c05_u009] Phoebe Buffay: Wow, this is a lot!
+[s10_e12_c05_u010] Monica Geller: Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine.
+[s10_e12_c05_u011] Phoebe Buffay: You won awards?
+[s10_e12_c05_u012] Monica Geller: Mm-mh. I printed them out on my computer.
+[s10_e12_c05_u013] Ross Geller: Hey!
+[s10_e12_c05_u014] Monica Geller: Hi."
+s10_e12,s10_e12_c05,Rachel Green,0,0,1,0,2,2,s10_e12_c05_u001,s10_e12_c05_u007,"[s10_e12_c05_u001] Phoebe Buffay: Hey!
+[s10_e12_c05_u002] Rachel Green: Happy wedding day!
+[s10_e12_c05_u003] Phoebe Buffay: Oh, happy my wedding day to you!
+[s10_e12_c05_u004] Rachel Green: Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+[s10_e12_c05_u005] Joey Tribbiani: Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+[s10_e12_c05_u006] Monica Geller: Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back.
+[s10_e12_c05_u007] Phoebe Buffay: Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid."
+s10_e12,s10_e12_c05,Rachel Green,1,15,20,14,20,3,s10_e12_c05_u015,s10_e12_c05_u025,"[s10_e12_c05_u015] Ross Geller: Where's Rach?
+[s10_e12_c05_u016] Monica Geller: She's in her room, why?
+[s10_e12_c05_u017] Ross Geller: I have to talk to her about this groomsman situation, ok? I'm not gonna watch Chandler up there while I'm sitting in the seats like some chump! . Oh! My God! You're breathtaking!
+[s10_e12_c05_u018] Rachel Green: What d'you want?
+[s10_e12_c05_u019] Ross Geller: You haven't by any chance chosen a groomsman yet, have you?
+[s10_e12_c05_u020] Rachel Green: Oh, Ross, c'mon, please! Don't make this harder than it already is!
+[s10_e12_c05_u021] Ross Geller: I'm not! I'm making it easier! Pick me!
+[s10_e12_c05_u022] Rachel Green: Well, Chandler said that it's really important to him too!
+[s10_e12_c05_u023] Ross Geller: Listen, listen. Whoever you pick is gonna walk down the aisle with you! Now, I promise I won't say a word, but if you pick Chandler he's gonna be whispering stupid jokes in your ear the whole time!
+[s10_e12_c05_u024] Rachel Green: Oh, you are the lesser of two evils!
+[s10_e12_c05_u025] Ross Geller: YES, YES!"
+s10_e12,s10_e12_c05,Ross Geller,0,10,20,9,20,3,s10_e12_c05_u010,s10_e12_c05_u025,"[s10_e12_c05_u010] Monica Geller: Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine.
+[s10_e12_c05_u011] Phoebe Buffay: You won awards?
+[s10_e12_c05_u012] Monica Geller: Mm-mh. I printed them out on my computer.
+[s10_e12_c05_u013] Ross Geller: Hey!
+[s10_e12_c05_u014] Monica Geller: Hi.
+[s10_e12_c05_u015] Ross Geller: Where's Rach?
+[s10_e12_c05_u016] Monica Geller: She's in her room, why?
+[s10_e12_c05_u017] Ross Geller: I have to talk to her about this groomsman situation, ok? I'm not gonna watch Chandler up there while I'm sitting in the seats like some chump! . Oh! My God! You're breathtaking!
+[s10_e12_c05_u018] Rachel Green: What d'you want?
+[s10_e12_c05_u019] Ross Geller: You haven't by any chance chosen a groomsman yet, have you?
+[s10_e12_c05_u020] Rachel Green: Oh, Ross, c'mon, please! Don't make this harder than it already is!
+[s10_e12_c05_u021] Ross Geller: I'm not! I'm making it easier! Pick me!
+[s10_e12_c05_u022] Rachel Green: Well, Chandler said that it's really important to him too!
+[s10_e12_c05_u023] Ross Geller: Listen, listen. Whoever you pick is gonna walk down the aisle with you! Now, I promise I won't say a word, but if you pick Chandler he's gonna be whispering stupid jokes in your ear the whole time!
+[s10_e12_c05_u024] Rachel Green: Oh, you are the lesser of two evils!
+[s10_e12_c05_u025] Ross Geller: YES, YES!"
+s10_e12,s10_e12_c06,Joey Tribbiani,0,4,14,3,14,3,s10_e12_c06_u004,s10_e12_c06_u019,"[s10_e12_c06_u004] Phoebe Buffay: Listen, Mike, if you were Swedish and you were saying the word ""lorkins"" what flowers would that be?
+[s10_e12_c06_u005] Mike Hannigan: Orchids?
+[s10_e12_c06_u006] Phoebe Buffay: Right there! That's why I'm marrying you!
+[s10_e12_c06_u007] Joey Tribbiani: Hello Michael.
+[s10_e12_c06_u008] Mike Hannigan: Joseph.
+[s10_e12_c06_u009] Joey Tribbiani: May I have a word with you, please?
+[s10_e12_c06_u010] Mike Hannigan: This is... great...
+[s10_e12_c06_u011] Joey Tribbiani: Have a seat. Last night, I tried to welcome you into my family... and instead, you disrespect me... I cannot allow this.
+[s10_e12_c06_u012] Mike Hannigan: Are you rehearsing for some really bad mafia movie?
+[s10_e12_c06_u013] Joey Tribbiani: More back talk. And yes, I may be borrowing a few lines from my recent unsuccessful audition for ""Family Honor 2: Thissa Time Itsa Personal.""
+[s10_e12_c06_u014] Mike Hannigan: Joey, I kinda have a lot to do today, what do you want?
+[s10_e12_c06_u015] Joey Tribbiani: I want you to take this seriously! Phoebe is very very important to me, ok? And I wanna make sure that you are gonna take care of her.
+[s10_e12_c06_u016] Mike Hannigan: Joe, I love Phoebe. She's the single most important thing in my life. I'd die before I let anything happen to her.
+[s10_e12_c06_u017] Joey Tribbiani: That's what I wanted to hear! Because she's family, ok, and now you're gonna be family, and there is nothing more important in the whole world, than family.
+[s10_e12_c06_u018] Mike Hannigan: That must have been one lousy movie.
+[s10_e12_c06_u019] Joey Tribbiani: That was ME!"
+s10_e12,s10_e12_c06,Mike Hannigan,0,0,14,0,14,3,s10_e12_c06_u001,s10_e12_c06_u019,"[s10_e12_c06_u001] Phoebe Buffay: Sven I don't understand what you're saying! What is wrong with the flowers? Lorkins? What the hell are lorkins?
+[s10_e12_c06_u002] Monica Geller: I know. .
+[s10_e12_c06_u003] Mike Hannigan: Hey.
+[s10_e12_c06_u004] Phoebe Buffay: Listen, Mike, if you were Swedish and you were saying the word ""lorkins"" what flowers would that be?
+[s10_e12_c06_u005] Mike Hannigan: Orchids?
+[s10_e12_c06_u006] Phoebe Buffay: Right there! That's why I'm marrying you!
+[s10_e12_c06_u007] Joey Tribbiani: Hello Michael.
+[s10_e12_c06_u008] Mike Hannigan: Joseph.
+[s10_e12_c06_u009] Joey Tribbiani: May I have a word with you, please?
+[s10_e12_c06_u010] Mike Hannigan: This is... great...
+[s10_e12_c06_u011] Joey Tribbiani: Have a seat. Last night, I tried to welcome you into my family... and instead, you disrespect me... I cannot allow this.
+[s10_e12_c06_u012] Mike Hannigan: Are you rehearsing for some really bad mafia movie?
+[s10_e12_c06_u013] Joey Tribbiani: More back talk. And yes, I may be borrowing a few lines from my recent unsuccessful audition for ""Family Honor 2: Thissa Time Itsa Personal.""
+[s10_e12_c06_u014] Mike Hannigan: Joey, I kinda have a lot to do today, what do you want?
+[s10_e12_c06_u015] Joey Tribbiani: I want you to take this seriously! Phoebe is very very important to me, ok? And I wanna make sure that you are gonna take care of her.
+[s10_e12_c06_u016] Mike Hannigan: Joe, I love Phoebe. She's the single most important thing in my life. I'd die before I let anything happen to her.
+[s10_e12_c06_u017] Joey Tribbiani: That's what I wanted to hear! Because she's family, ok, and now you're gonna be family, and there is nothing more important in the whole world, than family.
+[s10_e12_c06_u018] Mike Hannigan: That must have been one lousy movie.
+[s10_e12_c06_u019] Joey Tribbiani: That was ME!"
+s10_e12,s10_e12_c06,Phoebe Buffay,0,0,3,0,4,2,s10_e12_c06_u001,s10_e12_c06_u009,"[s10_e12_c06_u001] Phoebe Buffay: Sven I don't understand what you're saying! What is wrong with the flowers? Lorkins? What the hell are lorkins?
+[s10_e12_c06_u002] Monica Geller: I know. .
+[s10_e12_c06_u003] Mike Hannigan: Hey.
+[s10_e12_c06_u004] Phoebe Buffay: Listen, Mike, if you were Swedish and you were saying the word ""lorkins"" what flowers would that be?
+[s10_e12_c06_u005] Mike Hannigan: Orchids?
+[s10_e12_c06_u006] Phoebe Buffay: Right there! That's why I'm marrying you!
+[s10_e12_c06_u007] Joey Tribbiani: Hello Michael.
+[s10_e12_c06_u008] Mike Hannigan: Joseph.
+[s10_e12_c06_u009] Joey Tribbiani: May I have a word with you, please?"
+s10_e12,s10_e12_c07,Chandler Bing,0,0,2,0,2,3,s10_e12_c07_u001,s10_e12_c07_u007,"[s10_e12_c07_u001] Rachel Green: Hi.
+[s10_e12_c07_u002] Chandler Bing: Hey, can I talk to you about this groomsman thing? If you pick Ross, he'll walk you down the isle just fine. But if you choose me, you'll be getting some comedy!
+[s10_e12_c07_u003] Rachel Green: Even so, I think I'm gonna pick Ross.
+[s10_e12_c07_u004] Chandler Bing: Let me tell you why you need to pick me. See, when I was a kid, I was always left out of everything, you know, and it really made me feel... insecure. You know, I was always picked last in gym. Even behind that big fat exchange student who didn't even know the rules to baseball. I mean, this guy would strike out and then run to third. Anyway, If I'm the only one left out of this wedding, I just know that all those feelings are gonna come rushing back.
+[s10_e12_c07_u005] Rachel Green: All right fine, I pick you.
+[s10_e12_c07_u006] Chandler Bing: Y-Y-YEEESSS! Make ""groom"" for Chandler.
+[s10_e12_c07_u007] Rachel Green: Oh my..."
+s10_e12,s10_e12_c07,Rachel Green,0,0,2,0,2,3,s10_e12_c07_u001,s10_e12_c07_u007,"[s10_e12_c07_u001] Rachel Green: Hi.
+[s10_e12_c07_u002] Chandler Bing: Hey, can I talk to you about this groomsman thing? If you pick Ross, he'll walk you down the isle just fine. But if you choose me, you'll be getting some comedy!
+[s10_e12_c07_u003] Rachel Green: Even so, I think I'm gonna pick Ross.
+[s10_e12_c07_u004] Chandler Bing: Let me tell you why you need to pick me. See, when I was a kid, I was always left out of everything, you know, and it really made me feel... insecure. You know, I was always picked last in gym. Even behind that big fat exchange student who didn't even know the rules to baseball. I mean, this guy would strike out and then run to third. Anyway, If I'm the only one left out of this wedding, I just know that all those feelings are gonna come rushing back.
+[s10_e12_c07_u005] Rachel Green: All right fine, I pick you.
+[s10_e12_c07_u006] Chandler Bing: Y-Y-YEEESSS! Make ""groom"" for Chandler.
+[s10_e12_c07_u007] Rachel Green: Oh my..."
+s10_e12,s10_e12_c08,Mike Hannigan,0,1,2,0,3,2,s10_e12_c08_u001,s10_e12_c08_u008,"[s10_e12_c08_u001] Phoebe Buffay: No! We're gonna do it my way. Because your way is stupid! Alright I gotta go, I have another call, Reverend. Hello?
+[s10_e12_c08_u002] Joey Tribbiani: I'm glad we had this little talk.
+[s10_e12_c08_u003] Mike Hannigan: Yes. Yeah and thanks for all the wedding night advice. That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?
+[s10_e12_c08_u004] Phoebe Buffay: Okay.
+[s10_e12_c08_u005] Monica Geller: Bye.
+[s10_e12_c08_u006] Mike Hannigan: Uhm, did you guys know that there is a giant ice sculpture in the hall?
+[s10_e12_c08_u007] Phoebe Buffay: Oh my God, what's it doing here?
+[s10_e12_c08_u008] Monica Geller: Ugh, I guess it got sent to the billing address as opposed to the shipping address. Uh! What a pickle."
+s10_e12,s10_e12_c08,Monica Geller,0,3,4,2,5,2,s10_e12_c08_u003,s10_e12_c08_u010,"[s10_e12_c08_u003] Mike Hannigan: Yes. Yeah and thanks for all the wedding night advice. That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?
+[s10_e12_c08_u004] Phoebe Buffay: Okay.
+[s10_e12_c08_u005] Monica Geller: Bye.
+[s10_e12_c08_u006] Mike Hannigan: Uhm, did you guys know that there is a giant ice sculpture in the hall?
+[s10_e12_c08_u007] Phoebe Buffay: Oh my God, what's it doing here?
+[s10_e12_c08_u008] Monica Geller: Ugh, I guess it got sent to the billing address as opposed to the shipping address. Uh! What a pickle.
+[s10_e12_c08_u009] Phoebe Buffay: Oh my God, everything is such a mess. Why is this happening to me?
+[s10_e12_c08_u010] Joey Tribbiani: How bad do you want to stick your tongue on that?"
+s10_e12,s10_e12_c08,Phoebe Buffay,0,0,0,0,1,2,s10_e12_c08_u001,s10_e12_c08_u006,"[s10_e12_c08_u001] Phoebe Buffay: No! We're gonna do it my way. Because your way is stupid! Alright I gotta go, I have another call, Reverend. Hello?
+[s10_e12_c08_u002] Joey Tribbiani: I'm glad we had this little talk.
+[s10_e12_c08_u003] Mike Hannigan: Yes. Yeah and thanks for all the wedding night advice. That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?
+[s10_e12_c08_u004] Phoebe Buffay: Okay.
+[s10_e12_c08_u005] Monica Geller: Bye.
+[s10_e12_c08_u006] Mike Hannigan: Uhm, did you guys know that there is a giant ice sculpture in the hall?"
+s10_e12,s10_e12_c08,Phoebe Buffay,1,2,5,1,5,2,s10_e12_c08_u002,s10_e12_c08_u010,"[s10_e12_c08_u002] Joey Tribbiani: I'm glad we had this little talk.
+[s10_e12_c08_u003] Mike Hannigan: Yes. Yeah and thanks for all the wedding night advice. That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?
+[s10_e12_c08_u004] Phoebe Buffay: Okay.
+[s10_e12_c08_u005] Monica Geller: Bye.
+[s10_e12_c08_u006] Mike Hannigan: Uhm, did you guys know that there is a giant ice sculpture in the hall?
+[s10_e12_c08_u007] Phoebe Buffay: Oh my God, what's it doing here?
+[s10_e12_c08_u008] Monica Geller: Ugh, I guess it got sent to the billing address as opposed to the shipping address. Uh! What a pickle.
+[s10_e12_c08_u009] Phoebe Buffay: Oh my God, everything is such a mess. Why is this happening to me?
+[s10_e12_c08_u010] Joey Tribbiani: How bad do you want to stick your tongue on that?"
+s10_e12,s10_e12_c09,Chandler Bing,0,0,13,0,14,3,s10_e12_c09_u001,s10_e12_c09_u019,"[s10_e12_c09_u001] Chandler Bing: How's it going?
+[s10_e12_c09_u002] Ross Geller: Good. I'm just getting some coffee. So I'm alert for the wedding.
+[s10_e12_c09_u003] Chandler Bing: That's what I was doing too.
+[s10_e12_c09_u004] Ross Geller: Well, you have fun tonight.
+[s10_e12_c09_u005] Chandler Bing: You too.
+[s10_e12_c09_u006] Ross Geller: Oh, I will.
+[s10_e12_c09_u007] Chandler Bing: Me too.
+[s10_e12_c09_u008] Ross Geller: Wait a minute, I know why I'm being such an ass, why are you?
+[s10_e12_c09_u009] Chandler Bing: I'm not supposed to tell you.
+[s10_e12_c09_u010] Ross Geller: I'm not supposed to tell you!
+[s10_e12_c09_u011] Chandler Bing: You told us both we could be in the wedding?
+[s10_e12_c09_u012] Rachel Green: Well, in my defense, you were not supposed to tell each other.
+[s10_e12_c09_u013] Ross Geller: Rachel, only one of us can do it, you have to choose. You and me together again.
+[s10_e12_c09_u014] Chandler Bing: Rach, Rach, knock knock.
+[s10_e12_c09_u015] Rachel Green: Who's there?
+[s10_e12_c09_u016] Chandler Bing: I'll tell you at the wedding.
+[s10_e12_c09_u017] Rachel Green: Uh.
+[s10_e12_c09_u018] Mike Hannigan: Hey, I forgot my scarf.
+[s10_e12_c09_u019] Rachel Green: You know what, I can't do this. I don't know which one of you guys to pick."
+s10_e12,s10_e12_c09,Joey Tribbiani,0,30,33,29,33,3,s10_e12_c09_u030,s10_e12_c09_u038,"[s10_e12_c09_u030] Monica Geller: You really want me to come back?
+[s10_e12_c09_u031] Phoebe Buffay: More than I wanna get married.
+[s10_e12_c09_u032] Monica Geller: Ok people, we are back in business! Oh God, we've missed you soo much! Ok, go and get your hair and make-up done, and I'll take care of everything.
+[s10_e12_c09_u033] Joey Tribbiani: Hey, what are you guys gonna do?
+[s10_e12_c09_u034] Phoebe Buffay: About what?
+[s10_e12_c09_u035] Joey Tribbiani: The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels.
+[s10_e12_c09_u036] Monica Geller: Ooh! But the band and the photographer are coming all the way in from New Jersey!
+[s10_e12_c09_u037] Joey Tribbiani: I don't think they are.
+[s10_e12_c09_u038] Ross Geller: Haha! Looks like you're not going to be in the wedding either. So sorry Pheebs."
+s10_e12,s10_e12_c09,Mike Hannigan,0,15,17,14,18,2,s10_e12_c09_u015,s10_e12_c09_u023,"[s10_e12_c09_u015] Rachel Green: Who's there?
+[s10_e12_c09_u016] Chandler Bing: I'll tell you at the wedding.
+[s10_e12_c09_u017] Rachel Green: Uh.
+[s10_e12_c09_u018] Mike Hannigan: Hey, I forgot my scarf.
+[s10_e12_c09_u019] Rachel Green: You know what, I can't do this. I don't know which one of you guys to pick.
+[s10_e12_c09_u020] Mike Hannigan: Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy.
+[s10_e12_c09_u021] Ross Geller: What? A dog? No! Rachel gets to choose.
+[s10_e12_c09_u022] Rachel Green: Wow, this is a tough one. I think I'm gonna have to go with the dog.
+[s10_e12_c09_u023] Phoebe Buffay: Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?"
+s10_e12,s10_e12_c09,Monica Geller,0,21,29,20,30,3,s10_e12_c09_u021,s10_e12_c09_u035,"[s10_e12_c09_u021] Ross Geller: What? A dog? No! Rachel gets to choose.
+[s10_e12_c09_u022] Rachel Green: Wow, this is a tough one. I think I'm gonna have to go with the dog.
+[s10_e12_c09_u023] Phoebe Buffay: Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?
+[s10_e12_c09_u024] Monica Geller: How's it going?
+[s10_e12_c09_u025] Phoebe Buffay: Help me.
+[s10_e12_c09_u026] Monica Geller: What?
+[s10_e12_c09_u027] Phoebe Buffay: I want you to be Crazy Bitch again.
+[s10_e12_c09_u028] Monica Geller: Really?
+[s10_e12_c09_u029] Phoebe Buffay: Please?
+[s10_e12_c09_u030] Monica Geller: You really want me to come back?
+[s10_e12_c09_u031] Phoebe Buffay: More than I wanna get married.
+[s10_e12_c09_u032] Monica Geller: Ok people, we are back in business! Oh God, we've missed you soo much! Ok, go and get your hair and make-up done, and I'll take care of everything.
+[s10_e12_c09_u033] Joey Tribbiani: Hey, what are you guys gonna do?
+[s10_e12_c09_u034] Phoebe Buffay: About what?
+[s10_e12_c09_u035] Joey Tribbiani: The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels."
+s10_e12,s10_e12_c09,Monica Geller,1,31,31,30,32,2,s10_e12_c09_u031,s10_e12_c09_u037,"[s10_e12_c09_u031] Phoebe Buffay: More than I wanna get married.
+[s10_e12_c09_u032] Monica Geller: Ok people, we are back in business! Oh God, we've missed you soo much! Ok, go and get your hair and make-up done, and I'll take care of everything.
+[s10_e12_c09_u033] Joey Tribbiani: Hey, what are you guys gonna do?
+[s10_e12_c09_u034] Phoebe Buffay: About what?
+[s10_e12_c09_u035] Joey Tribbiani: The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels.
+[s10_e12_c09_u036] Monica Geller: Ooh! But the band and the photographer are coming all the way in from New Jersey!
+[s10_e12_c09_u037] Joey Tribbiani: I don't think they are."
+s10_e12,s10_e12_c09,Phoebe Buffay,0,20,30,19,31,3,s10_e12_c09_u020,s10_e12_c09_u036,"[s10_e12_c09_u020] Mike Hannigan: Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy.
+[s10_e12_c09_u021] Ross Geller: What? A dog? No! Rachel gets to choose.
+[s10_e12_c09_u022] Rachel Green: Wow, this is a tough one. I think I'm gonna have to go with the dog.
+[s10_e12_c09_u023] Phoebe Buffay: Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?
+[s10_e12_c09_u024] Monica Geller: How's it going?
+[s10_e12_c09_u025] Phoebe Buffay: Help me.
+[s10_e12_c09_u026] Monica Geller: What?
+[s10_e12_c09_u027] Phoebe Buffay: I want you to be Crazy Bitch again.
+[s10_e12_c09_u028] Monica Geller: Really?
+[s10_e12_c09_u029] Phoebe Buffay: Please?
+[s10_e12_c09_u030] Monica Geller: You really want me to come back?
+[s10_e12_c09_u031] Phoebe Buffay: More than I wanna get married.
+[s10_e12_c09_u032] Monica Geller: Ok people, we are back in business! Oh God, we've missed you soo much! Ok, go and get your hair and make-up done, and I'll take care of everything.
+[s10_e12_c09_u033] Joey Tribbiani: Hey, what are you guys gonna do?
+[s10_e12_c09_u034] Phoebe Buffay: About what?
+[s10_e12_c09_u035] Joey Tribbiani: The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels.
+[s10_e12_c09_u036] Monica Geller: Ooh! But the band and the photographer are coming all the way in from New Jersey!"
+s10_e12,s10_e12_c09,Rachel Green,0,10,18,9,19,3,s10_e12_c09_u010,s10_e12_c09_u024,"[s10_e12_c09_u010] Ross Geller: I'm not supposed to tell you!
+[s10_e12_c09_u011] Chandler Bing: You told us both we could be in the wedding?
+[s10_e12_c09_u012] Rachel Green: Well, in my defense, you were not supposed to tell each other.
+[s10_e12_c09_u013] Ross Geller: Rachel, only one of us can do it, you have to choose. You and me together again.
+[s10_e12_c09_u014] Chandler Bing: Rach, Rach, knock knock.
+[s10_e12_c09_u015] Rachel Green: Who's there?
+[s10_e12_c09_u016] Chandler Bing: I'll tell you at the wedding.
+[s10_e12_c09_u017] Rachel Green: Uh.
+[s10_e12_c09_u018] Mike Hannigan: Hey, I forgot my scarf.
+[s10_e12_c09_u019] Rachel Green: You know what, I can't do this. I don't know which one of you guys to pick.
+[s10_e12_c09_u020] Mike Hannigan: Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy.
+[s10_e12_c09_u021] Ross Geller: What? A dog? No! Rachel gets to choose.
+[s10_e12_c09_u022] Rachel Green: Wow, this is a tough one. I think I'm gonna have to go with the dog.
+[s10_e12_c09_u023] Phoebe Buffay: Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?
+[s10_e12_c09_u024] Monica Geller: How's it going?"
+s10_e12,s10_e12_c09,Ross Geller,0,0,9,0,10,3,s10_e12_c09_u001,s10_e12_c09_u015,"[s10_e12_c09_u001] Chandler Bing: How's it going?
+[s10_e12_c09_u002] Ross Geller: Good. I'm just getting some coffee. So I'm alert for the wedding.
+[s10_e12_c09_u003] Chandler Bing: That's what I was doing too.
+[s10_e12_c09_u004] Ross Geller: Well, you have fun tonight.
+[s10_e12_c09_u005] Chandler Bing: You too.
+[s10_e12_c09_u006] Ross Geller: Oh, I will.
+[s10_e12_c09_u007] Chandler Bing: Me too.
+[s10_e12_c09_u008] Ross Geller: Wait a minute, I know why I'm being such an ass, why are you?
+[s10_e12_c09_u009] Chandler Bing: I'm not supposed to tell you.
+[s10_e12_c09_u010] Ross Geller: I'm not supposed to tell you!
+[s10_e12_c09_u011] Chandler Bing: You told us both we could be in the wedding?
+[s10_e12_c09_u012] Rachel Green: Well, in my defense, you were not supposed to tell each other.
+[s10_e12_c09_u013] Ross Geller: Rachel, only one of us can do it, you have to choose. You and me together again.
+[s10_e12_c09_u014] Chandler Bing: Rach, Rach, knock knock.
+[s10_e12_c09_u015] Rachel Green: Who's there?"
+s10_e12,s10_e12_c10,Joey Tribbiani,0,0,1,0,2,2,s10_e12_c10_u001,s10_e12_c10_u007,"[s10_e12_c10_u001] Monica Geller: Well, the club lost it's power.
+[s10_e12_c10_u002] Joey Tribbiani: Yeah according to the news, most of the city did.
+[s10_e12_c10_u003] Rachel Green: Since when do you watch the news?
+[s10_e12_c10_u004] Joey Tribbiani: Uh, for your information, since they hired a very hot weather girl.
+[s10_e12_c10_u005] Ross Geller: I can't believe you guys aren't going to be able to get married today.
+[s10_e12_c10_u006] Phoebe Buffay: I know.
+[s10_e12_c10_u007] Rachel Green: Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?"
+s10_e12,s10_e12_c10,Phoebe Buffay,0,3,8,2,8,3,s10_e12_c10_u003,s10_e12_c10_u013,"[s10_e12_c10_u003] Rachel Green: Since when do you watch the news?
+[s10_e12_c10_u004] Joey Tribbiani: Uh, for your information, since they hired a very hot weather girl.
+[s10_e12_c10_u005] Ross Geller: I can't believe you guys aren't going to be able to get married today.
+[s10_e12_c10_u006] Phoebe Buffay: I know.
+[s10_e12_c10_u007] Rachel Green: Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?
+[s10_e12_c10_u008] Phoebe Buffay: What?
+[s10_e12_c10_u009] Rachel Green: Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!
+[s10_e12_c10_u010] Phoebe Buffay: What do you think?
+[s10_e12_c10_u011] Mike Hannigan: I think I wanna get married to you today.
+[s10_e12_c10_u012] Phoebe Buffay: Me too! Monica, do you think we could do it?
+[s10_e12_c10_u013] Monica Geller: AFFIRMATIVE!"
+s10_e12,s10_e12_c10,Rachel Green,0,2,2,1,3,2,s10_e12_c10_u002,s10_e12_c10_u008,"[s10_e12_c10_u002] Joey Tribbiani: Yeah according to the news, most of the city did.
+[s10_e12_c10_u003] Rachel Green: Since when do you watch the news?
+[s10_e12_c10_u004] Joey Tribbiani: Uh, for your information, since they hired a very hot weather girl.
+[s10_e12_c10_u005] Ross Geller: I can't believe you guys aren't going to be able to get married today.
+[s10_e12_c10_u006] Phoebe Buffay: I know.
+[s10_e12_c10_u007] Rachel Green: Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?
+[s10_e12_c10_u008] Phoebe Buffay: What?"
+s10_e12,s10_e12_c10,Rachel Green,1,4,6,3,7,2,s10_e12_c10_u004,s10_e12_c10_u012,"[s10_e12_c10_u004] Joey Tribbiani: Uh, for your information, since they hired a very hot weather girl.
+[s10_e12_c10_u005] Ross Geller: I can't believe you guys aren't going to be able to get married today.
+[s10_e12_c10_u006] Phoebe Buffay: I know.
+[s10_e12_c10_u007] Rachel Green: Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?
+[s10_e12_c10_u008] Phoebe Buffay: What?
+[s10_e12_c10_u009] Rachel Green: Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!
+[s10_e12_c10_u010] Phoebe Buffay: What do you think?
+[s10_e12_c10_u011] Mike Hannigan: I think I wanna get married to you today.
+[s10_e12_c10_u012] Phoebe Buffay: Me too! Monica, do you think we could do it?"
+s10_e12,s10_e12_c11,Chandler Bing,0,6,6,5,7,2,s10_e12_c11_u006,s10_e12_c11_u012,"[s10_e12_c11_u006] Mike Hannigan: You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle.
+[s10_e12_c11_u007] Chandler Bing: So technically, would this person be in the wedding?
+[s10_e12_c11_u008] Mike Hannigan: I guess.
+[s10_e12_c11_u009] Chandler Bing, Ross Geller: I'll do it!
+[s10_e12_c11_u010] Ross Geller: No, but Chandler, hello... Aren't you scared of dogs?
+[s10_e12_c11_u011] Chandler Bing: I'm not scared. I'll just take little Chappy and... HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED.
+[s10_e12_c11_u012] Ross Geller: Well, I guess I'm in the wedding then. Ha haaa... He stinks!"
+s10_e12,s10_e12_c11,Chandler Bing,1,18,20,17,21,2,s10_e12_c11_u018,s10_e12_c11_u026,"[s10_e12_c11_u018] Ross Geller: Uhm, ministers don't ride the subway for free.
+[s10_e12_c11_u019] Joey Tribbiani: I had to read the Bible pretty carefully, but... yeah we do.
+[s10_e12_c11_u020] Monica Geller: Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+[s10_e12_c11_u021] Chandler Bing: I'll do it.
+[s10_e12_c11_u022] Ross Geller: I'll...
+[s10_e12_c11_u023] Chandler Bing: Na ha ha... Ne he he... Ah ah...
+[s10_e12_c11_u024] Monica Geller: Okay, Mike and Joey, get in position. Chandler, come with me.
+[s10_e12_c11_u025] Monica Geller: Okay, Joey's doing the ceremony and Chandler's giving you away.
+[s10_e12_c11_u026] Phoebe Buffay: Oh, okay. Hi new dad."
+s10_e12,s10_e12_c11,Chandler Bing,2,32,34,31,35,2,s10_e12_c11_u032,s10_e12_c11_u040,"[s10_e12_c11_u032] Phoebe Buffay: I love you guys.
+[s10_e12_c11_u033] Monica Geller, Rachel Green: I love you.
+[s10_e12_c11_u034] Monica Geller: Okay. It's zero hour. All teams execute on my count. Let's get this bad boy on the road.
+[s10_e12_c11_u035] Chandler Bing: Is it okay that I want you to wear that head set in bed tonight?
+[s10_e12_c11_u036] Monica Geller: I have you scheduled for nudity at 2300 hours.
+[s10_e12_c11_u037] Chandler Bing: Oh yeah!
+[s10_e12_c11_u038] Monica Geller: Okay Marjorie, hit it.
+[s10_e12_c11_u039] Rachel Green: Geez Ross, you could have showered.
+[s10_e12_c11_u040] Ross Geller: It's the dog."
+s10_e12,s10_e12_c11,Chandler Bing,3,39,45,38,46,3,s10_e12_c11_u039,s10_e12_c11_u051,"[s10_e12_c11_u039] Rachel Green: Geez Ross, you could have showered.
+[s10_e12_c11_u040] Ross Geller: It's the dog.
+[s10_e12_c11_u041] Monica Geller: Groomsman, groomsman, why are you just standing there, where is your bridesmaid? We've got a broken arrow. Bridesmaid down! Oh, that's me.
+[s10_e12_c11_u042] Chandler Bing: Ready?
+[s10_e12_c11_u043] Phoebe Buffay: Okay.
+[s10_e12_c11_u044] Chandler Bing: Okay.
+[s10_e12_c11_u045] Phoebe Buffay: Oh wait, oh no. Wait.
+[s10_e12_c11_u046] Chandler Bing: Wow! Aren't you gonna be cold?
+[s10_e12_c11_u047] Phoebe Buffay: I don't care... I'll be my something blue.
+[s10_e12_c11_u048] Chandler Bing: You look beautiful.
+[s10_e12_c11_u049] Phoebe Buffay: Thank you.
+[s10_e12_c11_u050] Mike Hannigan: My God! Aren't you freezing?
+[s10_e12_c11_u051] Phoebe Buffay: Na-ah."
+s10_e12,s10_e12_c11,Joey Tribbiani,0,12,16,11,17,3,s10_e12_c11_u012,s10_e12_c11_u022,"[s10_e12_c11_u012] Ross Geller: Well, I guess I'm in the wedding then. Ha haaa... He stinks!
+[s10_e12_c11_u013] Monica Geller: Level 1 alert. I repeat, level 1. This is not a drill. Okay we've got a situation. The minister just called. He's snowed in. He can't make it.
+[s10_e12_c11_u014] Mike Hannigan: Oh, no!
+[s10_e12_c11_u015] Joey Tribbiani: Oh hey, don't worry. I'm still ordained from your wedding.
+[s10_e12_c11_u016] Monica Geller: Really?
+[s10_e12_c11_u017] Joey Tribbiani: Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh...
+[s10_e12_c11_u018] Ross Geller: Uhm, ministers don't ride the subway for free.
+[s10_e12_c11_u019] Joey Tribbiani: I had to read the Bible pretty carefully, but... yeah we do.
+[s10_e12_c11_u020] Monica Geller: Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+[s10_e12_c11_u021] Chandler Bing: I'll do it.
+[s10_e12_c11_u022] Ross Geller: I'll..."
+s10_e12,s10_e12_c11,Joey Tribbiani,1,48,51,47,52,2,s10_e12_c11_u048,s10_e12_c11_u057,"[s10_e12_c11_u048] Chandler Bing: You look beautiful.
+[s10_e12_c11_u049] Phoebe Buffay: Thank you.
+[s10_e12_c11_u050] Mike Hannigan: My God! Aren't you freezing?
+[s10_e12_c11_u051] Phoebe Buffay: Na-ah.
+[s10_e12_c11_u052] Joey Tribbiani: Friends, family, dog... Thank you all for being here to witness this blessed event. The cold has now spread to my special place... so I'm gonna do the short version of this. Phoebe and Mike are perfect for each other. And I know I speak for every one here... when I wish them a lifetime of happiness. Who has the rings?
+[s10_e12_c11_u053] Joey Tribbiani: Okay...
+[s10_e12_c11_u054] Phoebe Buffay: When I was growing up, I didn't have a normal mom and dad, or a regular family like everybody else, and I always knew that something was missing. But now I'm standing here today, knowing that I have everything I'm ever gonna need... You are my family.
+[s10_e12_c11_u055] Mike Hannigan: Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever.
+[s10_e12_c11_u056] Phoebe Buffay: Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+[s10_e12_c11_u057] Mike Hannigan: I love you too."
+s10_e12,s10_e12_c11,Joey Tribbiani,2,56,61,55,61,3,s10_e12_c11_u056,s10_e12_c11_u066,"[s10_e12_c11_u056] Phoebe Buffay: Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+[s10_e12_c11_u057] Mike Hannigan: I love you too.
+[s10_e12_c11_u058] Ross Geller: Uh Joey...
+[s10_e12_c11_u059] Joey Tribbiani: Yeah?
+[s10_e12_c11_u060] Ross Geller: Chappy's heart rate has slowed way down.
+[s10_e12_c11_u061] Joey Tribbiani: Oh, okay. Phoebe, do you take this man to be your husband?
+[s10_e12_c11_u062] Phoebe Buffay: I do.
+[s10_e12_c11_u063] Joey Tribbiani: Mike, do you take this woman to be your wife?
+[s10_e12_c11_u064] Mike Hannigan: I do.
+[s10_e12_c11_u065] Joey Tribbiani: I now pronounce you... husband and wife.
+[s10_e12_c11_u066] Phoebe Buffay: I got married! Could someone get me a coat, I'm freaking freezing."
+s10_e12,s10_e12_c11,Mike Hannigan,0,1,5,0,6,2,s10_e12_c11_u001,s10_e12_c11_u011,"[s10_e12_c11_u001] Monica Geller: OK LET'S GET THESE CHAIRS OUT HERE! Gunther, hit the Christmas lights. Okay, who left the ice sculpture ON THE STEAM GRATE?
+[s10_e12_c11_u002] Mike's Mom: Michael!
+[s10_e12_c11_u003] Mike Hannigan: Hey! You made it. Great! Chappy! Hi! Hi! Mom, I know getting married in the street isn't something you approve of...
+[s10_e12_c11_u004] Mike's Mom: No... It's lovely. The lights and the snow. I could look at them forever.
+[s10_e12_c11_u005] Mike's Dad: I crushed a pill and put it in her drink... Come on, sweetheart.
+[s10_e12_c11_u006] Mike Hannigan: You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle.
+[s10_e12_c11_u007] Chandler Bing: So technically, would this person be in the wedding?
+[s10_e12_c11_u008] Mike Hannigan: I guess.
+[s10_e12_c11_u009] Chandler Bing, Ross Geller: I'll do it!
+[s10_e12_c11_u010] Ross Geller: No, but Chandler, hello... Aren't you scared of dogs?
+[s10_e12_c11_u011] Chandler Bing: I'm not scared. I'll just take little Chappy and... HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED."
+s10_e12,s10_e12_c11,Mike Hannigan,1,52,54,51,55,2,s10_e12_c11_u052,s10_e12_c11_u060,"[s10_e12_c11_u052] Joey Tribbiani: Friends, family, dog... Thank you all for being here to witness this blessed event. The cold has now spread to my special place... so I'm gonna do the short version of this. Phoebe and Mike are perfect for each other. And I know I speak for every one here... when I wish them a lifetime of happiness. Who has the rings?
+[s10_e12_c11_u053] Joey Tribbiani: Okay...
+[s10_e12_c11_u054] Phoebe Buffay: When I was growing up, I didn't have a normal mom and dad, or a regular family like everybody else, and I always knew that something was missing. But now I'm standing here today, knowing that I have everything I'm ever gonna need... You are my family.
+[s10_e12_c11_u055] Mike Hannigan: Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever.
+[s10_e12_c11_u056] Phoebe Buffay: Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+[s10_e12_c11_u057] Mike Hannigan: I love you too.
+[s10_e12_c11_u058] Ross Geller: Uh Joey...
+[s10_e12_c11_u059] Joey Tribbiani: Yeah?
+[s10_e12_c11_u060] Ross Geller: Chappy's heart rate has slowed way down."
+s10_e12,s10_e12_c11,Mike's Mom,0,0,1,0,2,2,s10_e12_c11_u001,s10_e12_c11_u007,"[s10_e12_c11_u001] Monica Geller: OK LET'S GET THESE CHAIRS OUT HERE! Gunther, hit the Christmas lights. Okay, who left the ice sculpture ON THE STEAM GRATE?
+[s10_e12_c11_u002] Mike's Mom: Michael!
+[s10_e12_c11_u003] Mike Hannigan: Hey! You made it. Great! Chappy! Hi! Hi! Mom, I know getting married in the street isn't something you approve of...
+[s10_e12_c11_u004] Mike's Mom: No... It's lovely. The lights and the snow. I could look at them forever.
+[s10_e12_c11_u005] Mike's Dad: I crushed a pill and put it in her drink... Come on, sweetheart.
+[s10_e12_c11_u006] Mike Hannigan: You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle.
+[s10_e12_c11_u007] Chandler Bing: So technically, would this person be in the wedding?"
+s10_e12,s10_e12_c11,Monica Geller,0,11,12,10,13,2,s10_e12_c11_u011,s10_e12_c11_u018,"[s10_e12_c11_u011] Chandler Bing: I'm not scared. I'll just take little Chappy and... HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED.
+[s10_e12_c11_u012] Ross Geller: Well, I guess I'm in the wedding then. Ha haaa... He stinks!
+[s10_e12_c11_u013] Monica Geller: Level 1 alert. I repeat, level 1. This is not a drill. Okay we've got a situation. The minister just called. He's snowed in. He can't make it.
+[s10_e12_c11_u014] Mike Hannigan: Oh, no!
+[s10_e12_c11_u015] Joey Tribbiani: Oh hey, don't worry. I'm still ordained from your wedding.
+[s10_e12_c11_u016] Monica Geller: Really?
+[s10_e12_c11_u017] Joey Tribbiani: Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh...
+[s10_e12_c11_u018] Ross Geller: Uhm, ministers don't ride the subway for free."
+s10_e12,s10_e12_c11,Monica Geller,1,15,15,14,16,2,s10_e12_c11_u015,s10_e12_c11_u021,"[s10_e12_c11_u015] Joey Tribbiani: Oh hey, don't worry. I'm still ordained from your wedding.
+[s10_e12_c11_u016] Monica Geller: Really?
+[s10_e12_c11_u017] Joey Tribbiani: Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh...
+[s10_e12_c11_u018] Ross Geller: Uhm, ministers don't ride the subway for free.
+[s10_e12_c11_u019] Joey Tribbiani: I had to read the Bible pretty carefully, but... yeah we do.
+[s10_e12_c11_u020] Monica Geller: Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+[s10_e12_c11_u021] Chandler Bing: I'll do it."
+s10_e12,s10_e12_c11,Monica Geller,2,19,24,18,25,3,s10_e12_c11_u019,s10_e12_c11_u030,"[s10_e12_c11_u019] Joey Tribbiani: I had to read the Bible pretty carefully, but... yeah we do.
+[s10_e12_c11_u020] Monica Geller: Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+[s10_e12_c11_u021] Chandler Bing: I'll do it.
+[s10_e12_c11_u022] Ross Geller: I'll...
+[s10_e12_c11_u023] Chandler Bing: Na ha ha... Ne he he... Ah ah...
+[s10_e12_c11_u024] Monica Geller: Okay, Mike and Joey, get in position. Chandler, come with me.
+[s10_e12_c11_u025] Monica Geller: Okay, Joey's doing the ceremony and Chandler's giving you away.
+[s10_e12_c11_u026] Phoebe Buffay: Oh, okay. Hi new dad.
+[s10_e12_c11_u027] Monica Geller: So, you're ready to do this?
+[s10_e12_c11_u028] Phoebe Buffay: Uhuh, uhuh... Oh my God! This is really happening.
+[s10_e12_c11_u029] Rachel Green: Oh Phoebe, I'm so happy for you honey.
+[s10_e12_c11_u030] Phoebe Buffay: Oh, thank you."
+s10_e12,s10_e12_c11,Monica Geller,3,26,26,25,27,2,s10_e12_c11_u026,s10_e12_c11_u032,"[s10_e12_c11_u026] Phoebe Buffay: Oh, okay. Hi new dad.
+[s10_e12_c11_u027] Monica Geller: So, you're ready to do this?
+[s10_e12_c11_u028] Phoebe Buffay: Uhuh, uhuh... Oh my God! This is really happening.
+[s10_e12_c11_u029] Rachel Green: Oh Phoebe, I'm so happy for you honey.
+[s10_e12_c11_u030] Phoebe Buffay: Oh, thank you.
+[s10_e12_c11_u031] Monica Geller: I love you. Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell.
+[s10_e12_c11_u032] Phoebe Buffay: I love you guys."
+s10_e12,s10_e12_c11,Monica Geller,4,29,37,28,38,3,s10_e12_c11_u029,s10_e12_c11_u043,"[s10_e12_c11_u029] Rachel Green: Oh Phoebe, I'm so happy for you honey.
+[s10_e12_c11_u030] Phoebe Buffay: Oh, thank you.
+[s10_e12_c11_u031] Monica Geller: I love you. Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell.
+[s10_e12_c11_u032] Phoebe Buffay: I love you guys.
+[s10_e12_c11_u033] Monica Geller, Rachel Green: I love you.
+[s10_e12_c11_u034] Monica Geller: Okay. It's zero hour. All teams execute on my count. Let's get this bad boy on the road.
+[s10_e12_c11_u035] Chandler Bing: Is it okay that I want you to wear that head set in bed tonight?
+[s10_e12_c11_u036] Monica Geller: I have you scheduled for nudity at 2300 hours.
+[s10_e12_c11_u037] Chandler Bing: Oh yeah!
+[s10_e12_c11_u038] Monica Geller: Okay Marjorie, hit it.
+[s10_e12_c11_u039] Rachel Green: Geez Ross, you could have showered.
+[s10_e12_c11_u040] Ross Geller: It's the dog.
+[s10_e12_c11_u041] Monica Geller: Groomsman, groomsman, why are you just standing there, where is your bridesmaid? We've got a broken arrow. Bridesmaid down! Oh, that's me.
+[s10_e12_c11_u042] Chandler Bing: Ready?
+[s10_e12_c11_u043] Phoebe Buffay: Okay."
+s10_e12,s10_e12_c11,Phoebe Buffay,0,23,29,22,30,3,s10_e12_c11_u023,s10_e12_c11_u035,"[s10_e12_c11_u023] Chandler Bing: Na ha ha... Ne he he... Ah ah...
+[s10_e12_c11_u024] Monica Geller: Okay, Mike and Joey, get in position. Chandler, come with me.
+[s10_e12_c11_u025] Monica Geller: Okay, Joey's doing the ceremony and Chandler's giving you away.
+[s10_e12_c11_u026] Phoebe Buffay: Oh, okay. Hi new dad.
+[s10_e12_c11_u027] Monica Geller: So, you're ready to do this?
+[s10_e12_c11_u028] Phoebe Buffay: Uhuh, uhuh... Oh my God! This is really happening.
+[s10_e12_c11_u029] Rachel Green: Oh Phoebe, I'm so happy for you honey.
+[s10_e12_c11_u030] Phoebe Buffay: Oh, thank you.
+[s10_e12_c11_u031] Monica Geller: I love you. Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell.
+[s10_e12_c11_u032] Phoebe Buffay: I love you guys.
+[s10_e12_c11_u033] Monica Geller, Rachel Green: I love you.
+[s10_e12_c11_u034] Monica Geller: Okay. It's zero hour. All teams execute on my count. Let's get this bad boy on the road.
+[s10_e12_c11_u035] Chandler Bing: Is it okay that I want you to wear that head set in bed tonight?"
+s10_e12,s10_e12_c11,Phoebe Buffay,1,40,53,39,54,3,s10_e12_c11_u040,s10_e12_c11_u059,"[s10_e12_c11_u040] Ross Geller: It's the dog.
+[s10_e12_c11_u041] Monica Geller: Groomsman, groomsman, why are you just standing there, where is your bridesmaid? We've got a broken arrow. Bridesmaid down! Oh, that's me.
+[s10_e12_c11_u042] Chandler Bing: Ready?
+[s10_e12_c11_u043] Phoebe Buffay: Okay.
+[s10_e12_c11_u044] Chandler Bing: Okay.
+[s10_e12_c11_u045] Phoebe Buffay: Oh wait, oh no. Wait.
+[s10_e12_c11_u046] Chandler Bing: Wow! Aren't you gonna be cold?
+[s10_e12_c11_u047] Phoebe Buffay: I don't care... I'll be my something blue.
+[s10_e12_c11_u048] Chandler Bing: You look beautiful.
+[s10_e12_c11_u049] Phoebe Buffay: Thank you.
+[s10_e12_c11_u050] Mike Hannigan: My God! Aren't you freezing?
+[s10_e12_c11_u051] Phoebe Buffay: Na-ah.
+[s10_e12_c11_u052] Joey Tribbiani: Friends, family, dog... Thank you all for being here to witness this blessed event. The cold has now spread to my special place... so I'm gonna do the short version of this. Phoebe and Mike are perfect for each other. And I know I speak for every one here... when I wish them a lifetime of happiness. Who has the rings?
+[s10_e12_c11_u053] Joey Tribbiani: Okay...
+[s10_e12_c11_u054] Phoebe Buffay: When I was growing up, I didn't have a normal mom and dad, or a regular family like everybody else, and I always knew that something was missing. But now I'm standing here today, knowing that I have everything I'm ever gonna need... You are my family.
+[s10_e12_c11_u055] Mike Hannigan: Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever.
+[s10_e12_c11_u056] Phoebe Buffay: Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+[s10_e12_c11_u057] Mike Hannigan: I love you too.
+[s10_e12_c11_u058] Ross Geller: Uh Joey...
+[s10_e12_c11_u059] Joey Tribbiani: Yeah?"
+s10_e12,s10_e12_c11,Phoebe Buffay,2,61,61,60,61,2,s10_e12_c11_u061,s10_e12_c11_u066,"[s10_e12_c11_u061] Joey Tribbiani: Oh, okay. Phoebe, do you take this man to be your husband?
+[s10_e12_c11_u062] Phoebe Buffay: I do.
+[s10_e12_c11_u063] Joey Tribbiani: Mike, do you take this woman to be your wife?
+[s10_e12_c11_u064] Mike Hannigan: I do.
+[s10_e12_c11_u065] Joey Tribbiani: I now pronounce you... husband and wife.
+[s10_e12_c11_u066] Phoebe Buffay: I got married! Could someone get me a coat, I'm freaking freezing."
+s10_e12,s10_e12_c11,Ross Geller,0,7,9,6,10,2,s10_e12_c11_u007,s10_e12_c11_u015,"[s10_e12_c11_u007] Chandler Bing: So technically, would this person be in the wedding?
+[s10_e12_c11_u008] Mike Hannigan: I guess.
+[s10_e12_c11_u009] Chandler Bing, Ross Geller: I'll do it!
+[s10_e12_c11_u010] Ross Geller: No, but Chandler, hello... Aren't you scared of dogs?
+[s10_e12_c11_u011] Chandler Bing: I'm not scared. I'll just take little Chappy and... HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED.
+[s10_e12_c11_u012] Ross Geller: Well, I guess I'm in the wedding then. Ha haaa... He stinks!
+[s10_e12_c11_u013] Monica Geller: Level 1 alert. I repeat, level 1. This is not a drill. Okay we've got a situation. The minister just called. He's snowed in. He can't make it.
+[s10_e12_c11_u014] Mike Hannigan: Oh, no!
+[s10_e12_c11_u015] Joey Tribbiani: Oh hey, don't worry. I'm still ordained from your wedding."
+s10_e12,s10_e12_c11,Ross Geller,1,17,17,16,18,2,s10_e12_c11_u017,s10_e12_c11_u023,"[s10_e12_c11_u017] Joey Tribbiani: Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh...
+[s10_e12_c11_u018] Ross Geller: Uhm, ministers don't ride the subway for free.
+[s10_e12_c11_u019] Joey Tribbiani: I had to read the Bible pretty carefully, but... yeah we do.
+[s10_e12_c11_u020] Monica Geller: Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+[s10_e12_c11_u021] Chandler Bing: I'll do it.
+[s10_e12_c11_u022] Ross Geller: I'll...
+[s10_e12_c11_u023] Chandler Bing: Na ha ha... Ne he he... Ah ah..."
+s10_e12,s10_e12_c11,Ross Geller,2,55,57,54,58,2,s10_e12_c11_u055,s10_e12_c11_u063,"[s10_e12_c11_u055] Mike Hannigan: Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever.
+[s10_e12_c11_u056] Phoebe Buffay: Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+[s10_e12_c11_u057] Mike Hannigan: I love you too.
+[s10_e12_c11_u058] Ross Geller: Uh Joey...
+[s10_e12_c11_u059] Joey Tribbiani: Yeah?
+[s10_e12_c11_u060] Ross Geller: Chappy's heart rate has slowed way down.
+[s10_e12_c11_u061] Joey Tribbiani: Oh, okay. Phoebe, do you take this man to be your husband?
+[s10_e12_c11_u062] Phoebe Buffay: I do.
+[s10_e12_c11_u063] Joey Tribbiani: Mike, do you take this woman to be your wife?"
+s10_e12,s10_e12_c12,Chandler Bing,0,0,1,0,1,3,s10_e12_c12_u001,s10_e12_c12_u006,"[s10_e12_c12_u001] Chandler Bing: That really was an incredible wedding.
+[s10_e12_c12_u002] Joey Tribbiani: It was, yeah. I kind of don't want it to end. Hey, you wanna come in for a drink and a bite of corsage?
+[s10_e12_c12_u003] Chandler Bing: I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.
+[s10_e12_c12_u004] Joey Tribbiani: Nice. Oh hey, what about Ross?
+[s10_e12_c12_u005] Chandler Bing: I don't know. Maybe he hooked up with that hot girl he was talking to.
+[s10_e12_c12_u006] Ross Geller: Come on Chappy, do your business. MAKE! MA-AKE! I did not sign on for this."
+s10_e12,s10_e12_c12,Joey Tribbiani,0,0,1,0,1,2,s10_e12_c12_u001,s10_e12_c12_u006,"[s10_e12_c12_u001] Chandler Bing: That really was an incredible wedding.
+[s10_e12_c12_u002] Joey Tribbiani: It was, yeah. I kind of don't want it to end. Hey, you wanna come in for a drink and a bite of corsage?
+[s10_e12_c12_u003] Chandler Bing: I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.
+[s10_e12_c12_u004] Joey Tribbiani: Nice. Oh hey, what about Ross?
+[s10_e12_c12_u005] Chandler Bing: I don't know. Maybe he hooked up with that hot girl he was talking to.
+[s10_e12_c12_u006] Ross Geller: Come on Chappy, do your business. MAKE! MA-AKE! I did not sign on for this."

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes a bold, personal remark (“a little cute to be a doctor”) and engages readily in the social exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Speaks plainly and then directly clarifies the comment (“I mean young to be a doctor”), showing straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness in the brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows confidence in making and clarifying a potentially awkward remark without signs of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or rigidity in this short interaction."
+  }
+}

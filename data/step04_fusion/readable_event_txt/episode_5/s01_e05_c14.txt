@@ -1,0 +1,83 @@
+event_id: s01_e05_c14_u001_e1
+utterance_id: s01_e05_c14_u001
+  tuple: ('be', 'the thing', None, 's01_e05_c14_u001')
+  tuple: ('know', 'you/Janice Litman Goralnik', None, 's01_e05_c14_u001')
+  tuple: ('mean', 'I/Chandler Bing', "it's like we're different", 's01_e05_c14_u001')
+  tuple: ('be', 'it/(situation)', "like we're different", 's01_e05_c14_u001')
+  tuple: ('be', 'we/(Chandler Bing+Janice Litman Goralnik)', 'different', 's01_e05_c14_u001')
+  tuple: ('like', 'I/Chandler Bing', 'the bing, bing, bing', 's01_e05_c14_u001')
+  tuple: ('like', 'you/Janice Litman Goralnik', 'the boom, boom, ... boom', 's01_e05_c14_u001')
+
+event_id: s01_e05_c14_u003_e1
+utterance_id: s01_e05_c14_u003
+  tuple: ('be', 'I/Chandler Bing', 'so sorry', 's01_e05_c14_u003')
+
+event_id: s01_e05_c14_u003_e2
+utterance_id: s01_e05_c14_u003
+  tuple: ('be', 'you/Janice Litman Goralnik', 'ok', 's01_e05_c14_u003')
+
+event_id: s01_e05_c14_u004_e1
+utterance_id: s01_e05_c14_u004
+  tuple: ('be', 'it/(problem)', 'just my lens', 's01_e05_c14_u004')
+
+event_id: s01_e05_c14_u004_e2
+utterance_id: s01_e05_c14_u004
+  tuple: ('be', 'I/Janice Litman Goralnik', 'right back', 's01_e05_c14_u004')
+
+event_id: s01_e05_c14_u006_e1
+utterance_id: s01_e05_c14_u006
+  tuple: ('hit', 'I/Chandler Bing', 'her', 's01_e05_c14_u006')
+  tuple: ('hit', 'I/Chandler Bing', 'in the eye', 's01_e05_c14_u006')
+
+event_id: s01_e05_c14_u006_e2
+utterance_id: s01_e05_c14_u006
+  tuple: ('be', 'this/(break-up)', 'the worst break-up in the history of the world', 's01_e05_c14_u006')
+
+event_id: s01_e05_c14_u007_e1
+utterance_id: s01_e05_c14_u007
+  tuple: ('have', 'you/Chandler Bing', 'how many of those', 's01_e05_c14_u007')
+
+event_id: s01_e05_c14_u008_e1
+utterance_id: s01_e05_c14_u008
+  tuple: ('know', 'I/Chandler Bing', None, 's01_e05_c14_u008')
+
+event_id: s01_e05_c14_u009_e1
+utterance_id: s01_e05_c14_u009
+  tuple: ('go', 'you/Chandler Bing', 'to your happy place', 's01_e05_c14_u009')
+
+event_id: s01_e05_c14_u010_e1
+utterance_id: s01_e05_c14_u010
+  tuple: ('be', 'I/Chandler Bing', 'fine', 's01_e05_c14_u010')
+
+event_id: s01_e05_c14_u013_e1
+utterance_id: s01_e05_c14_u013
+  tuple: ('be', 'I/Chandler Bing', 'not fine', 's01_e05_c14_u013')
+
+event_id: s01_e05_c14_u013_e2
+utterance_id: s01_e05_c14_u013
+  tuple: ('come', 'she/Janice Litman Goralnik', None, 's01_e05_c14_u013')
+
+event_id: s01_e05_c14_u014_e1
+utterance_id: s01_e05_c14_u014
+  tuple: ('wait', 'you/Chandler Bing', 'here', 's01_e05_c14_u014')
+
+event_id: s01_e05_c14_u014_e2
+utterance_id: s01_e05_c14_u014
+  tuple: ('breathe', 'you/Chandler Bing', None, 's01_e05_c14_u014')
+
+event_id: s01_e05_c14_u016_e1
+utterance_id: s01_e05_c14_u016
+  tuple: ('do', 'you/Phoebe Buffay', 'that', 's01_e05_c14_u016')
+
+event_id: s01_e05_c14_u017_e1
+utterance_id: s01_e05_c14_u017
+  tuple: ('be', 'it/(ability)', 'like a gift', 's01_e05_c14_u017')
+
+event_id: s01_e05_c14_u018_e1
+utterance_id: s01_e05_c14_u018
+  tuple: ('break up', 'we/(Chandler Bing+Phoebe Buffay)', None, 's01_e05_c14_u018')
+
+event_id: s01_e05_c14_u019_e1
+utterance_id: s01_e05_c14_u019
+  tuple: ('like', 'I/Phoebe Buffay', 'that', 's01_e05_c14_u019')
+

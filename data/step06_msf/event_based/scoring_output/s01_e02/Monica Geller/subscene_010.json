@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaker_04 says TargetSpeaker had no friends as a child and would read alone in TargetSpeaker's room, indicating a solitary, reserved tendency."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker directly challenges Speaker_01’s remark—asks what it means and asserts it is not an expression—showing straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behaviors indicating organization/efficiency or sloppiness are shown in this exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker calmly and assertively questions and corrects Speaker_01 rather than reacting nervously or emotionally."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear, concrete behavior showing curiosity/inventiveness or dogmatism/caution; third-party claims about being satisfied staying put are not concrete actions."
+  }
+}

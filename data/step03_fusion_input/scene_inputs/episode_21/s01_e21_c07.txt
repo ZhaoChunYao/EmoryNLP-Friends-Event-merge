@@ -1,0 +1,147 @@
+('believe', 'I/Joey Tribbiani', 'it', 's01_e21_c07_u001')
+[s01_e21_c07_u001] Joey Tribbiani: I can't believe it, Ross. This sucks!
+
+('suck', 'This/(situation)', None, 's01_e21_c07_u001')
+[s01_e21_c07_u001] Joey Tribbiani: I can't believe it, Ross. This sucks!
+
+('get', 'I/Chandler Bing', 'it', 's01_e21_c07_u002')
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+
+('get', 'you/Ross Geller', 'him', 's01_e21_c07_u002')
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+
+('be', "he/(Ross's monkey)", 'an adult', 's01_e21_c07_u002')
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+
+('mean', 'I/Chandler Bing', None, 's01_e21_c07_u002')
+[s01_e21_c07_u002] Chandler Bing: I don't get it, I mean, you just got him. How can he be an adult already?
+
+('know', 'I/Ross Geller', None, 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('mean', 'I/Ross Geller', None, 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('be', "he/(Ross's monkey)", 'this little thing', 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('know', 'you/(generic)', 'it', 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('get', 'I/Ross Geller', 'him', 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('get', 'I/Ross Geller', 'off my leg', 's01_e21_c07_u003')
+[s01_e21_c07_u003] Ross Geller: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+
+('be', 'there/(existential)', 'any way', 's01_e21_c07_u004')
+[s01_e21_c07_u004] Joey Tribbiani: Isn't there any way you can keep him?
+
+('keep', 'you/Ross Geller', 'him', 's01_e21_c07_u004')
+[s01_e21_c07_u004] Joey Tribbiani: Isn't there any way you can keep him?
+
+('say', 'The vet', "unless he's in a place where he has regular access to some monkey lovin,' he's just gonna get vicious", 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('be', "he/(Ross's monkey)", 'in a place', 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('have', "he/(Ross's monkey)", 'regular access', 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('have', "he/(Ross's monkey)", "access to some monkey lovin'", 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('get', "he/(Ross's monkey)", 'vicious', 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('get', 'I/Ross Geller', 'him into a zoo', 's01_e21_c07_u005')
+[s01_e21_c07_u005] Ross Geller: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+
+('get', 'you/(generic)', 'a monkey', 's01_e21_c07_u006')
+[s01_e21_c07_u006] Joey Tribbiani: How do you get a monkey into a zoo?
+
+('get', 'you/(generic)', 'into a zoo', 's01_e21_c07_u006')
+[s01_e21_c07_u006] Joey Tribbiani: How do you get a monkey into a zoo?
+
+('know', 'I/Chandler Bing', 'that one', 's01_e21_c07_u007')
+[s01_e21_c07_u007] Chandler Bing: I know that one! ...No, that's Popes into a Volkswagen.
+
+('be', 'that/(the joke answer)', 'Popes into a Volkswagen', 's01_e21_c07_u007')
+[s01_e21_c07_u007] Chandler Bing: I know that one! ...No, that's Popes into a Volkswagen.
+
+('apply', 'we/(Ross Geller and friends)', 'to a lot of them', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('be', 'our first choice', 'one of the bigger state zoos', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('be', 'that/(San Diego zoo choice)', 'a pipe dream', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('be', "he/(Ross's monkey)", 'out of state', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('know', 'my vet', 'someone', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('know', 'my vet', 'at Miami', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('be', 'that/(Miami possibility)', 'a possibility', 's01_e21_c07_u008')
+[s01_e21_c07_u008] Ross Geller: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+
+('be', 'that/(Miami zoo)', 'like two blocks away from the beach', 's01_e21_c07_u009')
+[s01_e21_c07_u009] Chandler Bing: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.
+
+('be', 'it/(Miami zoo)', 'a total party zoo', 's01_e21_c07_u009')
+[s01_e21_c07_u009] Chandler Bing: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.
+
+('find', 'we/(Phoebe Buffay and Rachel Green)', 'the girl', 's01_e21_c07_u011')
+[s01_e21_c07_u011] Phoebe Buffay: Hey. We found her, we found the girl.
+
+('call', 'you/(Phoebe Buffay and Rachel Green)', 'the cops', 's01_e21_c07_u013')
+[s01_e21_c07_u013] Joey Tribbiani: Did you call the cops?
+
+('take', 'we/(Rachel Green and Phoebe Buffay)', 'her', 's01_e21_c07_u014')
+[s01_e21_c07_u014] Rachel Green: Nope. We took her to lunch.
+
+('take', 'we/(Rachel Green and Phoebe Buffay)', 'to lunch', 's01_e21_c07_u014')
+[s01_e21_c07_u014] Rachel Green: Nope. We took her to lunch.
+
+('be', 'you/(Phoebe Buffay and Rachel Green)', 'insane', 's01_e21_c07_u016')
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+
+('steal', 'this woman', 'from you', 's01_e21_c07_u016')
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+
+('be', 'she/(the woman thief)', 'a stealer', 's01_e21_c07_u016')
+[s01_e21_c07_u016] Ross Geller: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+
+('be', 'you/(generic)', 'with this woman', 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('be', 'you/(generic)', 'for like ten minutes', 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('forget', 'you/(generic)', 'all that', 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('mean', 'I/Monica Geller', None, 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('be', 'she/(the woman thief)', 'this astounding person', 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('be', 'she/(the woman thief)', 'with this amazing spirit', 's01_e21_c07_u017')
+[s01_e21_c07_u017] Monica Geller: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+
+('steal', 'she/(the woman thief)', 'from some cheerleader', 's01_e21_c07_u018')
+[s01_e21_c07_u018] Ross Geller: Yeah, which she probably stole from some cheerleader.
+
+('take', 'you/(generic)', 'off their hats', 's01_e21_c07_u019')
+[s01_e21_c07_u019] Chandler Bing: ...Take off their hats!
+
+('love', 'I/Phoebe Buffay', 'that joke', 's01_e21_c07_u020')
+[s01_e21_c07_u020] Phoebe Buffay: Popes in a Volkswagen! ...I love that joke.
+

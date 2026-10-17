@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker readily accepted a social invitation from two doctors for the next night and highlighted their attractiveness, indicating sociability and willingness to engage."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "She neither shows clear cooperativeness nor conflict; her only response to Speaker_02’s concern is noting the doctors are cute."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "There’s no evidence of planning or organization, nor clear carelessness beyond agreeing to a date."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She shows no anxiety about her injury or the date and agrees confidently to go out."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She embraces a new experience by quickly saying yes to going out with the doctors despite her friend calling it insane and advising against it."
+  }
+}

@@ -1,0 +1,45 @@
+event_id: s01_e11_c07_u003_e1
+utterance_id: s01_e11_c07_u003
+  tuple: ('do', 'you/Phoebe Buffay', 'here', 's01_e11_c07_u003')
+
+event_id: s01_e11_c07_u004_e1
+utterance_id: s01_e11_c07_u004
+  tuple: ('think', 'I/Phoebe Buffay', "I'd stop by", 's01_e11_c07_u004')
+  tuple: ('stop by', 'I/Phoebe Buffay', None, 's01_e11_c07_u004')
+
+event_id: s01_e11_c07_u004_e2
+utterance_id: s01_e11_c07_u004
+  tuple: ('do', 'you/Monica Geller', 'here', 's01_e11_c07_u004')
+
+event_id: s01_e11_c07_u005_e1
+utterance_id: s01_e11_c07_u005
+  tuple: ('be', 'I/Monica Geller', 'here', 's01_e11_c07_u005')
+
+event_id: s01_e11_c07_u005_e2
+utterance_id: s01_e11_c07_u005
+  tuple: ('think', 'I/Monica Geller', "I'd drop these off on the way", 's01_e11_c07_u005')
+  tuple: ('drop off', 'I/Monica Geller', 'these', 's01_e11_c07_u005')
+  tuple: ('drop off', 'I/Monica Geller', 'on the way', 's01_e11_c07_u005')
+
+event_id: s01_e11_c07_u005_e3
+utterance_id: s01_e11_c07_u005
+  tuple: ('come', 'you/Phoebe Buffay', 'here', 's01_e11_c07_u005')
+  tuple: ('come', 'you/Phoebe Buffay', 'without me', 's01_e11_c07_u005')
+
+event_id: s01_e11_c07_u006_e1
+utterance_id: s01_e11_c07_u006
+  tuple: ('think', 'you/Monica Geller', "he's doing any better than he was this morning", 's01_e11_c07_u006')
+  tuple: ('do', 'he', 'better', 's01_e11_c07_u006')
+
+event_id: s01_e11_c07_u006_e2
+utterance_id: s01_e11_c07_u006
+  tuple: ('be', 'he', 'this morning', 's01_e11_c07_u006')
+
+event_id: s01_e11_c07_u007_e1
+utterance_id: s01_e11_c07_u007
+  tuple: ('know', 'I/Monica Geller', None, 's01_e11_c07_u007')
+
+event_id: s01_e11_c07_u008_e1
+utterance_id: s01_e11_c07_u008
+  tuple: ('change', 'you/Monica Geller', 'his pajamas', 's01_e11_c07_u008')
+

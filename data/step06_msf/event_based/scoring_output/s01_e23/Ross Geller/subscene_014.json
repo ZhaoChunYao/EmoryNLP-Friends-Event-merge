@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Highly talkative and energetic during the birth, giving a running commentary, asking questions, and exclaiming (“Out!”, “Hello!”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and straightforward; apologizes (“Oh, sorry.”) and offers honest, non-boastful descriptions when asked."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "During the delivery is told “you’re not helping” and distracts by asking how it’s being done instead of assisting."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows excitement but no anxiety; speaks confidently (“definitely a boy,” greeting the baby) without signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Curious and observant, asking how the delivery is done and noting detailed features; uses imaginative comparison (“looks like my uncle… covered in Jell-O”)."
+  }
+}

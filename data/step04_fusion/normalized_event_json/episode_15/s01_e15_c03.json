@@ -1,0 +1,396 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e15_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u001_e1",
+          "tuples": [
+            "('come', 'Chandler', None, 's01_e15_c03_u001')",
+            "('get', 'he/Chandler', 'here', 's01_e15_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u001_e2",
+          "tuples": [
+            "('say', 'he/Chandler', 'he has this incredible news', 's01_e15_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u001_e3",
+          "tuples": [
+            "('have', 'he/Chandler', 'this incredible news', 's01_e15_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u001_e4",
+          "tuples": [
+            "('act', 'we/#ALL#', 'like you know', 's01_e15_c03_u001')",
+            "('know', 'you/#ALL#', None, 's01_e15_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u005_e1",
+          "tuples": [
+            "('mind', 'you/#ALL#', None, 's01_e15_c03_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u005_e2",
+          "tuples": [
+            "('be', 'it/(plan)', 'really good', 's01_e15_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u006",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u006_e1",
+          "tuples": [
+            "('go on', 'what', None, 's01_e15_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u007",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u007_e1",
+          "tuples": [
+            "('be', 'it/(news)', 'what', 's01_e15_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u008_e1",
+          "tuples": [
+            "('be', 'it/(day)', 'a typical day', 's01_e15_c03_u008')",
+            "('be', 'it/(day)', 'at work', 's01_e15_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u008_e2",
+          "tuples": [
+            "('input', 'I/Chandler', 'my numbers', 's01_e15_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u008_e3",
+          "tuples": [
+            "('call', 'Big Al', 'me', 's01_e15_c03_u008')",
+            "('call', 'Big Al', 'into his office', 's01_e15_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u008_e4",
+          "tuples": [
+            "('tell', 'Big Al', 'me', 's01_e15_c03_u008')",
+            "('tell', 'Big Al', 'he wants to make me processing supervisor', 's01_e15_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u008_e5",
+          "tuples": [
+            "('want', 'he/Big Al', 'to make me processing supervisor', 's01_e15_c03_u008')",
+            "('make', 'he/Big Al', 'me processing supervisor', 's01_e15_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u009_e1",
+          "tuples": [
+            "('be', 'that/(news)', 'great', 's01_e15_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u010_e1",
+          "tuples": [
+            "('quit', 'I/Chandler', None, 's01_e15_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u012_e1",
+          "tuples": [
+            "('be', 'this/(job)', 'a temp job', 's01_e15_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u013_e1",
+          "tuples": [
+            "('be', 'you/Chandler', 'there', 's01_e15_c03_u013')",
+            "('be', 'you/Chandler', 'for five years', 's01_e15_c03_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u014",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u014_e1",
+          "tuples": [
+            "('take', 'I/Chandler', 'this promotion', 's01_e15_c03_u014')",
+            "('be', 'it/(taking the promotion)', 'like admitting that this is what I actually do', 's01_e15_c03_u014')",
+            "('admit', 'I/Chandler', 'that this is what I actually do', 's01_e15_c03_u014')",
+            "('be', 'this/(job)', 'what I actually do', 's01_e15_c03_u014')",
+            "('do', 'I/Chandler', 'what I actually do', 's01_e15_c03_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u015",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u015_e1",
+          "tuples": [
+            "('be', 'it/(promotion)', 'a lot more money', 's01_e15_c03_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u016",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u016_e1",
+          "tuples": [
+            "('matter', 'it/(money)', None, 's01_e15_c03_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u016_e2",
+          "tuples": [
+            "('want', 'I/Chandler', \"to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS\", 's01_e15_c03_u016')",
+            "('be', 'I/Chandler', \"one of those guys that's in his office until twelve o'clock at night worrying about the WENUS\", 's01_e15_c03_u016')",
+            "('be', 'those guys', 'in his office', 's01_e15_c03_u016')",
+            "('be', 'those guys', \"until twelve o'clock at night\", 's01_e15_c03_u016')",
+            "('worry', 'those guys', 'about the WENUS', 's01_e15_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u021",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u021_e1",
+          "tuples": [
+            "('do', 'you/Chandler', 'what', 's01_e15_c03_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u022",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u022_e1",
+          "tuples": [
+            "('know', 'I/Chandler', None, 's01_e15_c03_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u022_e2",
+          "tuples": [
+            "('be', 'that/(situation)', 'the thing', 's01_e15_c03_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u022_e3",
+          "tuples": [
+            "('know', 'I/Chandler', 'what I want to do', 's01_e15_c03_u022')",
+            "('want', 'I/Chandler', 'to do what', 's01_e15_c03_u022')",
+            "('do', 'I/Chandler', 'what', 's01_e15_c03_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u022_e4",
+          "tuples": [
+            "('know', 'I/Chandler', \"I'm not going to figure it out working there\", 's01_e15_c03_u022')",
+            "('figure out', 'I/Chandler', 'it', 's01_e15_c03_u022')",
+            "('work', 'I/Chandler', 'there', 's01_e15_c03_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u023",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u023_e1",
+          "tuples": [
+            "('have', 'I/Phoebe', 'something you can do', 's01_e15_c03_u023')",
+            "('do', 'you/Chandler', 'something', 's01_e15_c03_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u023_e2",
+          "tuples": [
+            "('have', 'I/Phoebe', 'this new massage client', 's01_e15_c03_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u023_e3",
+          "tuples": [
+            "('open up', 'he/Steve', 'a restaurant', 's01_e15_c03_u023')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u023_e4",
+          "tuples": [
+            "('look', 'he/Steve', 'for a head chef', 's01_e15_c03_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u025",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u025_e1",
+          "tuples": [
+            "('know', 'I/Phoebe', None, 's01_e15_c03_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u025_e2",
+          "tuples": [
+            "('be', 'you/Monica', 'a chef', 's01_e15_c03_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u025_e3",
+          "tuples": [
+            "('think', 'I/Phoebe', 'of you', 's01_e15_c03_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u025_e4",
+          "tuples": [
+            "('be', 'Chandler', 'the one who needs a job right now', 's01_e15_c03_u025')",
+            "('need', 'Chandler', 'a job', 's01_e15_c03_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u026",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u026_e1",
+          "tuples": [
+            "('have', 'I/Chandler', 'that much cheffing experience', 's01_e15_c03_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u026_e2",
+          "tuples": [
+            "('be', 'it/(restaurant)', 'an all-toast restaurant', 's01_e15_c03_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u028",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u028_e1",
+          "tuples": [
+            "('look', 'he/Steve', 'for what kind of food', 's01_e15_c03_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u029",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u029_e1",
+          "tuples": [
+            "('want', 'he/Steve', 'to do some ecclectic', 's01_e15_c03_u029')",
+            "('do', 'he/Steve', 'some ecclectic', 's01_e15_c03_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u029_e2",
+          "tuples": [
+            "('look', 'he/Steve', 'for someone', 's01_e15_c03_u029')",
+            "('create', 'someone', 'the entire menu', 's01_e15_c03_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u031",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u031_e1",
+          "tuples": [
+            "('think', 'you/Monica', 'what', 's01_e15_c03_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u032",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u032_e1",
+          "tuples": [
+            "('thank', 'I/Chandler', 'Phoebe', 's01_e15_c03_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e15_c03_u032_e2",
+          "tuples": [
+            "('see', 'I/Chandler', 'myself', 's01_e15_c03_u032')",
+            "('see', 'I/Chandler', 'in a big white hat', 's01_e15_c03_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e15_c03_u033",
+      "events": [
+        {
+          "event_id": "s01_e15_c03_u033_e1",
+          "tuples": [
+            "('guess', 'you/Monica', 'what', 's01_e15_c03_u033')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks a direct question; no clear signs of outgoing energy or reserved withdrawal."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker criticizes that Speaker_02 may not make enough money and confronts Speaker_01 with a suspicious question about someone else."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker shows insecurity by pressing, “Is there? Is there someone else?”"
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of openness to new ideas or dogmatism; interaction centers on suspicion, not ideas."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u001_e1",
+          "tuples": [
+            "('be', 'Carol', 'here', 's01_e09_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u002_e1",
+          "tuples": [
+            "('be', 'she/Carol', 'at a faculty meeting', 's01_e09_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u003_e1",
+          "tuples": [
+            "('come', 'I/Ross Geller', 'by to pick up my skull', 's01_e09_c03_u003')",
+            "('pick', 'I/Ross Geller', 'up my skull', 's01_e09_c03_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u003_e2",
+          "tuples": [
+            "('come', 'you/Ross Geller', 'in', 's01_e09_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u004_e1",
+          "tuples": [
+            "('borrow', 'Carol', 'it', 's01_e09_c03_u004')",
+            "('borrow', 'Carol', 'for a class', 's01_e09_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u004_e2",
+          "tuples": [
+            "('get', 'I/Ross Geller', 'it back to the museum', 's01_e09_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u005_e1",
+          "tuples": [
+            "('look', 'it/the skull', 'like what', 's01_e09_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u007",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u007_e1",
+          "tuples": [
+            "('be', 'I/Susan Bunch', 'familiar', 's01_e09_c03_u007')",
+            "('be', 'I/Susan Bunch', 'with the concept', 's01_e09_c03_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u007_e2",
+          "tuples": [
+            "('look', 'we/Susan Bunch and Ross Geller', 'for it', 's01_e09_c03_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u008_e1",
+          "tuples": [
+            "('have', 'you guys/Susan and Carol', 'a lot of books', 's01_e09_c03_u008')",
+            "('have', 'you guys/Susan and Carol', \"about bein' a lesbian\", 's01_e09_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u009_e1",
+          "tuples": [
+            "('know', 'you/Ross Geller', None, 's01_e09_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u009_e2",
+          "tuples": [
+            "('take', 'you/Ross Geller', 'a course', 's01_e09_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u009_e3",
+          "tuples": [
+            "('let', 'they/authorities', 'you', 's01_e09_c03_u009')",
+            "('do', 'you/Ross Geller', 'it', 's01_e09_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u011",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u011_e1",
+          "tuples": [
+            "('read', 'I/Susan Bunch', 'it', 's01_e09_c03_u011')",
+            "('read', 'I/Susan Bunch', 'to the baby', 's01_e09_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u012",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u012_e1",
+          "tuples": [
+            "('be born', 'the baby', None, 's01_e09_c03_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u012_e2",
+          "tuples": [
+            "('mean', 'that', 'you are crazy', 's01_e09_c03_u012')",
+            "('be', 'you/Susan Bunch', 'crazy', 's01_e09_c03_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u013_e1",
+          "tuples": [
+            "('think', 'you/Ross Geller', 'they can hear sounds in there', 's01_e09_c03_u013')",
+            "('hear', 'they/unborn babies', 'sounds', 's01_e09_c03_u013')",
+            "('hear', 'they/unborn babies', 'in there', 's01_e09_c03_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u014",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u014_e1",
+          "tuples": [
+            "('be', 'you/Susan Bunch', 'not serious', 's01_e09_c03_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u014_e2",
+          "tuples": [
+            "('mean', 'I/Ross Geller', None, 's01_e09_c03_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c03_u014_e3",
+          "tuples": [
+            "('talk', 'you/Susan Bunch', None, 's01_e09_c03_u014')",
+            "('talk', 'you/Susan Bunch', 'to it', 's01_e09_c03_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u015",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u015_e1",
+          "tuples": [
+            "('want', 'I/Susan Bunch', 'the baby to know my voice', 's01_e09_c03_u015')",
+            "('know', 'the baby', 'my voice', 's01_e09_c03_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u016",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u016_e1",
+          "tuples": [
+            "('talk', 'you/Susan Bunch', 'about me', 's01_e09_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c03_u019",
+      "events": [
+        {
+          "event_id": "s01_e09_c03_u019_e1",
+          "tuples": [
+            "('refer', 'we/Susan Bunch and Carol', 'to you', 's01_e09_c03_u019')",
+            "('refer', 'we/Susan Bunch and Carol', 'as Bobo the Sperm Guy', 's01_e09_c03_u019')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker greets Steve and helps with the introduction, engaging others socially in her apartment."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She offers a friendly greeting and clarifies who is being introduced, showing polite, cooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No direct actions by TargetSpeaker indicate organization or efficiency."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "There are no signs of nervousness, stress, or emotional volatility from TargetSpeaker."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or behaviors reflect curiosity, creativity, or caution/dogmatism."
+  }
+}

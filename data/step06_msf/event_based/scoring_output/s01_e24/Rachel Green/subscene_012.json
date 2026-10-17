@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Aside from participating in a date (u004), there are no clear signs of outgoing, energetic behavior; most talk centers on private concerns and hesitation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and straightforward: asks to be excused (u004), compliments Speaker_01 as a very nice guy (u010), honestly admits uncertainty about attraction (u021), and apologizes for leaving the date (u030)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Forgets an important commitment to pick up Speaker_03 at the airport and must abruptly leave the date to address it (u030), indicating poor planning/organization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses worry about starting a relationship and fear of losing a friendship if they break up (u017), references past breakup patterns (u019), and is uncertain about feelings (u021), showing anxiety and sensitivity."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Reluctant to try a new romantic situation—says dating Speaker_03 would be too hard (u013) and avoids it due to fear of breakup and past patterns (u017, u019)—indicating caution over exploration."
+  }
+}

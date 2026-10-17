@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of sociability or withdrawal; TargetSpeaker only gives brief responses."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker says he hates Speaker_01, showing hostility and low cooperativeness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or carelessness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He calls the issue 'nothing'/'a little thing' yet says he hates Speaker_01, indicating strong negative emotion to a minor trigger."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, openness, or dogmatism in the exchange."
+  }
+}

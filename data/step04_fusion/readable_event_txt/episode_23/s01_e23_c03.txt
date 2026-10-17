@@ -1,0 +1,95 @@
+event_id: s01_e23_c03_u001_e1
+utterance_id: s01_e23_c03_u001
+  tuple: ('want', 'I/Monica Geller', 'a baby', 's01_e23_c03_u001')
+
+event_id: s01_e23_c03_u002_e1
+utterance_id: s01_e23_c03_u002
+  tuple: ('get', 'I/Chandler Bing', 'an early day tomorrow', 's01_e23_c03_u002')
+
+event_id: s01_e23_c03_u003_e1
+utterance_id: s01_e23_c03_u003
+  tuple: ('get', 'you/Chandler Bing', 'up', 's01_e23_c03_u003')
+  tuple: ('come', 'you/Chandler Bing', 'on', 's01_e23_c03_u003')
+  tuple: ('let', 'we/Monica Geller+Chandler Bing', 'get some coffee', 's01_e23_c03_u003')
+  tuple: ('get', 'we/Monica Geller+Chandler Bing', 'some coffee', 's01_e23_c03_u003')
+
+event_id: s01_e23_c03_u004_e1
+utterance_id: s01_e23_c03_u004
+  tuple: ('do', 'we/Monica Geller+Chandler Bing', 'that', 's01_e23_c03_u004')
+
+event_id: s01_e23_c03_u006_e1
+utterance_id: s01_e23_c03_u006
+  tuple: ('shoot', 'you/(basketball player)', None, 's01_e23_c03_u006')
+
+event_id: s01_e23_c03_u006_e2
+utterance_id: s01_e23_c03_u006
+  tuple: ('fall', 'you/(basketball player)', 'down', 's01_e23_c03_u006')
+  tuple: ('be', 'that', 'good', 's01_e23_c03_u006')
+
+event_id: s01_e23_c03_u010_e1
+utterance_id: s01_e23_c03_u010
+  tuple: ('suck', 'they/The Knicks', None, 's01_e23_c03_u010')
+
+event_id: s01_e23_c03_u011_e1
+utterance_id: s01_e23_c03_u011
+  tuple: ('listen', 'you/Lydia', None, 's01_e23_c03_u011')
+
+event_id: s01_e23_c03_u012_e1
+utterance_id: s01_e23_c03_u012
+  tuple: ('look', 'you/Joey Tribbiani', 'at your man, Ewing', 's01_e23_c03_u012')
+
+event_id: s01_e23_c03_u012_e2
+utterance_id: s01_e23_c03_u012
+  tuple: ('know', 'you/Joey Tribbiani', 'what', 's01_e23_c03_u012')
+  tuple: ('hit', 'he/Ewing', 'water', 's01_e23_c03_u012')
+  tuple: ('stand', 'he/Ewing', 'on a boat', 's01_e23_c03_u012')
+
+event_id: s01_e23_c03_u013_e1
+utterance_id: s01_e23_c03_u013
+  tuple: ('like', 'you/Lydia', 'who', 's01_e23_c03_u013')
+
+event_id: s01_e23_c03_u015_e1
+utterance_id: s01_e23_c03_u015
+  tuple: ('hit', 'they/The Celtics', 'a boat', 's01_e23_c03_u015')
+
+event_id: s01_e23_c03_u015_e2
+utterance_id: s01_e23_c03_u015
+  tuple: ('wait', 'you/Lydia', None, 's01_e23_c03_u015')
+
+event_id: s01_e23_c03_u015_e3
+utterance_id: s01_e23_c03_u015
+  tuple: ('suck', 'they/The Celtics', None, 's01_e23_c03_u015')
+
+event_id: s01_e23_c03_u016_e1
+utterance_id: s01_e23_c03_u016
+  tuple: ('shut', 'you/Joey Tribbiani', 'up', 's01_e23_c03_u016')
+
+event_id: s01_e23_c03_u016_e2
+utterance_id: s01_e23_c03_u016
+  tuple: ('know', 'you/Joey Tribbiani', None, 's01_e23_c03_u016')
+  tuple: ('be', 'it/The Celtics', 'a rebuilding year', 's01_e23_c03_u016')
+
+event_id: s01_e23_c03_u017_e1
+utterance_id: s01_e23_c03_u017
+  tuple: ('let', 'you/Lydia', 'me get the father', 's01_e23_c03_u017')
+  tuple: ('get', 'I/Joey Tribbiani', 'the father', 's01_e23_c03_u017')
+  tuple: ('need', 'we/Joey Tribbiani+others', 'a father', 's01_e23_c03_u017')
+  tuple: ('need', 'we/Joey Tribbiani+others', 'over here', 's01_e23_c03_u017')
+
+event_id: s01_e23_c03_u018_e1
+utterance_id: s01_e23_c03_u018
+  tuple: ('be', 'there', 'no father', 's01_e23_c03_u018')
+
+event_id: s01_e23_c03_u020_e1
+utterance_id: s01_e23_c03_u020
+  tuple: ('be', 'that', 'ok', 's01_e23_c03_u020')
+
+event_id: s01_e23_c03_u020_e2
+utterance_id: s01_e23_c03_u020
+  tuple: ('be', 'I/Lydia', 'fine', 's01_e23_c03_u020')
+
+event_id: s01_e23_c03_u021_e1
+utterance_id: s01_e23_c03_u021
+  tuple: ('seem', 'All the other pregnant women', 'going in here', 's01_e23_c03_u021')
+  tuple: ('go', 'All the other pregnant women', 'in here', 's01_e23_c03_u021')
+

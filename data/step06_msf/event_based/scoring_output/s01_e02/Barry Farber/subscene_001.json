@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker initiates and asks how Speaker_01 is doing, but shows no pronounced outgoing or energetic behavior beyond basic interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker invites Speaker_01 into the office, reassures it is fine, and checks on how Speaker_01 is doing—cooperative and considerate tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker notes scheduling details (Speaker_02 will be there for hours) and, upon hearing someone is gagging, promptly states a plan—go immediately and be back in a second—showing efficiency and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "When an urgent issue arises (someone gagging), TargetSpeaker responds calmly and decisively without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, inventiveness, or dogmatism appear in the dialogue."
+  }
+}

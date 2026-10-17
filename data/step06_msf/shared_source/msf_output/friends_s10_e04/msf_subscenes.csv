@@ -1,0 +1,877 @@
+episode_id,scene_id,main_speaker,region_index_for_speaker,peak_region_window_start,peak_region_window_end,expanded_window_start,expanded_window_end,max_count_in_region,subscene_start_uid,subscene_end_uid,subscene_text
+s10_e04,s10_e04_c01,Chandler Bing,0,9,10,8,11,2,s10_e04_c01_u009,s10_e04_c01_u016,"[s10_e04_c01_u009] Ross Geller: No.
+[s10_e04_c01_u010] Rachel Green: No, that day... that won't be her real birthday!
+[s10_e04_c01_u011] Chandler Bing: Gee if only she were one and had no idea what the hell a birthday was!
+[s10_e04_c01_u012] Ross Geller: C'mon you guys, this is really important to us.
+[s10_e04_c01_u013] Monica Geller: Well, I'm sorry, but Chandler and I could really use a weekend away. You know, to reconnect... emotionally.
+[s10_e04_c01_u014] Chandler Bing: There's this thing I really want us to do. I read about it in Maxim...
+[s10_e04_c01_u015] Rachel Green: Well, can't you just go to Vermont the next day?
+[s10_e04_c01_u016] Ross Geller: Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister."
+s10_e04,s10_e04_c01,Monica Geller,0,0,0,0,1,2,s10_e04_c01_u001,s10_e04_c01_u006,"[s10_e04_c01_u001] Monica Geller: Hey guys!
+[s10_e04_c01_u002] Chandler Bing, Rachel Green, Ross Geller: Hey!
+[s10_e04_c01_u003] Chandler Bing: Honey, I got us that room at the Woodford Inn this weekend.
+[s10_e04_c01_u004] Monica Geller: That place in Vermont? You can take a hint!
+[s10_e04_c01_u005] Rachel Green: Wait, you can't go away this weekend! It's Emma's birthday!
+[s10_e04_c01_u006] Ross Geller: Yeah!"
+s10_e04,s10_e04_c01,Monica Geller,1,3,3,2,4,2,s10_e04_c01_u003,s10_e04_c01_u009,"[s10_e04_c01_u003] Chandler Bing: Honey, I got us that room at the Woodford Inn this weekend.
+[s10_e04_c01_u004] Monica Geller: That place in Vermont? You can take a hint!
+[s10_e04_c01_u005] Rachel Green: Wait, you can't go away this weekend! It's Emma's birthday!
+[s10_e04_c01_u006] Ross Geller: Yeah!
+[s10_e04_c01_u007] Rachel Green: We're having a party.
+[s10_e04_c01_u008] Monica Geller: Well, can't you just have the party when we get back?
+[s10_e04_c01_u009] Ross Geller: No."
+s10_e04,s10_e04_c01,Monica Geller,2,15,15,14,15,2,s10_e04_c01_u015,s10_e04_c01_u020,"[s10_e04_c01_u015] Rachel Green: Well, can't you just go to Vermont the next day?
+[s10_e04_c01_u016] Ross Geller: Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister.
+[s10_e04_c01_u017] Rachel Green: And I mean, you know, you guys... This is a big deal. I mean, how can we have her first birthday party without her aunt and her uncle!
+[s10_e04_c01_u018] Monica Geller: All right, we'll stay. We can just drive up after the party.
+[s10_e04_c01_u019] Chandler Bing: Fine, but if we end up not doing this Maxim thing because of this party...
+[s10_e04_c01_u020] Monica Geller: Believe me, that is not why we won't be doing that!"
+s10_e04,s10_e04_c01,Rachel Green,0,2,6,1,7,2,s10_e04_c01_u002,s10_e04_c01_u012,"[s10_e04_c01_u002] Chandler Bing, Rachel Green, Ross Geller: Hey!
+[s10_e04_c01_u003] Chandler Bing: Honey, I got us that room at the Woodford Inn this weekend.
+[s10_e04_c01_u004] Monica Geller: That place in Vermont? You can take a hint!
+[s10_e04_c01_u005] Rachel Green: Wait, you can't go away this weekend! It's Emma's birthday!
+[s10_e04_c01_u006] Ross Geller: Yeah!
+[s10_e04_c01_u007] Rachel Green: We're having a party.
+[s10_e04_c01_u008] Monica Geller: Well, can't you just have the party when we get back?
+[s10_e04_c01_u009] Ross Geller: No.
+[s10_e04_c01_u010] Rachel Green: No, that day... that won't be her real birthday!
+[s10_e04_c01_u011] Chandler Bing: Gee if only she were one and had no idea what the hell a birthday was!
+[s10_e04_c01_u012] Ross Geller: C'mon you guys, this is really important to us."
+s10_e04,s10_e04_c01,Rachel Green,1,12,14,11,15,2,s10_e04_c01_u012,s10_e04_c01_u020,"[s10_e04_c01_u012] Ross Geller: C'mon you guys, this is really important to us.
+[s10_e04_c01_u013] Monica Geller: Well, I'm sorry, but Chandler and I could really use a weekend away. You know, to reconnect... emotionally.
+[s10_e04_c01_u014] Chandler Bing: There's this thing I really want us to do. I read about it in Maxim...
+[s10_e04_c01_u015] Rachel Green: Well, can't you just go to Vermont the next day?
+[s10_e04_c01_u016] Ross Geller: Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister.
+[s10_e04_c01_u017] Rachel Green: And I mean, you know, you guys... This is a big deal. I mean, how can we have her first birthday party without her aunt and her uncle!
+[s10_e04_c01_u018] Monica Geller: All right, we'll stay. We can just drive up after the party.
+[s10_e04_c01_u019] Chandler Bing: Fine, but if we end up not doing this Maxim thing because of this party...
+[s10_e04_c01_u020] Monica Geller: Believe me, that is not why we won't be doing that!"
+s10_e04,s10_e04_c01,Ross Geller,0,4,5,3,6,2,s10_e04_c01_u004,s10_e04_c01_u011,"[s10_e04_c01_u004] Monica Geller: That place in Vermont? You can take a hint!
+[s10_e04_c01_u005] Rachel Green: Wait, you can't go away this weekend! It's Emma's birthday!
+[s10_e04_c01_u006] Ross Geller: Yeah!
+[s10_e04_c01_u007] Rachel Green: We're having a party.
+[s10_e04_c01_u008] Monica Geller: Well, can't you just have the party when we get back?
+[s10_e04_c01_u009] Ross Geller: No.
+[s10_e04_c01_u010] Rachel Green: No, that day... that won't be her real birthday!
+[s10_e04_c01_u011] Chandler Bing: Gee if only she were one and had no idea what the hell a birthday was!"
+s10_e04,s10_e04_c01,Ross Geller,1,7,8,6,9,2,s10_e04_c01_u007,s10_e04_c01_u014,"[s10_e04_c01_u007] Rachel Green: We're having a party.
+[s10_e04_c01_u008] Monica Geller: Well, can't you just have the party when we get back?
+[s10_e04_c01_u009] Ross Geller: No.
+[s10_e04_c01_u010] Rachel Green: No, that day... that won't be her real birthday!
+[s10_e04_c01_u011] Chandler Bing: Gee if only she were one and had no idea what the hell a birthday was!
+[s10_e04_c01_u012] Ross Geller: C'mon you guys, this is really important to us.
+[s10_e04_c01_u013] Monica Geller: Well, I'm sorry, but Chandler and I could really use a weekend away. You know, to reconnect... emotionally.
+[s10_e04_c01_u014] Chandler Bing: There's this thing I really want us to do. I read about it in Maxim..."
+s10_e04,s10_e04_c01,Ross Geller,2,11,11,10,12,2,s10_e04_c01_u011,s10_e04_c01_u017,"[s10_e04_c01_u011] Chandler Bing: Gee if only she were one and had no idea what the hell a birthday was!
+[s10_e04_c01_u012] Ross Geller: C'mon you guys, this is really important to us.
+[s10_e04_c01_u013] Monica Geller: Well, I'm sorry, but Chandler and I could really use a weekend away. You know, to reconnect... emotionally.
+[s10_e04_c01_u014] Chandler Bing: There's this thing I really want us to do. I read about it in Maxim...
+[s10_e04_c01_u015] Rachel Green: Well, can't you just go to Vermont the next day?
+[s10_e04_c01_u016] Ross Geller: Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister.
+[s10_e04_c01_u017] Rachel Green: And I mean, you know, you guys... This is a big deal. I mean, how can we have her first birthday party without her aunt and her uncle!"
+s10_e04,s10_e04_c02,Chandler Bing,0,27,29,26,30,2,s10_e04_c02_u027,s10_e04_c02_u035,"[s10_e04_c02_u027] Phoebe Buffay: Joey, it's a birthday party.
+[s10_e04_c02_u028] Joey Tribbiani: Yeah, but for a one-year-old. What's the point... the other day she laughed for like an hour at a cup. Just a cup with a picture of Elmo on it dressed as a farmer. And he's standing next to this cow and the cow says ""El-moo""! Yeah... that's a funny cup!
+[s10_e04_c02_u029] Monica Geller: Hey!
+[s10_e04_c02_u030] Chandler Bing: Hey hey! Where's the birthday girl?
+[s10_e04_c02_u031] Rachel Green: Oh, she's still napping.
+[s10_e04_c02_u032] Chandler Bing: Oh, sure, she was probably up all night, excited about the party she knows is happening.
+[s10_e04_c02_u033] Rachel Green: Look, I know that you guys really want to get to Vermont and this isn't a really big deal to you, but it really is to us, ok? Emma will never have a first birthday again.
+[s10_e04_c02_u034] Monica Geller: All right... you're right. We're sorry. Now let's wake up Emma and get the fun time started!
+[s10_e04_c02_u035] Rachel Green: No really, she didn't sleep well last night, so we can't wake her up."
+s10_e04,s10_e04_c02,Chandler Bing,1,45,47,44,48,2,s10_e04_c02_u045,s10_e04_c02_u053,"[s10_e04_c02_u045] Joey Tribbiani: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!
+[s10_e04_c02_u046] Jack Geller: Which one are you?
+[s10_e04_c02_u047] Monica Geller: I can't believe Emma is still asleep!
+[s10_e04_c02_u048] Chandler Bing: I know, what are we gonna do?
+[s10_e04_c02_u049] Monica Geller: I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!
+[s10_e04_c02_u050] Chandler Bing: I'm not going to Vermont with this Monica!
+[s10_e04_c02_u051] Joey Tribbiani: Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!
+[s10_e04_c02_u052] Phoebe Buffay: So you're gonna... hit on her?
+[s10_e04_c02_u053] Joey Tribbiani: No, no, no! My talents as an actor!"
+s10_e04,s10_e04_c02,Jack Geller,0,39,39,38,40,2,s10_e04_c02_u039,s10_e04_c02_u045,"[s10_e04_c02_u039] Monica Geller: So glad you came!
+[s10_e04_c02_u040] Jack Geller: I can't believe Emma is already one!
+[s10_e04_c02_u041] Judy Geller: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!
+[s10_e04_c02_u042] Ross Geller: There's something you didn't know about your dad!
+[s10_e04_c02_u043] Joey Tribbiani: Hey Mr. and Mrs. Geller! Let me help you with that.
+[s10_e04_c02_u044] Jack Geller: Thank you!
+[s10_e04_c02_u045] Joey Tribbiani: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!"
+s10_e04,s10_e04_c02,Jack Geller,1,41,43,40,44,2,s10_e04_c02_u041,s10_e04_c02_u049,"[s10_e04_c02_u041] Judy Geller: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!
+[s10_e04_c02_u042] Ross Geller: There's something you didn't know about your dad!
+[s10_e04_c02_u043] Joey Tribbiani: Hey Mr. and Mrs. Geller! Let me help you with that.
+[s10_e04_c02_u044] Jack Geller: Thank you!
+[s10_e04_c02_u045] Joey Tribbiani: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!
+[s10_e04_c02_u046] Jack Geller: Which one are you?
+[s10_e04_c02_u047] Monica Geller: I can't believe Emma is still asleep!
+[s10_e04_c02_u048] Chandler Bing: I know, what are we gonna do?
+[s10_e04_c02_u049] Monica Geller: I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!"
+s10_e04,s10_e04_c02,Joey Tribbiani,0,12,25,11,26,3,s10_e04_c02_u012,s10_e04_c02_u031,"[s10_e04_c02_u012] Ross Geller: Ah, and where is Joey?
+[s10_e04_c02_u013] Rachel Green: I said it's still nap time.
+[s10_e04_c02_u014] Ross Geller: Hey, there is uncle Joey!
+[s10_e04_c02_u015] Joey Tribbiani: Hey!
+[s10_e04_c02_u016] Ross Geller: Hey, say something to Emma on her 18th birthday!
+[s10_e04_c02_u017] Joey Tribbiani: 18, uh?
+[s10_e04_c02_u018] Ross Geller: Joey, NO!
+[s10_e04_c02_u019] Joey Tribbiani: What, what!? it's for her hot friends!
+[s10_e04_c02_u020] Ross Geller: When they see this you'll be 52!
+[s10_e04_c02_u021] Joey Tribbiani: And starting to think about settling down!
+[s10_e04_c02_u022] Rachel Green: Hey Joey, will you please set this up for people to put Emma's presents on?
+[s10_e04_c02_u023] Joey Tribbiani: I'd love to! Yeah!
+[s10_e04_c02_u024] Joey Tribbiani: We were supposed to bring presents?
+[s10_e04_c02_u025] Phoebe Buffay: Yeah! I wrote Emma a song.
+[s10_e04_c02_u026] Joey Tribbiani: Oh, yeah! How was I supposed to know?
+[s10_e04_c02_u027] Phoebe Buffay: Joey, it's a birthday party.
+[s10_e04_c02_u028] Joey Tribbiani: Yeah, but for a one-year-old. What's the point... the other day she laughed for like an hour at a cup. Just a cup with a picture of Elmo on it dressed as a farmer. And he's standing next to this cow and the cow says ""El-moo""! Yeah... that's a funny cup!
+[s10_e04_c02_u029] Monica Geller: Hey!
+[s10_e04_c02_u030] Chandler Bing: Hey hey! Where's the birthday girl?
+[s10_e04_c02_u031] Rachel Green: Oh, she's still napping."
+s10_e04,s10_e04_c02,Joey Tribbiani,1,40,42,39,43,2,s10_e04_c02_u040,s10_e04_c02_u048,"[s10_e04_c02_u040] Jack Geller: I can't believe Emma is already one!
+[s10_e04_c02_u041] Judy Geller: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!
+[s10_e04_c02_u042] Ross Geller: There's something you didn't know about your dad!
+[s10_e04_c02_u043] Joey Tribbiani: Hey Mr. and Mrs. Geller! Let me help you with that.
+[s10_e04_c02_u044] Jack Geller: Thank you!
+[s10_e04_c02_u045] Joey Tribbiani: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!
+[s10_e04_c02_u046] Jack Geller: Which one are you?
+[s10_e04_c02_u047] Monica Geller: I can't believe Emma is still asleep!
+[s10_e04_c02_u048] Chandler Bing: I know, what are we gonna do?"
+s10_e04,s10_e04_c02,Joey Tribbiani,2,48,62,47,63,3,s10_e04_c02_u048,s10_e04_c02_u068,"[s10_e04_c02_u048] Chandler Bing: I know, what are we gonna do?
+[s10_e04_c02_u049] Monica Geller: I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!
+[s10_e04_c02_u050] Chandler Bing: I'm not going to Vermont with this Monica!
+[s10_e04_c02_u051] Joey Tribbiani: Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!
+[s10_e04_c02_u052] Phoebe Buffay: So you're gonna... hit on her?
+[s10_e04_c02_u053] Joey Tribbiani: No, no, no! My talents as an actor!
+[s10_e04_c02_u054] Phoebe Buffay: Oh!
+[s10_e04_c02_u055] Joey Tribbiani: You know, I could like maybe... I could do a dramatic reading of one of her books!
+[s10_e04_c02_u056] Phoebe Buffay: Or you could stick a fork in an apple!
+[s10_e04_c02_u057] Joey Tribbiani: Hey, I think Emma might like it!
+[s10_e04_c02_u058] Rachel Green: Oh! Emma might like what?
+[s10_e04_c02_u059] Joey Tribbiani: Um, my present!
+[s10_e04_c02_u060] Rachel Green: What did you get her?
+[s10_e04_c02_u061] Joey Tribbiani: Actually we prepared performances.
+[s10_e04_c02_u062] Phoebe Buffay: Separate performances.
+[s10_e04_c02_u063] Joey Tribbiani: But equally real!
+[s10_e04_c02_u064] Rachel Green: Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?
+[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!
+[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!"
+s10_e04,s10_e04_c02,Joey Tribbiani,3,65,65,64,66,2,s10_e04_c02_u065,s10_e04_c02_u071,"[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!
+[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?
+[s10_e04_c02_u070] Joey Tribbiani: Hey, I do it every week with three cameras pointed at me and a whole crew waiting!
+[s10_e04_c02_u071] Rachel Green: So, Joey, what are you gonna do for us?"
+s10_e04,s10_e04_c02,Joey Tribbiani,4,67,71,66,72,3,s10_e04_c02_u067,s10_e04_c02_u077,"[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?
+[s10_e04_c02_u070] Joey Tribbiani: Hey, I do it every week with three cameras pointed at me and a whole crew waiting!
+[s10_e04_c02_u071] Rachel Green: So, Joey, what are you gonna do for us?
+[s10_e04_c02_u072] Joey Tribbiani: I will be doing a dramatic reading of one of Emma's books.
+[s10_e04_c02_u073] Rachel Green: Oh, ok, which one?
+[s10_e04_c02_u074] Joey Tribbiani: Uh, why, it's a... one of her favorites, uh, ""Riding the Storm Out. Coping with post-partum depression"" eesh! ""Love you forever"". Love you forever. By Robert Munsch. Published by Firefly books. Printed in Mexico. A mother held her new baby and very slowly rocked him back and forth, back and forth, back and forth, and while she held him she sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"". . And while he rocked her, he sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"".
+[s10_e04_c02_u075] Rachel Green: Wow! That was amazing!
+[s10_e04_c02_u076] Ross Geller: Thank you so much for that gift!
+[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!"
+s10_e04,s10_e04_c02,Monica Geller,0,31,35,30,36,2,s10_e04_c02_u031,s10_e04_c02_u041,"[s10_e04_c02_u031] Rachel Green: Oh, she's still napping.
+[s10_e04_c02_u032] Chandler Bing: Oh, sure, she was probably up all night, excited about the party she knows is happening.
+[s10_e04_c02_u033] Rachel Green: Look, I know that you guys really want to get to Vermont and this isn't a really big deal to you, but it really is to us, ok? Emma will never have a first birthday again.
+[s10_e04_c02_u034] Monica Geller: All right... you're right. We're sorry. Now let's wake up Emma and get the fun time started!
+[s10_e04_c02_u035] Rachel Green: No really, she didn't sleep well last night, so we can't wake her up.
+[s10_e04_c02_u036] Monica Geller: Are you freaking kidding me, Green?
+[s10_e04_c02_u037] Jack Geller, Judy Geller: HI!
+[s10_e04_c02_u038] Ross Geller: Hey!
+[s10_e04_c02_u039] Monica Geller: So glad you came!
+[s10_e04_c02_u040] Jack Geller: I can't believe Emma is already one!
+[s10_e04_c02_u041] Judy Geller: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!"
+s10_e04,s10_e04_c02,Monica Geller,1,44,46,43,47,2,s10_e04_c02_u044,s10_e04_c02_u052,"[s10_e04_c02_u044] Jack Geller: Thank you!
+[s10_e04_c02_u045] Joey Tribbiani: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!
+[s10_e04_c02_u046] Jack Geller: Which one are you?
+[s10_e04_c02_u047] Monica Geller: I can't believe Emma is still asleep!
+[s10_e04_c02_u048] Chandler Bing: I know, what are we gonna do?
+[s10_e04_c02_u049] Monica Geller: I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!
+[s10_e04_c02_u050] Chandler Bing: I'm not going to Vermont with this Monica!
+[s10_e04_c02_u051] Joey Tribbiani: Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!
+[s10_e04_c02_u052] Phoebe Buffay: So you're gonna... hit on her?"
+s10_e04,s10_e04_c02,Phoebe Buffay,0,4,6,3,7,2,s10_e04_c02_u004,s10_e04_c02_u012,"[s10_e04_c02_u004] Phoebe Buffay, Rachel Green: Hi!
+[s10_e04_c02_u005] Ross Geller: Hey, I brought the camera for Emma's video.
+[s10_e04_c02_u006] Rachel Green: Oh, good, good! We had this idea to make a birthday video for Emma and we'll give it to her when she is 18.
+[s10_e04_c02_u007] Phoebe Buffay: Oh, COOL!! Wow, it's like a time capsule!
+[s10_e04_c02_u008] Ross Geller: Yeah!
+[s10_e04_c02_u009] Phoebe Buffay: Oh, just think... she's gonna be watching that video on a TV that hasn't even been invented yet! With friends who right now are just like babies! And they'll be living in a floating city that the humans built to escape the ant people!
+[s10_e04_c02_u010] Ross Geller: That's the hope! So, is Emma awake yet?
+[s10_e04_c02_u011] Rachel Green: Oh no, it's still nap time. But she'll be up soon.
+[s10_e04_c02_u012] Ross Geller: Ah, and where is Joey?"
+s10_e04,s10_e04_c02,Phoebe Buffay,1,22,24,21,25,2,s10_e04_c02_u022,s10_e04_c02_u030,"[s10_e04_c02_u022] Rachel Green: Hey Joey, will you please set this up for people to put Emma's presents on?
+[s10_e04_c02_u023] Joey Tribbiani: I'd love to! Yeah!
+[s10_e04_c02_u024] Joey Tribbiani: We were supposed to bring presents?
+[s10_e04_c02_u025] Phoebe Buffay: Yeah! I wrote Emma a song.
+[s10_e04_c02_u026] Joey Tribbiani: Oh, yeah! How was I supposed to know?
+[s10_e04_c02_u027] Phoebe Buffay: Joey, it's a birthday party.
+[s10_e04_c02_u028] Joey Tribbiani: Yeah, but for a one-year-old. What's the point... the other day she laughed for like an hour at a cup. Just a cup with a picture of Elmo on it dressed as a farmer. And he's standing next to this cow and the cow says ""El-moo""! Yeah... that's a funny cup!
+[s10_e04_c02_u029] Monica Geller: Hey!
+[s10_e04_c02_u030] Chandler Bing: Hey hey! Where's the birthday girl?"
+s10_e04,s10_e04_c02,Phoebe Buffay,2,49,53,48,54,3,s10_e04_c02_u049,s10_e04_c02_u059,"[s10_e04_c02_u049] Monica Geller: I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!
+[s10_e04_c02_u050] Chandler Bing: I'm not going to Vermont with this Monica!
+[s10_e04_c02_u051] Joey Tribbiani: Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!
+[s10_e04_c02_u052] Phoebe Buffay: So you're gonna... hit on her?
+[s10_e04_c02_u053] Joey Tribbiani: No, no, no! My talents as an actor!
+[s10_e04_c02_u054] Phoebe Buffay: Oh!
+[s10_e04_c02_u055] Joey Tribbiani: You know, I could like maybe... I could do a dramatic reading of one of her books!
+[s10_e04_c02_u056] Phoebe Buffay: Or you could stick a fork in an apple!
+[s10_e04_c02_u057] Joey Tribbiani: Hey, I think Emma might like it!
+[s10_e04_c02_u058] Rachel Green: Oh! Emma might like what?
+[s10_e04_c02_u059] Joey Tribbiani: Um, my present!"
+s10_e04,s10_e04_c02,Phoebe Buffay,3,60,61,59,62,2,s10_e04_c02_u060,s10_e04_c02_u067,"[s10_e04_c02_u060] Rachel Green: What did you get her?
+[s10_e04_c02_u061] Joey Tribbiani: Actually we prepared performances.
+[s10_e04_c02_u062] Phoebe Buffay: Separate performances.
+[s10_e04_c02_u063] Joey Tribbiani: But equally real!
+[s10_e04_c02_u064] Rachel Green: Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?
+[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!
+[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us."
+s10_e04,s10_e04_c02,Phoebe Buffay,4,64,64,63,65,2,s10_e04_c02_u064,s10_e04_c02_u070,"[s10_e04_c02_u064] Rachel Green: Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?
+[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!
+[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?
+[s10_e04_c02_u070] Joey Tribbiani: Hey, I do it every week with three cameras pointed at me and a whole crew waiting!"
+s10_e04,s10_e04_c02,Phoebe Buffay,5,77,77,76,77,2,s10_e04_c02_u077,s10_e04_c02_u082,"[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!
+[s10_e04_c02_u078] Ross Geller: Amazing... amazing.
+[s10_e04_c02_u079] Rachel Green: Oh, Phoebe, I'm sorry! Phoebe has prepared something as well.
+[s10_e04_c02_u080] Phoebe Buffay: That's right, I've prepared a song for Emma. From my heart to hers. For there's no greater gift, than the gift of music. Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma! Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy birthday Emma!
+[s10_e04_c02_u081] Rachel Green: Is that it?
+[s10_e04_c02_u082] Phoebe Buffay: No, of course not! I also, you know, prepared a reading . ""Sex and the single mother. Finding your G-spot."
+s10_e04,s10_e04_c02,Rachel Green,0,8,10,7,11,2,s10_e04_c02_u008,s10_e04_c02_u016,"[s10_e04_c02_u008] Ross Geller: Yeah!
+[s10_e04_c02_u009] Phoebe Buffay: Oh, just think... she's gonna be watching that video on a TV that hasn't even been invented yet! With friends who right now are just like babies! And they'll be living in a floating city that the humans built to escape the ant people!
+[s10_e04_c02_u010] Ross Geller: That's the hope! So, is Emma awake yet?
+[s10_e04_c02_u011] Rachel Green: Oh no, it's still nap time. But she'll be up soon.
+[s10_e04_c02_u012] Ross Geller: Ah, and where is Joey?
+[s10_e04_c02_u013] Rachel Green: I said it's still nap time.
+[s10_e04_c02_u014] Ross Geller: Hey, there is uncle Joey!
+[s10_e04_c02_u015] Joey Tribbiani: Hey!
+[s10_e04_c02_u016] Ross Geller: Hey, say something to Emma on her 18th birthday!"
+s10_e04,s10_e04_c02,Rachel Green,1,28,32,27,33,3,s10_e04_c02_u028,s10_e04_c02_u038,"[s10_e04_c02_u028] Joey Tribbiani: Yeah, but for a one-year-old. What's the point... the other day she laughed for like an hour at a cup. Just a cup with a picture of Elmo on it dressed as a farmer. And he's standing next to this cow and the cow says ""El-moo""! Yeah... that's a funny cup!
+[s10_e04_c02_u029] Monica Geller: Hey!
+[s10_e04_c02_u030] Chandler Bing: Hey hey! Where's the birthday girl?
+[s10_e04_c02_u031] Rachel Green: Oh, she's still napping.
+[s10_e04_c02_u032] Chandler Bing: Oh, sure, she was probably up all night, excited about the party she knows is happening.
+[s10_e04_c02_u033] Rachel Green: Look, I know that you guys really want to get to Vermont and this isn't a really big deal to you, but it really is to us, ok? Emma will never have a first birthday again.
+[s10_e04_c02_u034] Monica Geller: All right... you're right. We're sorry. Now let's wake up Emma and get the fun time started!
+[s10_e04_c02_u035] Rachel Green: No really, she didn't sleep well last night, so we can't wake her up.
+[s10_e04_c02_u036] Monica Geller: Are you freaking kidding me, Green?
+[s10_e04_c02_u037] Jack Geller, Judy Geller: HI!
+[s10_e04_c02_u038] Ross Geller: Hey!"
+s10_e04,s10_e04_c02,Rachel Green,2,55,57,54,58,2,s10_e04_c02_u055,s10_e04_c02_u063,"[s10_e04_c02_u055] Joey Tribbiani: You know, I could like maybe... I could do a dramatic reading of one of her books!
+[s10_e04_c02_u056] Phoebe Buffay: Or you could stick a fork in an apple!
+[s10_e04_c02_u057] Joey Tribbiani: Hey, I think Emma might like it!
+[s10_e04_c02_u058] Rachel Green: Oh! Emma might like what?
+[s10_e04_c02_u059] Joey Tribbiani: Um, my present!
+[s10_e04_c02_u060] Rachel Green: What did you get her?
+[s10_e04_c02_u061] Joey Tribbiani: Actually we prepared performances.
+[s10_e04_c02_u062] Phoebe Buffay: Separate performances.
+[s10_e04_c02_u063] Joey Tribbiani: But equally real!"
+s10_e04,s10_e04_c02,Rachel Green,3,59,59,58,60,2,s10_e04_c02_u059,s10_e04_c02_u065,"[s10_e04_c02_u059] Joey Tribbiani: Um, my present!
+[s10_e04_c02_u060] Rachel Green: What did you get her?
+[s10_e04_c02_u061] Joey Tribbiani: Actually we prepared performances.
+[s10_e04_c02_u062] Phoebe Buffay: Separate performances.
+[s10_e04_c02_u063] Joey Tribbiani: But equally real!
+[s10_e04_c02_u064] Rachel Green: Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?
+[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!"
+s10_e04,s10_e04_c02,Rachel Green,4,62,63,61,64,2,s10_e04_c02_u062,s10_e04_c02_u069,"[s10_e04_c02_u062] Phoebe Buffay: Separate performances.
+[s10_e04_c02_u063] Joey Tribbiani: But equally real!
+[s10_e04_c02_u064] Rachel Green: Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?
+[s10_e04_c02_u065] Phoebe Buffay: Sure, yeah!
+[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?"
+s10_e04,s10_e04_c02,Rachel Green,5,66,66,65,67,2,s10_e04_c02_u066,s10_e04_c02_u072,"[s10_e04_c02_u066] Joey Tribbiani: O K.
+[s10_e04_c02_u067] Rachel Green: All right, let's get this party started, huh? Joey and Phoebe are gonna perform a little something for us.
+[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?
+[s10_e04_c02_u070] Joey Tribbiani: Hey, I do it every week with three cameras pointed at me and a whole crew waiting!
+[s10_e04_c02_u071] Rachel Green: So, Joey, what are you gonna do for us?
+[s10_e04_c02_u072] Joey Tribbiani: I will be doing a dramatic reading of one of Emma's books."
+s10_e04,s10_e04_c02,Rachel Green,6,68,72,67,73,3,s10_e04_c02_u068,s10_e04_c02_u078,"[s10_e04_c02_u068] Ross Geller: Oh, great!
+[s10_e04_c02_u069] Phoebe Buffay: Are you gonna be embarrassed going up there having nothing prepared?
+[s10_e04_c02_u070] Joey Tribbiani: Hey, I do it every week with three cameras pointed at me and a whole crew waiting!
+[s10_e04_c02_u071] Rachel Green: So, Joey, what are you gonna do for us?
+[s10_e04_c02_u072] Joey Tribbiani: I will be doing a dramatic reading of one of Emma's books.
+[s10_e04_c02_u073] Rachel Green: Oh, ok, which one?
+[s10_e04_c02_u074] Joey Tribbiani: Uh, why, it's a... one of her favorites, uh, ""Riding the Storm Out. Coping with post-partum depression"" eesh! ""Love you forever"". Love you forever. By Robert Munsch. Published by Firefly books. Printed in Mexico. A mother held her new baby and very slowly rocked him back and forth, back and forth, back and forth, and while she held him she sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"". . And while he rocked her, he sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"".
+[s10_e04_c02_u075] Rachel Green: Wow! That was amazing!
+[s10_e04_c02_u076] Ross Geller: Thank you so much for that gift!
+[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!
+[s10_e04_c02_u078] Ross Geller: Amazing... amazing."
+s10_e04,s10_e04_c02,Rachel Green,7,74,74,73,75,2,s10_e04_c02_u074,s10_e04_c02_u080,"[s10_e04_c02_u074] Joey Tribbiani: Uh, why, it's a... one of her favorites, uh, ""Riding the Storm Out. Coping with post-partum depression"" eesh! ""Love you forever"". Love you forever. By Robert Munsch. Published by Firefly books. Printed in Mexico. A mother held her new baby and very slowly rocked him back and forth, back and forth, back and forth, and while she held him she sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"". . And while he rocked her, he sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"".
+[s10_e04_c02_u075] Rachel Green: Wow! That was amazing!
+[s10_e04_c02_u076] Ross Geller: Thank you so much for that gift!
+[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!
+[s10_e04_c02_u078] Ross Geller: Amazing... amazing.
+[s10_e04_c02_u079] Rachel Green: Oh, Phoebe, I'm sorry! Phoebe has prepared something as well.
+[s10_e04_c02_u080] Phoebe Buffay: That's right, I've prepared a song for Emma. From my heart to hers. For there's no greater gift, than the gift of music. Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma! Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy birthday Emma!"
+s10_e04,s10_e04_c02,Rachel Green,8,76,77,75,77,2,s10_e04_c02_u076,s10_e04_c02_u082,"[s10_e04_c02_u076] Ross Geller: Thank you so much for that gift!
+[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!
+[s10_e04_c02_u078] Ross Geller: Amazing... amazing.
+[s10_e04_c02_u079] Rachel Green: Oh, Phoebe, I'm sorry! Phoebe has prepared something as well.
+[s10_e04_c02_u080] Phoebe Buffay: That's right, I've prepared a song for Emma. From my heart to hers. For there's no greater gift, than the gift of music. Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma! Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy birthday Emma!
+[s10_e04_c02_u081] Rachel Green: Is that it?
+[s10_e04_c02_u082] Phoebe Buffay: No, of course not! I also, you know, prepared a reading . ""Sex and the single mother. Finding your G-spot."
+s10_e04,s10_e04_c02,Ross Geller,0,0,17,0,18,3,s10_e04_c02_u001,s10_e04_c02_u023,"[s10_e04_c02_u001] Rachel Green: You know Pheebs, when I was little, on my birthday, my daddy would hide a present in every room of the house, and then he would draw a treasure map to help me find 'em all.
+[s10_e04_c02_u002] Phoebe Buffay: Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!
+[s10_e04_c02_u003] Ross Geller: Hey guys!
+[s10_e04_c02_u004] Phoebe Buffay, Rachel Green: Hi!
+[s10_e04_c02_u005] Ross Geller: Hey, I brought the camera for Emma's video.
+[s10_e04_c02_u006] Rachel Green: Oh, good, good! We had this idea to make a birthday video for Emma and we'll give it to her when she is 18.
+[s10_e04_c02_u007] Phoebe Buffay: Oh, COOL!! Wow, it's like a time capsule!
+[s10_e04_c02_u008] Ross Geller: Yeah!
+[s10_e04_c02_u009] Phoebe Buffay: Oh, just think... she's gonna be watching that video on a TV that hasn't even been invented yet! With friends who right now are just like babies! And they'll be living in a floating city that the humans built to escape the ant people!
+[s10_e04_c02_u010] Ross Geller: That's the hope! So, is Emma awake yet?
+[s10_e04_c02_u011] Rachel Green: Oh no, it's still nap time. But she'll be up soon.
+[s10_e04_c02_u012] Ross Geller: Ah, and where is Joey?
+[s10_e04_c02_u013] Rachel Green: I said it's still nap time.
+[s10_e04_c02_u014] Ross Geller: Hey, there is uncle Joey!
+[s10_e04_c02_u015] Joey Tribbiani: Hey!
+[s10_e04_c02_u016] Ross Geller: Hey, say something to Emma on her 18th birthday!
+[s10_e04_c02_u017] Joey Tribbiani: 18, uh?
+[s10_e04_c02_u018] Ross Geller: Joey, NO!
+[s10_e04_c02_u019] Joey Tribbiani: What, what!? it's for her hot friends!
+[s10_e04_c02_u020] Ross Geller: When they see this you'll be 52!
+[s10_e04_c02_u021] Joey Tribbiani: And starting to think about settling down!
+[s10_e04_c02_u022] Rachel Green: Hey Joey, will you please set this up for people to put Emma's presents on?
+[s10_e04_c02_u023] Joey Tribbiani: I'd love to! Yeah!"
+s10_e04,s10_e04_c02,Ross Geller,1,37,37,36,38,2,s10_e04_c02_u037,s10_e04_c02_u043,"[s10_e04_c02_u037] Jack Geller, Judy Geller: HI!
+[s10_e04_c02_u038] Ross Geller: Hey!
+[s10_e04_c02_u039] Monica Geller: So glad you came!
+[s10_e04_c02_u040] Jack Geller: I can't believe Emma is already one!
+[s10_e04_c02_u041] Judy Geller: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!
+[s10_e04_c02_u042] Ross Geller: There's something you didn't know about your dad!
+[s10_e04_c02_u043] Joey Tribbiani: Hey Mr. and Mrs. Geller! Let me help you with that."
+s10_e04,s10_e04_c02,Ross Geller,2,73,75,72,76,2,s10_e04_c02_u073,s10_e04_c02_u081,"[s10_e04_c02_u073] Rachel Green: Oh, ok, which one?
+[s10_e04_c02_u074] Joey Tribbiani: Uh, why, it's a... one of her favorites, uh, ""Riding the Storm Out. Coping with post-partum depression"" eesh! ""Love you forever"". Love you forever. By Robert Munsch. Published by Firefly books. Printed in Mexico. A mother held her new baby and very slowly rocked him back and forth, back and forth, back and forth, and while she held him she sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"". . And while he rocked her, he sang ""I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be"".
+[s10_e04_c02_u075] Rachel Green: Wow! That was amazing!
+[s10_e04_c02_u076] Ross Geller: Thank you so much for that gift!
+[s10_e04_c02_u077] Chandler Bing: I was not ready for this today!
+[s10_e04_c02_u078] Ross Geller: Amazing... amazing.
+[s10_e04_c02_u079] Rachel Green: Oh, Phoebe, I'm sorry! Phoebe has prepared something as well.
+[s10_e04_c02_u080] Phoebe Buffay: That's right, I've prepared a song for Emma. From my heart to hers. For there's no greater gift, than the gift of music. Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma! Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy birthday Emma!
+[s10_e04_c02_u081] Rachel Green: Is that it?"
+s10_e04,s10_e04_c03,Chandler Bing,0,28,28,27,29,2,s10_e04_c03_u028,s10_e04_c03_u034,"[s10_e04_c03_u028] Rachel Green: Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!
+[s10_e04_c03_u029] Chandler Bing: To be fair this one does have nuts.
+[s10_e04_c03_u030] Ross Geller: Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake.
+[s10_e04_c03_u031] Monica Geller: Oh. So nice of her to pull my hair, 'till I dropped the key!
+[s10_e04_c03_u032] Ross Geller: Well, you know what? While we're waiting, you guys could tape your message to Emma for her 18th birthday, huh? Ok!
+[s10_e04_c03_u033] Chandler Bing: Hi Emma! It's the year 2020. Are you still enjoying your nap?
+[s10_e04_c03_u034] Monica Geller: We're Aunt Monica and uncle Chandler, by the way. You may not recognize us, because we haven't spoken to your parents in seventeen years!"
+s10_e04,s10_e04_c03,Chandler Bing,1,30,32,29,33,2,s10_e04_c03_u030,s10_e04_c03_u038,"[s10_e04_c03_u030] Ross Geller: Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake.
+[s10_e04_c03_u031] Monica Geller: Oh. So nice of her to pull my hair, 'till I dropped the key!
+[s10_e04_c03_u032] Ross Geller: Well, you know what? While we're waiting, you guys could tape your message to Emma for her 18th birthday, huh? Ok!
+[s10_e04_c03_u033] Chandler Bing: Hi Emma! It's the year 2020. Are you still enjoying your nap?
+[s10_e04_c03_u034] Monica Geller: We're Aunt Monica and uncle Chandler, by the way. You may not recognize us, because we haven't spoken to your parents in seventeen years!
+[s10_e04_c03_u035] Chandler Bing: We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday.
+[s10_e04_c03_u036] Monica Geller: Ross, Rachel promised it would be over by now. We seriously have to go, if we want to get to Vermont. I called them and the last train leaves in a half hour.
+[s10_e04_c03_u037] Phoebe Buffay: And you know, I have a massage client soon.
+[s10_e04_c03_u038] Ross Geller: You guys, just please.. a little bit longer. I promise, Rachel will be back with the cake any minute. Monica, remember.. the frosting? huh?"
+s10_e04,s10_e04_c03,Chandler Bing,2,44,45,43,46,2,s10_e04_c03_u044,s10_e04_c03_u051,"[s10_e04_c03_u044] Monica Geller: No! Wait! If anybody gets to go.. it's us We've been complaining the longest!
+[s10_e04_c03_u045] Ross Geller: No, wait ! You guys, no, no, you can't leave! Rachel already feels bad that the cake's messed up. How do you think she's gonna feel when she comes back here and all you guys are gone?
+[s10_e04_c03_u046] Chandler Bing: I don't know! You'll tell us on Monday!
+[s10_e04_c03_u047] Ross Geller: Joey! You're in charge, ok? You make sure nobody leaves!
+[s10_e04_c03_u048] Joey Tribbiani: Got it! Hey hey hey! Where do you think you're going?
+[s10_e04_c03_u049] Chandler Bing: To the bathroom!
+[s10_e04_c03_u050] Joey Tribbiani: Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li... Wait a minute, there is a window in there!
+[s10_e04_c03_u051] Phoebe Buffay: Oh no! He's not getting away that easy!"
+s10_e04,s10_e04_c03,Chandler Bing,3,47,48,46,49,2,s10_e04_c03_u047,s10_e04_c03_u054,"[s10_e04_c03_u047] Ross Geller: Joey! You're in charge, ok? You make sure nobody leaves!
+[s10_e04_c03_u048] Joey Tribbiani: Got it! Hey hey hey! Where do you think you're going?
+[s10_e04_c03_u049] Chandler Bing: To the bathroom!
+[s10_e04_c03_u050] Joey Tribbiani: Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li... Wait a minute, there is a window in there!
+[s10_e04_c03_u051] Phoebe Buffay: Oh no! He's not getting away that easy!
+[s10_e04_c03_u052] Chandler Bing: What are you doing? Get the hell out of here!
+[s10_e04_c03_u053] Joey Tribbiani: Well, that one did not have Emma's face on it.
+[s10_e04_c03_u054] Phoebe Buffay: No, it did not."
+s10_e04,s10_e04_c03,Chandler Bing,4,87,87,86,88,2,s10_e04_c03_u087,s10_e04_c03_u093,"[s10_e04_c03_u087] Joey Tribbiani: Or.. we could flip a coin, and then multiply the..
+[s10_e04_c03_u088] Chandler Bing: I'm begging you stop.
+[s10_e04_c03_u089] Joey Tribbiani: Right.
+[s10_e04_c03_u090] Monica Geller: Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!
+[s10_e04_c03_u091] Phoebe Buffay: Yeah!! Let's do that!
+[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!
+[s10_e04_c03_u093] Monica Geller: Everybody get your toys!"
+s10_e04,s10_e04_c03,Chandler Bing,5,90,91,89,92,2,s10_e04_c03_u090,s10_e04_c03_u097,"[s10_e04_c03_u090] Monica Geller: Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!
+[s10_e04_c03_u091] Phoebe Buffay: Yeah!! Let's do that!
+[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!
+[s10_e04_c03_u093] Monica Geller: Everybody get your toys!
+[s10_e04_c03_u094] Phoebe Buffay: Ok! I want the dolphin!
+[s10_e04_c03_u095] Chandler Bing: Thats a bear.
+[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!"
+s10_e04,s10_e04_c03,Chandler Bing,6,94,94,93,95,2,s10_e04_c03_u094,s10_e04_c03_u100,"[s10_e04_c03_u094] Phoebe Buffay: Ok! I want the dolphin!
+[s10_e04_c03_u095] Chandler Bing: Thats a bear.
+[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!
+[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!
+[s10_e04_c03_u099] Chandler Bing: Ok, on your mark... Get set... GO!!!
+[s10_e04_c03_u100] Phoebe Buffay: Go! Go!"
+s10_e04,s10_e04_c03,Chandler Bing,7,127,139,126,140,3,s10_e04_c03_u127,s10_e04_c03_u145,"[s10_e04_c03_u127] Rachel Green: Well, I'm very impressed.
+[s10_e04_c03_u128] Ross Geller: Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures.
+[s10_e04_c03_u129] Monica Geller: Now another way to organise your stuffed animals, is by size.
+[s10_e04_c03_u130] Chandler Bing: I'm sorry, is this a game for Emma or for Monica?
+[s10_e04_c03_u131] Monica Geller: Game?
+[s10_e04_c03_u132] Chandler Bing: Emma, you even know it's your birthday today? You're one! One-year-old, that's little.
+[s10_e04_c03_u133] Chandler Bing: Ooh! That's my girl!
+[s10_e04_c03_u134] Monica Geller: That's how old you are.
+[s10_e04_c03_u135] Chandler Bing: Did I teach her that? Did I just... impart wisdom?
+[s10_e04_c03_u136] Monica Geller: Ooh, I want one...
+[s10_e04_c03_u137] Chandler Bing: Me too...
+[s10_e04_c03_u138] Chandler Bing: There's no-one around. Why don't we just take this one?
+[s10_e04_c03_u139] Monica Geller: ...and head to Canada!
+[s10_e04_c03_u140] Chandler Bing: I was kidding.
+[s10_e04_c03_u141] Monica Geller: I wasn't. Let's get going!
+[s10_e04_c03_u142] Phoebe Buffay: Hey, are Ross and Rachel back?
+[s10_e04_c03_u143] Chandler Bing: No, not yet.
+[s10_e04_c03_u144] Phoebe Buffay: Oh good, I didn't miss the party.
+[s10_e04_c03_u145] Monica Geller: What about your massage client?"
+s10_e04,s10_e04_c03,Chandler Bing,8,148,150,147,151,2,s10_e04_c03_u148,s10_e04_c03_u156,"[s10_e04_c03_u148] Joey Tribbiani: I've been here the whole time!
+[s10_e04_c03_u149] Ross Geller: Joey, we just saw you come in. You ran past us on the stairs.
+[s10_e04_c03_u150] Rachel Green: I don't care that you left. I'm just glad that you're here. Thanks you guys!
+[s10_e04_c03_u151] Chandler Bing: Hey, guys! Come on! You gotta see what Emma just did.
+[s10_e04_c03_u152] Rachel Green: What?
+[s10_e04_c03_u153] Chandler Bing: Emma, how old are you? How old are you today?
+[s10_e04_c03_u154] Emma: Wo-ish.
+[s10_e04_c03_u155] Rachel Green: Oh! Emma, that's right! You're that many!
+[s10_e04_c03_u156] Ross Geller: Oh my God! Our daughter's a genius! Rach, this means..."
+s10_e04,s10_e04_c03,Estelle Leonard,0,68,74,67,75,3,s10_e04_c03_u068,s10_e04_c03_u080,"[s10_e04_c03_u068] Chandler Bing: You do know, I can just turn them the other way around, right?
+[s10_e04_c03_u069] Joey Tribbiani: Oh! I forgot you used to live here!
+[s10_e04_c03_u070] Joey Tribbiani: Hello?
+[s10_e04_c03_u071] Estelle Leonard: Joey! It's Estelle!
+[s10_e04_c03_u072] Joey Tribbiani: Hey!
+[s10_e04_c03_u073] Estelle Leonard: So, how did your audition go today?
+[s10_e04_c03_u074] Joey Tribbiani: What audition?
+[s10_e04_c03_u075] Estelle Leonard: The one I told you about last week?
+[s10_e04_c03_u076] Joey Tribbiani: What? You never said anything about an audition!
+[s10_e04_c03_u077] Estelle Leonard: Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.
+[s10_e04_c03_u078] Joey Tribbiani: A monologue? I don't have.. I got it. Aah! so... I'm gonna take off!
+[s10_e04_c03_u079] Phoebe Buffay: Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!
+[s10_e04_c03_u080] Monica Geller: Yeah, and we've paid for a room, that we're supposed to be in right now!"
+s10_e04,s10_e04_c03,Jack Geller,0,0,3,0,4,3,s10_e04_c03_u001,s10_e04_c03_u009,"[s10_e04_c03_u001] Judy Geller: Hello Emma. Happy eighteenth birthday.
+[s10_e04_c03_u002] Jack Geller: Right now that seems so far away, seventeen years.
+[s10_e04_c03_u003] Judy Geller: Yes, you'll be all grown up by then. We'll be... Well your grandfather and I might not be here.
+[s10_e04_c03_u004] Jack Geller: That's true! This message could becoming to you from beyond the grave, Emma!
+[s10_e04_c03_u005] Judy Geller: After all, my parents died very young.
+[s10_e04_c03_u006] Jack Geller: And my cholesterol's off the charts!
+[s10_e04_c03_u007] Judy Geller: Remember, Emma, heart disease kills women too!
+[s10_e04_c03_u008] Ross Geller: Ok, cut! Great. That was... that was just... yeah!
+[s10_e04_c03_u009] Rachel Green: Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge."
+s10_e04,s10_e04_c03,Joey Tribbiani,0,45,52,44,53,2,s10_e04_c03_u045,s10_e04_c03_u058,"[s10_e04_c03_u045] Ross Geller: No, wait ! You guys, no, no, you can't leave! Rachel already feels bad that the cake's messed up. How do you think she's gonna feel when she comes back here and all you guys are gone?
+[s10_e04_c03_u046] Chandler Bing: I don't know! You'll tell us on Monday!
+[s10_e04_c03_u047] Ross Geller: Joey! You're in charge, ok? You make sure nobody leaves!
+[s10_e04_c03_u048] Joey Tribbiani: Got it! Hey hey hey! Where do you think you're going?
+[s10_e04_c03_u049] Chandler Bing: To the bathroom!
+[s10_e04_c03_u050] Joey Tribbiani: Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li... Wait a minute, there is a window in there!
+[s10_e04_c03_u051] Phoebe Buffay: Oh no! He's not getting away that easy!
+[s10_e04_c03_u052] Chandler Bing: What are you doing? Get the hell out of here!
+[s10_e04_c03_u053] Joey Tribbiani: Well, that one did not have Emma's face on it.
+[s10_e04_c03_u054] Phoebe Buffay: No, it did not.
+[s10_e04_c03_u055] Joey Tribbiani: No.
+[s10_e04_c03_u056] Judy Geller: Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane.
+[s10_e04_c03_u057] Jack Geller: Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.
+[s10_e04_c03_u058] Judy Geller: Anyway, it was lovely seeing you."
+s10_e04,s10_e04_c03,Joey Tribbiani,1,54,54,53,55,2,s10_e04_c03_u054,s10_e04_c03_u060,"[s10_e04_c03_u054] Phoebe Buffay: No, it did not.
+[s10_e04_c03_u055] Joey Tribbiani: No.
+[s10_e04_c03_u056] Judy Geller: Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane.
+[s10_e04_c03_u057] Jack Geller: Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.
+[s10_e04_c03_u058] Judy Geller: Anyway, it was lovely seeing you.
+[s10_e04_c03_u059] Joey Tribbiani: Ok!
+[s10_e04_c03_u060] Judy Geller: Bye... Bye dear."
+s10_e04,s10_e04_c03,Joey Tribbiani,2,56,75,55,76,3,s10_e04_c03_u056,s10_e04_c03_u081,"[s10_e04_c03_u056] Judy Geller: Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane.
+[s10_e04_c03_u057] Jack Geller: Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.
+[s10_e04_c03_u058] Judy Geller: Anyway, it was lovely seeing you.
+[s10_e04_c03_u059] Joey Tribbiani: Ok!
+[s10_e04_c03_u060] Judy Geller: Bye... Bye dear.
+[s10_e04_c03_u061] Joey Tribbiani: Nighty-night!
+[s10_e04_c03_u062] Judy Geller: Nighty-night!
+[s10_e04_c03_u063] Joey Tribbiani: Bye, bye.
+[s10_e04_c03_u064] Phoebe Buffay: Joey? How could you just let them leave?
+[s10_e04_c03_u065] Joey Tribbiani: Hey, hey, hey, hey! I'm not gonna mess with Jack, he's a great man, he fought for our country.
+[s10_e04_c03_u066] Monica Geller: No, he didn't! He pretended to be a Quaker to get out of Korea.
+[s10_e04_c03_u067] Joey Tribbiani: Oh! Well that's it! He's the last one to go. I'm locking you guys in.
+[s10_e04_c03_u068] Chandler Bing: You do know, I can just turn them the other way around, right?
+[s10_e04_c03_u069] Joey Tribbiani: Oh! I forgot you used to live here!
+[s10_e04_c03_u070] Joey Tribbiani: Hello?
+[s10_e04_c03_u071] Estelle Leonard: Joey! It's Estelle!
+[s10_e04_c03_u072] Joey Tribbiani: Hey!
+[s10_e04_c03_u073] Estelle Leonard: So, how did your audition go today?
+[s10_e04_c03_u074] Joey Tribbiani: What audition?
+[s10_e04_c03_u075] Estelle Leonard: The one I told you about last week?
+[s10_e04_c03_u076] Joey Tribbiani: What? You never said anything about an audition!
+[s10_e04_c03_u077] Estelle Leonard: Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.
+[s10_e04_c03_u078] Joey Tribbiani: A monologue? I don't have.. I got it. Aah! so... I'm gonna take off!
+[s10_e04_c03_u079] Phoebe Buffay: Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!
+[s10_e04_c03_u080] Monica Geller: Yeah, and we've paid for a room, that we're supposed to be in right now!
+[s10_e04_c03_u081] Phoebe Buffay: Well, oh, ok now... Only one of us has to stay with Emma. Ok, and as the person who realized that, I get to go!"
+s10_e04,s10_e04_c03,Joey Tribbiani,3,80,86,79,87,3,s10_e04_c03_u080,s10_e04_c03_u092,"[s10_e04_c03_u080] Monica Geller: Yeah, and we've paid for a room, that we're supposed to be in right now!
+[s10_e04_c03_u081] Phoebe Buffay: Well, oh, ok now... Only one of us has to stay with Emma. Ok, and as the person who realized that, I get to go!
+[s10_e04_c03_u082] Monica Geller: No! no! Let's figure out a fair way to decide who's staying.
+[s10_e04_c03_u083] Joey Tribbiani: Oh! I got it! Ok, everyone pick a number from one to ten. Alright? Whoever gets the highest number gets to go first.
+[s10_e04_c03_u084] Monica Geller: Ok, ten.
+[s10_e04_c03_u085] Joey Tribbiani: Okay, Monica picks ten, I call nine! Anyone else?
+[s10_e04_c03_u086] Phoebe Buffay: No, lets just draw straws.
+[s10_e04_c03_u087] Joey Tribbiani: Or.. we could flip a coin, and then multiply the..
+[s10_e04_c03_u088] Chandler Bing: I'm begging you stop.
+[s10_e04_c03_u089] Joey Tribbiani: Right.
+[s10_e04_c03_u090] Monica Geller: Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!
+[s10_e04_c03_u091] Phoebe Buffay: Yeah!! Let's do that!
+[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!"
+s10_e04,s10_e04_c03,Joey Tribbiani,4,96,97,95,98,2,s10_e04_c03_u096,s10_e04_c03_u103,"[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!
+[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!
+[s10_e04_c03_u099] Chandler Bing: Ok, on your mark... Get set... GO!!!
+[s10_e04_c03_u100] Phoebe Buffay: Go! Go!
+[s10_e04_c03_u101] Joey Tribbiani: Come on robot!
+[s10_e04_c03_u102] Monica Geller: What are you barking at?
+[s10_e04_c03_u103] Monica Geller: Wha... How the hell is that gonna help?"
+s10_e04,s10_e04_c03,Joey Tribbiani,5,100,100,99,101,2,s10_e04_c03_u100,s10_e04_c03_u106,"[s10_e04_c03_u100] Phoebe Buffay: Go! Go!
+[s10_e04_c03_u101] Joey Tribbiani: Come on robot!
+[s10_e04_c03_u102] Monica Geller: What are you barking at?
+[s10_e04_c03_u103] Monica Geller: Wha... How the hell is that gonna help?
+[s10_e04_c03_u104] Chandler Bing: I bought you. How did I forget that that's all you do?
+[s10_e04_c03_u105] Joey Tribbiani: Way to go robot!
+[s10_e04_c03_u106] Phoebe Buffay: Good job Alan!"
+s10_e04,s10_e04_c03,Joey Tribbiani,6,102,104,101,105,2,s10_e04_c03_u102,s10_e04_c03_u110,"[s10_e04_c03_u102] Monica Geller: What are you barking at?
+[s10_e04_c03_u103] Monica Geller: Wha... How the hell is that gonna help?
+[s10_e04_c03_u104] Chandler Bing: I bought you. How did I forget that that's all you do?
+[s10_e04_c03_u105] Joey Tribbiani: Way to go robot!
+[s10_e04_c03_u106] Phoebe Buffay: Good job Alan!
+[s10_e04_c03_u107] Joey Tribbiani: Hey, good race you guys.
+[s10_e04_c03_u108] Phoebe Buffay: Yeah, see you later!
+[s10_e04_c03_u109] Monica Geller: No! No, no... wait! We didn't lose. The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically...
+[s10_e04_c03_u110] Chandler Bing: They left."
+s10_e04,s10_e04_c03,Joey Tribbiani,7,143,146,142,147,2,s10_e04_c03_u143,s10_e04_c03_u152,"[s10_e04_c03_u143] Chandler Bing: No, not yet.
+[s10_e04_c03_u144] Phoebe Buffay: Oh good, I didn't miss the party.
+[s10_e04_c03_u145] Monica Geller: What about your massage client?
+[s10_e04_c03_u146] Phoebe Buffay: I just felt so bad, missing this. So I just slipped him a little something, you know. As long as I'm back in five or six hours, it will be alright.
+[s10_e04_c03_u147] Joey Tribbiani: Okay, if Ross and Rachel ask, I've been here the whole time. THE WHOLE TIME!
+[s10_e04_c03_u148] Joey Tribbiani: I've been here the whole time!
+[s10_e04_c03_u149] Ross Geller: Joey, we just saw you come in. You ran past us on the stairs.
+[s10_e04_c03_u150] Rachel Green: I don't care that you left. I'm just glad that you're here. Thanks you guys!
+[s10_e04_c03_u151] Chandler Bing: Hey, guys! Come on! You gotta see what Emma just did.
+[s10_e04_c03_u152] Rachel Green: What?"
+s10_e04,s10_e04_c03,Judy Geller,0,0,4,0,5,3,s10_e04_c03_u001,s10_e04_c03_u010,"[s10_e04_c03_u001] Judy Geller: Hello Emma. Happy eighteenth birthday.
+[s10_e04_c03_u002] Jack Geller: Right now that seems so far away, seventeen years.
+[s10_e04_c03_u003] Judy Geller: Yes, you'll be all grown up by then. We'll be... Well your grandfather and I might not be here.
+[s10_e04_c03_u004] Jack Geller: That's true! This message could becoming to you from beyond the grave, Emma!
+[s10_e04_c03_u005] Judy Geller: After all, my parents died very young.
+[s10_e04_c03_u006] Jack Geller: And my cholesterol's off the charts!
+[s10_e04_c03_u007] Judy Geller: Remember, Emma, heart disease kills women too!
+[s10_e04_c03_u008] Ross Geller: Ok, cut! Great. That was... that was just... yeah!
+[s10_e04_c03_u009] Rachel Green: Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge.
+[s10_e04_c03_u010] Ross Geller: Sure."
+s10_e04,s10_e04_c03,Judy Geller,1,53,59,52,60,3,s10_e04_c03_u053,s10_e04_c03_u065,"[s10_e04_c03_u053] Joey Tribbiani: Well, that one did not have Emma's face on it.
+[s10_e04_c03_u054] Phoebe Buffay: No, it did not.
+[s10_e04_c03_u055] Joey Tribbiani: No.
+[s10_e04_c03_u056] Judy Geller: Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane.
+[s10_e04_c03_u057] Jack Geller: Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.
+[s10_e04_c03_u058] Judy Geller: Anyway, it was lovely seeing you.
+[s10_e04_c03_u059] Joey Tribbiani: Ok!
+[s10_e04_c03_u060] Judy Geller: Bye... Bye dear.
+[s10_e04_c03_u061] Joey Tribbiani: Nighty-night!
+[s10_e04_c03_u062] Judy Geller: Nighty-night!
+[s10_e04_c03_u063] Joey Tribbiani: Bye, bye.
+[s10_e04_c03_u064] Phoebe Buffay: Joey? How could you just let them leave?
+[s10_e04_c03_u065] Joey Tribbiani: Hey, hey, hey, hey! I'm not gonna mess with Jack, he's a great man, he fought for our country."
+s10_e04,s10_e04_c03,Monica Geller,0,9,11,8,12,2,s10_e04_c03_u009,s10_e04_c03_u017,"[s10_e04_c03_u009] Rachel Green: Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge.
+[s10_e04_c03_u010] Ross Geller: Sure.
+[s10_e04_c03_u011] Rachel Green: Oh, you're gonna love this cake. I got it from a bakery in New Jersey, Corino's.
+[s10_e04_c03_u012] Monica Geller: Oh my God, that place has the creamiest frosting! I use to hitchhike there when I was a kid.
+[s10_e04_c03_u013] Rachel Green: Well, anyway, they make these great novelty cakes, in all different shapes, and if you give them a photo, they'll copy it in icing!
+[s10_e04_c03_u014] Monica Geller: Oh, did you do a picture of Emma?
+[s10_e04_c03_u015] Rachel Green: Yes! On a cake shaped like a bunny.
+[s10_e04_c03_u016] Ross Geller: Uh, Rach? Does this bakery by any chance also bake erotic cakes? Say for bachelorette parties?
+[s10_e04_c03_u017] Rachel Green: Ross, what are you talking about? oh! Oh my God! They put my baby's face on a penis!"
+s10_e04,s10_e04_c03,Monica Geller,1,29,35,28,36,2,s10_e04_c03_u029,s10_e04_c03_u041,"[s10_e04_c03_u029] Chandler Bing: To be fair this one does have nuts.
+[s10_e04_c03_u030] Ross Geller: Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake.
+[s10_e04_c03_u031] Monica Geller: Oh. So nice of her to pull my hair, 'till I dropped the key!
+[s10_e04_c03_u032] Ross Geller: Well, you know what? While we're waiting, you guys could tape your message to Emma for her 18th birthday, huh? Ok!
+[s10_e04_c03_u033] Chandler Bing: Hi Emma! It's the year 2020. Are you still enjoying your nap?
+[s10_e04_c03_u034] Monica Geller: We're Aunt Monica and uncle Chandler, by the way. You may not recognize us, because we haven't spoken to your parents in seventeen years!
+[s10_e04_c03_u035] Chandler Bing: We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday.
+[s10_e04_c03_u036] Monica Geller: Ross, Rachel promised it would be over by now. We seriously have to go, if we want to get to Vermont. I called them and the last train leaves in a half hour.
+[s10_e04_c03_u037] Phoebe Buffay: And you know, I have a massage client soon.
+[s10_e04_c03_u038] Ross Geller: You guys, just please.. a little bit longer. I promise, Rachel will be back with the cake any minute. Monica, remember.. the frosting? huh?
+[s10_e04_c03_u039] Monica Geller: Alright, 5 more minutes.
+[s10_e04_c03_u040] Ross Geller: Hello? Oh no! What happened? Ok ok, where are you? . Ok, I'll be right there.
+[s10_e04_c03_u041] Chandler Bing: Was that Emma? Is she up?"
+s10_e04,s10_e04_c03,Monica Geller,2,77,81,76,82,3,s10_e04_c03_u077,s10_e04_c03_u087,"[s10_e04_c03_u077] Estelle Leonard: Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.
+[s10_e04_c03_u078] Joey Tribbiani: A monologue? I don't have.. I got it. Aah! so... I'm gonna take off!
+[s10_e04_c03_u079] Phoebe Buffay: Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!
+[s10_e04_c03_u080] Monica Geller: Yeah, and we've paid for a room, that we're supposed to be in right now!
+[s10_e04_c03_u081] Phoebe Buffay: Well, oh, ok now... Only one of us has to stay with Emma. Ok, and as the person who realized that, I get to go!
+[s10_e04_c03_u082] Monica Geller: No! no! Let's figure out a fair way to decide who's staying.
+[s10_e04_c03_u083] Joey Tribbiani: Oh! I got it! Ok, everyone pick a number from one to ten. Alright? Whoever gets the highest number gets to go first.
+[s10_e04_c03_u084] Monica Geller: Ok, ten.
+[s10_e04_c03_u085] Joey Tribbiani: Okay, Monica picks ten, I call nine! Anyone else?
+[s10_e04_c03_u086] Phoebe Buffay: No, lets just draw straws.
+[s10_e04_c03_u087] Joey Tribbiani: Or.. we could flip a coin, and then multiply the.."
+s10_e04,s10_e04_c03,Monica Geller,3,88,89,87,90,2,s10_e04_c03_u088,s10_e04_c03_u095,"[s10_e04_c03_u088] Chandler Bing: I'm begging you stop.
+[s10_e04_c03_u089] Joey Tribbiani: Right.
+[s10_e04_c03_u090] Monica Geller: Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!
+[s10_e04_c03_u091] Phoebe Buffay: Yeah!! Let's do that!
+[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!
+[s10_e04_c03_u093] Monica Geller: Everybody get your toys!
+[s10_e04_c03_u094] Phoebe Buffay: Ok! I want the dolphin!
+[s10_e04_c03_u095] Chandler Bing: Thats a bear."
+s10_e04,s10_e04_c03,Monica Geller,4,92,92,91,93,2,s10_e04_c03_u092,s10_e04_c03_u098,"[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!
+[s10_e04_c03_u093] Monica Geller: Everybody get your toys!
+[s10_e04_c03_u094] Phoebe Buffay: Ok! I want the dolphin!
+[s10_e04_c03_u095] Chandler Bing: Thats a bear.
+[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!
+[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!"
+s10_e04,s10_e04_c03,Monica Geller,5,98,101,97,102,2,s10_e04_c03_u098,s10_e04_c03_u107,"[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!
+[s10_e04_c03_u099] Chandler Bing: Ok, on your mark... Get set... GO!!!
+[s10_e04_c03_u100] Phoebe Buffay: Go! Go!
+[s10_e04_c03_u101] Joey Tribbiani: Come on robot!
+[s10_e04_c03_u102] Monica Geller: What are you barking at?
+[s10_e04_c03_u103] Monica Geller: Wha... How the hell is that gonna help?
+[s10_e04_c03_u104] Chandler Bing: I bought you. How did I forget that that's all you do?
+[s10_e04_c03_u105] Joey Tribbiani: Way to go robot!
+[s10_e04_c03_u106] Phoebe Buffay: Good job Alan!
+[s10_e04_c03_u107] Joey Tribbiani: Hey, good race you guys."
+s10_e04,s10_e04_c03,Monica Geller,6,126,138,125,139,2,s10_e04_c03_u126,s10_e04_c03_u144,"[s10_e04_c03_u126] Ross Geller: Well, I just made these two things uhm... cheeks. And then I split this to make ears.
+[s10_e04_c03_u127] Rachel Green: Well, I'm very impressed.
+[s10_e04_c03_u128] Ross Geller: Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures.
+[s10_e04_c03_u129] Monica Geller: Now another way to organise your stuffed animals, is by size.
+[s10_e04_c03_u130] Chandler Bing: I'm sorry, is this a game for Emma or for Monica?
+[s10_e04_c03_u131] Monica Geller: Game?
+[s10_e04_c03_u132] Chandler Bing: Emma, you even know it's your birthday today? You're one! One-year-old, that's little.
+[s10_e04_c03_u133] Chandler Bing: Ooh! That's my girl!
+[s10_e04_c03_u134] Monica Geller: That's how old you are.
+[s10_e04_c03_u135] Chandler Bing: Did I teach her that? Did I just... impart wisdom?
+[s10_e04_c03_u136] Monica Geller: Ooh, I want one...
+[s10_e04_c03_u137] Chandler Bing: Me too...
+[s10_e04_c03_u138] Chandler Bing: There's no-one around. Why don't we just take this one?
+[s10_e04_c03_u139] Monica Geller: ...and head to Canada!
+[s10_e04_c03_u140] Chandler Bing: I was kidding.
+[s10_e04_c03_u141] Monica Geller: I wasn't. Let's get going!
+[s10_e04_c03_u142] Phoebe Buffay: Hey, are Ross and Rachel back?
+[s10_e04_c03_u143] Chandler Bing: No, not yet.
+[s10_e04_c03_u144] Phoebe Buffay: Oh good, I didn't miss the party."
+s10_e04,s10_e04_c03,Monica Geller,7,140,140,139,141,2,s10_e04_c03_u140,s10_e04_c03_u146,"[s10_e04_c03_u140] Chandler Bing: I was kidding.
+[s10_e04_c03_u141] Monica Geller: I wasn't. Let's get going!
+[s10_e04_c03_u142] Phoebe Buffay: Hey, are Ross and Rachel back?
+[s10_e04_c03_u143] Chandler Bing: No, not yet.
+[s10_e04_c03_u144] Phoebe Buffay: Oh good, I didn't miss the party.
+[s10_e04_c03_u145] Monica Geller: What about your massage client?
+[s10_e04_c03_u146] Phoebe Buffay: I just felt so bad, missing this. So I just slipped him a little something, you know. As long as I'm back in five or six hours, it will be alright."
+s10_e04,s10_e04_c03,Phoebe Buffay,0,49,50,48,51,2,s10_e04_c03_u049,s10_e04_c03_u056,"[s10_e04_c03_u049] Chandler Bing: To the bathroom!
+[s10_e04_c03_u050] Joey Tribbiani: Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li... Wait a minute, there is a window in there!
+[s10_e04_c03_u051] Phoebe Buffay: Oh no! He's not getting away that easy!
+[s10_e04_c03_u052] Chandler Bing: What are you doing? Get the hell out of here!
+[s10_e04_c03_u053] Joey Tribbiani: Well, that one did not have Emma's face on it.
+[s10_e04_c03_u054] Phoebe Buffay: No, it did not.
+[s10_e04_c03_u055] Joey Tribbiani: No.
+[s10_e04_c03_u056] Judy Geller: Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane."
+s10_e04,s10_e04_c03,Phoebe Buffay,1,76,78,75,79,2,s10_e04_c03_u076,s10_e04_c03_u084,"[s10_e04_c03_u076] Joey Tribbiani: What? You never said anything about an audition!
+[s10_e04_c03_u077] Estelle Leonard: Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.
+[s10_e04_c03_u078] Joey Tribbiani: A monologue? I don't have.. I got it. Aah! so... I'm gonna take off!
+[s10_e04_c03_u079] Phoebe Buffay: Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!
+[s10_e04_c03_u080] Monica Geller: Yeah, and we've paid for a room, that we're supposed to be in right now!
+[s10_e04_c03_u081] Phoebe Buffay: Well, oh, ok now... Only one of us has to stay with Emma. Ok, and as the person who realized that, I get to go!
+[s10_e04_c03_u082] Monica Geller: No! no! Let's figure out a fair way to decide who's staying.
+[s10_e04_c03_u083] Joey Tribbiani: Oh! I got it! Ok, everyone pick a number from one to ten. Alright? Whoever gets the highest number gets to go first.
+[s10_e04_c03_u084] Monica Geller: Ok, ten."
+s10_e04,s10_e04_c03,Phoebe Buffay,2,89,93,88,94,2,s10_e04_c03_u089,s10_e04_c03_u099,"[s10_e04_c03_u089] Joey Tribbiani: Right.
+[s10_e04_c03_u090] Monica Geller: Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!
+[s10_e04_c03_u091] Phoebe Buffay: Yeah!! Let's do that!
+[s10_e04_c03_u092] Chandler Bing: That sounds more fun than the thing we were going to do in Vermont!
+[s10_e04_c03_u093] Monica Geller: Everybody get your toys!
+[s10_e04_c03_u094] Phoebe Buffay: Ok! I want the dolphin!
+[s10_e04_c03_u095] Chandler Bing: Thats a bear.
+[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!
+[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!
+[s10_e04_c03_u099] Chandler Bing: Ok, on your mark... Get set... GO!!!"
+s10_e04,s10_e04_c03,Phoebe Buffay,3,95,95,94,96,2,s10_e04_c03_u095,s10_e04_c03_u101,"[s10_e04_c03_u095] Chandler Bing: Thats a bear.
+[s10_e04_c03_u096] Phoebe Buffay: I'm too excited!
+[s10_e04_c03_u097] Monica Geller: Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go from here to here. Now the one who comes in last, stays!
+[s10_e04_c03_u098] Joey Tribbiani: Ok, ladies and gentlemen, wind your toys!
+[s10_e04_c03_u099] Chandler Bing: Ok, on your mark... Get set... GO!!!
+[s10_e04_c03_u100] Phoebe Buffay: Go! Go!
+[s10_e04_c03_u101] Joey Tribbiani: Come on robot!"
+s10_e04,s10_e04_c03,Phoebe Buffay,4,103,105,102,106,2,s10_e04_c03_u103,s10_e04_c03_u111,"[s10_e04_c03_u103] Monica Geller: Wha... How the hell is that gonna help?
+[s10_e04_c03_u104] Chandler Bing: I bought you. How did I forget that that's all you do?
+[s10_e04_c03_u105] Joey Tribbiani: Way to go robot!
+[s10_e04_c03_u106] Phoebe Buffay: Good job Alan!
+[s10_e04_c03_u107] Joey Tribbiani: Hey, good race you guys.
+[s10_e04_c03_u108] Phoebe Buffay: Yeah, see you later!
+[s10_e04_c03_u109] Monica Geller: No! No, no... wait! We didn't lose. The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically...
+[s10_e04_c03_u110] Chandler Bing: They left.
+[s10_e04_c03_u111] Rachel Green: No, there isn't time to go to the bakery. We're just gonna come home... Everybody left? Alright, well just tell Emma we're gonna be there as soon as we can. Bye..."
+s10_e04,s10_e04_c03,Phoebe Buffay,5,139,143,138,144,3,s10_e04_c03_u139,s10_e04_c03_u149,"[s10_e04_c03_u139] Monica Geller: ...and head to Canada!
+[s10_e04_c03_u140] Chandler Bing: I was kidding.
+[s10_e04_c03_u141] Monica Geller: I wasn't. Let's get going!
+[s10_e04_c03_u142] Phoebe Buffay: Hey, are Ross and Rachel back?
+[s10_e04_c03_u143] Chandler Bing: No, not yet.
+[s10_e04_c03_u144] Phoebe Buffay: Oh good, I didn't miss the party.
+[s10_e04_c03_u145] Monica Geller: What about your massage client?
+[s10_e04_c03_u146] Phoebe Buffay: I just felt so bad, missing this. So I just slipped him a little something, you know. As long as I'm back in five or six hours, it will be alright.
+[s10_e04_c03_u147] Joey Tribbiani: Okay, if Ross and Rachel ask, I've been here the whole time. THE WHOLE TIME!
+[s10_e04_c03_u148] Joey Tribbiani: I've been here the whole time!
+[s10_e04_c03_u149] Ross Geller: Joey, we just saw you come in. You ran past us on the stairs."
+s10_e04,s10_e04_c03,Rachel Green,0,6,16,5,17,3,s10_e04_c03_u006,s10_e04_c03_u022,"[s10_e04_c03_u006] Jack Geller: And my cholesterol's off the charts!
+[s10_e04_c03_u007] Judy Geller: Remember, Emma, heart disease kills women too!
+[s10_e04_c03_u008] Ross Geller: Ok, cut! Great. That was... that was just... yeah!
+[s10_e04_c03_u009] Rachel Green: Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge.
+[s10_e04_c03_u010] Ross Geller: Sure.
+[s10_e04_c03_u011] Rachel Green: Oh, you're gonna love this cake. I got it from a bakery in New Jersey, Corino's.
+[s10_e04_c03_u012] Monica Geller: Oh my God, that place has the creamiest frosting! I use to hitchhike there when I was a kid.
+[s10_e04_c03_u013] Rachel Green: Well, anyway, they make these great novelty cakes, in all different shapes, and if you give them a photo, they'll copy it in icing!
+[s10_e04_c03_u014] Monica Geller: Oh, did you do a picture of Emma?
+[s10_e04_c03_u015] Rachel Green: Yes! On a cake shaped like a bunny.
+[s10_e04_c03_u016] Ross Geller: Uh, Rach? Does this bakery by any chance also bake erotic cakes? Say for bachelorette parties?
+[s10_e04_c03_u017] Rachel Green: Ross, what are you talking about? oh! Oh my God! They put my baby's face on a penis!
+[s10_e04_c03_u018] Phoebe Buffay: oh! Now it's a party!
+[s10_e04_c03_u019] Rachel Green: Why you guys this isn't funny, all right? If I wanted this cake to be a disaster I would have baked it myself!
+[s10_e04_c03_u020] Joey Tribbiani: Uh.. is it ok that I still think it looks delicious?
+[s10_e04_c03_u021] Judy Geller: Jack, look at this.
+[s10_e04_c03_u022] Jack Geller: I know what you're thinking Judy, the resemblance is uncanny!"
+s10_e04,s10_e04_c03,Rachel Green,1,21,25,20,26,3,s10_e04_c03_u021,s10_e04_c03_u031,"[s10_e04_c03_u021] Judy Geller: Jack, look at this.
+[s10_e04_c03_u022] Jack Geller: I know what you're thinking Judy, the resemblance is uncanny!
+[s10_e04_c03_u023] Ross Geller: I am this close to tugging on my testicles again.
+[s10_e04_c03_u024] Rachel Green: No, no, this is not what I ordered. Ok? I went all the way to New Jersey so that I could have the perfect cake for my daughter's birthday and I need a bunny cake, right now!
+[s10_e04_c03_u025] Ross Geller: Ask them if it would be faster if we cut the baby's face off the penis, so we can put it on the bunny. . That is a weird sentence!
+[s10_e04_c03_u026] Rachel Green: Oh! Believe you me! I am going to bring this cake back, I don't even want it in my home... Joey, don't touch it!!
+[s10_e04_c03_u027] Joey Tribbiani: I'm so confused!
+[s10_e04_c03_u028] Rachel Green: Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!
+[s10_e04_c03_u029] Chandler Bing: To be fair this one does have nuts.
+[s10_e04_c03_u030] Ross Geller: Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake.
+[s10_e04_c03_u031] Monica Geller: Oh. So nice of her to pull my hair, 'till I dropped the key!"
+s10_e04,s10_e04_c03,Rachel Green,2,108,124,107,125,3,s10_e04_c03_u108,s10_e04_c03_u130,"[s10_e04_c03_u108] Phoebe Buffay: Yeah, see you later!
+[s10_e04_c03_u109] Monica Geller: No! No, no... wait! We didn't lose. The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically...
+[s10_e04_c03_u110] Chandler Bing: They left.
+[s10_e04_c03_u111] Rachel Green: No, there isn't time to go to the bakery. We're just gonna come home... Everybody left? Alright, well just tell Emma we're gonna be there as soon as we can. Bye...
+[s10_e04_c03_u112] Ross Geller: RACHEL!
+[s10_e04_c03_u113] Rachel Green: OOH! God! Sorry!
+[s10_e04_c03_u114] Ross Geller: I can't believe they gave you a ticket. You're such a good driver.
+[s10_e04_c03_u115] Rachel Green: Emma's awake.
+[s10_e04_c03_u116] Ross Geller: Yeah?
+[s10_e04_c03_u117] Rachel Green: I can't believe this. This is her first birthday. She's awake. We're not even there. Everybody left. We still have this stupid obscene cake.
+[s10_e04_c03_u118] Ross Geller: Hey, maybe I can fix that, you know. Try to turn it into something else.
+[s10_e04_c03_u119] Rachel Green: Oh, why do you even bother? I already ruined her first birthday... And do you know how important these early experiences are Ross? Very! According to the back cover of that book that you gave me.
+[s10_e04_c03_u120] Ross Geller: Rach, she's not going to remember this.
+[s10_e04_c03_u121] Rachel Green: I guess... Oh, I just had such an idea of what this day would be like, you know? Emma laughing and everybody gathered around her cake singing ""Happy Birthday"". Then we would all go into... HEY GET OUT OF THE ROAD YOU STUPID STUDENT DRIVER!!! They have to learn!
+[s10_e04_c03_u122] Ross Geller: Hey!
+[s10_e04_c03_u123] Rachel Green: What?
+[s10_e04_c03_u124] Ross Geller: It's not bad.
+[s10_e04_c03_u125] Rachel Green: Oh my God! Look what... you made it into a bunny. How did you do that?
+[s10_e04_c03_u126] Ross Geller: Well, I just made these two things uhm... cheeks. And then I split this to make ears.
+[s10_e04_c03_u127] Rachel Green: Well, I'm very impressed.
+[s10_e04_c03_u128] Ross Geller: Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures.
+[s10_e04_c03_u129] Monica Geller: Now another way to organise your stuffed animals, is by size.
+[s10_e04_c03_u130] Chandler Bing: I'm sorry, is this a game for Emma or for Monica?"
+s10_e04,s10_e04_c03,Rachel Green,3,147,156,146,157,3,s10_e04_c03_u147,s10_e04_c03_u162,"[s10_e04_c03_u147] Joey Tribbiani: Okay, if Ross and Rachel ask, I've been here the whole time. THE WHOLE TIME!
+[s10_e04_c03_u148] Joey Tribbiani: I've been here the whole time!
+[s10_e04_c03_u149] Ross Geller: Joey, we just saw you come in. You ran past us on the stairs.
+[s10_e04_c03_u150] Rachel Green: I don't care that you left. I'm just glad that you're here. Thanks you guys!
+[s10_e04_c03_u151] Chandler Bing: Hey, guys! Come on! You gotta see what Emma just did.
+[s10_e04_c03_u152] Rachel Green: What?
+[s10_e04_c03_u153] Chandler Bing: Emma, how old are you? How old are you today?
+[s10_e04_c03_u154] Emma: Wo-ish.
+[s10_e04_c03_u155] Rachel Green: Oh! Emma, that's right! You're that many!
+[s10_e04_c03_u156] Ross Geller: Oh my God! Our daughter's a genius! Rach, this means...
+[s10_e04_c03_u157] Rachel Green: NO, no science camp!
+[s10_e04_c03_u158] Ross Geller: Damnit! I'll put a candle on the cake.
+[s10_e04_c03_u159] Rachel Green: Oh!... Oh and Emma, look at your stuffed animals lined up so neatly!
+[s10_e04_c03_u160] Monica Geller: Thanks!
+[s10_e04_c03_u161] Ross Geller: Okay, here we go! Emma's first birthday cake... Well hey... well, blow out the candle. Come on Emma.
+[s10_e04_c03_u162] Chandler Bing: Let's do it, come on!"
+s10_e04,s10_e04_c03,Ross Geller,0,5,7,4,8,2,s10_e04_c03_u005,s10_e04_c03_u013,"[s10_e04_c03_u005] Judy Geller: After all, my parents died very young.
+[s10_e04_c03_u006] Jack Geller: And my cholesterol's off the charts!
+[s10_e04_c03_u007] Judy Geller: Remember, Emma, heart disease kills women too!
+[s10_e04_c03_u008] Ross Geller: Ok, cut! Great. That was... that was just... yeah!
+[s10_e04_c03_u009] Rachel Green: Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge.
+[s10_e04_c03_u010] Ross Geller: Sure.
+[s10_e04_c03_u011] Rachel Green: Oh, you're gonna love this cake. I got it from a bakery in New Jersey, Corino's.
+[s10_e04_c03_u012] Monica Geller: Oh my God, that place has the creamiest frosting! I use to hitchhike there when I was a kid.
+[s10_e04_c03_u013] Rachel Green: Well, anyway, they make these great novelty cakes, in all different shapes, and if you give them a photo, they'll copy it in icing!"
+s10_e04,s10_e04_c03,Ross Geller,1,20,22,19,23,2,s10_e04_c03_u020,s10_e04_c03_u028,"[s10_e04_c03_u020] Joey Tribbiani: Uh.. is it ok that I still think it looks delicious?
+[s10_e04_c03_u021] Judy Geller: Jack, look at this.
+[s10_e04_c03_u022] Jack Geller: I know what you're thinking Judy, the resemblance is uncanny!
+[s10_e04_c03_u023] Ross Geller: I am this close to tugging on my testicles again.
+[s10_e04_c03_u024] Rachel Green: No, no, this is not what I ordered. Ok? I went all the way to New Jersey so that I could have the perfect cake for my daughter's birthday and I need a bunny cake, right now!
+[s10_e04_c03_u025] Ross Geller: Ask them if it would be faster if we cut the baby's face off the penis, so we can put it on the bunny. . That is a weird sentence!
+[s10_e04_c03_u026] Rachel Green: Oh! Believe you me! I am going to bring this cake back, I don't even want it in my home... Joey, don't touch it!!
+[s10_e04_c03_u027] Joey Tribbiani: I'm so confused!
+[s10_e04_c03_u028] Rachel Green: Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!"
+s10_e04,s10_e04_c03,Ross Geller,2,27,29,26,30,2,s10_e04_c03_u027,s10_e04_c03_u035,"[s10_e04_c03_u027] Joey Tribbiani: I'm so confused!
+[s10_e04_c03_u028] Rachel Green: Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!
+[s10_e04_c03_u029] Chandler Bing: To be fair this one does have nuts.
+[s10_e04_c03_u030] Ross Geller: Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake.
+[s10_e04_c03_u031] Monica Geller: Oh. So nice of her to pull my hair, 'till I dropped the key!
+[s10_e04_c03_u032] Ross Geller: Well, you know what? While we're waiting, you guys could tape your message to Emma for her 18th birthday, huh? Ok!
+[s10_e04_c03_u033] Chandler Bing: Hi Emma! It's the year 2020. Are you still enjoying your nap?
+[s10_e04_c03_u034] Monica Geller: We're Aunt Monica and uncle Chandler, by the way. You may not recognize us, because we haven't spoken to your parents in seventeen years!
+[s10_e04_c03_u035] Chandler Bing: We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday."
+s10_e04,s10_e04_c03,Ross Geller,3,35,44,34,45,3,s10_e04_c03_u035,s10_e04_c03_u050,"[s10_e04_c03_u035] Chandler Bing: We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday.
+[s10_e04_c03_u036] Monica Geller: Ross, Rachel promised it would be over by now. We seriously have to go, if we want to get to Vermont. I called them and the last train leaves in a half hour.
+[s10_e04_c03_u037] Phoebe Buffay: And you know, I have a massage client soon.
+[s10_e04_c03_u038] Ross Geller: You guys, just please.. a little bit longer. I promise, Rachel will be back with the cake any minute. Monica, remember.. the frosting? huh?
+[s10_e04_c03_u039] Monica Geller: Alright, 5 more minutes.
+[s10_e04_c03_u040] Ross Geller: Hello? Oh no! What happened? Ok ok, where are you? . Ok, I'll be right there.
+[s10_e04_c03_u041] Chandler Bing: Was that Emma? Is she up?
+[s10_e04_c03_u042] Ross Geller: No, Rachel got pulled over for speeding. She forgot her licence so now I have to bring it to her.
+[s10_e04_c03_u043] Phoebe Buffay: Well, if you're leaving, I'm definitely gonna go.
+[s10_e04_c03_u044] Monica Geller: No! Wait! If anybody gets to go.. it's us We've been complaining the longest!
+[s10_e04_c03_u045] Ross Geller: No, wait ! You guys, no, no, you can't leave! Rachel already feels bad that the cake's messed up. How do you think she's gonna feel when she comes back here and all you guys are gone?
+[s10_e04_c03_u046] Chandler Bing: I don't know! You'll tell us on Monday!
+[s10_e04_c03_u047] Ross Geller: Joey! You're in charge, ok? You make sure nobody leaves!
+[s10_e04_c03_u048] Joey Tribbiani: Got it! Hey hey hey! Where do you think you're going?
+[s10_e04_c03_u049] Chandler Bing: To the bathroom!
+[s10_e04_c03_u050] Joey Tribbiani: Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li... Wait a minute, there is a window in there!"
+s10_e04,s10_e04_c03,Ross Geller,4,109,125,108,126,3,s10_e04_c03_u109,s10_e04_c03_u131,"[s10_e04_c03_u109] Monica Geller: No! No, no... wait! We didn't lose. The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically...
+[s10_e04_c03_u110] Chandler Bing: They left.
+[s10_e04_c03_u111] Rachel Green: No, there isn't time to go to the bakery. We're just gonna come home... Everybody left? Alright, well just tell Emma we're gonna be there as soon as we can. Bye...
+[s10_e04_c03_u112] Ross Geller: RACHEL!
+[s10_e04_c03_u113] Rachel Green: OOH! God! Sorry!
+[s10_e04_c03_u114] Ross Geller: I can't believe they gave you a ticket. You're such a good driver.
+[s10_e04_c03_u115] Rachel Green: Emma's awake.
+[s10_e04_c03_u116] Ross Geller: Yeah?
+[s10_e04_c03_u117] Rachel Green: I can't believe this. This is her first birthday. She's awake. We're not even there. Everybody left. We still have this stupid obscene cake.
+[s10_e04_c03_u118] Ross Geller: Hey, maybe I can fix that, you know. Try to turn it into something else.
+[s10_e04_c03_u119] Rachel Green: Oh, why do you even bother? I already ruined her first birthday... And do you know how important these early experiences are Ross? Very! According to the back cover of that book that you gave me.
+[s10_e04_c03_u120] Ross Geller: Rach, she's not going to remember this.
+[s10_e04_c03_u121] Rachel Green: I guess... Oh, I just had such an idea of what this day would be like, you know? Emma laughing and everybody gathered around her cake singing ""Happy Birthday"". Then we would all go into... HEY GET OUT OF THE ROAD YOU STUPID STUDENT DRIVER!!! They have to learn!
+[s10_e04_c03_u122] Ross Geller: Hey!
+[s10_e04_c03_u123] Rachel Green: What?
+[s10_e04_c03_u124] Ross Geller: It's not bad.
+[s10_e04_c03_u125] Rachel Green: Oh my God! Look what... you made it into a bunny. How did you do that?
+[s10_e04_c03_u126] Ross Geller: Well, I just made these two things uhm... cheeks. And then I split this to make ears.
+[s10_e04_c03_u127] Rachel Green: Well, I'm very impressed.
+[s10_e04_c03_u128] Ross Geller: Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures.
+[s10_e04_c03_u129] Monica Geller: Now another way to organise your stuffed animals, is by size.
+[s10_e04_c03_u130] Chandler Bing: I'm sorry, is this a game for Emma or for Monica?
+[s10_e04_c03_u131] Monica Geller: Game?"
+s10_e04,s10_e04_c03,Ross Geller,5,153,160,152,161,2,s10_e04_c03_u153,s10_e04_c03_u166,"[s10_e04_c03_u153] Chandler Bing: Emma, how old are you? How old are you today?
+[s10_e04_c03_u154] Emma: Wo-ish.
+[s10_e04_c03_u155] Rachel Green: Oh! Emma, that's right! You're that many!
+[s10_e04_c03_u156] Ross Geller: Oh my God! Our daughter's a genius! Rach, this means...
+[s10_e04_c03_u157] Rachel Green: NO, no science camp!
+[s10_e04_c03_u158] Ross Geller: Damnit! I'll put a candle on the cake.
+[s10_e04_c03_u159] Rachel Green: Oh!... Oh and Emma, look at your stuffed animals lined up so neatly!
+[s10_e04_c03_u160] Monica Geller: Thanks!
+[s10_e04_c03_u161] Ross Geller: Okay, here we go! Emma's first birthday cake... Well hey... well, blow out the candle. Come on Emma.
+[s10_e04_c03_u162] Chandler Bing: Let's do it, come on!
+[s10_e04_c03_u163] Ross Geller: What's wrong? Are you okay?
+[s10_e04_c03_u164] Rachel Green: Oh yeah, nothing! These are happy tears! This is just what I wanted.
+[s10_e04_c03_u165] Phoebe Buffay: Hey, you made it into a bunny.
+[s10_e04_c03_u166] Joey Tribbiani: What is wrong with me. It looked more delicious when it was a penis."
+s10_e04,s10_e04_c04,Rachel Green,0,0,1,0,1,3,s10_e04_c04_u001,s10_e04_c04_u006,"[s10_e04_c04_u001] Rachel Green: Okay.
+[s10_e04_c04_u002] Ross Geller: Okay, you ready?
+[s10_e04_c04_u003] Rachel Green: Yeah.
+[s10_e04_c04_u004] Ross Geller: A-a-and... record.
+[s10_e04_c04_u005] Rachel Green: Okay. Hi Emma. Well, your first birthday is over, and it was really...
+[s10_e04_c04_u006] Phoebe Buffay: Go, go, go Alan! Run you, hairy bastard! end."
+s10_e04,s10_e04_c04,Ross Geller,0,0,1,0,1,2,s10_e04_c04_u001,s10_e04_c04_u006,"[s10_e04_c04_u001] Rachel Green: Okay.
+[s10_e04_c04_u002] Ross Geller: Okay, you ready?
+[s10_e04_c04_u003] Rachel Green: Yeah.
+[s10_e04_c04_u004] Ross Geller: A-a-and... record.
+[s10_e04_c04_u005] Rachel Green: Okay. Hi Emma. Well, your first birthday is over, and it was really...
+[s10_e04_c04_u006] Phoebe Buffay: Go, go, go Alan! Run you, hairy bastard! end."

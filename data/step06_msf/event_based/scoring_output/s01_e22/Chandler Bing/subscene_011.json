@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "He enthusiastically discusses karaoke and performing a duet with Speaker_02, and wants to be friends with his employees (u001, u004; u009)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He is described as a caring boss trying to be one of the employees, and he explicitly says he wants to be friends with them (u004; u009)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Speaker_01 says he is seen as the boss who hires and fires and that employees say he is a great boss, indicating effectiveness and responsibility (u006)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "He shows brief surprise and seeks reassurance (\"What?\", asking if they really say he’s a great boss) but no clear signs of anxiety or insecurity (u003; u007)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He embraces new experiences by enjoying and performing at karaoke and by pursuing a nontraditional, friendly approach to boss-employee relations (u001, u004; u009)."
+  }
+}

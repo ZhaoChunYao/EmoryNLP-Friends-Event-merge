@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talks to many people, announces getting a job, greets a new acquaintance, asks several questions, and even prompts someone to “say something funny,” showing outgoing, energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely asks to be excused, greets someone he just met, and asks how another person’s wife is doing, showing consideration and straightforward warmth."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Explains a practical plan to stay in the city with Speaker_01 instead of commuting back and forth on the ferry, indicating organized, efficient planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently to the group, makes direct requests and inquiries, and shows no signs of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of imaginative or unconventional thinking; interactions are routine social exchanges."
+  }
+}

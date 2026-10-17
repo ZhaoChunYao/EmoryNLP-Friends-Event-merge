@@ -1,0 +1,104 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e01_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e01_c06_u001_e1",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'so sorry', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e2",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', 'you probably think that this is all about what I said the other day about you making love with your socks on', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e3",
+          "tuples": [
+            "('think', 'you/(Barry Finkel)', 'that this is all about what I said the other day about you making love with your socks on', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e4",
+          "tuples": [
+            "('be', 'this', 'all about what I said the other day about you making love with your socks on', 's01_e01_c06_u001')",
+            "('be', 'this', 'about what I said the other day', 's01_e01_c06_u001')",
+            "('be', 'this', 'about you making love with your socks on', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e5",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', 'what', 's01_e01_c06_u001')",
+            "('say', 'I/(Rachel Green)', 'about you making love with your socks on', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e6",
+          "tuples": [
+            "('make', 'you/(Barry Finkel)', 'love', 's01_e01_c06_u001')",
+            "('make love', 'you/(Barry Finkel)', 'with your socks on', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e7",
+          "tuples": [
+            "('be', 'it', None, 's01_e01_c06_u001')",
+            "('be', 'it', 'about me', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e8",
+          "tuples": [
+            "('cut', 'machine', 'off me', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e9",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', 'that some girl is going to be incredibly lucky to become Mrs. Barry Finkel', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e10",
+          "tuples": [
+            "('be', 'some girl', 'incredibly lucky to become Mrs. Barry Finkel', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e11",
+          "tuples": [
+            "('become', 'some girl', 'Mrs. Barry Finkel', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e12",
+          "tuples": [
+            "('be', 'it', 'me', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e13",
+          "tuples": [
+            "('have', 'I/(Rachel Green)', 'any idea who me is right now', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e14",
+          "tuples": [
+            "('be', 'me/(Rachel Green)', 'who me is right now', 's01_e01_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e01_c06_u001_e15",
+          "tuples": [
+            "('give', 'you/(Barry Finkel)', 'me a chance too', 's01_e01_c06_u001')"
+          ]
+        }
+      ]
+    }
+  ]
+}

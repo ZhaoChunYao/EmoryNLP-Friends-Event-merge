@@ -1,0 +1,67 @@
+event_id: s01_e04_c03_u001_e1
+utterance_id: s01_e04_c03_u001
+  tuple: ('pass', 'Poulet', 'it', 's01_e04_c03_u001')
+  tuple: ('pass', 'Poulet', 'up to Leetch', 's01_e04_c03_u001')
+
+event_id: s01_e04_c03_u002_e1
+utterance_id: s01_e04_c03_u002
+  tuple: ('spot', 'Leetch', 'Messier', 's01_e04_c03_u002')
+  tuple: ('spot', 'Leetch', 'in the crease', 's01_e04_c03_u002')
+
+event_id: s01_e04_c03_u002_e2
+utterance_id: s01_e04_c03_u002
+  tuple: ('be', 'there', 'the pass', 's01_e04_c03_u002')
+
+event_id: s01_e04_c03_u003_e1
+utterance_id: s01_e04_c03_u003
+  tuple: ('take', 'we/(Chandler Bing and Joey Tribbiani)', 'a brief time out', 's01_e04_c03_u003')
+
+event_id: s01_e04_c03_u003_e2
+utterance_id: s01_e04_c03_u003
+  tuple: ('stop', 'Messier', None, 's01_e04_c03_u003')
+  tuple: ('look', 'Messier', None, 's01_e04_c03_u003')
+  tuple: ('look', 'Messier', "at some women's shoes", 's01_e04_c03_u003')
+
+event_id: s01_e04_c03_u004_e1
+utterance_id: s01_e04_c03_u004
+  tuple: ('wear', 'Carol', 'boots', 's01_e04_c03_u004')
+
+event_id: s01_e04_c03_u004_e2
+utterance_id: s01_e04_c03_u004
+  tuple: ('take off', 'she/Carol', 'them', 's01_e04_c03_u004')
+
+event_id: s01_e04_c03_u009_e1
+utterance_id: s01_e04_c03_u009
+  tuple: ('have', 'we/(Ross Geller and Carol)', None, 's01_e04_c03_u009')
+
+event_id: s01_e04_c03_u012_e1
+utterance_id: s01_e04_c03_u012
+  tuple: ('be', 'it/(the fruit)', 'a peach', 's01_e04_c03_u012')
+
+event_id: s01_e04_c03_u013_e1
+utterance_id: s01_e04_c03_u013
+  tuple: ('get dressed', 'we/(Ross Geller and Carol)', None, 's01_e04_c03_u013')
+
+event_id: s01_e04_c03_u013_e2
+utterance_id: s01_e04_c03_u013
+  tuple: ('walk', 'I/Ross Geller', 'her', 's01_e04_c03_u013')
+  tuple: ('walk', 'I/Ross Geller', 'to the bus stop', 's01_e04_c03_u013')
+
+event_id: s01_e04_c03_u013_e3
+utterance_id: s01_e04_c03_u013
+  tuple: ('be', 'I/Ross Geller', 'fine', 's01_e04_c03_u013')
+
+event_id: s01_e04_c03_u014_e1
+utterance_id: s01_e04_c03_u014
+  tuple: ('get', 'that woman', 'an ass', 's01_e04_c03_u014')
+  tuple: ('get', 'that woman', "like Carol's", 's01_e04_c03_u014')
+
+event_id: s01_e04_c03_u014_e2
+utterance_id: s01_e04_c03_u014
+  tuple: ('think', 'I/Joey Tribbiani', 'we were trying to find stuff', 's01_e04_c03_u014')
+
+event_id: s01_e04_c03_u014_e3
+utterance_id: s01_e04_c03_u014
+  tuple: ('try', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'find stuff', 's01_e04_c03_u014')
+  tuple: ('find', 'we/(Joey Tribbiani, Chandler Bing, Ross Geller)', 'stuff', 's01_e04_c03_u014')
+

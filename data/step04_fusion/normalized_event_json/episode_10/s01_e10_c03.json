@@ -1,0 +1,370 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e10_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u001_e1",
+          "tuples": [
+            "('come', 'Marcel', 'here', 's01_e10_c03_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u001_e2",
+          "tuples": [
+            "('sit', 'Marcel', 'here', 's01_e10_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u002_e1",
+          "tuples": [
+            "('believe', 'I/Rachel Green', \"he hasn't kissed you yet\", 's01_e10_c03_u002')",
+            "('kiss', 'he/David', 'you', 's01_e10_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u002_e2",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'God', 's01_e10_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u002_e3",
+          "tuples": [
+            "('name', 'he/Paolo', 'both my breasts', 's01_e10_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u002_e4",
+          "tuples": [
+            "('share', 'I/Rachel Green', 'too much', 's01_e10_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u004_e1",
+          "tuples": [
+            "('be', 'David', 'like Scientist Guy', 's01_e10_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u004_e2",
+          "tuples": [
+            "('be', 'he/David', 'very methodical', 's01_e10_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u005",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u005_e1",
+          "tuples": [
+            "('think', 'I/Monica Geller', \"it's romantic\", 's01_e10_c03_u005')",
+            "('be', 'it/(situation)', 'romantic', 's01_e10_c03_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u006",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u006_e1",
+          "tuples": [
+            "('see', 'you/Rachel Green', 'An Officer and a Gentleman', 's01_e10_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u008_e1",
+          "tuples": [
+            "('be', 'he/David', 'like the guy I went to see that with', 's01_e10_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u008_e2",
+          "tuples": [
+            "('go', 'I/Phoebe Buffay', None, 's01_e10_c03_u008')",
+            "('see', 'I/Phoebe Buffay', 'that', 's01_e10_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u008_e3",
+          "tuples": [
+            "('be', 'he/David', 'smarter, gentler, and sweeter', 's01_e10_c03_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u008_e4",
+          "tuples": [
+            "('want', 'I/Phoebe Buffay', 'be with him all the time', 's01_e10_c03_u008')",
+            "('be', 'I/Phoebe Buffay', 'with him', 's01_e10_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u009",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u009_e1",
+          "tuples": [
+            "('see', 'I/Chandler Bing', 'where this is going', 's01_e10_c03_u009')",
+            "('go', 'this/(conversation)', 'where', 's01_e10_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u009_e2",
+          "tuples": [
+            "('ask', 'you/Phoebe Buffay', \"him to New Year's\", 's01_e10_c03_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u009_e3",
+          "tuples": [
+            "('break', 'you/Phoebe Buffay', 'the pact', 's01_e10_c03_u009')",
+            "('break', 'she/Phoebe Buffay', 'the pact', 's01_e10_c03_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u011",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u011_e1",
+          "tuples": [
+            "('ask', 'I/Chandler Bing', 'Janice', 's01_e10_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u013",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u013_e1",
+          "tuples": [
+            "('be', \"this/(New Year's pact)\", 'a pact', 's01_e10_c03_u013')",
+            "('be', \"this/(New Year's pact)\", 'your pact', 's01_e10_c03_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u014",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u014_e1",
+          "tuples": [
+            "('snap', 'I/Chandler Bing', None, 's01_e10_c03_u014')",
+            "('snap', 'I/Chandler Bing', None, 's01_e10_c03_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u014_e2",
+          "tuples": [
+            "('handle', 'I/Chandler Bing', 'the pressure', 's01_e10_c03_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u015",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u015_e1",
+          "tuples": [
+            "('be', 'that/(breakup with Janice)', 'like the worst breakup in history', 's01_e10_c03_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u016",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u016_e1",
+          "tuples": [
+            "('say', 'I/Chandler Bing', 'it was a good idea', 's01_e10_c03_u016')",
+            "('be', 'it/(asking Janice)', 'a good idea', 's01_e10_c03_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u016_e2",
+          "tuples": [
+            "('say', 'I/Chandler Bing', 'I snapped', 's01_e10_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u018",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u018_e1",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', 'late', 's01_e10_c03_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u020",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u020_e1",
+          "tuples": [
+            "('mock', 'I/Chandler Bing', 'Joey', 's01_e10_c03_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u022",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u022_e1",
+          "tuples": [
+            "('kill', 'you/Joey Tribbiani', 'me', 's01_e10_c03_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u024",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u024_e1",
+          "tuples": [
+            "('play', 'he/Marcel', 'with my spatulas', 's01_e10_c03_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u025",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u025_e1",
+          "tuples": [
+            "('look', 'you/Monica Geller', None, 's01_e10_c03_u025')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u025_e2",
+          "tuples": [
+            "('hurt', 'he/Marcel', 'them', 's01_e10_c03_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u026",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u026_e1",
+          "tuples": [
+            "('bring', 'you/Ross Geller', 'him here', 's01_e10_c03_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u027",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u027_e1",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'leave him alone', 's01_e10_c03_u027')",
+            "('leave', 'I/Ross Geller', 'him', 's01_e10_c03_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u027_e2",
+          "tuples": [
+            "('have', 'we/(Ross Geller and Marcel)', 'our first fight', 's01_e10_c03_u027')",
+            "('think', 'I/Ross Geller', 'it has to do with my working late', 's01_e10_c03_u027')",
+            "('have', 'it/(our first fight)', 'to do with my working late', 's01_e10_c03_u027')",
+            "('say', 'I/Ross Geller', 'some things', 's01_e10_c03_u027')",
+            "('mean', 'I/Ross Geller', None, 's01_e10_c03_u027')",
+            "('throw', 'he/Marcel', 'some faeces', 's01_e10_c03_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u028",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u028_e1",
+          "tuples": [
+            "('work', 'you/Ross Geller', 'late', 's01_e10_c03_u028')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u028_e2",
+          "tuples": [
+            "('look', 'I/Chandler Bing', 'in on him for you', 's01_e10_c03_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u029",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u029_e1",
+          "tuples": [
+            "('be', 'that/(offer to look in on him)', 'great', 's01_e10_c03_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u029_e2",
+          "tuples": [
+            "('do', 'you/Chandler Bing', None, 's01_e10_c03_u029')",
+            "('make', 'you/Chandler Bing', \"sure it seems like you're there to see him and you're not like doing it as a favour to me\", 's01_e10_c03_u029')",
+            "('seem', 'it/(the visit)', \"like you're there to see him\", 's01_e10_c03_u029')",
+            "('be', 'you/Chandler Bing', 'there', 's01_e10_c03_u029')",
+            "('see', 'you/Chandler Bing', 'him', 's01_e10_c03_u029')",
+            "('do', 'you/Chandler Bing', 'it', 's01_e10_c03_u029')",
+            "('do', 'you/Chandler Bing', 'as a favour', 's01_e10_c03_u029')",
+            "('do', 'you/Chandler Bing', 'to me', 's01_e10_c03_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e10_c03_u030",
+      "events": [
+        {
+          "event_id": "s01_e10_c03_u030_e1",
+          "tuples": [
+            "('ask', 'he/Marcel', None, 's01_e10_c03_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e10_c03_u030_e2",
+          "tuples": [
+            "('lie', 'I/Chandler Bing', None, 's01_e10_c03_u030')"
+          ]
+        }
+      ]
+    }
+  ]
+}

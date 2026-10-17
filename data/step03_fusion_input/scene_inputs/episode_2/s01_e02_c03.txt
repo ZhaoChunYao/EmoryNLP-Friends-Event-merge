@@ -1,0 +1,294 @@
+('think', 'I/(Chandler Bing)', "this is the episode of Three's Company where there's some kind of misunderstanding", 's01_e02_c03_u001')
+[s01_e02_c03_u001] Chandler Bing: Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.
+
+('be', 'this/(episode)', "the episode of Three's Company", 's01_e02_c03_u001')
+[s01_e02_c03_u001] Chandler Bing: Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.
+
+('be', 'there/(existential)', 'some kind of misunderstanding', 's01_e02_c03_u001')
+[s01_e02_c03_u001] Chandler Bing: Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.
+
+('see', 'I/(Phoebe Buffay)', 'this one', 's01_e02_c03_u002')
+[s01_e02_c03_u002] Phoebe Buffay: ...Then I've already seen this one!
+
+('be', 'you/(Joey Tribbiani)', 'through with that', 's01_e02_c03_u003')
+[s01_e02_c03_u003] Monica Geller: Are you through with that?
+
+('slow', 'the swallowing', 'me', 's01_e02_c03_u004')
+[s01_e02_c03_u004] Joey Tribbiani: Yeah, sorry, the swallowing slowed me down.
+
+('be', 'this/(ball of paper)', 'whose little ball of paper', 's01_e02_c03_u005')
+[s01_e02_c03_u005] Monica Geller: Whose little ball of paper is this?!
+
+('be', 'that/(ball of paper)', 'mine', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('write', 'I/(Chandler Bing)', 'a note', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('write', 'I/(Chandler Bing)', 'to myself', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('realize', 'I/(Chandler Bing)', "I didn't need it", 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('need', 'I/(Chandler Bing)', 'it', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('ball', 'I/(Chandler Bing)', 'it', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('wish', 'I/(Chandler Bing)', 'I was dead', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('be', 'I/(Chandler Bing)', 'dead', 's01_e02_c03_u006')
+[s01_e02_c03_u006] Chandler Bing: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.
+
+('fluff', 'she/(Monica Geller)', 'that pillow', 's01_e02_c03_u008')
+[s01_e02_c03_u008] Phoebe Buffay: She's already fluffed that pillow... Monica, you know, you've already fluffed that- -but, it's fine!
+
+('know', 'you/(Monica Geller)', None, 's01_e02_c03_u008')
+[s01_e02_c03_u008] Phoebe Buffay: She's already fluffed that pillow... Monica, you know, you've already fluffed that- -but, it's fine!
+
+('fluff', 'you/(Monica Geller)', 'that', 's01_e02_c03_u008')
+[s01_e02_c03_u008] Phoebe Buffay: She's already fluffed that pillow... Monica, you know, you've already fluffed that- -but, it's fine!
+
+('be', 'it/(situation)', 'fine', 's01_e02_c03_u008')
+[s01_e02_c03_u008] Phoebe Buffay: She's already fluffed that pillow... Monica, you know, you've already fluffed that- -but, it's fine!
+
+('be', 'I/(Monica Geller)', 'sorry', 's01_e02_c03_u009')
+[s01_e02_c03_u009] Monica Geller: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+
+('want', 'I/(Monica Geller)', 'to give them any more ammunition than they already have', 's01_e02_c03_u009')
+[s01_e02_c03_u009] Monica Geller: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+
+('give', 'I/(Monica Geller)', 'them any more ammunition', 's01_e02_c03_u009')
+[s01_e02_c03_u009] Monica Geller: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+
+('have', "they/(Monica's parents)", 'ammunition', 's01_e02_c03_u009')
+[s01_e02_c03_u009] Monica Geller: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+
+('know', 'we all/(group of friends)', "how cruel a parent can be about the flatness of a child's pillow", 's01_e02_c03_u010')
+[s01_e02_c03_u010] Chandler Bing: Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.
+
+('be', 'a parent', 'cruel', 's01_e02_c03_u010')
+[s01_e02_c03_u010] Chandler Bing: Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.
+
+('be', 'a parent', "about the flatness of a child's pillow", 's01_e02_c03_u010')
+[s01_e02_c03_u010] Chandler Bing: Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.
+
+('scare', 'you/(Monica Geller)', 'me', 's01_e02_c03_u011')
+[s01_e02_c03_u011] Phoebe Buffay: Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.
+
+('be', 'you/(Monica Geller)', 'like all chaotic and twirly', 's01_e02_c03_u011')
+[s01_e02_c03_u011] Phoebe Buffay: Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.
+
+('calm', 'you/(Monica Geller)', 'down', 's01_e02_c03_u012')
+[s01_e02_c03_u012] Joey Tribbiani: Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.
+
+('see', 'you/(Monica Geller)', 'Ross getting all chaotic and twirly every time they come', 's01_e02_c03_u012')
+[s01_e02_c03_u012] Joey Tribbiani: Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.
+
+('get', 'Ross Geller', 'all chaotic and twirly', 's01_e02_c03_u012')
+[s01_e02_c03_u012] Joey Tribbiani: Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.
+
+('come', "they/(Monica and Ross's parents)", None, 's01_e02_c03_u012')
+[s01_e02_c03_u012] Joey Tribbiani: Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.
+
+('be', 'my parents/(Monica Geller)', 'concerned', 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('do', 'Ross Geller', 'no wrong', 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('be', 'he/(Ross Geller)', 'the Prince', 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('have', "they/(Monica's parents)", 'some big ceremony', 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('be born', 'I/(Monica Geller)', None, 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('have', "they/(Monica's parents)", 'before I was born', 's01_e02_c03_u013')
+[s01_e02_c03_u013] Monica Geller: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+
+('get', 'Ugly Naked Guy', 'a Thighmaster', 's01_e02_c03_u016')
+[s01_e02_c03_u016] Chandler Bing: Ugly Naked Guy got a Thighmaster!
+
+('see', 'anybody', 'my engagement ring', 's01_e02_c03_u019')
+[s01_e02_c03_u019] Rachel Green: Has anybody seen my engagement ring?
+
+('be', "it/(Rachel's engagement ring)", 'beautiful', 's01_e02_c03_u020')
+[s01_e02_c03_u020] Phoebe Buffay: Yeah, it's beautiful.
+
+('touch', 'you/(Rachel Green)', 'that', 's01_e02_c03_u022')
+[s01_e02_c03_u022] Phoebe Buffay: No, look, don't touch that!
+
+('dread', 'I/(Rachel Green)', 'tomorrow', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('give', 'I/(Rachel Green)', 'it back to him', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('remember', 'you/(Barry)', 'me', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('be', 'I/(Rachel Green)', 'the girl in the veil who stomped on your heart in front of your entire family', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('stomp', 'I/(Rachel Green)', 'on your heart', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('stomp', 'I/(Rachel Green)', 'in front of your entire family', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('return', 'I/(Rachel Green)', 'the ring', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('make', 'which/(without the ring)', 'it so much harder', 's01_e02_c03_u023')
+[s01_e02_c03_u023] Rachel Green: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+
+('find', 'we/(friends in apartment)', 'it', 's01_e02_c03_u024')
+[s01_e02_c03_u024] Monica Geller: Easy Rach, we'll find it. Won't we!
+
+('have', 'you/(Rachel Green)', 'it', 's01_e02_c03_u026')
+[s01_e02_c03_u026] Joey Tribbiani: Alright, when'd'ya have it on last?
+
+('have', 'you/(Rachel Green)', 'on it', 's01_e02_c03_u026')
+[s01_e02_c03_u026] Joey Tribbiani: Alright, when'd'ya have it on last?
+
+('lose', 'she/(Rachel Green)', 'it', 's01_e02_c03_u027')
+[s01_e02_c03_u027] Phoebe Buffay: Doy! Probably right before she lost it!
+
+('get', 'you/(people in general)', "a lot of 'doy'", 's01_e02_c03_u028')
+[s01_e02_c03_u028] Chandler Bing: You don't get a lot of 'doy' these days...
+
+('know', 'I/(Rachel Green)', 'I had it this morning', 's01_e02_c03_u029')
+[s01_e02_c03_u029] Rachel Green: I know I had it this morning, and I know I had it when I was in the kitchen with...
+
+('have', 'I/(Rachel Green)', 'it', 's01_e02_c03_u029')
+[s01_e02_c03_u029] Rachel Green: I know I had it this morning, and I know I had it when I was in the kitchen with...
+
+('know', 'I/(Rachel Green)', 'I had it when I was in the kitchen with...', 's01_e02_c03_u029')
+[s01_e02_c03_u029] Rachel Green: I know I had it this morning, and I know I had it when I was in the kitchen with...
+
+('be', 'I/(Rachel Green)', 'in the kitchen with...', 's01_e02_c03_u029')
+[s01_e02_c03_u029] Rachel Green: I know I had it this morning, and I know I had it when I was in the kitchen with...
+
+('be', 'you/(Monica Geller)', 'mad', 's01_e02_c03_u031')
+[s01_e02_c03_u031] Rachel Green: Ohhhhh, don't be mad...
+
+('do', 'you/(Rachel Green)', None, 's01_e02_c03_u032')
+[s01_e02_c03_u032] Monica Geller: You didn't.
+
+('be', 'I/(Rachel Green)', 'sorry', 's01_e02_c03_u033')
+[s01_e02_c03_u033] Rachel Green: Oh, I am sorry...
+
+('give', 'I/(Monica Geller)', 'you one job', 's01_e02_c03_u034')
+[s01_e02_c03_u034] Monica Geller: I gave you one job!
+
+('be', 'those noodles', 'straight', 's01_e02_c03_u035')
+[s01_e02_c03_u035] Rachel Green: Oh, but look how straight those noodles are!
+
+('know', 'you/(Monica Geller)', 'that is not how you look for an engagement ring in a lasagne', 's01_e02_c03_u036')
+[s01_e02_c03_u036] Chandler Bing: Now, Monica, you know that's not how you look for an engagement ring in a lasagne...
+
+('be', "that/(Monica's method)", 'not how you look for an engagement ring in a lasagne', 's01_e02_c03_u036')
+[s01_e02_c03_u036] Chandler Bing: Now, Monica, you know that's not how you look for an engagement ring in a lasagne...
+
+('look', 'you/(generic person)', 'for an engagement ring', 's01_e02_c03_u036')
+[s01_e02_c03_u036] Chandler Bing: Now, Monica, you know that's not how you look for an engagement ring in a lasagne...
+
+('look', 'you/(generic person)', 'in a lasagne', 's01_e02_c03_u036')
+[s01_e02_c03_u036] Chandler Bing: Now, Monica, you know that's not how you look for an engagement ring in a lasagne...
+
+('do', 'I/(Monica Geller)', 'it', 's01_e02_c03_u037')
+[s01_e02_c03_u037] Monica Geller: I just... can't do it.
+
+('go', 'we/(Chandler Bing and Joey Tribbiani)', 'in', 's01_e02_c03_u038')
+[s01_e02_c03_u038] Chandler Bing: Boys? We're going in.
+
+('be', "that/(Ross's hi)", 'not a happy hi', 's01_e02_c03_u041')
+[s01_e02_c03_u041] Monica Geller: Wow. That is not a happy hi.
+
+('be', 'Carol', 'pregnant', 's01_e02_c03_u042')
+[s01_e02_c03_u042] Ross Geller: Carol's pregnant.
+
+('find', 'I/(Phoebe Buffay)', 'it', 's01_e02_c03_u043')
+[s01_e02_c03_u043] Phoebe Buffay: Ooh! I found it!
+
+('do', 'you/(Monica Geller)', 'that', 's01_e02_c03_u045')
+[s01_e02_c03_u045] Ross Geller: Yeah. Do that for another two hours, you might be where I am right about now.
+
+('do', 'you/(Monica Geller)', 'for another two hours', 's01_e02_c03_u045')
+[s01_e02_c03_u045] Ross Geller: Yeah. Do that for another two hours, you might be where I am right about now.
+
+('be', 'you/(Monica Geller)', 'where I am right about now', 's01_e02_c03_u045')
+[s01_e02_c03_u045] Ross Geller: Yeah. Do that for another two hours, you might be where I am right about now.
+
+('be', 'I/(Ross Geller)', 'right about now', 's01_e02_c03_u045')
+[s01_e02_c03_u045] Ross Geller: Yeah. Do that for another two hours, you might be where I am right about now.
+
+('put', "it/(Carol's pregnancy)", 'that whole pillow thing', 's01_e02_c03_u046')
+[s01_e02_c03_u046] Chandler Bing: Kinda puts that whole pillow thing in perspective, huh, Mon?
+
+('put', "it/(Carol's pregnancy)", 'in perspective', 's01_e02_c03_u046')
+[s01_e02_c03_u046] Chandler Bing: Kinda puts that whole pillow thing in perspective, huh, Mon?
+
+('fit', 'you/(Ross Geller)', 'into this whole thing', 's01_e02_c03_u047')
+[s01_e02_c03_u047] Rachel Green: Well now, how-how do you fit into this whole thing?
+
+('say', 'Carol', 'she and Susan want me to be involved', 's01_e02_c03_u048')
+[s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+
+('want', 'she and Susan', 'me to be involved', 's01_e02_c03_u048')
+[s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+
+('be involved', 'I/(Ross Geller)', None, 's01_e02_c03_u048')
+[s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+
+('be', 'I/(Ross Geller)', 'comfortable with it', 's01_e02_c03_u048')
+[s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+
+('be', 'it/(decision about involvement)', 'entirely up to me', 's01_e02_c03_u048')
+[s01_e02_c03_u048] Ross Geller: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+
+('be', 'she/(Carol)', 'so great', 's01_e02_c03_u049')
+[s01_e02_c03_u049] Phoebe Buffay: She is so great! I miss her.
+
+('miss', 'I/(Phoebe Buffay)', 'her', 's01_e02_c03_u049')
+[s01_e02_c03_u049] Phoebe Buffay: She is so great! I miss her.
+
+('mean', 'she/(Carol)', "by 'involved'", 's01_e02_c03_u050')
+[s01_e02_c03_u050] Monica Geller: What does she mean by 'involved'?
+
+('mean', 'I/(Chandler Bing)', None, 's01_e02_c03_u051')
+[s01_e02_c03_u051] Chandler Bing: I mean presumably, the biggest part of your job is done.
+
+('be', 'the biggest part of your job', 'done', 's01_e02_c03_u051')
+[s01_e02_c03_u051] Chandler Bing: I mean presumably, the biggest part of your job is done.
+
+('want', 'they/(Carol and Susan)', 'me to go down to this sonogram thing with them tomorrow', 's01_e02_c03_u052')
+[s01_e02_c03_u052] Ross Geller: Anyway, they want me to go down to this- sonogram thing with them tomorrow.
+
+('go', 'I/(Ross Geller)', 'down to this sonogram thing', 's01_e02_c03_u052')
+[s01_e02_c03_u052] Ross Geller: Anyway, they want me to go down to this- sonogram thing with them tomorrow.
+
+('go', 'I/(Ross Geller)', 'down with them', 's01_e02_c03_u052')
+[s01_e02_c03_u052] Ross Geller: Anyway, they want me to go down to this- sonogram thing with them tomorrow.
+
+('do', 'you/(Ross Geller)', None, 's01_e02_c03_u053')
+[s01_e02_c03_u053] Rachel Green: So what are you gonna do?
+
+('have', 'I/(Ross Geller)', 'no idea', 's01_e02_c03_u054')
+[s01_e02_c03_u054] Ross Geller: I have no idea. No matter what I do, though, I'm still gonna be a father.
+
+('do', 'I/(Ross Geller)', 'what', 's01_e02_c03_u054')
+[s01_e02_c03_u054] Ross Geller: I have no idea. No matter what I do, though, I'm still gonna be a father.
+
+('be', 'I/(Ross Geller)', 'a father', 's01_e02_c03_u054')
+[s01_e02_c03_u054] Ross Geller: I have no idea. No matter what I do, though, I'm still gonna be a father.
+
+('be', 'this/(lasagne)', 'still ruined', 's01_e02_c03_u056')
+[s01_e02_c03_u056] Joey Tribbiani: .....Well, this is still ruined, right?
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is on a TV interview during a book tour and openly shares personal details (professing love for her son and mentioning buying his first condoms)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She boasts \"I am a fabulous mom\" and discloses an intimate detail others call \"too much information,\" embarrassing her son—low modesty/consideration."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Her son learns via the interview that she’s coming to New York, implying she didn’t inform him beforehand—careless/disorganized."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She speaks assertively and confidently on air (\"I am a fabulous mom\") with no signs of nervousness despite provocative disclosures."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortable discussing taboo topics (buying her son condoms) and taking an unconventional, practical parenting stance; also engaged in a creative book tour."
+  }
+}

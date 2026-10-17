@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Invites Speaker_01 to share a bottle of wine and checks if they are in the mood (u005.3-4), actively engaging socially."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Apologizes for being hard on Speaker_01 and takes responsibility (u003.2-4), then praises Speaker_01 for getting Marcel back and being great (u005.1)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or efficiency; talk about outfit and wine shows no conscientious planning (u001, u005)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Despite earlier conflict, speaks calmly, apologizes, and suggests wine without showing anxiety or nervousness (u003, u005)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Reflects that their earlier anger might be partly due to how they were with each other, reconsidering perspectives (u007.3)."
+  }
+}

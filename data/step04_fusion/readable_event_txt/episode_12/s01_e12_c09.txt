@@ -1,0 +1,48 @@
+event_id: s01_e12_c09_u001_e1
+utterance_id: s01_e12_c09_u001
+  tuple: ('pick', 'you/Chandler Bing', 'one', 's01_e12_c09_u001')
+
+event_id: s01_e12_c09_u002_e1
+utterance_id: s01_e12_c09_u002
+  tuple: ('be', 'That', 'patio furniture', 's01_e12_c09_u002')
+
+event_id: s01_e12_c09_u003_e1
+utterance_id: s01_e12_c09_u003
+  tuple: ('come', 'people', 'in', 's01_e12_c09_u003')
+  tuple: ('think', 'people', "I'm outside again?", 's01_e12_c09_u003')
+  tuple: ('be', 'I/(people)', 'outside again', 's01_e12_c09_u003')
+
+event_id: s01_e12_c09_u005_e1
+utterance_id: s01_e12_c09_u005
+  tuple: ('know', 'I/Joey Tribbiani', None, 's01_e12_c09_u005')
+
+event_id: s01_e12_c09_u005_e2
+utterance_id: s01_e12_c09_u005
+  tuple: ('say', 'birds', 'Hello, sit here, eat something.', 's01_e12_c09_u005')
+  tuple: ('sit', 'you/(people)', None, 's01_e12_c09_u005')
+  tuple: ('eat', 'you/(people)', 'something', 's01_e12_c09_u005')
+
+event_id: s01_e12_c09_u006_e1
+utterance_id: s01_e12_c09_u006
+  tuple: ('pick', 'you/Joey Tribbiani', 'one', 's01_e12_c09_u006')
+
+event_id: s01_e12_c09_u008_e1
+utterance_id: s01_e12_c09_u008
+  tuple: ('forget', 'you/Joey Tribbiani', 'about the birds', 's01_e12_c09_u008')
+
+event_id: s01_e12_c09_u008_e2
+utterance_id: s01_e12_c09_u008
+  tuple: ('suggest', 'big red insects', 'fine dining', 's01_e12_c09_u008')
+
+event_id: s01_e12_c09_u009_e1
+utterance_id: s01_e12_c09_u009
+  tuple: ('want', 'you/Chandler Bing', 'get the birds', 's01_e12_c09_u009')
+
+event_id: s01_e12_c09_u009_e2
+utterance_id: s01_e12_c09_u009
+  tuple: ('get', 'you/Chandler Bing', 'the birds', 's01_e12_c09_u009')
+
+event_id: s01_e12_c09_u010_e1
+utterance_id: s01_e12_c09_u010
+  tuple: ('like', 'Kip', 'the birds', 's01_e12_c09_u010')
+

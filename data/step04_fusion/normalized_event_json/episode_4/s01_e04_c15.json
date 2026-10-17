@@ -1,0 +1,212 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c15_u001",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u001_e1",
+          "tuples": [
+            "('believe', 'you/Chandler Bing', \"he's only had sex with one woman\", 's01_e04_c15_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u001_e2",
+          "tuples": [
+            "('have', 'he/Ross Geller', 'sex', 's01_e04_c15_u001')",
+            "('have', 'he/Ross Geller', 'with one woman', 's01_e04_c15_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u002",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u002_e1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', \"it's great\", 's01_e04_c15_u002')",
+            "('be', 'it/(Ross Geller having had sex with one woman)', 'great', 's01_e04_c15_u002')",
+            "('be', 'it/(Ross Geller having had sex with one woman)', 'sweet', 's01_e04_c15_u002')",
+            "('be', 'it/(Ross Geller having had sex with one woman)', 'romantic', 's01_e04_c15_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u002_e2",
+          "tuples": [
+            "('know', 'you/Joey Tribbiani', None, 's01_e04_c15_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u004",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u004_e1",
+          "tuples": [
+            "('kid', 'you/Joey Tribbiani', None, 's01_e04_c15_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u004_e2",
+          "tuples": [
+            "('be', 'the guy', 'a freak', 's01_e04_c15_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u007",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u007_e1",
+          "tuples": [
+            "('be', \"that/(Ross Geller's look)\", 'attractive', 's01_e04_c15_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u008",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u008_e1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'you were great in Silence of the Lambs', 's01_e04_c15_u008')",
+            "('be', 'you/Receptionist', 'great', 's01_e04_c15_u008')",
+            "('be', 'you/Receptionist', 'in Silence of the Lambs', 's01_e04_c15_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u008_e2",
+          "tuples": [
+            "('come', 'you/Ross Geller', 'on', 's01_e04_c15_u008')",
+            "('admit', 'you/Ross Geller', 'it', 's01_e04_c15_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u008_e3",
+          "tuples": [
+            "('have', 'you/Ross Geller', 'fun', 's01_e04_c15_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u009",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u009_e1",
+          "tuples": [
+            "('be', 'the fun', 'where', 's01_e04_c15_u009')",
+            "('be', 'which part', 'the fun part', 's01_e04_c15_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u009_e2",
+          "tuples": [
+            "('tell', 'you/Chandler Bing', 'me', 's01_e04_c15_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u009_e3",
+          "tuples": [
+            "('be', 'my puck', 'where', 's01_e04_c15_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u010",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u010_e1",
+          "tuples": [
+            "('have', 'the kid', 'it', 's01_e04_c15_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u011",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u011_e1",
+          "tuples": [
+            "('excuse', 'you/Kid', 'me', 's01_e04_c15_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u011_e2",
+          "tuples": [
+            "('be', 'that/(the puck)', 'my puck', 's01_e04_c15_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u012",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u012_e1",
+          "tuples": [
+            "('find', 'I/Kid', 'it', 's01_e04_c15_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u013",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u013_e1",
+          "tuples": [
+            "('do', 'you/Ross Geller', 'it', 's01_e04_c15_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u014",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u014_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'rubber', 's01_e04_c15_u014')",
+            "('be', 'you/Kid', 'glue', 's01_e04_c15_u014')",
+            "('do', 'whatever', 'it', 's01_e04_c15_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e04_c15_u014_e2",
+          "tuples": [
+            "('listen', 'you/Kid', None, 's01_e04_c15_u014')",
+            "('give', 'you/Kid', 'my puck back', 's01_e04_c15_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u016",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u016_e1",
+          "tuples": [
+            "('come', 'you/Kid', 'here', 's01_e04_c15_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c15_u020",
+      "events": [
+        {
+          "event_id": "s01_e04_c15_u020_e1",
+          "tuples": [
+            "('be', 'that/(just now)', 'fun', 's01_e04_c15_u020')"
+          ]
+        }
+      ]
+    }
+  ]
+}

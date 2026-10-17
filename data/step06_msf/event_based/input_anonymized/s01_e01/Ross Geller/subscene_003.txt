@@ -1,0 +1,26 @@
+Episode: s01_e01
+Scene: s01_e01_c02
+Subscene index for speaker: 003
+Main speaker: TargetSpeaker
+UID span: s01_e01_c02_u027 → s01_e01_c02_u035
+Peak window: 23 → 25
+
+Dialogue:
+  [s01_e01_c02_u027]
+  1. Speaker_01 says his name is Paul.
+  [s01_e01_c02_u028]
+  1. Speaker_02 says the time is 6:30.
+  2. Speaker_02 says someone should buzz Speaker_01 in.
+  [s01_e01_c02_u029]
+  1. Speaker_03 says, 'Who is Speaker_01?'
+  [s01_e01_c02_u030] TargetSpeaker: Speaker_01, Paul?
+  [s01_e01_c02_u031]
+  1. Speaker_03 says Speaker_02's 'not a real date' tonight is with Speaker_01.
+  [s01_e01_c02_u032]
+  1. TargetSpeaker says Speaker_01 finally asked Speaker_02 out.
+  [s01_e01_c02_u033] Speaker_02: Yes!
+  [s01_e01_c02_u034]
+  1. Speaker_04 says this moment is a 'Dear Diary' moment.
+  [s01_e01_c02_u035]
+  1. Speaker_02 says Speaker_05 should wait.
+  2. Speaker_02 says Speaker_02 can cancel the date with Speaker_01.

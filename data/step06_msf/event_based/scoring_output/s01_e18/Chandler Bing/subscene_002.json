@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "After being told to shut up, TargetSpeaker says they are not saying anything and speaks minimally, showing reserved behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds non-confrontationally by stating they’re not saying anything and later provides a straightforward fact that they were playing poker."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions indicating organization or carelessness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of nervousness, sensitivity, or heightened emotion are displayed."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements suggesting curiosity/imagination or rigidity/caution appear in the dialogue."
+  }
+}

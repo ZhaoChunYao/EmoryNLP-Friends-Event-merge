@@ -1,0 +1,106 @@
+event_id: s01_e14_c12_u001_e1
+utterance_id: s01_e14_c12_u001
+  tuple: ('do', 'you/(Kristin Riggs)', 'what', 's01_e14_c12_u001')
+  tuple: ('do', 'you/(Kristin Riggs)', 'for a living', 's01_e14_c12_u001')
+
+event_id: s01_e14_c12_u002_e1
+utterance_id: s01_e14_c12_u002
+  tuple: ('work', 'I/(Kristin Riggs)', None, 's01_e14_c12_u002')
+  tuple: ('work', 'I/(Kristin Riggs)', 'for the past few years', 's01_e14_c12_u002')
+
+event_id: s01_e14_c12_u002_e2
+utterance_id: s01_e14_c12_u002
+  tuple: ('be', 'which', 'funny', 's01_e14_c12_u002')
+
+event_id: s01_e14_c12_u003_e1
+utterance_id: s01_e14_c12_u003
+  tuple: ('think', 'I/(Carol Willick)', 'you said they could shoot the spot without you', 's01_e14_c12_u003')
+
+event_id: s01_e14_c12_u003_e2
+utterance_id: s01_e14_c12_u003
+  tuple: ('say', 'you/(Susan Bunch)', 'they could shoot the spot without you', 's01_e14_c12_u003')
+
+event_id: s01_e14_c12_u003_e3
+utterance_id: s01_e14_c12_u003
+  tuple: ('shoot', 'they', 'the spot', 's01_e14_c12_u003')
+  tuple: ('shoot', 'they', 'without you', 's01_e14_c12_u003')
+
+event_id: s01_e14_c12_u004_e1
+utterance_id: s01_e14_c12_u004
+  tuple: ('think', 'I/(Susan Bunch)', 'they could', 's01_e14_c12_u004')
+
+event_id: s01_e14_c12_u004_e2
+utterance_id: s01_e14_c12_u004
+  tuple: ('try', 'I/(Susan Bunch)', 'get back as soon as I can', 's01_e14_c12_u004')
+  tuple: ('get', 'I/(Susan Bunch)', None, 's01_e14_c12_u004')
+
+event_id: s01_e14_c12_u004_e3
+utterance_id: s01_e14_c12_u004
+  tuple: ('be', 'I/(Susan Bunch)', 'sorry', 's01_e14_c12_u004')
+
+event_id: s01_e14_c12_u005_e1
+utterance_id: s01_e14_c12_u005
+  tuple: ('be', 'that', 'funny', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u005_e2
+utterance_id: s01_e14_c12_u005
+  tuple: ('think', 'you/(Kristin Riggs)', 'would it be too weird if I invited Carol over to join us', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u005_e3
+utterance_id: s01_e14_c12_u005
+  tuple: ('be', 'it', 'too weird', 's01_e14_c12_u005')
+  tuple: ('invite', 'I/(Ross Geller)', 'over Carol', 's01_e14_c12_u005')
+  tuple: ('invite', 'I/(Ross Geller)', 'to join us', 's01_e14_c12_u005')
+  tuple: ('join', 'Carol', 'us', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u005_e4
+utterance_id: s01_e14_c12_u005
+  tuple: ('be', 'she/(Carol Willick)', 'alone now', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u005_e5
+utterance_id: s01_e14_c12_u005
+  tuple: ('be', 'she/(Carol Willick)', 'pregnant', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u005_e6
+utterance_id: s01_e14_c12_u005
+  tuple: ('be', 'she/(Carol Willick)', 'sad', 's01_e14_c12_u005')
+
+event_id: s01_e14_c12_u006_e1
+utterance_id: s01_e14_c12_u006
+  tuple: ('guess', 'I/(Kristin Riggs)', None, 's01_e14_c12_u006')
+
+event_id: s01_e14_c12_u007_e1
+utterance_id: s01_e14_c12_u007
+  tuple: ('be', 'you/(Kristin Riggs)', 'sure', 's01_e14_c12_u007')
+
+event_id: s01_e14_c12_u007_e2
+utterance_id: s01_e14_c12_u007
+  tuple: ('want', 'you/(Carol Willick)', 'come over and join us', 's01_e14_c12_u007')
+  tuple: ('come', 'you/(Carol Willick)', 'over', 's01_e14_c12_u007')
+  tuple: ('join', 'you/(Carol Willick)', 'us', 's01_e14_c12_u007')
+
+event_id: s01_e14_c12_u008_e1
+utterance_id: s01_e14_c12_u008
+  tuple: ('be', 'I/(Carol Willick)', 'fine', 's01_e14_c12_u008')
+
+event_id: s01_e14_c12_u009_e1
+utterance_id: s01_e14_c12_u009
+  tuple: ('scooch', 'these people', None, 's01_e14_c12_u009')
+  tuple: ('scooch', 'these people', 'down', 's01_e14_c12_u009')
+  tuple: ('scooch', 'you guys', None, 's01_e14_c12_u009')
+  tuple: ('try', 'we/(Ross Geller and others)', 'scooch', 's01_e14_c12_u009')
+  tuple: ('scooch', 'we/(Ross Geller and others)', None, 's01_e14_c12_u009')
+
+event_id: s01_e14_c12_u009_e2
+utterance_id: s01_e14_c12_u009
+  tuple: ('be', 'this', 'Carol Willick', 's01_e14_c12_u009')
+
+event_id: s01_e14_c12_u009_e3
+utterance_id: s01_e14_c12_u009
+  tuple: ('teach', 'Carol', 'sixth grade', 's01_e14_c12_u009')
+
+event_id: s01_e14_c12_u009_e4
+utterance_id: s01_e14_c12_u009
+  tuple: ('do', 'Kristin', 'something', 's01_e14_c12_u009')
+  tuple: ('be', 'that', 'her major', 's01_e14_c12_u009')
+

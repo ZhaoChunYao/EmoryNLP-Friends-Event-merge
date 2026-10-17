@@ -1,0 +1,233 @@
+event_id: s01_e17_c06_u001_e1
+utterance_id: s01_e17_c06_u001
+  tuple: ('be', 'the cute doctors', 'here', 's01_e17_c06_u001')
+
+event_id: s01_e17_c06_u002_e1
+utterance_id: s01_e17_c06_u002
+  tuple: ('come', 'I/Rachel Green', None, 's01_e17_c06_u002')
+
+event_id: s01_e17_c06_u004_e1
+utterance_id: s01_e17_c06_u004
+  tuple: ('come', 'you/Dr. Mitchell and Dr. Rosen', 'in', 's01_e17_c06_u004')
+
+event_id: s01_e17_c06_u008_e1
+utterance_id: s01_e17_c06_u008
+  tuple: ('bring', 'we/Dr. Rosen and Dr. Mitchell', 'wine', 's01_e17_c06_u008')
+
+event_id: s01_e17_c06_u009_e1
+utterance_id: s01_e17_c06_u009
+  tuple: ('look', 'you/Monica Geller and Rachel Green', 'at this', 's01_e17_c06_u009')
+  tuple: ('be', 'it/wine', 'from the cellars of Ernest and Tova Borgnine', 's01_e17_c06_u009')
+
+event_id: s01_e17_c06_u009_e2
+utterance_id: s01_e17_c06_u009
+  tuple: ('resist', 'we/Dr. Rosen and Dr. Mitchell', None, 's01_e17_c06_u009')
+
+event_id: s01_e17_c06_u010_e1
+utterance_id: s01_e17_c06_u010
+  tuple: ('be', 'that/wine', 'great', 's01_e17_c06_u010')
+  tuple: ('look', 'you/everyone present', 'at that', 's01_e17_c06_u010')
+
+event_id: s01_e17_c06_u011_e1
+utterance_id: s01_e17_c06_u011
+  tuple: ('be', 'the ankle', None, 's01_e17_c06_u011')
+
+event_id: s01_e17_c06_u012_e1
+utterance_id: s01_e17_c06_u012
+  tuple: ('be', 'it/the ankle', None, 's01_e17_c06_u012')
+
+event_id: s01_e17_c06_u014_e1
+utterance_id: s01_e17_c06_u014
+  tuple: ('tell', 'you/Rachel Green', 'them', 's01_e17_c06_u014')
+  tuple: ('be', 'it/the ankle', 'your ankle', 's01_e17_c06_u014')
+
+event_id: s01_e17_c06_u015_e1
+utterance_id: s01_e17_c06_u015
+  tuple: ('feel', "it/Rachel Green's ankle", 'a lot better', 's01_e17_c06_u015')
+
+event_id: s01_e17_c06_u015_e2
+utterance_id: s01_e17_c06_u015
+  tuple: ('listen', 'you/everyone present', None, 's01_e17_c06_u015')
+  tuple: ('sit', 'you two/Dr. Rosen and Dr. Mitchell', 'down', 's01_e17_c06_u015')
+  tuple: ('get', 'we/Monica Geller and Rachel Green', 'you some glasses', 's01_e17_c06_u015')
+
+event_id: s01_e17_c06_u017_e1
+utterance_id: s01_e17_c06_u017
+  tuple: ('listen', 'you/Monica Geller', None, 's01_e17_c06_u017')
+  tuple: ('think', 'I/Rachel Green', "why don't we just tell them who we really are", 's01_e17_c06_u017')
+  tuple: ('tell', 'we/Monica Geller and Rachel Green', 'them', 's01_e17_c06_u017')
+  tuple: ('be', 'it/the situation', 'fine', 's01_e17_c06_u017')
+  tuple: ('think', 'I/Rachel Green', "it'll be fine", 's01_e17_c06_u017')
+
+event_id: s01_e17_c06_u018_e1
+utterance_id: s01_e17_c06_u018
+  tuple: ('get', 'we/Monica Geller and Rachel Green', 'in trouble', 's01_e17_c06_u018')
+
+event_id: s01_e17_c06_u019_e1
+utterance_id: s01_e17_c06_u019
+  tuple: ('stop', 'you/Monica Geller', 'being such a wuss', 's01_e17_c06_u019')
+  tuple: ('be', 'you/Monica Geller', 'such a wuss', 's01_e17_c06_u019')
+
+event_id: s01_e17_c06_u020_e1
+utterance_id: s01_e17_c06_u020
+  tuple: ('excuse', 'you/Rachel Green', 'me', 's01_e17_c06_u020')
+  tuple: ('live', 'me/Monica Geller', 'in the real world', 's01_e17_c06_u020')
+
+event_id: s01_e17_c06_u023_e1
+utterance_id: s01_e17_c06_u023
+  tuple: ('seem', 'they/Monica Geller and Rachel Green', 'normal', 's01_e17_c06_u023')
+
+event_id: s01_e17_c06_u024_e1
+utterance_id: s01_e17_c06_u024
+  tuple: ('be', 'they/Monica Geller and Rachel Green', None, 's01_e17_c06_u024')
+
+event_id: s01_e17_c06_u025_e1
+utterance_id: s01_e17_c06_u025
+  tuple: ('admit', 'you/Dr. Mitchell', 'that every time we go out... Women we meet at the hospital... It turns into...', 's01_e17_c06_u025')
+  tuple: ('go', 'we/Dr. Rosen and Dr. Mitchell', 'out', 's01_e17_c06_u025')
+  tuple: ('meet', 'we/Dr. Rosen and Dr. Mitchell', 'women', 's01_e17_c06_u025')
+  tuple: ('meet', 'we/Dr. Rosen and Dr. Mitchell', 'at the hospital', 's01_e17_c06_u025')
+  tuple: ('turn', 'it/the situation', None, 's01_e17_c06_u025')
+
+event_id: s01_e17_c06_u026_e1
+utterance_id: s01_e17_c06_u026
+  tuple: ('relax', 'you/Dr. Rosen', None, 's01_e17_c06_u026')
+  tuple: ('look', 'you/Dr. Rosen', 'around', 's01_e17_c06_u026')
+  tuple: ('be', 'they/Monica Geller and Rachel Green', 'fine', 's01_e17_c06_u026')
+  tuple: ('go', 'you/Dr. Rosen', 'like this', 's01_e17_c06_u026')
+
+event_id: s01_e17_c06_u028_e1
+utterance_id: s01_e17_c06_u028
+  tuple: ('say', 'I/Monica Geller', 'we are not going to do it', 's01_e17_c06_u028')
+  tuple: ('do', 'we/Monica Geller and Rachel Green', 'it', 's01_e17_c06_u028')
+
+event_id: s01_e17_c06_u028_e2
+utterance_id: s01_e17_c06_u028
+  tuple: ('be', 'you/Rachel Green', 'such a big baby', 's01_e17_c06_u028')
+
+event_id: s01_e17_c06_u029_e1
+utterance_id: s01_e17_c06_u029
+  tuple: ('be', 'I/Rachel Green', 'a baby', 's01_e17_c06_u029')
+
+event_id: s01_e17_c06_u029_e2
+utterance_id: s01_e17_c06_u029
+  tuple: ('know', 'you/Monica Geller', 'what', 's01_e17_c06_u029')
+  tuple: ('swear', 'I/Rachel Green', 'to god', 's01_e17_c06_u029')
+  tuple: ('get', 'you/Monica Geller', 'so uptight', 's01_e17_c06_u029')
+
+event_id: s01_e17_c06_u030_e1
+utterance_id: s01_e17_c06_u030
+  tuple: ('be', 'you/Rachel Green', 'such a princess', 's01_e17_c06_u030')
+
+event_id: s01_e17_c06_u037_e1
+utterance_id: s01_e17_c06_u037
+  tuple: ('Become', 'you/Monica Geller', 'more and more like your mother', 's01_e17_c06_u037')
+
+event_id: s01_e17_c06_u039_e1
+utterance_id: s01_e17_c06_u039
+  tuple: ('go', 'we/everyone present', None, 's01_e17_c06_u039')
+
+event_id: s01_e17_c06_u040_e1
+utterance_id: s01_e17_c06_u040
+  tuple: ('be', "this/Monica and Rachel's apartment", 'a great place', 's01_e17_c06_u040')
+
+event_id: s01_e17_c06_u040_e2
+utterance_id: s01_e17_c06_u040
+  tuple: ('live', 'you/Monica Geller', 'here', 's01_e17_c06_u040')
+
+event_id: s01_e17_c06_u041_e1
+utterance_id: s01_e17_c06_u041
+  tuple: ('be', 'I/Monica Geller', 'here about six years', 's01_e17_c06_u041')
+
+event_id: s01_e17_c06_u041_e2
+utterance_id: s01_e17_c06_u041
+  tuple: ('move', 'Rachel Green', 'in a few months ago', 's01_e17_c06_u041')
+
+event_id: s01_e17_c06_u042_e1
+utterance_id: s01_e17_c06_u042
+  tuple: ('get', 'I/Monica Geller', 'married', 's01_e17_c06_u042')
+  tuple: ('leave', 'I/Monica Geller', 'the guy', 's01_e17_c06_u042')
+  tuple: ('leave', 'I/Monica Geller', 'at the altar', 's01_e17_c06_u042')
+
+event_id: s01_e17_c06_u045_e1
+utterance_id: s01_e17_c06_u045
+  tuple: ('know', 'I/Monica Geller', "it's pretty selfish", 's01_e17_c06_u045')
+  tuple: ('be', 'it/leaving him at the altar', 'pretty selfish', 's01_e17_c06_u045')
+  tuple: ('be', 'that/Monica', 'me', 's01_e17_c06_u045')
+
+event_id: s01_e17_c06_u045_e2
+utterance_id: s01_e17_c06_u045
+  tuple: ('try', 'you/Dr. Mitchell and Dr. Rosen', 'the hummus', 's01_e17_c06_u045')
+
+event_id: s01_e17_c06_u046_e1
+utterance_id: s01_e17_c06_u046
+  tuple: ('do', 'you/Monica Geller', None, 's01_e17_c06_u046')
+
+event_id: s01_e17_c06_u047_e1
+utterance_id: s01_e17_c06_u047
+  tuple: ('be', 'I/Rachel Green', 'a chef', 's01_e17_c06_u047')
+  tuple: ('be', 'I/Rachel Green', 'at a restaurant uptown', 's01_e17_c06_u047')
+
+event_id: s01_e17_c06_u049_e1
+utterance_id: s01_e17_c06_u049
+  tuple: ('be', 'it/being a chef', None, 's01_e17_c06_u049')
+  tuple: ('get', 'I/Rachel Green', 'to boss people around', 's01_e17_c06_u049')
+  tuple: ('boss', 'I/Rachel Green', 'around people', 's01_e17_c06_u049')
+  tuple: ('love', 'I/Rachel Green', 'to do', 's01_e17_c06_u049')
+  tuple: ('do', 'I/Rachel Green', None, 's01_e17_c06_u049')
+
+event_id: s01_e17_c06_u050_e1
+utterance_id: s01_e17_c06_u050
+  tuple: ('be', 'this hummus', 'great', 's01_e17_c06_u050')
+
+event_id: s01_e17_c06_u051_e1
+utterance_id: s01_e17_c06_u051
+  tuple: ('bless', 'God', 'the chickpea', 's01_e17_c06_u051')
+
+event_id: s01_e17_c06_u052_e1
+utterance_id: s01_e17_c06_u052
+  tuple: ('be', 'I/Monica Geller', 'so spoiled', 's01_e17_c06_u052')
+  tuple: ('be', 'that/this realization', 'it', 's01_e17_c06_u052')
+
+event_id: s01_e17_c06_u054_e1
+utterance_id: s01_e17_c06_u054
+  tuple: ('mention', 'I/Rachel Green', 'that back in high school, I was a cow', 's01_e17_c06_u054')
+  tuple: ('be', 'I/Rachel Green', 'a cow', 's01_e17_c06_u054')
+
+event_id: s01_e17_c06_u055_e1
+utterance_id: s01_e17_c06_u055
+  tuple: ('wet', 'I/Monica Geller', 'my bed', 's01_e17_c06_u055')
+
+event_id: s01_e17_c06_u056_e1
+utterance_id: s01_e17_c06_u056
+  tuple: ('use', 'I/Rachel Green', "my breasts to get other people's attention", 's01_e17_c06_u056')
+  tuple: ('get', 'I/Rachel Green', "other people's attention", 's01_e17_c06_u056')
+
+event_id: s01_e17_c06_u057_e1
+utterance_id: s01_e17_c06_u057
+  tuple: ('do', 'we/Monica Geller and Rachel Green', 'that', 's01_e17_c06_u057')
+
+event_id: s01_e17_c06_u059_e1
+utterance_id: s01_e17_c06_u059
+  tuple: ('be', 'it/phone caller', 'your dad', 's01_e17_c06_u059')
+
+event_id: s01_e17_c06_u060_e1
+utterance_id: s01_e17_c06_u060
+  tuple: ('be', 'it/this call', 'me', 's01_e17_c06_u060')
+  tuple: ('talk', 'I/Monica Geller', None, 's01_e17_c06_u060')
+  tuple: ('be', 'there/expletive', 'something', 's01_e17_c06_u060')
+  tuple: ('mean', 'I/Monica Geller', 'to tell you', 's01_e17_c06_u060')
+  tuple: ('tell', 'I/Monica Geller', 'you', 's01_e17_c06_u060')
+
+event_id: s01_e17_c06_u062_e1
+utterance_id: s01_e17_c06_u062
+  tuple: ('excuse', 'you/everyone present', 'me', 's01_e17_c06_u062')
+
+event_id: s01_e17_c06_u063_e1
+utterance_id: s01_e17_c06_u063
+  tuple: ('remember', 'you/Dad', 'back in freshman year', 's01_e17_c06_u063')
+
+event_id: s01_e17_c06_u063_e2
+utterance_id: s01_e17_c06_u063
+  tuple: ('have', 'Billy Dreskin and I', 'sex on your bed', 's01_e17_c06_u063')
+

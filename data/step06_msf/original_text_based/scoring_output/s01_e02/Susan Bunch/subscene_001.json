@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only offers brief greetings (“Hi.” and addressing Speaker_01 by name) without engaging further; no clear sign of being outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Polite, neutral greeting with no conflict or boasting, but the interaction is too minimal to show clear agreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, reliability, or task management is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, irritability, or emotional reactivity; interaction is neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements showing curiosity, creativity, or dogmatism."
+  }
+}

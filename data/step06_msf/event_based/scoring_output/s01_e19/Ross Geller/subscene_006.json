@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "No clear signs of outgoing or energetic behavior; only brief, matter-of-fact remarks."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Takes partial responsibility for the problem (“I guess it’s partially my fault”) rather than blaming others."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Reflects on a poor decision and proposes a safer, more appropriate alternative (pen or pencil), showing responsibility and care."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses self-doubt and guilt by taking blame and second-guessing the earlier choice."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Prefers a conventional, cautious option (pen/pencil) over the unusual idea (monkey)."
+  }
+}

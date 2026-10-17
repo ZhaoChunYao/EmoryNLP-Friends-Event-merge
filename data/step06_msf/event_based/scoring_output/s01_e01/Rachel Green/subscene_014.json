@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only makes a routine offer to the group for more coffee (u011); no clear signs of outgoing or energetic social behavior beyond job duties."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely offers more coffee (u011), is straightforward about just serving it (u013), and courteously directs and thanks the customer (u017)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Asks a customer to pass coffee to another customer across the room (u017), showing careless, disorganized service rather than handling it herself."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Handles the situation calmly and confidently, giving clear instructions without showing nervousness (u017)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or imaginative thinking; actions are routine and task-focused."
+  }
+}

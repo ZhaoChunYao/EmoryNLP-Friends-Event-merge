@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker proactively sought out Speaker_02 (went to her building, then to Central Perk) and readily engaged with the group, narrating events and responding to introductions (“Hi, sure!”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is polite and cooperative, greeting Speaker_07 (“Hi, sure!”) and straightforwardly explaining what happened without boasting or conflict."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker persistently and systematically located Speaker_02: went to her building, followed a lead from a worker with a hammer, and found her at Central Perk."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or distress; her statements are matter-of-fact but do not explicitly show either nervousness or notable calm confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete evidence of curiosity/inventiveness or of dogmatism/caution beyond practical problem-solving to find Speaker_02."
+  }
+}

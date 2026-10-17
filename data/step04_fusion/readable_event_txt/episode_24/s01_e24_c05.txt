@@ -1,0 +1,76 @@
+event_id: s01_e24_c05_u001_e1
+utterance_id: s01_e24_c05_u001
+  tuple: ('think', 'I/(Melanie)', 'I blacked out there for a minute', 's01_e24_c05_u001')
+  tuple: ('black out', 'I/(Melanie)', 'for a minute', 's01_e24_c05_u001')
+
+event_id: s01_e24_c05_u002_e1
+utterance_id: s01_e24_c05_u002
+  tuple: ('be', 'It', "nothin'", 's01_e24_c05_u002')
+
+event_id: s01_e24_c05_u003_e1
+utterance_id: s01_e24_c05_u003
+  tuple: ('find', 'we/(Melanie+Joey Tribbiani)', 'something fun for you', 's01_e24_c05_u003')
+
+event_id: s01_e24_c05_u004_e1
+utterance_id: s01_e24_c05_u004
+  tuple: ('know', 'you/(Melanie)', 'what', 's01_e24_c05_u004')
+
+event_id: s01_e24_c05_u004_e2
+utterance_id: s01_e24_c05_u004
+  tuple: ('forget', 'you/(Melanie)', 'about me', 's01_e24_c05_u004')
+
+event_id: s01_e24_c05_u004_e3
+utterance_id: s01_e24_c05_u004
+  tuple: ('give', 'we/(Melanie+Joey Tribbiani)', 'you another turn', 's01_e24_c05_u004')
+
+event_id: s01_e24_c05_u007_e1
+utterance_id: s01_e24_c05_u007
+  tuple: ('get', 'somebody', 'a big fruit basket', 's01_e24_c05_u007')
+
+event_id: s01_e24_c05_u009_e1
+utterance_id: s01_e24_c05_u009
+  tuple: ('tell', 'I/(Melanie)', 'you', 's01_e24_c05_u009')
+
+event_id: s01_e24_c05_u009_e2
+utterance_id: s01_e24_c05_u009
+  tuple: ('be', 'you/(Joey Tribbiani)', 'nothing', 's01_e24_c05_u009')
+  tuple: ('be', 'you/(Joey Tribbiani)', 'like I thought you would be', 's01_e24_c05_u009')
+  tuple: ('be', 'you/(Joey Tribbiani)', None, 's01_e24_c05_u009')
+
+event_id: s01_e24_c05_u009_e3
+utterance_id: s01_e24_c05_u009
+  tuple: ('think', 'I/(Melanie)', 'you would be', 's01_e24_c05_u009')
+
+event_id: s01_e24_c05_u010_e1
+utterance_id: s01_e24_c05_u010
+  tuple: ('mean', 'you/(Melanie)', None, 's01_e24_c05_u010')
+
+event_id: s01_e24_c05_u011_e1
+utterance_id: s01_e24_c05_u011
+  tuple: ('know', 'I/(Melanie)', None, 's01_e24_c05_u011')
+
+event_id: s01_e24_c05_u011_e2
+utterance_id: s01_e24_c05_u011
+  tuple: ('guess', 'I/(Melanie)', "I just had you pegged as one of those guys who're always 'me, me, me.'", 's01_e24_c05_u011')
+
+event_id: s01_e24_c05_u011_e3
+utterance_id: s01_e24_c05_u011
+  tuple: ('have', 'I/(Melanie)', "you pegged as one of those guys who're always 'me, me, me.'", 's01_e24_c05_u011')
+  tuple: ('peg', 'I/(Melanie)', 'you', 's01_e24_c05_u011')
+  tuple: ('peg', 'I/(Melanie)', "as one of those guys who're always 'me, me, me.'", 's01_e24_c05_u011')
+  tuple: ('be', 'those guys', 'me, me, me', 's01_e24_c05_u011')
+
+event_id: s01_e24_c05_u011_e4
+utterance_id: s01_e24_c05_u011
+  tuple: ('be', 'you/(Joey Tribbiani)', 'a giver', 's01_e24_c05_u011')
+  tuple: ('be', 'you/(Joey Tribbiani)', 'like the most generous man I ever met', 's01_e24_c05_u011')
+  tuple: ('be', 'you/(Joey Tribbiani)', 'practically a woman', 's01_e24_c05_u011')
+
+event_id: s01_e24_c05_u011_e5
+utterance_id: s01_e24_c05_u011
+  tuple: ('meet', 'I/(Melanie)', 'the most generous man', 's01_e24_c05_u011')
+
+event_id: s01_e24_c05_u011_e6
+utterance_id: s01_e24_c05_u011
+  tuple: ('mean', 'I/(Melanie)', None, 's01_e24_c05_u011')
+

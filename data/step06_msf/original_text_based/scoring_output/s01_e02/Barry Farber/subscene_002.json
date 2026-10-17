@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and sustains conversation, openly shares travel and new relationship details (u001, u005, u009-u011)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Polite and candid; warns “this may hurt” before sensitive news, is straightforward about going with Speaker_03, and expresses gratitude (u007, u009, u011, u015)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Shows professional, careful behavior while working—“Careful! … haven’t quite taken yet.” and gives task instruction “Spit.”; identifies as an orthodontist (u013, u017, u019)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm and confident tone about current situation and happiness with Speaker_03; no nervousness displayed (u011, u019), despite admitting past anger (u017)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Little evidence of curiosity or imaginative thinking; comments focus on relationship status and practical matters rather than ideas or exploration."
+  }
+}

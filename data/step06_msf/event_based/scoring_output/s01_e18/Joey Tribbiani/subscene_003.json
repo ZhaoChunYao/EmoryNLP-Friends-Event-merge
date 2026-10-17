@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief responses in a group poker conversation and does not display clear outgoing or reserved behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "After being accused of lying about card strength, TargetSpeaker first deflects ('About what?') and then admits 'was bluffing,' indicating deceptive/complicated behavior rather than straightforwardness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions reflect organization, diligence, or carelessness; the exchange centers only on a poker bluff."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity; TargetSpeaker responds calmly and matter‑of‑factly."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Nothing indicates curiosity, creativity, or rigidity; the remarks are limited to acknowledging a bluff in a game."
+  }
+}

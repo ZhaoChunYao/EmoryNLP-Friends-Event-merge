@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes a sarcastic joke about Speaker_01’s “1950s-style movie setting” in a group setting, showing sociable, humorous engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker teases Speaker_01 and then pointedly tells Speaker_04 she has to pick her moments to make jokes, showing a somewhat critical, less accommodating stance."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker advises Speaker_04 to choose appropriate moments for jokes, emphasizing timing and appropriateness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains composed enough to joke and correct others during a stressful birth situation, indicating confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker uses a creative, imaginative description (“1950s-style movie setting”) to characterize the situation."
+  }
+}

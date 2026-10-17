@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Eagerly jumps in to announce the baby's sex (“Yes, we certainly do, it's going to be...”) and joins in with another speaker (“It's a...”), showing talkativeness and social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Nearly reveals the baby's sex despite another person's preference not to know, showing limited consideration for others' wishes."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Carelessly starts to blurt out confidential information (“it's going to be...”) in the presence of someone who does not want to know, indicating impulsiveness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently (“Yes, we certainly do”) with no signs of anxiety or hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, imagination, or caution vs. dogmatism in this brief exchange."
+  }
+}

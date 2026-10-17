@@ -1,0 +1,150 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c12_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'who/Ross Geller', 'this little naked guy', 's01_e08_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(group)', 'at the little thing', 's01_e08_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/the little thing', 'my penis', 's01_e08_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'we/(group)', 'grown-ups', 's01_e08_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'who', 'those people', 's01_e08_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('get', 'you/Chandler Bing', 'me/Ross Geller', 's01_e08_c12_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u007",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/Nana', 'Nana', 's01_e08_c12_u007')",
+            "('be', 'that/Nana', 'in the middle', 's01_e08_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u008",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Monica Geller', 'like your grandmother', 's01_e08_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'she/Nana', 'old', 's01_e08_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('let', 'us/(group)', 'see', 's01_e08_c12_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'it/photo', 'like a fun gang', 's01_e08_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u011",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/(group)', None, 's01_e08_c12_u011')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('get', 'I/Joey Tribbiani', 'Monica', 's01_e08_c12_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c12_u012",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/naked person in photo', 'me/Ross Geller', 's01_e08_c12_u012')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('try', 'I/Ross Geller', 'something', 's01_e08_c12_u012')"
+          ]
+        }
+      ]
+    }
+  ]
+}

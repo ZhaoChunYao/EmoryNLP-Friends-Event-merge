@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages in the group, makes a pointed sarcastic comment, interrupts with \"Excuse me,\" and responds immediately with \"Where?\"—assertive, talkative participation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Sarcastically calls Speaker_01 sleeping with TargetSpeaker’s ex just hours after the breakup \"nice\" and publicly brings up Speaker_02 peeing in seventh grade—confrontational and unsympathetic."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior showing organization/efficiency or sloppiness; remarks are reactive."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; confidently confronts and mocks others without hesitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or dogmatic caution in this brief exchange."
+  }
+}

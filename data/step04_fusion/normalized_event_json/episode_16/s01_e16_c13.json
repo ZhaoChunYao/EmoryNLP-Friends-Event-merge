@@ -1,0 +1,154 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u001_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'a father', 's01_e16_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u002",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u002_e1",
+          "tuples": [
+            "('occur', 'this/(Ross being a father)', 'to you', 's01_e16_c13_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u003_e1",
+          "tuples": [
+            "('know', 'I/Ross Geller', 'I was havin a baby', 's01_e16_c13_u003')",
+            "('have', 'I/Ross Geller', 'a baby', 's01_e16_c13_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c13_u003_e2",
+          "tuples": [
+            "('realize', 'I/Ross Geller', 'the baby was having me', 's01_e16_c13_u003')",
+            "('have', 'the baby', 'me', 's01_e16_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u004",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u004_e1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'great', 's01_e16_c13_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u005_e1",
+          "tuples": [
+            "('say', 'you/Rachel Green', 'that', 's01_e16_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c13_u005_e2",
+          "tuples": [
+            "('get', 'I/Ross Geller', 'Marcel to stop eating the bath mat', 's01_e16_c13_u005')",
+            "('stop', 'Marcel', 'eating the bath mat', 's01_e16_c13_u005')",
+            "('eat', 'Marcel', 'the bath mat', 's01_e16_c13_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c13_u005_e3",
+          "tuples": [
+            "('raise', 'I/Ross Geller', 'a kid', 's01_e16_c13_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u006_e1",
+          "tuples": [
+            "('say', 'some scientists', 'that monkeys and babies are actually different', 's01_e16_c13_u006')",
+            "('be', 'monkeys and babies', 'actually different', 's01_e16_c13_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u008",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u008_e1",
+          "tuples": [
+            "('go', 'you/Joey Tribbiani', None, 's01_e16_c13_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u012",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u012_e1",
+          "tuples": [
+            "('ask', 'I/Phoebe Buffay', 'you one question', 's01_e16_c13_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u014",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u014_e1",
+          "tuples": [
+            "('have', 'you two/(Joey Tribbiani and his date)', None, 's01_e16_c13_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u015",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u015_e1",
+          "tuples": [
+            "('be', 'it/(this matter)', 'any of your business', 's01_e16_c13_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c13_u015_e2",
+          "tuples": [
+            "('have', 'we/(Joey Tribbiani and his date)', None, 's01_e16_c13_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c13_u017",
+      "events": [
+        {
+          "event_id": "s01_e16_c13_u017_e1",
+          "tuples": [
+            "('mean', 'you/Phoebe Buffay', 'sex', 's01_e16_c13_u017')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u004_e1",
+          "tuples": [
+            "('think', 'I/Rachel Green', 'I would give it a shot', 's01_e11_c09_u004')",
+            "('give', 'I/Rachel Green', 'it a shot', 's01_e11_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u004_e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'still on the first chapter', 's01_e11_c09_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u004_e3",
+          "tuples": [
+            "('think', 'you/Monica Geller', \"his 'love stick' can be liberated from its denim prison\", 's01_e11_c09_u004')",
+            "('liberate', \"his 'love stick'\", 'from its denim prison', 's01_e11_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u005_e1",
+          "tuples": [
+            "('say', 'I/Monica Geller', 'so', 's01_e11_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u005_e2",
+          "tuples": [
+            "('be', 'there', \"no 'j'\", 's01_e11_c09_u005')",
+            "('be', \"no 'j'\", \"in 'engorged'\", 's01_e11_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u010",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u010_e1",
+          "tuples": [
+            "('go', 'you/Monica Geller', 'to the hospital', 's01_e11_c09_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u013",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u013_e1",
+          "tuples": [
+            "('ask', 'you/Phoebe Buffay', 'me', 's01_e11_c09_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u014",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u014_e1",
+          "tuples": [
+            "('be', 'it', 'a trick question', 's01_e11_c09_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u014_e2",
+          "tuples": [
+            "('do', 'we/(Phoebe Buffay & Rachel Green)', 'this now', 's01_e11_c09_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u015",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u015_e1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'so hot', 's01_e11_c09_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u016",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u016_e1",
+          "tuples": [
+            "('be', 'here', 'a picture of my mother and father', 's01_e11_c09_u016')",
+            "('be', 'a picture', 'of my mother and father', 's01_e11_c09_u016')",
+            "('be', 'a picture', 'on their wedding day', 's01_e11_c09_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u016_e2",
+          "tuples": [
+            "('tell', 'you/(everyone)', 'me', 's01_e11_c09_u016')",
+            "('be', \"she/(Joey's mother)\", 'not a knockout', 's01_e11_c09_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u017",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u017_e1",
+          "tuples": [
+            "('believe', 'I/Ross Geller', \"we're having this conversation\", 's01_e11_c09_u017')",
+            "('have', 'we/(Ross Geller & Joey Tribbiani)', 'this conversation', 's01_e11_c09_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u018",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u018_e1",
+          "tuples": [
+            "('try', 'you/Ross Geller', 'to picture her not pregnant', 's01_e11_c09_u018')",
+            "('picture', 'you/Ross Geller', 'her not pregnant', 's01_e11_c09_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u019",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u019_e1",
+          "tuples": [
+            "('be', 'Central Perk', 'proud to present Miss Phoebe Buffay', 's01_e11_c09_u019')",
+            "('present', 'Central Perk', 'Miss Phoebe Buffay', 's01_e11_c09_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u020",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u020_e1",
+          "tuples": [
+            "('like', 'I/Phoebe Buffay', 'to start with a song', 's01_e11_c09_u020')",
+            "('start', 'I/Phoebe Buffay', 'with a song', 's01_e11_c09_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u020_e2",
+          "tuples": [
+            "('be', 'that', 'about a man', 's01_e11_c09_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u020_e3",
+          "tuples": [
+            "('meet', 'I/Phoebe Buffay', 'a man', 's01_e11_c09_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u020_e4",
+          "tuples": [
+            "('come', 'who/(the man Phoebe met)', 'to be very important to me', 's01_e11_c09_u020')",
+            "('be', 'who/(the man Phoebe met)', 'very important', 's01_e11_c09_u020')",
+            "('be', 'who/(the man Phoebe met)', 'to me', 's01_e11_c09_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u021",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u021_e1",
+          "tuples": [
+            "('be', 'you/(the man Phoebe met)', 'awake', 's01_e11_c09_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u021_e2",
+          "tuples": [
+            "('be', 'you/(the man Phoebe met)', 'my man', 's01_e11_c09_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u021_e3",
+          "tuples": [
+            "('have', 'you/(the man Phoebe met)', 'brainwaves', 's01_e11_c09_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u021_e4",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'there', 's01_e11_c09_u021')",
+            "('hold', 'I/Phoebe Buffay', 'your hand', 's01_e11_c09_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u021_e5",
+          "tuples": [
+            "('meet', 'we/(Phoebe Buffay & the man Phoebe met)', None, 's01_e11_c09_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u021_e6",
+          "tuples": [
+            "('be', 'there', 'something', 's01_e11_c09_u021')",
+            "('say', 'I/Phoebe Buffay', 'something', 's01_e11_c09_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u022",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u022_e1",
+          "tuples": [
+            "('take', 'I/Phoebe Buffay', 'a short break', 's01_e11_c09_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u023",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u023_e1",
+          "tuples": [
+            "('be', 'that', 'Phoebe Buffay', 's01_e11_c09_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u025",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u025_e1",
+          "tuples": [
+            "('be', 'that', None, 's01_e11_c09_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u026",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u026_e1",
+          "tuples": [
+            "('start', 'Phoebe Buffay', 'a...', 's01_e11_c09_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u027",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u027_e1",
+          "tuples": [
+            "('believe', 'I/Chandler Bing', 'I was talking to Joey', 's01_e11_c09_u027')",
+            "('talk', 'I/Chandler Bing', 'to Joey', 's01_e11_c09_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u028",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u028_e1",
+          "tuples": [
+            "('shut up', 'I/Joey Tribbiani', None, 's01_e11_c09_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u029",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u029_e1",
+          "tuples": [
+            "('say', 'I/Ross Geller', 'something', 's01_e11_c09_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u029_e2",
+          "tuples": [
+            "('know', 'I/Ross Geller', \"you're still mad at me\", 's01_e11_c09_u029')",
+            "('be', 'you/Chandler Bing', 'still mad at me', 's01_e11_c09_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u029_e3",
+          "tuples": [
+            "('say', 'I/Ross Geller', 'there were two people there that night', 's01_e11_c09_u029')",
+            "('be', 'there', 'two people', 's01_e11_c09_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u030",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u030_e1",
+          "tuples": [
+            "('expect', 'I/Chandler Bing', 'this', 's01_e11_c09_u030')",
+            "('expect', 'I/Chandler Bing', 'from her', 's01_e11_c09_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u030_e2",
+          "tuples": [
+            "('be', \"she/(Chandler's mom)\", 'a Freudian nightmare', 's01_e11_c09_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u031",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u031_e1",
+          "tuples": [
+            "('behave', \"she/(Chandler's mom)\", 'like this', 's01_e11_c09_u031')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u031_e2",
+          "tuples": [
+            "('say', 'you/Chandler Bing', 'something', 's01_e11_c09_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u032",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u032_e1",
+          "tuples": [
+            "('be', 'it', 'complicated', 's01_e11_c09_u032')",
+            "('be', 'it', 'complex', 's01_e11_c09_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u032_e2",
+          "tuples": [
+            "('kiss', 'you/Ross Geller', 'my mom', 's01_e11_c09_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u034",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u034_e1",
+          "tuples": [
+            "('rehearse', 'we/(Ross Geller & Chandler Bing)', 'a Greek play', 's01_e11_c09_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u035",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u035_e1",
+          "tuples": [
+            "('be', 'that', 'very funny', 's01_e11_c09_u035')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u035_e2",
+          "tuples": [
+            "('be', 'we/(Chandler Bing & Ross Geller)', 'done now', 's01_e11_c09_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u036",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u036_e1",
+          "tuples": [
+            "('mean', 'you/Chandler Bing', None, 's01_e11_c09_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u036_e2",
+          "tuples": [
+            "('talk', 'you/Chandler Bing', 'to her', 's01_e11_c09_u036')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u036_e3",
+          "tuples": [
+            "('tell', 'you/Chandler Bing', 'her', 's01_e11_c09_u036')",
+            "('feel', 'you/Chandler Bing', None, 's01_e11_c09_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u037",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u037_e1",
+          "tuples": [
+            "('be', 'that', 'no', 's01_e11_c09_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u037_e2",
+          "tuples": [
+            "('look', 'you/Chandler Bing', None, 's01_e11_c09_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u037_e3",
+          "tuples": [
+            "('play', 'you/Ross Geller', 'tonsil tennis', 's01_e11_c09_u037')",
+            "('play', 'you/Ross Geller', 'with my mom', 's01_e11_c09_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u037_e4",
+          "tuples": [
+            "('mean', 'just because you played tonsil tennis with my mom', 'you know her', 's01_e11_c09_u037')",
+            "('know', 'you/Ross Geller', 'her', 's01_e11_c09_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u037_e5",
+          "tuples": [
+            "('trust', 'you/Ross Geller', 'me', 's01_e11_c09_u037')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u037_e6",
+          "tuples": [
+            "('talk', 'you/Ross Geller', 'to her', 's01_e11_c09_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c09_u038",
+      "events": [
+        {
+          "event_id": "s01_e11_c09_u038_e1",
+          "tuples": [
+            "('be', 'that', 'my finger', 's01_e11_c09_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u038_e2",
+          "tuples": [
+            "('be', 'that', 'my knee', 's01_e11_c09_u038')"
+          ]
+        },
+        {
+          "event_id": "s01_e11_c09_u038_e3",
+          "tuples": [
+            "('do', 'I/Ross Geller', 'the play', 's01_e11_c09_u038')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only discusses the credit card theft; no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "She calls the thief’s spending reckless but isn’t hostile toward others; no evidence of untrustworthiness or meanness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She knows she’s liable only for her own purchases, criticizes the thief’s reckless spending, and admits buying a Wonder Mop—suggesting concern for cleanliness and order."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Speaker_02 tells her to calm down, indicating she is agitated and sensitive about the fraud."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior showing curiosity/inventiveness or dogmatism/caution beyond normal concern about the theft."
+  }
+}

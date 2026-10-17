@@ -1,0 +1,19 @@
+Episode: s01_e02
+Scene: s01_e02_c06
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e02_c06_u005 → s01_e02_c06_u011
+Peak window: 4 → 4
+
+Dialogue:
+  [s01_e02_c06_u005]
+  1. Speaker_01 says Speaker_01 cannot forget TargetSpeaker.
+  [s01_e02_c06_u006] TargetSpeaker: Ross.
+  [s01_e02_c06_u007]
+  1. Speaker_01 says Speaker_01, Speaker_02, and TargetSpeaker are waiting for Speaker_03.
+  [s01_e02_c06_u008] Speaker_02: Speaker_03.
+  [s01_e02_c06_u009]
+  1. Speaker_01 asks whether Speaker_03 is male.
+  [s01_e02_c06_u010] TargetSpeaker: She.
+  [s01_e02_c06_u011]
+  1. Speaker_01 asks whether Speaker_03 is familiar with the special situation involving Speaker_01, TargetSpeaker, and Speaker_02.

@@ -1,0 +1,114 @@
+('go', 'I/Joey Tribbiani Sr.', None, 's01_e13_c03_u001')
+[s01_e13_c03_u001] Joey Tribbiani Sr.: Gotta go. I miss you too, I love you, but it's getting real late now
+
+('miss', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u001')
+[s01_e13_c03_u001] Joey Tribbiani Sr.: Gotta go. I miss you too, I love you, but it's getting real late now
+
+('love', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u001')
+[s01_e13_c03_u001] Joey Tribbiani Sr.: Gotta go. I miss you too, I love you, but it's getting real late now
+
+('get', 'it/time', 'real late now', 's01_e13_c03_u001')
+[s01_e13_c03_u001] Joey Tribbiani Sr.: Gotta go. I miss you too, I love you, but it's getting real late now
+
+('listen', 'you/Ronni', None, 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('make', 'I/Joey Tribbiani', 'the appointment', 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('make', 'I/Joey Tribbiani', 'with Dr. Bazida', 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('excuse', 'you/Ronni', 'me', 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('know', 'you/Ronni', "this isn't Ma", 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('be', 'this/Ronni', 'Ma', 's01_e13_c03_u002')
+[s01_e13_c03_u002] Joey Tribbiani: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?
+
+('be', 'her name', 'Ronni', 's01_e13_c03_u004')
+[s01_e13_c03_u004] Joey Tribbiani Sr.: Her name's Ronni. She's a pet mortician.
+
+('be', 'she/Ronni', 'a pet mortician', 's01_e13_c03_u004')
+[s01_e13_c03_u004] Joey Tribbiani Sr.: Her name's Ronni. She's a pet mortician.
+
+('be', 'you/Joey Tribbiani Sr.', None, 's01_e13_c03_u005')
+[s01_e13_c03_u005] Joey Tribbiani: Sure. So how long you been...
+
+('remember', 'you/Joey Tribbiani', 'when you were a little kid, I used to take you to the navy yard and show you the big ships', 's01_e13_c03_u006')
+[s01_e13_c03_u006] Joey Tribbiani Sr.: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
+
+('be', 'you/Joey Tribbiani', 'a little kid', 's01_e13_c03_u006')
+[s01_e13_c03_u006] Joey Tribbiani Sr.: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
+
+('take', 'I/Joey Tribbiani Sr.', 'you', 's01_e13_c03_u006')
+[s01_e13_c03_u006] Joey Tribbiani Sr.: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
+
+('take', 'I/Joey Tribbiani Sr.', 'to the navy yard', 's01_e13_c03_u006')
+[s01_e13_c03_u006] Joey Tribbiani Sr.: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
+
+('show', 'I/Joey Tribbiani Sr.', 'you the big ships', 's01_e13_c03_u006')
+[s01_e13_c03_u006] Joey Tribbiani Sr.: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
+
+('be', 'it/time', 'six years', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('want', 'I/Joey Tribbiani Sr.', 'to put a nice memory in your head', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('put', 'I/Joey Tribbiani Sr.', 'a nice memory', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('put', 'I/Joey Tribbiani Sr.', 'in your head', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('know', 'you/Joey Tribbiani', "that I wasn't always such a terrible guy", 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('be', 'I/Joey Tribbiani Sr.', 'always such a terrible guy', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('be', 'you/Joey Tribbiani', 'in love', 's01_e13_c03_u008')
+[s01_e13_c03_u008] Joey Tribbiani Sr.: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
+
+('know', 'I/Joey Tribbiani', None, 's01_e13_c03_u009')
+[s01_e13_c03_u009] Joey Tribbiani: ...I d'know.
+
+('have', 'you/Joey Tribbiani', None, 's01_e13_c03_u010')
+[s01_e13_c03_u010] Joey Tribbiani Sr.: Then y'haven't. You're burning your tomatoes.
+
+('burn', 'you/Joey Tribbiani', 'your tomatoes', 's01_e13_c03_u010')
+[s01_e13_c03_u010] Joey Tribbiani Sr.: Then y'haven't. You're burning your tomatoes.
+
+('be', 'you/Joey Tribbiani Sr.', 'one to talk', 's01_e13_c03_u011')
+[s01_e13_c03_u011] Joey Tribbiani: You're one to talk.
+
+('talk', 'you/Joey Tribbiani Sr.', None, 's01_e13_c03_u011')
+[s01_e13_c03_u011] Joey Tribbiani: You're one to talk.
+
+('be', 'your dad', 'in love big time', 's01_e13_c03_u012')
+[s01_e13_c03_u012] Joey Tribbiani Sr.: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
+
+('be', 'the worst part of it', None, 's01_e13_c03_u012')
+[s01_e13_c03_u012] Joey Tribbiani Sr.: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
+
+('be', 'it/(the worst part of it)', None, 's01_e13_c03_u012')
+[s01_e13_c03_u012] Joey Tribbiani Sr.: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
+
+('be', 'it/(the worst part of it)', 'with two different women', 's01_e13_c03_u012')
+[s01_e13_c03_u012] Joey Tribbiani Sr.: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
+
+('tell', 'you/Joey Tribbiani Sr.', 'me', 's01_e13_c03_u013')
+[s01_e13_c03_u013] Joey Tribbiani: Oh man. Please tell me one of 'em is Ma.
+
+('be', "one of 'em", 'Ma', 's01_e13_c03_u013')
+[s01_e13_c03_u013] Joey Tribbiani: Oh man. Please tell me one of 'em is Ma.
+
+('be', 'what/(the matter)', 'the matter', 's01_e13_c03_u014')
+[s01_e13_c03_u014] Joey Tribbiani Sr.: Of course, course one of 'em's Ma. What's the matter with you.
+
+('be', 'what/(the matter)', 'with you', 's01_e13_c03_u014')
+[s01_e13_c03_u014] Joey Tribbiani Sr.: Of course, course one of 'em's Ma. What's the matter with you.
+

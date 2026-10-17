@@ -1,0 +1,18 @@
+('guess', 'I/(Joey Tribbiani)', 'you all saw it', 's01_e09_c06_u001')
+[s01_e09_c06_u001] Joey Tribbiani: So I guess you all saw it.
+
+('see', 'you all/(Rachel Green and Phoebe Buffay)', 'it', 's01_e09_c06_u001')
+[s01_e09_c06_u001] Joey Tribbiani: So I guess you all saw it.
+
+('see', 'you/(Joey Tribbiani)', 'what', 's01_e09_c06_u002')
+[s01_e09_c06_u002] Rachel Green: Saw what?
+
+('laugh', 'we/(Rachel Green and Phoebe Buffay)', None, 's01_e09_c06_u003')
+[s01_e09_c06_u003] Phoebe Buffay: No, we were just laughing. You know, how laughter can be infectious.
+
+('know', 'you/(Joey Tribbiani)', 'how laughter can be infectious', 's01_e09_c06_u003')
+[s01_e09_c06_u003] Phoebe Buffay: No, we were just laughing. You know, how laughter can be infectious.
+
+('be', 'laughter', 'infectious', 's01_e09_c06_u003')
+[s01_e09_c06_u003] Phoebe Buffay: No, we were just laughing. You know, how laughter can be infectious.
+

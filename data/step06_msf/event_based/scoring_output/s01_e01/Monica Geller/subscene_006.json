@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks to help but shows no clear signs of being especially outgoing or energetic beyond brief calming guidance."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker gently coaches Speaker_01 to breathe and think of nice calm things and affirms that taking control of her life is probably for the best, showing supportive, considerate behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Offering calming advice does not clearly indicate TargetSpeaker’s own organization or diligence; no evidence of carelessness either."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker remains composed and provides step-by-step calming guidance (breathe, think calm things), showing calm confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or engagement with new ideas; advice is standard and cautious."
+  }
+}

@@ -1,0 +1,85 @@
+event_id: s01_e13_c08_u002_e1
+utterance_id: s01_e13_c08_u002
+  tuple: ('help', 'I/Monica Geller', 'you', 's01_e13_c08_u002')
+
+event_id: s01_e13_c08_u003_e1
+utterance_id: s01_e13_c08_u003
+  tuple: ('say', 'Joey', 'I could use your shower', 's01_e13_c08_u003')
+
+event_id: s01_e13_c08_u003_e2
+utterance_id: s01_e13_c08_u003
+  tuple: ('use', 'I/Ronni Rapalono', 'your shower', 's01_e13_c08_u003')
+
+event_id: s01_e13_c08_u003_e3
+utterance_id: s01_e13_c08_u003
+  tuple: ('be', 'Chandler', 'in ours', 's01_e13_c08_u003')
+
+event_id: s01_e13_c08_u004_e1
+utterance_id: s01_e13_c08_u004
+  tuple: ('be', 'you/Ronni Rapalono', 'who', 's01_e13_c08_u004')
+
+event_id: s01_e13_c08_u005_e1
+utterance_id: s01_e13_c08_u005
+  tuple: ('be', 'I/Ronni Rapalono', 'Ronni', 's01_e13_c08_u005')
+
+event_id: s01_e13_c08_u006_e1
+utterance_id: s01_e13_c08_u006
+  tuple: ('come', 'you/Ronni Rapalono', 'in', 's01_e13_c08_u006')
+
+event_id: s01_e13_c08_u008_e1
+utterance_id: s01_e13_c08_u008
+  tuple: ('be', 'I/Rachel Green', 'Rachel', 's01_e13_c08_u008')
+
+event_id: s01_e13_c08_u010_e1
+utterance_id: s01_e13_c08_u010
+  tuple: ('be', 'Bathroom', 'up there', 's01_e13_c08_u010')
+
+event_id: s01_e13_c08_u012_e1
+utterance_id: s01_e13_c08_u012
+  tuple: ('listen', 'you/Ronni Rapalono', None, 's01_e13_c08_u012')
+
+event_id: s01_e13_c08_u012_e2
+utterance_id: s01_e13_c08_u012
+  tuple: ('say', 'you/Ronni Rapalono', "Chandler's been in the shower", 's01_e13_c08_u012')
+
+event_id: s01_e13_c08_u012_e3
+utterance_id: s01_e13_c08_u012
+  tuple: ('be', 'Chandler', 'in the shower', 's01_e13_c08_u012')
+
+event_id: s01_e13_c08_u014_e1
+utterance_id: s01_e13_c08_u014
+  tuple: ('fasten', 'you/everyone', 'your seatbelts', 's01_e13_c08_u014')
+
+event_id: s01_e13_c08_u014_e2
+utterance_id: s01_e13_c08_u014
+  tuple: ('be', 'it/the time', 'peepee time', 's01_e13_c08_u014')
+
+event_id: s01_e13_c08_u017_e1
+utterance_id: s01_e13_c08_u017
+  tuple: ('be', 'it/the time', 'time to see your thing', 's01_e13_c08_u017')
+
+event_id: s01_e13_c08_u019_e1
+utterance_id: s01_e13_c08_u019
+  tuple: ('be', 'the matter', 'with you', 's01_e13_c08_u019')
+
+event_id: s01_e13_c08_u020_e1
+utterance_id: s01_e13_c08_u020
+  tuple: ('think', 'I/Rachel Green', 'it was Chandler', 's01_e13_c08_u020')
+
+event_id: s01_e13_c08_u020_e2
+utterance_id: s01_e13_c08_u020
+  tuple: ('be', 'it/the person in the shower', 'Chandler', 's01_e13_c08_u020')
+
+event_id: s01_e13_c08_u022_e1
+utterance_id: s01_e13_c08_u022
+  tuple: ('be', 'you/Chandler Bing', 'in there', 's01_e13_c08_u022')
+
+event_id: s01_e13_c08_u022_e2
+utterance_id: s01_e13_c08_u022
+  tuple: ('see', 'I/Rachel Green', 'your thing', 's01_e13_c08_u022')
+
+event_id: s01_e13_c08_u023_e1
+utterance_id: s01_e13_c08_u023
+  tuple: ('be', 'my thing', 'in there', 's01_e13_c08_u023')
+  tuple: ('be', 'my thing', 'with me', 's01_e13_c08_u023')
+

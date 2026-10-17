@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Pushes into the game by putting hands in another’s cards and insisting to see them; openly argues about the outcome (“I am not losing”)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Attempts to see another player’s cards and interferes with their hand; argues and refuses to accept losing, showing low cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless rule-breaking behavior (hands in another’s cards); another player notes mismatched clothes, suggesting lack of attention to order."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Described as unable to stand losing; face turning red with veins popping, showing strong emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity/inventiveness or dogmatism/caution in the exchange."
+  }
+}

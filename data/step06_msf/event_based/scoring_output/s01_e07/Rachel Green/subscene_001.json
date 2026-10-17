@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Enthusiastically comments on the blackout (“so cool”) and keeps talking about it, showing energetic excitement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating helpfulness or hostility toward others."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization or carelessness in the statements."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responds to a disruptive event with excitement rather than worry, indicating calm/confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Finds the unusual situation intriguing (“so cool”) and highlights its scale, suggesting openness to novel experiences."
+  }
+}

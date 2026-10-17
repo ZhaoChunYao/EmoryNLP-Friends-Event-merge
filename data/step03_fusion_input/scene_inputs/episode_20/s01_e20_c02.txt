@@ -1,0 +1,264 @@
+('tell', 'I/(Chandler Bing)', 'you', 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('study', 'schoolchildren', "it/(Chandler's first date)", 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('study', 'schoolchildren', 'as one of the greatest first dates of all time', 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('be', "it/(Chandler's first date)", 'unbelievable', 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('be', 'we/(Chandler Bing+his date)', 'ourselves', 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('play', 'we/(Chandler Bing+his date)', 'any games', 's01_e20_c02_u001')
+[s01_e20_c02_u001] Chandler Bing: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...
+
+('call', 'you/(Chandler Bing)', 'her', 's01_e20_c02_u002')
+[s01_e20_c02_u002] Monica Geller: So have you called her yet?
+
+('let', 'I/(Chandler Bing)', 'her', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('know', "she/(Chandler's date)", 'I like her', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('like', 'I/(Chandler Bing)', 'her', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('be', 'you/(Monica Geller)', 'insane', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('be', 'it/(today)', 'the next day', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('want', 'I/(Chandler Bing)', 'to seem needy', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('seem', 'I/(Chandler Bing)', 'needy', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('be', 'I/(Chandler Bing)', 'right', 's01_e20_c02_u003')
+[s01_e20_c02_u003] Chandler Bing: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?
+
+('let', 'you/(Chandler Bing)', 'her', 's01_e20_c02_u004')
+[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+
+('dangle', "she/(Chandler's date)", None, 's01_e20_c02_u004')
+[s01_e20_c02_u004] Joey Tribbiani, Ross Geller: Oh, yeah. Yeah. Let her dangle.
+
+('believe', 'I/(Monica Geller)', 'my parents are actually pressuring me to find one of you people', 's01_e20_c02_u005')
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+
+('pressure', 'my parents', 'me', 's01_e20_c02_u005')
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+
+('find', 'I/(Monica Geller)', 'one of you people', 's01_e20_c02_u005')
+[s01_e20_c02_u005] Monica Geller: I can't believe my parents are actually pressuring me to find one of you people.
+
+('do', 'you/(Chandler Bing)', 'it', 's01_e20_c02_u006')
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+
+('stop', 'you/(Chandler Bing)', 'being so testosteroney', 's01_e20_c02_u006')
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+
+('be', 'you/(Chandler Bing)', 'so testosteroney', 's01_e20_c02_u006')
+[s01_e20_c02_u006] Phoebe Buffay: Oh, God, just do it! Call her! Stop being so testosteroney!
+
+('be', 'which/(testosteroney)', 'the real San Francisco treat', 's01_e20_c02_u007')
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine.
+
+('get', 'I/(Chandler Bing)', 'her machine', 's01_e20_c02_u007')
+[s01_e20_c02_u007] Chandler Bing: Which, by the way, is the real San Francisco treat. I got her machine.
+
+('pick', 'her leaf blower', None, 's01_e20_c02_u009')
+[s01_e20_c02_u009] Chandler Bing: No, interestingly enough her leaf blower picked up.
+
+('say', 'you/(Chandler Bing)', 'anything', 's01_e20_c02_u010')
+[s01_e20_c02_u010] Phoebe Buffay: So, uh, why didn't you say anything?
+
+('leave', 'I/(Chandler Bing)', 'a spontaneous message', 's01_e20_c02_u011')
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase "Yes indeedy-o."
+
+('end', 'I/(Chandler Bing)', 'up using the phrase "Yes indeedy-o"', 's01_e20_c02_u011')
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase "Yes indeedy-o."
+
+('use', 'I/(Chandler Bing)', 'the phrase "Yes indeedy-o"', 's01_e20_c02_u011')
+[s01_e20_c02_u011] Chandler Bing: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase "Yes indeedy-o."
+
+('look', 'you/(everyone)', None, 's01_e20_c02_u012')
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+
+('be', "it/(what we're seeing)", 'Rachel and Barry', 's01_e20_c02_u012')
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+
+('look', 'everybody', None, 's01_e20_c02_u012')
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+
+('look', 'everybody', 'at once', 's01_e20_c02_u012')
+[s01_e20_c02_u012] Monica Geller: Look look! It's Rachel and Barry. No, don't everybody look at once!
+
+('go', 'what/(situation)', 'on', 's01_e20_c02_u013')
+[s01_e20_c02_u013] Ross Geller: Okay, okay, what's going on?
+
+('talk', 'they/(Rachel Green+Barry Farber)', None, 's01_e20_c02_u014')
+[s01_e20_c02_u014] Phoebe Buffay: Okay, they're just talking...
+
+('look', 'he/(Barry Farber)', 'upset', 's01_e20_c02_u015')
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+
+('look', 'he/(Barry Farber)', 'like he was just told to shove anything', 's01_e20_c02_u015')
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+
+('tell', 'someone', 'him', 's01_e20_c02_u015')
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+
+('shove', 'he/(Barry Farber)', 'anything', 's01_e20_c02_u015')
+[s01_e20_c02_u015] Ross Geller: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+
+('smile', 'he/(Barry Farber)', None, 's01_e20_c02_u016')
+[s01_e20_c02_u016] Phoebe Buffay: No, no actually, he's smiling.. and... Oh my God, don't do that!!
+
+('do', 'you/(that man across the street)', 'that', 's01_e20_c02_u016')
+[s01_e20_c02_u016] Phoebe Buffay: No, no actually, he's smiling.. and... Oh my God, don't do that!!
+
+('kick', 'that man across the street', 'that pigeon', 's01_e20_c02_u018')
+[s01_e20_c02_u018] Phoebe Buffay: That man across the street just kicked that pigeon! Oh!
+
+('become', 'a bill', 'a law', 's01_e20_c02_u019')
+[s01_e20_c02_u019] Chandler Bing: And basically, that's how a bill becomes a law.
+
+('go', 'it/(Rachel+Barry meetup)', None, 's01_e20_c02_u022')
+[s01_e20_c02_u022] Monica Geller: How'd it go?
+
+('be', 'it/(Rachel+Barry meetup)', 'really great', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('take', 'he/(Barry Farber)', 'me', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('take', 'he/(Barry Farber)', 'to lunch', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('take', 'he/(Barry Farber)', 'at the Russian Tea Room', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('have', 'I/(Rachel Green)', 'that chicken', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('poke', 'you/(generic)', 'it', 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('squirt', 'all the butter', None, 's01_e20_c02_u023')
+[s01_e20_c02_u023] Rachel Green: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...
+
+('take', 'we/(Rachel Green+Barry Farber)', 'a walk', 's01_e20_c02_u025')
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+
+('take', 'we/(Rachel Green+Barry Farber)', "down to Bendall's", 's01_e20_c02_u025')
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+
+('tell', 'I/(Rachel Green)', 'him', 's01_e20_c02_u025')
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+
+('get', 'he/(Barry Farber)', 'me a little bottle of Chanel', 's01_e20_c02_u025')
+[s01_e20_c02_u025] Rachel Green: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...
+
+('be', 'that', 'nice', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('tell', 'you/(Rachel Green)', 'him', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('stop', 'him/(Barry Farber)', 'calling', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('call', 'him/(Barry Farber)', 'you', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('stop', 'him/(Barry Farber)', 'sending you flowers', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('send', 'him/(Barry Farber)', 'you flowers', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('leave', 'him/(Barry Farber)', 'you alone', 's01_e20_c02_u026')
+[s01_e20_c02_u026] Ross Geller: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+
+('get', 'we/(Rachel Green+Barry Farber)', 'to that', 's01_e20_c02_u027')
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+
+('be', 'it/(seeing Barry again)', 'nice', 's01_e20_c02_u027')
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+
+('see', 'we/(Rachel Green+Barry Farber)', 'him again', 's01_e20_c02_u027')
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+
+('be', 'it/(seeing Barry again)', 'comfortable', 's01_e20_c02_u027')
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+
+('be', 'it/(seeing Barry again)', 'familiar', 's01_e20_c02_u027')
+[s01_e20_c02_u027] Rachel Green: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!
+
+('be', 'that', 'nice twice', 's01_e20_c02_u028')
+[s01_e20_c02_u028] Ross Geller: That's, that's nice twice!
+
+('be', 'this', 'the same Barry who you left at the altar', 's01_e20_c02_u029')
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+
+('leave', 'you/(Rachel Green)', 'Barry', 's01_e20_c02_u029')
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+
+('leave', 'you/(Rachel Green)', 'at the altar', 's01_e20_c02_u029')
+[s01_e20_c02_u029] Monica Geller: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+
+('be', 'you/(Monica Geller)', None, 's01_e20_c02_u030')
+[s01_e20_c02_u030] Joey Tribbiani: Duh, where've you been?
+
+('be', 'it/(time with Barry today)', 'different', 's01_e20_c02_u031')
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+
+('be', 'it/(time with Barry today)', 'with him', 's01_e20_c02_u031')
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+
+('be', 'he/(Barry Farber)', 'Orthodontist Guy', 's01_e20_c02_u031')
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+
+('have', 'we/(Rachel Green+Barry Farber)', 'fun', 's01_e20_c02_u031')
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+
+('be', 'anything', 'wrong with that', 's01_e20_c02_u031')
+[s01_e20_c02_u031] Rachel Green: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?
+
+('have', 'I/(Chandler Bing)', 'my reasons', 's01_e20_c02_u035')
+[s01_e20_c02_u035] Chandler Bing: I have my reasons.
+
+('engage', 'he/(Barry Farber)', 'to another woman', 's01_e20_c02_u036')
+[s01_e20_c02_u036] Monica Geller: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+
+('happen', 'she/(Mindy)', 'to be your ex-best friend', 's01_e20_c02_u036')
+[s01_e20_c02_u036] Monica Geller: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+
+('be', 'she/(Mindy)', 'your ex-best friend', 's01_e20_c02_u036')
+[s01_e20_c02_u036] Monica Geller: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+
+('know', 'I/(Rachel Green)', "it's stupid", 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+
+('be', 'it/(seeing Barry again)', 'stupid', 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+
+('go', 'I/(Rachel Green)', 'see him this afternoon', 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+
+('see', 'I/(Rachel Green)', 'him', 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+
+('put', 'I/(Rachel Green)', 'an end', 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+
+('put', 'I/(Rachel Green)', 'to it', 's01_e20_c02_u037')
+[s01_e20_c02_u037] Rachel Green: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!
+

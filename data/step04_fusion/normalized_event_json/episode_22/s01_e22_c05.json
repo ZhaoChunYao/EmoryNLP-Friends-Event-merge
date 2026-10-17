@@ -1,0 +1,342 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c05_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u001_e1",
+          "tuples": [
+            "('let', 'you/Ross Geller', 'it', 's01_e22_c05_u001')",
+            "('go', 'it/(the dream)', None, 's01_e22_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u001_e2",
+          "tuples": [
+            "('be', \"it/(Ross's dream)\", 'a dream', 's01_e22_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u001_e3",
+          "tuples": [
+            "('mean', \"it/(Ross's dream)\", None, 's01_e22_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u003",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u003_e1",
+          "tuples": [
+            "('be', 'this/(the moment)', 'it', 's01_e22_c05_u003')",
+            "('be', 'it/(the moment)', 'baby time', 's01_e22_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u004",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u004_e1",
+          "tuples": [
+            "('relax', 'you/Ross Geller', None, 's01_e22_c05_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u004_e2",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'cool', 's01_e22_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u006",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u006_e1",
+          "tuples": [
+            "('beep', 'I/Ross Geller', None, 's01_e22_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u006_e2",
+          "tuples": [
+            "('be', 'Andr', 'here', 's01_e22_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u006_e3",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'sure', 's01_e22_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u006_e4",
+          "tuples": [
+            "('perform', 'I/Ross Geller', 'those kind of services', 's01_e22_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u008",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u008_e1",
+          "tuples": [
+            "('want', 'you/(caller)', '55-JUMBO', 's01_e22_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u008_e2",
+          "tuples": [
+            "('be', 'that/(the number)', 'right', 's01_e22_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u008_e3",
+          "tuples": [
+            "('believe', 'you/(caller)', 'me', 's01_e22_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u008_e4",
+          "tuples": [
+            "('want', 'you/(caller)', 'me', 's01_e22_c05_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u008_e5",
+          "tuples": [
+            "('judge', 'I/Ross Geller', 'by his number', 's01_e22_c05_u008')",
+            "('be', 'I/Ross Geller', 'a huge disappointment', 's01_e22_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u010",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u010_e1",
+          "tuples": [
+            "('be', 'the first day', None, 's01_e22_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u011",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u011_e1",
+          "tuples": [
+            "('be', 'Everyone', 'so nice', 's01_e22_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u012",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u012_e1",
+          "tuples": [
+            "('pay', 'it/(the situation)', 'to know the man who wears my shoes', 's01_e22_c05_u012')",
+            "('know', 'you/Phoebe Buffay', 'the man', 's01_e22_c05_u012')",
+            "('wear', 'the man', 'my shoes', 's01_e22_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u013",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u013_e1",
+          "tuples": [
+            "('tell', 'I/Phoebe Buffay', 'anybody', 's01_e22_c05_u013')",
+            "('know', 'I/Phoebe Buffay', 'you', 's01_e22_c05_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u015",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u015_e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', None, 's01_e22_c05_u015')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u015_e2",
+          "tuples": [
+            "('like', 'they/(everyone at work)', 'you/Chandler Bing', 's01_e22_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u017",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u017_e1",
+          "tuples": [
+            "('think', 'I/Phoebe Buffay', 'that', 's01_e22_c05_u017')",
+            "('know', 'you/Chandler Bing', 'that', 's01_e22_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u018",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u018_e1",
+          "tuples": [
+            "('like', 'they/(everyone at work)', 'me/Chandler Bing', 's01_e22_c05_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u020",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u020_e1",
+          "tuples": [
+            "('talk', 'you/Chandler Bing', 'about what', 's01_e22_c05_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u021",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u021_e1",
+          "tuples": [
+            "('feel', 'you/Chandler Bing', 'bad', 's01_e22_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u021_e2",
+          "tuples": [
+            "('promote', 'you/Chandler Bing', None, 's01_e22_c05_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c05_u021_e3",
+          "tuples": [
+            "('be', 'you/Chandler Bing', 'like Mr. Boss Man', 's01_e22_c05_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u023",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u023_e1",
+          "tuples": [
+            "('believe', 'I/Chandler Bing', 'it', 's01_e22_c05_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u024",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u024_e1",
+          "tuples": [
+            "('do', 'they/(everyone at work)', 'you/Chandler Bing', 's01_e22_c05_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u025",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u025_e1",
+          "tuples": [
+            "('do', 'they/(everyone at work)', 'me/Chandler Bing', 's01_e22_c05_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u026",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u026_e1",
+          "tuples": [
+            "('be', 'that report', 'any later', 's01_e22_c05_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u028",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u028_e1",
+          "tuples": [
+            "('sound', 'I/Chandler Bing', 'like that', 's01_e22_c05_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u030",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u030_e1",
+          "tuples": [
+            "('do', 'you/Chandler Bing', None, 's01_e22_c05_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u031",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u031_e1",
+          "tuples": [
+            "('be', 'The hills', 'alive with the sound of music', 's01_e22_c05_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u036",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u036_e1",
+          "tuples": [
+            "('be', 'That/(impression)', 'so not true', 's01_e22_c05_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c05_u038",
+      "events": [
+        {
+          "event_id": "s01_e22_c05_u038_e1",
+          "tuples": [
+            "('shut up', 'you/(Joey Tribbiani, Phoebe Buffay, Ross Geller)', None, 's01_e22_c05_u038')"
+          ]
+        }
+      ]
+    }
+  ]
+}

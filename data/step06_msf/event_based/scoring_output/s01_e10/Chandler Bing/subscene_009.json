@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly addresses the group with a celebratory announcement (“the moment of joy is upon…”) and readily speaks up to deliver news to Speaker_01."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern about how to deliver bad news (“I don’t know how to tell you”) yet is candid and straightforward about Speaker_02’s actions."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or diligence; the actions are limited to sharing news and celebrating."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Brief hesitation about delivering bad news but quickly composes themself and remains calm and celebratory; no strong signs of anxiety or insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete indications of curiosity or unconventional thinking beyond a small humorous aside; insufficient evidence for openness."
+  }
+}

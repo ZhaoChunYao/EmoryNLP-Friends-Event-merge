@@ -1,0 +1,145 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e21_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u001_e1",
+          "tuples": [
+            "('get', 'we/Ross Geller+Marcel', 'into Scranton', 's01_e21_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u001_e2",
+          "tuples": [
+            "('be', 'that/Scranton', 'like our safety zoo', 's01_e21_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u001_e3",
+          "tuples": [
+            "('take', 'they/Scranton zoo', 'dogs and cows', 's01_e21_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u001_e4",
+          "tuples": [
+            "('see', 'you/(group)', None, 's01_e21_c09_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u001_e5",
+          "tuples": [
+            "('know', 'I/Ross Geller', 'who this is harder on, me or him', 's01_e21_c09_u001')",
+            "('be', 'this/(not getting into Scranton)', 'harder on me', 's01_e21_c09_u001')",
+            "('be', 'this/(not getting into Scranton)', 'harder on him', 's01_e21_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u002",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u002_e1",
+          "tuples": [
+            "('say', 'I/Phoebe Buffay', \"that chair's taking the brunt\", 's01_e21_c09_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u002_e2",
+          "tuples": [
+            "('take', 'that chair', 'the brunt', 's01_e21_c09_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u003_e1",
+          "tuples": [
+            "('want', 'nobody', 'him', 's01_e21_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u005_e1",
+          "tuples": [
+            "('know', 'you/Chandler Bing', 'there already is a Joseph Stalin', 's01_e21_c09_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u005_e2",
+          "tuples": [
+            "('be', 'there', 'a Joseph Stalin', 's01_e21_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u006_e1",
+          "tuples": [
+            "('kid', 'you/Joey Tribbiani', None, 's01_e21_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u007",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u007_e1",
+          "tuples": [
+            "('be', 'he/Joseph Stalin', 'this Russian dictator who slaughtered all these people', 's01_e21_c09_u007')",
+            "('slaughter', 'who/Joseph Stalin', 'all these people', 's01_e21_c09_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u007_e2",
+          "tuples": [
+            "('think', 'you/Chandler Bing', \"you would've known that\", 's01_e21_c09_u007')",
+            "('know', 'you/Chandler Bing', 'that', 's01_e21_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u008",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u008_e1",
+          "tuples": [
+            "('know', 'you/Joey Tribbiani', None, 's01_e21_c09_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e21_c09_u008_e2",
+          "tuples": [
+            "('think', 'you/Joey Tribbiani', \"I would've\", 's01_e21_c09_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e21_c09_u009",
+      "events": [
+        {
+          "event_id": "s01_e21_c09_u009_e1",
+          "tuples": [
+            "('think', 'you/Phoebe Buffay', 'a good stage name for me would be', 's01_e21_c09_u009')",
+            "('be', 'a good stage name for me', None, 's01_e21_c09_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

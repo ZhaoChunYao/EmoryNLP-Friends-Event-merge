@@ -1,0 +1,233 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e22_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u001_e1",
+          "tuples": [
+            "('tell', 'you/(Rachel Green)', 'him', 's01_e22_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u005_e1",
+          "tuples": [
+            "('shut', 'you/(Monica Geller)', 'up', 's01_e22_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u006",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u006_e1",
+          "tuples": [
+            "('tell', 'you/(Monica Geller)', 'me', 's01_e22_c01_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u007_e1",
+          "tuples": [
+            "('look', 'you/(Rachel Green)', 'at you', 's01_e22_c01_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u007_e2",
+          "tuples": [
+            "('look', 'you/(Rachel Green)', None, 's01_e22_c01_u007')",
+            "('look', 'you/(Rachel Green)', 'at him', 's01_e22_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u008_e1",
+          "tuples": [
+            "('come', 'you/(Rachel Green)', 'on', 's01_e22_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u008_e2",
+          "tuples": [
+            "('use', 'I/(Chandler Bing)', 'another reason', 's01_e22_c01_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u008_e3",
+          "tuples": [
+            "('look', 'women', None, 's01_e22_c01_u008')",
+            "('look', 'women', 'at me', 's01_e22_c01_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u009",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u009_e1",
+          "tuples": [
+            "('have', 'I/(Rachel Green)', 'a dream', 's01_e22_c01_u009')",
+            "('be', 'you/(Chandler Bing) and I/(Rachel Green)', None, 's01_e22_c01_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u010",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u010_e1",
+          "tuples": [
+            "('do', 'you/(Chandler Bing) and I/(Rachel Green)', 'it', 's01_e22_c01_u010')",
+            "('do', 'you/(Chandler Bing) and I/(Rachel Green)', 'on this table', 's01_e22_c01_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u013",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u013_e1",
+          "tuples": [
+            "('dream', 'you/(Rachel Green)', 'that', 's01_e22_c01_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u014",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u014_e1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'any good', 's01_e22_c01_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u015",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u015_e1",
+          "tuples": [
+            "('be', 'you/(Chandler Bing)', 'pretty damn good', 's01_e22_c01_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u016",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u016_e1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'surprisingly inadequate', 's01_e22_c01_u016')",
+            "('be', 'I/(Chandler Bing)', 'in my dreams', 's01_e22_c01_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u017",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u017_e1",
+          "tuples": [
+            "('know', 'you/(Chandler Bing)', 'your way around the table', 's01_e22_c01_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u018",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u018_e1",
+          "tuples": [
+            "('love', 'I/(Ross Geller)', 'it', 's01_e22_c01_u018')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u018_e2",
+          "tuples": [
+            "('share', 'we/(Ross Geller and friends)', None, 's01_e22_c01_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u020",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u020_e1",
+          "tuples": [
+            "('be', 'you/(Ross Geller)', 'okay', 's01_e22_c01_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u021",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u021_e1",
+          "tuples": [
+            "('believe', 'I/(Ross Geller)', 'you two had sex in her dream', 's01_e22_c01_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u021_e2",
+          "tuples": [
+            "('have', 'you two/(Chandler Bing and Rachel Green)', 'sex in her dream', 's01_e22_c01_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e22_c01_u022",
+      "events": [
+        {
+          "event_id": "s01_e22_c01_u022_e1",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'sorry', 's01_e22_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u022_e2",
+          "tuples": [
+            "('be', \"it/(sex in Rachel's dream)\", 'a one-time-thing', 's01_e22_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u022_e3",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'very drunk', 's01_e22_c01_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e22_c01_u022_e4",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', \"somebody else's subconscious\", 's01_e22_c01_u022')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker actively engages the group with multiple questions and a playful tease about age, indicating outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "They are direct and straightforward, bluntly asking if Speaker_02 has any problem with Speaker_03’s age without evasiveness or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No evidence of organization or carelessness; the remarks are casual and unrelated to tasks or planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably jokes and probes about a potentially sensitive topic (age difference) in a group without signs of anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and a playful, imaginative remark (“when were we that age?”), suggesting openness in thinking and conversation."
+  }
+}

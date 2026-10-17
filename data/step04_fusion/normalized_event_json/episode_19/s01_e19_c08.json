@@ -1,0 +1,198 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e19_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u001_e1",
+          "tuples": [
+            "('be', 'it/(expletive)', 'nice to get this off finally', 's01_e19_c08_u001')",
+            "('get', 'we/(Ross Geller and Rachel Green)', 'off this', 's01_e19_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u001_e2",
+          "tuples": [
+            "('leave', 'we/(Ross Geller and Rachel Green)', 'it', 's01_e19_c08_u001')",
+            "('leave', 'we/(Ross Geller and Rachel Green)', 'for now', 's01_e19_c08_u001')",
+            "('be', 'that/(leaving it on for now)', 'fine', 's01_e19_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u002",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u002_e1",
+          "tuples": [
+            "('know', 'you/(Ross Geller)', None, 's01_e19_c08_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u002_e2",
+          "tuples": [
+            "('be', \"that/(what you're wearing)\", 'a great little outfit', 's01_e19_c08_u002')",
+            "('be', \"that/(what you're wearing)\", 'with the right pair of pumps', 's01_e19_c08_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u003",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u003_e1",
+          "tuples": [
+            "('listen', 'you/(Rachel Green)', None, 's01_e19_c08_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u003_e2",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'sorry', 's01_e19_c08_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u003_e3",
+          "tuples": [
+            "('be', 'I/(Ross Geller)', 'so hard', 's01_e19_c08_u003')",
+            "('be', 'I/(Ross Geller)', 'on you', 's01_e19_c08_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u003_e4",
+          "tuples": [
+            "('be', 'it/(expletive)', 'I', 's01_e19_c08_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u004",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u004_e1",
+          "tuples": [
+            "('come', 'you/(Ross Geller)', 'on', 's01_e19_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u004_e2",
+          "tuples": [
+            "('be', 'it/(expletive)', 'my fault', 's01_e19_c08_u004')",
+            "('lose', 'I/(Rachel Green)', 'your...', 's01_e19_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u005",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u005_e1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'the one', 's01_e19_c08_u005')",
+            "('get', 'you/(Rachel Green)', 'him', 's01_e19_c08_u005')",
+            "('be', 'you/(Rachel Green)', 'great', 's01_e19_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u005_e2",
+          "tuples": [
+            "('know', 'you/(Rachel Green)', None, 's01_e19_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u005_e3",
+          "tuples": [
+            "('have', 'we/(Ross Geller and Rachel Green)', 'that bottle of wine', 's01_e19_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u005_e4",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'in the mood', 's01_e19_c08_u005')",
+            "('be', 'you/(Rachel Green)', 'for something grape', 's01_e19_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u006",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u006_e1",
+          "tuples": [
+            "('be', 'that/(wine)', 'good', 's01_e19_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u007",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u007_e1",
+          "tuples": [
+            "('vacuum', 'the neighbours', None, 's01_e19_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u007_e2",
+          "tuples": [
+            "('be', 'we/(Ross Geller and Rachel Green)', 'here', 's01_e19_c08_u007')",
+            "('be', 'we/(Ross Geller and Rachel Green)', 'on the subject', 's01_e19_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u007_e3",
+          "tuples": [
+            "('think', 'I/(Ross Geller)', 'about how mad we got at each other before', 's01_e19_c08_u007')",
+            "('think', 'I/(Ross Geller)', 'maybe it was partially because of how we', 's01_e19_c08_u007')",
+            "('be', 'it/(expletive)', 'partially because of how we', 's01_e19_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u007_e4",
+          "tuples": [
+            "('get', 'we/(Ross Geller and Rachel Green)', 'mad', 's01_e19_c08_u007')",
+            "('get', 'we/(Ross Geller and Rachel Green)', 'at each other', 's01_e19_c08_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u011",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u011_e1",
+          "tuples": [
+            "('do', 'I/(Barry Farber)', 'it', 's01_e19_c08_u011')",
+            "('marry', 'I/(Barry Farber)', 'Mindy', 's01_e19_c08_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c08_u011_e2",
+          "tuples": [
+            "('think', 'I/(Barry Farber)', \"I'm still in love with you\", 's01_e19_c08_u011')",
+            "('be', 'I/(Barry Farber)', 'still in love', 's01_e19_c08_u011')",
+            "('be', 'I/(Barry Farber)', 'with you', 's01_e19_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c08_u013",
+      "events": [
+        {
+          "event_id": "s01_e19_c08_u013_e1",
+          "tuples": [
+            "('start', 'we/(Ross Geller and Rachel Green)', 'locking that door', 's01_e19_c08_u013')",
+            "('lock', 'we/(Ross Geller and Rachel Green)', 'that door', 's01_e19_c08_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

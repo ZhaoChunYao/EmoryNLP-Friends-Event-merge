@@ -1,0 +1,291 @@
+event_id: s01_e19_c05_u001_e1
+utterance_id: s01_e19_c05_u001
+  tuple: ('be', 'the one in the feather boa', 'Dr. Francis', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e2
+utterance_id: s01_e19_c05_u001
+  tuple: ('be', 'she/Dr. Francis', 'a man', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e3
+utterance_id: s01_e19_c05_u001
+  tuple: ('look', 'you/Barry', None, 's01_e19_c05_u001')
+  tuple: ('see', 'you/Barry', 'Raven', 's01_e19_c05_u001')
+  tuple: ('be', 'Raven', 'there', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e4
+utterance_id: s01_e19_c05_u001
+  tuple: ('hate', 'we/(Rachel, Barry)', 'her', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e5
+utterance_id: s01_e19_c05_u001
+  tuple: ('be', 'we/(Rachel, Barry)', 'glad', 's01_e19_c05_u001')
+  tuple: ('die', 'she/Raven', None, 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e6
+utterance_id: s01_e19_c05_u001
+  tuple: ('play', 'you/Marcel', "with Monica's shoes", 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e7
+utterance_id: s01_e19_c05_u001
+  tuple: ('know', 'you/Marcel', None, 's01_e19_c05_u001')
+  tuple: ('suppose', 'you/Marcel', None, 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e8
+utterance_id: s01_e19_c05_u001
+  tuple: ('poop', 'you/Marcel', 'in the shoe', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e9
+utterance_id: s01_e19_c05_u001
+  tuple: ('be', 'I/Rachel', 'sure', 's01_e19_c05_u001')
+  tuple: ('register', 'you/Barry', 'for that', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e10
+utterance_id: s01_e19_c05_u001
+  tuple: ('die', 'who/(unknown)', None, 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e11
+utterance_id: s01_e19_c05_u001
+  tuple: ('roll', 'you/(TV characters)', 'over him', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u001_e12
+utterance_id: s01_e19_c05_u001
+  tuple: ('know', 'we/(Rachel, Marcel)', None, 's01_e19_c05_u001')
+  tuple: ('be', 'it/(the dead person)', 'Dexter', 's01_e19_c05_u001')
+
+event_id: s01_e19_c05_u003_e1
+utterance_id: s01_e19_c05_u003
+  tuple: ('lose', 'you/Rachel', 'him', 's01_e19_c05_u003')
+
+event_id: s01_e19_c05_u004_e1
+utterance_id: s01_e19_c05_u004
+  tuple: ('know', 'I/Rachel', None, 's01_e19_c05_u004')
+
+event_id: s01_e19_c05_u004_e2
+utterance_id: s01_e19_c05_u004
+  tuple: ('watch', 'we/(Rachel, Marcel)', 'TV', 's01_e19_c05_u004')
+
+event_id: s01_e19_c05_u004_e3
+utterance_id: s01_e19_c05_u004
+  tuple: ('poop', 'he/Marcel', "in Monica's shoe", 's01_e19_c05_u004')
+
+event_id: s01_e19_c05_u005_e1
+utterance_id: s01_e19_c05_u005
+  tuple: ('poop', 'he/Marcel', 'in my shoe', 's01_e19_c05_u005')
+
+event_id: s01_e19_c05_u006_e1
+utterance_id: s01_e19_c05_u006
+  tuple: ('know', 'I/Rachel', None, 's01_e19_c05_u006')
+
+event_id: s01_e19_c05_u008_e1
+utterance_id: s01_e19_c05_u008
+  tuple: ('think', 'you/Monica', None, 's01_e19_c05_u008')
+  tuple: ('go', 'those little clunky Amish things', 'with everything', 's01_e19_c05_u008')
+
+event_id: s01_e19_c05_u011_e1
+utterance_id: s01_e19_c05_u011
+  tuple: ('be', 'the air in here', 'so negative', 's01_e19_c05_u011')
+
+event_id: s01_e19_c05_u012_e1
+utterance_id: s01_e19_c05_u012
+  tuple: ('lose', 'Rachel', 'Marcel', 's01_e19_c05_u012')
+
+event_id: s01_e19_c05_u014_e1
+utterance_id: s01_e19_c05_u014
+  tuple: ('poop', 'he/Marcel', 'in my shoe', 's01_e19_c05_u014')
+
+event_id: s01_e19_c05_u016_e1
+utterance_id: s01_e19_c05_u016
+  tuple: ('wear', 'I/Monica', 'those cute little black ones', 's01_e19_c05_u016')
+
+event_id: s01_e19_c05_u017_e1
+utterance_id: s01_e19_c05_u017
+  tuple: ('be', 'the left one', 'lucky', 's01_e19_c05_u017')
+
+event_id: s01_e19_c05_u018_e1
+utterance_id: s01_e19_c05_u018
+  tuple: ('do', 'we/(Rachel, Chandler, Monica, Joey, Phoebe)', None, 's01_e19_c05_u018')
+
+event_id: s01_e19_c05_u019_e1
+utterance_id: s01_e19_c05_u019
+  tuple: ('be', 'you/Marcel', 'a monkey', 's01_e19_c05_u019')
+  tuple: ('be', 'you/Marcel', 'loose', 's01_e19_c05_u019')
+
+event_id: s01_e19_c05_u019_e2
+utterance_id: s01_e19_c05_u019
+  tuple: ('go', 'you/Marcel', None, 's01_e19_c05_u019')
+
+event_id: s01_e19_c05_u020_e1
+utterance_id: s01_e19_c05_u020
+  tuple: ('be', 'it/(his first time out)', 'his first time out', 's01_e19_c05_u020')
+
+event_id: s01_e19_c05_u020_e2
+utterance_id: s01_e19_c05_u020
+  tuple: ('want', 'he/Marcel', 'do some of the touristy things', 's01_e19_c05_u020')
+
+event_id: s01_e19_c05_u020_e3
+utterance_id: s01_e19_c05_u020
+  tuple: ('go', 'I/Chandler', 'to Cats', 's01_e19_c05_u020')
+
+event_id: s01_e19_c05_u020_e4
+utterance_id: s01_e19_c05_u020
+  tuple: ('go', 'you/Joey', 'to the Russian Tea Room', 's01_e19_c05_u020')
+
+event_id: s01_e19_c05_u021_e1
+utterance_id: s01_e19_c05_u021
+  tuple: ('be', 'he/Ross', 'home', 's01_e19_c05_u021')
+
+event_id: s01_e19_c05_u021_e2
+utterance_id: s01_e19_c05_u021
+  tuple: ('kill', 'he/Ross', 'me/Rachel', 's01_e19_c05_u021')
+
+event_id: s01_e19_c05_u022_e1
+utterance_id: s01_e19_c05_u022
+  tuple: ('start', 'we/(Monica, Phoebe, Chandler, Joey)', 'with the building', 's01_e19_c05_u022')
+  tuple: ('take', 'you guys/(Chandler, Joey)', 'the first and second floor', 's01_e19_c05_u022')
+  tuple: ('take', 'Phoebe and I', 'third and fourth', 's01_e19_c05_u022')
+
+event_id: s01_e19_c05_u023_e1
+utterance_id: s01_e19_c05_u023
+  tuple: ('do', 'I/Rachel', None, 's01_e19_c05_u023')
+
+event_id: s01_e19_c05_u024_e1
+utterance_id: s01_e19_c05_u024
+  tuple: ('stay', 'you/Rachel', 'here', 's01_e19_c05_u024')
+
+event_id: s01_e19_c05_u024_e2
+utterance_id: s01_e19_c05_u024
+  tuple: ('wait', 'you/Rachel', 'by the phone', 's01_e19_c05_u024')
+
+event_id: s01_e19_c05_u024_e3
+utterance_id: s01_e19_c05_u024
+  tuple: ('spray', 'you/Rachel', 'Lysol', 's01_e19_c05_u024')
+  tuple: ('spray', 'you/Rachel', 'in my shoe', 's01_e19_c05_u024')
+
+event_id: s01_e19_c05_u024_e4
+utterance_id: s01_e19_c05_u024
+  tuple: ('wait', 'you/Rachel', 'for Ross to kill you', 's01_e19_c05_u024')
+  tuple: ('kill', 'Ross', 'you/Rachel', 's01_e19_c05_u024')
+
+event_id: s01_e19_c05_u026_e1
+utterance_id: s01_e19_c05_u026
+  tuple: ('trade', 'anybody', None, 's01_e19_c05_u026')
+
+event_id: s01_e19_c05_u028_e1
+utterance_id: s01_e19_c05_u028
+  tuple: ('want', 'you/(Monica, Phoebe)', None, 's01_e19_c05_u028')
+
+event_id: s01_e19_c05_u029_e1
+utterance_id: s01_e19_c05_u029
+  tuple: ('lose', 'our friend/(Rachel)', 'a monkey', 's01_e19_c05_u029')
+
+event_id: s01_e19_c05_u029_e2
+utterance_id: s01_e19_c05_u029
+  tuple: ('see', 'you/Mr. Heckles', 'it', 's01_e19_c05_u029')
+
+event_id: s01_e19_c05_u030_e1
+utterance_id: s01_e19_c05_u030
+  tuple: ('leave', 'I/Mr. Heckles', 'a Belgian waffle', 's01_e19_c05_u030')
+  tuple: ('leave', 'I/Mr. Heckles', 'out here', 's01_e19_c05_u030')
+
+event_id: s01_e19_c05_u030_e2
+utterance_id: s01_e19_c05_u030
+  tuple: ('take', 'you/(Monica, Phoebe)', 'it', 's01_e19_c05_u030')
+
+event_id: s01_e19_c05_u032_e1
+utterance_id: s01_e19_c05_u032
+  tuple: ('leave', 'you/Mr. Heckles', 'your Belgian waffle', 's01_e19_c05_u032')
+  tuple: ('leave', 'you/Mr. Heckles', 'in the hall', 's01_e19_c05_u032')
+
+event_id: s01_e19_c05_u033_e1
+utterance_id: s01_e19_c05_u033
+  tuple: ('be', 'I/Mr. Heckles', 'ready', 's01_e19_c05_u033')
+  tuple: ('be', 'I/Mr. Heckles', 'ready for it', 's01_e19_c05_u033')
+
+event_id: s01_e19_c05_u034_e1
+utterance_id: s01_e19_c05_u034
+  tuple: ('see', 'you/Mr. Heckles', 'a monkey', 's01_e19_c05_u034')
+
+event_id: s01_e19_c05_u035_e1
+utterance_id: s01_e19_c05_u035
+  tuple: ('see', 'I/Mr. Heckles', 'Regis Philbin', 's01_e19_c05_u035')
+
+event_id: s01_e19_c05_u036_e1
+utterance_id: s01_e19_c05_u036
+  tuple: ('thank', 'I/Phoebe', 'Mr. Heckles', 's01_e19_c05_u036')
+
+event_id: s01_e19_c05_u037_e1
+utterance_id: s01_e19_c05_u037
+  tuple: ('owe', 'you/(Monica, Phoebe)', 'me a waffle', 's01_e19_c05_u037')
+
+event_id: s01_e19_c05_u039_e1
+utterance_id: s01_e19_c05_u039
+  tuple: ('be', 'he/Marcel', 'a black capuchian monkey', 's01_e19_c05_u039')
+  tuple: ('be', 'he/Marcel', 'with a white face', 's01_e19_c05_u039')
+  tuple: ('be', 'he/Marcel', 'with Russian dressing', 's01_e19_c05_u039')
+  tuple: ('be', 'he/Marcel', 'with pickles on the side', 's01_e19_c05_u039')
+
+event_id: s01_e19_c05_u040_e1
+utterance_id: s01_e19_c05_u040
+  tuple: ('go', 'it/(the day)', None, 's01_e19_c05_u040')
+
+event_id: s01_e19_c05_u041_e1
+utterance_id: s01_e19_c05_u041
+  tuple: ('go', 'it/(the day)', 'great', 's01_e19_c05_u041')
+
+event_id: s01_e19_c05_u041_e2
+utterance_id: s01_e19_c05_u041
+  tuple: ('be', 'that/(bottle)', 'wine', 's01_e19_c05_u041')
+
+event_id: s01_e19_c05_u042_e1
+utterance_id: s01_e19_c05_u042
+  tuple: ('want', 'you/Rachel', 'some', 's01_e19_c05_u042')
+
+event_id: s01_e19_c05_u043_e1
+utterance_id: s01_e19_c05_u043
+  tuple: ('love', 'I/Rachel', 'some', 's01_e19_c05_u043')
+
+event_id: s01_e19_c05_u043_e2
+utterance_id: s01_e19_c05_u043
+  tuple: ('drink', 'we/(Ross, Rachel)', 'it', 's01_e19_c05_u043')
+
+event_id: s01_e19_c05_u043_e3
+utterance_id: s01_e19_c05_u043
+  tuple: ('feel', 'I/Rachel', 'kinda crazy', 's01_e19_c05_u043')
+
+event_id: s01_e19_c05_u043_e4
+utterance_id: s01_e19_c05_u043
+  tuple: ('go', 'you/Ross', 'to Newark', 's01_e19_c05_u043')
+
+event_id: s01_e19_c05_u044_e1
+utterance_id: s01_e19_c05_u044
+  tuple: ('do', 'we/(Ross, Rachel)', 'that', 's01_e19_c05_u044')
+  tuple: ('head', 'we/(Ross, Rachel)', 'off to the murder capital of the North-East', 's01_e19_c05_u044')
+
+event_id: s01_e19_c05_u044_e2
+utterance_id: s01_e19_c05_u044
+  tuple: ('run', 'I/Ross', 'by you', 's01_e19_c05_u044')
+
+event_id: s01_e19_c05_u044_e3
+utterance_id: s01_e19_c05_u044
+  tuple: ('talk', 'we/(Ross, Rachel)', 'about relationships and stuff', 's01_e19_c05_u044')
+
+event_id: s01_e19_c05_u044_e4
+utterance_id: s01_e19_c05_u044
+  tuple: ('know', 'you/Rachel', None, 's01_e19_c05_u044')
+
+event_id: s01_e19_c05_u045_e1
+utterance_id: s01_e19_c05_u045
+  tuple: ('do', 'I/Rachel', 'this', 's01_e19_c05_u045')
+
+event_id: s01_e19_c05_u047_e1
+utterance_id: s01_e19_c05_u047
+  tuple: ('hate', 'you/Ross', 'me', 's01_e19_c05_u047')
+
+event_id: s01_e19_c05_u049_e1
+utterance_id: s01_e19_c05_u049
+  tuple: ('know', 'you/Ross', 'Marcel', 's01_e19_c05_u049')
+
+event_id: s01_e19_c05_u051_e1
+utterance_id: s01_e19_c05_u051
+  tuple: ('lose', 'I/Rachel', 'him', 's01_e19_c05_u051')
+

@@ -1,0 +1,74 @@
+event_id: s01_e24_c07_u004_e1
+utterance_id: s01_e24_c07_u004
+  tuple: ('be', "she/(Joey's date)", 'asleep', 's01_e24_c07_u004')
+
+event_id: s01_e24_c07_u005_e1
+utterance_id: s01_e24_c07_u005
+  tuple: ('go', 'it/(last night)', None, 's01_e24_c07_u005')
+
+event_id: s01_e24_c07_u006_e1
+utterance_id: s01_e24_c07_u006
+  tuple: ('be', 'it/(last night)', 'amazing', 's01_e24_c07_u006')
+
+event_id: s01_e24_c07_u006_e2
+utterance_id: s01_e24_c07_u006
+  tuple: ('know', 'you/Chandler Bing', "how you always think you're great in bed", 's01_e24_c07_u006')
+  tuple: ('think', 'you/Chandler Bing', "you're great in bed", 's01_e24_c07_u006')
+  tuple: ('be', 'you/Chandler Bing', 'great', 's01_e24_c07_u006')
+  tuple: ('be', 'you/Chandler Bing', 'in bed', 's01_e24_c07_u006')
+
+event_id: s01_e24_c07_u007_e1
+utterance_id: s01_e24_c07_u007
+  tuple: ('ask', 'you/Joey Tribbiani', 'that question', 's01_e24_c07_u007')
+  tuple: ('show', "The fact that you'd even ask that question", 'how little you know me', 's01_e24_c07_u007')
+  tuple: ('know', 'you/Joey Tribbiani', 'me', 's01_e24_c07_u007')
+
+event_id: s01_e24_c07_u008_e1
+utterance_id: s01_e24_c07_u008
+  tuple: ('do', 'I/Joey Tribbiani', 'the thing that usually makes me great', 's01_e24_c07_u008')
+  tuple: ('make', 'that', 'me great', 's01_e24_c07_u008')
+
+event_id: s01_e24_c07_u008_e2
+utterance_id: s01_e24_c07_u008
+  tuple: ('do', 'I/Joey Tribbiani', 'all this other stuff', 's01_e24_c07_u008')
+
+event_id: s01_e24_c07_u008_e3
+utterance_id: s01_e24_c07_u008
+  tuple: ('get', 'I/Joey Tribbiani', 'the response', 's01_e24_c07_u008')
+  tuple: ('be', 'it/(the response)', 'like a ticker tape parade', 's01_e24_c07_u008')
+
+event_id: s01_e24_c07_u009_e1
+utterance_id: s01_e24_c07_u009
+  tuple: ('know', 'I/Chandler Bing', None, 's01_e24_c07_u009')
+
+event_id: s01_e24_c07_u009_e2
+utterance_id: s01_e24_c07_u009
+  tuple: ('happen', 'it/(expletive)', None, 's01_e24_c07_u009')
+  tuple: ('be', 'my room', 'very very close', 's01_e24_c07_u009')
+  tuple: ('be', 'my room', 'close to the parade route', 's01_e24_c07_u009')
+
+event_id: s01_e24_c07_u010_e1
+utterance_id: s01_e24_c07_u010
+  tuple: ('be', 'it/(last night)', 'for her', 's01_e24_c07_u010')
+  tuple: ('be', 'it/(last night)', 'for me', 's01_e24_c07_u010')
+
+event_id: s01_e24_c07_u010_e2
+utterance_id: s01_e24_c07_u010
+  tuple: ('be', 'it/(last night)', 'like', 's01_e24_c07_u010')
+  tuple: ('be', 'I/Joey Tribbiani', 'blind', 's01_e24_c07_u010')
+  tuple: ('be', 'all my other senses', 'heightened', 's01_e24_c07_u010')
+  tuple: ('appreciate', 'I/Joey Tribbiani', 'it on another level', 's01_e24_c07_u010')
+
+event_id: s01_e24_c07_u010_e3
+utterance_id: s01_e24_c07_u010
+  tuple: ('know', 'you/Chandler Bing', None, 's01_e24_c07_u010')
+
+event_id: s01_e24_c07_u011_e1
+utterance_id: s01_e24_c07_u011
+  tuple: ('know', 'I/Chandler Bing', 'you had another level', 's01_e24_c07_u011')
+  tuple: ('have', 'you/Joey Tribbiani', 'another level', 's01_e24_c07_u011')
+
+event_id: s01_e24_c07_u012_e1
+utterance_id: s01_e24_c07_u012
+  tuple: ('know', 'I/Joey Tribbiani', None, 's01_e24_c07_u012')
+

@@ -1,0 +1,19 @@
+Episode: s01_e18
+Scene: s01_e18_c01
+Subscene index for speaker: 001
+Main speaker: TargetSpeaker
+UID span: s01_e18_c01_u001 → s01_e18_c01_u006
+Peak window: 0 → 0
+
+Dialogue:
+  [s01_e18_c01_u001] TargetSpeaker: Hey, guys.
+  [s01_e18_c01_u002] Speaker_01, Speaker_02: Hey.
+  [s01_e18_c01_u003]
+  1. Speaker_03 says Speaker_03 is currently offering to get something for Speaker_02, TargetSpeaker, and Speaker_01.
+  2. Speaker_03 says TargetSpeaker and Speaker_04 have brought the mail.
+  [s01_e18_c01_u004] TargetSpeaker: Lots of responses.
+  [s01_e18_c01_u005]
+  1. Speaker_03 says Speaker_03 currently has scones left.
+  2. Speaker_03 says TargetSpeaker and Speaker_04 are going to read the responses to Speaker_03.
+  [s01_e18_c01_u006]
+  1. Speaker_04 says the letter sender has thanked Speaker_03 for Speaker_03's inquiry.

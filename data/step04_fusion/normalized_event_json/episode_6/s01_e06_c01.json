@@ -1,0 +1,92 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e06_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u001_e1",
+          "tuples": [
+            "('look', 'you/(everyone)', None, 's01_e06_c01_u001')",
+            "('be', 'there', \"Joey's picture\", 's01_e06_c01_u001')",
+            "('be', \"this/(Joey's picture)\", 'so exciting', 's01_e06_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c01_u002",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u002_e1",
+          "tuples": [
+            "('spot', 'you/(everyone)', 'someone', 's01_e06_c01_u002')",
+            "('see', 'someone', 'one of his plays', 's01_e06_c01_u002')",
+            "('see', 'someone', 'before', 's01_e06_c01_u002')",
+            "('notice', 'you/(everyone)', 'no fear', 's01_e06_c01_u002')",
+            "('notice', 'you/(everyone)', 'no sense of impending doom', 's01_e06_c01_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u003_e1",
+          "tuples": [
+            "('scare', 'the exclamation point in the title', 'me', 's01_e06_c01_u003')",
+            "('be', 'it/(title)', 'not just Freud', 's01_e06_c01_u003')",
+            "('be', 'it/(title)', 'Freud', 's01_e06_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u005_e1",
+          "tuples": [
+            "('happen', 'magic', None, 's01_e06_c01_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c01_u007",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u007_e1",
+          "tuples": [
+            "('do', 'we/(Joey and Eva)', 'some excellent work', 's01_e06_c01_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e06_c01_u007_e2",
+          "tuples": [
+            "('say', 'I/(Joey)', 'your problem is quite clear', 's01_e06_c01_u007')",
+            "('be', 'your problem', 'quite clear', 's01_e06_c01_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e06_c01_u008",
+      "events": [
+        {
+          "event_id": "s01_e06_c01_u008_e1",
+          "tuples": [
+            "('want', 'you/(Eva)', 'a dingle', 's01_e06_c01_u008')",
+            "('be', 'all you want', 'a dingle', 's01_e06_c01_u008')",
+            "('envy', 'you/(Eva)', 'a schwang', 's01_e06_c01_u008')",
+            "('be', 'what you envy', 'a schwang', 's01_e06_c01_u008')",
+            "('tinkle', 'you/(Eva)', 'through a thing', 's01_e06_c01_u008')",
+            "('play', 'you/(Eva)', 'with', 's01_e06_c01_u008')",
+            "('let', 'you/(Eva)', 'a thing', 's01_e06_c01_u008')",
+            "('hang', 'a thing', None, 's01_e06_c01_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+event_id: s01_e08_c02_u001_e1
+utterance_id: s01_e08_c02_u001
+  tuple: ('enjoy', 'I/(Chandler Bing)', 'a cup of noodles', 's01_e08_c02_u001')
+  tuple: ('enjoy', 'I/(Chandler Bing)', 'after that', 's01_e08_c02_u001')
+
+event_id: s01_e08_c02_u001_e2
+utterance_id: s01_e08_c02_u001
+  tuple: ('mean', 'I/(Chandler Bing)', None, 's01_e08_c02_u001')
+
+event_id: s01_e08_c02_u001_e3
+utterance_id: s01_e08_c02_u001
+  tuple: ('be', 'that', 'ridiculous', 's01_e08_c02_u001')
+
+event_id: s01_e08_c02_u001_e4
+utterance_id: s01_e08_c02_u001
+  tuple: ('believe', 'you/(ALL)', 'that', 's01_e08_c02_u001')
+
+event_id: s01_e08_c02_u001_e5
+utterance_id: s01_e08_c02_u001
+  tuple: ('think', 'she', 'that', 's01_e08_c02_u001')
+
+event_id: s01_e08_c02_u002_e1
+utterance_id: s01_e08_c02_u002
+  tuple: ('mean', 'I/(Rachel Green)', None, 's01_e08_c02_u002')
+
+event_id: s01_e08_c02_u002_e2
+utterance_id: s01_e08_c02_u002
+  tuple: ('meet', 'I/(Rachel Green)', 'you/(Chandler Bing)', 's01_e08_c02_u002')
+
+event_id: s01_e08_c02_u002_e3
+utterance_id: s01_e08_c02_u002
+  tuple: ('think', 'I/(Rachel Green)', 'you might be', 's01_e08_c02_u002')
+
+event_id: s01_e08_c02_u004_e1
+utterance_id: s01_e08_c02_u004
+  tuple: ('spend', 'you/(Chandler Bing)', "Phoebe's entire birthday party", 's01_e08_c02_u004')
+  tuple: ('talk', 'you/(Chandler Bing)', 'to my breasts', 's01_e08_c02_u004')
+
+event_id: s01_e08_c02_u004_e2
+utterance_id: s01_e08_c02_u004
+  tuple: ('figure', 'I/(Rachel Green)', 'maybe not', 's01_e08_c02_u004')
+
+event_id: s01_e08_c02_u005_e1
+utterance_id: s01_e08_c02_u005
+  tuple: ('think', 'any of the rest of you guys', 'that', 's01_e08_c02_u005')
+
+event_id: s01_e08_c02_u005_e2
+utterance_id: s01_e08_c02_u005
+  tuple: ('meet', 'you/(ALL)', 'me', 's01_e08_c02_u005')
+
+event_id: s01_e08_c02_u007_e1
+utterance_id: s01_e08_c02_u007
+  tuple: ('think', 'I/(Phoebe Buffay)', 'so', 's01_e08_c02_u007')
+
+event_id: s01_e08_c02_u010_e1
+utterance_id: s01_e08_c02_u010
+  tuple: ('kid', 'you/(Ross Geller)', None, 's01_e08_c02_u010')
+
+event_id: s01_e08_c02_u010_e2
+utterance_id: s01_e08_c02_u010
+  tuple: ('tell', 'you/(Ross Geller)', 'her', 's01_e08_c02_u010')
+
+event_id: s01_e08_c02_u011_e1
+utterance_id: s01_e08_c02_u011
+  tuple: ('want', 'I/(Ross Geller)', 'to go out with her too', 's01_e08_c02_u011')
+  tuple: ('go out', 'I/(Ross Geller)', 'with her', 's01_e08_c02_u011')
+
+event_id: s01_e08_c02_u011_e2
+utterance_id: s01_e08_c02_u011
+  tuple: ('tell', 'I/(Ross Geller)', 'her', 's01_e08_c02_u011')
+  tuple: ('see', 'you/(Chandler Bing)', 'Bernie Spellman', 's01_e08_c02_u011')
+  tuple: ('like', 'who/(Bernie Spellman)', 'her', 's01_e08_c02_u011')
+
+event_id: s01_e08_c02_u013_e1
+utterance_id: s01_e08_c02_u013
+  tuple: ('be', 'this', 'fascinating', 's01_e08_c02_u013')
+
+event_id: s01_e08_c02_u013_e2
+utterance_id: s01_e08_c02_u013
+  tuple: ('be', 'it', 'about me', 's01_e08_c02_u013')
+
+event_id: s01_e08_c02_u014_e1
+utterance_id: s01_e08_c02_u014
+  tuple: ('know', 'I/(Phoebe Buffay)', None, 's01_e08_c02_u014')
+
+event_id: s01_e08_c02_u014_e2
+utterance_id: s01_e08_c02_u014
+  tuple: ('be', 'you/(Chandler Bing)', 'smart', 's01_e08_c02_u014')
+
+event_id: s01_e08_c02_u014_e3
+utterance_id: s01_e08_c02_u014
+  tuple: ('be', 'you/(Chandler Bing)', 'funny', 's01_e08_c02_u014')
+
+event_id: s01_e08_c02_u015_e1
+utterance_id: s01_e08_c02_u015
+  tuple: ('be', 'Ross Geller', 'smart and funny', 's01_e08_c02_u015')
+
+event_id: s01_e08_c02_u015_e2
+utterance_id: s01_e08_c02_u015
+  tuple: ('think', 'you/(ALL)', 'that', 's01_e08_c02_u015')
+  tuple: ('think', 'you/(ALL)', 'about him', 's01_e08_c02_u015')
+
+event_id: s01_e08_c02_u018_e1
+utterance_id: s01_e08_c02_u018
+  tuple: ('know', 'I/(Monica Geller)', None, 's01_e08_c02_u018')
+
+event_id: s01_e08_c02_u018_e2
+utterance_id: s01_e08_c02_u018
+  tuple: ('have', 'you/(Chandler Bing)', 'a quality', 's01_e08_c02_u018')
+
+event_id: s01_e08_c02_u020_e1
+utterance_id: s01_e08_c02_u020
+  tuple: ('worry', 'I/(Chandler Bing)', 'you guys were gonna be vague about this', 's01_e08_c02_u020')
+  tuple: ('be', 'you guys/(ALL)', 'vague', 's01_e08_c02_u020')
+
+event_id: s01_e08_c02_u022_e1
+utterance_id: s01_e08_c02_u022
+  tuple: ('call', 'Paolo', 'from Rome', 's01_e08_c02_u022')
+
+event_id: s01_e08_c02_u024_e1
+utterance_id: s01_e08_c02_u024
+  tuple: ('call', 'he/(Paolo)', 'from Rome', 's01_e08_c02_u024')
+
+event_id: s01_e08_c02_u024_e2
+utterance_id: s01_e08_c02_u024
+  tuple: ('do', 'I/(Ross Geller)', 'that', 's01_e08_c02_u024')
+
+event_id: s01_e08_c02_u024_e3
+utterance_id: s01_e08_c02_u024
+  tuple: ('go', 'I/(Ross Geller)', 'to Rome', 's01_e08_c02_u024')
+
+event_id: s01_e08_c02_u025_e1
+utterance_id: s01_e08_c02_u025
+  tuple: ('beep in', 'your dad/(Jack Geller)', None, 's01_e08_c02_u025')
+
+event_id: s01_e08_c02_u025_e2
+utterance_id: s01_e08_c02_u025
+  tuple: ('make', 'you/(Monica Geller)', 'it', 's01_e08_c02_u025')
+
+event_id: s01_e08_c02_u025_e3
+utterance_id: s01_e08_c02_u025
+  tuple: ('talk', 'I/(Rachel Green)', 'to Rome', 's01_e08_c02_u025')
+
+event_id: s01_e08_c02_u026_e1
+utterance_id: s01_e08_c02_u026
+  tuple: ('be', 'it', 'Nana', 's01_e08_c02_u026')
+

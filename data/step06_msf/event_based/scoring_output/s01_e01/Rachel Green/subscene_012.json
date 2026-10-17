@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly (“Goodnight,” “Sorry”) and does not display outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Openly shows the found item to another person, is polite (“Sorry”), and is deferential (prompted to go ahead), indicating cooperativeness and consideration."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Responsibly reports finding a watch instead of ignoring it or keeping it, showing care for others’ property."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or distress; interactions are calm and polite."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, inventiveness, or trying new ideas in the exchange."
+  }
+}

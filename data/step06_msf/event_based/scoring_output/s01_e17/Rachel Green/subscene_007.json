@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only asks if the crash was the cake and then hopes it’s okay; no clear outgoing or highly talkative behavior shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Says they hope the cake is okay, showing concern and consideration for others at the party."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Notices the crash and asks about the cake but shows no clear behavior of organizing, planning, or follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Remains calm; simply inquires and expresses hope without signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or openness to new ideas are present in the brief remarks."
+  }
+}

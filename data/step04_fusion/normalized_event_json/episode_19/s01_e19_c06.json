@@ -1,0 +1,981 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e19_c06_u001",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u001_e1",
+          "tuples": [
+            "('believe', 'I/(Ross Geller)', 'this', 's01_e19_c06_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u001_e2",
+          "tuples": [
+            "('ask', 'I/(Ross Geller)', 'you', 's01_e19_c06_u001')",
+            "('keep', 'you/(Rachel Green)', 'him', 's01_e19_c06_u001')",
+            "('keep', 'you/(Rachel Green)', 'in the apartment', 's01_e19_c06_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u002",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u002_e1",
+          "tuples": [
+            "('know', 'I/(Rachel Green)', None, 's01_e19_c06_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u002_e2",
+          "tuples": [
+            "('be', 'I/(Rachel Green)', 'sorry', 's01_e19_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u003",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u003_e1",
+          "tuples": [
+            "('guess', 'I/(Ross Geller)', None, 's01_e19_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u003_e2",
+          "tuples": [
+            "('ask', 'I/(Ross Geller)', 'you', 's01_e19_c06_u003')",
+            "('start', 'you/(Rachel Green)', 'off with a monkey', 's01_e19_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u003_e3",
+          "tuples": [
+            "('start', 'I/(Ross Geller)', 'you', 's01_e19_c06_u003')",
+            "('start', 'I/(Ross Geller)', 'off with a pen or a pencil', 's01_e19_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u004",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u004_e1",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', 'everything that I can', 's01_e19_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u004_e2",
+          "tuples": [
+            "('have', 'I/(Rachel Green)', 'everybody', 's01_e19_c06_u004')",
+            "('look', 'everybody', 'for him', 's01_e19_c06_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u004_e3",
+          "tuples": [
+            "('be', 'it/(visitor)', 'who', 's01_e19_c06_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u006",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u006_e1",
+          "tuples": [
+            "('call', 'I/(Rachel Green)', 'Animal Control', 's01_e19_c06_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u007",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u007_e1",
+          "tuples": [
+            "('call', 'you/(Rachel Green)', 'Animal Control', 's01_e19_c06_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u008",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u008_e1",
+          "tuples": [
+            "('like', 'you/(Ross Geller)', 'them', 's01_e19_c06_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u009",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u009_e1",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'him', 's01_e19_c06_u009')",
+            "('have', 'I/(Ross Geller)', 'in the city', 's01_e19_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u009_e2",
+          "tuples": [
+            "('find', 'they/(Animal Control)', 'him', 's01_e19_c06_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u009_e3",
+          "tuples": [
+            "('take', 'they/(Animal Control)', 'him', 's01_e19_c06_u009')",
+            "('take', 'they/(Animal Control)', 'away from me', 's01_e19_c06_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u010",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u010_e1",
+          "tuples": [
+            "('tell', 'you/(Ross Geller)', 'us', 's01_e19_c06_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u011",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u011_e1",
+          "tuples": [
+            "('expect', 'I/(Ross Geller)', 'you', 's01_e19_c06_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u011_e2",
+          "tuples": [
+            "('invite', 'you/(Rachel Green)', 'them', 's01_e19_c06_u011')",
+            "('invite', 'you/(Rachel Green)', 'to the apartment', 's01_e19_c06_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u013",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u013_e1",
+          "tuples": [
+            "('come', 'you/(Animal Control)', None, 's01_e19_c06_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u014",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u014_e1",
+          "tuples": [
+            "('call', 'somebody', None, 's01_e19_c06_u014')",
+            "('call', 'somebody', 'about a monkey', 's01_e19_c06_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u015",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u015_e1",
+          "tuples": [
+            "('be', 'that/(the call)', 'a complete misunderstanding', 's01_e19_c06_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u016",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u016_e1",
+          "tuples": [
+            "('think', 'we/(Ross and Rachel)', None, 's01_e19_c06_u016')",
+            "('have', 'we/(Ross and Rachel)', 'a monkey', 's01_e19_c06_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u017",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u017_e1",
+          "tuples": [
+            "('turn', 'it/(the thing)', 'out', 's01_e19_c06_u017')",
+            "('be', 'it/(the thing)', 'a hat', 's01_e19_c06_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u019",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u019_e1",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', None, 's01_e19_c06_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u021",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u021_e1",
+          "tuples": [
+            "('check', 'we/(Monica and Phoebe)', 'the third and fourth floor', 's01_e19_c06_u021')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u021_e2",
+          "tuples": [
+            "('see', 'no-one', 'Marcel', 's01_e19_c06_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u024",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u024_e1",
+          "tuples": [
+            "('name', 'the monkey', 'after who', 's01_e19_c06_u024')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u025",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u025_e1",
+          "tuples": [
+            "('be', 'you/(Ross, Monica, Rachel, Phoebe)', 'aware', 's01_e19_c06_u025')",
+            "('punish', 'possession of an illegal exotic', 'by up to two years in prison and confiscation of the animal', 's01_e19_c06_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u026",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u026_e1",
+          "tuples": [
+            "('put', 'you/(Luisa Gianetti)', 'that poor little creature', 's01_e19_c06_u026')",
+            "('put', 'you/(Luisa Gianetti)', 'in jail', 's01_e19_c06_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u027",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u027_e1",
+          "tuples": [
+            "('remember', 'you/(Phoebe Buffay)', None, 's01_e19_c06_u027')",
+            "('talk', 'we/(Monica and Phoebe)', 'about saying things quietly to yourself first', 's01_e19_c06_u027')",
+            "('say', 'you/(Phoebe Buffay)', 'things', 's01_e19_c06_u027')",
+            "('say', 'you/(Phoebe Buffay)', 'to yourself', 's01_e19_c06_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u028",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u028_e1",
+          "tuples": [
+            "('be', 'there', 'always time', 's01_e19_c06_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u029",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u029_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'sure', 's01_e19_c06_u029')",
+            "('reconcile', 'we/(Monica and group)', 'this', 's01_e19_c06_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u029_e2",
+          "tuples": [
+            "('have', 'you/(Luisa Gianetti)', 'a seat', 's01_e19_c06_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u029_e3",
+          "tuples": [
+            "('introduce', 'we/(Monica group)', None, 's01_e19_c06_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u029_e4",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'Monica Geller', 's01_e19_c06_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u030",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u030_e1",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', 'Rachel Green', 's01_e19_c06_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u032",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u032_e1",
+          "tuples": [
+            "('sit', 'I/(Luisa Gianetti)', None, 's01_e19_c06_u032')",
+            "('sit', 'I/(Luisa Gianetti)', 'behind you guys', 's01_e19_c06_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u033",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u033_e1",
+          "tuples": [
+            "('be', 'it/(visitor)', 'Luisa', 's01_e19_c06_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u036",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u036_e1",
+          "tuples": [
+            "('have', 'you/(Monica Geller and Rachel Green)', 'no idea who I am', 's01_e19_c06_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u039",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u039_e1",
+          "tuples": [
+            "('spend', 'you/(Monica Geller and Rachel Green)', 'four years', 's01_e19_c06_u039')",
+            "('ignore', 'you/(Monica Geller and Rachel Green)', 'me', 's01_e19_c06_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u039_e2",
+          "tuples": [
+            "('say', 'you/(Monica Geller and Rachel Green)', \"'Morning, Luisa'\", 's01_e19_c06_u039')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u039_e3",
+          "tuples": [
+            "('say', 'you/(Monica Geller and Rachel Green)', \"'Nice overalls'\", 's01_e19_c06_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u040",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u040_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'sorry', 's01_e19_c06_u040')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u041",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u041_e1",
+          "tuples": [
+            "('be', 'you/(Monica Geller)', 'fat', 's01_e19_c06_u041')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u041_e2",
+          "tuples": [
+            "('have', 'you/(Monica Geller)', 'your own problems', 's01_e19_c06_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u043",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u043_e1",
+          "tuples": [
+            "('think', 'you/(Luisa Gianetti)', None, 's01_e19_c06_u043')",
+            "('help', 'you/(Luisa Gianetti)', 'out us', 's01_e19_c06_u043')",
+            "('help', 'you/(Luisa Gianetti)', 'on that monkey thing', 's01_e19_c06_u043')",
+            "('help', 'you/(Luisa Gianetti)', \"for old times' sake\", 's01_e19_c06_u043')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u043_e2",
+          "tuples": [
+            "('go', 'you/(Luisa Gianetti)', 'Bobcats', 's01_e19_c06_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u044",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u044_e1",
+          "tuples": [
+            "('find', 'I/(Luisa Gianetti)', 'that monkey', 's01_e19_c06_u044')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u044_e2",
+          "tuples": [
+            "('be', 'he/(Marcel)', 'mine', 's01_e19_c06_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u045",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u045_e1",
+          "tuples": [
+            "('be', 'I/(Phoebe Buffay)', 'sorry', 's01_e19_c06_u045')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u052",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u052_e1",
+          "tuples": [
+            "('help', 'I/(Woman No. 1)', 'you', 's01_e19_c06_u052')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u054",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u054_e1",
+          "tuples": [
+            "('have', 'we/(Chandler Bing and Joey Tribbiani)', 'an emergency', 's01_e19_c06_u054')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u054_e2",
+          "tuples": [
+            "('look', 'we/(Chandler Bing and Joey Tribbiani)', 'for something', 's01_e19_c06_u054')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u056",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u056_e1",
+          "tuples": [
+            "('see', 'you/(Woman No. 1)', 'any', 's01_e19_c06_u056')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u057",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u057_e1",
+          "tuples": [
+            "('see', 'I/(Woman No. 1)', 'a monkey', 's01_e19_c06_u057')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u057_e2",
+          "tuples": [
+            "('know', 'you/(Chandler Bing and Joey Tribbiani)', 'anything', 's01_e19_c06_u057')",
+            "('know', 'you/(Chandler Bing and Joey Tribbiani)', 'about fixing radiators', 's01_e19_c06_u057')",
+            "('fix', 'you/(Chandler Bing and Joey Tribbiani)', 'radiators', 's01_e19_c06_u057')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u058",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u058_e1",
+          "tuples": [
+            "('try', 'you/(Woman No. 1)', 'turning the knob back the other way', 's01_e19_c06_u058')",
+            "('turn', 'you/(Woman No. 1)', 'back the knob', 's01_e19_c06_u058')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u062",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u062_e1",
+          "tuples": [
+            "('put', 'I/(Woman No. 2)', 'too much rum', 's01_e19_c06_u062')",
+            "('put', 'I/(Woman No. 2)', 'in here', 's01_e19_c06_u062')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u064",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u064_e1",
+          "tuples": [
+            "('hope', 'I/(Woman No. 1)', 'you find your monkey', 's01_e19_c06_u064')",
+            "('find', 'you/(Chandler Bing and Joey Tribbiani)', 'your monkey', 's01_e19_c06_u064')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u065",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u065_e1",
+          "tuples": [
+            "('know', 'we/(Chandler Bing and Joey Tribbiani)', 'anything', 's01_e19_c06_u065')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u065_e2",
+          "tuples": [
+            "('have', 'we/(Chandler Bing and Joey Tribbiani)', 'a certain amount of expertise', 's01_e19_c06_u065')",
+            "('have', 'we/(Chandler Bing and Joey Tribbiani)', 'in the heating and cooling milieu', 's01_e19_c06_u065')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u066",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u066_e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing and Joey Tribbiani)', 'in the middle of something here', 's01_e19_c06_u066')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u067",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u067_e1",
+          "tuples": [
+            "('be', 'these women', 'very hot', 's01_e19_c06_u067')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u067_e2",
+          "tuples": [
+            "('need', 'they/(these women)', 'our help', 's01_e19_c06_u067')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u068",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u068_e1",
+          "tuples": [
+            "('be', 'we/(Chandler Bing and Joey Tribbiani)', 'sorry', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e2",
+          "tuples": [
+            "('have', 'you/(these women)', 'no idea', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e3",
+          "tuples": [
+            "('promise', 'we/(Chandler Bing and Joey Tribbiani)', None, 's01_e19_c06_u068')",
+            "('find', 'we/(Chandler Bing and Joey Tribbiani)', 'this monkey', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e4",
+          "tuples": [
+            "('see', 'you/(these women)', 'him', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e5",
+          "tuples": [
+            "('be', 'he/(Marcel)', 'about yea high', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e6",
+          "tuples": [
+            "('answer', 'he/(Marcel)', 'to the name Marcel', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e7",
+          "tuples": [
+            "('get', 'we/(Chandler Bing and Joey Tribbiani)', 'some pictures', 's01_e19_c06_u068')",
+            "('get', 'we/(Chandler Bing and Joey Tribbiani)', 'of you', 's01_e19_c06_u068')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u068_e8",
+          "tuples": [
+            "('help', 'you/(these women)', 'out us', 's01_e19_c06_u068')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u070",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u070_e1",
+          "tuples": [
+            "('talk', 'you/(Joey Tribbiani)', None, 's01_e19_c06_u070')",
+            "('talk', 'you/(Joey Tribbiani)', 'to other people', 's01_e19_c06_u070')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u080",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u080_e1",
+          "tuples": [
+            "('brush', 'something', 'up against my right leg', 's01_e19_c06_u080')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u082",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u082_e1",
+          "tuples": [
+            "('be', 'it/(the thing against leg)', 'okay', 's01_e19_c06_u082')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u082_e2",
+          "tuples": [
+            "('be', 'it/(the thing against leg)', 'just my left leg', 's01_e19_c06_u082')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u084",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u084_e1",
+          "tuples": [
+            "('look', 'you/(Phoebe Buffay)', None, 's01_e19_c06_u084')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u085",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u085_e1",
+          "tuples": [
+            "('come', 'Marcel', 'here', 's01_e19_c06_u085')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u087",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u087_e1",
+          "tuples": [
+            "('step', 'ladies', 'aside', 's01_e19_c06_u087')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u088",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u088_e1",
+          "tuples": [
+            "('do', 'you/(Luisa Gianetti)', None, 's01_e19_c06_u088')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u091",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u091_e1",
+          "tuples": [
+            "('run', 'Marcel', None, 's01_e19_c06_u091')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u091_e2",
+          "tuples": [
+            "('be', 'you/(Phoebe Buffay)', 'okay', 's01_e19_c06_u091')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u092",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u092_e1",
+          "tuples": [
+            "('think', 'I/(Phoebe Buffay)', 'so', 's01_e19_c06_u092')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u097",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u097_e1",
+          "tuples": [
+            "('be', 'this/(situation)', 'ridiculous', 's01_e19_c06_u097')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u097_e2",
+          "tuples": [
+            "('be', 'we/(Ross and Rachel)', 'over the neighbourhood', 's01_e19_c06_u097')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u097_e3",
+          "tuples": [
+            "('be', 'he/(Marcel)', 'gone', 's01_e19_c06_u097')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u098",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u098_e1",
+          "tuples": [
+            "('know', 'you/(Rachel Green)', 'that', 's01_e19_c06_u098')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u099",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u099_e1",
+          "tuples": [
+            "('be', 'it/(outside)', 'cold', 's01_e19_c06_u099')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u099_e2",
+          "tuples": [
+            "('be', 'it/(outside)', 'dark', 's01_e19_c06_u099')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u099_e3",
+          "tuples": [
+            "('know', 'he/(Marcel)', 'the Village', 's01_e19_c06_u099')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u099_e4",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'a broken foot', 's01_e19_c06_u099')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u099_e5",
+          "tuples": [
+            "('have', 'I/(Ross Geller)', 'no monkey', 's01_e19_c06_u099')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u099_e6",
+          "tuples": [
+            "('thank', 'I/(Ross Geller)', 'you', 's01_e19_c06_u099')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u100",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u100_e1",
+          "tuples": [
+            "('say', 'I/(Rachel Green)', \"I'm sorry like a million times\", 's01_e19_c06_u100')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u100_e2",
+          "tuples": [
+            "('want', 'you/(Ross Geller)', 'me', 's01_e19_c06_u100')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u100_e3",
+          "tuples": [
+            "('break', 'I/(Rachel Green)', 'my foot', 's01_e19_c06_u100')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u100_e4",
+          "tuples": [
+            "('be', 'you/(Ross Geller)', 'happy now', 's01_e19_c06_u100')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u101",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u101_e1",
+          "tuples": [
+            "('kick', 'you/(Rachel Green)', 'the sign', 's01_e19_c06_u101')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u101_e2",
+          "tuples": [
+            "('miss', 'I/(Ross Geller)', 'Marcel', 's01_e19_c06_u101')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u102",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u102_e1",
+          "tuples": [
+            "('do', 'I/(Rachel Green)', 'this', 's01_e19_c06_u102')",
+            "('do', 'I/(Rachel Green)', 'on purpose', 's01_e19_c06_u102')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u103",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u103_e1",
+          "tuples": [
+            "('be', 'this/(situation)', 'vintage Rachel', 's01_e19_c06_u103')",
+            "('happen', 'things', 'around you/(Rachel Green)', 's01_e19_c06_u103')",
+            "('be', 'you/(Rachel Green)', 'off in Rachel-land', 's01_e19_c06_u103')",
+            "('do', 'you/(Rachel Green)', 'your Rachel-thing', 's01_e19_c06_u103')",
+            "('be', 'you/(Rachel Green)', \"oblivious to people's monkeys\", 's01_e19_c06_u103')",
+            "('be', 'you/(Rachel Green)', \"oblivious to people's feelings\", 's01_e19_c06_u103')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u105",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u105_e1",
+          "tuples": [
+            "('hear', 'I/(Ross Geller)', 'it', 's01_e19_c06_u105')"
+          ]
+        },
+        {
+          "event_id": "s01_e19_c06_u105_e2",
+          "tuples": [
+            "('be', 'you/(Rachel Green)', None, 's01_e19_c06_u105')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e19_c06_u107",
+      "events": [
+        {
+          "event_id": "s01_e19_c06_u107_e1",
+          "tuples": [
+            "('forget', 'you/(Rachel Green)', 'it', 's01_e19_c06_u107')"
+          ]
+        }
+      ]
+    }
+  ]
+}

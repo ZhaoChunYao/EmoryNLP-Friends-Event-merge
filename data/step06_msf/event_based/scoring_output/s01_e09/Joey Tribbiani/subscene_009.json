@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, task-focused replies while trying keys; no clear signs of outgoing or reserved behavior beyond the situation."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker is direct (“Nope, not that one” and asking another to calculate the time) but not clearly generous or hostile; no concrete cues of trustworthiness or unreliability."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They methodically work through many keys in one keyhole and suggest estimating the total time, showing organization and a planned approach."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Under pressure to go faster and in an ‘emergency,’ TargetSpeaker stays calm and pragmatic, showing no anxiety or agitation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No signs of curiosity or creativity; responses are practical and literal without inventive thinking."
+  }
+}

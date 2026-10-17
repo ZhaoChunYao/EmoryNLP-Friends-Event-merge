@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She initiates calls, talks to multiple people, and invites Speaker_04 to come by and see her tomorrow, showing sociable, proactive engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She responds to the news about Speaker_04 as great and facilitates meeting up, using a friendly, cooperative tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She mentions her work schedule, sets a plan to see Speaker_04 tomorrow, and promptly follows up by calling Speaker_05, indicating organized follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Although she notes Speaker_04 sounded weird on the phone, she does not express worry or distress and proceeds matter‑of‑factly."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of imaginative or unconventional thinking; her actions focus on routine coordination and planning."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives a brief factual reply and one tentative question; no outgoing or talkative behavior shown."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When asked why people think Speaker_01 looks gay, TargetSpeaker directly says it’s because of the hair—clear, straightforward answer."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization or diligence; only casual participation in the conversation."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says, “So, um, did she…,” using hesitant filler when broaching the sensitive ‘died twice’ topic, suggesting nervousness/sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a basic clarification attempt, there is no strong sign of curiosity/inventiveness or of dogmatism/caution."
+  }
+}

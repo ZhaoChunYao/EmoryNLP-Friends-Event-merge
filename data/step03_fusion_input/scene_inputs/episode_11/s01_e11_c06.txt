@@ -1,0 +1,147 @@
+('be', 'Chandler', 'here', 's01_e11_c06_u001')
+[s01_e11_c06_u001] Ross Geller: Hey, is Chandler here?
+
+('tell', 'you/Joey Tribbiani', None, 's01_e11_c06_u004')
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+
+('think', 'I/Ross Geller', "we don't need to tell Chandler", 's01_e11_c06_u004')
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+
+('need', 'we/Ross Geller+Joey Tribbiani', 'to tell Chandler', 's01_e11_c06_u004')
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+
+('tell', 'we/Ross Geller+Joey Tribbiani', 'Chandler Bing', 's01_e11_c06_u004')
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+
+('be', 'it/(last night)', 'just a kiss', 's01_e11_c06_u004')
+[s01_e11_c06_u004] Ross Geller: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+
+('break', 'you/Ross Geller', 'the code', 's01_e11_c06_u007')
+[s01_e11_c06_u007] Joey Tribbiani: In Bizarro World!! You broke the code!
+
+('kiss', 'you/(generic)', "your friend's mom", 's01_e11_c06_u009')
+[s01_e11_c06_u009] Joey Tribbiani: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!
+
+('be', 'Sisters', 'okay', 's01_e11_c06_u009')
+[s01_e11_c06_u009] Joey Tribbiani: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!
+
+('do', 'you guys/Ross Geller+Joey Tribbiani', 'out here', 's01_e11_c06_u011')
+[s01_e11_c06_u011] Chandler Bing: What are you guys doing out here?
+
+('discuss', 'Joey and I/Joey Tribbiani+Ross Geller', 'getting in an early morning racquetball game', 's01_e11_c06_u012')
+[s01_e11_c06_u012] Ross Geller: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+
+('get', 'Joey and I/Joey Tribbiani+Ross Geller', 'in an early morning racquetball game', 's01_e11_c06_u012')
+[s01_e11_c06_u012] Ross Geller: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+
+('oversleep', 'somebody', None, 's01_e11_c06_u012')
+[s01_e11_c06_u012] Ross Geller: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+
+('have', 'you/Ross Geller', 'your racket', 's01_e11_c06_u013')
+[s01_e11_c06_u013] Joey Tribbiani: Yeah, well, you don't have your racket.
+
+('restring', "it/(Ross's racket)", None, 's01_e11_c06_u014')
+[s01_e11_c06_u014] Ross Geller: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+
+('suppose', 'somebody', 'to bring me one', 's01_e11_c06_u014')
+[s01_e11_c06_u014] Ross Geller: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+
+('bring', 'somebody', 'one', 's01_e11_c06_u014')
+[s01_e11_c06_u014] Ross Geller: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+
+('call', 'you/Ross Geller', None, 's01_e11_c06_u015')
+[s01_e11_c06_u015] Joey Tribbiani: Yeah, well you didn't call and leave your grip size.
+
+('leave', 'you/Ross Geller', 'your grip size', 's01_e11_c06_u015')
+[s01_e11_c06_u015] Joey Tribbiani: Yeah, well you didn't call and leave your grip size.
+
+('spend', 'you guys/Ross Geller+Joey Tribbiani', 'waaaay too much time together', 's01_e11_c06_u016')
+[s01_e11_c06_u016] Chandler Bing: Okay, you guys spend waaaay too much time together.
+
+('be', 'I/Ross Geller', 'scum', 's01_e11_c06_u017')
+[s01_e11_c06_u017] Ross Geller: Okay, I'm scum, I'm scum.
+
+('let', 'you/Ross Geller', 'this happen', 's01_e11_c06_u018')
+[s01_e11_c06_u018] Joey Tribbiani: Ross, how could you let this happen?
+
+('happen', 'this/(the kiss incident)', None, 's01_e11_c06_u018')
+[s01_e11_c06_u018] Joey Tribbiani: Ross, how could you let this happen?
+
+('know', 'I/Ross Geller', None, 's01_e11_c06_u019')
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+
+('be like', 'it/(the situation)', "she's a regular mom", 's01_e11_c06_u019')
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+
+('be', "she/Chandler's mom", 'a regular mom', 's01_e11_c06_u019')
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+
+('be', "she/Chandler's mom", 'sexy', 's01_e11_c06_u019')
+[s01_e11_c06_u019] Ross Geller: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+
+('think', 'you/Ross Geller', 'my mom is sexy', 's01_e11_c06_u020')
+[s01_e11_c06_u020] Joey Tribbiani: You don't think my mom's sexy?
+
+('be', 'my mom/Gloria Tribbiani', 'sexy', 's01_e11_c06_u020')
+[s01_e11_c06_u020] Joey Tribbiani: You don't think my mom's sexy?
+
+('have', 'I/Joey Tribbiani', 'you know that Gloria Tribbiani was a handsome woman in her day', 's01_e11_c06_u022')
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+
+('know', 'you/Ross Geller', 'that Gloria Tribbiani was a handsome woman in her day', 's01_e11_c06_u022')
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+
+('be', 'Gloria Tribbiani', 'a handsome woman in her day', 's01_e11_c06_u022')
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+
+('think', 'you/Ross Geller', "it's easy giving birth to seven children", 's01_e11_c06_u022')
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+
+('be', 'it/(giving birth to seven children)', 'easy', 's01_e11_c06_u022')
+[s01_e11_c06_u022] Joey Tribbiani: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+
+('think', 'I/Ross Geller', "we're getting into a weird area here", 's01_e11_c06_u023')
+[s01_e11_c06_u023] Ross Geller: Okay, I think we're getting into a weird area here...
+
+('get', 'we/Ross Geller+Joey Tribbiani', 'into a weird area', 's01_e11_c06_u023')
+[s01_e11_c06_u023] Ross Geller: Okay, I think we're getting into a weird area here...
+
+('forget', 'he/Ross Geller', 'to leave his grip size', 's01_e11_c06_u029')
+[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+
+('leave', 'he/Ross Geller', 'his grip size', 's01_e11_c06_u029')
+[s01_e11_c06_u029] Joey Tribbiani: He forgot to leave his grip size!
+
+('get', 'he/Joey Tribbiani', 'the goggles', 's01_e11_c06_u030')
+[s01_e11_c06_u030] Ross Geller: He didn't get the goggles!
+
+('sound', 'it', 'like you two have issues', 's01_e11_c06_u031')
+[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+
+('have', 'you two/Ross Geller+Joey Tribbiani', 'issues', 's01_e11_c06_u031')
+[s01_e11_c06_u031] Rachel Green: Well,sounds like you two have issues.
+
+('wait', 'they/Rachel Green+Paolo', 'for me to do this', 's01_e11_c06_u036')
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+
+('do', 'me/Ross Geller', 'this', 's01_e11_c06_u036')
+[s01_e11_c06_u036] Ross Geller: Do they wait for me to do this?
+
+('tell', 'you/Ross Geller', 'him/Chandler Bing', 's01_e11_c06_u038')
+[s01_e11_c06_u038] Joey Tribbiani: So are you gonna tell him?
+
+('tell', 'I/Ross Geller', 'him/Chandler Bing', 's01_e11_c06_u039')
+[s01_e11_c06_u039] Ross Geller: Why would I tell him?
+
+('tell', 'you/Ross Geller', None, 's01_e11_c06_u040')
+[s01_e11_c06_u040] Joey Tribbiani: How about 'cause if you don't, his mother might.
+
+('tell', 'his mother/Nora Bing', None, 's01_e11_c06_u040')
+[s01_e11_c06_u040] Joey Tribbiani: How about 'cause if you don't, his mother might.
+
+('wear', 'he/Ross Geller', 'a jockstrap', 's01_e11_c06_u043')
+[s01_e11_c06_u043] Joey Tribbiani: Uhhhh.... he's not even wearing a jockstrap!
+
+('ask', 'I/Monica Geller', 'what', 's01_e11_c06_u044')
+[s01_e11_c06_u044] Monica Geller: ...What did I ask?
+

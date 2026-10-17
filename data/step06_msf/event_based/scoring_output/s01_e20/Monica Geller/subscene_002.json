@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief observational comments (notes the long phone-message work; points out the telescope watcher) without showing notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "A mild tease about the two-hour phone message and a helpful warning about the telescope watcher balance out; no clear kindness or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "TargetSpeaker does not display planning, organization, or carelessness—only observations about others and the watcher."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Mentions being watched but does not express anxiety, distress, or insecurity—just states the fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, creativity, or dogmatism; only straightforward observations."
+  }
+}

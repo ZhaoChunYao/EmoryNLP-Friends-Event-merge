@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly declares love for Speaker_01 and chimes in with a playful comment about the date (“they are going to do something”), showing sociable, expressive participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker expresses warmth and support (“I love Speaker_01”) and speaks positively about Speaker_01’s date plans, indicating friendliness rather than conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to planning, organization, or diligence is shown; only brief affectionate and teasing remarks."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or insecurity; the lines are brief, playful comments without emotional distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, creativity, or unconventional thinking in the remarks provided."
+  }
+}

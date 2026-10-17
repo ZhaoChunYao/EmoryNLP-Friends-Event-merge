@@ -1,0 +1,21 @@
+Episode: s01_e20
+Scene: s01_e20_c10
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e20_c10_u002 → s01_e20_c10_u008
+Peak window: 2 → 2
+
+Dialogue:
+  [s01_e20_c10_u002]
+  1. Speaker_01 says Speaker_02 and TargetSpeaker should come in right now.
+  [s01_e20_c10_u003] TargetSpeaker: Hello, sweetheart.
+  [s01_e20_c10_u004]
+  1. Speaker_01 says Speaker_02 and TargetSpeaker are currently here and asks what Speaker_02 and TargetSpeaker are doing here.
+  [s01_e20_c10_u005]
+  1. Speaker_02 says Speaker_02 and TargetSpeaker are here to break up with Speaker_01 right now.
+  [s01_e20_c10_u006] Speaker_01: Both of you?
+  [s01_e20_c10_u007]
+  1. TargetSpeaker says Speaker_02 and TargetSpeaker think Speaker_01 is a horrible human being right now.
+  2. TargetSpeaker says bad things should happen to Speaker_01 in the future.
+  [s01_e20_c10_u008]
+  1. Speaker_01 says Speaker_01 is sorry and was weak, and that whatever Speaker_01 did in the past, Speaker_01 only did because Speaker_01 loves TargetSpeaker.

@@ -1,0 +1,53 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e04_c06_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'There', 'ice', 's01_e04_c06_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c06_u003",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('say', 'I/(Ross Geller)', \"it looks like we're not sitting together\", 's01_e04_c06_u003')",
+            "('look', 'it/(the seating situation)', \"like we're not sitting together\", 's01_e04_c06_u003')",
+            "('sit', 'we/(Ross Geller and Chandler Bing)', None, 's01_e04_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('mention', 'you/(Chandler Bing)', 'it', 's01_e04_c06_u003')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('be', 'it/(that night)', 'the first frost', 's01_e04_c06_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e04_c06_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('come', 'you/(Ross Geller)', 'on', 's01_e04_c06_u004')",
+            "('sit', 'you/(Ross Geller)', 'down', 's01_e04_c06_u004')",
+            "('sit', 'you/(Ross Geller)', None, 's01_e04_c06_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

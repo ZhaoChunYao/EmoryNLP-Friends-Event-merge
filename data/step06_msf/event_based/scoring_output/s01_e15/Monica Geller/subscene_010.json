@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes the lead socially—introduces someone and invites Speaker_01 to take a tour of the apartment."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker politely thanks the guest for the compliment and generously offers a tour."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No direct behavior shows organization or efficiency; compliments about the apartment’s smell/appearance come from others."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker responds calmly and confidently, offering a home tour without any sign of nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or preference for novelty; offering a tour is standard hospitality rather than openness to new ideas or experiences."
+  }
+}

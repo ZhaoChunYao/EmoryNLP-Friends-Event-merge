@@ -1,0 +1,206 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u001_e1",
+          "tuples": [
+            "('tell', 'everyone', 'me', 's01_e09_c11_u001')",
+            "('pick', 'you/Ross Geller', 'a major', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e2",
+          "tuples": [
+            "('pick', 'I/Ross Geller', 'paleontology', 's01_e09_c11_u001')",
+            "('pick', 'I/Ross Geller', 'on a dare', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e3",
+          "tuples": [
+            "('have', 'you/Fetus', 'no idea', 's01_e09_c11_u001')",
+            "('say', 'I/Ross Geller', 'what', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e4",
+          "tuples": [
+            "('let', 'us/Ross Geller and Fetus', 'face it', 's01_e09_c11_u001')",
+            "('face', 'us/Ross Geller and Fetus', 'it', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e5",
+          "tuples": [
+            "('be', 'you/Fetus', 'a fetus', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e6",
+          "tuples": [
+            "('be', 'you/Fetus', 'happy', 's01_e09_c11_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u001_e7",
+          "tuples": [
+            "('have', 'you/Fetus', 'gills', 's01_e09_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u002",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u002_e1",
+          "tuples": [
+            "('look', 'you/Ross Geller', None, 's01_e09_c11_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u002_e2",
+          "tuples": [
+            "('talk', 'you/Ross Geller', 'to it', 's01_e09_c11_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u002_e3",
+          "tuples": [
+            "('sing', 'you/Ross Geller', 'to it', 's01_e09_c11_u002')",
+            "('want', 'you/Ross Geller', 'to sing to it', 's01_e09_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u003_e1",
+          "tuples": [
+            "('sing', 'I/Ross Geller', 'to your stomach', 's01_e09_c11_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u005_e1",
+          "tuples": [
+            "('go', 'it/(situation)', None, 's01_e09_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u006",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u006_e1",
+          "tuples": [
+            "('come', 'we/Ross Geller', None, 's01_e09_c11_u006')",
+            "('walk', 'we/Ross Geller', 'down the street', 's01_e09_c11_u006')",
+            "('get', 'we/Ross Geller', 'the funniest looks', 's01_e09_c11_u006')",
+            "('get', 'we/Ross Geller', 'from everyone we meet', 's01_e09_c11_u006')",
+            "('meet', 'we/Ross Geller', 'everyone', 's01_e09_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c11_u006_e2",
+          "tuples": [
+            "('feel', 'you/Carol Willick', 'that', 's01_e09_c11_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u007_e1",
+          "tuples": [
+            "('do', 'I/Carol Willick', None, 's01_e09_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u008",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u008_e1",
+          "tuples": [
+            "('do', 'it/(the fetus)', None, 's01_e09_c11_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u009",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u009_e1",
+          "tuples": [
+            "('be', 'that/(movement)', 'the first', 's01_e09_c11_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u010",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u010_e1",
+          "tuples": [
+            "('keep', 'you/Ross Geller', 'singing', 's01_e09_c11_u010')",
+            "('sing', 'you/Ross Geller', None, 's01_e09_c11_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u011_e1",
+          "tuples": [
+            "('be', 'you/Fetus', 'my baby', 's01_e09_c11_u011')",
+            "('wait', 'I/Ross Geller', 'to meet you', 's01_e09_c11_u011')",
+            "('meet', 'I/Ross Geller', 'you', 's01_e09_c11_u011')",
+            "('come', 'you/Fetus', 'out', 's01_e09_c11_u011')",
+            "('buy', 'I/Ross Geller', 'a bagel', 's01_e09_c11_u011')",
+            "('go', 'we/Ross Geller+Fetus', 'to the zoo', 's01_e09_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u012",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u012_e1",
+          "tuples": [
+            "('feel', 'I/Susan Bunch', 'it', 's01_e09_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c11_u013",
+      "events": [
+        {
+          "event_id": "s01_e09_c11_u013_e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'your daddy', 's01_e09_c11_u013')",
+            "('be', 'I/Ross Geller', 'the one without any breasts', 's01_e09_c11_u013')"
+          ]
+        }
+      ]
+    }
+  ]
+}

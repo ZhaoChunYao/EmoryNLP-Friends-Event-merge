@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaker_03 says Speaker_03 and TargetSpeaker are planning to play foosball now, and others are being invited to join, indicating TargetSpeaker’s participation in a social, energetic group activity."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No concrete action from TargetSpeaker shows cooperation/helpfulness or conflict/hostility toward others."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Speaker_02 says TargetSpeaker and Speaker_03 are planning to balance plates on the foosball players’ heads, and Speaker_03 says they plan to eat at the sink—implying a sloppy, careless approach rather than organized dining."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker’s remarks are neutral reports of another’s thoughts with no signs of anxiety, stress, or emotional reactivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker is included in the unconventional plan to use the foosball table as a dining surface by balancing plates on the players’ heads and is flexible about eating at the sink, suggesting openness to novel, nontraditional ideas."
+  }
+}

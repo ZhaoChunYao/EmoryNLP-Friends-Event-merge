@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "She quickly says she had better leave so she won't miss the last train and does not engage in the offered game, echoing others’ decisions rather than leading (u013, u012, u018, u020)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She brought an item Speaker_01 needed for a meeting, anticipating his need (u010), and compliantly goes along with others’ plans, even echoing their statements (u018, u020)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She remembered and delivered the “good hair” for tomorrow’s meeting (u010) and manages time carefully to avoid missing the last train (u013)."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Aside from a practical concern about missing the last train (u013), there is no clear sign of anxiety or emotional instability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear behavior indicates curiosity or inventiveness; leaving early to catch a train reflects scheduling rather than openness to new experiences."
+  }
+}

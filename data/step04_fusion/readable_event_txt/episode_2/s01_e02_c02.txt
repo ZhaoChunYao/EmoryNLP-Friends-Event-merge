@@ -1,0 +1,99 @@
+event_id: s01_e02_c02_u001_e1
+utterance_id: s01_e02_c02_u001
+  tuple: ('be', 'it', 'good', 's01_e02_c02_u001')
+
+event_id: s01_e02_c02_u001_e2
+utterance_id: s01_e02_c02_u001
+  tuple: ('be', 'it', 'just that', 's01_e02_c02_u001')
+
+event_id: s01_e02_c02_u001_e3
+utterance_id: s01_e02_c02_u001
+  tuple: ('seem', 'she/(cave woman)', 'a little angry', 's01_e02_c02_u001')
+
+event_id: s01_e02_c02_u002_e1
+utterance_id: s01_e02_c02_u002
+  tuple: ('have', 'she/(cave woman)', 'issues', 's01_e02_c02_u002')
+
+event_id: s01_e02_c02_u004_e1
+utterance_id: s01_e02_c02_u004
+  tuple: ('be', 'he/(cave man)', 'out', 's01_e02_c02_u004')
+  tuple: ('bang', 'he/(cave man)', 'other women', 's01_e02_c02_u004')
+  tuple: ('bang', 'he/(cave man)', 'over the head', 's01_e02_c02_u004')
+  tuple: ('bang', 'he/(cave man)', 'with a club', 's01_e02_c02_u004')
+
+event_id: s01_e02_c02_u004_e2
+utterance_id: s01_e02_c02_u004
+  tuple: ('sit', 'she/(cave woman)', 'at home', 's01_e02_c02_u004')
+  tuple: ('try', 'she/(cave woman)', 'to get the mastodon smell out of the carpet', 's01_e02_c02_u004')
+  tuple: ('get', 'she/(cave woman)', 'the mastodon smell', 's01_e02_c02_u004')
+  tuple: ('get out', 'she/(cave woman)', 'of the carpet', 's01_e02_c02_u004')
+
+event_id: s01_e02_c02_u005_e1
+utterance_id: s01_e02_c02_u005
+  tuple: ('be', 'these/(people on screen)', 'cave people', 's01_e02_c02_u005')
+
+event_id: s01_e02_c02_u005_e2
+utterance_id: s01_e02_c02_u005
+  tuple: ('have', 'they/(cave people)', 'issues', 's01_e02_c02_u005')
+
+event_id: s01_e02_c02_u005_e3
+utterance_id: s01_e02_c02_u005
+  tuple: ('get', 'that glacier', 'kinda close', 's01_e02_c02_u005')
+
+event_id: s01_e02_c02_u005_e4
+utterance_id: s01_e02_c02_u005
+  tuple: ('see', 'you/Marsha', None, 's01_e02_c02_u005')
+
+event_id: s01_e02_c02_u006_e1
+utterance_id: s01_e02_c02_u006
+  tuple: ('be', 'that/Carol Willick', 'your ex-wife', 's01_e02_c02_u006')
+
+event_id: s01_e02_c02_u009_e1
+utterance_id: s01_e02_c02_u009
+  tuple: ('be', 'it/(Carol Willick)', None, 's01_e02_c02_u009')
+
+event_id: s01_e02_c02_u010_e1
+utterance_id: s01_e02_c02_u010
+  tuple: ('catch up', 'I/Ross Geller', 'with you/Marsha', 's01_e02_c02_u010')
+  tuple: ('catch up', 'I/Ross Geller', 'in the Ice Age', 's01_e02_c02_u010')
+
+event_id: s01_e02_c02_u014_e1
+utterance_id: s01_e02_c02_u014
+  tuple: ('look', 'you/Carol Willick', 'great', 's01_e02_c02_u014')
+
+event_id: s01_e02_c02_u014_e2
+utterance_id: s01_e02_c02_u014
+  tuple: ('hate', 'I/Ross Geller', 'that', 's01_e02_c02_u014')
+
+event_id: s01_e02_c02_u015_e1
+utterance_id: s01_e02_c02_u015
+  tuple: ('look', 'you/Ross Geller', 'good', 's01_e02_c02_u015')
+
+event_id: s01_e02_c02_u016_e1
+utterance_id: s01_e02_c02_u016
+  tuple: ('stand', 'anyone who', 'erect', 's01_e02_c02_u016')
+
+event_id: s01_e02_c02_u016_e2
+utterance_id: s01_e02_c02_u016
+  tuple: ('be', 'what', 'new', 's01_e02_c02_u016')
+
+event_id: s01_e02_c02_u018_e1
+utterance_id: s01_e02_c02_u018
+  tuple: ('know', 'you/Carol Willick', None, 's01_e02_c02_u018')
+
+event_id: s01_e02_c02_u018_e2
+utterance_id: s01_e02_c02_u018
+  tuple: ('be', 'the family', None, 's01_e02_c02_u018')
+
+event_id: s01_e02_c02_u019_e1
+utterance_id: s01_e02_c02_u019
+  tuple: ('be', 'Marty', 'still totally paranoid', 's01_e02_c02_u019')
+
+event_id: s01_e02_c02_u020_e1
+utterance_id: s01_e02_c02_u020
+  tuple: ('be', 'you/Carol Willick', 'here', 's01_e02_c02_u020')
+
+event_id: s01_e02_c02_u021_e1
+utterance_id: s01_e02_c02_u021
+  tuple: ('be', 'I/Carol Willick', 'pregnant', 's01_e02_c02_u021')
+

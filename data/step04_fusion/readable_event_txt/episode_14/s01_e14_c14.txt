@@ -1,0 +1,122 @@
+event_id: s01_e14_c14_u001_e1
+utterance_id: s01_e14_c14_u001
+  tuple: ('bring', 'I/Janice', 'you', 's01_e14_c14_u001')
+  tuple: ('bring', 'I/Janice', 'something', 's01_e14_c14_u001')
+
+event_id: s01_e14_c14_u002_e1
+utterance_id: s01_e14_c14_u002
+  tuple: ('be', 'it', 'loaded', 's01_e14_c14_u002')
+
+event_id: s01_e14_c14_u003_e1
+utterance_id: s01_e14_c14_u003
+  tuple: ('have', 'I/Janice', 'them made special', 's01_e14_c14_u003')
+  tuple: ('make', 'I/Janice', 'them', 's01_e14_c14_u003')
+
+event_id: s01_e14_c14_u004_e1
+utterance_id: s01_e14_c14_u004
+  tuple: ('look', 'you/Janice', None, 's01_e14_c14_u004')
+
+event_id: s01_e14_c14_u004_e2
+utterance_id: s01_e14_c14_u004
+  tuple: ('be', 'there', 'no new way for me to tell you this', 's01_e14_c14_u004')
+  tuple: ('tell', 'me/Chandler', 'this', 's01_e14_c14_u004')
+  tuple: ('tell', 'me/Chandler', 'you', 's01_e14_c14_u004')
+
+event_id: s01_e14_c14_u004_e3
+utterance_id: s01_e14_c14_u004
+  tuple: ('work', 'things', 'out', 's01_e14_c14_u004')
+
+event_id: s01_e14_c14_u005_e1
+utterance_id: s01_e14_c14_u005
+  tuple: ('be', 'that', 'fine', 's01_e14_c14_u005')
+
+event_id: s01_e14_c14_u006_e1
+utterance_id: s01_e14_c14_u006
+  tuple: ('be', 'it', None, 's01_e14_c14_u006')
+
+event_id: s01_e14_c14_u007_e1
+utterance_id: s01_e14_c14_u007
+  tuple: ('know', 'I/Janice', "that this isn't the end", 's01_e14_c14_u007')
+  tuple: ('be', 'this', 'the end', 's01_e14_c14_u007')
+
+event_id: s01_e14_c14_u008_e1
+utterance_id: s01_e14_c14_u008
+  tuple: ('see', 'you/Janice', None, 's01_e14_c14_u008')
+
+event_id: s01_e14_c14_u008_e2
+utterance_id: s01_e14_c14_u008
+  tuple: ('be', 'it', None, 's01_e14_c14_u008')
+
+event_id: s01_e14_c14_u009_e1
+utterance_id: s01_e14_c14_u009
+  tuple: ('be', 'it', None, 's01_e14_c14_u009')
+
+event_id: s01_e14_c14_u009_e2
+utterance_id: s01_e14_c14_u009
+  tuple: ('let', 'you/Chandler', 'that happen', 's01_e14_c14_u009')
+  tuple: ('happen', 'that', None, 's01_e14_c14_u009')
+
+event_id: s01_e14_c14_u009_e3
+utterance_id: s01_e14_c14_u009
+  tuple: ('know', 'you/Chandler', 'it', 's01_e14_c14_u009')
+
+event_id: s01_e14_c14_u009_e4
+utterance_id: s01_e14_c14_u009
+  tuple: ('love', 'you/Chandler', 'me', 's01_e14_c14_u009')
+
+event_id: s01_e14_c14_u011_e1
+utterance_id: s01_e14_c14_u011
+  tuple: ('ask', 'you/Chandler', 'yourself', 's01_e14_c14_u011')
+  tuple: ('ask', 'you/Chandler', 'this', 's01_e14_c14_u011')
+
+event_id: s01_e14_c14_u011_e2
+utterance_id: s01_e14_c14_u011
+  tuple: ('think', 'you/Chandler', 'we keep ending up together', 's01_e14_c14_u011')
+  tuple: ('keep', 'we/Janice+Chandler', 'ending up together', 's01_e14_c14_u011')
+  tuple: ('end', 'we/Janice+Chandler', 'up together', 's01_e14_c14_u011')
+
+event_id: s01_e14_c14_u011_e3
+utterance_id: s01_e14_c14_u011
+  tuple: ('invite', 'who', 'who', 's01_e14_c14_u011')
+
+event_id: s01_e14_c14_u011_e4
+utterance_id: s01_e14_c14_u011
+  tuple: ('ask', 'who', 'who', 's01_e14_c14_u011')
+  tuple: ('ask', 'who', 'into whose bed', 's01_e14_c14_u011')
+
+event_id: s01_e14_c14_u013_e1
+utterance_id: s01_e14_c14_u013
+  tuple: ('seek', 'you/Chandler', 'out me', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e2
+utterance_id: s01_e14_c14_u013
+  tuple: ('call', 'something deep in your soul', 'out', 's01_e14_c14_u013')
+  tuple: ('call', 'something deep in your soul', 'to me', 's01_e14_c14_u013')
+  tuple: ('call', 'something deep in your soul', 'like a foghorn', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e3
+utterance_id: s01_e14_c14_u013
+  tuple: ('want', 'you/Chandler', 'me', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e4
+utterance_id: s01_e14_c14_u013
+  tuple: ('need', 'you/Chandler', 'me', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e5
+utterance_id: s01_e14_c14_u013
+  tuple: ('live', 'you/Chandler', None, 's01_e14_c14_u013')
+  tuple: ('live', 'you/Chandler', 'without me', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e6
+utterance_id: s01_e14_c14_u013
+  tuple: ('know', 'you/Chandler', 'it', 's01_e14_c14_u013')
+  tuple: ('know', 'you/Chandler', 'you know it', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u013_e7
+utterance_id: s01_e14_c14_u013
+  tuple: ('see', 'I/Janice', 'you', 's01_e14_c14_u013')
+
+event_id: s01_e14_c14_u015_e1
+utterance_id: s01_e14_c14_u015
+  tuple: ('call', 'you/Janice', 'me', 's01_e14_c14_u015')
+

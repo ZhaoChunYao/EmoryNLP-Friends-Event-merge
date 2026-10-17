@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker eagerly participates in group banter, addresses Speaker_01, and performs an impression aloud ('The hills were alive with the sound of music'), showing outgoing, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker mocks Speaker_01 and joins others in repeating 'My scones,' teasing them rather than being gentle or accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicates organization, diligence, or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or insecurity; the behavior is playful and relaxed."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Performs a creative, theatrical imitation by quoting a musical line, indicating imaginative, playful expression."
+  }
+}

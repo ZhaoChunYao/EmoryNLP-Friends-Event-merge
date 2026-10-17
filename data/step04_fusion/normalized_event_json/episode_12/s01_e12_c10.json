@@ -1,0 +1,174 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u003_e1",
+          "tuples": [
+            "('move', 'you/Rachel Green', 'out', 's01_e12_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u004_e1",
+          "tuples": [
+            "('be', 'these/(suitcases)', 'all my suitcases', 's01_e12_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u004_e2",
+          "tuples": [
+            "('be', 'this one/(suitcase)', \"Paolo's\", 's01_e12_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u005_e1",
+          "tuples": [
+            "('talk', 'we/(Phoebe Buffay+Rachel Green)', 'for a sec', 's01_e12_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u006_e1",
+          "tuples": [
+            "('be', 'Paolo', 'on his way over', 's01_e12_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u009_e1",
+          "tuples": [
+            "('know', 'we/(Phoebe Buffay+Rachel Green)', 'each other for that long a time', 's01_e12_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u009_e2",
+          "tuples": [
+            "('be', 'there', 'three things', 's01_e12_c10_u009')",
+            "('know', 'you/Rachel Green', 'three things about me', 's01_e12_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u009_e3",
+          "tuples": [
+            "('be', 'my friends', 'the most important thing', 's01_e12_c10_u009')",
+            "('be', 'my friends', 'in my life', 's01_e12_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u009_e4",
+          "tuples": [
+            "('lie', 'I/Phoebe Buffay', None, 's01_e12_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u009_e5",
+          "tuples": [
+            "('make', 'I/Phoebe Buffay', 'the best oatmeal raisin cookies', 's01_e12_c10_u009')",
+            "('make', 'I/Phoebe Buffay', 'in the world', 's01_e12_c10_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u010",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u010_e1",
+          "tuples": [
+            "('taste', 'I/Rachel Green', 'these before', 's01_e12_c10_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u011_e1",
+          "tuples": [
+            "('make', 'I/Rachel Green', 'them a lot', 's01_e12_c10_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u011_e2",
+          "tuples": [
+            "('think', 'I/Rachel Green', 'it is fair to the other cookies', 's01_e12_c10_u011')",
+            "('be', 'it/(making them a lot)', 'fair', 's01_e12_c10_u011')",
+            "('be', 'it/(making them a lot)', 'to the other cookies', 's01_e12_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u012",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u012_e1",
+          "tuples": [
+            "('be', 'you/Phoebe Buffay', 'right', 's01_e12_c10_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e12_c10_u012_e2",
+          "tuples": [
+            "('be', 'these/(cookies)', 'the best oatmeal cookies', 's01_e12_c10_u012')",
+            "('have', 'I/Rachel Green', 'these', 's01_e12_c10_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u013",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u013_e1",
+          "tuples": [
+            "('prove', \"which/(these are the best oatmeal cookies I've ever had)\", 'that I never lie', 's01_e12_c10_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u014",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u014_e1",
+          "tuples": [
+            "('guess', 'I/Rachel Green', \"you don't\", 's01_e12_c10_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c10_u015",
+      "events": [
+        {
+          "event_id": "s01_e12_c10_u015_e1",
+          "tuples": [
+            "('make', 'Paolo', 'a pass', 's01_e12_c10_u015')",
+            "('make', 'Paolo', 'at me', 's01_e12_c10_u015')"
+          ]
+        }
+      ]
+    }
+  ]
+}

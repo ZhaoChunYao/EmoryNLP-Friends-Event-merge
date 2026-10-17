@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Speaker_02 reports that TargetSpeaker had no friends as a child and would read alone, and in this scene TargetSpeaker speaks minimally and only asks a clarifying question, indicating a reserved style."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker corrects Speaker_01 but without hostility and later calmly asks what is going on with Speaker_02; no clear signs of either generosity/cooperation or antagonism."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior or statements reflect organization, planning, or diligence."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or emotional instability; the single response is a straightforward clarifying question."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or openness to new ideas is expressed in this exchange."
+  }
+}

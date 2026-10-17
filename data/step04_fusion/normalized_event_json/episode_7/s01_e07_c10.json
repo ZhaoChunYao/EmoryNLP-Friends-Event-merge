@@ -1,0 +1,315 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u001_e1",
+          "tuples": [
+            "('have', 'New York City', 'no power', 's01_e07_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u001_e2",
+          "tuples": [
+            "('get', 'the milk', 'sour', 's01_e07_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u001_e3",
+          "tuples": [
+            "('be', 'it', 'not scary', 's01_e07_c10_u001')",
+            "('be', 'it', 'to me', 's01_e07_c10_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u001_e4",
+          "tuples": [
+            "('stay away', 'I/Phoebe Buffay', 'from dairy', 's01_e07_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u002_e1",
+          "tuples": [
+            "('go', 'here', None, 's01_e07_c10_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u003_e1",
+          "tuples": [
+            "('do', 'you/Ross Geller', 'it', 's01_e07_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u004_e1",
+          "tuples": [
+            "('do', 'I/Ross Geller', 'it', 's01_e07_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u005_e1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'any help', 's01_e07_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u006_e1",
+          "tuples": [
+            "('come', 'you/Joey Tribbiani', None, 's01_e07_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u006_e2",
+          "tuples": [
+            "('be', 'you/Joey Tribbiani', 'a dead man', 's01_e07_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u011",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u011_e1",
+          "tuples": [
+            "('go', 'you/Monica Geller', None, 's01_e07_c10_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u016",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u016_e1",
+          "tuples": [
+            "('be', 'that/(the reason)', None, 's01_e07_c10_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u017",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u017_e1",
+          "tuples": [
+            "('tell', 'I/Joey Tribbiani', 'you/Monica Geller', 's01_e07_c10_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u018",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u018_e1",
+          "tuples": [
+            "('go', 'what', 'on', 's01_e07_c10_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u019",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u019_e1",
+          "tuples": [
+            "('promise', 'you/Monica Geller', \"that you'll never, ever tell Ross that I told you\", 's01_e07_c10_u019')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u019_e2",
+          "tuples": [
+            "('tell', 'you/Monica Geller', 'Ross', 's01_e07_c10_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u021",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u021_e1",
+          "tuples": [
+            "('plan', 'he/Ross Geller', 'your birthday party', 's01_e07_c10_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u022",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u022_e1",
+          "tuples": [
+            "('love', 'I/Monica Geller', 'him', 's01_e07_c10_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u023",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u023_e1",
+          "tuples": [
+            "('act', 'you/Monica Geller', 'surprised', 's01_e07_c10_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u027",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u027_e1",
+          "tuples": [
+            "('stop', 'you/Phoebe Buffay', 'it', 's01_e07_c10_u027')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u027_e2",
+          "tuples": [
+            "('tell', 'Joey Tribbiani', 'me/Monica Geller', 's01_e07_c10_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u028",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u028_e1",
+          "tuples": [
+            "('tell', 'he/Joey Tribbiani', 'me/Phoebe Buffay', 's01_e07_c10_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u029",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u029_e1",
+          "tuples": [
+            "('look', 'you/Phoebe Buffay', 'at me/Joey Tribbiani', 's01_e07_c10_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u029_e2",
+          "tuples": [
+            "('be', 'this', \"Ross's thing\", 's01_e07_c10_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u030",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u030_e1",
+          "tuples": [
+            "('be', 'this', 'so typical', 's01_e07_c10_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u030_e2",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'always the last one to know everything', 's01_e07_c10_u030')",
+            "('know', 'I/Phoebe Buffay', 'everything', 's01_e07_c10_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u031",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u031_e1",
+          "tuples": [
+            "('be', 'you/Phoebe Buffay', None, 's01_e07_c10_u031')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u031_e2",
+          "tuples": [
+            "('tell', 'we/Monica Geller and others', 'you/Phoebe Buffay', 's01_e07_c10_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c10_u032",
+      "events": [
+        {
+          "event_id": "s01_e07_c10_u032_e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'the last one to know when Chandler got bitten by the peacock at the zoo', 's01_e07_c10_u032')",
+            "('know', 'I/Phoebe Buffay', 'when Chandler got bitten by the peacock at the zoo', 's01_e07_c10_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u032_e2",
+          "tuples": [
+            "('bite', 'Chandler', 'by the peacock', 's01_e07_c10_u032')",
+            "('bite', 'Chandler', 'at the zoo', 's01_e07_c10_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u032_e3",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'the last one to know when you had a crush on Joey when he was moving in', 's01_e07_c10_u032')",
+            "('know', 'I/Phoebe Buffay', 'when you had a crush on Joey when he was moving in', 's01_e07_c10_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u032_e4",
+          "tuples": [
+            "('have', 'you/Monica Geller', 'a crush', 's01_e07_c10_u032')",
+            "('have', 'you/Monica Geller', 'on Joey', 's01_e07_c10_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u032_e5",
+          "tuples": [
+            "('move', 'he/Joey Tribbiani', 'in', 's01_e07_c10_u032')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c10_u032_e6",
+          "tuples": [
+            "('look', 'it', 'like I was second to last', 's01_e07_c10_u032')",
+            "('be', 'I/Phoebe Buffay', 'second to last', 's01_e07_c10_u032')"
+          ]
+        }
+      ]
+    }
+  ]
+}

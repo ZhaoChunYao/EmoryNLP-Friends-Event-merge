@@ -1,0 +1,115 @@
+event_id: s01_e20_c04_u001_e1
+utterance_id: s01_e20_c04_u001
+  tuple: ('expect', 'I/(Chandler Bing)', 'the machine', 's01_e20_c04_u001')
+
+event_id: s01_e20_c04_u001_e2
+utterance_id: s01_e20_c04_u001
+  tuple: ('give', 'you/(Danielle)', 'a call', 's01_e20_c04_u001')
+
+event_id: s01_e20_c04_u001_e3
+utterance_id: s01_e20_c04_u001
+  tuple: ('get', 'you/(Danielle)', 'a chance', 's01_e20_c04_u001')
+
+event_id: s01_e20_c04_u002_e1
+utterance_id: s01_e20_c04_u002
+  tuple: ('be', "That/(Chandler's message)", "what you've been working on for the past two hours", 's01_e20_c04_u002')
+  tuple: ('work', 'you/(Chandler Bing)', 'on what', 's01_e20_c04_u002')
+  tuple: ('work', 'you/(Chandler Bing)', 'for the past two hours', 's01_e20_c04_u002')
+
+event_id: s01_e20_c04_u004_e1
+utterance_id: s01_e20_c04_u004
+  tuple: ('be', 'what/(the issue)', 'with the dishes', 's01_e20_c04_u004')
+
+event_id: s01_e20_c04_u005_e1
+utterance_id: s01_e20_c04_u005
+  tuple: ('want', 'I/(Chandler Bing)', 'her to think I might be in a restaurant', 's01_e20_c04_u005')
+
+event_id: s01_e20_c04_u005_e2
+utterance_id: s01_e20_c04_u005
+  tuple: ('think', 'her/(Danielle)', 'I might be in a restaurant', 's01_e20_c04_u005')
+
+event_id: s01_e20_c04_u005_e3
+utterance_id: s01_e20_c04_u005
+  tuple: ('be', 'I/(Chandler Bing)', 'in a restaurant', 's01_e20_c04_u005')
+
+event_id: s01_e20_c04_u005_e4
+utterance_id: s01_e20_c04_u005
+  tuple: ('have', 'I/(Chandler Bing)', 'some kind of life', 's01_e20_c04_u005')
+
+event_id: s01_e20_c04_u005_e5
+utterance_id: s01_e20_c04_u005
+  tuple: ('sit', 'I/(Chandler Bing)', 'around here', 's01_e20_c04_u005')
+  tuple: ('hone', 'I/(Chandler Bing)', 'for the past few hours', 's01_e20_c04_u005')
+
+event_id: s01_e20_c04_u006_e1
+utterance_id: s01_e20_c04_u006
+  tuple: ('look', 'you/(everyone)', None, 's01_e20_c04_u006')
+
+event_id: s01_e20_c04_u006_e2
+utterance_id: s01_e20_c04_u006
+  tuple: ('do', 'he/(the guy with the telescope)', 'it', 's01_e20_c04_u006')
+
+event_id: s01_e20_c04_u007_e1
+utterance_id: s01_e20_c04_u007
+  tuple: ('go', 'you/(the guy with the telescope)', 'away', 's01_e20_c04_u007')
+
+event_id: s01_e20_c04_u007_e2
+utterance_id: s01_e20_c04_u007
+  tuple: ('stop', 'you/(the guy with the telescope)', 'looking in here', 's01_e20_c04_u007')
+  tuple: ('look', 'you/(the guy with the telescope)', 'in here', 's01_e20_c04_u007')
+
+event_id: s01_e20_c04_u008_e1
+utterance_id: s01_e20_c04_u008
+  tuple: ('wave', 'he/(the guy with the telescope)', 'back', 's01_e20_c04_u008')
+
+event_id: s01_e20_c04_u009_e1
+utterance_id: s01_e20_c04_u009
+  tuple: ('have to', 'we/(group)', 'do something about that guy', 's01_e20_c04_u009')
+  tuple: ('do', 'we/(group)', 'about that guy', 's01_e20_c04_u009')
+
+event_id: s01_e20_c04_u009_e2
+utterance_id: s01_e20_c04_u009
+  tuple: ('catch', 'I/(Joey Tribbiani)', 'him looking into our apartment', 's01_e20_c04_u009')
+  tuple: ('look', 'he/(the guy with the telescope)', 'into our apartment', 's01_e20_c04_u009')
+
+event_id: s01_e20_c04_u009_e3
+utterance_id: s01_e20_c04_u009
+  tuple: ('creep', 'it/(the guy looking into our apartment)', 'out me', 's01_e20_c04_u009')
+
+event_id: s01_e20_c04_u009_e4
+utterance_id: s01_e20_c04_u009
+  tuple: ('feel', 'I/(Joey Tribbiani)', "like I can't do stuff", 's01_e20_c04_u009')
+
+event_id: s01_e20_c04_u009_e5
+utterance_id: s01_e20_c04_u009
+  tuple: ('do', 'I/(Joey Tribbiani)', 'stuff', 's01_e20_c04_u009')
+
+event_id: s01_e20_c04_u011_e1
+utterance_id: s01_e20_c04_u011
+  tuple: ('grow', 'you/(Monica Geller)', 'up', 's01_e20_c04_u011')
+
+event_id: s01_e20_c04_u011_e2
+utterance_id: s01_e20_c04_u011
+  tuple: ('talk', 'I/(Joey Tribbiani)', 'about sexy stuff', 's01_e20_c04_u011')
+
+event_id: s01_e20_c04_u011_e3
+utterance_id: s01_e20_c04_u011
+  tuple: ('cook', 'I/(Joey Tribbiani)', None, 's01_e20_c04_u011')
+
+event_id: s01_e20_c04_u012_e1
+utterance_id: s01_e20_c04_u012
+  tuple: ('cook', 'you/(Joey Tribbiani)', None, 's01_e20_c04_u012')
+
+event_id: s01_e20_c04_u013_e1
+utterance_id: s01_e20_c04_u013
+  tuple: ('spatter', 'that/(food that spatters)', None, 's01_e20_c04_u013')
+
+event_id: s01_e20_c04_u015_e1
+utterance_id: s01_e20_c04_u015
+  tuple: ('look', 'you/(everyone)', 'at me', 's01_e20_c04_u015')
+  tuple: ('look', 'you/(everyone)', 'for what', 's01_e20_c04_u015')
+
+event_id: s01_e20_c04_u015_e2
+utterance_id: s01_e20_c04_u015
+  tuple: ('know', 'I/(Chandler Bing)', 'that/(Joey cooks naked)', 's01_e20_c04_u015')
+

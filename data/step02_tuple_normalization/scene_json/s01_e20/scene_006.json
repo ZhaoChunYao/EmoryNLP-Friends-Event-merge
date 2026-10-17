@@ -1,0 +1,400 @@
+{
+  "tuples": [
+    {
+      "verb": "use",
+      "subject": "I/Chandler Bing",
+      "object": "your phone",
+      "uid": "s01_e20_c06_u001"
+    },
+    {
+      "verb": "use",
+      "subject": "that thing in your hand",
+      "object": "as a phone",
+      "uid": "s01_e20_c06_u002"
+    },
+    {
+      "verb": "work",
+      "subject": "it/(phone)",
+      "object": null,
+      "uid": "s01_e20_c06_u004"
+    },
+    {
+      "verb": "call",
+      "subject": "she/(woman Chandler called)",
+      "object": "me back",
+      "uid": "s01_e20_c06_u004"
+    },
+    {
+      "verb": "get",
+      "subject": "she/(woman Chandler called)",
+      "object": "your message",
+      "uid": "s01_e20_c06_u005"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Chandler Bing",
+      "object": null,
+      "uid": "s01_e20_c06_u006"
+    },
+    {
+      "verb": "call",
+      "subject": "you/Chandler Bing",
+      "object": "her machine",
+      "uid": "s01_e20_c06_u006"
+    },
+    {
+      "verb": "have",
+      "subject": "she/(woman Chandler called)",
+      "object": "a lot of beeps",
+      "uid": "s01_e20_c06_u006"
+    },
+    {
+      "verb": "mean",
+      "subject": "that/(having a lot of beeps)",
+      "object": null,
+      "uid": "s01_e20_c06_u006"
+    },
+    {
+      "verb": "get",
+      "subject": "she/(woman Chandler called)",
+      "object": "her messages",
+      "uid": "s01_e20_c06_u006"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Chandler Bing",
+      "object": "that",
+      "uid": "s01_e20_c06_u007"
+    },
+    {
+      "verb": "make",
+      "subject": "that/(calling her machine)",
+      "object": "me",
+      "uid": "s01_e20_c06_u007"
+    },
+    {
+      "verb": "seem",
+      "subject": "me/Chandler Bing",
+      "object": "a little",
+      "uid": "s01_e20_c06_u007"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Ross Geller",
+      "object": "my personal ad",
+      "uid": "s01_e20_c06_u009"
+    },
+    {
+      "verb": "answer",
+      "subject": "she/(woman Chandler called)",
+      "object": null,
+      "uid": "s01_e20_c06_u012"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Chandler Bing",
+      "object": null,
+      "uid": "s01_e20_c06_u013"
+    },
+    {
+      "verb": "be",
+      "subject": "this/(situation)",
+      "object": "where you'd use that 'hello' word",
+      "uid": "s01_e20_c06_u013"
+    },
+    {
+      "verb": "use",
+      "subject": "you/Chandler Bing",
+      "object": "that 'hello' word",
+      "uid": "s01_e20_c06_u013"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/Monica Geller+Chandler Bing",
+      "object": "about that 'hello' word",
+      "uid": "s01_e20_c06_u013"
+    },
+    {
+      "verb": "talk",
+      "subject": "I/Chandler Bing",
+      "object": "to her",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "get",
+      "subject": "she/(woman Chandler called)",
+      "object": "my message",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "choose",
+      "subject": "she/(woman Chandler called)",
+      "object": "not to call me",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "call",
+      "subject": "she/(woman Chandler called)",
+      "object": "me",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "needy and snubbed",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "miss",
+      "subject": "I/Chandler Bing",
+      "object": "just being needy",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "needy",
+      "uid": "s01_e20_c06_u014"
+    },
+    {
+      "verb": "take",
+      "subject": "he/Barry Farber",
+      "object": "it",
+      "uid": "s01_e20_c06_u017"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Rachel Green",
+      "object": "dental floss",
+      "uid": "s01_e20_c06_u019"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Rachel Green",
+      "object": "in your hair",
+      "uid": "s01_e20_c06_u019"
+    },
+    {
+      "verb": "have",
+      "subject": "we/Rachel Green+Barry Farber",
+      "object": "sex in his chair",
+      "uid": "s01_e20_c06_u022"
+    },
+    {
+      "verb": "say",
+      "subject": "I/Monica Geller",
+      "object": "that",
+      "uid": "s01_e20_c06_u023"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e20_c06_u027"
+    },
+    {
+      "verb": "care",
+      "subject": "we/Rachel Green+Barry Farber",
+      "object": "about each other",
+      "uid": "s01_e20_c06_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "there/(between us)",
+      "object": "a history",
+      "uid": "s01_e20_c06_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Rachel and Barry)",
+      "object": "like you and Carol",
+      "uid": "s01_e20_c06_u027"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(Rachel and Barry)",
+      "object": "like me and Carol",
+      "uid": "s01_e20_c06_u028"
+    },
+    {
+      "verb": "say",
+      "subject": "she/Carol",
+      "object": "to you",
+      "uid": "s01_e20_c06_u029"
+    },
+    {
+      "verb": "want",
+      "subject": "I/Carol",
+      "object": "you on this couch",
+      "uid": "s01_e20_c06_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Ross Geller",
+      "object": "on this couch",
+      "uid": "s01_e20_c06_u029"
+    },
+    {
+      "verb": "help",
+      "subject": "it/(if it helps)",
+      "object": null,
+      "uid": "s01_e20_c06_u031"
+    },
+    {
+      "verb": "slide",
+      "subject": "I/Chandler Bing",
+      "object": "over",
+      "uid": "s01_e20_c06_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(comparison)",
+      "object": "a totally different situation",
+      "uid": "s01_e20_c06_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(comparison)",
+      "object": "apples and oranges",
+      "uid": "s01_e20_c06_u032"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e20_c06_u032"
+    },
+    {
+      "verb": "need",
+      "subject": "I/Ross Geller",
+      "object": "a reason",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Ross Geller",
+      "object": "things",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Ross Geller",
+      "object": "things",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Ross Geller",
+      "object": "with my life",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Ross Geller",
+      "object": "a jam packed schedule",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "late for keeping up",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "keep",
+      "subject": "I/Ross Geller",
+      "object": "up with it",
+      "uid": "s01_e20_c06_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Mindy",
+      "object": null,
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "hear",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(news)",
+      "object": "so great",
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "work",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Mindy",
+      "object": null,
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "come",
+      "subject": "you/Mindy",
+      "object": "by",
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "you",
+      "uid": "s01_e20_c06_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "Mindy",
+      "object": null,
+      "uid": "s01_e20_c06_u039"
+    },
+    {
+      "verb": "want",
+      "subject": "she/Mindy",
+      "object": "to see me tomorrow",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "sound",
+      "subject": "she/Mindy",
+      "object": "really weird",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "call",
+      "subject": "I/Rachel Green",
+      "object": "Barry",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(caller identification)",
+      "object": "me",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Rachel Green",
+      "object": "that's where you'd be",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Barry Farber",
+      "object": "there",
+      "uid": "s01_e20_c06_u040"
+    },
+    {
+      "verb": "be",
+      "subject": "that/(place)",
+      "object": "where you'd be",
+      "uid": "s01_e20_c06_u040"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives a brief, hesitant reply (“uh… I’m okay”) and doesn’t engage beyond minimal small talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a friendly compliment (“you look great!”) and is straightforward about the situation (“I dumped Speaker_01”)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness is shown in this short exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Stammering and hesitation (“uh”) and blurting out the breakup when the other leaves suggest nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements show curiosity, imagination, or rigidity here."
+  }
+}

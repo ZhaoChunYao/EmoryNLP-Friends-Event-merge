@@ -1,0 +1,25 @@
+Episode: s01_e13
+Scene: s01_e13_c06
+Subscene index for speaker: 004
+Main speaker: TargetSpeaker
+UID span: s01_e13_c06_u012 → s01_e13_c06_u019
+Peak window: 11 → 12
+
+Dialogue:
+  [s01_e13_c06_u012]
+  1. Speaker_02 says Speaker_02 is asking who wants to play a big game of Kerplunk now.
+  [s01_e13_c06_u013]
+  1. Speaker_03 says Speaker_03 should not have come to Speaker_01 and Speaker_02's apartment.
+  2. Speaker_03 says Speaker_03 had better leave now.
+  3. Speaker_03 says Speaker_03 does not want to miss the last train.
+  4. Speaker_03 says Speaker_03 might miss the last train if she does not leave now.
+  [s01_e13_c06_u014]
+  1. TargetSpeaker says TargetSpeaker does not want Speaker_03 taking the last train.
+  2. TargetSpeaker says Speaker_03 is planning to take the last train.
+  [s01_e13_c06_u015]
+  1. Speaker_03 says Speaker_03 is asking whether she is going to stay at Speaker_01 and Speaker_02's apartment.
+  [s01_e13_c06_u016] Speaker_01: Who-ah-ho.
+  [s01_e13_c06_u017]
+  1. TargetSpeaker says TargetSpeaker and Speaker_03 will go to a hotel.
+  [s01_e13_c06_u018] Speaker_03: We'll go to a hotel.
+  [s01_e13_c06_u019] Speaker_01: No you won't.

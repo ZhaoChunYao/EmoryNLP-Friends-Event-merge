@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Participates with brief, matter-of-fact statements; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Gives direct, cooperative answers and relevant info to help the group (u023, u025, u027)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides specific, organized supporting details (workplace, relationship history) to justify the guess (u025, u027)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "States the guess confidently and shares facts without hesitation (u023, u025, u027)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Engages in the guessing game but shows no clear signs of unusual curiosity or inventiveness."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker participates briefly, giving information and one skeptical comment, without clear signs of energetic sociability or marked withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When asked about Speaker_02, TargetSpeaker straightforwardly provides details and candidly notes the call was more than needed to know."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness, anxiety, or emotional volatility are expressed."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "TargetSpeaker says they thought the new hand-dryers were just a rumor and indicates the call content was more than needed—both show a cautious, uncurious stance rather than openness."
+  }
+}

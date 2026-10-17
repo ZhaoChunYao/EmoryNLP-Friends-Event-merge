@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives very brief replies (“Yep,” “Which what?”) and offers no elaboration, later trailing off instead of providing details about Speaker_03."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of cooperation or hostility; responses are neutral without helpfulness or conflict."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Vague/trailing response could suggest carelessness, but there is insufficient concrete evidence of disorganization or neglect."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, frustration, or emotional reactivity in the brief exchanges."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Does not display curiosity or imaginative input, but also shows no dogmatism; insufficient evidence either way."
+  }
+}

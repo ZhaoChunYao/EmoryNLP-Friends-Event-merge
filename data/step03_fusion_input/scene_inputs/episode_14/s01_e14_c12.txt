@@ -1,0 +1,111 @@
+('do', 'you/(Kristin Riggs)', 'what', 's01_e14_c12_u001')
+[s01_e14_c12_u001] Ross Geller: So, um, what do you do for a living?
+
+('do', 'you/(Kristin Riggs)', 'for a living', 's01_e14_c12_u001')
+[s01_e14_c12_u001] Ross Geller: So, um, what do you do for a living?
+
+('work', 'I/(Kristin Riggs)', None, 's01_e14_c12_u002')
+[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+
+('work', 'I/(Kristin Riggs)', 'for the past few years', 's01_e14_c12_u002')
+[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+
+('be', 'which', 'funny', 's01_e14_c12_u002')
+[s01_e14_c12_u002] Kristin: Well, um, for the past few years I've been working.. ...which is funny because, that wasn't even my major.
+
+('think', 'I/(Carol Willick)', 'you said they could shoot the spot without you', 's01_e14_c12_u003')
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+
+('say', 'you/(Susan Bunch)', 'they could shoot the spot without you', 's01_e14_c12_u003')
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+
+('shoot', 'they', 'the spot', 's01_e14_c12_u003')
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+
+('shoot', 'they', 'without you', 's01_e14_c12_u003')
+[s01_e14_c12_u003] Carol Willick: Oh no. I thought you said they could shoot the spot without you.
+
+('think', 'I/(Susan Bunch)', 'they could', 's01_e14_c12_u004')
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+
+('try', 'I/(Susan Bunch)', 'get back as soon as I can', 's01_e14_c12_u004')
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+
+('get', 'I/(Susan Bunch)', None, 's01_e14_c12_u004')
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+
+('be', 'I/(Susan Bunch)', 'sorry', 's01_e14_c12_u004')
+[s01_e14_c12_u004] Susan Bunch: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+
+('be', 'that', 'funny', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('think', 'you/(Kristin Riggs)', 'would it be too weird if I invited Carol over to join us', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('be', 'it', 'too weird', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('invite', 'I/(Ross Geller)', 'over Carol', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('invite', 'I/(Ross Geller)', 'to join us', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('join', 'Carol', 'us', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('be', 'she/(Carol Willick)', 'alone now', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('be', 'she/(Carol Willick)', 'pregnant', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('be', 'she/(Carol Willick)', 'sad', 's01_e14_c12_u005')
+[s01_e14_c12_u005] Ross Geller: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+
+('guess', 'I/(Kristin Riggs)', None, 's01_e14_c12_u006')
+[s01_e14_c12_u006] Kristin: I guess.
+
+('be', 'you/(Kristin Riggs)', 'sure', 's01_e14_c12_u007')
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?
+
+('want', 'you/(Carol Willick)', 'come over and join us', 's01_e14_c12_u007')
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?
+
+('come', 'you/(Carol Willick)', 'over', 's01_e14_c12_u007')
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?
+
+('join', 'you/(Carol Willick)', 'us', 's01_e14_c12_u007')
+[s01_e14_c12_u007] Ross Geller: Are you sure? Great. Carol? Wanna come over and join us?
+
+('be', 'I/(Carol Willick)', 'fine', 's01_e14_c12_u008')
+[s01_e14_c12_u008] Carol Willick: Oh, no no no. I'm fine. I'm fine.
+
+('scooch', 'these people', None, 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('scooch', 'these people', 'down', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('scooch', 'you guys', None, 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('try', 'we/(Ross Geller and others)', 'scooch', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('scooch', 'we/(Ross Geller and others)', None, 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('be', 'this', 'Carol Willick', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('teach', 'Carol', 'sixth grade', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('do', 'Kristin', 'something', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+
+('be', 'that', 'her major', 's01_e14_c12_u009')
+[s01_e14_c12_u009] Ross Geller: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin... ...does something that, funnily enough, wasn't even her major!
+

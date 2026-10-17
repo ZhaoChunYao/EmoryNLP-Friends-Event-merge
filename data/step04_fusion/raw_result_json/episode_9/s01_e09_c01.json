@@ -1,0 +1,125 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e09_c01_u001",
+      "events": [
+        {
+          "event_id": "s01_e09_c01_u001_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', \"that I haven't worked here very long\", 's01_e09_c01_u001')",
+            "('work', 'I/Rachel Green', None, 's01_e09_c01_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u001_e2",
+          "tuples": [
+            "('wonder', 'I/Rachel Green', 'do you think it would be possible if I got a $100 advance in my salary', 's01_e09_c01_u001')",
+            "('think', 'you/Terry', 'it would be possible if I got a $100 advance in my salary', 's01_e09_c01_u001')",
+            "('be', 'it', 'possible', 's01_e09_c01_u001')",
+            "('get', 'I/Rachel Green', 'a $100 advance', 's01_e09_c01_u001')",
+            "('get', 'I/Rachel Green', 'in my salary', 's01_e09_c01_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c01_u003",
+      "events": [
+        {
+          "event_id": "s01_e09_c01_u003_e1",
+          "tuples": [
+            "('be', 'it', 'so that I can spend Thanksgiving with my family', 's01_e09_c01_u003')",
+            "('spend', 'I/Rachel Green', 'Thanksgiving', 's01_e09_c01_u003')",
+            "('spend', 'I/Rachel Green', 'with my family', 's01_e09_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u003_e2",
+          "tuples": [
+            "('go', 'we/Rachel Green_family', 'skiing', 's01_e09_c01_u003')",
+            "('ski', 'we/Rachel Green_family', 'in Vail', 's01_e09_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u003_e3",
+          "tuples": [
+            "('pay', 'my father', 'for my ticket', 's01_e09_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u003_e4",
+          "tuples": [
+            "('start', 'I/Rachel Green', 'the whole independence thing', 's01_e09_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u003_e5",
+          "tuples": [
+            "('know', 'you/Terry', None, 's01_e09_c01_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u003_e6",
+          "tuples": [
+            "('be', 'which', 'why I took this job', 's01_e09_c01_u003')",
+            "('take', 'I/Rachel Green', 'this job', 's01_e09_c01_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c01_u004",
+      "events": [
+        {
+          "event_id": "s01_e09_c01_u004_e1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'a terrible, terrible waitress', 's01_e09_c01_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e09_c01_u005",
+      "events": [
+        {
+          "event_id": "s01_e09_c01_u005_e1",
+          "tuples": [
+            "('hear', 'I/Rachel Green', \"what you're sayin'\", 's01_e09_c01_u005')",
+            "('say', 'you/Terry', 'what', 's01_e09_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u005_e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'with you', 's01_e09_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u005_e3",
+          "tuples": [
+            "('try', 'I/Rachel Green', None, 's01_e09_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u005_e4",
+          "tuples": [
+            "('think', 'I/Rachel Green', \"I'm doing better\", 's01_e09_c01_u005')",
+            "('do', 'I/Rachel Green', 'better', 's01_e09_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u005_e5",
+          "tuples": [
+            "('need', 'anybody', 'coffee', 's01_e09_c01_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e09_c01_u005_e6",
+          "tuples": [
+            "('look', 'you/Terry', 'at that', 's01_e09_c01_u005')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives minimal, distancing replies and tries to end the interaction: “I’ll see you around” (u021) and “I’ll call you” (u026), and when pressed simply asks “What do you want me to say?” (u024), showing reserved, non-engaging behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When asked to acknowledge what was done for him (u025), he avoids admitting anything and offers a noncommittal “I’ll call you” (u026), which another speaker immediately says he doesn’t mean (u027), indicating evasiveness and unreliability."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete behavior about organization, planning, or follow-through beyond a vague promise to call; the exchange is social rather than task-related."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite being confronted and criticized (u025, u028, u029), he remains terse and unemotional (“What do you want me to say?” u024; “I’ll call you” u026), showing no signs of anxiety or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No discussion of new ideas, curiosity, or openness to experience; only brief social exchanges."
+  }
+}

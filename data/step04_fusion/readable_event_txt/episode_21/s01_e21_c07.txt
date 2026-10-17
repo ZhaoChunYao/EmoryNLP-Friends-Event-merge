@@ -1,0 +1,160 @@
+event_id: s01_e21_c07_u001_e1
+utterance_id: s01_e21_c07_u001
+  tuple: ('believe', 'I/Joey Tribbiani', 'it', 's01_e21_c07_u001')
+
+event_id: s01_e21_c07_u001_e2
+utterance_id: s01_e21_c07_u001
+  tuple: ('suck', 'This/(situation)', None, 's01_e21_c07_u001')
+
+event_id: s01_e21_c07_u002_e1
+utterance_id: s01_e21_c07_u002
+  tuple: ('get', 'I/Chandler Bing', 'it', 's01_e21_c07_u002')
+  tuple: ('be', "he/(Ross's monkey)", 'an adult', 's01_e21_c07_u002')
+
+event_id: s01_e21_c07_u002_e2
+utterance_id: s01_e21_c07_u002
+  tuple: ('get', 'you/Ross Geller', 'him', 's01_e21_c07_u002')
+
+event_id: s01_e21_c07_u002_e3
+utterance_id: s01_e21_c07_u002
+  tuple: ('mean', 'I/Chandler Bing', None, 's01_e21_c07_u002')
+
+event_id: s01_e21_c07_u003_e1
+utterance_id: s01_e21_c07_u003
+  tuple: ('know', 'I/Ross Geller', None, 's01_e21_c07_u003')
+
+event_id: s01_e21_c07_u003_e2
+utterance_id: s01_e21_c07_u003
+  tuple: ('mean', 'I/Ross Geller', None, 's01_e21_c07_u003')
+
+event_id: s01_e21_c07_u003_e3
+utterance_id: s01_e21_c07_u003
+  tuple: ('be', "he/(Ross's monkey)", 'this little thing', 's01_e21_c07_u003')
+  tuple: ('get', 'I/Ross Geller', 'him', 's01_e21_c07_u003')
+  tuple: ('get', 'I/Ross Geller', 'off my leg', 's01_e21_c07_u003')
+
+event_id: s01_e21_c07_u003_e4
+utterance_id: s01_e21_c07_u003
+  tuple: ('know', 'you/(generic)', 'it', 's01_e21_c07_u003')
+
+event_id: s01_e21_c07_u004_e1
+utterance_id: s01_e21_c07_u004
+  tuple: ('be', 'there/(existential)', 'any way', 's01_e21_c07_u004')
+  tuple: ('keep', 'you/Ross Geller', 'him', 's01_e21_c07_u004')
+
+event_id: s01_e21_c07_u005_e1
+utterance_id: s01_e21_c07_u005
+  tuple: ('say', 'The vet', "unless he's in a place where he has regular access to some monkey lovin,' he's just gonna get vicious", 's01_e21_c07_u005')
+
+event_id: s01_e21_c07_u005_e2
+utterance_id: s01_e21_c07_u005
+  tuple: ('be', "he/(Ross's monkey)", 'in a place', 's01_e21_c07_u005')
+  tuple: ('have', "he/(Ross's monkey)", 'regular access', 's01_e21_c07_u005')
+  tuple: ('have', "he/(Ross's monkey)", "access to some monkey lovin'", 's01_e21_c07_u005')
+
+event_id: s01_e21_c07_u005_e3
+utterance_id: s01_e21_c07_u005
+  tuple: ('get', "he/(Ross's monkey)", 'vicious', 's01_e21_c07_u005')
+
+event_id: s01_e21_c07_u005_e4
+utterance_id: s01_e21_c07_u005
+  tuple: ('get', 'I/Ross Geller', 'him into a zoo', 's01_e21_c07_u005')
+
+event_id: s01_e21_c07_u006_e1
+utterance_id: s01_e21_c07_u006
+  tuple: ('get', 'you/(generic)', 'a monkey', 's01_e21_c07_u006')
+  tuple: ('get', 'you/(generic)', 'into a zoo', 's01_e21_c07_u006')
+
+event_id: s01_e21_c07_u007_e1
+utterance_id: s01_e21_c07_u007
+  tuple: ('know', 'I/Chandler Bing', 'that one', 's01_e21_c07_u007')
+  tuple: ('be', 'that/(the joke answer)', 'Popes into a Volkswagen', 's01_e21_c07_u007')
+
+event_id: s01_e21_c07_u008_e1
+utterance_id: s01_e21_c07_u008
+  tuple: ('apply', 'we/(Ross Geller and friends)', 'to a lot of them', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u008_e2
+utterance_id: s01_e21_c07_u008
+  tuple: ('be', 'our first choice', 'one of the bigger state zoos', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u008_e3
+utterance_id: s01_e21_c07_u008
+  tuple: ('be', 'that/(San Diego zoo choice)', 'a pipe dream', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u008_e4
+utterance_id: s01_e21_c07_u008
+  tuple: ('be', "he/(Ross's monkey)", 'out of state', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u008_e5
+utterance_id: s01_e21_c07_u008
+  tuple: ('know', 'my vet', 'someone', 's01_e21_c07_u008')
+  tuple: ('know', 'my vet', 'at Miami', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u008_e6
+utterance_id: s01_e21_c07_u008
+  tuple: ('be', 'that/(Miami possibility)', 'a possibility', 's01_e21_c07_u008')
+
+event_id: s01_e21_c07_u009_e1
+utterance_id: s01_e21_c07_u009
+  tuple: ('be', 'that/(Miami zoo)', 'like two blocks away from the beach', 's01_e21_c07_u009')
+
+event_id: s01_e21_c07_u009_e2
+utterance_id: s01_e21_c07_u009
+  tuple: ('be', 'it/(Miami zoo)', 'a total party zoo', 's01_e21_c07_u009')
+
+event_id: s01_e21_c07_u011_e1
+utterance_id: s01_e21_c07_u011
+  tuple: ('find', 'we/(Phoebe Buffay and Rachel Green)', 'the girl', 's01_e21_c07_u011')
+
+event_id: s01_e21_c07_u013_e1
+utterance_id: s01_e21_c07_u013
+  tuple: ('call', 'you/(Phoebe Buffay and Rachel Green)', 'the cops', 's01_e21_c07_u013')
+
+event_id: s01_e21_c07_u014_e1
+utterance_id: s01_e21_c07_u014
+  tuple: ('take', 'we/(Rachel Green and Phoebe Buffay)', 'her', 's01_e21_c07_u014')
+  tuple: ('take', 'we/(Rachel Green and Phoebe Buffay)', 'to lunch', 's01_e21_c07_u014')
+
+event_id: s01_e21_c07_u016_e1
+utterance_id: s01_e21_c07_u016
+  tuple: ('be', 'you/(Phoebe Buffay and Rachel Green)', 'insane', 's01_e21_c07_u016')
+
+event_id: s01_e21_c07_u016_e2
+utterance_id: s01_e21_c07_u016
+  tuple: ('steal', 'this woman', 'from you', 's01_e21_c07_u016')
+
+event_id: s01_e21_c07_u016_e3
+utterance_id: s01_e21_c07_u016
+  tuple: ('be', 'she/(the woman thief)', 'a stealer', 's01_e21_c07_u016')
+
+event_id: s01_e21_c07_u017_e1
+utterance_id: s01_e21_c07_u017
+  tuple: ('be', 'you/(generic)', 'with this woman', 's01_e21_c07_u017')
+  tuple: ('be', 'you/(generic)', 'for like ten minutes', 's01_e21_c07_u017')
+
+event_id: s01_e21_c07_u017_e2
+utterance_id: s01_e21_c07_u017
+  tuple: ('forget', 'you/(generic)', 'all that', 's01_e21_c07_u017')
+
+event_id: s01_e21_c07_u017_e3
+utterance_id: s01_e21_c07_u017
+  tuple: ('mean', 'I/Monica Geller', None, 's01_e21_c07_u017')
+
+event_id: s01_e21_c07_u017_e4
+utterance_id: s01_e21_c07_u017
+  tuple: ('be', 'she/(the woman thief)', 'this astounding person', 's01_e21_c07_u017')
+  tuple: ('be', 'she/(the woman thief)', 'with this amazing spirit', 's01_e21_c07_u017')
+
+event_id: s01_e21_c07_u018_e1
+utterance_id: s01_e21_c07_u018
+  tuple: ('steal', 'she/(the woman thief)', 'from some cheerleader', 's01_e21_c07_u018')
+
+event_id: s01_e21_c07_u019_e1
+utterance_id: s01_e21_c07_u019
+  tuple: ('take', 'you/(generic)', 'off their hats', 's01_e21_c07_u019')
+
+event_id: s01_e21_c07_u020_e1
+utterance_id: s01_e21_c07_u020
+  tuple: ('love', 'I/Phoebe Buffay', 'that joke', 's01_e21_c07_u020')
+

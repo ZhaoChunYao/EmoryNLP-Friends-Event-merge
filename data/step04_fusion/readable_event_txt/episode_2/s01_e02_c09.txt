@@ -1,0 +1,133 @@
+event_id: s01_e02_c09_u001_e1
+utterance_id: s01_e02_c09_u001
+  tuple: ('be', 'you/Rachel Green', 'up to what', 's01_e02_c09_u001')
+
+event_id: s01_e02_c09_u002_e1
+utterance_id: s01_e02_c09_u002
+  tuple: ('get', 'I/Rachel Green', 'a job', 's01_e02_c09_u002')
+
+event_id: s01_e02_c09_u003_e1
+utterance_id: s01_e02_c09_u003
+  tuple: ('be', 'that/(Rachel Green got a job)', 'great', 's01_e02_c09_u003')
+
+event_id: s01_e02_c09_u004_e1
+utterance_id: s01_e02_c09_u004
+  tuple: ('be', 'you/Barry Farber', 'so tanned', 's01_e02_c09_u004')
+
+event_id: s01_e02_c09_u005_e1
+utterance_id: s01_e02_c09_u005
+  tuple: ('go', 'I/Barry Farber', 'to Aruba', 's01_e02_c09_u005')
+
+event_id: s01_e02_c09_u006_e1
+utterance_id: s01_e02_c09_u006
+  tuple: ('go', 'you/Barry Farber', 'on our honeymoon', 's01_e02_c09_u006')
+
+event_id: s01_e02_c09_u007_e1
+utterance_id: s01_e02_c09_u007
+  tuple: ('hurt', 'this/(dental procedure)', None, 's01_e02_c09_u007')
+
+event_id: s01_e02_c09_u009_e1
+utterance_id: s01_e02_c09_u009
+  tuple: ('go', 'I/Barry Farber', 'with Mindy', 's01_e02_c09_u009')
+
+event_id: s01_e02_c09_u011_e1
+utterance_id: s01_e02_c09_u011
+  tuple: ('be', 'we/(Barry Farber and Mindy)', 'kind of a thing now', 's01_e02_c09_u011')
+
+event_id: s01_e02_c09_u012_e1
+utterance_id: s01_e02_c09_u012
+  tuple: ('get', 'you/Barry Farber', 'plugs', 's01_e02_c09_u012')
+
+event_id: s01_e02_c09_u013_e1
+utterance_id: s01_e02_c09_u013
+  tuple: ('take', 'they/(plugs)', None, 's01_e02_c09_u013')
+
+event_id: s01_e02_c09_u014_e1
+utterance_id: s01_e02_c09_u014
+  tuple: ('get', 'you/Barry Farber', 'lenses', 's01_e02_c09_u014')
+
+event_id: s01_e02_c09_u014_e2
+utterance_id: s01_e02_c09_u014
+  tuple: ('hate', 'you/Barry Farber', 'sticking your finger in your eye', 's01_e02_c09_u014')
+  tuple: ('stick', 'you/Barry Farber', 'your finger', 's01_e02_c09_u014')
+  tuple: ('stick', 'you/Barry Farber', 'in your eye', 's01_e02_c09_u014')
+
+event_id: s01_e02_c09_u015_e1
+utterance_id: s01_e02_c09_u015
+  tuple: ('listen', 'you/Rachel Green', None, 's01_e02_c09_u015')
+
+event_id: s01_e02_c09_u015_e2
+utterance_id: s01_e02_c09_u015
+  tuple: ('want', 'I/Barry Farber', 'to thank you', 's01_e02_c09_u015')
+  tuple: ('thank', 'I/Barry Farber', 'you', 's01_e02_c09_u015')
+
+event_id: s01_e02_c09_u017_e1
+utterance_id: s01_e02_c09_u017
+  tuple: ('see', 'you/Rachel Green', None, 's01_e02_c09_u017')
+
+event_id: s01_e02_c09_u017_e2
+utterance_id: s01_e02_c09_u017
+  tuple: ('want', 'I/Barry Farber', 'to hurt you', 's01_e02_c09_u017')
+  tuple: ('hurt', 'I/Barry Farber', 'you', 's01_e02_c09_u017')
+
+event_id: s01_e02_c09_u017_e3
+utterance_id: s01_e02_c09_u017
+  tuple: ('want', 'I/Barry Farber', 'to hurt anyone', 's01_e02_c09_u017')
+  tuple: ('hurt', 'I/Barry Farber', 'in my life', 's01_e02_c09_u017')
+
+event_id: s01_e02_c09_u017_e4
+utterance_id: s01_e02_c09_u017
+  tuple: ('be', 'I/Barry Farber', 'an orthodontist', 's01_e02_c09_u017')
+
+event_id: s01_e02_c09_u019_e1
+utterance_id: s01_e02_c09_u019
+  tuple: ('know', 'you/Rachel Green', None, 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e2
+utterance_id: s01_e02_c09_u019
+  tuple: ('be', 'you/Rachel Green', 'right', 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e3
+utterance_id: s01_e02_c09_u019
+  tuple: ('mean', 'I/Barry Farber', None, 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e4
+utterance_id: s01_e02_c09_u019
+  tuple: ('think', 'I/Barry Farber', 'we were happy', 's01_e02_c09_u019')
+  tuple: ('be', 'we/(Barry Farber and Rachel Green)', 'happy', 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e5
+utterance_id: s01_e02_c09_u019
+  tuple: ('be', 'we/(Barry Farber and Rachel Green)', 'not happy', 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e6
+utterance_id: s01_e02_c09_u019
+  tuple: ('be', 'I/Barry Farber', 'happy', 's01_e02_c09_u019')
+  tuple: ('be', 'I/Barry Farber', 'with Mindy', 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u019_e7
+utterance_id: s01_e02_c09_u019
+  tuple: ('spit', 'you/Robbie', None, 's01_e02_c09_u019')
+
+event_id: s01_e02_c09_u022_e1
+utterance_id: s01_e02_c09_u022
+  tuple: ('guess', 'I/Rachel Green', 'this belongs to you', 's01_e02_c09_u022')
+  tuple: ('belong', 'this/(ring)', 'to you', 's01_e02_c09_u022')
+
+event_id: s01_e02_c09_u022_e2
+utterance_id: s01_e02_c09_u022
+  tuple: ('thank', 'I/Rachel Green', 'you', 's01_e02_c09_u022')
+
+event_id: s01_e02_c09_u022_e3
+utterance_id: s01_e02_c09_u022
+  tuple: ('give', 'you/Barry Farber', 'it', 's01_e02_c09_u022')
+  tuple: ('give', 'you/Barry Farber', 'to me', 's01_e02_c09_u022')
+
+event_id: s01_e02_c09_u023_e1
+utterance_id: s01_e02_c09_u023
+  tuple: ('thank', 'I/Barry Farber', 'you', 's01_e02_c09_u023')
+
+event_id: s01_e02_c09_u023_e2
+utterance_id: s01_e02_c09_u023
+  tuple: ('give', 'you/Rachel Green', 'it back', 's01_e02_c09_u023')
+

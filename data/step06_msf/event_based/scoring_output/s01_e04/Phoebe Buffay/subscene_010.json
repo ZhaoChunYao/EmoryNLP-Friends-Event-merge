@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker engages actively in the group search and speaks up to point out Speaker_04 (“is right there in view” and “we have been looking for Speaker_04 all night”), suggesting outgoing, energetic participation."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker cooperatively helps the group by locating Speaker_04 and uses inclusive language (“we”), indicating a helpful, collaborative stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Saying they’ve been looking all night shows effort but not clear signs of organization or reliability typical of conscientiousness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or emotional volatility; the statements are neutral and matter-of-fact without clear signs of either nervousness or exceptional confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behavior indicating curiosity, creativity, or openness to new ideas is present in these lines."
+  }
+}

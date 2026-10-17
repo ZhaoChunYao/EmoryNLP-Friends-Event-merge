@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Only brief greeting and practical questions about patient care; no clear display of outgoing or energetic social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern and cooperativeness by asking if Speaker_02 is doing better than in the morning and whether pajamas were changed, engaging straightforwardly about care."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "States they had planned to stop by the hospital room and checks specific care details (condition since morning, pajamas), indicating planning and attention to detail."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Asks matter‑of‑fact questions about condition and care without expressing anxiety or distress."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Discussion stays on routine, practical care matters with no indication of curiosity about new ideas or unconventional approaches."
+  }
+}

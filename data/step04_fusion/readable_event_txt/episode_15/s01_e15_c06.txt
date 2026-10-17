@@ -1,0 +1,180 @@
+event_id: s01_e15_c06_u001_e1
+utterance_id: s01_e15_c06_u001
+  tuple: ('try', 'you/Joey Tribbiani', 'this salmon mousse', 's01_e15_c06_u001')
+
+event_id: s01_e15_c06_u003_e1
+utterance_id: s01_e15_c06_u003
+  tuple: ('be', 'it/this salmon mousse', 'better than the other salmon mousse', 's01_e15_c06_u003')
+
+event_id: s01_e15_c06_u004_e1
+utterance_id: s01_e15_c06_u004
+  tuple: ('be', 'it/this salmon mousse', 'creamier', 's01_e15_c06_u004')
+
+event_id: s01_e15_c06_u005_e1
+utterance_id: s01_e15_c06_u005
+  tuple: ('be', 'that/creamier', 'better', 's01_e15_c06_u005')
+
+event_id: s01_e15_c06_u006_e1
+utterance_id: s01_e15_c06_u006
+  tuple: ('know', 'I/Joey Tribbiani', None, 's01_e15_c06_u006')
+
+event_id: s01_e15_c06_u006_e2
+utterance_id: s01_e15_c06_u006
+  tuple: ('talk', 'we/(Joey Tribbiani+Monica Geller)', 'about whipped fish', 's01_e15_c06_u006')
+
+event_id: s01_e15_c06_u006_e3
+utterance_id: s01_e15_c06_u006
+  tuple: ('be', 'I/Joey Tribbiani', 'happy', 's01_e15_c06_u006')
+  tuple: ('keep', 'I/Joey Tribbiani', 'down it', 's01_e15_c06_u006')
+
+event_id: s01_e15_c06_u008_e1
+utterance_id: s01_e15_c06_u008
+  tuple: ('happen', 'what', 'to you', 's01_e15_c06_u008')
+
+event_id: s01_e15_c06_u009_e1
+utterance_id: s01_e15_c06_u009
+  tuple: ('learn', 'I/Chandler Bing', 'what', 's01_e15_c06_u009')
+  tuple: ('be', 'you/Chandler Bing', 'ideally suited for a career in data processing for a large multinational corporation', 's01_e15_c06_u009')
+  tuple: ('suit', 'you/Chandler Bing', 'for a career', 's01_e15_c06_u009')
+
+event_id: s01_e15_c06_u010_e1
+utterance_id: s01_e15_c06_u010
+  tuple: ('be', 'that/you are ideally suited for a career in data processing for a large multinational corporation', 'so great', 's01_e15_c06_u010')
+
+event_id: s01_e15_c06_u010_e2
+utterance_id: s01_e15_c06_u010
+  tuple: ('know', 'you/Chandler Bing', 'how to do that', 's01_e15_c06_u010')
+  tuple: ('do', 'you/Chandler Bing', 'that', 's01_e15_c06_u010')
+
+event_id: s01_e15_c06_u011_e1
+utterance_id: s01_e15_c06_u011
+  tuple: ('believe', 'you/(everyone)', 'it', 's01_e15_c06_u011')
+
+event_id: s01_e15_c06_u011_e2
+utterance_id: s01_e15_c06_u011
+  tuple: ('seem', 'I/Chandler Bing', 'like somebody who should be doing something really cool', 's01_e15_c06_u011')
+  tuple: ('do', 'I/Chandler Bing', 'something really cool', 's01_e15_c06_u011')
+
+event_id: s01_e15_c06_u011_e3
+utterance_id: s01_e15_c06_u011
+  tuple: ('know', 'you/(everyone)', None, 's01_e15_c06_u011')
+
+event_id: s01_e15_c06_u011_e4
+utterance_id: s01_e15_c06_u011
+  tuple: ('picture', 'I/Chandler Bing', 'myself doing something', 's01_e15_c06_u011')
+  tuple: ('do', 'I/Chandler Bing', 'something', 's01_e15_c06_u011')
+
+event_id: s01_e15_c06_u012_e1
+utterance_id: s01_e15_c06_u012
+  tuple: ('know', 'I/Rachel Green', None, 's01_e15_c06_u012')
+
+event_id: s01_e15_c06_u012_e2
+utterance_id: s01_e15_c06_u012
+  tuple: ('see', 'you/Chandler Bing', 'your nipples', 's01_e15_c06_u012')
+  tuple: ('see', 'you/Chandler Bing', 'through this shirt', 's01_e15_c06_u012')
+
+event_id: s01_e15_c06_u013_e1
+utterance_id: s01_e15_c06_u013
+  tuple: ('go', 'you/Chandler Bing', None, 's01_e15_c06_u013')
+
+event_id: s01_e15_c06_u013_e2
+utterance_id: s01_e15_c06_u013
+  tuple: ('cheer', 'this', 'up you', 's01_e15_c06_u013')
+
+event_id: s01_e15_c06_u014_e1
+utterance_id: s01_e15_c06_u014
+  tuple: ('know', 'you/Monica Geller', None, 's01_e15_c06_u014')
+
+event_id: s01_e15_c06_u014_e2
+utterance_id: s01_e15_c06_u014
+  tuple: ('have', 'I/Chandler Bing', 'a grape', 's01_e15_c06_u014')
+  tuple: ('have', 'I/Chandler Bing', 'about five hours ago', 's01_e15_c06_u014')
+
+event_id: s01_e15_c06_u014_e3
+utterance_id: s01_e15_c06_u014
+  tuple: ('split', 'I/Chandler Bing', 'this', 's01_e15_c06_u014')
+  tuple: ('split', 'I/Chandler Bing', 'with you', 's01_e15_c06_u014')
+
+event_id: s01_e15_c06_u015_e1
+utterance_id: s01_e15_c06_u015
+  tuple: ('be', 'it/this amuse-bouche', 'that small', 's01_e15_c06_u015')
+
+event_id: s01_e15_c06_u015_e2
+utterance_id: s01_e15_c06_u015
+  tuple: ('be', 'it/this amuse-bouche', 'a pre-appetizer', 's01_e15_c06_u015')
+
+event_id: s01_e15_c06_u015_e3
+utterance_id: s01_e15_c06_u015
+  tuple: ('call', 'The French', 'it an amouz-bouche', 's01_e15_c06_u015')
+
+event_id: s01_e15_c06_u016_e1
+utterance_id: s01_e15_c06_u016
+  tuple: ('be', 'it/this amuse-bouche', 'amouz-ing', 's01_e15_c06_u016')
+
+event_id: s01_e15_c06_u018_e1
+utterance_id: s01_e15_c06_u018
+  tuple: ('say', 'we/(Monica Geller+Wendy)', 'what', 's01_e15_c06_u018')
+
+event_id: s01_e15_c06_u018_e2
+utterance_id: s01_e15_c06_u018
+  tuple: ('see', 'I/Monica Geller', 'you then', 's01_e15_c06_u018')
+
+event_id: s01_e15_c06_u020_e1
+utterance_id: s01_e15_c06_u020
+  tuple: ('ask', 'I/Monica Geller', 'one of the waitresses at work', 's01_e15_c06_u020')
+
+event_id: s01_e15_c06_u020_e2
+utterance_id: s01_e15_c06_u020
+  tuple: ('help', 'she/Wendy', 'out me', 's01_e15_c06_u020')
+
+event_id: s01_e15_c06_u023_e1
+utterance_id: s01_e15_c06_u023
+  tuple: ('think', 'I/Monica Geller', 'of you', 's01_e15_c06_u023')
+
+event_id: s01_e15_c06_u025_e1
+utterance_id: s01_e15_c06_u025
+  tuple: ('see', 'you/Rachel Green', None, 's01_e15_c06_u025')
+
+event_id: s01_e15_c06_u025_e2
+utterance_id: s01_e15_c06_u025
+  tuple: ('go', 'this night', 'just perfect', 's01_e15_c06_u025')
+
+event_id: s01_e15_c06_u025_e3
+utterance_id: s01_e15_c06_u025
+  tuple: ('know', 'you/Rachel Green', None, 's01_e15_c06_u025')
+
+event_id: s01_e15_c06_u025_e4
+utterance_id: s01_e15_c06_u025
+  tuple: ('be', 'Wendy', 'more of a professional waitress', 's01_e15_c06_u025')
+
+event_id: s01_e15_c06_u026_e1
+utterance_id: s01_e15_c06_u026
+  tuple: ('see', 'I/Rachel Green', None, 's01_e15_c06_u026')
+
+event_id: s01_e15_c06_u026_e2
+utterance_id: s01_e15_c06_u026
+  tuple: ('maintain', 'I/Rachel Green', 'my amateur status', 's01_e15_c06_u026')
+
+event_id: s01_e15_c06_u026_e3
+utterance_id: s01_e15_c06_u026
+  tuple: ('waitress', 'I/Rachel Green', None, 's01_e15_c06_u026')
+  tuple: ('waitress', 'I/Rachel Green', 'in the Olympics', 's01_e15_c06_u026')
+
+event_id: s01_e15_c06_u027_e1
+utterance_id: s01_e15_c06_u027
+  tuple: ('know', 'you/(everyone)', None, 's01_e15_c06_u027')
+
+event_id: s01_e15_c06_u027_e2
+utterance_id: s01_e15_c06_u027
+  tuple: ('mean', 'I/Chandler Bing', 'to brag', 's01_e15_c06_u027')
+
+event_id: s01_e15_c06_u027_e3
+utterance_id: s01_e15_c06_u027
+  tuple: ('brag', 'I/Chandler Bing', None, 's01_e15_c06_u027')
+
+event_id: s01_e15_c06_u027_e4
+utterance_id: s01_e15_c06_u027
+  tuple: ('wait', 'I/Chandler Bing', 'tables', 's01_e15_c06_u027')
+  tuple: ('wait', 'I/Chandler Bing', 'at Innsbruck', 's01_e15_c06_u027')
+  tuple: ('wait', 'I/Chandler Bing', "in '76", 's01_e15_c06_u027')
+

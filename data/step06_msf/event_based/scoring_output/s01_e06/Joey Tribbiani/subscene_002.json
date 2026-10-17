@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates group feedback by asking what they thought of the play (u030) and has just performed publicly in a play with dancing (u029, u032)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker politely seeks others’ opinions (u030) and downplays the performance rather than boasting (u033)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization/efficiency or sloppiness/carelessness are shown in this exchange."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker seeks reassurance about the play (u030) and minimizes it with “it wasn’t that bad” (u033), suggesting some insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Participation in a play with dancing and a beard, and prior unconventional work “with the trolls” (u029, u032, u033), plus openness to a talent agency (u037), show creativity and willingness to try new experiences."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks two brief, practical questions and does not display talkativeness or sociability beyond that."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Uses clear, direct questions—\"How'd Speaker_01 pay for [them]?\" and \"And who pays for that?\"—showing straightforwardness rather than evasiveness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Focuses on financial responsibility by asking how the boots were paid for and who pays the credit card, indicating concern for organization and accountability."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Calm, pointed questioning without signs of nervousness or distress suggests confidence and emotional stability."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Comments are strictly practical about payment; no evidence of curiosity about new ideas or imaginative perspectives."
+  }
+}

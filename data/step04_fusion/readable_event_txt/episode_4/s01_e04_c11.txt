@@ -1,0 +1,62 @@
+event_id: s01_e04_c11_u001_e1
+utterance_id: s01_e04_c11_u001
+  tuple: ('excuse', 'you/(Dora)', 'me', 's01_e04_c11_u001')
+  tuple: ('look', 'you/(Dora)', None, 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e2
+utterance_id: s01_e04_c11_u001
+  tuple: ('be', 'we/(Chandler Bing + friend)', 'here', 's01_e04_c11_u001')
+  tuple: ('be', 'we/(Chandler Bing + friend)', 'for over an hour', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e3
+utterance_id: s01_e04_c11_u001
+  tuple: ('go', 'a lot of people less sick than my friend', 'in', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e4
+utterance_id: s01_e04_c11_u001
+  tuple: ('mean', 'I/Chandler Bing', 'that guy with the toe thing', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e5
+utterance_id: s01_e04_c11_u001
+  tuple: ('sleep', 'he/(that guy with the toe thing)', 'with who', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e6
+utterance_id: s01_e04_c11_u001
+  tuple: ('come', 'Dora', 'on', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e7
+utterance_id: s01_e04_c11_u001
+  tuple: ('be', 'you/(Dora)', 'mad', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e8
+utterance_id: s01_e04_c11_u001
+  tuple: ('know', 'I/Chandler Bing', "we both said some things we didn't mean", 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e9
+utterance_id: s01_e04_c11_u001
+  tuple: ('say', 'we/(Chandler Bing + Dora) both', "some things we didn't mean", 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e10
+utterance_id: s01_e04_c11_u001
+  tuple: ('mean', 'we/(Chandler Bing + Dora)', 'some things', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e11
+utterance_id: s01_e04_c11_u001
+  tuple: ('mean', 'that', "we still don't love each other", 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e12
+utterance_id: s01_e04_c11_u001
+  tuple: ('love', 'we/(Chandler Bing + Dora)', 'each other', 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e13
+utterance_id: s01_e04_c11_u001
+  tuple: ('know', 'you/(Dora)', None, 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e14
+utterance_id: s01_e04_c11_u001
+  tuple: ('feel', 'I/Chandler Bing', "like I've lost her", 's01_e04_c11_u001')
+
+event_id: s01_e04_c11_u001_e15
+utterance_id: s01_e04_c11_u001
+  tuple: ('lose', 'I/Chandler Bing', 'her', 's01_e04_c11_u001')
+

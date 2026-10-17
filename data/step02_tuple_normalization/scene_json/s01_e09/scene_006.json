@@ -1,0 +1,40 @@
+{
+  "tuples": [
+    {
+      "verb": "guess",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "you all saw it",
+      "uid": "s01_e09_c06_u001"
+    },
+    {
+      "verb": "see",
+      "subject": "you all/(Rachel Green and Phoebe Buffay)",
+      "object": "it",
+      "uid": "s01_e09_c06_u001"
+    },
+    {
+      "verb": "see",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "what",
+      "uid": "s01_e09_c06_u002"
+    },
+    {
+      "verb": "laugh",
+      "subject": "we/(Rachel Green and Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e09_c06_u003"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "how laughter can be infectious",
+      "uid": "s01_e09_c06_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "laughter",
+      "object": "infectious",
+      "uid": "s01_e09_c06_u003"
+    }
+  ]
+}

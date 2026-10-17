@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "She recounts the meeting and feelings but shows no clear outgoing or energetic behavior beyond basic sharing."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She corrects the claim calmly and speaks warmly about the encounter as nice, comfortable, familiar, and fun, indicating a friendly, straightforward tone."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "She says they never got to her telling him to stop contacting her, suggesting not following through on an intended boundary."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "She describes the experience as nice and comfortable and that they had fun, showing no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "She reappraises him as not just “Orthodontist Guy” and says the time was different, indicating openness to a new perspective."
+  }
+}

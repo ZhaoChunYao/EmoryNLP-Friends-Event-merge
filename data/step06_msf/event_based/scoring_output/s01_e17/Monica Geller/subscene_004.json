@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker urges canceling a social outing, calling the dates with the doctors 'totally insane' and saying they should 'blow off the dates,' indicating avoidance of a social engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker bluntly tells Speaker_01 they 'left out the stupid part' and dismisses the plan as 'totally insane,' showing critical and unsupportive tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior about organization or reliability; suggesting to cancel the dates does not show planning quality either way."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Describing dating the doctors as 'totally insane' and 'like returning to the scene of the crime' suggests discomfort and apprehension about the situation."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Rejects a novel experience (dates with new people) as 'insane' and prefers to avoid it, showing caution over curiosity."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Asks others for money to keep playing, calls another player’s bet, and directly asks what hand they have—open, assertive table talk."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Thanks the people who contributed money and straightforwardly concedes, saying the opponent has him beat, without blaming or boasting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness beyond normal poker play; borrowing to continue the hand doesn’t clearly indicate either side."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and accepting after losing (“when you don’t have the cards, you don’t have the cards”) and notes the opponent looks happy, showing composure rather than anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Makes routine, conventional remarks about the hand; no clear curiosity, creativity, or dogmatism shown."
+  }
+}

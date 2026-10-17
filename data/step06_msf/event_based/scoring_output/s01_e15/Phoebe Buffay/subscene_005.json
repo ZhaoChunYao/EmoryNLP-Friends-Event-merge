@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only provides factual explanations about what happened; no clear signs of being outgoing or reserved beyond this brief exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker straightforwardly explains the situation—stating that Speaker_02 blazed up and smoked a joint (u012, u014)—to clarify what is going on."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicate organization or carelessness in this brief interaction."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker reports the incident matter-of-factly and assertively, showing no signs of nervousness or distress (u012, u014)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, creativity, or dogmatism are shown; TargetSpeaker simply reports events."
+  }
+}

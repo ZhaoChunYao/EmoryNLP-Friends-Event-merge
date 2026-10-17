@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She energetically directs others to look at things (“look at the window,” “look at the paycheck amount”), announces her name on the window, and talks excitedly about her first paycheck."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She focuses on herself, tells others to look at her name and paycheck, and complains that FICA is taking all her money—coming off as boastful and self-centered rather than warm or generous."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She emphasizes that she earned the paycheck and details specific tasks she did (“wiped tables,” “steamed milk”), indicating diligence and follow-through."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She reacts negatively and with frustration (“totally not worth it,” “FICA is getting all of my money”), showing emotional reactivity about the paycheck."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or unconventional thinking; asking who FICA is reflects confusion more than open-minded exploration."
+  }
+}

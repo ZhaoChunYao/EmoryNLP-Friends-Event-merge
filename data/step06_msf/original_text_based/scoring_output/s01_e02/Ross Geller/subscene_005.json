@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Shares information about being asked to go to a sonogram but does not display notably outgoing or withdrawn behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No signs of conflict or generosity; simply reports others’ request without clear agreement or refusal."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Says “I have no idea” about what to do, but there is no evidence of carelessness or disorganization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses uncertainty and anxiety: “I have no idea. No matter what I do, though, I’m still gonna be a [TargetSpeaker],” indicating worry and rumination."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Refers to a “sonogram thing” without showing curiosity or rigidity; no clear openness or closed-mindedness."
+  }
+}

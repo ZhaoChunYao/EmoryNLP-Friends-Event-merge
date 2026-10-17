@@ -1,0 +1,219 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e02_c02_u001",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it', 'good', 's01_e02_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'it', 'just that', 's01_e02_c02_u001')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('seem', 'she/(cave woman)', 'a little angry', 's01_e02_c02_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u002",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('have', 'she/(cave woman)', 'issues', 's01_e02_c02_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u004",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'he/(cave man)', 'out', 's01_e02_c02_u004')",
+            "('bang', 'he/(cave man)', 'other women', 's01_e02_c02_u004')",
+            "('bang', 'he/(cave man)', 'over the head', 's01_e02_c02_u004')",
+            "('bang', 'he/(cave man)', 'with a club', 's01_e02_c02_u004')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('sit', 'she/(cave woman)', 'at home', 's01_e02_c02_u004')",
+            "('try', 'she/(cave woman)', 'to get the mastodon smell out of the carpet', 's01_e02_c02_u004')",
+            "('get', 'she/(cave woman)', 'the mastodon smell', 's01_e02_c02_u004')",
+            "('get out', 'she/(cave woman)', 'of the carpet', 's01_e02_c02_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u005",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'these/(people on screen)', 'cave people', 's01_e02_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('have', 'they/(cave people)', 'issues', 's01_e02_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event_3",
+          "tuples": [
+            "('get', 'that glacier', 'kinda close', 's01_e02_c02_u005')"
+          ]
+        },
+        {
+          "event_id": "event_4",
+          "tuples": [
+            "('see', 'you/Marsha', None, 's01_e02_c02_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u006",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'that/Carol Willick', 'your ex-wife', 's01_e02_c02_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u009",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'it/(Carol Willick)', None, 's01_e02_c02_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u010",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('catch up', 'I/Ross Geller', 'with you/Marsha', 's01_e02_c02_u010')",
+            "('catch up', 'I/Ross Geller', 'in the Ice Age', 's01_e02_c02_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u014",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Carol Willick', 'great', 's01_e02_c02_u014')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('hate', 'I/Ross Geller', 'that', 's01_e02_c02_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u015",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('look', 'you/Ross Geller', 'good', 's01_e02_c02_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u016",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('stand', 'anyone who', 'erect', 's01_e02_c02_u016')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'what', 'new', 's01_e02_c02_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u018",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('know', 'you/Carol Willick', None, 's01_e02_c02_u018')"
+          ]
+        },
+        {
+          "event_id": "event_2",
+          "tuples": [
+            "('be', 'the family', None, 's01_e02_c02_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u019",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'Marty', 'still totally paranoid', 's01_e02_c02_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u020",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'you/Carol Willick', 'here', 's01_e02_c02_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e02_c02_u021",
+      "events": [
+        {
+          "event_id": "event_1",
+          "tuples": [
+            "('be', 'I/Carol Willick', 'pregnant', 's01_e02_c02_u021')"
+          ]
+        }
+      ]
+    }
+  ]
+}

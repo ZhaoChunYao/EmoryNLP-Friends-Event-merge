@@ -1,0 +1,49 @@
+event_id: s01_e16_c04_u003_e1
+utterance_id: s01_e16_c04_u003
+  tuple: ('be', 'Nina Bookbinder', 'here to see you', 's01_e16_c04_u003')
+  tuple: ('see', 'Nina Bookbinder', 'you', 's01_e16_c04_u003')
+
+event_id: s01_e16_c04_u004_e1
+utterance_id: s01_e16_c04_u004
+  tuple: ('send', 'you/Helen', 'in her', 's01_e16_c04_u004')
+
+event_id: s01_e16_c04_u007_e1
+utterance_id: s01_e16_c04_u007
+  tuple: ('come', 'you/Nina Bookbinder', 'in', 's01_e16_c04_u007')
+
+event_id: s01_e16_c04_u008_e1
+utterance_id: s01_e16_c04_u008
+  tuple: ('want', 'you/Chandler Bing', 'to see me', 's01_e16_c04_u008')
+  tuple: ('see', 'you/Chandler Bing', 'me', 's01_e16_c04_u008')
+
+event_id: s01_e16_c04_u009_e1
+utterance_id: s01_e16_c04_u009
+  tuple: ('go', 'I/Chandler Bing', 'over your data', 's01_e16_c04_u009')
+
+event_id: s01_e16_c04_u009_e2
+utterance_id: s01_e16_c04_u009
+  tuple: ('post-date', 'you/Nina Bookbinder', 'your Friday numbers', 's01_e16_c04_u009')
+
+event_id: s01_e16_c04_u010_e1
+utterance_id: s01_e16_c04_u010
+  tuple: ('be', 'which/(post-dating your Friday numbers)', 'bad', 's01_e16_c04_u010')
+
+event_id: s01_e16_c04_u011_e1
+utterance_id: s01_e16_c04_u011
+  tuple: ('throw', 'it/(post-dating your Friday numbers)', 'my WENUS', 's01_e16_c04_u011')
+  tuple: ('throw', 'it/(post-dating your Friday numbers)', 'out of whack', 's01_e16_c04_u011')
+
+event_id: s01_e16_c04_u012_e1
+utterance_id: s01_e16_c04_u012
+  tuple: ('excuse', 'you/Chandler Bing', 'me', 's01_e16_c04_u012')
+
+event_id: s01_e16_c04_u014_e1
+utterance_id: s01_e16_c04_u014
+  tuple: ('happen', 'it/(post-dating your Friday numbers)', None, 's01_e16_c04_u014')
+
+event_id: s01_e16_c04_u014_e2
+utterance_id: s01_e16_c04_u014
+  tuple: ('want', 'I/Nina Bookbinder', 'to do anything to hurt your wenus', 's01_e16_c04_u014')
+  tuple: ('do', 'I/Nina Bookbinder', 'anything to hurt your wenus', 's01_e16_c04_u014')
+  tuple: ('hurt', 'I/Nina Bookbinder', 'your wenus', 's01_e16_c04_u014')
+

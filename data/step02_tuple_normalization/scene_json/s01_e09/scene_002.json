@@ -1,0 +1,454 @@
+{
+  "tuples": [
+    {
+      "verb": "excuse",
+      "subject": "you/(Guy)",
+      "object": "me",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "come",
+      "subject": "you/(Guy)",
+      "object": "in here",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "wonder",
+      "subject": "I/(Rachel Green)",
+      "object": "do you think there's a possibility that you could give me an advance on my tips",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(Guy)",
+      "object": "there's a possibility that you could give me an advance on my tips",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "a possibility that you could give me an advance on my tips",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "give",
+      "subject": "you/(Guy)",
+      "object": "me an advance",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "give",
+      "subject": "you/(Guy)",
+      "object": "on my tips",
+      "uid": "s01_e09_c02_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "fine",
+      "uid": "s01_e09_c02_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Rachel Green)",
+      "object": "sorry",
+      "uid": "s01_e09_c02_u003"
+    },
+    {
+      "verb": "go",
+      "subject": "$98.50",
+      "object": null,
+      "uid": "s01_e09_c02_u003"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Ross Geller)",
+      "object": "Mom and Dad are going to Puerto Rico for Thanksgiving",
+      "uid": "s01_e09_c02_u005"
+    },
+    {
+      "verb": "go",
+      "subject": "Mom and Dad",
+      "object": "to Puerto Rico",
+      "uid": "s01_e09_c02_u005"
+    },
+    {
+      "verb": "go",
+      "subject": "Mom and Dad",
+      "object": "for Thanksgiving",
+      "uid": "s01_e09_c02_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(Mom and Dad)",
+      "object": "not",
+      "uid": "s01_e09_c02_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "they/(Mom and Dad)",
+      "object": null,
+      "uid": "s01_e09_c02_u007"
+    },
+    {
+      "verb": "invite",
+      "subject": "The Blymens",
+      "object": "them",
+      "uid": "s01_e09_c02_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "wrong",
+      "uid": "s01_e09_c02_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Monica Geller)",
+      "object": "not wrong",
+      "uid": "s01_e09_c02_u009"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "wrong",
+      "uid": "s01_e09_c02_u010"
+    },
+    {
+      "verb": "talk",
+      "subject": "I/(Monica Geller)",
+      "object": null,
+      "uid": "s01_e09_c02_u011"
+    },
+    {
+      "verb": "talk",
+      "subject": "I/(Monica Geller)",
+      "object": "to them",
+      "uid": "s01_e09_c02_u011"
+    },
+    {
+      "verb": "call",
+      "subject": "I/(Ross Geller)",
+      "object": "Mom",
+      "uid": "s01_e09_c02_u012"
+    },
+    {
+      "verb": "wear",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "makeup",
+      "uid": "s01_e09_c02_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "Joey Tribbiani, actor slash model",
+      "uid": "s01_e09_c02_u018"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "so funny",
+      "uid": "s01_e09_c02_u019"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Chandler Bing)",
+      "object": "you look more like Joey Tribbiani, man slash woman",
+      "uid": "s01_e09_c02_u019"
+    },
+    {
+      "verb": "look",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "more like Joey Tribbiani, man slash woman",
+      "uid": "s01_e09_c02_u019"
+    },
+    {
+      "verb": "model",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "for what",
+      "uid": "s01_e09_c02_u020"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "those posters for the city free clinic",
+      "uid": "s01_e09_c02_u021"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "one of those \"healthy, healthy, healthy guys\"",
+      "uid": "s01_e09_c02_u022"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(everyone)",
+      "object": null,
+      "uid": "s01_e09_c02_u023"
+    },
+    {
+      "verb": "be",
+      "subject": "the asthma guy",
+      "object": "really cute",
+      "uid": "s01_e09_c02_u023"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "which one you're gonna be",
+      "uid": "s01_e09_c02_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "which one",
+      "uid": "s01_e09_c02_u024"
+    },
+    {
+      "verb": "hear",
+      "subject": "I/(Joey Tribbiani)",
+      "object": "lyme disease is open",
+      "uid": "s01_e09_c02_u025"
+    },
+    {
+      "verb": "be",
+      "subject": "lyme disease",
+      "object": "open",
+      "uid": "s01_e09_c02_u025"
+    },
+    {
+      "verb": "hope",
+      "subject": "I/(Chandler Bing)",
+      "object": "you get it",
+      "uid": "s01_e09_c02_u026"
+    },
+    {
+      "verb": "get",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "it",
+      "uid": "s01_e09_c02_u026"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Monica Geller)",
+      "object": "right",
+      "uid": "s01_e09_c02_u029"
+    },
+    {
+      "verb": "do",
+      "subject": "they/(Mom and Dad)",
+      "object": "this",
+      "uid": "s01_e09_c02_u029"
+    },
+    {
+      "verb": "do",
+      "subject": "they/(Mom and Dad)",
+      "object": "to us",
+      "uid": "s01_e09_c02_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "Thanksgiving",
+      "uid": "s01_e09_c02_u029"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/(Monica Geller)",
+      "object": "you what",
+      "uid": "s01_e09_c02_u030"
+    },
+    {
+      "verb": "cook",
+      "subject": "I/(Monica Geller)",
+      "object": "dinner",
+      "uid": "s01_e09_c02_u030"
+    },
+    {
+      "verb": "cook",
+      "subject": "I/(Monica Geller)",
+      "object": "at my place",
+      "uid": "s01_e09_c02_u030"
+    },
+    {
+      "verb": "make",
+      "subject": "I/(Monica Geller)",
+      "object": "it",
+      "uid": "s01_e09_c02_u030"
+    },
+    {
+      "verb": "make",
+      "subject": "I/(Monica Geller)",
+      "object": "like Mom's",
+      "uid": "s01_e09_c02_u030"
+    },
+    {
+      "verb": "make",
+      "subject": "you/(Monica Geller)",
+      "object": "the mashed potatoes",
+      "uid": "s01_e09_c02_u031"
+    },
+    {
+      "verb": "make",
+      "subject": "you/(Monica Geller)",
+      "object": "with the lumps",
+      "uid": "s01_e09_c02_u031"
+    },
+    {
+      "verb": "know",
+      "subject": "you/(Ross Geller)",
+      "object": null,
+      "uid": "s01_e09_c02_u032"
+    },
+    {
+      "verb": "have",
+      "subject": "they/(mashed potatoes)",
+      "object": null,
+      "uid": "s01_e09_c02_u032"
+    },
+    {
+      "verb": "work",
+      "subject": "I/(Monica Geller)",
+      "object": "on the lumps",
+      "uid": "s01_e09_c02_u032"
+    },
+    {
+      "verb": "go",
+      "subject": "you/(Joey Tribbiani)",
+      "object": "home",
+      "uid": "s01_e09_c02_u032"
+    },
+    {
+      "verb": "assume",
+      "subject": "I/(Monica Geller)",
+      "object": "Chandler, you are still boycotting all the pilgrim holidays",
+      "uid": "s01_e09_c02_u034"
+    },
+    {
+      "verb": "boycott",
+      "subject": "you/(Chandler Bing)",
+      "object": "all the pilgrim holidays",
+      "uid": "s01_e09_c02_u034"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "with your grandma",
+      "uid": "s01_e09_c02_u036"
+    },
+    {
+      "verb": "celebrate",
+      "subject": "we/(Phoebe Buffay + her grandma + her grandma's boyfriend)",
+      "object": "Thanksgiving",
+      "uid": "s01_e09_c02_u037"
+    },
+    {
+      "verb": "celebrate",
+      "subject": "we/(Phoebe Buffay + her grandma + her grandma's boyfriend)",
+      "object": "in December",
+      "uid": "s01_e09_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "he/(grandma's boyfriend)",
+      "object": "lunar",
+      "uid": "s01_e09_c02_u037"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Phoebe Buffay)",
+      "object": "free Thursday, then",
+      "uid": "s01_e09_c02_u038"
+    },
+    {
+      "verb": "come",
+      "subject": "I/(Phoebe Buffay)",
+      "object": null,
+      "uid": "s01_e09_c02_u039"
+    },
+    {
+      "verb": "think",
+      "subject": "you/(Rachel Green)",
+      "object": "you're gonna make it to Vail",
+      "uid": "s01_e09_c02_u040"
+    },
+    {
+      "verb": "make",
+      "subject": "you/(Rachel Green)",
+      "object": "it",
+      "uid": "s01_e09_c02_u040"
+    },
+    {
+      "verb": "make",
+      "subject": "you/(Rachel Green)",
+      "object": "to Vail",
+      "uid": "s01_e09_c02_u040"
+    },
+    {
+      "verb": "go",
+      "subject": "a hundred and two dollars",
+      "object": null,
+      "uid": "s01_e09_c02_u041"
+    },
+    {
+      "verb": "think",
+      "subject": "I/(Chandler Bing)",
+      "object": "it was $98.50",
+      "uid": "s01_e09_c02_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "$98.50",
+      "uid": "s01_e09_c02_u042"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": null,
+      "uid": "s01_e09_c02_u043"
+    },
+    {
+      "verb": "break",
+      "subject": "I/(Rachel Green)",
+      "object": "a cup",
+      "uid": "s01_e09_c02_u043"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Ross Geller)",
+      "object": "off",
+      "uid": "s01_e09_c02_u044"
+    },
+    {
+      "verb": "go",
+      "subject": "I/(Ross Geller)",
+      "object": "to Carol's",
+      "uid": "s01_e09_c02_u044"
+    },
+    {
+      "verb": "invite",
+      "subject": "we/(friends)",
+      "object": "her",
+      "uid": "s01_e09_c02_u045"
+    },
+    {
+      "verb": "be",
+      "subject": "she/(Carol)",
+      "object": "my ex-wife",
+      "uid": "s01_e09_c02_u046"
+    },
+    {
+      "verb": "want",
+      "subject": "she/(Carol)",
+      "object": "to bring her lesbian life partner",
+      "uid": "s01_e09_c02_u046"
+    },
+    {
+      "verb": "bring",
+      "subject": "she/(Carol)",
+      "object": "her lesbian life partner",
+      "uid": "s01_e09_c02_u046"
+    }
+  ]
+}

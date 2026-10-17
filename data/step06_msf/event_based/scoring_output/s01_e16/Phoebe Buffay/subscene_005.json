@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only gives brief, polite responses (“That’s good,” “Good choice.”) without showing outgoing or highly talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds positively to others knowing their order and praises their selection (“That’s good,” “Good choice.”), showing supportiveness and friendliness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization/efficiency or the opposite; merely acknowledges the order."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows no signs of stress, nervousness, or insecurity; responses are neutral and calm but not strongly indicative of confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or preference for novelty; simply affirms the others’ choices."
+  }
+}

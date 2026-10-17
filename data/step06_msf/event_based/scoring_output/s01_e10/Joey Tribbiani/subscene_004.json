@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief, factual contributions (“there is no room for milk”; “Uh, four.”) without displaying outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They offer a neutral factual correction (“Uh, four.”) with no signs of either warmth/generosity or antagonism/boastfulness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They note a practical constraint (“there is no room for milk”) and accurately correct the headcount (“Uh, four.”), showing attention to detail and organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or insecurity; the filler “Uh” is brief and not indicative of sustained nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity, new ideas, or resistance to them; the remarks are purely logistical."
+  }
+}

@@ -1,0 +1,73 @@
+event_id: s01_e14_c09_u001_e1
+utterance_id: s01_e14_c09_u001
+  tuple: ('say', 'I/Ross Geller', 'if dogs do experience jet lag', 's01_e14_c09_u001')
+
+event_id: s01_e14_c09_u001_e2
+utterance_id: s01_e14_c09_u001
+  tuple: ('experience', 'dogs', 'jet lag', 's01_e14_c09_u001')
+
+event_id: s01_e14_c09_u001_e3
+utterance_id: s01_e14_c09_u001
+  tuple: ('fly', 'a dog', None, 's01_e14_c09_u001')
+  tuple: ('fly', 'a dog', 'from New York', 's01_e14_c09_u001')
+  tuple: ('fly', 'a dog', 'to Los Angeles', 's01_e14_c09_u001')
+
+event_id: s01_e14_c09_u001_e4
+utterance_id: s01_e14_c09_u001
+  tuple: ('lose', 'he/a dog', 'three hours', 's01_e14_c09_u001')
+  tuple: ('lose', 'he/a dog', 'like a week and a half', 's01_e14_c09_u001')
+
+event_id: s01_e14_c09_u003_e1
+utterance_id: s01_e14_c09_u003
+  tuple: ('be', "that/Ross's comment", 'funny', 's01_e14_c09_u003')
+
+event_id: s01_e14_c09_u003_e2
+utterance_id: s01_e14_c09_u003
+  tuple: ('be', 'they/the two women', 'who', 's01_e14_c09_u003')
+
+event_id: s01_e14_c09_u004_e1
+utterance_id: s01_e14_c09_u004
+  tuple: ('be', 'The blond woman', 'my ex-wife', 's01_e14_c09_u004')
+
+event_id: s01_e14_c09_u004_e2
+utterance_id: s01_e14_c09_u004
+  tuple: ('touch', 'the woman', 'her', 's01_e14_c09_u004')
+
+event_id: s01_e14_c09_u004_e3
+utterance_id: s01_e14_c09_u004
+  tuple: ('be', 'the woman touching her', 'her close, personal friend', 's01_e14_c09_u004')
+
+event_id: s01_e14_c09_u005_e1
+utterance_id: s01_e14_c09_u005
+  tuple: ('mean', 'you/Ross Geller', "they're lovers", 's01_e14_c09_u005')
+
+event_id: s01_e14_c09_u005_e2
+utterance_id: s01_e14_c09_u005
+  tuple: ('be', 'they/the two women', 'lovers', 's01_e14_c09_u005')
+
+event_id: s01_e14_c09_u006_e1
+utterance_id: s01_e14_c09_u006
+  tuple: ('want', 'you/Kristin', 'to put a label on it', 's01_e14_c09_u006')
+
+event_id: s01_e14_c09_u006_e2
+utterance_id: s01_e14_c09_u006
+  tuple: ('put', 'you/Kristin', 'a label', 's01_e14_c09_u006')
+  tuple: ('put', 'you/Kristin', 'on it', 's01_e14_c09_u006')
+
+event_id: s01_e14_c09_u007_e1
+utterance_id: s01_e14_c09_u007
+  tuple: ('know', 'I/Kristin', 'anything else', 's01_e14_c09_u007')
+
+event_id: s01_e14_c09_u008_e1
+utterance_id: s01_e14_c09_u008
+  tuple: ('be', 'that/everything', 'it', 's01_e14_c09_u008')
+
+event_id: s01_e14_c09_u010_e1
+utterance_id: s01_e14_c09_u010
+  tuple: ('be', 'she/my ex-wife', 'pregnant', 's01_e14_c09_u010')
+  tuple: ('be pregnant', 'she/my ex-wife', 'with my baby', 's01_e14_c09_u010')
+
+event_id: s01_e14_c09_u010_e2
+utterance_id: s01_e14_c09_u010
+  tuple: ('forget', 'I/Ross Geller', 'that part', 's01_e14_c09_u010')
+

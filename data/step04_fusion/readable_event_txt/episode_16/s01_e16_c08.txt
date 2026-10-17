@@ -1,0 +1,27 @@
+event_id: s01_e16_c08_u003_e1
+utterance_id: s01_e16_c08_u003
+  tuple: ('be', 'you/Chandler Bing', 'okay', 's01_e16_c08_u003')
+
+event_id: s01_e16_c08_u004_e1
+utterance_id: s01_e16_c08_u004
+  tuple: ('be', 'I/Chandler Bing', None, 's01_e16_c08_u004')
+
+event_id: s01_e16_c08_u004_e2
+utterance_id: s01_e16_c08_u004
+  tuple: ('listen', 'you/Nina Bookbinder', None, 's01_e16_c08_u004')
+
+event_id: s01_e16_c08_u004_e3
+utterance_id: s01_e16_c08_u004
+  tuple: ('call', 'I/Chandler Bing', 'you', 's01_e16_c08_u004')
+  tuple: ('call', 'I/Chandler Bing', 'in here', 's01_e16_c08_u004')
+  tuple: ('be', 'the reason', None, 's01_e16_c08_u004')
+
+event_id: s01_e16_c08_u004_e4
+utterance_id: s01_e16_c08_u004
+  tuple: ('hate', 'you/Nina Bookbinder', 'me', 's01_e16_c08_u004')
+
+event_id: s01_e16_c08_u006_e1
+utterance_id: s01_e16_c08_u006
+  tuple: ('like', 'you/Nina Bookbinder', 'have dinner sometime', 's01_e16_c08_u006')
+  tuple: ('have', 'you/Nina Bookbinder', 'dinner', 's01_e16_c08_u006')
+

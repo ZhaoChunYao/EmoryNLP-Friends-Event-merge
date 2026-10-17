@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and drives the conversation with enthusiasm, offers a job lead, responds with energetic 'Yeah, yeah!', asks for opinions, and playfully prompts someone to guess what she’s about to say (u023, u027, u031, u033)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Actively tries to help friends by sharing a head-chef opportunity from her massage client, says she thought of the chef friend first, and considers who needs a job (u023, u025)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Provides some specifics about the opportunity (eclectic concept, create entire menu) but there is no clear evidence of being especially organized or inefficient (u029)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently and supportively without signs of worry or insecurity, taking initiative in problem-solving for others (u023, u031)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Positively presents an 'eclectic' restaurant concept and a creative role to design an entire menu, showing comfort with novel, creative ideas (u029)."
+  }
+}

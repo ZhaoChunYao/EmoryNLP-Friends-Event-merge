@@ -1,0 +1,63 @@
+('remember', 'you/Ross Geller', 'when we went to Central Park and rented boats', 's01_e03_c14_u001')
+[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+
+('go', 'we/Rachel Green+Ross Geller', 'to Central Park', 's01_e03_c14_u001')
+[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+
+('rent', 'we/Rachel Green+Ross Geller', 'boats', 's01_e03_c14_u001')
+[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+
+('be', 'That/(the Central Park boats trip)', 'fun', 's01_e03_c14_u001')
+[s01_e03_c14_u001] Rachel Green: Remember when we went to Central Park and rented boats?.. That was fun.
+
+('row', 'he/(unspecified male)', 'like a viking', 's01_e03_c14_u002')
+[s01_e03_c14_u002] Ross Geller: Yeah. He could row like a viking.
+
+('go', "it/(Monica Geller's meeting)", None, 's01_e03_c14_u005')
+[s01_e03_c14_u005] Ross Geller: So how'd it go?
+
+('know', 'you/Ross Geller', None, 's01_e03_c14_u006')
+[s01_e03_c14_u006] Monica Geller: Oh, y'know..
+
+('mention', "he/(Monica Geller's boyfriend)", 'us', 's01_e03_c14_u007')
+[s01_e03_c14_u007] Phoebe Buffay: Did he mention us?
+
+('say', "he/(Monica Geller's boyfriend)", "he's really gonna miss you guys", 's01_e03_c14_u008')
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys.
+
+('miss', "he/(Monica Geller's boyfriend)", 'you guys', 's01_e03_c14_u008')
+[s01_e03_c14_u008] Monica Geller: He said he's really gonna miss you guys.
+
+('have', 'you/Monica Geller', 'a rough day', 's01_e03_c14_u009')
+[s01_e03_c14_u009] Ross Geller: You had a rough day, huh.. c'mere.
+
+('come', 'you/Monica Geller', 'here', 's01_e03_c14_u009')
+[s01_e03_c14_u009] Ross Geller: You had a rough day, huh.. c'mere.
+
+('be', "That/(Chandler Bing's limit)", 'it', 's01_e03_c14_u010')
+[s01_e03_c14_u010] Chandler Bing: ...That's it. I'm getting cigarettes.
+
+('get', 'I/Chandler Bing', 'cigarettes', 's01_e03_c14_u010')
+[s01_e03_c14_u010] Chandler Bing: ...That's it. I'm getting cigarettes.
+
+('care', 'I/Chandler Bing', None, 's01_e03_c14_u012')
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+
+('be', 'Game', 'over', 's01_e03_c14_u012')
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+
+('be', 'I/Chandler Bing', 'weak', 's01_e03_c14_u012')
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+
+('smoke', 'I/Chandler Bing', None, 's01_e03_c14_u012')
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+
+('have', 'I/Chandler Bing', 'the smoke', 's01_e03_c14_u012')
+[s01_e03_c14_u012] Chandler Bing: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
+
+('smoke', 'you/Chandler Bing', None, 's01_e03_c14_u013')
+[s01_e03_c14_u013] Phoebe Buffay: If you never smoke again I'll give you seven thousand dollars!
+
+('give', 'I/Phoebe Buffay', 'you seven thousand dollars', 's01_e03_c14_u013')
+[s01_e03_c14_u013] Phoebe Buffay: If you never smoke again I'll give you seven thousand dollars!
+

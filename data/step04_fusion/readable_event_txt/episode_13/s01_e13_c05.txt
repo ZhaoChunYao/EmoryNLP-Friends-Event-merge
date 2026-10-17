@@ -1,0 +1,44 @@
+event_id: s01_e13_c05_u003_e1
+utterance_id: s01_e13_c05_u003
+  tuple: ('look', 'you/(Joey Tribbiani)', None, 's01_e13_c05_u003')
+
+event_id: s01_e13_c05_u003_e2
+utterance_id: s01_e13_c05_u003
+  tuple: ('be', 'it/(Ronni Rapalono)', 'the woman we ordered', 's01_e13_c05_u003')
+
+event_id: s01_e13_c05_u003_e3
+utterance_id: s01_e13_c05_u003
+  tuple: ('order', 'we/(Chandler Bing and Joey Tribbiani)', 'the woman', 's01_e13_c05_u003')
+
+event_id: s01_e13_c05_u004_e1
+utterance_id: s01_e13_c05_u004
+  tuple: ('help', 'we/(Chandler Bing and Joey Tribbiani)', 'you/(Ronni Rapalono)', 's01_e13_c05_u004')
+
+event_id: s01_e13_c05_u005_e1
+utterance_id: s01_e13_c05_u005
+  tuple: ('wait', 'I/(Ronni Rapalono)', 'for Joey Tribbiani', 's01_e13_c05_u005')
+
+event_id: s01_e13_c05_u006_e1
+utterance_id: s01_e13_c05_u006
+  tuple: ('be', 'I/(Joey Tribbiani)', 'Joey Tribbiani', 's01_e13_c05_u006')
+
+event_id: s01_e13_c05_u007_e1
+utterance_id: s01_e13_c05_u007
+  tuple: ('be', 'you/(Joey Tribbiani)', 'so much cuter than your pictures', 's01_e13_c05_u007')
+
+event_id: s01_e13_c05_u007_e2
+utterance_id: s01_e13_c05_u007
+  tuple: ('be', 'I/(Ronni Rapalono)', 'Ronni', 's01_e13_c05_u007')
+
+event_id: s01_e13_c05_u008_e1
+utterance_id: s01_e13_c05_u008
+  tuple: ('have', 'Joey Tribbiani', 'an embolism', 's01_e13_c05_u008')
+
+event_id: s01_e13_c05_u008_e2
+utterance_id: s01_e13_c05_u008
+  tuple: ('go', 'I/(Chandler Bing)', 'for a Nip', 's01_e13_c05_u008')
+
+event_id: s01_e13_c05_u008_e3
+utterance_id: s01_e13_c05_u008
+  tuple: ('know', 'you/(Ronni Rapalono)', None, 's01_e13_c05_u008')
+

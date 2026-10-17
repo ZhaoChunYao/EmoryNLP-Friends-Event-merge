@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up in the group to defend Speaker_01 and then delivers a long, personal story about moving to New York at 14 and her experiences—very talkative and expressive."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker says Speaker_03 should give Speaker_01 a break and empathizes ('I know exactly how you feel'), showing support and concern."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker’s story is rambling and off-track, prompting another to say she’s looking for the word ‘Anyway,’ indicating disorganized, inefficient communication."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Although recounting traumatic events, TargetSpeaker remains composed and reassuring; no clear signs of nervousness or insecurity appear."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker describes unconventional life experiences and says she found aromatherapy, reflecting openness to unusual ideas and experiences."
+  }
+}

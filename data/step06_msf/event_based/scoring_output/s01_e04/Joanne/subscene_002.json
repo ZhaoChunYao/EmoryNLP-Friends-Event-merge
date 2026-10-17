@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates and leads the conversation (“let’s talk about reality for a second”), asks a direct question about when Speaker_01 is coming home, and urges “come on,” showing assertive, engaged behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker is direct and slightly pressing, but there is no clear evidence of warmth/generosity or of hostility/untrustworthiness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They steer the group to focus on “reality” and seek concrete plans by asking when Speaker_01 is coming home, indicating a practical, organized focus."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, insecurity, or emotional volatility; the tone is calm and matter‑of‑fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No behaviors indicate curiosity or imaginative exploration, nor rigidity or dogmatism; the remarks are purely practical."
+  }
+}

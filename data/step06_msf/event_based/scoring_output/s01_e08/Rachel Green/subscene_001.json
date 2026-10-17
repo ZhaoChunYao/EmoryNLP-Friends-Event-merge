@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker openly shares a personal first impression and a bold anecdote in front of the group (admitting thinking Speaker_01 might be gay and describing the birthday-party behavior)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is candid and straightforward, directly stating the initial assumption and plainly explaining the reason."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization, planning, or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks confidently about an awkward topic without showing nervousness or sensitivity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "TargetSpeaker updates the initial belief based on observed behavior and is willing to discuss unconventional content openly."
+  }
+}

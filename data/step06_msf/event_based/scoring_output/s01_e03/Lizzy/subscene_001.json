@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, matter-of-fact replies and questions (e.g., “Saltines?”, “Okay”) without notably outgoing or energetic behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Insists on reciprocating the gift (“I have to give you something,” “Let me do something for you”), offers own tin-foil hat, and agrees to buy a soda—showing generosity and fairness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of efficiency or organization; insisting on reciprocity does not demonstrate organized or careful behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Shows surprise about the money but remains calm and cooperative; no clear signs of nervousness or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity or inventiveness; offering a tin-foil hat does not reflect openness or closed-mindedness in this context."
+  }
+}

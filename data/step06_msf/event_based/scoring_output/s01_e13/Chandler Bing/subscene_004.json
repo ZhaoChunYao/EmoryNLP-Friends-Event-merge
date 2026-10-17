@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Makes bold, humorous remarks in a group about an awkward topic and engages others directly (asks what Speaker_03 meant)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Offers a compliment seemingly to reassure but also publicly comments on Speaker_01’s body despite her embarrassment; behavior is mixed, not clearly cooperative or hostile."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization, planning, or reliability-related behavior in the exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains composed under personal critique, uses humor (“rock, hard place, me”), and calmly seeks clarification rather than showing anxiety."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Comfortably discusses a sensitive topic with playful wordplay and shows curiosity by probing how Speaker_03 knew personal details."
+  }
+}

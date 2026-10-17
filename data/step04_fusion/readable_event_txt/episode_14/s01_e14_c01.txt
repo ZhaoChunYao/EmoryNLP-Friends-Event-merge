@@ -1,0 +1,87 @@
+event_id: s01_e14_c01_u001_e1
+utterance_id: s01_e14_c01_u001
+  tuple: ('tell', 'I/Joey Tribbiani', 'you', 's01_e14_c01_u001')
+
+event_id: s01_e14_c01_u001_e2
+utterance_id: s01_e14_c01_u001
+  tuple: ('want', 'she/Woman', 'you', 's01_e14_c01_u001')
+
+event_id: s01_e14_c01_u002_e1
+utterance_id: s01_e14_c01_u002
+  tuple: ('know', 'she/Woman', 'me', 's01_e14_c01_u002')
+
+event_id: s01_e14_c01_u002_e2
+utterance_id: s01_e14_c01_u002
+  tuple: ('live', 'we/Ross Geller+Woman', 'in the same building', 's01_e14_c01_u002')
+
+event_id: s01_e14_c01_u004_e1
+utterance_id: s01_e14_c01_u004
+  tuple: ('lend', 'she/Woman', 'me an egg', 's01_e14_c01_u004')
+
+event_id: s01_e14_c01_u005_e1
+utterance_id: s01_e14_c01_u005
+  tuple: ('be', 'you/Ross Geller', 'in', 's01_e14_c01_u005')
+
+event_id: s01_e14_c01_u009_e1
+utterance_id: s01_e14_c01_u009
+  tuple: ('come', 'you/Ross Geller', 'on', 's01_e14_c01_u009')
+  tuple: ('get', 'you/Ross Geller', 'back in the game', 's01_e14_c01_u009')
+
+event_id: s01_e14_c01_u009_e2
+utterance_id: s01_e14_c01_u009
+  tuple: ('happen', 'the Rachel thing', None, 's01_e14_c01_u009')
+
+event_id: s01_e14_c01_u009_e3
+utterance_id: s01_e14_c01_u009
+  tuple: ('be', 'your ex-wife', 'a lesbian', 's01_e14_c01_u009')
+
+event_id: s01_e14_c01_u009_e4
+utterance_id: s01_e14_c01_u009
+  tuple: ('think', 'I/Chandler Bing', 'we need a third', 's01_e14_c01_u009')
+  tuple: ('need', 'we/Chandler Bing+Joey Tribbiani+Ross Geller', 'a third', 's01_e14_c01_u009')
+
+event_id: s01_e14_c01_u010_e1
+utterance_id: s01_e14_c01_u010
+  tuple: ('excuse', 'you/Server', 'me', 's01_e14_c01_u010')
+  tuple: ('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'an egg', 's01_e14_c01_u010')
+  tuple: ('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'over here', 's01_e14_c01_u010')
+  tuple: ('get', 'we/Joey Tribbiani+Chandler Bing+Ross Geller', 'in the shell', 's01_e14_c01_u010')
+
+event_id: s01_e14_c01_u012_e1
+utterance_id: s01_e14_c01_u012
+  tuple: ('go up', 'you/Ross Geller', 'to her', 's01_e14_c01_u012')
+  tuple: ('say', 'you/Ross Geller', '"Here\'s your egg back, I\'m returning your egg."', 's01_e14_c01_u012')
+  tuple: ('be', 'your egg', 'back', 's01_e14_c01_u012')
+  tuple: ('return', 'I/Ross Geller', 'your egg', 's01_e14_c01_u012')
+
+event_id: s01_e14_c01_u013_e1
+utterance_id: s01_e14_c01_u013
+  tuple: ('think', 'I/Chandler Bing', "it's winning", 's01_e14_c01_u013')
+  tuple: ('be', 'it/the plan', 'winning', 's01_e14_c01_u013')
+
+event_id: s01_e14_c01_u014_e1
+utterance_id: s01_e14_c01_u014
+  tuple: ('think', 'I/Ross Geller', "it's insane", 's01_e14_c01_u014')
+  tuple: ('be', 'it/the plan', 'insane', 's01_e14_c01_u014')
+
+event_id: s01_e14_c01_u015_e1
+utterance_id: s01_e14_c01_u015
+  tuple: ('love', 'she/Woman', 'it', 's01_e14_c01_u015')
+
+event_id: s01_e14_c01_u015_e2
+utterance_id: s01_e14_c01_u015
+  tuple: ('go', 'you/Ross Geller', 'with the egg', 's01_e14_c01_u015')
+
+event_id: s01_e14_c01_u017_e1
+utterance_id: s01_e14_c01_u017
+  tuple: ('think', 'you/Chandler Bing', "it'll work", 's01_e14_c01_u017')
+  tuple: ('work', 'it/the plan', None, 's01_e14_c01_u017')
+
+event_id: s01_e14_c01_u018_e1
+utterance_id: s01_e14_c01_u018
+  tuple: ('be', 'it/the plan', 'suicide', 's01_e14_c01_u018')
+
+event_id: s01_e14_c01_u018_e2
+utterance_id: s01_e14_c01_u018
+  tuple: ('have', 'the man', 'an egg', 's01_e14_c01_u018')
+

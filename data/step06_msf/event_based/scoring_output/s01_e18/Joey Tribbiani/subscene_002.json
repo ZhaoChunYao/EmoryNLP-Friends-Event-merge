@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaker_02 reports TargetSpeaker acted confident and told others, 'Read them and weep,' during the poker game—outgoing, boastful display."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker’s boastful taunt 'Read them and weep' toward others indicates low agreeableness despite a brief 'thanks' to Speaker_02."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "TargetSpeaker explains misreading a card because 'there was chocolate on the three; it looked like an eight,' showing careless checking before boasting."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Speaker_02 says TargetSpeaker cried last night, and Speaker_01 says TargetSpeaker then cried after the poker game—repeated emotional reactivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete behavior shows curiosity/inventiveness or cautious/dogmatic thinking in this exchange."
+  }
+}

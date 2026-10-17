@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief, factual comments about logistics; no clear signs of outgoing enthusiasm or of social withdrawal."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers straightforward, honest guidance—telling Speaker_03 not to go to the airport—aimed at preventing a likely futile, hurtful situation."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Focuses on timing and logistics (“What about the time difference?”, “not going to make it to the airport in time”) and recommends the efficient course."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and decisively (“[S3] is not going to make it…,” “should not go”), showing confidence rather than anxiety."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Discourages a spontaneous romantic gesture and relies on practical constraints, reflecting a cautious, risk-averse stance."
+  }
+}

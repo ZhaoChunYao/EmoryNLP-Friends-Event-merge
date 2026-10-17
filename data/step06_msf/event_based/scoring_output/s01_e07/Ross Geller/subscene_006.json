@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes initiative in the group by proposing a course of action ('we should put Speaker_04 in the hall') and actively engages when challenged ('Yeah?')."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Despite Speaker_04 being described as 'scared to death,' TargetSpeaker suggests putting them in the hall and responds dismissively ('Yeah?') when warned they could be trampled."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "The proposal to put Speaker_04 in the hall during a blackout overlooks safety and logistics, and TargetSpeaker does not adjust when the risk is raised, replying only 'Yeah?,' suggesting carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; the brief 'Yeah?' shows confidence rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity or imaginative thinking, nor clear dogmatism; the actions are purely practical without evidence for either side."
+  }
+}

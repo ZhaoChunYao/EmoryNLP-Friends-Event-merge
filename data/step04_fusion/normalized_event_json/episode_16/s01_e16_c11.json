@@ -1,0 +1,221 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e16_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u001_e1",
+          "tuples": [
+            "('be', 'that', 'the Chrysler Building right there', 's01_e16_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u005",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u005_e1",
+          "tuples": [
+            "('be', 'She/Nina Bookbinder', 'still here', 's01_e16_c11_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u006",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u006_e1",
+          "tuples": [
+            "('be', 'She/Nina Bookbinder', None, 's01_e16_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u006_e2",
+          "tuples": [
+            "('memo', 'I/Chandler Bing', 'you', 's01_e16_c11_u006')",
+            "('memo', 'I/Chandler Bing', 'on this', 's01_e16_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u006_e3",
+          "tuples": [
+            "('let go', 'I/Chandler Bing', 'her', 's01_e16_c11_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u006_e4",
+          "tuples": [
+            "('get', 'I/Chandler Bing', 'a call', 's01_e16_c11_u006')",
+            "('get', 'I/Chandler Bing', 'from her psychiatrist', 's01_e16_c11_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u008",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u008_e1",
+          "tuples": [
+            "('inform', 'he/Dr. Flan', 'me', 's01_e16_c11_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u008_e2",
+          "tuples": [
+            "('take', 'She/Nina Bookbinder', 'the news', 's01_e16_c11_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u008_e3",
+          "tuples": [
+            "('mention', 'he/Dr. Flan', 'the word frenzy', 's01_e16_c11_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u009",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u009_e1",
+          "tuples": [
+            "('kid', 'You/Chandler Bing', None, 's01_e16_c11_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u009_e2",
+          "tuples": [
+            "('seem', 'She/Nina Bookbinder', None, 's01_e16_c11_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u010",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u010_e1",
+          "tuples": [
+            "('be', 'She/Nina Bookbinder', 'whooo wewee-woo whoo whoo', 's01_e16_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u010_e2",
+          "tuples": [
+            "('ask', 'you/Mr. Douglas', 'her', 's01_e16_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u010_e3",
+          "tuples": [
+            "('have', 'She/Nina Bookbinder', 'no recollection', 's01_e16_c11_u010')",
+            "('have', 'She/Nina Bookbinder', 'of being fired', 's01_e16_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u010_e4",
+          "tuples": [
+            "('fire', 'She/Nina Bookbinder', None, 's01_e16_c11_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u011",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u011_e1",
+          "tuples": [
+            "('be', 'That', 'unbelievable', 's01_e16_c11_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u012",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u012_e1",
+          "tuples": [
+            "('decide', 'I/Chandler Bing', 'not to fire her again until I can be assured that she will be no threat to herself, or others', 's01_e16_c11_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u012_e2",
+          "tuples": [
+            "('fire', 'I/Chandler Bing', 'her', 's01_e16_c11_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u012_e3",
+          "tuples": [
+            "('be', 'I/Chandler Bing', None, 's01_e16_c11_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u012_e4",
+          "tuples": [
+            "('be', 'She/Nina Bookbinder', 'no threat', 's01_e16_c11_u012')",
+            "('be', 'She/Nina Bookbinder', 'to herself', 's01_e16_c11_u012')",
+            "('be', 'She/Nina Bookbinder', 'to others', 's01_e16_c11_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u013",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u013_e1",
+          "tuples": [
+            "('see', 'I/Mr. Douglas', None, 's01_e16_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u013_e2",
+          "tuples": [
+            "('guess', 'I/Mr. Douglas', None, 's01_e16_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u013_e3",
+          "tuples": [
+            "('know', 'you/people', \"what's going on inside a person's head\", 's01_e16_c11_u013')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u013_e4",
+          "tuples": [
+            "('go on', 'what', \"inside a person's head\", 's01_e16_c11_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e16_c11_u014",
+      "events": [
+        {
+          "event_id": "s01_e16_c11_u014_e1",
+          "tuples": [
+            "('guess', 'I/Chandler Bing', \"that's why they call it psychology, sir\", 's01_e16_c11_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u014_e2",
+          "tuples": [
+            "('be', 'that', 'why', 's01_e16_c11_u014')"
+          ]
+        },
+        {
+          "event_id": "s01_e16_c11_u014_e3",
+          "tuples": [
+            "('call', 'they/people', 'it', 's01_e16_c11_u014')"
+          ]
+        }
+      ]
+    }
+  ]
+}

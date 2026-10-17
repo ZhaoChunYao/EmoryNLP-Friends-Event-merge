@@ -1,0 +1,235 @@
+event_id: s01_e03_c05_u001_e1
+utterance_id: s01_e03_c05_u001
+  tuple: ('let', 'you/Ross Geller', 'it', 's01_e03_c05_u001')
+
+event_id: s01_e03_c05_u002_e1
+utterance_id: s01_e03_c05_u002
+  tuple: ('know', 'you/Joey Tribbiani', 'Chi Chi', 's01_e03_c05_u002')
+
+event_id: s01_e03_c05_u004_e1
+utterance_id: s01_e03_c05_u004
+  tuple: ('promise', 'we/#ALL#', None, 's01_e03_c05_u004')
+
+event_id: s01_e03_c05_u004_e2
+utterance_id: s01_e03_c05_u004
+  tuple: ('be', 'we/#ALL#', 'good', 's01_e03_c05_u004')
+
+event_id: s01_e03_c05_u005_e1
+utterance_id: s01_e03_c05_u005
+  tuple: ('promise', 'you/Chandler Bing', 'to be good', 's01_e03_c05_u005')
+  tuple: ('be', 'you/Chandler Bing', 'good', 's01_e03_c05_u005')
+
+event_id: s01_e03_c05_u007_e1
+utterance_id: s01_e03_c05_u007
+  tuple: ('come', 'you/Chandler Bing', 'in', 's01_e03_c05_u007')
+
+event_id: s01_e03_c05_u007_e2
+utterance_id: s01_e03_c05_u007
+  tuple: ('stay', 'your filter-tipped little buddy', 'outside', 's01_e03_c05_u007')
+
+event_id: s01_e03_c05_u011_e1
+utterance_id: s01_e03_c05_u011
+  tuple: ('thank', 'we/(the bank)', 'you', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e2
+utterance_id: s01_e03_c05_u011
+  tuple: ('call', 'you/Phoebe Buffay', 'attention to our error', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e3
+utterance_id: s01_e03_c05_u011
+  tuple: ('credit', 'we/(the bank)', 'your account', 's01_e03_c05_u011')
+  tuple: ('credit', 'we/(the bank)', 'with five hundred dollars', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e4
+utterance_id: s01_e03_c05_u011
+  tuple: ('be', 'we/(the bank)', 'sorry for the inconvenience', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e5
+utterance_id: s01_e03_c05_u011
+  tuple: ('hope', 'we/(the bank)', 'you will accept this football phone as our free gift', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e6
+utterance_id: s01_e03_c05_u011
+  tuple: ('accept', 'you/Phoebe Buffay', 'this football phone', 's01_e03_c05_u011')
+  tuple: ('accept', 'you/Phoebe Buffay', 'as our free gift', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e7
+utterance_id: s01_e03_c05_u011
+  tuple: ('believe', 'you/#ALL#', 'this', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e8
+utterance_id: s01_e03_c05_u011
+  tuple: ('have', 'I/Phoebe Buffay', 'a thousand dollars', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u011_e9
+utterance_id: s01_e03_c05_u011
+  tuple: ('have', 'I/Phoebe Buffay', 'a football phone', 's01_e03_c05_u011')
+
+event_id: s01_e03_c05_u012_e1
+utterance_id: s01_e03_c05_u012
+  tuple: ('be', 'this', 'what bank', 's01_e03_c05_u012')
+
+event_id: s01_e03_c05_u014_e1
+utterance_id: s01_e03_c05_u014
+  tuple: ('be', 'it', 'him', 's01_e03_c05_u014')
+
+event_id: s01_e03_c05_u014_e2
+utterance_id: s01_e03_c05_u014
+  tuple: ('be', 'it', 'who', 's01_e03_c05_u014')
+
+event_id: s01_e03_c05_u016_e1
+utterance_id: s01_e03_c05_u016
+  tuple: ('be', 'he/Alan', 'here', 's01_e03_c05_u016')
+
+event_id: s01_e03_c05_u018_e1
+utterance_id: s01_e03_c05_u018
+  tuple: ('be', 'you/#ALL#', 'good', 's01_e03_c05_u018')
+
+event_id: s01_e03_c05_u018_e2
+utterance_id: s01_e03_c05_u018
+  tuple: ('remember', 'you/#ALL#', 'how much you all like me', 's01_e03_c05_u018')
+
+event_id: s01_e03_c05_u018_e3
+utterance_id: s01_e03_c05_u018
+  tuple: ('like', 'you all/#ALL#', 'me', 's01_e03_c05_u018')
+
+event_id: s01_e03_c05_u020_e1
+utterance_id: s01_e03_c05_u020
+  tuple: ('be', 'this', 'everybody', 's01_e03_c05_u020')
+
+event_id: s01_e03_c05_u020_e2
+utterance_id: s01_e03_c05_u020
+  tuple: ('be', 'this', 'Alan', 's01_e03_c05_u020')
+
+event_id: s01_e03_c05_u023_e1
+utterance_id: s01_e03_c05_u023
+  tuple: ('hear', 'I/Alan', 'so much', 's01_e03_c05_u023')
+  tuple: ('hear', 'I/Alan', 'about all you guys', 's01_e03_c05_u023')
+
+event_id: s01_e03_c05_u026_e1
+utterance_id: s01_e03_c05_u026
+  tuple: ('call', 'I/Monica Geller', 'you', 's01_e03_c05_u026')
+
+event_id: s01_e03_c05_u026_e2
+utterance_id: s01_e03_c05_u026
+  tuple: ('let', 'us/#ALL#', 'the Alan-bashing begin', 's01_e03_c05_u026')
+
+event_id: s01_e03_c05_u026_e3
+utterance_id: s01_e03_c05_u026
+  tuple: ('begin', 'the Alan-bashing', None, 's01_e03_c05_u026')
+
+event_id: s01_e03_c05_u026_e4
+utterance_id: s01_e03_c05_u026
+  tuple: ('take', 'who', 'the first shot', 's01_e03_c05_u026')
+
+event_id: s01_e03_c05_u029_e1
+utterance_id: s01_e03_c05_u029
+  tuple: ('go', 'I/Ross Geller', None, 's01_e03_c05_u029')
+
+event_id: s01_e03_c05_u029_e2
+utterance_id: s01_e03_c05_u029
+  tuple: ('start', 'us/#ALL#', 'with the way he kept picking at-', 's01_e03_c05_u029')
+
+event_id: s01_e03_c05_u029_e3
+utterance_id: s01_e03_c05_u029
+  tuple: ('pick', 'he/Alan', None, 's01_e03_c05_u029')
+
+event_id: s01_e03_c05_u029_e4
+utterance_id: s01_e03_c05_u029
+  tuple: ('be', 'I/Ross Geller', 'sorry', 's01_e03_c05_u029')
+
+event_id: s01_e03_c05_u029_e5
+utterance_id: s01_e03_c05_u029
+  tuple: ('do', 'I/Ross Geller', 'this', 's01_e03_c05_u029')
+
+event_id: s01_e03_c05_u030_e1
+utterance_id: s01_e03_c05_u030
+  tuple: ('love', '#ALL#', 'him', 's01_e03_c05_u030')
+
+event_id: s01_e03_c05_u030_e2
+utterance_id: s01_e03_c05_u030
+  tuple: ('be', 'he/Alan', 'great', 's01_e03_c05_u030')
+
+event_id: s01_e03_c05_u031_e1
+utterance_id: s01_e03_c05_u031
+  tuple: ('talk', 'we/#ALL#', "about someone that I'm going out with", 's01_e03_c05_u031')
+
+event_id: s01_e03_c05_u031_e2
+utterance_id: s01_e03_c05_u031
+  tuple: ('go', 'I/Monica Geller', 'out with someone', 's01_e03_c05_u031')
+
+event_id: s01_e03_c05_u033_e1
+utterance_id: s01_e03_c05_u033
+  tuple: ('notice', 'you/Rachel Green', None, 's01_e03_c05_u033')
+
+event_id: s01_e03_c05_u035_e1
+utterance_id: s01_e03_c05_u035
+  tuple: ('know', 'you/Joey Tribbiani', 'what was great', 's01_e03_c05_u035')
+
+event_id: s01_e03_c05_u035_e2
+utterance_id: s01_e03_c05_u035
+  tuple: ('be', 'what', 'great', 's01_e03_c05_u035')
+
+event_id: s01_e03_c05_u035_e3
+utterance_id: s01_e03_c05_u035
+  tuple: ('be', 'his smile', 'kinda crooked', 's01_e03_c05_u035')
+
+event_id: s01_e03_c05_u038_e1
+utterance_id: s01_e03_c05_u038
+  tuple: ('be', 'there', 'a crooked man', 's01_e03_c05_u038')
+
+event_id: s01_e03_c05_u038_e2
+utterance_id: s01_e03_c05_u038
+  tuple: ('have', 'who/(the crooked man)', 'a crooked smile', 's01_e03_c05_u038')
+
+event_id: s01_e03_c05_u038_e3
+utterance_id: s01_e03_c05_u038
+  tuple: ('live', 'who/(the crooked man)', 'in a shoe', 's01_e03_c05_u038')
+
+event_id: s01_e03_c05_u040_e1
+utterance_id: s01_e03_c05_u040
+  tuple: ('think', 'I/Ross Geller', 'Alan will become the yardstick against which all future boyfriends will be measured', 's01_e03_c05_u040')
+
+event_id: s01_e03_c05_u040_e2
+utterance_id: s01_e03_c05_u040
+  tuple: ('become', 'Alan', 'the yardstick', 's01_e03_c05_u040')
+
+event_id: s01_e03_c05_u040_e3
+utterance_id: s01_e03_c05_u040
+  tuple: ('measure', 'all future boyfriends', 'against the yardstick', 's01_e03_c05_u040')
+
+event_id: s01_e03_c05_u041_e1
+utterance_id: s01_e03_c05_u041
+  tuple: ('think', 'I/Rachel Green', 'this could be it', 's01_e03_c05_u041')
+
+event_id: s01_e03_c05_u041_e2
+utterance_id: s01_e03_c05_u041
+  tuple: ('be', 'this', 'it', 's01_e03_c05_u041')
+
+event_id: s01_e03_c05_u043_e1
+utterance_id: s01_e03_c05_u043
+  tuple: ('marry', 'I/Chandler Bing', 'him', 's01_e03_c05_u043')
+  tuple: ('marry', 'I/Chandler Bing', 'for his David Hasselhoff impression', 's01_e03_c05_u043')
+
+event_id: s01_e03_c05_u043_e2
+utterance_id: s01_e03_c05_u043
+  tuple: ('know', 'you/#ALL#', 'I am going to be doing that at parties', 's01_e03_c05_u043')
+
+event_id: s01_e03_c05_u043_e3
+utterance_id: s01_e03_c05_u043
+  tuple: ('do', 'I/Chandler Bing', 'that', 's01_e03_c05_u043')
+  tuple: ('do', 'I/Chandler Bing', 'at parties', 's01_e03_c05_u043')
+
+event_id: s01_e03_c05_u044_e1
+utterance_id: s01_e03_c05_u044
+  tuple: ('know', 'you/#ALL#', 'what I like most about him', 's01_e03_c05_u044')
+
+event_id: s01_e03_c05_u044_e2
+utterance_id: s01_e03_c05_u044
+  tuple: ('like', 'I/Ross Geller', 'about him', 's01_e03_c05_u044')
+
+event_id: s01_e03_c05_u046_e1
+utterance_id: s01_e03_c05_u046
+  tuple: ('make', 'he/Alan', 'me feel about myself', 's01_e03_c05_u046')
+  tuple: ('feel', 'me/Ross Geller', 'about myself', 's01_e03_c05_u046')
+

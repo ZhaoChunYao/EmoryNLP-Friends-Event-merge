@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "She is heading to a coworkers’ birthday party and urges her boss to come hang out and let coworkers see he’s a great guy, showing social engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She is straightforward about why coworkers didn’t invite him and offers supportive advice to attend and repair relations."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization/efficiency or of carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She asks that they not go together because she doesn’t want to be seen as the geek who invited her boss, indicating concern about others’ judgment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/creativity or of dogmatic rigidity in this exchange."
+  }
+}

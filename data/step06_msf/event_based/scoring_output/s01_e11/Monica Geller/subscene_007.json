@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Says hi and asks a couple of situational questions, but keeps the exchange brief without notably outgoing behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "She planned to drop off items for the hospitalized person and answers questions directly, indicating consideration and straightforwardness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She had planned to drop off the items while on her way somewhere else, showing organized, efficient planning."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional reactivity; she calmly says she doesn't know the patient's current status."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Her questions are practical and situational, with no indication of interest in new ideas or experiences."
+  }
+}

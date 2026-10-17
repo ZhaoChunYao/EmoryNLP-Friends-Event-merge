@@ -1,0 +1,25 @@
+Episode: s01_e23
+Scene: s01_e23_c06
+Subscene index for speaker: 008
+Main speaker: TargetSpeaker
+UID span: s01_e23_c06_u001 → s01_e23_c06_u010
+Peak window: 0 → 4
+
+Dialogue:
+  [s01_e23_c06_u001]
+  1. TargetSpeaker says Speaker_01 should breathe during the childbirth.
+  [s01_e23_c06_u002] Speaker_02: Breathe.
+  [s01_e23_c06_u003] TargetSpeaker: Breathe.
+  [s01_e23_c06_u004] Speaker_02: Breathe.
+  [s01_e23_c06_u005] TargetSpeaker: Breathe.
+  [s01_e23_c06_u006] Speaker_02: Breathe.
+  [s01_e23_c06_u007]
+  1. Speaker_01 says TargetSpeaker and Speaker_02 are going to kill Speaker_01.
+  [s01_e23_c06_u008] TargetSpeaker: 15 more seconds, 14, 13, 12...
+  [s01_e23_c06_u009]
+  1. Speaker_01 says TargetSpeaker should count faster while timing the contractions.
+  [s01_e23_c06_u010]
+  1. Speaker_02 says the childbirth is going to be ok.
+  2. Speaker_02 says Speaker_01 should remember that TargetSpeaker, Speaker_02, and Speaker_01 are going through the childbirth for Speaker_03, whom Speaker_02 is calling Jordie.
+  3. Speaker_02 says TargetSpeaker, Speaker_02, and Speaker_01 are going through the childbirth for Speaker_03, whom Speaker_02 calls Jordie.
+  4. Speaker_02 says Speaker_01 should keep focusing on Speaker_03, whom Speaker_02 calls Jordie, during the childbirth.

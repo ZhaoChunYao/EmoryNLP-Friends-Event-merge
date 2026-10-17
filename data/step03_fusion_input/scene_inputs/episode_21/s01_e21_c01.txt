@@ -1,0 +1,96 @@
+('get', 'someone', 'a hold of your credit card number', 's01_e21_c01_u001')
+[s01_e21_c01_u001] Joey Tribbiani: How could someone get a hold of your credit card number?
+
+('have', 'I/(Monica Geller)', 'no idea', 's01_e21_c01_u002')
+[s01_e21_c01_u002] Monica Geller: I have no idea. But look how much they spent!
+
+('look', 'you/(everyone)', 'how much they spent', 's01_e21_c01_u002')
+[s01_e21_c01_u002] Monica Geller: I have no idea. But look how much they spent!
+
+('spend', 'they/(thief)', 'how much', 's01_e21_c01_u002')
+[s01_e21_c01_u002] Monica Geller: I have no idea. But look how much they spent!
+
+('calm', 'you/(Monica Geller)', 'down', 's01_e21_c01_u003')
+[s01_e21_c01_u003] Rachel Green: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
+
+('say', 'The credit card people', 'that you only have to pay for the stuff that you bought', 's01_e21_c01_u003')
+[s01_e21_c01_u003] Rachel Green: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
+
+('pay', 'you/(Monica Geller)', 'for the stuff that you bought', 's01_e21_c01_u003')
+[s01_e21_c01_u003] Rachel Green: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
+
+('buy', 'you/(Monica Geller)', 'the stuff', 's01_e21_c01_u003')
+[s01_e21_c01_u003] Rachel Green: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
+
+('know', 'I/(Monica Geller)', None, 's01_e21_c01_u004')
+[s01_e21_c01_u004] Monica Geller: I know. It's just such reckless spending.
+
+('be', 'It/(the spending)', 'just such reckless spending', 's01_e21_c01_u004')
+[s01_e21_c01_u004] Monica Geller: I know. It's just such reckless spending.
+
+('think', 'I/(Ross Geller)', "when someone steals your credit card, they've kind of already thrown caution to the wind", 's01_e21_c01_u005')
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+
+('steal', 'someone', 'your credit card', 's01_e21_c01_u005')
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+
+('throw', 'they/(thief)', 'caution', 's01_e21_c01_u005')
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+
+('throw', 'they/(thief)', 'to the wind', 's01_e21_c01_u005')
+[s01_e21_c01_u005] Ross Geller: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+
+('spend', 'they/(thief)', '$69.95', 's01_e21_c01_u006')
+[s01_e21_c01_u006] Chandler Bing: Wow, what a geek. They spent $69.95 on a Wonder Mop.
+
+('spend', 'they/(thief)', 'on a Wonder Mop', 's01_e21_c01_u006')
+[s01_e21_c01_u006] Chandler Bing: Wow, what a geek. They spent $69.95 on a Wonder Mop.
+
+('be', 'That/(the Wonder Mop purchase)', 'me', 's01_e21_c01_u007')
+[s01_e21_c01_u007] Monica Geller: That's me.
+
+('do', 'he/(Marcel)', 'it', 's01_e21_c01_u008')
+[s01_e21_c01_u008] Phoebe Buffay: Oh! The yuk! Ross, he's doing it again!
+
+('stop', 'Marcel', 'humping the lamp', 's01_e21_c01_u009')
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+
+('hump', 'Marcel', 'the lamp', 's01_e21_c01_u009')
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+
+('come', 'Marcel', 'back', 's01_e21_c01_u009')
+[s01_e21_c01_u009] Ross Geller: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-
+
+('get', 'I/(Rachel Green)', 'him', 's01_e21_c01_u010')
+[s01_e21_c01_u010] Rachel Green: Oh no, not in my room! I'll get him.
+
+('do', 'you/(Ross Geller)', 'something about the humping', 's01_e21_c01_u011')
+[s01_e21_c01_u011] Monica Geller: Ross, you've got to do something about the humping.
+
+('be', 'It/(the humping)', 'just a phase', 's01_e21_c01_u012')
+[s01_e21_c01_u012] Ross Geller: What? It's, it's just a phase.
+
+('be', 'that/(it is just a phase)', 'what we said about Joey', 's01_e21_c01_u013')
+[s01_e21_c01_u013] Chandler Bing: Well, that's what we said about Joey...
+
+('say', 'we/(friends)', 'what', 's01_e21_c01_u013')
+[s01_e21_c01_u013] Chandler Bing: Well, that's what we said about Joey...
+
+('say', 'we/(friends)', 'about Joey', 's01_e21_c01_u013')
+[s01_e21_c01_u013] Chandler Bing: Well, that's what we said about Joey...
+
+('relax', 'you all', None, 's01_e21_c01_u014')
+[s01_e21_c01_u014] Ross Geller: Would you all relax? It's not that big a deal.
+
+('be', 'It/(the humping)', 'not that big a deal', 's01_e21_c01_u014')
+[s01_e21_c01_u014] Ross Geller: Would you all relax? It's not that big a deal.
+
+('let', 'we/(friends)', 'say my Curious George doll is no longer curious', 's01_e21_c01_u017')
+[s01_e21_c01_u017] Rachel Green: Let's just say my Curious George doll is no longer curious.
+
+('say', 'we/(friends)', 'my Curious George doll is no longer curious', 's01_e21_c01_u017')
+[s01_e21_c01_u017] Rachel Green: Let's just say my Curious George doll is no longer curious.
+
+('be', 'my Curious George doll', 'no longer curious', 's01_e21_c01_u017')
+[s01_e21_c01_u017] Rachel Green: Let's just say my Curious George doll is no longer curious.
+

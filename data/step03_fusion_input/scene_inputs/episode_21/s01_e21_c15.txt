@@ -1,0 +1,21 @@
+('be', 'I/Actor', 'a glove', 's01_e21_c15_u001')
+[s01_e21_c15_u001] Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...
+
+('be', 'I/Actor', 'upon that hand', 's01_e21_c15_u001')
+[s01_e21_c15_u001] Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...
+
+('touch', 'I/Actor', 'thy cheek', 's01_e21_c15_u001')
+[s01_e21_c15_u001] Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...
+
+('be', "That/(Actor's reading)", 'fine', 's01_e21_c15_u002')
+[s01_e21_c15_u002] Casting Director No. 1: That's fine, thank you.
+
+('thank', 'I/Casting Director No. 1', 'you', 's01_e21_c15_u002')
+[s01_e21_c15_u002] Casting Director No. 1: That's fine, thank you.
+
+('read', 'I/Joey Tribbiani', None, 's01_e21_c15_u004')
+[s01_e21_c15_u004] Joey Tribbiani: Hi, uh, I'll be reading for the role of Mercutio.
+
+('read', 'I/Joey Tribbiani', 'for the role of Mercutio', 's01_e21_c15_u004')
+[s01_e21_c15_u004] Joey Tribbiani: Hi, uh, I'll be reading for the role of Mercutio.
+

@@ -1,0 +1,298 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "Chandler",
+      "object": "here",
+      "uid": "s01_e11_c06_u001"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e11_c06_u004"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ross Geller",
+      "object": "we don't need to tell Chandler",
+      "uid": "s01_e11_c06_u004"
+    },
+    {
+      "verb": "need",
+      "subject": "we/Ross Geller+Joey Tribbiani",
+      "object": "to tell Chandler",
+      "uid": "s01_e11_c06_u004"
+    },
+    {
+      "verb": "tell",
+      "subject": "we/Ross Geller+Joey Tribbiani",
+      "object": "Chandler Bing",
+      "uid": "s01_e11_c06_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(last night)",
+      "object": "just a kiss",
+      "uid": "s01_e11_c06_u004"
+    },
+    {
+      "verb": "break",
+      "subject": "you/Ross Geller",
+      "object": "the code",
+      "uid": "s01_e11_c06_u007"
+    },
+    {
+      "verb": "kiss",
+      "subject": "you/(generic)",
+      "object": "your friend's mom",
+      "uid": "s01_e11_c06_u009"
+    },
+    {
+      "verb": "be",
+      "subject": "Sisters",
+      "object": "okay",
+      "uid": "s01_e11_c06_u009"
+    },
+    {
+      "verb": "do",
+      "subject": "you guys/Ross Geller+Joey Tribbiani",
+      "object": "out here",
+      "uid": "s01_e11_c06_u011"
+    },
+    {
+      "verb": "discuss",
+      "subject": "Joey and I/Joey Tribbiani+Ross Geller",
+      "object": "getting in an early morning racquetball game",
+      "uid": "s01_e11_c06_u012"
+    },
+    {
+      "verb": "get",
+      "subject": "Joey and I/Joey Tribbiani+Ross Geller",
+      "object": "in an early morning racquetball game",
+      "uid": "s01_e11_c06_u012"
+    },
+    {
+      "verb": "oversleep",
+      "subject": "somebody",
+      "object": null,
+      "uid": "s01_e11_c06_u012"
+    },
+    {
+      "verb": "have",
+      "subject": "you/Ross Geller",
+      "object": "your racket",
+      "uid": "s01_e11_c06_u013"
+    },
+    {
+      "verb": "restring",
+      "subject": "it/(Ross's racket)",
+      "object": null,
+      "uid": "s01_e11_c06_u014"
+    },
+    {
+      "verb": "suppose",
+      "subject": "somebody",
+      "object": "to bring me one",
+      "uid": "s01_e11_c06_u014"
+    },
+    {
+      "verb": "bring",
+      "subject": "somebody",
+      "object": "one",
+      "uid": "s01_e11_c06_u014"
+    },
+    {
+      "verb": "call",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e11_c06_u015"
+    },
+    {
+      "verb": "leave",
+      "subject": "you/Ross Geller",
+      "object": "your grip size",
+      "uid": "s01_e11_c06_u015"
+    },
+    {
+      "verb": "spend",
+      "subject": "you guys/Ross Geller+Joey Tribbiani",
+      "object": "waaaay too much time together",
+      "uid": "s01_e11_c06_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Ross Geller",
+      "object": "scum",
+      "uid": "s01_e11_c06_u017"
+    },
+    {
+      "verb": "let",
+      "subject": "you/Ross Geller",
+      "object": "this happen",
+      "uid": "s01_e11_c06_u018"
+    },
+    {
+      "verb": "happen",
+      "subject": "this/(the kiss incident)",
+      "object": null,
+      "uid": "s01_e11_c06_u018"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Ross Geller",
+      "object": null,
+      "uid": "s01_e11_c06_u019"
+    },
+    {
+      "verb": "be like",
+      "subject": "it/(the situation)",
+      "object": "she's a regular mom",
+      "uid": "s01_e11_c06_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Chandler's mom",
+      "object": "a regular mom",
+      "uid": "s01_e11_c06_u019"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Chandler's mom",
+      "object": "sexy",
+      "uid": "s01_e11_c06_u019"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Ross Geller",
+      "object": "my mom is sexy",
+      "uid": "s01_e11_c06_u020"
+    },
+    {
+      "verb": "be",
+      "subject": "my mom/Gloria Tribbiani",
+      "object": "sexy",
+      "uid": "s01_e11_c06_u020"
+    },
+    {
+      "verb": "have",
+      "subject": "I/Joey Tribbiani",
+      "object": "you know that Gloria Tribbiani was a handsome woman in her day",
+      "uid": "s01_e11_c06_u022"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Ross Geller",
+      "object": "that Gloria Tribbiani was a handsome woman in her day",
+      "uid": "s01_e11_c06_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "Gloria Tribbiani",
+      "object": "a handsome woman in her day",
+      "uid": "s01_e11_c06_u022"
+    },
+    {
+      "verb": "think",
+      "subject": "you/Ross Geller",
+      "object": "it's easy giving birth to seven children",
+      "uid": "s01_e11_c06_u022"
+    },
+    {
+      "verb": "be",
+      "subject": "it/(giving birth to seven children)",
+      "object": "easy",
+      "uid": "s01_e11_c06_u022"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Ross Geller",
+      "object": "we're getting into a weird area here",
+      "uid": "s01_e11_c06_u023"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Ross Geller+Joey Tribbiani",
+      "object": "into a weird area",
+      "uid": "s01_e11_c06_u023"
+    },
+    {
+      "verb": "forget",
+      "subject": "he/Ross Geller",
+      "object": "to leave his grip size",
+      "uid": "s01_e11_c06_u029"
+    },
+    {
+      "verb": "leave",
+      "subject": "he/Ross Geller",
+      "object": "his grip size",
+      "uid": "s01_e11_c06_u029"
+    },
+    {
+      "verb": "get",
+      "subject": "he/Joey Tribbiani",
+      "object": "the goggles",
+      "uid": "s01_e11_c06_u030"
+    },
+    {
+      "verb": "sound",
+      "subject": "it",
+      "object": "like you two have issues",
+      "uid": "s01_e11_c06_u031"
+    },
+    {
+      "verb": "have",
+      "subject": "you two/Ross Geller+Joey Tribbiani",
+      "object": "issues",
+      "uid": "s01_e11_c06_u031"
+    },
+    {
+      "verb": "wait",
+      "subject": "they/Rachel Green+Paolo",
+      "object": "for me to do this",
+      "uid": "s01_e11_c06_u036"
+    },
+    {
+      "verb": "do",
+      "subject": "me/Ross Geller",
+      "object": "this",
+      "uid": "s01_e11_c06_u036"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Ross Geller",
+      "object": "him/Chandler Bing",
+      "uid": "s01_e11_c06_u038"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Ross Geller",
+      "object": "him/Chandler Bing",
+      "uid": "s01_e11_c06_u039"
+    },
+    {
+      "verb": "tell",
+      "subject": "you/Ross Geller",
+      "object": null,
+      "uid": "s01_e11_c06_u040"
+    },
+    {
+      "verb": "tell",
+      "subject": "his mother/Nora Bing",
+      "object": null,
+      "uid": "s01_e11_c06_u040"
+    },
+    {
+      "verb": "wear",
+      "subject": "he/Ross Geller",
+      "object": "a jockstrap",
+      "uid": "s01_e11_c06_u043"
+    },
+    {
+      "verb": "ask",
+      "subject": "I/Monica Geller",
+      "object": "what",
+      "uid": "s01_e11_c06_u044"
+    }
+  ]
+}

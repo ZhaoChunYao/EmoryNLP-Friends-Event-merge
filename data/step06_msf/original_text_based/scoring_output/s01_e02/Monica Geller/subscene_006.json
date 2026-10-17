@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Makes only brief remarks and does not display outgoing or energetic engagement (e.g., “TargetSpeaker just... can't do it.”)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of warmth or hostility; the comment “Wow. That is not a happy hi.” is observational, not antagonistic or especially accommodating."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Refusal to do the task (“just... can't do it”) doesn’t show organization or carelessness; no planning/efficiency behavior is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "“TargetSpeaker just... can't do it.” suggests avoidance/squeamishness and discomfort, indicating sensitivity or nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity/novelty-seeking or dogmatism/caution beyond the brief refusal."
+  }
+}

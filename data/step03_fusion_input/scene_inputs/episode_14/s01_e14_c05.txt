@@ -1,0 +1,129 @@
+('be', 'Roger', 'creepy', 's01_e14_c05_u001')
+[s01_e14_c05_u001] Rachel Green: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.
+
+('be', 'he/(Roger)', 'nothing', 's01_e14_c05_u001')
+[s01_e14_c05_u001] Rachel Green: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.
+
+('compare', 'he/(Roger)', 'to Pete Carney', 's01_e14_c05_u001')
+[s01_e14_c05_u001] Rachel Green: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.
+
+('be', 'one', 'Pete Carney', 's01_e14_c05_u002')
+[s01_e14_c05_u002] Monica Geller: Which one was Pete Carney?
+
+('remember', 'you/(Monica Geller)', 'that guy who used to cry every time we had sex', 's01_e14_c05_u003')
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. "Was it good for you?"
+
+('cry', 'who/(Pete the Weeper)', None, 's01_e14_c05_u003')
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. "Was it good for you?"
+
+('have', 'we/(Rachel Green and Pete the Weeper)', 'sex', 's01_e14_c05_u003')
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. "Was it good for you?"
+
+('be', 'it/(sex)', 'good for you', 's01_e14_c05_u003')
+[s01_e14_c05_u003] Rachel Green: Pete the Weeper? Remember that guy who used to cry every time we had sex. "Was it good for you?"
+
+('take', 'I/(Monica Geller)', 'a little crying', 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('take', 'I/(Monica Geller)', 'over Howard-the-"I-win"-guy', 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('win', 'I/(Howard-the-"I-win"-guy)', None, 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('go out', 'I/(Monica Geller)', 'with the guy', 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('go out', 'I/(Monica Geller)', 'for two months', 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('get', 'I/(Monica Geller)', 'to win once', 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('win', 'I/(Monica Geller)', None, 's01_e14_c05_u004')
+[s01_e14_c05_u004] Monica Geller: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. "I win! I win!" I went out with the guy for two monthsI didn't get to win once.
+
+('end up', 'we/(Rachel Green and Monica Geller)', 'with these jerks', 's01_e14_c05_u005')
+[s01_e14_c05_u005] Rachel Green: How did we end up with these jerks? We're good people!
+
+('be', 'we/(Rachel Green and Monica Geller)', 'good people', 's01_e14_c05_u005')
+[s01_e14_c05_u005] Rachel Green: How did we end up with these jerks? We're good people!
+
+('know', 'I/(Monica Geller)', None, 's01_e14_c05_u006')
+[s01_e14_c05_u006] Monica Geller: I don't know. Maybe we're some kinda magnets.
+
+('be', 'we/(Rachel Green and Monica Geller)', 'some kinda magnets', 's01_e14_c05_u006')
+[s01_e14_c05_u006] Monica Geller: I don't know. Maybe we're some kinda magnets.
+
+('know', 'I/(Phoebe Buffay)', 'I am', 's01_e14_c05_u007')
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+
+('be', 'I/(Phoebe Buffay)', None, 's01_e14_c05_u007')
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+
+('be', 'That/(being some kind of magnet)', "why I can't wear a digital watch", 's01_e14_c05_u007')
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+
+('wear', 'I/(Phoebe Buffay)', 'a digital watch', 's01_e14_c05_u007')
+[s01_e14_c05_u007] Phoebe Buffay: I know I am. That's why I can't wear a digital watch.
+
+('be', 'There', 'more beer', 's01_e14_c05_u008')
+[s01_e14_c05_u008] Monica Geller: There's more beer, right?
+
+('know', 'you/(Rachel Green and Monica Geller)', 'my friend Abby who shaves her head', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('shave', 'who/(Abby)', 'her head', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('say', 'she/(Abby)', 'that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('want', 'you/(Rachel Green and Monica Geller)', 'to break the bad boyfriend cycle', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('break', 'you/(Rachel Green and Monica Geller)', 'the bad boyfriend cycle', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('do', 'you/(Rachel Green and Monica Geller)', 'a cleansing ritual', 's01_e14_c05_u009')
+[s01_e14_c05_u009] Phoebe Buffay: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.
+
+('be', 'this woman/(Abby)', 'voluntarily bald', 's01_e14_c05_u010')
+[s01_e14_c05_u010] Rachel Green: Pheebes, this woman is voluntarily bald.
+
+('do', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', 'it', 's01_e14_c05_u011')
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+
+('be', 'It/(the day)', "Valentine's Day", 's01_e14_c05_u011')
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+
+('be', 'It/(tomorrow night for the ritual)', 'perfect', 's01_e14_c05_u011')
+[s01_e14_c05_u011] Phoebe Buffay: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.
+
+('burn', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', 'the stuff they gave us', 's01_e14_c05_u013')
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+
+('give', 'they/(ex-boyfriends)', 'the stuff', 's01_e14_c05_u013')
+[s01_e14_c05_u013] Phoebe Buffay: Ok. We can, um, we can burn the stuff they gave us.
+
+('chant', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', None, 's01_e14_c05_u015')
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+
+('dance', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', None, 's01_e14_c05_u015')
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+
+('chant', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', 'with sticks', 's01_e14_c05_u015')
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+
+('dance', 'we/(Phoebe Buffay, Rachel Green, and Monica Geller)', 'with sticks', 's01_e14_c05_u015')
+[s01_e14_c05_u015] Phoebe Buffay: Or...or we can chant and dance around naked, you know, with sticks.
+
+('be', 'Burning', 'good', 's01_e14_c05_u016')
+[s01_e14_c05_u016] Monica Geller: Burning's good.
+
+('get', 'I/(Rachel Green)', 'stuff to burn', 's01_e14_c05_u017')
+[s01_e14_c05_u017] Rachel Green: Burning's good. Yeah, I got stuff to burn.
+
+('burn', 'I/(Rachel Green)', 'stuff', 's01_e14_c05_u017')
+[s01_e14_c05_u017] Rachel Green: Burning's good. Yeah, I got stuff to burn.
+

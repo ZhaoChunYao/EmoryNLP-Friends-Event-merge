@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Speaker_02 praises TargetSpeaker’s Stevie Wonder impression from last night, indicating outgoing, performance-oriented behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker firmly directs others to deliver weekly numbers by nine, plans to assign them work, and declares they will be working this weekend, showing a demanding, low-generosity approach."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker sets a precise deadline (by nine o’clock), plans assignments, and organizes weekend work, reflecting efficiency and organization."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker issues clear directives without hesitation or signs of anxiety, suggesting confidence and emotional stability."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Doing a Stevie Wonder impression suggests playful creativity and willingness to try expressive, inventive behavior."
+  }
+}

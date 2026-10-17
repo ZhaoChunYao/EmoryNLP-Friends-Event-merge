@@ -1,0 +1,35 @@
+event_id: s01_e04_c12_u003_e1
+utterance_id: s01_e04_c12_u003
+  tuple: ('nap', 'they/(unknown)', None, 's01_e04_c12_u003')
+
+event_id: s01_e04_c12_u004_e1
+utterance_id: s01_e04_c12_u004
+  tuple: ('have', 'they/(unknown)', 'sex', 's01_e04_c12_u004')
+
+event_id: s01_e04_c12_u005_e1
+utterance_id: s01_e04_c12_u005
+  tuple: ('shut up', 'you/(Rachel Green)', None, 's01_e04_c12_u005')
+
+event_id: s01_e04_c12_u006_e1
+utterance_id: s01_e04_c12_u006
+  tuple: ('think', 'you/(Monica Geller)', 'what George is like', 's01_e04_c12_u006')
+  tuple: ('be', 'George', 'like', 's01_e04_c12_u006')
+
+event_id: s01_e04_c12_u007_e1
+utterance_id: s01_e04_c12_u007
+  tuple: ('think', 'I/(Monica Geller)', 'he is shy', 's01_e04_c12_u007')
+  tuple: ('be', 'he/(George)', 'shy', 's01_e04_c12_u007')
+
+event_id: s01_e04_c12_u009_e1
+utterance_id: s01_e04_c12_u009
+  tuple: ('think', 'I/(Monica Geller)', 'you have to draw him out', 's01_e04_c12_u009')
+
+event_id: s01_e04_c12_u009_e2
+utterance_id: s01_e04_c12_u009
+  tuple: ('draw', 'you/(Rachel Green)', 'him out', 's01_e04_c12_u009')
+  tuple: ('do', 'you/(Rachel Green)', None, 's01_e04_c12_u009')
+
+event_id: s01_e04_c12_u009_e3
+utterance_id: s01_e04_c12_u009
+  tuple: ('be', 'he/(George)', 'a preppy animal', 's01_e04_c12_u009')
+

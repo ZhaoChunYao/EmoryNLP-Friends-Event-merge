@@ -1,0 +1,86 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e07_c11_u001",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u001_e1",
+          "tuples": [
+            "('be', 'this', 'so nice', 's01_e07_c11_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c11_u002",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u002_e1",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a question', 's01_e07_c11_u002')",
+            "('be', 'it', 'not so much a question as more of a general wondering... ment', 's01_e07_c11_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c11_u004",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u004_e1",
+          "tuples": [
+            "('go', 'it', None, 's01_e07_c11_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c11_u004_e2",
+          "tuples": [
+            "('want', 'I/Ross Geller', 'for a while now', 's01_e07_c11_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c11_u006",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u006_e1",
+          "tuples": [
+            "('be', 'that', 'right', 's01_e07_c11_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c11_u007",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u007_e1",
+          "tuples": [
+            "('look', 'you/Ross Geller', 'at the little cat', 's01_e07_c11_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e07_c11_u010",
+      "events": [
+        {
+          "event_id": "s01_e07_c11_u010_e1",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'on top of the world', 's01_e07_c11_u010')",
+            "('look', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'down on creation', 's01_e07_c11_u010')",
+            "('find', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'the only explanation', 's01_e07_c11_u010')",
+            "('be', 'the only explanation I can find', \"the wonders I've found ever since\", 's01_e07_c11_u010')"
+          ]
+        },
+        {
+          "event_id": "s01_e07_c11_u010_e2",
+          "tuples": [
+            "('find', 'I/Joey Tribbiani, Monica Geller, Phoebe Buffay', 'the wonders', 's01_e07_c11_u010')"
+          ]
+        }
+      ]
+    }
+  ]
+}

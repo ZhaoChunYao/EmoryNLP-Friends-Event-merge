@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly voices strong opinions in a group, including a bold, sarcastic suggestion to 'call immigration,' showing socially assertive, outspoken behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Undercuts the couple by saying it was supposed to be a fling and should be over, expresses being 'physically nauseous' about their feelings, and suggests an extreme measure, showing unsupportive and antagonistic stance."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear actions indicating organization/efficiency or carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "States being 'physically nauseous' and asks what to do, indicating heightened emotional reactivity and distress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Takes a rigid view that the relationship should have remained a fling and rejects the deepening feelings, favoring an extreme, closed-off response."
+  }
+}

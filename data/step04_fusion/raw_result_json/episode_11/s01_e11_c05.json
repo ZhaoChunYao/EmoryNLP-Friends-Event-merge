@@ -1,0 +1,509 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e11_c05_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Nora Tyler Bing', 'famished', 's01_e11_c05_u001')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('want', 'I/Nora Tyler Bing', 'what', 's01_e11_c05_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('let', 'God', 'it', 's01_e11_c05_u002')",
+            "('be', 'it', 'Kung Pow Chicken', 's01_e11_c05_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('watch', 'you/Chandler Bing', 'the show', 's01_e11_c05_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'you/Chandler Bing', 'what', 's01_e11_c05_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'you need to come out of your shell just a little', 's01_e11_c05_u004')",
+            "('need', 'you/Nora Tyler Bing', 'to come out of your shell just a little', 's01_e11_c05_u004')",
+            "('come', 'you/Nora Tyler Bing', 'out of your shell', 's01_e11_c05_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'this', 'dive', 's01_e11_c05_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('pick', 'you/Chandler Bing', 'this place', 's01_e11_c05_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'you/(group)', None, 's01_e11_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('shut up', 'you/(group)', None, 's01_e11_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'it', 'fun', 's01_e11_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('give', 'you/Chandler Bing', 'a hug', 's01_e11_c05_u006')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('think', 'I/Nora Tyler Bing', 'we are ready for some tequila', 's01_e11_c05_u006')",
+            "('be', 'we/(Nora+group)', 'ready for some tequila', 's01_e11_c05_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/Chandler Bing', 'I am', 's01_e11_c05_u007')",
+            "('be', 'I/Chandler Bing', None, 's01_e11_c05_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('do', 'who', 'shots', 's01_e11_c05_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'in', 's01_e11_c05_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('go', 'you/Ross Geller', None, 's01_e11_c05_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'a shot drinking kinda guy', 's01_e11_c05_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'we/(Rachel+Paolo)', 'late', 's01_e11_c05_u014')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('lose', 'we/(Rachel+Paolo)', 'track of time', 's01_e11_c05_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('change', 'a man', None, 's01_e11_c05_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u017",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('want', 'anyone', 'me to appraise anything', 's01_e11_c05_u017')",
+            "('appraise', 'me/Ross Geller', 'anything', 's01_e11_c05_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('tell', 'I/Rachel Green', 'you/Nora Tyler Bing', 's01_e11_c05_u019')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('read', 'I/Rachel Green', \"everything you've ever written\", 's01_e11_c05_u019')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('write', 'you/Nora Tyler Bing', 'everything', 's01_e11_c05_u019')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('mean', 'I/Rachel Green', 'it', 's01_e11_c05_u019')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('read', 'I/Rachel Green', 'Euphoria at Midnight', 's01_e11_c05_u019')"
+          ]
+        },
+        {
+          "event_id": "e6",
+          "tuples": [
+            "('want', 'I/Rachel Green', 'to become a writer', 's01_e11_c05_u019')",
+            "('become', 'I/Rachel Green', 'a writer', 's01_e11_c05_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u020",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e11_c05_u020')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('do', 'I/Nora Tyler Bing', 'it', 's01_e11_c05_u020')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('start', 'you/Rachel Green', 'with half a dozen European cities', 's01_e11_c05_u020')",
+            "('throw', 'you/Rachel Green', 'in thirty euphemisms for male genitalia', 's01_e11_c05_u020')",
+            "('have', 'you/Rachel Green', 'a book', 's01_e11_c05_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u026",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'fine', 's01_e11_c05_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u027",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'what', 'with you/Ross Geller', 's01_e11_c05_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u029",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'the Italian Hand-Licker', 's01_e11_c05_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u030",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', \"the one he's licking\", 's01_e11_c05_u030')",
+            "('lick', 'he/Paolo', 'the one', 's01_e11_c05_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u031",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('suppose', 'she/Rachel Green', 'be with you/Ross Geller', 's01_e11_c05_u031')",
+            "('be', 'she/Rachel Green', 'with you/Ross Geller', 's01_e11_c05_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u032",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Nora Tyler Bing', 'good', 's01_e11_c05_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u033",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('listen', 'you/Ross Geller', 'to me/Nora Tyler Bing', 's01_e11_c05_u033')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('sell', 'I/Nora Tyler Bing', 'a hundred million copies of my books', 's01_e11_c05_u033')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('know', 'you/Ross Geller', 'why', 's01_e11_c05_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u034",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('show', 'her nipples', None, 's01_e11_c05_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u035",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/Nora Tyler Bing', 'how to write men that women fall in love with', 's01_e11_c05_u035')",
+            "('write', 'I/Nora Tyler Bing', 'men', 's01_e11_c05_u035')",
+            "('fall', 'women', 'in love with men', 's01_e11_c05_u035')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('believe', 'you/Ross Geller', 'me/Nora Tyler Bing', 's01_e11_c05_u035')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('sell', 'I/Nora Tyler Bing', 'a Paolo', 's01_e11_c05_u035')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('turn', 'people', 'three hundred twenty-five pages', 's01_e11_c05_u035')",
+            "('turn', 'people', 'for a Paolo', 's01_e11_c05_u035')"
+          ]
+        },
+        {
+          "event_id": "e5",
+          "tuples": [
+            "('be', 'the guy/Paolo', 'a secondary character', 's01_e11_c05_u035')"
+          ]
+        },
+        {
+          "event_id": "e6",
+          "tuples": [
+            "('kill', 'you/generic', 'complication', 's01_e11_c05_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u037",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'a hero', 's01_e11_c05_u037')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('know', 'you/Ross Geller', 'who our hero is', 's01_e11_c05_u037')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u038",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('show', 'his nipples', None, 's01_e11_c05_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u039",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'you/Ross Geller', 's01_e11_c05_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u041",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'you/Ross Geller', None, 's01_e11_c05_u041')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'smart', 's01_e11_c05_u041')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'sexy', 's01_e11_c05_u041')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u043",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'fine', 's01_e11_c05_u043')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e11_c05_u048",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('pee', 'I/Joey Tribbiani', 'in the street', 's01_e11_c05_u048')"
+          ]
+        }
+      ]
+    }
+  ]
+}

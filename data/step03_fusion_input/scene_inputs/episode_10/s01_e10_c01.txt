@@ -1,0 +1,93 @@
+('be', 'there', 'a somebody', 's01_e10_c01_u001')
+[s01_e10_c01_u001] Ross Geller: Guys? There's a somebody I'd like you to meet.
+
+('like', 'I/Ross Geller', 'you to meet', 's01_e10_c01_u001')
+[s01_e10_c01_u001] Ross Geller: Guys? There's a somebody I'd like you to meet.
+
+('meet', 'you/(group)', 'somebody', 's01_e10_c01_u001')
+[s01_e10_c01_u001] Ross Geller: Guys? There's a somebody I'd like you to meet.
+
+('wait', 'you/Ross Geller', None, 's01_e10_c01_u004')
+[s01_e10_c01_u004] Monica Geller: W-wait. What is that?
+
+('be', 'that/Marcel', 'what', 's01_e10_c01_u004')
+[s01_e10_c01_u004] Monica Geller: W-wait. What is that?
+
+('be', 'that/Marcel', 'Marcel', 's01_e10_c01_u005')
+[s01_e10_c01_u005] Ross Geller: 'That' would be Marcel. You wanna say hi?
+
+('want', 'you/(group)', 'say hi', 's01_e10_c01_u005')
+[s01_e10_c01_u005] Ross Geller: 'That' would be Marcel. You wanna say hi?
+
+('say', 'you/(group)', 'hi', 's01_e10_c01_u005')
+[s01_e10_c01_u005] Ross Geller: 'That' would be Marcel. You wanna say hi?
+
+('do', 'I/Monica Geller', None, 's01_e10_c01_u006')
+[s01_e10_c01_u006] Monica Geller: No, no, I don't.
+
+('be', 'he/Marcel', 'precious', 's01_e10_c01_u007')
+[s01_e10_c01_u007] Rachel Green: Oh, he is precious! Where did you get him?
+
+('get', 'you/Ross Geller', 'him', 's01_e10_c01_u007')
+[s01_e10_c01_u007] Rachel Green: Oh, he is precious! Where did you get him?
+
+('rescue', 'My friend Bethel', 'him', 's01_e10_c01_u008')
+[s01_e10_c01_u008] Ross Geller: My friend Bethel rescued him from some lab.
+
+('rescue', 'My friend Bethel', 'from some lab', 's01_e10_c01_u008')
+[s01_e10_c01_u008] Ross Geller: My friend Bethel rescued him from some lab.
+
+('be', 'That/(animal testing)', 'so cruel', 's01_e10_c01_u009')
+[s01_e10_c01_u009] Phoebe Buffay: That is so cruel! Why? Why would a parent name their child Bethel?
+
+('name', 'a parent', 'their child Bethel', 's01_e10_c01_u009')
+[s01_e10_c01_u009] Phoebe Buffay: That is so cruel! Why? Why would a parent name their child Bethel?
+
+('get', 'that monkey', 'a Ross', 's01_e10_c01_u010')
+[s01_e10_c01_u010] Chandler Bing: Hey, that monkey's got a Ross on its ass!
+
+('get', 'that monkey', 'on its ass', 's01_e10_c01_u010')
+[s01_e10_c01_u010] Chandler Bing: Hey, that monkey's got a Ross on its ass!
+
+('live', 'he/Marcel', 'with you in your apartment', 's01_e10_c01_u011')
+[s01_e10_c01_u011] Monica Geller: Ross, is he gonna live with you, like, in your apartment?
+
+('mean', 'I/Ross Geller', None, 's01_e10_c01_u012')
+[s01_e10_c01_u012] Ross Geller: Yeah. I mean, it's been kinda quiet since Carol left, so...
+
+('be', "it/(Ross Geller's apartment)", 'kinda quiet since Carol left', 's01_e10_c01_u012')
+[s01_e10_c01_u012] Ross Geller: Yeah. I mean, it's been kinda quiet since Carol left, so...
+
+('leave', 'Carol', None, 's01_e10_c01_u012')
+[s01_e10_c01_u012] Ross Geller: Yeah. I mean, it's been kinda quiet since Carol left, so...
+
+('do', 'you/Ross Geller', 'get a roommate', 's01_e10_c01_u013')
+[s01_e10_c01_u013] Monica Geller: Why don't you just get a roommate?
+
+('get', 'you/Ross Geller', 'a roommate', 's01_e10_c01_u013')
+[s01_e10_c01_u013] Monica Geller: Why don't you just get a roommate?
+
+('know', 'I/Ross Geller', None, 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('think', 'I/Ross Geller', 'you reach a certain age', 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('reach', 'you/(generic)', 'a certain age', 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('have', 'you/(generic)', 'a roommate', 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('be', 'having a roommate', 'kinda pathe-', 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('be', 'that/(the word)', "'pathet'", 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('be', 'which/(pathet)', 'Sanskrit', 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+
+('be', 'which/(pathet)', "for 'really cool way to live'", 's01_e10_c01_u014')
+[s01_e10_c01_u014] Ross Geller: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+

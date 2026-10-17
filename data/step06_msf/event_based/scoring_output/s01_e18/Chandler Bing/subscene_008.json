@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks briefly, only asks what is needed and says 'Good luck,' without notably outgoing or talkative behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker asks what Speaker_02 needs and then offers ten dollars to help, followed by a supportive 'Good luck,' showing generosity and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or careful planning; actions are simply responsive to the moment."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of nervousness or heightened sensitivity; demeanor appears neutral, with insufficient evidence of strong confidence either."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or actions reflecting curiosity, creativity, or unconventional thinking."
+  }
+}

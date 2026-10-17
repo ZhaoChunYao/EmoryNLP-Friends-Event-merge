@@ -1,0 +1,44 @@
+event_id: s01_e07_c07_u002_e1
+utterance_id: s01_e07_c07_u002
+  tuple: ('be', 'it', 'me', 's01_e07_c07_u002')
+
+event_id: s01_e07_c07_u003_e1
+utterance_id: s01_e07_c07_u003
+  tuple: ('be', 'it', 'Chandler', 's01_e07_c07_u003)
+  tuple: ('be', 'you/(Chandler Bing)', 'OK', 's01_e07_c07_u003')
+
+event_id: s01_e07_c07_u004_e1
+utterance_id: s01_e07_c07_u004
+  tuple: ('be', 'I/(Chandler Bing)', 'fine', 's01_e07_c07_u004')
+
+event_id: s01_e07_c07_u011_e1
+utterance_id: s01_e07_c07_u011
+  tuple: ('trap', 'he/(Chandler Bing)', 'in an ATM vestibule with Jill Goodacre', 's01_e07_c07_u011')
+  tuple: ('trap', 'he/(Chandler Bing)', 'in an ATM vestibule', 's01_e07_c07_u011')
+  tuple: ('trap', 'he/(Chandler Bing)', 'with Jill Goodacre', 's01_e07_c07_u011')
+
+event_id: s01_e07_c07_u011_e2
+utterance_id: s01_e07_c07_u011
+  tuple: ('listen', 'you/(Chandler Bing)', None, 's01_e07_c07_u011')
+
+event_id: s01_e07_c07_u007_e1
+utterance_id: s01_e07_c07_u007
+  tuple: ('have', 'I/(Monica Geller)', 'no idea', 's01_e07_c07_u007')
+
+event_id: s01_e07_c07_u007_e2
+utterance_id: s01_e07_c07_u007
+  tuple: ('say', 'you/(Chandler Bing)', 'what', 's01_e07_c07_u007')
+
+event_id: s01_e07_c07_u008_e1
+utterance_id: s01_e07_c07_u008
+  tuple: ('put', 'you/(Monica Geller)', 'Joey', 's01_e07_c07_u008')
+  tuple: ('put', 'you/(Monica Geller)', 'on the phone', 's01_e07_c07_u008')
+
+event_id: s01_e07_c07_u009_e1
+utterance_id: s01_e07_c07_u009
+  tuple: ('be', 'what', 'up', 's01_e07_c07_u009')
+
+event_id: s01_e07_c07_u012_e1
+utterance_id: s01_e07_c07_u012
+  tuple: ('enter', 'that thought', 'my mind', 's01_e07_c07_u012')
+

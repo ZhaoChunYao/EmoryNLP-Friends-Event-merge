@@ -1,0 +1,63 @@
+('excuse', 'you/(Receptionist)', 'me', 's01_e04_c09_u001')
+[s01_e04_c09_u001] Chandler Bing: 'Scuse me.
+
+('say', 'it/(candy bar wrapper)', "to call this number if you're not completely satisfied with this candy bar", 's01_e04_c09_u002')
+[s01_e04_c09_u002] Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.
+
+('call', 'you/(Receptionist)', 'this number', 's01_e04_c09_u002')
+[s01_e04_c09_u002] Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.
+
+('be', 'you/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')
+[s01_e04_c09_u002] Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.
+
+('be', 'you/(Receptionist)', 'with this candy bar', 's01_e04_c09_u002')
+[s01_e04_c09_u002] Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.
+
+('be', 'I/(Receptionist)', 'not completely satisfied', 's01_e04_c09_u002')
+[s01_e04_c09_u002] Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.
+
+('listen', 'you/(Receptionist)', None, 's01_e04_c09_u003')
+[s01_e04_c09_u003] Chandler Bing: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.
+
+('be', 'it/(situation)', 'kind of an emergency', 's01_e04_c09_u003')
+[s01_e04_c09_u003] Chandler Bing: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.
+
+('guess', 'I/(Chandler Bing)', 'you know that', 's01_e04_c09_u003')
+[s01_e04_c09_u003] Chandler Bing: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.
+
+('know', 'you/(Receptionist)', 'that', 's01_e04_c09_u003')
+[s01_e04_c09_u003] Chandler Bing: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.
+
+('be', 'we/(Chandler Bing + Receptionist)', 'in the predicament room', 's01_e04_c09_u003')
+[s01_e04_c09_u003] Chandler Bing: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.
+
+('hold on', 'you/(Ross Geller)', None, 's01_e04_c09_u004')
+[s01_e04_c09_u004] Receptionist: Hold on. Fill these out, sit over there.
+
+('fill out', 'you/(Ross Geller)', 'these', 's01_e04_c09_u004')
+[s01_e04_c09_u004] Receptionist: Hold on. Fill these out, sit over there.
+
+('sit', 'you/(Ross Geller)', 'over there', 's01_e04_c09_u004')
+[s01_e04_c09_u004] Receptionist: Hold on. Fill these out, sit over there.
+
+('look', 'you/(Receptionist)', None, 's01_e04_c09_u005')
+[s01_e04_c09_u005] Ross Geller: Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.
+
+('make', 'I/(Ross Geller)', 'any trouble', 's01_e04_c09_u005')
+[s01_e04_c09_u005] Ross Geller: Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.
+
+('be', 'I/(Ross Geller)', 'in a lot of pain', 's01_e04_c09_u005')
+[s01_e04_c09_u005] Ross Geller: Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.
+
+('be', 'my face', 'dented', 's01_e04_c09_u005')
+[s01_e04_c09_u005] Ross Geller: Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.
+
+('wait', 'you/(Ross Geller)', 'your turn', 's01_e04_c09_u006')
+[s01_e04_c09_u006] Receptionist: Well, you'll have to wait your turn.
+
+('think', 'you/(Receptionist)', 'how long it will be', 's01_e04_c09_u007')
+[s01_e04_c09_u007] Joey Tribbiani: Well, how long do you think it'll be?
+
+('be', 'it/(wait time)', 'how long', 's01_e04_c09_u007')
+[s01_e04_c09_u007] Joey Tribbiani: Well, how long do you think it'll be?
+

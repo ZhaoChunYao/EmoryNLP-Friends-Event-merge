@@ -1,0 +1,175 @@
+event_id: s01_e22_c02_u002_e1
+utterance_id: s01_e22_c02_u002
+  tuple: ('get off', 'you/Chandler Bing', None, 's01_e22_c02_u002')
+
+event_id: s01_e22_c02_u003_e1
+utterance_id: s01_e22_c02_u003
+  tuple: ('give', 'you/(unspecified)', 'me', 's01_e22_c02_u003')
+
+event_id: s01_e22_c02_u003_e2
+utterance_id: s01_e22_c02_u003
+  tuple: ('see', 'you/Joey Tribbiani', 'me operating a drill press', 's01_e22_c02_u003')
+  tuple: ('operate', 'me/Phoebe Buffay', 'a drill press', 's01_e22_c02_u003')
+
+event_id: s01_e22_c02_u004_e1
+utterance_id: s01_e22_c02_u004
+  tuple: ('know', 'I/Joey Tribbiani', None, 's01_e22_c02_u004')
+
+event_id: s01_e22_c02_u004_e2
+utterance_id: s01_e22_c02_u004
+  tuple: ('wear', 'you/Phoebe Buffay', 'what', 's01_e22_c02_u004')
+
+event_id: s01_e22_c02_u006_e1
+utterance_id: s01_e22_c02_u006
+  tuple: ('want', 'you/Phoebe Buffay', 'to operate a drill press', 's01_e22_c02_u006')
+  tuple: ('operate', 'you/Phoebe Buffay', 'a drill press', 's01_e22_c02_u006')
+
+event_id: s01_e22_c02_u007_e1
+utterance_id: s01_e22_c02_u007
+  tuple: ('get back', 'I/Phoebe Buffay', 'some of my massage clients', 's01_e22_c02_u007')
+
+event_id: s01_e22_c02_u009_e1
+utterance_id: s01_e22_c02_u009
+  tuple: ('be', 'I/Phoebe Buffay', 'a dummie', 's01_e22_c02_u009')
+
+event_id: s01_e22_c02_u009_e2
+utterance_id: s01_e22_c02_u009
+  tuple: ('teach', 'I/Phoebe Buffay', 'this \"massage-yourself-at-home-workshop\"', 's01_e22_c02_u009')
+
+event_id: s01_e22_c02_u009_e3
+utterance_id: s01_e22_c02_u009
+  tuple: ('be', 'they/(massage clients)', None, 's01_e22_c02_u009')
+
+event_id: s01_e22_c02_u010_e1
+utterance_id: s01_e22_c02_u010
+  tuple: ('work', 'she/Phoebe Buffay', 'for you/Chandler Bing', 's01_e22_c02_u010')
+
+event_id: s01_e22_c02_u011_e1
+utterance_id: s01_e22_c02_u011
+  tuple: ('be', 'that/(Joey's suggestion)', 'a good idea', 's01_e22_c02_u011')
+
+event_id: s01_e22_c02_u012_e1
+utterance_id: s01_e22_c02_u012
+  tuple: ('do', 'I/Phoebe Buffay', 'that', 's01_e22_c02_u012')
+
+event_id: s01_e22_c02_u012_e2
+utterance_id: s01_e22_c02_u012
+  tuple: ('be', 'it/(the job)', 'what', 's01_e22_c02_u012')
+
+event_id: s01_e22_c02_u013_e1
+utterance_id: s01_e22_c02_u013
+  tuple: ('be out', 'my secretary', 'for a couple of weeks', 's01_e22_c02_u013')
+
+event_id: s01_e22_c02_u013_e2
+utterance_id: s01_e22_c02_u013
+  tuple: ('have', 'she/(my secretary)', 'one of her boobs reduced', 's01_e22_c02_u013')
+  tuple: ('reduce', 'one of her boobs', None, 's01_e22_c02_u013')
+
+event_id: s01_e22_c02_u013_e3
+utterance_id: s01_e22_c02_u013
+  tuple: ('be', 'it/(this)', 'a whole big boob story', 's01_e22_c02_u013')
+
+event_id: s01_e22_c02_u014_e1
+utterance_id: s01_e22_c02_u014
+  tuple: ('be', 'I/Phoebe Buffay', 'a secretary', 's01_e22_c02_u014')
+
+event_id: s01_e22_c02_u015_e1
+utterance_id: s01_e22_c02_u015
+  tuple: ('know', 'I/Chandler Bing', "if it's your kinda thing", 's01_e22_c02_u015')
+  tuple: ('be', 'it/(the job)', 'your kinda thing', 's01_e22_c02_u015')
+
+event_id: s01_e22_c02_u015_e2
+utterance_id: s01_e22_c02_u015
+  tuple: ('involve', 'it/(the job)', 'a lot of being normal', 's01_e22_c02_u015')
+  tuple: ('be', 'a lot', 'normal', 's01_e22_c02_u015')
+  tuple: ('involve', 'it/(the job)', 'for a large portion of the day', 's01_e22_c02_u015')
+
+event_id: s01_e22_c02_u018_e1
+utterance_id: s01_e22_c02_u018
+  tuple: ('play', 'you/Ross Geller', 'with what', 's01_e22_c02_u018')
+
+event_id: s01_e22_c02_u019_e1
+utterance_id: s01_e22_c02_u019
+  tuple: ('be', "it/(what he's playing with)", 'my new beeper', 's01_e22_c02_u019')
+
+event_id: s01_e22_c02_u020_e1
+utterance_id: s01_e22_c02_u020
+  tuple: ('need', 'a paleontologist/(Ross Geller)', 'a beeper', 's01_e22_c02_u020')
+  tuple: ('need', 'a paleontologist/(Ross Geller)', 'for what', 's01_e22_c02_u020')
+
+event_id: s01_e22_c02_u021_e1
+utterance_id: s01_e22_c02_u021
+  tuple: ('be', 'it/(the beeper use)', 'like for dinosaur emergencies', 's01_e22_c02_u021')
+  tuple: ('be', 'it/(the beeper use)', 'for dinosaur emergencies', 's01_e22_c02_u021')
+
+event_id: s01_e22_c02_u021_e2
+utterance_id: s01_e22_c02_u021
+  tuple: ('help', 'you/(anyone listening)', None, 's01_e22_c02_u021')
+  tuple: ('come', 'you/(anyone listening)', None, 's01_e22_c02_u021')
+  tuple: ('be', 'they/(dinosaurs)', 'extinct', 's01_e22_c02_u021')
+
+event_id: s01_e22_c02_u022_e1
+utterance_id: s01_e22_c02_u022
+  tuple: ('be', 'it/(the beeper)', 'for when Carol goes into labor', 's01_e22_c02_u022')
+  tuple: ('go', 'Carol', 'into labor', 's01_e22_c02_u022')
+
+event_id: s01_e22_c02_u022_e2
+utterance_id: s01_e22_c02_u022
+  tuple: ('get', 'she/(Carol)', 'me/Ross Geller', 's01_e22_c02_u022')
+  tuple: ('be', 'I/Ross Geller', 'wherever', 's01_e22_c02_u022')
+  tuple: ('do', 'she/(Carol)', None, 's01_e22_c02_u022')
+  tuple: ('be', 'all she has to do', 'to dial 55-JIMBO', 's01_e22_c02_u022')
+  tuple: ('dial', 'she/(Carol)', '55-JIMBO', 's01_e22_c02_u022')
+
+event_id: s01_e22_c02_u024_e1
+utterance_id: s01_e22_c02_u024
+  tuple: ('see', 'I/Monica Geller', 'you guys', 's01_e22_c02_u024')
+
+event_id: s01_e22_c02_u026_e1
+utterance_id: s01_e22_c02_u026
+  tuple: ('thank', 'I/Rachel Green', 'you/Monica Geller', 's01_e22_c02_u026')
+
+event_id: s01_e22_c02_u027_e1
+utterance_id: s01_e22_c02_u027
+  tuple: ('be', 'young Ethan', 'how young', 's01_e22_c02_u027')
+
+event_id: s01_e22_c02_u028_e1
+utterance_id: s01_e22_c02_u028
+  tuple: ('be', 'he/Ethan', 'our age', 's01_e22_c02_u028')
+
+event_id: s01_e22_c02_u029_e1
+utterance_id: s01_e22_c02_u029
+  tuple: ('be', 'we/(the group)', None, 's01_e22_c02_u029')
+
+event_id: s01_e22_c02_u030_e1
+utterance_id: s01_e22_c02_u030
+  tuple: ('be', 'he/Ethan', 'a senior in college', 's01_e22_c02_u030')
+  tuple: ('be', 'he/Ethan', 'in college', 's01_e22_c02_u030')
+
+event_id: s01_e22_c02_u032_e1
+utterance_id: s01_e22_c02_u032
+  tuple: ('have', 'this manchild/(Ethan)', 'no problem with how old you are', 's01_e22_c02_u032')
+  tuple: ('have', 'this manchild/(Ethan)', 'with how old you are', 's01_e22_c02_u032')
+  tuple: ('be', 'you/Monica Geller', 'how old', 's01_e22_c02_u032')
+
+event_id: s01_e22_c02_u033_e1
+utterance_id: s01_e22_c02_u033
+  tuple: ('be', 'it/(the age difference)', 'not even an issue', 's01_e22_c02_u033')
+
+event_id: s01_e22_c02_u033_e2
+utterance_id: s01_e22_c02_u033
+  tuple: ('tell', 'I/Monica Geller', 'him/Ethan', 's01_e22_c02_u033')
+  tuple: ('be', 'I/Monica Geller', '22', 's01_e22_c02_u033')
+
+event_id: s01_e22_c02_u035_e1
+utterance_id: s01_e22_c02_u035
+  tuple: ('pass', 'I/Monica Geller', 'for 22', 's01_e22_c02_u035')
+
+event_id: s01_e22_c02_u037_e1
+utterance_id: s01_e22_c02_u037
+  tuple: ('be', 'I/Monica Geller', '26', 's01_e22_c02_u037')
+
+event_id: s01_e22_c02_u038_e1
+utterance_id: s01_e22_c02_u038
+  tuple: ('go', 'you/Monica Geller', 'there', 's01_e22_c02_u038')
+

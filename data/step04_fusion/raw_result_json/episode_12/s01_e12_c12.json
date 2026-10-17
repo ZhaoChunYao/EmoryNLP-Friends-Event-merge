@@ -1,0 +1,256 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e12_c12_u001",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'you/Rachel Green', 'okay', 's01_e12_c12_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u002",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('need', 'I/Rachel Green', 'some milk', 's01_e12_c12_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u003",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('get', 'I/Phoebe Buffay', 'milk', 's01_e12_c12_u003')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('go', 'you/Rachel Green', 'here', 's01_e12_c12_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('feel', 'I/Rachel Green', 'so stupid', 's01_e12_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('think', 'I/Rachel Green', 'about the other day with you guys', 's01_e12_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'I/Rachel Green', \"all 'Oh, Paolo, he's so great, he makes me feel so...'\", 's01_e12_c12_u004')",
+            "('be', 'he/Paolo', 'so great', 's01_e12_c12_u004')",
+            "('make', 'he/Paolo', 'me feel so...', 's01_e12_c12_u004')",
+            "('feel', 'me/Rachel Green', 'so...', 's01_e12_c12_u004')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'so embarrassed', 's01_e12_c12_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'so embarrassed', 's01_e12_c12_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'the one he hit on', 's01_e12_c12_u005')",
+            "('hit', 'he/Paolo', 'on me', 's01_e12_c12_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u007",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('meet', 'I/Rachel Green', 'him', 's01_e12_c12_u007')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('happen', 'this', None, 's01_e12_c12_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'so sorry', 's01_e12_c12_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'so sorry', 's01_e12_c12_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u009",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('wait', 'you/Rachel Green', None, 's01_e12_c12_u009')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'we/Phoebe Buffay and Rachel Green', 'sorry', 's01_e12_c12_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'the pig', 's01_e12_c12_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u012",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'such a pig', 's01_e12_c12_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'like a...', 's01_e12_c12_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'like a big disgusting...', 's01_e12_c12_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u018",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'he/Paolo', 'my pig man', 's01_e12_c12_u018')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'this', 's01_e12_c12_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u019",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('know', 'I/Phoebe Buffay', None, 's01_e12_c12_u019')",
+            "('be', 'it', 'because...', 's01_e12_c12_u019')",
+            "('be', 'he/Paolo', 'gorgeous', 's01_e12_c12_u019')",
+            "('be', 'he/Paolo', 'charming', 's01_e12_c12_u019')",
+            "('look', 'he/Paolo', 'at you', 's01_e12_c12_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u023",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('tell', 'I/Phoebe Buffay', 'you', 's01_e12_c12_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e12_c12_u024",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('trust', 'you/Phoebe Buffay', 'me', 's01_e12_c12_u024')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'it', 'much better that I know', 's01_e12_c12_u024')",
+            "('know', 'I/Rachel Green', None, 's01_e12_c12_u024')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('like', 'I/Rachel Green', 'it better', 's01_e12_c12_u024')",
+            "('be', 'it', 'better', 's01_e12_c12_u024')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+event_id: s01_e03_c07_u003_e1
+utterance_id: s01_e03_c07_u003
+  tuple: ('bring', 'I/Phoebe Buffay', 'alphabet soup', 's01_e03_c07_u003')
+
+event_id: s01_e03_c07_u004_e1
+utterance_id: s01_e03_c07_u004
+  tuple: ('pick out', 'you/Phoebe Buffay', 'the vowels', 's01_e03_c07_u004')
+
+event_id: s01_e03_c07_u005_e1
+utterance_id: s01_e03_c07_u005
+  tuple: ('leave', 'I/Phoebe Buffay', 'the Ys', 's01_e03_c07_u005')
+
+event_id: s01_e03_c07_u005_e2
+utterance_id: s01_e03_c07_u005
+  tuple: ('have', 'I/Phoebe Buffay', 'something else', 's01_e03_c07_u005')
+  tuple: ('have', 'I/Phoebe Buffay', 'for you', 's01_e03_c07_u005')
+
+event_id: s01_e03_c07_u007_e1
+utterance_id: s01_e03_c07_u007
+  tuple: ('like', 'you/Phoebe Buffay', 'a thousand dollars and a football phone', 's01_e03_c07_u007')
+
+event_id: s01_e03_c07_u008_e1
+utterance_id: s01_e03_c07_u008
+  tuple: ('be', 'there', 'really money', 's01_e03_c07_u008')
+  tuple: ('be', 'money', 'in here', 's01_e03_c07_u008')
+
+event_id: s01_e03_c07_u009_e1
+utterance_id: s01_e03_c07_u009
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e03_c07_u009')
+
+event_id: s01_e03_c07_u010_e1
+utterance_id: s01_e03_c07_u010
+  tuple: ('do', 'you/Phoebe Buffay', 'what', 's01_e03_c07_u010')
+
+event_id: s01_e03_c07_u011_e1
+utterance_id: s01_e03_c07_u011
+  tuple: ('want', 'I/Phoebe Buffay', 'you to have it', 's01_e03_c07_u011')
+  tuple: ('have', 'you/Lizzy', 'it', 's01_e03_c07_u011')
+
+event_id: s01_e03_c07_u011_e2
+utterance_id: s01_e03_c07_u011
+  tuple: ('want', 'I/Phoebe Buffay', 'it', 's01_e03_c07_u011')
+
+event_id: s01_e03_c07_u012_e1
+utterance_id: s01_e03_c07_u012
+  tuple: ('give', 'I/Lizzy', 'you something', 's01_e03_c07_u012')
+
+event_id: s01_e03_c07_u013_e1
+utterance_id: s01_e03_c07_u013
+  tuple: ('be', 'that', 'fine', 's01_e03_c07_u013')
+
+event_id: s01_e03_c07_u014_e1
+utterance_id: s01_e03_c07_u014
+  tuple: ('like', 'you/Phoebe Buffay', 'my tin-foil hat', 's01_e03_c07_u014')
+
+event_id: s01_e03_c07_u015_e1
+utterance_id: s01_e03_c07_u015
+  tuple: ('need', 'you/Lizzy', 'that', 's01_e03_c07_u015')
+
+event_id: s01_e03_c07_u015_e2
+utterance_id: s01_e03_c07_u015
+  tuple: ('be', 'it/(declining the hat)', 'okay', 's01_e03_c07_u015')
+
+event_id: s01_e03_c07_u016_e1
+utterance_id: s01_e03_c07_u016
+  tuple: ('let', 'you/Phoebe Buffay', 'me do something', 's01_e03_c07_u016')
+  tuple: ('do', 'me/Lizzy', 'something', 's01_e03_c07_u016')
+
+event_id: s01_e03_c07_u017_e1
+utterance_id: s01_e03_c07_u017
+  tuple: ('buy', 'you/Lizzy', 'a soda', 's01_e03_c07_u017')
+
+event_id: s01_e03_c07_u017_e2
+utterance_id: s01_e03_c07_u017
+  tuple: ('be', 'we/(Phoebe Buffay and Lizzy)', 'even', 's01_e03_c07_u017')
+

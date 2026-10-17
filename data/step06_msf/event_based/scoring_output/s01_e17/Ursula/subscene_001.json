@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker gives only brief, minimal responses: “Oh!” (u003), “Uh-huh.” (u008), and later a short, hesitant reply, showing reserved engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear signs of generosity, cooperation, or conflict; brief acknowledgments do not indicate either agreeableness or disagreeableness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization, planning, or carelessness is shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Slight hesitation (“Um…”) could suggest nervousness but is insufficient as concrete evidence of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, rigidity, or caution are present."
+  }
+}

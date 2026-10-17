@@ -1,0 +1,158 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e03_c10_u001",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u001_e1",
+          "tuples": [
+            "('go out', 'you/(Paula)', 'with a guy', 's01_e03_c10_u001')",
+            "('like', 'your friends', 'a guy', 's01_e03_c10_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u003",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u003_e1",
+          "tuples": [
+            "('go out', 'I/(Monica Geller)', 'with a guy', 's01_e03_c10_u003')",
+            "('like', 'my friends', 'a guy', 's01_e03_c10_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u004",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u004_e1",
+          "tuples": [
+            "('talk', 'we/(Paula and Monica Geller)', 'about the coyotes', 's01_e03_c10_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u004_e2",
+          "tuples": [
+            "('get', 'a cow', 'through', 's01_e03_c10_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u005",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u005_e1",
+          "tuples": [
+            "('believe', 'you/(Paula)', 'it', 's01_e03_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u005_e2",
+          "tuples": [
+            "('know', 'you/(Paula)', 'what', 's01_e03_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u005_e3",
+          "tuples": [
+            "('feel', 'I/(Monica Geller)', 'the thing', 's01_e03_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u005_e4",
+          "tuples": [
+            "('mean', 'I/(Monica Geller)', None, 's01_e03_c10_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u005_e5",
+          "tuples": [
+            "('feel', \"they/(Monica's friends)\", 'the thing', 's01_e03_c10_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u006",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u006_e1",
+          "tuples": [
+            "('feel', 'you/(Monica Geller)', 'the thing', 's01_e03_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u006_e2",
+          "tuples": [
+            "('listen', 'you/(Monica Geller)', None, 's01_e03_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u006_e3",
+          "tuples": [
+            "('be', 'that', 'how you feel about the guy', 's01_e03_c10_u006')",
+            "('feel', 'you/(Monica Geller)', 'about the guy', 's01_e03_c10_u006')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u006_e4",
+          "tuples": [
+            "('dump', 'you/(Monica Geller)', 'him', 's01_e03_c10_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u007",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u007_e1",
+          "tuples": [
+            "('know', 'I/(Monica Geller)', None, 's01_e03_c10_u007')",
+            "('be', 'it/(dumping him)', 'really hard', 's01_e03_c10_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u008",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u008_e1",
+          "tuples": [
+            "('be', 'he/(the guy Monica is dating)', 'a big boy', 's01_e03_c10_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u008_e2",
+          "tuples": [
+            "('get', 'he/(the guy Monica is dating)', 'over it', 's01_e03_c10_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e03_c10_u009",
+      "events": [
+        {
+          "event_id": "s01_e03_c10_u009_e1",
+          "tuples": [
+            "('be', 'he/(the guy Monica is dating)', 'fine', 's01_e03_c10_u009')"
+          ]
+        },
+        {
+          "event_id": "s01_e03_c10_u009_e2",
+          "tuples": [
+            "('be', 'it/(dummy)', \"the other five I'm worried about\", 's01_e03_c10_u009')",
+            "('be', 'I/(Monica Geller)', 'worried', 's01_e03_c10_u009')",
+            "('worry', 'I/(Monica Geller)', 'about the other five', 's01_e03_c10_u009')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, hesitant replies and does not engage energetically (thanks, then declines the request)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely thanks the supporter and is straightforward about not being ready without hostility."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Avoids following through on a planned, responsible step (refuses to cut up credit cards, saying she can't do it now)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Shows strong anxiety, comparing the task to jumping out of an airplane without a parachute and saying she can't go through with it."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Resists trying a new approach and frames it as too risky, indicating caution over exploration."
+  }
+}

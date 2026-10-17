@@ -1,0 +1,192 @@
+event_id: s01_e07_c08_u002_e1
+utterance_id: s01_e07_c08_u002
+  tuple: ('go', 'I/(Monica Geller)', None, 's01_e07_c08_u002')
+
+event_id: s01_e07_c08_u004_e1
+utterance_id: s01_e07_c08_u004
+  tuple: ('be', 'that/(Monica Geller)', 'my sister', 's01_e07_c08_u004')
+
+event_id: s01_e07_c08_u005_e1
+utterance_id: s01_e07_c08_u005
+  tuple: ('be', 'my weirdest place', "the women's room on the second floor of the New York City public library", 's01_e07_c08_u005')
+
+event_id: s01_e07_c08_u006_e1
+utterance_id: s01_e07_c08_u006
+  tuple: ('do', 'you/(Joey Tribbiani)', 'in a library', 's01_e07_c08_u006')
+
+event_id: s01_e07_c08_u012_e1
+utterance_id: s01_e07_c08_u012
+  tuple: ('break down', 'The ride', None, 's01_e07_c08_u012')
+
+event_id: s01_e07_c08_u012_e2
+utterance_id: s01_e07_c08_u012
+  tuple: ('go', 'Carol and I', 'behind a couple of those mechanical Dutch children', 's01_e07_c08_u012')
+
+event_id: s01_e07_c08_u012_e3
+utterance_id: s01_e07_c08_u012
+  tuple: ('fix', 'they/(park staff)', 'the ride', 's01_e07_c08_u012')
+
+event_id: s01_e07_c08_u012_e4
+utterance_id: s01_e07_c08_u012
+  tuple: ('ask', 'we/(Ross Geller+Carol)', 'to return to the Magic Kingdom', 's01_e07_c08_u012')
+  tuple: ('return', 'we/(Ross Geller+Carol)', 'to the Magic Kingdom', 's01_e07_c08_u012')
+
+event_id: s01_e07_c08_u014_e1
+utterance_id: s01_e07_c08_u014
+  tuple: ('go', 'I/(Rachel Green)', None, 's01_e07_c08_u014')
+
+event_id: s01_e07_c08_u015_e1
+utterance_id: s01_e07_c08_u015
+  tuple: ('go', 'you/(Rachel Green)', None, 's01_e07_c08_u015')
+
+event_id: s01_e07_c08_u017_e1
+utterance_id: s01_e07_c08_u017
+  tuple: ('be', 'The weirdest place', 'the foot of the bed', 's01_e07_c08_u017')
+
+event_id: s01_e07_c08_u018_e1
+utterance_id: s01_e07_c08_u018
+  tuple: ('step back', 'you/(Rachel Green)', None, 's01_e07_c08_u018')
+
+event_id: s01_e07_c08_u019_e1
+utterance_id: s01_e07_c08_u019
+  tuple: ('have', 'we/(group)', 'a winner', 's01_e07_c08_u019')
+
+event_id: s01_e07_c08_u021_e1
+utterance_id: s01_e07_c08_u021
+  tuple: ('have', 'I/(Rachel Green)', 'a relationship with that kind of passion', 's01_e07_c08_u021')
+
+event_id: s01_e07_c08_u021_e2
+utterance_id: s01_e07_c08_u021
+  tuple: ('have', 'you/(generic)', 'somebody', 's01_e07_c08_u021')
+  tuple: ('have', 'you/(generic)', 'in the middle of a theme park', 's01_e07_c08_u021')
+
+event_id: s01_e07_c08_u022_e1
+utterance_id: s01_e07_c08_u022
+  tuple: ('be', 'it/(sex at Disneyland)', "the only thing to do there that didn't have a line", 's01_e07_c08_u022')
+  tuple: ('have', 'that/(the only thing to do there)', 'a line', 's01_e07_c08_u022')
+
+event_id: s01_e07_c08_u023_e1
+utterance_id: s01_e07_c08_u023
+  tuple: ('kiss', 'Barry', 'me', 's01_e07_c08_u023')
+  tuple: ('kiss', 'Barry', 'on a miniature golf course', 's01_e07_c08_u023')
+
+event_id: s01_e07_c08_u025_e1
+utterance_id: s01_e07_c08_u025
+  tuple: ('say', 'he/(Barry)', 'we were holding up the people behind us', 's01_e07_c08_u025')
+  tuple: ('hold up', 'we/(Barry and Rachel)', 'the people behind us', 's01_e07_c08_u025')
+
+event_id: s01_e07_c08_u026_e1
+utterance_id: s01_e07_c08_u026
+  tuple: ('marry', 'you/(Rachel Green)', 'him', 's01_e07_c08_u026')
+
+event_id: s01_e07_c08_u027_e1
+utterance_id: s01_e07_c08_u027
+  tuple: ('think', 'you/(Ross Geller)', 'there are people who go through life never having that kind of...', 's01_e07_c08_u027')
+  tuple: ('be', 'there', 'people', 's01_e07_c08_u027')
+  tuple: ('go through', 'people', 'life', 's01_e07_c08_u027')
+  tuple: ('have', 'people', 'that kind of...', 's01_e07_c08_u027')
+
+event_id: s01_e07_c08_u028_e1
+utterance_id: s01_e07_c08_u028
+  tuple: ('tell', 'I/(Ross Geller)', 'something', 's01_e07_c08_u028')
+  tuple: ('be', 'Passion', 'way overrated', 's01_e07_c08_u028')
+
+event_id: s01_e07_c08_u030_e1
+utterance_id: s01_e07_c08_u030
+  tuple: ('be', 'it/(passion)', None, 's01_e07_c08_u030')
+
+event_id: s01_e07_c08_u030_e2
+utterance_id: s01_e07_c08_u030
+  tuple: ('burn out', 'it/(passion)', None, 's01_e07_c08_u030')
+
+event_id: s01_e07_c08_u030_e3
+utterance_id: s01_e07_c08_u030
+  tuple: ('be', "what you're left with", 'trust, security, and lesbianism', 's01_e07_c08_u030')
+
+event_id: s01_e07_c08_u030_e4
+utterance_id: s01_e07_c08_u030
+  tuple: ('miss out', 'people', 'on that passion thing', 's01_e07_c08_u030')
+  tuple: ('be', 'there', 'all that other good stuff', 's01_e07_c08_u030')
+  tuple: ('know', 'you/(Rachel Green)', None, 's01_e07_c08_u030')
+
+event_id: s01_e07_c08_u032_e1
+utterance_id: s01_e07_c08_u032
+  tuple: ('think', 'I/(Ross Geller)', "that's going to be you", 's01_e07_c08_u032')
+  tuple: ('be', 'that/(missing out on passion)', 'you/(Rachel Green)', 's01_e07_c08_u032')
+
+event_id: s01_e07_c08_u034_e1
+utterance_id: s01_e07_c08_u034
+  tuple: ('see', 'I/(Ross Geller)', 'big passion in your future', 's01_e07_c08_u034')
+
+event_id: s01_e07_c08_u039_e1
+utterance_id: s01_e07_c08_u039
+  tuple: ('be', 'you/(Ross Geller)', 'so great', 's01_e07_c08_u039')
+
+event_id: s01_e07_c08_u041_e1
+utterance_id: s01_e07_c08_u041
+  tuple: ('happen', 'it/(Ross+Rachel relationship)', None, 's01_e07_c08_u041')
+
+event_id: s01_e07_c08_u045_e1
+utterance_id: s01_e07_c08_u045
+  tuple: ('wait', 'you/(Ross Geller)', 'to make your move', 's01_e07_c08_u045')
+  tuple: ('make', 'you/(Ross Geller)', 'your move', 's01_e07_c08_u045')
+
+event_id: s01_e07_c08_u045_e2
+utterance_id: s01_e07_c08_u045
+  tuple: ('be', 'you/(Ross Geller)', 'in the friend zone', 's01_e07_c08_u045')
+
+event_id: s01_e07_c08_u046_e1
+utterance_id: s01_e07_c08_u046
+  tuple: ('be', 'I/(Ross Geller)', 'in the zone', 's01_e07_c08_u046')
+
+event_id: s01_e07_c08_u047_e1
+utterance_id: s01_e07_c08_u047
+  tuple: ('be', 'you/(Ross Geller)', 'mayor of the zone', 's01_e07_c08_u047')
+
+event_id: s01_e07_c08_u048_e1
+utterance_id: s01_e07_c08_u048
+  tuple: ('take', 'I/(Ross Geller)', 'my time', 's01_e07_c08_u048')
+  tuple: ('lay', 'I/(Ross Geller)', 'the groundwork', 's01_e07_c08_u048')
+  tuple: ('get', 'I/(Ross Geller)', 'a little bit closer', 's01_e07_c08_u048')
+
+event_id: s01_e07_c08_u049_e1
+utterance_id: s01_e07_c08_u049
+  tuple: ('tell', 'I/(Joey Tribbiani)', 'you', 's01_e07_c08_u049')
+  tuple: ('have', 'she/(Rachel Green)', "no idea what you're thinking", 's01_e07_c08_u049')
+  tuple: ('think', 'you/(Ross Geller)', None, 's01_e07_c08_u049')
+
+event_id: s01_e07_c08_u049_e2
+utterance_id: s01_e07_c08_u049
+  tuple: ('ask out', 'you/(Ross Geller)', 'her', 's01_e07_c08_u049')
+  tuple: ('end up', 'you/(Ross Geller)', 'stuck in the zone forever', 's01_e07_c08_u049')
+  tuple: ('be', 'you/(Ross Geller)', 'stuck in the zone', 's01_e07_c08_u049')
+
+event_id: s01_e07_c08_u050_e1
+utterance_id: s01_e07_c08_u050
+  tuple: ('wait', 'I/(Ross Geller)', 'for the right moment', 's01_e07_c08_u050')
+
+event_id: s01_e07_c08_u051_e1
+utterance_id: s01_e07_c08_u051
+  tuple: ('mess up', 'what', 'you', 's01_e07_c08_u051')
+
+event_id: s01_e07_c08_u051_e2
+utterance_id: s01_e07_c08_u051
+  tuple: ('go', 'you/(Ross Geller)', 'up to her', 's01_e07_c08_u051')
+  tuple: ('say', "you/(Ross Geller)", "'Rachel, I think that...'", 's01_e07_c08_u051')
+  tuple: ('think', 'I/(Ross Geller)', 'that...', 's01_e07_c08_u051')
+
+event_id: s01_e07_c08_u053_e1
+utterance_id: s01_e07_c08_u053
+  tuple: ('shush', 'you/(Ross Geller)', 'what', 's01_e07_c08_u053')
+
+event_id: s01_e07_c08_u054_e1
+utterance_id: s01_e07_c08_u054
+  tuple: ('shush', 'we/(Ross Geller+Joey Tribbiani)', None, 's01_e07_c08_u054')
+  tuple: ('try', 'we/(Ross Geller+Joey Tribbiani)', 'to hear something', 's01_e07_c08_u054')
+  tuple: ('hear', 'we/(Ross Geller+Joey Tribbiani)', 'something', 's01_e07_c08_u054')
+
+event_id: s01_e07_c08_u054_e2
+utterance_id: s01_e07_c08_u054
+  tuple: ('listen', 'you/(Rachel Green)', None, 's01_e07_c08_u054')
+  tuple: ('hear', 'you/(Rachel Green)', 'that', 's01_e07_c08_u054')
+

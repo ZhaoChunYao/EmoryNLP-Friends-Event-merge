@@ -1,0 +1,478 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "this",
+      "object": "amazing",
+      "uid": "s01_e01_c11_u001"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u001"
+    },
+    {
+      "verb": "make",
+      "subject": "I/Rachel Green",
+      "object": "coffee",
+      "uid": "s01_e01_c11_u001"
+    },
+    {
+      "verb": "make",
+      "subject": "I/Rachel Green",
+      "object": "in my entire life",
+      "uid": "s01_e01_c11_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "That",
+      "object": "amazing",
+      "uid": "s01_e01_c11_u002"
+    },
+    {
+      "verb": "figure",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "there",
+      "object": "anything",
+      "uid": "s01_e01_c11_u004"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Rachel Green",
+      "object": "anything",
+      "uid": "s01_e01_c11_u004"
+    },
+    {
+      "verb": "invade",
+      "subject": "I/Chandler Bing",
+      "object": "Poland",
+      "uid": "s01_e01_c11_u005"
+    },
+    {
+      "verb": "do",
+      "subject": "I/Chandler Bing",
+      "object": "anything",
+      "uid": "s01_e01_c11_u005"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Rachel Green",
+      "object": "on a roll",
+      "uid": "s01_e01_c11_u006"
+    },
+    {
+      "verb": "feel",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u006"
+    },
+    {
+      "verb": "make",
+      "subject": "you/Rachel Green",
+      "object": "a Western omelet",
+      "uid": "s01_e01_c11_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "not that hungry",
+      "uid": "s01_e01_c11_u006"
+    },
+    {
+      "verb": "be",
+      "subject": "Lenny and Squigy",
+      "object": "here",
+      "uid": "s01_e01_c11_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "it/Paul the Wine Guy",
+      "object": null,
+      "uid": "s01_e01_c11_u012"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Paul the Wine Guy",
+      "object": "you",
+      "uid": "s01_e01_c11_u014"
+    },
+    {
+      "verb": "stop",
+      "subject": "you/Paul the Wine Guy",
+      "object": null,
+      "uid": "s01_e01_c11_u015"
+    },
+    {
+      "verb": "tell",
+      "subject": "I/Paul the Wine Guy",
+      "object": "you",
+      "uid": "s01_e01_c11_u016"
+    },
+    {
+      "verb": "be",
+      "subject": "last night",
+      "object": "like all my birthdays, both graduations, plus the barn raising scene in Witness",
+      "uid": "s01_e01_c11_u016"
+    },
+    {
+      "verb": "talk",
+      "subject": "we/Monica Geller+Paul the Wine Guy",
+      "object": null,
+      "uid": "s01_e01_c11_u017"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "a real date",
+      "uid": "s01_e01_c11_u019"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Monica Geller",
+      "object": "what",
+      "uid": "s01_e01_c11_u019"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Monica Geller",
+      "object": "on a real date",
+      "uid": "s01_e01_c11_u019"
+    },
+    {
+      "verb": "shut up",
+      "subject": "you/#ALL#",
+      "object": null,
+      "uid": "s01_e01_c11_u020"
+    },
+    {
+      "verb": "put back",
+      "subject": "you/#ALL#",
+      "object": "my table",
+      "uid": "s01_e01_c11_u020"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Chandler Bing",
+      "object": "to work",
+      "uid": "s01_e01_c11_u022"
+    },
+    {
+      "verb": "input",
+      "subject": "I/Chandler Bing",
+      "object": "those numbers",
+      "uid": "s01_e01_c11_u022"
+    },
+    {
+      "verb": "make",
+      "subject": "it",
+      "object": "much of a difference",
+      "uid": "s01_e01_c11_u022"
+    },
+    {
+      "verb": "have",
+      "subject": "you guys/#ALL#",
+      "object": "jobs",
+      "uid": "s01_e01_c11_u023"
+    },
+    {
+      "verb": "have",
+      "subject": "we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy",
+      "object": "jobs",
+      "uid": "s01_e01_c11_u024"
+    },
+    {
+      "verb": "see",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "that",
+      "object": "how we buy stuff",
+      "uid": "s01_e01_c11_u024"
+    },
+    {
+      "verb": "buy",
+      "subject": "we/Monica Geller+Chandler Bing+Joey Tribbiani+Paul the Wine Guy",
+      "object": "stuff",
+      "uid": "s01_e01_c11_u024"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Joey Tribbiani",
+      "object": "an actor",
+      "uid": "s01_e01_c11_u025"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "you",
+      "uid": "s01_e01_c11_u026"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "in anything",
+      "uid": "s01_e01_c11_u026"
+    },
+    {
+      "verb": "doubt",
+      "subject": "I/Joey Tribbiani",
+      "object": "it",
+      "uid": "s01_e01_c11_u027"
+    },
+    {
+      "verb": "wait",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "happen",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "catch",
+      "subject": "you/Rachel Green",
+      "object": "the Reruns' production of Pinocchio",
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "catch",
+      "subject": "you/Rachel Green",
+      "object": "of Pinocchio",
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "catch",
+      "subject": "you/Rachel Green",
+      "object": "at the little theater",
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "catch",
+      "subject": "you/Rachel Green",
+      "object": "in the park",
+      "uid": "s01_e01_c11_u028"
+    },
+    {
+      "verb": "look",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u029"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "a job",
+      "uid": "s01_e01_c11_u029"
+    },
+    {
+      "verb": "look",
+      "subject": "you/Joey Tribbiani",
+      "object": null,
+      "uid": "s01_e01_c11_u030"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "a real live boy",
+      "uid": "s01_e01_c11_u030"
+    },
+    {
+      "verb": "take",
+      "subject": "I/Joey Tribbiani",
+      "object": "this abuse",
+      "uid": "s01_e01_c11_u031"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Joey Tribbiani",
+      "object": "right",
+      "uid": "s01_e01_c11_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "sorry",
+      "uid": "s01_e01_c11_u032"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Chandler Bing",
+      "object": "a wooden boy",
+      "uid": "s01_e01_c11_u032"
+    },
+    {
+      "verb": "know",
+      "subject": "you/Monica Geller+Chandler Bing",
+      "object": null,
+      "uid": "s01_e01_c11_u033"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Chandler Bing",
+      "object": "a dead man",
+      "uid": "s01_e01_c11_u033"
+    },
+    {
+      "verb": "do",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u034"
+    },
+    {
+      "verb": "sleep",
+      "subject": "you/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u034"
+    },
+    {
+      "verb": "talk",
+      "subject": "you/Rachel Green",
+      "object": "to Barry",
+      "uid": "s01_e01_c11_u034"
+    },
+    {
+      "verb": "stop",
+      "subject": "I/Monica Geller",
+      "object": "smiling",
+      "uid": "s01_e01_c11_u034"
+    },
+    {
+      "verb": "smile",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u034"
+    },
+    {
+      "verb": "see",
+      "subject": "I/Rachel Green",
+      "object": "that",
+      "uid": "s01_e01_c11_u035"
+    },
+    {
+      "verb": "look",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u035"
+    },
+    {
+      "verb": "sleep",
+      "subject": "you/Monica Geller",
+      "object": "with a hanger",
+      "uid": "s01_e01_c11_u035"
+    },
+    {
+      "verb": "sleep",
+      "subject": "you/Monica Geller",
+      "object": "in your mouth",
+      "uid": "s01_e01_c11_u035"
+    },
+    {
+      "verb": "know",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "he/Paul the Wine Guy",
+      "object": null,
+      "uid": "s01_e01_c11_u036"
+    },
+    {
+      "verb": "remember",
+      "subject": "you/Rachel Green",
+      "object": "you and Tony DeMarco",
+      "uid": "s01_e01_c11_u036"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "like that",
+      "uid": "s01_e01_c11_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "with feelings",
+      "uid": "s01_e01_c11_u038"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Monica Geller",
+      "object": "in trouble",
+      "uid": "s01_e01_c11_u039"
+    },
+    {
+      "verb": "want",
+      "subject": "you/Monica Geller",
+      "object": "a wedding dress",
+      "uid": "s01_e01_c11_u041"
+    },
+    {
+      "verb": "get",
+      "subject": "we/Monica Geller+Rachel Green",
+      "object": "ahead of selves",
+      "uid": "s01_e01_c11_u042"
+    },
+    {
+      "verb": "get up",
+      "subject": "I/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u042"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Monica Geller",
+      "object": "to work",
+      "uid": "s01_e01_c11_u042"
+    },
+    {
+      "verb": "think",
+      "subject": "I/Monica Geller",
+      "object": "about him",
+      "uid": "s01_e01_c11_u042"
+    },
+    {
+      "verb": "look",
+      "subject": "you/Monica Geller",
+      "object": null,
+      "uid": "s01_e01_c11_u043"
+    },
+    {
+      "verb": "wish",
+      "subject": "you/Monica Geller",
+      "object": "me luck",
+      "uid": "s01_e01_c11_u043"
+    },
+    {
+      "verb": "go",
+      "subject": "I/Rachel Green",
+      "object": null,
+      "uid": "s01_e01_c11_u045"
+    },
+    {
+      "verb": "get",
+      "subject": "I/Rachel Green",
+      "object": "one of those job things",
+      "uid": "s01_e01_c11_u045"
+    }
+  ]
+}

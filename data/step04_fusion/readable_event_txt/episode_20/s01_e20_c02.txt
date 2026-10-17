@@ -1,0 +1,229 @@
+event_id: s01_e20_c02_u001_e1
+utterance_id: s01_e20_c02_u001
+  tuple: ('tell', 'I/(Chandler Bing)', 'you', 's01_e20_c02_u001')
+
+event_id: s01_e20_c02_u001_e2
+utterance_id: s01_e20_c02_u001
+  tuple: ('study', 'schoolchildren', "it/(Chandler's first date)", 's01_e20_c02_u001')
+  tuple: ('study', 'schoolchildren', 'as one of the greatest first dates of all time', 's01_e20_c02_u001')
+
+event_id: s01_e20_c02_u001_e3
+utterance_id: s01_e20_c02_u001
+  tuple: ('be', "it/(Chandler's first date)", 'unbelievable', 's01_e20_c02_u001')
+  tuple: ('be', 'we/(Chandler Bing+his date)', 'ourselves', 's01_e20_c02_u001')
+  tuple: ('play', 'we/(Chandler Bing+his date)', 'any games', 's01_e20_c02_u001')
+
+event_id: s01_e20_c02_u002_e1
+utterance_id: s01_e20_c02_u002
+  tuple: ('call', 'you/(Chandler Bing)', 'her', 's01_e20_c02_u002')
+
+event_id: s01_e20_c02_u003_e1
+utterance_id: s01_e20_c02_u003
+  tuple: ('let', 'I/(Chandler Bing)', 'her', 's01_e20_c02_u003')
+  tuple: ('know', "she/(Chandler's date)", 'I like her', 's01_e20_c02_u003')
+  tuple: ('like', 'I/(Chandler Bing)', 'her', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u003_e2
+utterance_id: s01_e20_c02_u003
+  tuple: ('be', 'you/(Monica Geller)', 'insane', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u003_e3
+utterance_id: s01_e20_c02_u003
+  tuple: ('be', 'it/(today)', 'the next day', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u003_e4
+utterance_id: s01_e20_c02_u003
+  tuple: ('want', 'I/(Chandler Bing)', 'to seem needy', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u003_e5
+utterance_id: s01_e20_c02_u003
+  tuple: ('seem', 'I/(Chandler Bing)', 'needy', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u003_e6
+utterance_id: s01_e20_c02_u003
+  tuple: ('be', 'I/(Chandler Bing)', 'right', 's01_e20_c02_u003')
+
+event_id: s01_e20_c02_u004_e1
+utterance_id: s01_e20_c02_u004
+  tuple: ('let', 'you/(Chandler Bing)', 'her', 's01_e20_c02_u004')
+  tuple: ('dangle', "she/(Chandler's date)", None, 's01_e20_c02_u004')
+
+event_id: s01_e20_c02_u005_e1
+utterance_id: s01_e20_c02_u005
+  tuple: ('pressure', 'my parents', 'me', 's01_e20_c02_u005')
+  tuple: ('find', 'I/(Monica Geller)', 'one of you people', 's01_e20_c02_u005')
+
+event_id: s01_e20_c02_u005_e2
+utterance_id: s01_e20_c02_u005
+  tuple: ('believe', 'I/(Monica Geller)', 'my parents are actually pressuring me to find one of you people', 's01_e20_c02_u005')
+
+event_id: s01_e20_c02_u006_e1
+utterance_id: s01_e20_c02_u006
+  tuple: ('do', 'you/(Chandler Bing)', 'it', 's01_e20_c02_u006')
+
+event_id: s01_e20_c02_u006_e2
+utterance_id: s01_e20_c02_u006
+  tuple: ('stop', 'you/(Chandler Bing)', 'being so testosteroney', 's01_e20_c02_u006')
+  tuple: ('be', 'you/(Chandler Bing)', 'so testosteroney', 's01_e20_c02_u006')
+
+event_id: s01_e20_c02_u007_e1
+utterance_id: s01_e20_c02_u007
+  tuple: ('be', 'which/(testosteroney)', 'the real San Francisco treat', 's01_e20_c02_u007')
+
+event_id: s01_e20_c02_u007_e2
+utterance_id: s01_e20_c02_u007
+  tuple: ('get', 'I/(Chandler Bing)', 'her machine', 's01_e20_c02_u007')
+
+event_id: s01_e20_c02_u009_e1
+utterance_id: s01_e20_c02_u009
+  tuple: ('pick', 'her leaf blower', None, 's01_e20_c02_u009')
+
+event_id: s01_e20_c02_u010_e1
+utterance_id: s01_e20_c02_u010
+  tuple: ('say', 'you/(Chandler Bing)', 'anything', 's01_e20_c02_u010')
+
+event_id: s01_e20_c02_u011_e1
+utterance_id: s01_e20_c02_u011
+  tuple: ('leave', 'I/(Chandler Bing)', 'a spontaneous message', 's01_e20_c02_u011')
+  tuple: ('end', 'I/(Chandler Bing)', 'up using the phrase "Yes indeedy-o"', 's01_e20_c02_u011')
+  tuple: ('use', 'I/(Chandler Bing)', 'the phrase "Yes indeedy-o"', 's01_e20_c02_u011')
+
+event_id: s01_e20_c02_u012_e1
+utterance_id: s01_e20_c02_u012
+  tuple: ('look', 'you/(everyone)', None, 's01_e20_c02_u012')
+
+event_id: s01_e20_c02_u012_e2
+utterance_id: s01_e20_c02_u012
+  tuple: ('be', "it/(what we're seeing)", 'Rachel and Barry', 's01_e20_c02_u012')
+
+event_id: s01_e20_c02_u012_e3
+utterance_id: s01_e20_c02_u012
+  tuple: ('look', 'everybody', None, 's01_e20_c02_u012')
+  tuple: ('look', 'everybody', 'at once', 's01_e20_c02_u012')
+
+event_id: s01_e20_c02_u013_e1
+utterance_id: s01_e20_c02_u013
+  tuple: ('go', 'what/(situation)', 'on', 's01_e20_c02_u013')
+
+event_id: s01_e20_c02_u014_e1
+utterance_id: s01_e20_c02_u014
+  tuple: ('talk', 'they/(Rachel Green+Barry Farber)', None, 's01_e20_c02_u014')
+
+event_id: s01_e20_c02_u015_e1
+utterance_id: s01_e20_c02_u015
+  tuple: ('look', 'he/(Barry Farber)', 'upset', 's01_e20_c02_u015')
+  tuple: ('look', 'he/(Barry Farber)', 'like he was just told to shove anything', 's01_e20_c02_u015')
+
+event_id: s01_e20_c02_u015_e2
+utterance_id: s01_e20_c02_u015
+  tuple: ('tell', 'someone', 'him', 's01_e20_c02_u015')
+  tuple: ('shove', 'he/(Barry Farber)', 'anything', 's01_e20_c02_u015')
+
+event_id: s01_e20_c02_u016_e1
+utterance_id: s01_e20_c02_u016
+  tuple: ('smile', 'he/(Barry Farber)', None, 's01_e20_c02_u016')
+
+event_id: s01_e20_c02_u016_e2
+utterance_id: s01_e20_c02_u016
+  tuple: ('do', 'you/(that man across the street)', 'that', 's01_e20_c02_u016')
+
+event_id: s01_e20_c02_u018_e1
+utterance_id: s01_e20_c02_u018
+  tuple: ('kick', 'that man across the street', 'that pigeon', 's01_e20_c02_u018')
+
+event_id: s01_e20_c02_u019_e1
+utterance_id: s01_e20_c02_u019
+  tuple: ('become', 'a bill', 'a law', 's01_e20_c02_u019')
+
+event_id: s01_e20_c02_u022_e1
+utterance_id: s01_e20_c02_u022
+  tuple: ('go', 'it/(Rachel+Barry meetup)', None, 's01_e20_c02_u022')
+
+event_id: s01_e20_c02_u023_e1
+utterance_id: s01_e20_c02_u023
+  tuple: ('be', 'it/(Rachel+Barry meetup)', 'really great', 's01_e20_c02_u023')
+  tuple: ('take', 'he/(Barry Farber)', 'me', 's01_e20_c02_u023')
+  tuple: ('take', 'he/(Barry Farber)', 'to lunch', 's01_e20_c02_u023')
+  tuple: ('take', 'he/(Barry Farber)', 'at the Russian Tea Room', 's01_e20_c02_u023')
+  tuple: ('have', 'I/(Rachel Green)', 'that chicken', 's01_e20_c02_u023')
+  tuple: ('poke', 'you/(generic)', 'it', 's01_e20_c02_u023')
+  tuple: ('squirt', 'all the butter', None, 's01_e20_c02_u023')
+
+event_id: s01_e20_c02_u025_e1
+utterance_id: s01_e20_c02_u025
+  tuple: ('take', 'we/(Rachel Green+Barry Farber)', 'a walk', 's01_e20_c02_u025')
+  tuple: ('take', 'we/(Rachel Green+Barry Farber)', "down to Bendall's", 's01_e20_c02_u025')
+  tuple: ('tell', 'I/(Rachel Green)', 'him', 's01_e20_c02_u025')
+  tuple: ('get', 'he/(Barry Farber)', 'me a little bottle of Chanel', 's01_e20_c02_u025')
+
+event_id: s01_e20_c02_u026_e1
+utterance_id: s01_e20_c02_u026
+  tuple: ('be', 'that', 'nice', 's01_e20_c02_u026')
+
+event_id: s01_e20_c02_u026_e2
+utterance_id: s01_e20_c02_u026
+  tuple: ('tell', 'you/(Rachel Green)', 'him', 's01_e20_c02_u026')
+  tuple: ('stop', 'him/(Barry Farber)', 'calling', 's01_e20_c02_u026')
+  tuple: ('call', 'him/(Barry Farber)', 'you', 's01_e20_c02_u026')
+  tuple: ('stop', 'him/(Barry Farber)', 'sending you flowers', 's01_e20_c02_u026')
+  tuple: ('send', 'him/(Barry Farber)', 'you flowers', 's01_e20_c02_u026')
+  tuple: ('leave', 'him/(Barry Farber)', 'you alone', 's01_e20_c02_u026')
+
+event_id: s01_e20_c02_u027_e1
+utterance_id: s01_e20_c02_u027
+  tuple: ('get', 'we/(Rachel Green+Barry Farber)', 'to that', 's01_e20_c02_u027')
+
+event_id: s01_e20_c02_u027_e2
+utterance_id: s01_e20_c02_u027
+  tuple: ('be', 'it/(seeing Barry again)', 'nice', 's01_e20_c02_u027')
+  tuple: ('see', 'we/(Rachel Green+Barry Farber)', 'him again', 's01_e20_c02_u027')
+  tuple: ('be', 'it/(seeing Barry again)', 'comfortable', 's01_e20_c02_u027')
+  tuple: ('be', 'it/(seeing Barry again)', 'familiar', 's01_e20_c02_u027')
+
+event_id: s01_e20_c02_u028_e1
+utterance_id: s01_e20_c02_u028
+  tuple: ('be', 'that', 'nice twice', 's01_e20_c02_u028')
+
+event_id: s01_e20_c02_u029_e1
+utterance_id: s01_e20_c02_u029
+  tuple: ('be', 'this', 'the same Barry who you left at the altar', 's01_e20_c02_u029')
+
+event_id: s01_e20_c02_u029_e2
+utterance_id: s01_e20_c02_u029
+  tuple: ('leave', 'you/(Rachel Green)', 'Barry', 's01_e20_c02_u029')
+  tuple: ('leave', 'you/(Rachel Green)', 'at the altar', 's01_e20_c02_u029')
+
+event_id: s01_e20_c02_u030_e1
+utterance_id: s01_e20_c02_u030
+  tuple: ('be', 'you/(Monica Geller)', None, 's01_e20_c02_u030')
+
+event_id: s01_e20_c02_u031_e1
+utterance_id: s01_e20_c02_u031
+  tuple: ('be', 'it/(time with Barry today)', 'different', 's01_e20_c02_u031')
+  tuple: ('be', 'it/(time with Barry today)', 'with him', 's01_e20_c02_u031')
+  tuple: ('be', 'he/(Barry Farber)', 'Orthodontist Guy', 's01_e20_c02_u031')
+  tuple: ('have', 'we/(Rachel Green+Barry Farber)', 'fun', 's01_e20_c02_u031')
+  tuple: ('be', 'anything', 'wrong with that', 's01_e20_c02_u031')
+
+event_id: s01_e20_c02_u035_e1
+utterance_id: s01_e20_c02_u035
+  tuple: ('have', 'I/(Chandler Bing)', 'my reasons', 's01_e20_c02_u035')
+
+event_id: s01_e20_c02_u036_e1
+utterance_id: s01_e20_c02_u036
+  tuple: ('engage', 'he/(Barry Farber)', 'to another woman', 's01_e20_c02_u036')
+  tuple: ('happen', 'she/(Mindy)', 'to be your ex-best friend', 's01_e20_c02_u036')
+  tuple: ('be', 'she/(Mindy)', 'your ex-best friend', 's01_e20_c02_u036')
+
+event_id: s01_e20_c02_u037_e1
+utterance_id: s01_e20_c02_u037
+  tuple: ('know', 'I/(Rachel Green)', "it's stupid", 's01_e20_c02_u037')
+  tuple: ('be', 'it/(seeing Barry again)', 'stupid', 's01_e20_c02_u037')
+
+event_id: s01_e20_c02_u037_e2
+utterance_id: s01_e20_c02_u037
+  tuple: ('go', 'I/(Rachel Green)', 'see him this afternoon', 's01_e20_c02_u037')
+  tuple: ('see', 'I/(Rachel Green)', 'him', 's01_e20_c02_u037')
+  tuple: ('put', 'I/(Rachel Green)', 'an end', 's01_e20_c02_u037')
+  tuple: ('put', 'I/(Rachel Green)', 'to it', 's01_e20_c02_u037')
+

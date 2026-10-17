@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Assertive in the negotiation and asks questions, but no clear signs of being especially outgoing or energetic in this exchange."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Suggests splitting the cost of the new table (u008) and expresses trust that the roommate would inform about moving out (u016), showing cooperative and trusting behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "The table damage is linked to TargetSpeaker’s “breakfast adventure” (u005–u007), and they respond casually to a major shared purchase with “Why not?” (u012), suggesting carelessness and limited planning."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Seeks reassurance by asking if the previous roommate was better (u020), indicating sensitivity/insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Open to a shared purchase despite being told it’s a big commitment (“Why not?”, u012) and shifts from a rigid stance to a flexible compromise by proposing to split costs (u008)."
+  }
+}

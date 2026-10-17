@@ -1,0 +1,105 @@
+event_id: s01_e24_c06_u001_e1
+utterance_id: s01_e24_c06_u001
+  tuple: ('want', 'you/(Rachel Green)', 'save this wrapping paper', 's01_e24_c06_u001')
+  tuple: ('save', 'you/(Rachel Green)', 'this wrapping paper', 's01_e24_c06_u001')
+
+event_id: s01_e24_c06_u001_e2
+utterance_id: s01_e24_c06_u001
+  tuple: ('be', 'it/(wrapping paper)', 'only a little bit torn', 's01_e24_c06_u001')
+
+event_id: s01_e24_c06_u001_e3
+utterance_id: s01_e24_c06_u001
+  tuple: ('go', 'you/(Rachel Green)', 'for it with Ross', 's01_e24_c06_u001')
+
+event_id: s01_e24_c06_u001_e4
+utterance_id: s01_e24_c06_u001
+  tuple: ('throw', 'I/(Monica Geller)', 'out it', 's01_e24_c06_u001')
+
+event_id: s01_e24_c06_u002_e1
+utterance_id: s01_e24_c06_u002
+  tuple: ('know', 'I/(Rachel Green)', None, 's01_e24_c06_u002')
+
+event_id: s01_e24_c06_u002_e2
+utterance_id: s01_e24_c06_u002
+  tuple: ('think', 'I/(Rachel Green)', 'about it', 's01_e24_c06_u002')
+
+event_id: s01_e24_c06_u002_e3
+utterance_id: s01_e24_c06_u002
+  tuple: ('be', 'it/(the situation)', 'Ross Geller', 's01_e24_c06_u002')
+  tuple: ('mean', 'I/(Rachel Green)', None, 's01_e24_c06_u002')
+
+event_id: s01_e24_c06_u002_e4
+utterance_id: s01_e24_c06_u002
+  tuple: ('know', 'you/(Monica Geller, Phoebe Buffay)', 'what I mean', 's01_e24_c06_u002')
+
+event_id: s01_e24_c06_u004_e1
+utterance_id: s01_e24_c06_u004
+  tuple: ('be', 'this/(my feeling)', 'just my initial gut feeling', 's01_e24_c06_u004')
+
+event_id: s01_e24_c06_u004_e2
+utterance_id: s01_e24_c06_u004
+  tuple: ('think', 'I/(Rachel Green)', None, 's01_e24_c06_u004')
+  tuple: ('think', 'I/(Rachel Green)', 'it would be really great', 's01_e24_c06_u004')
+  tuple: ('be', 'it/(relationship with Ross)', 'really great', 's01_e24_c06_u004')
+
+event_id: s01_e24_c06_u005_e1
+utterance_id: s01_e24_c06_u005
+  tuple: ('be', 'we/(Monica Geller, Rachel Green)', 'like friends-in-law', 's01_e24_c06_u005')
+
+event_id: s01_e24_c06_u005_e2
+utterance_id: s01_e24_c06_u005
+  tuple: ('know', 'you/(Rachel Green)', 'what the best part is', 's01_e24_c06_u005')
+
+event_id: s01_e24_c06_u005_e3
+utterance_id: s01_e24_c06_u005
+  tuple: ('be', 'the best part', 'that you already know everything about him', 's01_e24_c06_u005')
+
+event_id: s01_e24_c06_u005_e4
+utterance_id: s01_e24_c06_u005
+  tuple: ('know', 'you/(Rachel Green)', 'everything', 's01_e24_c06_u005')
+  tuple: ('know', 'you/(Rachel Green)', 'about him', 's01_e24_c06_u005')
+
+event_id: s01_e24_c06_u005_e5
+utterance_id: s01_e24_c06_u005
+  tuple: ('mean', 'I/(Monica Geller)', None, 's01_e24_c06_u005')
+  tuple: ('be', 'it/(dating Ross)', 'like starting on the fifteenth date', 's01_e24_c06_u005')
+  tuple: ('start', 'it/(dating Ross)', 'on the fifteenth date', 's01_e24_c06_u005')
+
+event_id: s01_e24_c06_u008_e1
+utterance_id: s01_e24_c06_u008
+  tuple: ('be', 'you/(Rachel Green)', 'at the fifteenth date', 's01_e24_c06_u008')
+
+event_id: s01_e24_c06_u008_e2
+utterance_id: s01_e24_c06_u008
+  tuple: ('be', 'you/(Rachel Green)', 'in a very relationshippy place', 's01_e24_c06_u008')
+  tuple: ('be', 'you/(Rachel Green)', 'committed', 's01_e24_c06_u008')
+  tuple: ('mean', 'I/(Phoebe Buffay)', None, 's01_e24_c06_u008')
+
+event_id: s01_e24_c06_u010_e1
+utterance_id: s01_e24_c06_u010
+  tuple: ('happen', 'what', None, 's01_e24_c06_u010')
+
+event_id: s01_e24_c06_u010_e2
+utterance_id: s01_e24_c06_u010
+  tuple: ('work', 'it/(relationship)', 'out', 's01_e24_c06_u010')
+
+event_id: s01_e24_c06_u013_e1
+utterance_id: s01_e24_c06_u013
+  tuple: ('be', 'he/(Ross Geller)', 'not cute enough for you', 's01_e24_c06_u013')
+
+event_id: s01_e24_c06_u015_e1
+utterance_id: s01_e24_c06_u015
+  tuple: ('make', 'he/(Ross Geller)', 'enough money', 's01_e24_c06_u015')
+
+event_id: s01_e24_c06_u017_e1
+utterance_id: s01_e24_c06_u017
+  tuple: ('be', 'there', 'someone else', 's01_e24_c06_u017')
+
+event_id: s01_e24_c06_u020_e1
+utterance_id: s01_e24_c06_u020
+  tuple: ('be', 'there', 'no one else', 's01_e24_c06_u020')
+
+event_id: s01_e24_c06_u021_e1
+utterance_id: s01_e24_c06_u021
+  tuple: ('dump', 'you/(Rachel Green)', 'my brother', 's01_e24_c06_u021')
+

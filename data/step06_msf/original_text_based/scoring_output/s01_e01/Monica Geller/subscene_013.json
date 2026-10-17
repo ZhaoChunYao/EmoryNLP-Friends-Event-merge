@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker speaks only briefly (u020, u024) and gives a curt command; no clear signs of being outgoing or talkative."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "In u020, TargetSpeaker says, “Shut up, and put [the] table back,” which is rude and uncooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete signs of organization or diligence; telling someone to put a table back and noting they have jobs (u024) doesn’t indicate conscientiousness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety or insecurity; statements are firm but not nervous (u020, u024)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No expressions of curiosity or imagination; remarks are plain and practical (u024)."
+  }
+}

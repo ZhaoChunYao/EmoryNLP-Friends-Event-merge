@@ -1,0 +1,22 @@
+Episode: s01_e11
+Scene: s01_e11_c10
+Subscene index for speaker: 002
+Main speaker: TargetSpeaker
+UID span: s01_e11_c10_u016 → s01_e11_c10_u023
+Peak window: 15 → 16
+
+Dialogue:
+  [s01_e11_c10_u016]
+  1. Speaker_01 says Speaker_01 read to TargetSpeaker.
+  [s01_e11_c10_u017]
+  1. Speaker_02 says Speaker_02 sang to TargetSpeaker.
+  [s01_e11_c10_u018] TargetSpeaker: Well,... thanks.
+  [s01_e11_c10_u019] Speaker_01: Oh, my pleasure.
+  [s01_e11_c10_u020]
+  1. Speaker_02 says TargetSpeaker is welcome.
+  [s01_e11_c10_u021]
+  1. TargetSpeaker says TargetSpeaker will see Speaker_01 and Speaker_02 around.
+  [s01_e11_c10_u022]
+  1. Speaker_02 says TargetSpeaker's plan to just see Speaker_01 and Speaker_02 around is all he intends to say.
+  [s01_e11_c10_u023]
+  1. Speaker_01 questions that TargetSpeaker plans to just see Speaker_01 and Speaker_02 around.

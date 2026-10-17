@@ -1,0 +1,99 @@
+event_id: s01_e21_c02_u001_e1
+utterance_id: s01_e21_c02_u001
+  tuple: ('go', 'you/Monica Geller', 'over that thing', 's01_e21_c02_u001')
+
+event_id: s01_e21_c02_u002_e1
+utterance_id: s01_e21_c02_u002
+  tuple: ('live', 'This woman', 'my life', 's01_e21_c02_u002')
+
+event_id: s01_e21_c02_u004_e1
+utterance_id: s01_e21_c02_u004
+  tuple: ('do', 'she/this woman', 'it', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e2
+utterance_id: s01_e21_c02_u004
+  tuple: ('look', 'you/Rachel Green', 'at this', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e3
+utterance_id: s01_e21_c02_u004
+  tuple: ('buy', 'she/this woman', 'tickets', 's01_e21_c02_u004')
+  tuple: ('buy', 'she/this woman', 'for plays', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e4
+utterance_id: s01_e21_c02_u004
+  tuple: ('want', 'I/Monica Geller', 'see plays', 's01_e21_c02_u004')
+  tuple: ('see', 'I/Monica Geller', 'plays', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e5
+utterance_id: s01_e21_c02_u004
+  tuple: ('buy', 'she/this woman', 'clothes', 's01_e21_c02_u004')
+  tuple: ('buy', 'she/this woman', 'from stores', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e6
+utterance_id: s01_e21_c02_u004
+  tuple: ('intimidate', 'I/Monica Geller', 'by the sales people', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u004_e7
+utterance_id: s01_e21_c02_u004
+  tuple: ('spend', 'she/this woman', 'three hundred dollars', 's01_e21_c02_u004')
+  tuple: ('spend', 'she/this woman', 'on art supplies', 's01_e21_c02_u004')
+
+event_id: s01_e21_c02_u005_e1
+utterance_id: s01_e21_c02_u005
+  tuple: ('be', 'you/Monica Geller', 'an artist', 's01_e21_c02_u005')
+
+event_id: s01_e21_c02_u006_e1
+utterance_id: s01_e21_c02_u006
+  tuple: ('be', 'I/Monica Geller', None, 's01_e21_c02_u006')
+
+event_id: s01_e21_c02_u006_e2
+utterance_id: s01_e21_c02_u006
+  tuple: ('have', 'I/Monica Geller', 'the supplies', 's01_e21_c02_u006')
+
+event_id: s01_e21_c02_u006_e3
+utterance_id: s01_e21_c02_u006
+  tuple: ('mean', 'I/Monica Geller', None, 's01_e21_c02_u006')
+
+event_id: s01_e21_c02_u006_e4
+utterance_id: s01_e21_c02_u006
+  tuple: ('do', 'I/Monica Geller', 'all this stuff', 's01_e21_c02_u006')
+  tuple: ('do', 'I/Monica Geller', None, 's01_e21_c02_u006')
+
+event_id: s01_e21_c02_u007_e1
+utterance_id: s01_e21_c02_u007
+  tuple: ('do', 'you/Monica Geller', 'cool things', 's01_e21_c02_u007')
+
+event_id: s01_e21_c02_u008_e1
+utterance_id: s01_e21_c02_u008
+  tuple: ('compare', 'we/Monica Geller and Rachel Green', None, 's01_e21_c02_u008')
+
+event_id: s01_e21_c02_u009_e1
+utterance_id: s01_e21_c02_u009
+  tuple: ('be', 'it/the time', "so late for 'Shall we'", 's01_e21_c02_u009')
+
+event_id: s01_e21_c02_u010_e1
+utterance_id: s01_e21_c02_u010
+  tuple: ('go', 'I/Monica Geller', 'horseback riding', 's01_e21_c02_u010')
+  tuple: ('go', 'I/Monica Geller', 'in the park', 's01_e21_c02_u010')
+
+event_id: s01_e21_c02_u010_e2
+utterance_id: s01_e21_c02_u010
+  tuple: ('take', 'I/Monica Geller', 'classes', 's01_e21_c02_u010')
+  tuple: ('take', 'I/Monica Geller', 'at the New School', 's01_e21_c02_u010')
+
+event_id: s01_e21_c02_u012_e1
+utterance_id: s01_e21_c02_u012
+  tuple: ('be', 'This/the situation', 'so unfair', 's01_e21_c02_u012')
+
+event_id: s01_e21_c02_u012_e2
+utterance_id: s01_e21_c02_u012
+  tuple: ('have', 'she/this woman', 'everything I want', 's01_e21_c02_u012')
+
+event_id: s01_e21_c02_u012_e3
+utterance_id: s01_e21_c02_u012
+  tuple: ('want', 'I/Monica Geller', 'everything', 's01_e21_c02_u012')
+
+event_id: s01_e21_c02_u012_e4
+utterance_id: s01_e21_c02_u012
+  tuple: ('have', 'she/this woman', 'my mother', 's01_e21_c02_u012')
+

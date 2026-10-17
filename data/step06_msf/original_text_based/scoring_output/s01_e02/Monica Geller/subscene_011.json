@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates and steers the conversation: \"So, Speaker_03, what's going on with Speaker_03? Any stories? No news, no little anecdotes...\"—outgoing and talkative."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Offers a brief contradiction (\"No Speaker_02's not.\") but no clear signs of warmth/generosity or hostility/boastfulness."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness in this brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks assertively and comfortably directing others to share updates, with no signs of nervousness or insecurity."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity by asking for stories and anecdotes from others."
+  }
+}

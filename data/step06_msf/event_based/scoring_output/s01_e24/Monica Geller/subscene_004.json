@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes one neutral observation (“everyone…always knows what Speaker_01 means”) and offers a brief greeting (“Hey”); no clear sign of being especially outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "The comment is neutral and non-confrontational, with no clear displays of generosity, warmth, or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization, diligence, or carelessness; TargetSpeaker only makes a simple statement and greeting."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritability, or emotional volatility; also no explicit display of strong confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, creativity, or dogmatism; TargetSpeaker provides a straightforward factual remark."
+  }
+}

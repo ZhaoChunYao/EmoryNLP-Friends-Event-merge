@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates with an excited, dramatic report ('You are not going to believe what just happened') and emphatically repeats 'And again, and again, and again... Hello? And again,' showing energetic, talkative engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "TargetSpeaker mainly reports information about repeated calls without clear signs of cooperation or hostility."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior shows organization or carelessness; TargetSpeaker simply notes that Speaker_03 called repeatedly."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability; the tone appears matter-of-fact or mildly emphatic."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, imagination, or resistance to new ideas are present."
+  }
+}

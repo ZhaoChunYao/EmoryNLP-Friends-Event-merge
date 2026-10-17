@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proactively announces it’s her turn to play and engages with the group, then responds with an affirmative “Yes!” during the game."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Cooperatively affirms another’s correct guess with “Yes!”, supporting the flow of the game."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps track of turn order and prompts starting her turn, showing responsibility to the game’s rules."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no nervousness; confidently claims her turn and answers decisively with “Yes!”."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Provides no creative clues or novel ideas here; only procedural and affirmative statements."
+  }
+}

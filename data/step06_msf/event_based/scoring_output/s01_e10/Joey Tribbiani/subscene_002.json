@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker initiates friendly small talk with “Nice shoes, huh?” indicating sociability."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers a compliment (“Nice shoes, huh?”), showing friendliness and cooperativeness."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "States being late, suggesting poor punctuality/organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of anxiety or emotional instability in the brief lines."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or unconventional thinking in the dialogue."
+  }
+}

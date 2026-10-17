@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes only brief statements and shows no clear signs of sociability or withdrawal in this exchange."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "They express sentiment about missing Speaker_02 without overt confrontation, but there is no clear cooperative or antagonistic behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "There is no concrete evidence of organization or carelessness in TargetSpeaker’s actions; only a mention by another that they are moping."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says Thanksgiving isn’t the same without Speaker_02 and is described by another as moping, indicating sadness/sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a remark about tradition (“not the same without Speaker_02”), there is insufficient evidence of curiosity or dogmatism."
+  }
+}

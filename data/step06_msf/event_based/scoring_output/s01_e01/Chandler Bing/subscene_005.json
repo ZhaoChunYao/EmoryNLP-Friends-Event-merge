@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker forcefully tells Speaker_01 to stop talking and then speaks at length about their perspective on relationships."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker is blunt and controlling, telling Speaker_01 to shut up and to pay attention to what they are saying."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior shows organization or carelessness; TargetSpeaker mainly reacts and shares views."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker says they avoid serious relationships because of heartbreak, indicating anxiety/sensitivity about relationships."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Sharing a personal rationale is reflective, but there is no clear sign of curiosity or rigidity about new ideas."
+  }
+}

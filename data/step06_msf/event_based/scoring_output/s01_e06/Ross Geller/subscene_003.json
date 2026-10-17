@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker jumps into the group exchange with a teasing childhood anecdote and then leads an imagined bill-paying scenario, showing socially assertive, talkative behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "TargetSpeaker criticizes Speaker_01 with a teasing anecdote and labels them a \"kook,\" indicating a confrontational, less gentle tone."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "TargetSpeaker discusses Speaker_01’s (hypothetical) bill-paying, not their own reliability or organization."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "TargetSpeaker shows no signs of anxiety, worry, or insecurity in the exchange."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from using a simple rhetorical hypothetical, there is no clear display of curiosity, novel ideas, or openness by TargetSpeaker."
+  }
+}

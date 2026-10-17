@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Opens with a flamboyant “Tah-daaah!” and directs everyone to look at the apartment cleaning (u001, u003), showing outgoing, attention-seeking behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Cleaning for the group suggests helpfulness, but unilaterally moving the ottoman and drawing attention to own work shows some pushiness/boastfulness (u003, u010, u001)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Describes thoroughly cleaning the apartment—did the windows and floors and used nearly all vacuum attachments (u003)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Responds calmly and confidently when questioned about moving the ottoman, offering a practical rationale (u010), with no signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Rearranges the ottoman for aesthetics and function and shows curiosity about the purpose of a vacuum attachment (u010, u003)."
+  }
+}

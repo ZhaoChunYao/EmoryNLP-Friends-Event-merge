@@ -1,0 +1,88 @@
+{
+  "tuples": [
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "me",
+      "uid": "s01_e07_c07_u002"
+    },
+    {
+      "verb": "be",
+      "subject": "it",
+      "object": "Chandler",
+      "uid": "s01_e07_c07_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "you/(Chandler Bing)",
+      "object": "OK",
+      "uid": "s01_e07_c07_u003"
+    },
+    {
+      "verb": "be",
+      "subject": "I/(Chandler Bing)",
+      "object": "fine",
+      "uid": "s01_e07_c07_u004"
+    },
+    {
+      "verb": "trap",
+      "subject": "he/(Chandler Bing)",
+      "object": "in an ATM vestibule with Jill Goodacre",
+      "uid": "s01_e07_c07_u011"
+    },
+    {
+      "verb": "trap",
+      "subject": "he/(Chandler Bing)",
+      "object": "in an ATM vestibule",
+      "uid": "s01_e07_c07_u011"
+    },
+    {
+      "verb": "trap",
+      "subject": "he/(Chandler Bing)",
+      "object": "with Jill Goodacre",
+      "uid": "s01_e07_c07_u011"
+    },
+    {
+      "verb": "have",
+      "subject": "I/(Monica Geller)",
+      "object": "no idea",
+      "uid": "s01_e07_c07_u007"
+    },
+    {
+      "verb": "say",
+      "subject": "you/(Chandler Bing)",
+      "object": "what",
+      "uid": "s01_e07_c07_u007"
+    },
+    {
+      "verb": "put",
+      "subject": "you/(Monica Geller)",
+      "object": "Joey",
+      "uid": "s01_e07_c07_u008"
+    },
+    {
+      "verb": "put",
+      "subject": "you/(Monica Geller)",
+      "object": "on the phone",
+      "uid": "s01_e07_c07_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "what",
+      "object": "up",
+      "uid": "s01_e07_c07_u009"
+    },
+    {
+      "verb": "listen",
+      "subject": "you/(Chandler Bing)",
+      "object": null,
+      "uid": "s01_e07_c07_u011"
+    },
+    {
+      "verb": "enter",
+      "subject": "that thought",
+      "object": "my mind",
+      "uid": "s01_e07_c07_u012"
+    }
+  ]
+}

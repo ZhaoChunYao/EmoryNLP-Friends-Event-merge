@@ -1,0 +1,76 @@
+{
+  "tuples": [
+    {
+      "verb": "add",
+      "subject": "you/Monica Geller",
+      "object": "a pinch of saffron",
+      "uid": "s01_e17_c03_u001"
+    },
+    {
+      "verb": "make",
+      "subject": "it/(a pinch of saffron)",
+      "object": "all the difference",
+      "uid": "s01_e17_c03_u001"
+    },
+    {
+      "verb": "be",
+      "subject": "she/Rachel Green",
+      "object": null,
+      "uid": "s01_e17_c03_u004"
+    },
+    {
+      "verb": "be",
+      "subject": "this/Rachel Green",
+      "object": "my friend Rachel",
+      "uid": "s01_e17_c03_u005"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Dr. Mitchell",
+      "object": "Dr.Mitchell",
+      "uid": "s01_e17_c03_u007"
+    },
+    {
+      "verb": "be",
+      "subject": "I/Dr. Rosen",
+      "object": "his friend, Dr.Rosen",
+      "uid": "s01_e17_c03_u008"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Dr. Mitchell",
+      "object": "a little cute to be a doctor",
+      "uid": "s01_e17_c03_u010"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Dr. Mitchell",
+      "object": "a doctor",
+      "uid": "s01_e17_c03_u010"
+    },
+    {
+      "verb": "excuse",
+      "subject": "you/Rachel Green",
+      "object": "me/Dr. Rosen",
+      "uid": "s01_e17_c03_u011"
+    },
+    {
+      "verb": "mean",
+      "subject": "I/Rachel Green",
+      "object": "young, young to be a doctor",
+      "uid": "s01_e17_c03_u012"
+    },
+    {
+      "verb": "be",
+      "subject": "you/Dr. Rosen",
+      "object": "a doctor",
+      "uid": "s01_e17_c03_u012"
+    },
+    {
+      "verb": "thank",
+      "subject": "I/Monica Geller",
+      "object": "you/Rachel Green",
+      "uid": "s01_e17_c03_u013"
+    }
+  ]
+}

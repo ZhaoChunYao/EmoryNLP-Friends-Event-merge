@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker speaks only in brief, reactive exclamations (“What?”, “Whoah!”, “Hey!”) and does not engage in conversation beyond minimal responses, suggesting a reserved demeanor."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "When asked to hand over the cigarette, TargetSpeaker bluntly refuses: “I am not giving you a cigarette,” showing uncooperative behavior."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of organization or carelessness; TargetSpeaker is simply reacting to instructions during the lesson."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker appears tense and startled (exclamations “Whoah!”, “Hey!”) and is told to relax their hand, indicating nervousness during the task."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No strong evidence of curiosity or dogmatism; participation in the lesson and refusal to hand over the cigarette do not clearly indicate openness or its opposite."
+  }
+}

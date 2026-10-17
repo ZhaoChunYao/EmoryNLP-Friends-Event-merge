@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "When asked whether to play poker or go to the bathroom, TargetSpeaker repeatedly chooses to leave for the bathroom instead of engaging with the group game and speaks minimally (u007, u009)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Responds plainly and cooperatively with clear statements of intent: “I’m going to the bathroom now” and “I want to go to the bathroom” (u007, u009)."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating being organized/efficient or sloppy/careless; simply states intention to leave."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety, irritation, or insecurity; tone appears neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity, imagination, or dogmatism; interaction is practical and minimal."
+  }
+}

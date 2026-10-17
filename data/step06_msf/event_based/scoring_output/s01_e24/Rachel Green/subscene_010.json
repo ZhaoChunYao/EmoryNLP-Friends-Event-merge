@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives brief, hesitant replies (“Huh?”, “I don’t know… sometimes it doesn’t.” “No, I’m just…”, “Wha…”) and doesn’t volunteer information, showing reserved behavior."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Evasive and not straightforward about reasons for the relationship concern (“I don’t know… sometimes it doesn’t.”), dodging specific suggestions before finally giving minimal clarification."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No concrete actions indicating organization or carelessness; only vague discussion about a relationship."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Hesitations and flustered responses (“Huh?”, “I don’t know…”, “I’m just…”, “Wha…”) suggest nervousness and uncertainty under pressure."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or of dogmatic/cautious thinking; mainly deflection without exploring ideas."
+  }
+}

@@ -1,0 +1,45 @@
+﻿episode,character,subscene,dimension,event_score,utterance_score,score_gap,event_input_text,utterance_input_text,event_evidence,utterance_evidence,manual_judgment,better_representation,notes
+s01_e01,Chandler Bing,subscene_007.json,NEU,1,-1,2,"Episode: s01_e01
+Scene: s01_e01_c11
+Subscene index for speaker: 007
+Main speaker: Chandler Bing
+UID span: s01_e01_c11_u001 → s01_e01_c11_u007
+Peak window: 0 → 1
+
+Dialogue:
+  [s01_e01_c11_u001]
+  1. Rachel Green says that Rachel Green making coffee for the first time is amazing.
+  2. Rachel Green says that Rachel Green is clarifying what Rachel Green means.
+  3. Rachel Green says that Rachel Green has never made coffee before in Rachel Green's entire life.
+  [s01_e01_c11_u002]
+  1. Chandler Bing says that Rachel Green making coffee for the first time is amazing.
+  [s01_e01_c11_u003] Joey Tribbiani: Congratulations.
+  [s01_e01_c11_u004]
+  1. Rachel Green says that Rachel Green figures that if Rachel Green can make coffee, then Rachel Green can do anything.
+  [s01_e01_c11_u005]
+  1. Chandler Bing says that Chandler Bing could invade Poland.
+  2. Chandler Bing says that if Chandler Bing could invade Poland, then Chandler Bing could do anything.
+  [s01_e01_c11_u006]
+  1. Joey Tribbiani tells Rachel Green to listen.
+  2. Joey Tribbiani says that Rachel Green is on a roll.
+  3. Joey Tribbiani says that Rachel Green might feel like making a Western omelet.
+  4. Joey Tribbiani suggests that Rachel Green make a Western omelet.
+  5. Joey Tribbiani says that Joey Tribbiani is not that hungry.
+  [s01_e01_c11_u007]
+  1. Monica Geller says that Lenny and Squigy are here.
+","Episode: s01_e01
+Scene: s01_e01_c11
+Subscene index for speaker: 007
+Main speaker: Chandler Bing
+UID span: s01_e01_c11_u001 → s01_e01_c11_u007
+Peak window: 0 → 1
+
+Dialogue:
+  [s01_e01_c11_u001] Rachel Green: Isn't this amazing? I mean, I have never made coffee before in my entire life.
+  [s01_e01_c11_u002] Chandler Bing: That is amazing.
+  [s01_e01_c11_u003] Joey Tribbiani: Congratulations.
+  [s01_e01_c11_u004] Rachel Green: Y'know, I figure if I can make coffee, there isn't anything I can't do.
+  [s01_e01_c11_u005] Chandler Bing: If can invade Poland, there isn't anything I can't do.
+  [s01_e01_c11_u006] Joey Tribbiani: Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... Although actually I'm really not that hungry...
+  [s01_e01_c11_u007] Monica Geller: Oh good, Lenny and Squigy are here.
+",Statements like “I could invade Poland… I could do anything” convey confidence rather than nervousness.,Delivers confident humor with no signs of nervousness or sensitivity.,,,

@@ -1,0 +1,50 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e05_c08_u001",
+      "events": [
+        {
+          "event_id": "s01_e05_c08_u001_e1",
+          "tuples": [
+            "('be', 'He/Bob', 'so cute', 's01_e05_c08_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c08_u001_e2",
+          "tuples": [
+            "('grow', 'you guys/Angela Delveccio and Bob', 'up', 's01_e05_c08_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c08_u004",
+      "events": [
+        {
+          "event_id": "s01_e05_c08_u004_e1",
+          "tuples": [
+            "('happen', 'that/(Angela Delveccio grew up in Brooklyn Heights and Bob grew up in Cleveland)', None, 's01_e05_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e05_c08_u007",
+      "events": [
+        {
+          "event_id": "s01_e05_c08_u007_e1",
+          "tuples": [
+            "('have', 'I/Joey Tribbiani', 'the feeling that I was falling', 's01_e05_c08_u007')",
+            "('fall', 'I/Joey Tribbiani', None, 's01_e05_c08_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e05_c08_u007_e2",
+          "tuples": [
+            "('be', 'I/Joey Tribbiani', None, 's01_e05_c08_u007')"
+          ]
+        }
+      ]
+    }
+  ]
+}

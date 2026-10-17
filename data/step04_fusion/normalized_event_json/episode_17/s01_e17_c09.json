@@ -1,0 +1,120 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e17_c09_u001",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u001_e1",
+          "tuples": [
+            "('remember', 'you/Nurse Sizemore', 'us', 's01_e17_c09_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u003",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u003_e1",
+          "tuples": [
+            "('call', 'you/Nurse Sizemore', 'about needing a signature on the admissions form', 's01_e17_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u003_e2",
+          "tuples": [
+            "('need', 'you/Nurse Sizemore', 'a signature', 's01_e17_c09_u003')",
+            "('need', 'you/Nurse Sizemore', 'on the admissions form', 's01_e17_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u003_e3",
+          "tuples": [
+            "('turn', 'it/(situation)', 'out we need a whole new one', 's01_e17_c09_u003')",
+            "('need', 'we/Monica Geller and Rachel Green', 'a whole new one', 's01_e17_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u003_e4",
+          "tuples": [
+            "('see', 'you/Nurse Sizemore', None, 's01_e17_c09_u003')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u003_e5",
+          "tuples": [
+            "('put', 'I/Monica Geller', 'the wrong name', 's01_e17_c09_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u004",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u004_e1",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'that stupid', 's01_e17_c09_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u005",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u005_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', None, 's01_e17_c09_u005')",
+            "('be', 'I/Monica Geller', 'that stupid', 's01_e17_c09_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u006",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u006_e1",
+          "tuples": [
+            "('pay', 'I/Rachel Green', 'for this with a check', 's01_e17_c09_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u007",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u007_e1",
+          "tuples": [
+            "('know', 'you/Rachel Green', 'your insurance will cover that', 's01_e17_c09_u007')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u007_e2",
+          "tuples": [
+            "('cover', 'your insurance', 'that', 's01_e17_c09_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e17_c09_u008",
+      "events": [
+        {
+          "event_id": "s01_e17_c09_u008_e1",
+          "tuples": [
+            "('know', 'I/Rachel Green', None, 's01_e17_c09_u008')"
+          ]
+        },
+        {
+          "event_id": "s01_e17_c09_u008_e2",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'not that bright either', 's01_e17_c09_u008')"
+          ]
+        }
+      ]
+    }
+  ]
+}

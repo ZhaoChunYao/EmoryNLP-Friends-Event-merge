@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages others proactively—advises Speaker_01 and later initiates small talk by asking Speaker_04 how their first day at work was."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Provides calming support (“you should relax, be cool”) and shows friendly interest in Speaker_04’s day, speaking directly about the dream."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behaviors indicating organization or task focus; interactions are casual reassurance and brief chat."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Appears calm and composed, encouraging others to relax and be cool; no signs of anxiety or distress."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses imaginative interpretation—states the experience was just a dream that doesn’t mean anything and to let it go."
+  }
+}

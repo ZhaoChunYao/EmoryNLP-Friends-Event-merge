@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Shows and discusses the first chapter with a group and actively seeks their feedback (u001.1-2), engaging others socially and assertively ending the joking (u006)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Requests others’ absolute honest opinion (u001.2) and candidly admits “I’m not a great typist” (u004), showing straightforwardness and willingness to accept critique."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Manuscript contains clear typos (“heaving beasts,” “niffle”) (u001.3, u002, u003) and the speaker admits poor typing (u004), indicating carelessness/sloppiness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Responds to teasing by abruptly declaring the joking is over and demanding the manuscript back immediately (u006), showing sensitivity and irritability."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shares creative work and explicitly invites absolute honest feedback on it (u001.1-2), reflecting openness to ideas and critique."
+  }
+}

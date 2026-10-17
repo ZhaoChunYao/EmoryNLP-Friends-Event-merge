@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker repeatedly brings up and teases about Speaker_01 loving Speaker_03 in front of others (pizza from 'I Love Rachel', referencing an earlier speech), and is noted as 'still going on' about it."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He disregards Speaker_01’s denial and continues needling with accusations, provoking rather than accommodating or cooperative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behaviors indicating organization/efficiency or carelessness/sloppiness are shown."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No clear signs of nervousness or sensitivity, but also no explicit demonstrations of calm/security specific to emotions."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indicators of curiosity, creativity, or dogmatism; comments focus on teasing about others’ actions."
+  }
+}

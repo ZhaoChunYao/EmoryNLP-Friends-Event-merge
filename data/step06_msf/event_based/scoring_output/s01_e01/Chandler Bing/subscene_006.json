@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker takes charge of the conversation, tells Speaker_01 to pay attention, delivers a long, humorous explanation (e.g., the Mento line), and ends with a quip (“stay out of my freezer”), showing talkative, assertive, social behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "He urges understanding of his and Speaker_02’s perspective, acknowledges Speaker_01’s pain (“she ripped your heart out”) and frames their stance around it, which is straightforward and empathetic rather than combative."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear evidence of being organized/efficient or sloppy/careless is shown in these remarks; he mainly offers perspective and humor."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "He explicitly links their avoidance of serious relationships to fear stemming from Speaker_01’s heartbreak (“that’s why we don’t do serious relationships”), indicating sensitivity/avoidance."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "He invites perspective-taking (“you need to understand our perspective”) and uses a creative metaphor (“lasted longer than a Mento”), reflecting imaginative, open style."
+  }
+}

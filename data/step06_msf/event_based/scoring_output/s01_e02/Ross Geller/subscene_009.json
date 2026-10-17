@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly voices a strong opinion defending others and casually announces \"I need to go pee now\" in the group, showing comfort speaking up."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Counters a negative remark by saying Speaker_02 and Speaker_03 are pros who take their time and get the job done—supportive and trusting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating the speaker’s own organization or reliability; only comments on others’ work habits."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no anxiety; confidently and unselfconsciously states an immediate need and speaks assertively."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No evidence of curiosity, novelty-seeking, or unconventional ideas in the remarks."
+  }
+}

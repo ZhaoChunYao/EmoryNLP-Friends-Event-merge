@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker had separated from the group (“got away from Speaker_04”) and, when prompted for a photo, responded “someone should kill TargetSpeaker now,” showing discomfort with social attention."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No clear behavior indicating cooperativeness or untrustworthiness; avoidance of a photo does not demonstrate agreeableness level."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No actions related to organization, reliability, or carelessness were shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "TargetSpeaker’s dramatic reaction—“someone should kill TargetSpeaker now”—suggests strong negative affect and embarrassment."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements or behaviors indicating curiosity, creativity, dogmatism, or caution about ideas."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Sings out loud to the group to calm someone (“Raindrops on roses…”) showing outgoing, expressive behavior."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Actively tries to soothe another person with a comforting song and celebrates aiding them (“TargetSpeaker helped!”) indicating helpfulness and support."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; only a spontaneous attempt to help."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident while assisting and then asserts success (“TargetSpeaker helped!”), not showing nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses a creative, imaginative song and imagery to comfort someone, reflecting openness to playful, inventive solutions."
+  }
+}

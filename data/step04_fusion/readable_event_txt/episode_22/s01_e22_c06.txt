@@ -1,0 +1,203 @@
+event_id: s01_e22_c06_u001_e1
+utterance_id: s01_e22_c06_u001
+  tuple: ('do', 'I/Monica Geller', None, 's01_e22_c06_u001')
+
+event_id: s01_e22_c06_u002_e1
+utterance_id: s01_e22_c06_u002
+  tuple: ('tell', 'I/Ethan', 'you', 's01_e22_c06_u002')
+
+event_id: s01_e22_c06_u002_e2
+utterance_id: s01_e22_c06_u002
+  tuple: ('be', 'I/Ethan', 'like nine', 's01_e22_c06_u002')
+  tuple: ('think', 'I/Ethan', 'that gunpoint was an actual place where crimes happen', 's01_e22_c06_u002')
+  tuple: ('be', 'gunpoint', 'an actual place', 's01_e22_c06_u002')
+  tuple: ('happen', 'crimes', None, 's01_e22_c06_u002')
+
+event_id: s01_e22_c06_u003_e1
+utterance_id: s01_e22_c06_u003
+  tuple: ('be', 'that', 'possible', 's01_e22_c06_u003')
+
+event_id: s01_e22_c06_u004_e1
+utterance_id: s01_e22_c06_u004
+  tuple: ('think', 'you/Monica Geller', 'about it', 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u004_e2
+utterance_id: s01_e22_c06_u004
+  tuple: ('be', 'it', 'on the news', 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u004_e3
+utterance_id: s01_e22_c06_u004
+  tuple: ('hold up', 'A man', 'at gunpoint', 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u004_e4
+utterance_id: s01_e22_c06_u004
+  tuple: ('terrorise', 'Tourists', 'at gunpoint', 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u004_e5
+utterance_id: s01_e22_c06_u004
+  tuple: ('think', 'I/Ethan', 'why does people continue to go there', 's01_e22_c06_u004')
+  tuple: ('continue', 'people', 'to go there', 's01_e22_c06_u004')
+  tuple: ('go', 'people', 'there', 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u004_e6
+utterance_id: s01_e22_c06_u004
+  tuple: ('go', 'I/Ethan', None, 's01_e22_c06_u004')
+
+event_id: s01_e22_c06_u010_e1
+utterance_id: s01_e22_c06_u010
+  tuple: ('want', 'you/Ethan', 'to stay over', 's01_e22_c06_u010')
+  tuple: ('stay over', 'you/Ethan', None, 's01_e22_c06_u010')
+
+event_id: s01_e22_c06_u010_e2
+utterance_id: s01_e22_c06_u010
+  tuple: ('go', 'I/Monica Geller', None, 's01_e22_c06_u010')
+
+event_id: s01_e22_c06_u011_e1
+utterance_id: s01_e22_c06_u011
+  tuple: ('like', 'I/Ethan', 'that', 's01_e22_c06_u011')
+
+event_id: s01_e22_c06_u013_e1
+utterance_id: s01_e22_c06_u013
+  tuple: ('be', 'there', 'something you should know', 's01_e22_c06_u013')
+  tuple: ('know', 'you/Monica Geller', 'something', 's01_e22_c06_u013')
+
+event_id: s01_e22_c06_u013_e2
+utterance_id: s01_e22_c06_u013
+  tuple: ('get', 'we/Ethan+Monica Geller', 'into any staying-over-stuff', 's01_e22_c06_u013')
+
+event_id: s01_e22_c06_u014_e1
+utterance_id: s01_e22_c06_u014
+  tuple: ('be', 'this', "like 'I have an early class tomorrow' or 'I'm secretly married to a goat'", 's01_e22_c06_u014')
+  tuple: ('have', 'I/Monica Geller', 'an early class', 's01_e22_c06_u014')
+  tuple: ('marry', 'I/Monica Geller', 'to a goat', 's01_e22_c06_u014')
+
+event_id: s01_e22_c06_u015_e1
+utterance_id: s01_e22_c06_u015
+  tuple: ('be', 'it', 'somewhere in between', 's01_e22_c06_u015')
+
+event_id: s01_e22_c06_u015_e2
+utterance_id: s01_e22_c06_u015
+  tuple: ('be', 'I/Ethan', None, 's01_e22_c06_u015')
+
+event_id: s01_e22_c06_u018_e1
+utterance_id: s01_e22_c06_u018
+  tuple: ('be', 'you/Ethan', 'a virgin', 's01_e22_c06_u018')
+
+event_id: s01_e22_c06_u019_e1
+utterance_id: s01_e22_c06_u019
+  tuple: ('be', 'that', 'what you kids are calling it these days', 's01_e22_c06_u019')
+  tuple: ('call', 'you kids', 'it', 's01_e22_c06_u019')
+
+event_id: s01_e22_c06_u019_e2
+utterance_id: s01_e22_c06_u019
+  tuple: ('be', 'I/Ethan', None, 's01_e22_c06_u019')
+
+event_id: s01_e22_c06_u019_e3
+utterance_id: s01_e22_c06_u019
+  tuple: ('wait', 'I/Ethan', 'for the right person', 's01_e22_c06_u019')
+
+event_id: s01_e22_c06_u021_e1
+utterance_id: s01_e22_c06_u021
+  tuple: ('know', 'you/Monica Geller', 'that I was talking about you', 's01_e22_c06_u021')
+  tuple: ('talk', 'I/Ethan', 'about you', 's01_e22_c06_u021')
+
+event_id: s01_e22_c06_u025_e1
+utterance_id: s01_e22_c06_u025
+  tuple: ('say', 'you/Ethan', 'that', 's01_e22_c06_u025')
+
+event_id: s01_e22_c06_u026_e1
+utterance_id: s01_e22_c06_u026
+  tuple: ('know', 'you/Ethan', None, 's01_e22_c06_u026')
+
+event_id: s01_e22_c06_u026_e2
+utterance_id: s01_e22_c06_u026
+  tuple: ('read', 'you/Ethan', 'about it', 's01_e22_c06_u026')
+
+event_id: s01_e22_c06_u026_e3
+utterance_id: s01_e22_c06_u026
+  tuple: ('see', 'you/Ethan', 'it', 's01_e22_c06_u026')
+  tuple: ('see', 'you/Ethan', 'in the movies', 's01_e22_c06_u026')
+
+event_id: s01_e22_c06_u026_e4
+utterance_id: s01_e22_c06_u026
+  tuple: ('practice', 'you/Ethan', 'it', 's01_e22_c06_u026')
+  tuple: ('practice', 'you/Ethan', 'at home', 's01_e22_c06_u026')
+
+event_id: s01_e22_c06_u026_e5
+utterance_id: s01_e22_c06_u026
+  tuple: ('be', 'it', 'nothing like that', 's01_e22_c06_u026')
+
+event_id: s01_e22_c06_u028_e1
+utterance_id: s01_e22_c06_u028
+  tuple: ('listen', 'you/Ethan', None, 's01_e22_c06_u028')
+
+event_id: s01_e22_c06_u028_e2
+utterance_id: s01_e22_c06_u028
+  tuple: ('tell', 'you/Ethan', 'me something', 's01_e22_c06_u028')
+  tuple: ('be', 'that', 'really difficult', 's01_e22_c06_u028')
+  tuple: ('be', 'that', 'for you', 's01_e22_c06_u028')
+
+event_id: s01_e22_c06_u028_e3
+utterance_id: s01_e22_c06_u028
+  tuple: ('figure', 'I/Monica Geller', 'if you could be honest then I can too', 's01_e22_c06_u028')
+  tuple: ('be', 'you/Ethan', 'honest', 's01_e22_c06_u028')
+
+event_id: s01_e22_c06_u029_e1
+utterance_id: s01_e22_c06_u029
+  tuple: ('tell', 'you/Monica Geller', 'me', 's01_e22_c06_u029')
+
+event_id: s01_e22_c06_u029_e2
+utterance_id: s01_e22_c06_u029
+  tuple: ('do', 'I/Ethan', 'it wrong', 's01_e22_c06_u029')
+
+event_id: s01_e22_c06_u032_e1
+utterance_id: s01_e22_c06_u032
+  tuple: ('go', 'it', None, 's01_e22_c06_u032')
+
+event_id: s01_e22_c06_u032_e2
+utterance_id: s01_e22_c06_u032
+  tuple: ('be', 'I/Monica Geller', '22', 's01_e22_c06_u032')
+
+event_id: s01_e22_c06_u032_e3
+utterance_id: s01_e22_c06_u032
+  tuple: ('be', 'I/Monica Geller', '25', 's01_e22_c06_u032')
+
+event_id: s01_e22_c06_u034_e1
+utterance_id: s01_e22_c06_u034
+  tuple: ('figure', 'I/Monica Geller', "that shouldn't change anything", 's01_e22_c06_u034')
+  tuple: ('change', 'that', 'anything', 's01_e22_c06_u034')
+
+event_id: s01_e22_c06_u034_e2
+utterance_id: s01_e22_c06_u034
+  tuple: ('matter', 'it', 'how old we are', 's01_e22_c06_u034')
+  tuple: ('be', 'we/Ethan+Monica Geller', 'old', 's01_e22_c06_u034')
+
+event_id: s01_e22_c06_u036_e1
+utterance_id: s01_e22_c06_u036
+  tuple: ('listen', 'you/Monica Geller', None, 's01_e22_c06_u036')
+
+event_id: s01_e22_c06_u036_e2
+utterance_id: s01_e22_c06_u036
+  tuple: ('tell', 'we/Ethan+Monica Geller', 'stuff', 's01_e22_c06_u036')
+
+event_id: s01_e22_c06_u036_e3
+utterance_id: s01_e22_c06_u036
+  tuple: ('have', 'I/Ethan', 'another one', 's01_e22_c06_u036')
+  tuple: ('have', 'I/Ethan', 'for you', 's01_e22_c06_u036')
+
+event_id: s01_e22_c06_u036_e4
+utterance_id: s01_e22_c06_u036
+  tuple: ('be', 'I/Ethan', 'a little younger than I said', 's01_e22_c06_u036')
+
+event_id: s01_e22_c06_u036_e5
+utterance_id: s01_e22_c06_u036
+  tuple: ('say', 'I/Ethan', None, 's01_e22_c06_u036')
+
+event_id: s01_e22_c06_u037_e1
+utterance_id: s01_e22_c06_u037
+  tuple: ('be', 'you/Ethan', 'a senior', 's01_e22_c06_u037')
+
+event_id: s01_e22_c06_u038_e1
+utterance_id: s01_e22_c06_u038
+  tuple: ('be', 'I/Ethan', 'a senior in High School', 's01_e22_c06_u038')
+

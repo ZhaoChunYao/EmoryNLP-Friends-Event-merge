@@ -1,0 +1,1063 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e18_c07_u001",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('hand over', 'you gals/(Rachel Green, Monica Geller, Phoebe Buffay)', 'your money now', 's01_e18_c07_u001')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('go', 'we/(everyone at the table)', 'through the formality of actually playing', 's01_e18_c07_u001')",
+            "('play', 'we/(everyone at the table)', None, 's01_e18_c07_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u002",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that', 'fine', 's01_e18_c07_u002')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('see', 'we/(Rachel Green, Monica Geller, Phoebe Buffay)', 'who has the last laugh there', 's01_e18_c07_u002')",
+            "('have', 'who', 'the last laugh there', 's01_e18_c07_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u003",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'we/(everyone at the table)', 'done with the chit-chat', 's01_e18_c07_u003')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('play', 'we/(everyone at the table)', 'some serious poker', 's01_e18_c07_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u004",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('look', 'you guys/(everyone at the table)', None, 's01_e18_c07_u004')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('follow', 'the one-eyed jack', 'me', 's01_e18_c07_u004')",
+            "('go', 'I/Phoebe Buffay', None, 's01_e18_c07_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u006",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'you/Ross Geller', None, 's01_e18_c07_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u007",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'I/Ross Geller', 'to the bathroom', 's01_e18_c07_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u008",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'you/Ross Geller', 'to the bathroom', 's01_e18_c07_u008')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('play', 'you/Ross Geller', 'poker', 's01_e18_c07_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u010",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('order', 'I/Joey Tribbiani', 'a pizza', 's01_e18_c07_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u011",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('hear', 'I/Rachel Green', 'from that job', 's01_e18_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('close', 'the store', None, 's01_e18_c07_u011')",
+            "('close', 'the store', 'at nine', 's01_e18_c07_u011')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('eat', 'you/Joey Tribbiani', None, 's01_e18_c07_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u012",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'I/Joey Tribbiani', 'a Tic-Tac', 's01_e18_c07_u012')",
+            "('hold', 'a Tic-Tac', 'over me', 's01_e18_c07_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u013",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('ante', 'everybody/(all players)', None, 's01_e18_c07_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u016",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'your money', 'mine', 's01_e18_c07_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u017",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'your fly', 'open', 's01_e18_c07_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u019",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you guys/(everyone at the table)', 'what I just realized', 's01_e18_c07_u019')",
+            "('realize', 'I/Phoebe Buffay', \"'Joker' is 'poker' with a 'J'\", 's01_e18_c07_u019')",
+            "('be', \"'Joker'\", \"'poker' with a 'J'\", 's01_e18_c07_u019')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u020",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that', \"'joincidence' with a 'C'\", 's01_e18_c07_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u022",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'out', 's01_e18_c07_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u023",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'in', 's01_e18_c07_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u025",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'you/Ross Geller', 'what', 's01_e18_c07_u025')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u026",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('hop', 'you/Rachel Green', 'out of the shower', 's01_e18_c07_u026')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('have', 'I/Ross Geller', 'a flush', 's01_e18_c07_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u027",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('hop', 'you/Ross Geller', 'back in', 's01_e18_c07_u027')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'four sixes', 's01_e18_c07_u027')",
+            "('win', 'I/Rachel Green', None, 's01_e18_c07_u027')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('think', 'I/Rachel Green', \"I'm gonna make a little Ross pile\", 's01_e18_c07_u027')",
+            "('make', 'I/Rachel Green', 'a little Ross pile', 's01_e18_c07_u027')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('think', 'I/Rachel Green', \"that one was Ross's\", 's01_e18_c07_u027')",
+            "('be', 'that one', \"Ross's\", 's01_e18_c07_u027')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('have', 'I/Rachel Green', 'your money', 's01_e18_c07_u027')"
+          ]
+        },
+        {
+          "event_id": "event-6",
+          "tuples": [
+            "('see', 'you/Ross Geller', 'it', 's01_e18_c07_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u031",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('make', 'I/Rachel Green', 'you look', 's01_e18_c07_u031')",
+            "('look', 'you/Ross Geller', None, 's01_e18_c07_u031')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u033",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'inner', 's01_e18_c07_u033')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u035",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('hate', 'I/Monica Geller', 'this game', 's01_e18_c07_u035')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u038",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('fold', 'I/Joey Tribbiani', None, 's01_e18_c07_u038')",
+            "('be', 'I/Joey Tribbiani', 'out', 's01_e18_c07_u038')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('hit', 'who', 'in the stomach', 's01_e18_c07_u038')",
+            "('hit', 'who', 'by a fat guy with sores on his face', 's01_e18_c07_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u042",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Chandler Bing', 'out', 's01_e18_c07_u042')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u044",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'you/Ross Geller', 's01_e18_c07_u044')",
+            "('raise', 'I/Rachel Green', 'you/Ross Geller', 's01_e18_c07_u044')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('say', 'you/Ross Geller', 'what', 's01_e18_c07_u044')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('waste', 'you/Ross Geller', 'another buck', 's01_e18_c07_u044')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u046",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('tell', 'I/Rachel Green', None, 's01_e18_c07_u046')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u047",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('show', 'you/Rachel Green', 'them', 's01_e18_c07_u047')",
+            "('show', 'you/Rachel Green', 'to me', 's01_e18_c07_u047')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u050",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'you/Ross Geller', 'your hands out of there', 's01_e18_c07_u050')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u051",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('let', 'you/Rachel Green', 'me see', 's01_e18_c07_u051')",
+            "('see', 'me/Ross Geller', None, 's01_e18_c07_u051')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u052",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'I/Chandler Bing', 'dates like this', 's01_e18_c07_u052')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u053",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('stand', 'you/Ross Geller', 'to lose', 's01_e18_c07_u053')",
+            "('lose', 'you/Ross Geller', None, 's01_e18_c07_u053')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('get', 'your whole face', 'red', 's01_e18_c07_u053')",
+            "('pop out', 'little veins', 'on your temple', 's01_e18_c07_u053')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u054",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('match', 'that shirt', 'those pants', 's01_e18_c07_u054')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u056",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('lose', 'I/Ross Geller', None, 's01_e18_c07_u056')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u058",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('talk', 'us/(everyone at the table)', 'about losing', 's01_e18_c07_u058')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('deal', 'you/Rachel Green', None, 's01_e18_c07_u058')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u061",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'it', 'about the job', 's01_e18_c07_u061')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u063",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'you/Barbara', None, 's01_e18_c07_u063')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('understand', 'I/Rachel Green', None, 's01_e18_c07_u063')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'I/Rachel Green', 'fine', 's01_e18_c07_u063')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('be', 'you/Barbara', 'silly', 's01_e18_c07_u063')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('know', 'you/Barbara', None, 's01_e18_c07_u063')"
+          ]
+        },
+        {
+          "event_id": "event-6",
+          "tuples": [
+            "('open', 'anything else', None, 's01_e18_c07_u063')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u066",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('know', 'you/Rachel Green', None, 's01_e18_c07_u066')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('be', 'there', 'lots of other stuff', 's01_e18_c07_u066')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u067",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'we/(everyone at the table)', None, 's01_e18_c07_u067')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u068",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('look', 'Rachel Green', None, 's01_e18_c07_u068')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('do', 'we/Joey Tribbiani and Rachel Green', 'this', 's01_e18_c07_u068')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u070",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('check', 'I/Monica Geller', None, 's01_e18_c07_u070')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u071",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('check', 'I/Joey Tribbiani', None, 's01_e18_c07_u071')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u072",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'in for fifty cents', 's01_e18_c07_u072')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u073",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('call', 'I/Chandler Bing', None, 's01_e18_c07_u073')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u074",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Phoebe Buffay', 'in', 's01_e18_c07_u074')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u075",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'your fifty cents', 's01_e18_c07_u075')",
+            "('raise', 'I/Rachel Green', 'you five dollars', 's01_e18_c07_u075')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u076",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/Ross Geller', 'it was a fifty cent limit', 's01_e18_c07_u076')",
+            "('be', 'it', 'a fifty cent limit', 's01_e18_c07_u076')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u077",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('lose', 'I/Rachel Green', 'a job', 's01_e18_c07_u077')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('raise', 'I/Rachel Green', 'the bet five bucks', 's01_e18_c07_u077')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('have', 'anybody', 'a problem with that', 's01_e18_c07_u077')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u081",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('fold', 'I/Ross Geller', None, 's01_e18_c07_u081')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u082",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('mean', 'you/Ross Geller', 'what', 's01_e18_c07_u082')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('fold', 'you/Ross Geller', None, 's01_e18_c07_u082')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'this', None, 's01_e18_c07_u082')"
+          ]
+        },
+        {
+          "event_id": "event-4",
+          "tuples": [
+            "('think', 'I/Rachel Green', \"'once the cards were dealt, I'm not a nice guy.'\", 's01_e18_c07_u082')",
+            "('deal', 'the cards', None, 's01_e18_c07_u082')",
+            "('be', 'I/Ross Geller', 'not a nice guy', 's01_e18_c07_u082')"
+          ]
+        },
+        {
+          "event_id": "event-5",
+          "tuples": [
+            "('be', 'you/Ross Geller', 'full of it', 's01_e18_c07_u082')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u084",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'in', 's01_e18_c07_u084')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u085",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('want', 'you/Ross Geller', 'how many', 's01_e18_c07_u085')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u087",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('take', 'dealer/Rachel Green', 'two', 's01_e18_c07_u087')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('bet', 'you/Ross Geller', 'what', 's01_e18_c07_u087')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u088",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('bet', 'I/Ross Geller', 'two dollars', 's01_e18_c07_u088')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u089",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'your two', 's01_e18_c07_u089')",
+            "('raise', 'I/Rachel Green', 'you twenty', 's01_e18_c07_u089')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u090",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'I/Ross Geller', 'your twenty', 's01_e18_c07_u090')",
+            "('raise', 'I/Ross Geller', 'you twenty-five', 's01_e18_c07_u090')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u092",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('see', 'I/Rachel Green', 'your twenty-five', 's01_e18_c07_u092')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('get', 'Monica Geller', 'my purse', 's01_e18_c07_u092')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u094",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'there', 'nothing in it', 's01_e18_c07_u094')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u095",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('get', 'you/Monica Geller', 'your purse', 's01_e18_c07_u095')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u097",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('go', 'you/Rachel Green', 'here', 's01_e18_c07_u097')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u098",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('thank', 'I/Rachel Green', 'you/Monica Geller', 's01_e18_c07_u098')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('raise', 'I/Rachel Green', 'you seven', 's01_e18_c07_u098')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u101",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'I/Ross Geller', 'a little shy', 's01_e18_c07_u101')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u102",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that', 'OK', 's01_e18_c07_u102')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('ask', 'you/Ross Geller', 'me/Joey Tribbiani', 's01_e18_c07_u102')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u104",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('need', 'you/Ross Geller', 'what', 's01_e18_c07_u104')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u106",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'here', 'ten', 's01_e18_c07_u106')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u107",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'I/Joey Tribbiani', 'five', 's01_e18_c07_u107')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u108",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('thank', 'I/Ross Geller', 'you/Chandler Bing and Joey Tribbiani', 's01_e18_c07_u108')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u110",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('call', 'I/Ross Geller', 'your seventeen', 's01_e18_c07_u110')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('have', 'you/Rachel Green', 'what', 's01_e18_c07_u110')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u114",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'you/Rachel Green', 'me', 's01_e18_c07_u114')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u116",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('be', 'that', 'alright', 's01_e18_c07_u116')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('know', 'you/(everyone)', None, 's01_e18_c07_u116')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('be', 'that', 'a tough hand to beat', 's01_e18_c07_u116')",
+            "('beat', 'you/(generic player)', 'that hand', 's01_e18_c07_u116')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u117",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('think', 'I/Chandler Bing', 'we had them', 's01_e18_c07_u117')",
+            "('have', 'we/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'them', 's01_e18_c07_u117')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c07_u118",
+      "events": [
+        {
+          "event_id": "event-1",
+          "tuples": [
+            "('have', 'you/(generic player)', 'the cards', 's01_e18_c07_u118')"
+          ]
+        },
+        {
+          "event_id": "event-2",
+          "tuples": [
+            "('know', 'you/(group)', None, 's01_e18_c07_u118')"
+          ]
+        },
+        {
+          "event_id": "event-3",
+          "tuples": [
+            "('look', 'you/(group)', None, 's01_e18_c07_u118')",
+            "('be', 'she/Rachel Green', 'happy', 's01_e18_c07_u118')"
+          ]
+        }
+      ]
+    }
+  ]
+}

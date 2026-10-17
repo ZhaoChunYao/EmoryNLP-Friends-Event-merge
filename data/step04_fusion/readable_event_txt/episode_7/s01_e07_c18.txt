@@ -1,0 +1,127 @@
+event_id: s01_e07_c18_u004_e1
+utterance_id: s01_e07_c18_u004
+  tuple: ('say', 'he/Paolo', 'what', 's01_e07_c18_u004')
+  tuple: ('be', 'that', 'so funny', 's01_e07_c18_u004')
+
+event_id: s01_e07_c18_u005_e1
+utterance_id: s01_e07_c18_u005
+  tuple: ('have', 'I/Rachel Green', 'absolutely no idea', 's01_e07_c18_u005')
+
+event_id: s01_e07_c18_u006_e1
+utterance_id: s01_e07_c18_u006
+  tuple: ('be', 'That', 'classic', 's01_e07_c18_u006')
+
+event_id: s01_e07_c18_u007_e1
+utterance_id: s01_e07_c18_u007
+  tuple: ('do', 'I/Rachel Green', 'what', 's01_e07_c18_u007')
+  tuple: ('be', 'This', 'so un-me', 's01_e07_c18_u007')
+
+event_id: s01_e07_c18_u008_e1
+utterance_id: s01_e07_c18_u008
+  tuple: ('want', 'you/Rachel Green', None, 's01_e07_c18_u008')
+
+event_id: s01_e07_c18_u008_e2
+utterance_id: s01_e07_c18_u008
+  tuple: ('do', 'I/Monica Geller', 'it', 's01_e07_c18_u008')
+
+event_id: s01_e07_c18_u010_e1
+utterance_id: s01_e07_c18_u010
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e07_c18_u010')
+
+event_id: s01_e07_c18_u010_e2
+utterance_id: s01_e07_c18_u010
+  tuple: ('want', 'I/Phoebe Buffay', 'to bite his bottom lip', 's01_e07_c18_u010')
+  tuple: ('bite', 'I/Phoebe Buffay', 'his bottom lip', 's01_e07_c18_u010')
+
+event_id: s01_e07_c18_u011_e1
+utterance_id: s01_e07_c18_u011
+  tuple: ('smile', 'he/Paolo', 'at me', 's01_e07_c18_u011')
+  tuple: ('be', 'those three seconds', 'more exciting than three weeks in Bermuda with Barry', 's01_e07_c18_u011')
+
+event_id: s01_e07_c18_u012_e1
+utterance_id: s01_e07_c18_u012
+  tuple: ('ride', 'you/Rachel Green', 'mopeds', 's01_e07_c18_u012')
+
+event_id: s01_e07_c18_u012_e2
+utterance_id: s01_e07_c18_u012
+  tuple: ('hear', 'I/Phoebe Buffay', None, 's01_e07_c18_u012')
+
+event_id: s01_e07_c18_u012_e3
+utterance_id: s01_e07_c18_u012
+  tuple: ('see', 'I/Phoebe Buffay', None, 's01_e07_c18_u012')
+  tuple: ('be', 'it', 'not about that right now', 's01_e07_c18_u012')
+
+event_id: s01_e07_c18_u013_e1
+utterance_id: s01_e07_c18_u013
+  tuple: ('know', 'I/Rachel Green', "it's totally superficial", 's01_e07_c18_u013')
+  tuple: ('be', 'it', 'totally superficial', 's01_e07_c18_u013')
+
+event_id: s01_e07_c18_u013_e2
+utterance_id: s01_e07_c18_u013
+  tuple: ('have', 'we/(Rachel Green+Paolo)', 'absolutely nothing', 's01_e07_c18_u013')
+  tuple: ('have', 'we/(Rachel Green+Paolo)', 'in common', 's01_e07_c18_u013')
+
+event_id: s01_e07_c18_u013_e3
+utterance_id: s01_e07_c18_u013
+  tuple: ('speak', 'we/(Rachel Green+Paolo)', 'the same language', 's01_e07_c18_u013')
+
+event_id: s01_e07_c18_u018_e1
+utterance_id: s01_e07_c18_u018
+  tuple: ('listen', 'you/Paolo', None, 's01_e07_c18_u018')
+
+event_id: s01_e07_c18_u018_e2
+utterance_id: s01_e07_c18_u018
+  tuple: ('know', 'you/Paolo', 'something', 's01_e07_c18_u018')
+  tuple: ('be', 'Rachel and I', 'kind of a thing', 's01_e07_c18_u018')
+
+event_id: s01_e07_c18_u021_e1
+utterance_id: s01_e07_c18_u021
+  tuple: ('have', 'you/Ross Geller', 'the sex', 's01_e07_c18_u021')
+
+event_id: s01_e07_c18_u022_e1
+utterance_id: s01_e07_c18_u022
+  tuple: ('have', 'the sex', None, 's01_e07_c18_u022')
+
+event_id: s01_e07_c18_u022_e2
+utterance_id: s01_e07_c18_u022
+  tuple: ('be', 'that', 'not the point', 's01_e07_c18_u022')
+  tuple: ('be', 'the point', 'that Rachel and I should be together', 's01_e07_c18_u022')
+  tuple: ('be', 'Rachel and I', 'together', 's01_e07_c18_u022')
+
+event_id: s01_e07_c18_u022_e3
+utterance_id: s01_e07_c18_u022
+  tuple: ('know', 'you/Paolo', None, 's01_e07_c18_u022')
+
+event_id: s01_e07_c18_u022_e4
+utterance_id: s01_e07_c18_u022
+  tuple: ('become', 'us/(Ross Geller+Rachel Green)', 'a thing', 's01_e07_c18_u022')
+
+event_id: s01_e07_c18_u022_e5
+utterance_id: s01_e07_c18_u022
+  tuple: ('get', 'you/Paolo', 'in the way of us becoming a thing', 's01_e07_c18_u022')
+
+event_id: s01_e07_c18_u024_e1
+utterance_id: s01_e07_c18_u024
+  tuple: ('be', 'that', 'not where I was going', 's01_e07_c18_u024')
+  tuple: ('go', 'I/Ross Geller', 'where', 's01_e07_c18_u024')
+
+event_id: s01_e07_c18_u024_e2
+utterance_id: s01_e07_c18_u024
+  tuple: ('be', 'I/Ross Geller', 'very sad', 's01_e07_c18_u024')
+
+event_id: s01_e07_c18_u028_e1
+utterance_id: s01_e07_c18_u028
+  tuple: ('know', 'you/Paolo', 'a little English', 's01_e07_c18_u028')
+
+event_id: s01_e07_c18_u030_e1
+utterance_id: s01_e07_c18_u030
+  tuple: ('know', 'you/Paolo', 'the word crapweasel', 's01_e07_c18_u030')
+
+event_id: s01_e07_c18_u032_e1
+utterance_id: s01_e07_c18_u032
+  tuple: ('be', 'That', 'funny', 's01_e07_c18_u032')
+
+event_id: s01_e07_c18_u032_e2
+utterance_id: s01_e07_c18_u032
+  tuple: ('be', 'you/Paolo', 'a huge crapweasel', 's01_e07_c18_u032')
+

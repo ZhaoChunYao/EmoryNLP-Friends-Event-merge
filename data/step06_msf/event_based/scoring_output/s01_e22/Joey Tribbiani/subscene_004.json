@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "TargetSpeaker only gives two brief, responsive lines (“All right, all right.” and “For the ride.”) and does not initiate or sustain conversation, suggesting a reserved stance."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "When told to get out of the refrigerator immediately, TargetSpeaker promptly agrees (“All right, all right.”) and complies without argument."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Taking something from the refrigerator “for the ride” shows some planning, but being in the fridge while everyone is rushing and needing to be told to stop suggests inefficiency; mixed signals."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional volatility; responses are calm and matter-of-fact."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indications of curiosity, creativity, or rigidity in the brief exchanges."
+  }
+}

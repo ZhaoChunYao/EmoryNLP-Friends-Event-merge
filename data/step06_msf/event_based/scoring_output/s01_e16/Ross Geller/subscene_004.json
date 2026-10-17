@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Gives brief directives and assistance (asking for the remote, offering to fix the TV) but shows no clear signs of sociability or talkativeness versus reserve."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures another to relax and offers to fix the TV, acting helpful and supportive; advice about not dating a coworker appears protective rather than hostile."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Advises against a workplace romance (rule-following, cautious) and quickly takes responsibility to fix the TV and retrieve the remote."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Remains calm and confident—tells others to relax and asserts he will fix the TV; no signs of anxiety or nervousness."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Dismisses the coworker’s cuteness as irrelevant and insists against getting involved with a coworker, reflecting a cautious, rule-bound stance over exploratory openness."
+  }
+}

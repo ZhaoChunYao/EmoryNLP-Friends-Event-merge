@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly (“it’s cold”; “I’m here to say goodbye”) without engaging in extended or energetic social interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Politely and straightforwardly states the purpose (“I’m here to say goodbye”) without hostility or boasting."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Aside from making a brief, purposeful visit, there is no clear evidence of organization or diligence."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite a tense context (others say their clothes were thrown off a balcony), they arrive and calmly state a goodbye, suggesting composure and confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indications of curiosity, imagination, or rigid dogmatism are present in the brief remarks."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker briefly states the group is about to draw and prompts Speaker_03 to decide how many cards to draw; no clear sign of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interactions are procedural and neutral, with no clear warmth or hostility; simply guiding turn order."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker organizes the game flow by announcing the draw phase and directing Speaker_03 to decide how many cards to draw, indicating orderly, efficient behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No signs of anxiety or emotional reactivity; tone appears neutral, but not enough evidence of either nervousness or notable calm."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No statements reflecting curiosity, creativity, or rigidity; content is purely procedural about the card game."
+  }
+}

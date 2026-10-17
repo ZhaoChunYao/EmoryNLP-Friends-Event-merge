@@ -1,0 +1,118 @@
+event_id: s01_e12_c12_u001_e1
+utterance_id: s01_e12_c12_u001
+  tuple: ('be', 'you/Rachel Green', 'okay', 's01_e12_c12_u001')
+
+event_id: s01_e12_c12_u002_e1
+utterance_id: s01_e12_c12_u002
+  tuple: ('need', 'I/Rachel Green', 'some milk', 's01_e12_c12_u002')
+
+event_id: s01_e12_c12_u003_e1
+utterance_id: s01_e12_c12_u003
+  tuple: ('get', 'I/Phoebe Buffay', 'milk', 's01_e12_c12_u003')
+
+event_id: s01_e12_c12_u003_e2
+utterance_id: s01_e12_c12_u003
+  tuple: ('go', 'you/Rachel Green', 'here', 's01_e12_c12_u003')
+
+event_id: s01_e12_c12_u004_e1
+utterance_id: s01_e12_c12_u004
+  tuple: ('feel', 'I/Rachel Green', 'so stupid', 's01_e12_c12_u004')
+
+event_id: s01_e12_c12_u004_e2
+utterance_id: s01_e12_c12_u004
+  tuple: ('think', 'I/Rachel Green', 'about the other day with you guys', 's01_e12_c12_u004')
+
+event_id: s01_e12_c12_u004_e3
+utterance_id: s01_e12_c12_u004
+  tuple: ('be', 'I/Rachel Green', "all 'Oh, Paolo, he's so great, he makes me feel so...'", 's01_e12_c12_u004')
+  tuple: ('be', 'he/Paolo', 'so great', 's01_e12_c12_u004')
+  tuple: ('make', 'he/Paolo', 'me feel so...', 's01_e12_c12_u004')
+  tuple: ('feel', 'me/Rachel Green', 'so...', 's01_e12_c12_u004')
+
+event_id: s01_e12_c12_u004_e4
+utterance_id: s01_e12_c12_u004
+  tuple: ('be', 'I/Rachel Green', 'so embarrassed', 's01_e12_c12_u004')
+
+event_id: s01_e12_c12_u005_e1
+utterance_id: s01_e12_c12_u005
+  tuple: ('be', 'I/Phoebe Buffay', 'so embarrassed', 's01_e12_c12_u005')
+
+event_id: s01_e12_c12_u005_e2
+utterance_id: s01_e12_c12_u005
+  tuple: ('be', 'I/Phoebe Buffay', 'the one he hit on', 's01_e12_c12_u005')
+  tuple: ('hit', 'he/Paolo', 'on me', 's01_e12_c12_u005')
+
+event_id: s01_e12_c12_u007_e1
+utterance_id: s01_e12_c12_u007
+  tuple: ('meet', 'I/Rachel Green', 'him', 's01_e12_c12_u007')
+
+event_id: s01_e12_c12_u007_e2
+utterance_id: s01_e12_c12_u007
+  tuple: ('happen', 'this', None, 's01_e12_c12_u007')
+
+event_id: s01_e12_c12_u008_e1
+utterance_id: s01_e12_c12_u008
+  tuple: ('be', 'I/Phoebe Buffay', 'so sorry', 's01_e12_c12_u008')
+
+event_id: s01_e12_c12_u008_e2
+utterance_id: s01_e12_c12_u008
+  tuple: ('be', 'I/Rachel Green', 'so sorry', 's01_e12_c12_u008')
+
+event_id: s01_e12_c12_u009_e1
+utterance_id: s01_e12_c12_u009
+  tuple: ('wait', 'you/Rachel Green', None, 's01_e12_c12_u009')
+
+event_id: s01_e12_c12_u009_e2
+utterance_id: s01_e12_c12_u009
+  tuple: ('be', 'we/Phoebe Buffay and Rachel Green', 'sorry', 's01_e12_c12_u009')
+
+event_id: s01_e12_c12_u010_e1
+utterance_id: s01_e12_c12_u010
+  tuple: ('be', 'he/Paolo', 'the pig', 's01_e12_c12_u010')
+
+event_id: s01_e12_c12_u012_e1
+utterance_id: s01_e12_c12_u012
+  tuple: ('be', 'he/Paolo', 'such a pig', 's01_e12_c12_u012')
+
+event_id: s01_e12_c12_u013_e1
+utterance_id: s01_e12_c12_u013
+  tuple: ('be', 'he/Paolo', 'like a...', 's01_e12_c12_u013')
+
+event_id: s01_e12_c12_u014_e1
+utterance_id: s01_e12_c12_u014
+  tuple: ('be', 'he/Paolo', 'like a big disgusting...', 's01_e12_c12_u014')
+
+event_id: s01_e12_c12_u018_e1
+utterance_id: s01_e12_c12_u018
+  tuple: ('be', 'he/Paolo', 'my pig man', 's01_e12_c12_u018')
+
+event_id: s01_e12_c12_u018_e2
+utterance_id: s01_e12_c12_u018
+  tuple: ('see', 'I/Rachel Green', 'this', 's01_e12_c12_u018')
+
+event_id: s01_e12_c12_u019_e1
+utterance_id: s01_e12_c12_u019
+  tuple: ('know', 'I/Phoebe Buffay', None, 's01_e12_c12_u019')
+  tuple: ('be', 'it', 'because...', 's01_e12_c12_u019')
+  tuple: ('be', 'he/Paolo', 'gorgeous', 's01_e12_c12_u019')
+  tuple: ('be', 'he/Paolo', 'charming', 's01_e12_c12_u019')
+  tuple: ('look', 'he/Paolo', 'at you', 's01_e12_c12_u019')
+
+event_id: s01_e12_c12_u023_e1
+utterance_id: s01_e12_c12_u023
+  tuple: ('tell', 'I/Phoebe Buffay', 'you', 's01_e12_c12_u023')
+
+event_id: s01_e12_c12_u024_e1
+utterance_id: s01_e12_c12_u024
+  tuple: ('trust', 'you/Phoebe Buffay', 'me', 's01_e12_c12_u024')
+
+event_id: s01_e12_c12_u024_e2
+utterance_id: s01_e12_c12_u024
+  tuple: ('be', 'it', 'much better that I know', 's01_e12_c12_u024')
+  tuple: ('know', 'I/Rachel Green', None, 's01_e12_c12_u024')
+
+event_id: s01_e12_c12_u024_e3
+utterance_id: s01_e12_c12_u024
+  tuple: ('like', 'I/Rachel Green', 'it better', 's01_e12_c12_u024')
+  tuple: ('be', 'it', 'better', 's01_e12_c12_u024')
+

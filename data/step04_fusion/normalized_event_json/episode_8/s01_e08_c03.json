@@ -1,0 +1,302 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e08_c03_u001",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u001_e1",
+          "tuples": [
+            "('do', 'she/(Nana)', None, 's01_e08_c03_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u002",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u002_e1",
+          "tuples": [
+            "('say', 'The doctor', \"it's a matter of hours\", 's01_e08_c03_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u002_e2",
+          "tuples": [
+            "('be', \"it/(Nana's time left)\", 'a matter of hours', 's01_e08_c03_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u003",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u003_e1",
+          "tuples": [
+            "('be', 'you/(Judy Geller)', None, 's01_e08_c03_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u004",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u004_e1",
+          "tuples": [
+            "('be', 'I/(Judy Geller)', 'fine', 's01_e08_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u004_e2",
+          "tuples": [
+            "('be', 'I/(Judy Geller)', \"glad you're here\", 's01_e08_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u004_e3",
+          "tuples": [
+            "('be', 'you/(Ross Geller and Monica Geller)', 'here', 's01_e08_c03_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u004_e4",
+          "tuples": [
+            "('be', 'what', 'with your hair', 's01_e08_c03_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u006",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u006_e1",
+          "tuples": [
+            "('be', 'what', 'different', 's01_e08_c03_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u008",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u008_e1",
+          "tuples": [
+            "('be', 'that', 'it', 's01_e08_c03_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u010",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u010_e1",
+          "tuples": [
+            "('be', 'she/(Judy Geller)', 'unbelievable', 's01_e08_c03_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u011",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u011_e1",
+          "tuples": [
+            "('relax', 'you/(Monica Geller)', None, 's01_e08_c03_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u011_e2",
+          "tuples": [
+            "('be', 'we/(Ross Geller and Monica Geller)', 'here', 's01_e08_c03_u011')",
+            "('be', 'we/(Ross Geller and Monica Geller)', 'for a while', 's01_e08_c03_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u011_e3",
+          "tuples": [
+            "('look', 'it/(the situation)', 'like we are gonna be here for a while', 's01_e08_c03_u011')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u011_e4",
+          "tuples": [
+            "('have', 'we/(Ross Geller and Monica Geller)', 'boyfriends and your career to cover', 's01_e08_c03_u011')",
+            "('cover', 'we/(Ross Geller and Monica Geller)', 'boyfriends and your career', 's01_e08_c03_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u016",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u016_e1",
+          "tuples": [
+            "('be', \"they/(the fuzzy little mints)\", 'gross', 's01_e08_c03_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u016_e2",
+          "tuples": [
+            "('know', 'you/(Monica Geller)', 'what I loved', 's01_e08_c03_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u016_e3",
+          "tuples": [
+            "('love', 'I/(Ross Geller)', \"Her Sweet 'n' Los\", 's01_e08_c03_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u016_e4",
+          "tuples": [
+            "('steal', 'she/(Nana)', 'them', 's01_e08_c03_u016')",
+            "('steal', 'she/(Nana)', 'from restaurants', 's01_e08_c03_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u021",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u021_e1",
+          "tuples": [
+            "('look', 'she/(Nana)', 'so small', 's01_e08_c03_u021')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u022",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u022_e1",
+          "tuples": [
+            "('know', 'I/(Monica Geller)', None, 's01_e08_c03_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u023",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u023_e1",
+          "tuples": [
+            "('be', 'she/(Nana)', 'with Pop-Pop and Aunt Phyllis', 's01_e08_c03_u023')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u029",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u029_e1",
+          "tuples": [
+            "('go on', 'what', None, 's01_e08_c03_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u030",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u030_e1",
+          "tuples": [
+            "('know', 'you/(Judy Geller)', 'how the nurse said that Nana had passed', 's01_e08_c03_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u030_e2",
+          "tuples": [
+            "('say', 'the nurse', 'that Nana had passed', 's01_e08_c03_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e08_c03_u030_e3",
+          "tuples": [
+            "('be', 'she/(Nana)', None, 's01_e08_c03_u030')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u032",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u032_e1",
+          "tuples": [
+            "('be', 'she/(Nana)', 'past', 's01_e08_c03_u032')",
+            "('be', 'she/(Nana)', 'present', 's01_e08_c03_u032')",
+            "('be', 'she/(Nana)', 'back', 's01_e08_c03_u032')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u034",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u034_e1",
+          "tuples": [
+            "('die', 'she/(Nana)', None, 's01_e08_c03_u034')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u036",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u036_e1",
+          "tuples": [
+            "('look', 'we/(Ross Geller and Monica Geller)', 'into it', 's01_e08_c03_u036')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u038",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u038_e1",
+          "tuples": [
+            "('go', 'I/(Ross Geller)', None, 's01_e08_c03_u038')",
+            "('see', 'I/(Ross Geller)', None, 's01_e08_c03_u038')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u039",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u039_e1",
+          "tuples": [
+            "('happen', 'this', None, 's01_e08_c03_u039')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e08_c03_u041",
+      "events": [
+        {
+          "event_id": "s01_e08_c03_u041_e1",
+          "tuples": [
+            "('pass', 'she/(Nana)', None, 's01_e08_c03_u041')"
+          ]
+        }
+      ]
+    }
+  ]
+}

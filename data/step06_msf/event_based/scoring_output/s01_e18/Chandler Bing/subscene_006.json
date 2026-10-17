@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up to the group and insists they need to settle the money for the poker game (u031), showing outgoing, assertive behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Request to settle poker money is straightforward but not clearly kind or hostile; no clear signs of generosity or untrustworthiness (u031)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker tries to organize and resolve the unsettled poker debts before people leave (u031), indicating responsibility and orderliness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "TargetSpeaker confidently directs the group to handle the money and shows no anxiety or hesitation (u031)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Makes a creative, imaginative historical joke about King Speaker_07 giving them land for Jamestown (u033)."
+  }
+}

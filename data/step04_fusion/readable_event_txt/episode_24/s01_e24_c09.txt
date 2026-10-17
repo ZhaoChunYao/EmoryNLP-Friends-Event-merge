@@ -1,0 +1,33 @@
+event_id: s01_e24_c09_u002_e1
+utterance_id: s01_e24_c09_u002
+  tuple: ('do', 'you/Joey Tribbiani', 'it', 's01_e24_c09_u002')
+
+event_id: s01_e24_c09_u002_e2
+utterance_id: s01_e24_c09_u002
+  tuple: ('have', 'we/Chandler Bing+Joey Tribbiani', 'any fruit', 's01_e24_c09_u002')
+
+event_id: s01_e24_c09_u003_e1
+utterance_id: s01_e24_c09_u003
+  tuple: ('know', 'you/Chandler Bing', 'what', 's01_e24_c09_u003')
+
+event_id: s01_e24_c09_u003_e2
+utterance_id: s01_e24_c09_u003
+  tuple: ('feel', 'I/Joey Tribbiani', 'like I learned something', 's01_e24_c09_u003')
+  tuple: ('learn', 'I/Joey Tribbiani', 'something', 's01_e24_c09_u003')
+
+event_id: s01_e24_c09_u004_e1
+utterance_id: s01_e24_c09_u004
+  tuple: ('stick', 'you/Joey Tribbiani', "with this 'it's all for her' thing", 's01_e24_c09_u004')
+
+event_id: s01_e24_c09_u005_e1
+utterance_id: s01_e24_c09_u005
+  tuple: ('be', 'you/Chandler Bing', 'crazy', 's01_e24_c09_u005')
+
+event_id: s01_e24_c09_u005_e2
+utterance_id: s01_e24_c09_u005
+  tuple: ('get', 'a blind man', 'back his sight', 's01_e24_c09_u005')
+
+event_id: s01_e24_c09_u005_e3
+utterance_id: s01_e24_c09_u005
+  tuple: ('walk around', 'he/a blind man', 'like this', 's01_e24_c09_u005')
+

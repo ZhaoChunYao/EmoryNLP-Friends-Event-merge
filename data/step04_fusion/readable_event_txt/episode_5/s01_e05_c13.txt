@@ -1,0 +1,109 @@
+event_id: s01_e05_c13_u001_e1
+utterance_id: s01_e05_c13_u001
+  tuple: ('go', 'Something', 'wrong with Underdog', 's01_e05_c13_u001')
+  tuple: ('get', 'they/(parade staff)', 'his head to inflate', 's01_e05_c13_u001')
+  tuple: ('inflate', 'his head', None, 's01_e05_c13_u001')
+  tuple: ('flop', 'his head', 'down Broadway', 's01_e05_c13_u001')
+
+event_id: s01_e05_c13_u001_e2
+utterance_id: s01_e05_c13_u001
+  tuple: ('think', 'I/Monica Geller', 'how inappropriate this is', 's01_e05_c13_u001')
+  tuple: ('be', 'this/situation', 'inappropriate', 's01_e05_c13_u001')
+
+event_id: s01_e05_c13_u001_e3
+utterance_id: s01_e05_c13_u001
+  tuple: ('have', 'I/Monica Geller', 'something in my eye', 's01_e05_c13_u001')
+
+event_id: s01_e05_c13_u001_e4
+utterance_id: s01_e05_c13_u001
+  tuple: ('check', 'we/Monica Geller+Joey Tribbiani', 'it in the light', 's01_e05_c13_u001')
+
+event_id: s01_e05_c13_u005_e1
+utterance_id: s01_e05_c13_u005
+  tuple: ('be', 'we/Monica Geller+Joey Tribbiani', 'at the same table', 's01_e05_c13_u005')
+
+event_id: s01_e05_c13_u005_e2
+utterance_id: s01_e05_c13_u005
+  tuple: ('be', 'it/situation', 'like cocktails in Appalachia', 's01_e05_c13_u005')
+
+event_id: s01_e05_c13_u006_e1
+utterance_id: s01_e05_c13_u006
+  tuple: ('come', 'you/Monica Geller', 'on', 's01_e05_c13_u006')
+
+event_id: s01_e05_c13_u006_e2
+utterance_id: s01_e05_c13_u006
+  tuple: ('be', 'they/(couple)', 'close', 's01_e05_c13_u006')
+
+event_id: s01_e05_c13_u007_e1
+utterance_id: s01_e05_c13_u007
+  tuple: ('have', 'she/(unknown woman)', 'her tongue in his ear', 's01_e05_c13_u007')
+
+event_id: s01_e05_c13_u008_e1
+utterance_id: s01_e05_c13_u008
+  tuple: ('get', 'you/Monica Geller', 'a little rambunctious', 's01_e05_c13_u008')
+  tuple: ('get', 'you/Monica Geller', 'with Ross', 's01_e05_c13_u008')
+
+event_id: s01_e05_c13_u009_e1
+utterance_id: s01_e05_c13_u009
+  tuple: ('be', 'this/situation', 'sick', 's01_e05_c13_u009')
+  tuple: ('be', 'it/situation', 'disgusting', 's01_e05_c13_u009')
+  tuple: ('be', 'it/situation', 'not really true', 's01_e05_c13_u009')
+
+event_id: s01_e05_c13_u010_e1
+utterance_id: s01_e05_c13_u010
+  tuple: ('say', 'who/indefinite', "what's true", 's01_e05_c13_u010')
+  tuple: ('be', 'what/truth', 'true', 's01_e05_c13_u010')
+
+event_id: s01_e05_c13_u010_e2
+utterance_id: s01_e05_c13_u010
+  tuple: ('mean', 'I/Joey Tribbiani', None, 's01_e05_c13_u010')
+
+event_id: s01_e05_c13_u011_e1
+utterance_id: s01_e05_c13_u011
+  tuple: ('think', 'you/Joey Tribbiani', 'what', 's01_e05_c13_u011')
+
+event_id: s01_e05_c13_u012_e1
+utterance_id: s01_e05_c13_u012
+  tuple: ('be', 'I/Joey Tribbiani', 'not proud of this', 's01_e05_c13_u012')
+  tuple: ('be', 'I/Joey Tribbiani', 'a little', 's01_e05_c13_u012')
+
+event_id: s01_e05_c13_u015_e1
+utterance_id: s01_e05_c13_u015
+  tuple: ('be', 'I/Monica Geller', 'out of here', 's01_e05_c13_u015')
+
+event_id: s01_e05_c13_u016_e1
+utterance_id: s01_e05_c13_u016
+  tuple: ('wait', 'you/Monica Geller', None, 's01_e05_c13_u016')
+
+event_id: s01_e05_c13_u016_e2
+utterance_id: s01_e05_c13_u016
+  tuple: ('want', 'you/Monica Geller', 'him/(unknown man)', 's01_e05_c13_u016')
+
+event_id: s01_e05_c13_u016_e3
+utterance_id: s01_e05_c13_u016
+  tuple: ('want', 'I/Joey Tribbiani', 'her/(unknown woman)', 's01_e05_c13_u016')
+
+event_id: s01_e05_c13_u016_e4
+utterance_id: s01_e05_c13_u016
+  tuple: ('like', 'he/(unknown man)', 'you/Monica Geller', 's01_e05_c13_u016')
+
+event_id: s01_e05_c13_u018_e1
+utterance_id: s01_e05_c13_u018
+  tuple: ('think', 'I/Joey Tribbiani', 'if we put our heads together, between the two of us, we can break them up', 's01_e05_c13_u018')
+  tuple: ('put', 'we/Monica Geller+Joey Tribbiani', 'our heads together between the two of us', 's01_e05_c13_u018')
+  tuple: ('break', 'we/Monica Geller+Joey Tribbiani', 'them up', 's01_e05_c13_u018')
+
+event_id: s01_e05_c13_u020_e1
+utterance_id: s01_e05_c13_u020
+  tuple: ('be', 'I/Monica Geller', 'so sorry', 's01_e05_c13_u020')
+
+event_id: s01_e05_c13_u020_e2
+utterance_id: s01_e05_c13_u020
+  tuple: ('believe', 'I/Monica Geller', 'I did this', 's01_e05_c13_u020')
+  tuple: ('do', 'I/Monica Geller', 'this', 's01_e05_c13_u020')
+
+event_id: s01_e05_c13_u020_e3
+utterance_id: s01_e05_c13_u020
+  tuple: ('stop', 'I/Monica Geller', 'laughing at your Norman Mailer story', 's01_e05_c13_u020')
+  tuple: ('laugh', 'I/Monica Geller', 'at your Norman Mailer story', 's01_e05_c13_u020')
+

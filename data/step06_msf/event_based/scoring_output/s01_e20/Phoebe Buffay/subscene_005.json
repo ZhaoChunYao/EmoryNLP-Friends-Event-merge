@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Engages others with questions like “How many beeps?” and asks about someone’s reaction to breakup news, initiating social interaction."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows concern for another’s feelings by asking how someone took the breakup news."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Does not express anxiety, insecurity, or emotional volatility."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Questions are routine social inquiries; no sign of unusual creativity or rigidity."
+  }
+}

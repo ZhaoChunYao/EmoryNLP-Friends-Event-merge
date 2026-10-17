@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates the conversation asking if Speaker_01 has a moment, asks follow-up questions, and offers enthusiastic praise (“Speaker_01 is amazing”), showing sociability and expressiveness."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Readily accepts Speaker_01’s explanations and responds warmly—asks about the raise and then says “Speaker_01 is amazing,” indicating trust and appreciation."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or carelessness; mentioning others taking their scissors does not demonstrate TargetSpeaker’s own conscientiousness."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses confusion and concern about social reactions (“does not know what is going on,” people avoiding and giving strange looks) and worries about people taking their scissors—suggesting sensitivity/insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No concrete behavior indicating creativity/curiosity or dogmatism/caution beyond basic inquiries."
+  }
+}

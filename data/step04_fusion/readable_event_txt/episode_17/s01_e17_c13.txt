@@ -1,0 +1,72 @@
+event_id: s01_e17_c13_u001_e1
+utterance_id: s01_e17_c13_u001
+  tuple: ('look', 'he/Marcel', 'so tiny', 's01_e17_c13_u001')
+
+event_id: s01_e17_c13_u003_e1
+utterance_id: s01_e17_c13_u003
+  tuple: ('get', 'we/Joey Tribbiani+group', 'the message', 's01_e17_c13_u003')
+
+event_id: s01_e17_c13_u004_e1
+utterance_id: s01_e17_c13_u004
+  tuple: ('be', 'he/Marcel', 'alright', 's01_e17_c13_u004')
+
+event_id: s01_e17_c13_u005_e1
+utterance_id: s01_e17_c13_u005
+  tuple: ('get', 'The doctor', "out the 'K'", 's01_e17_c13_u005')
+
+event_id: s01_e17_c13_u005_e2
+utterance_id: s01_e17_c13_u005
+  tuple: ('find', 'he/The doctor', "an 'M'", 's01_e17_c13_u005')
+
+event_id: s01_e17_c13_u005_e3
+utterance_id: s01_e17_c13_u005
+  tuple: ('find', 'he/The doctor', "an 'O'", 's01_e17_c13_u005')
+
+event_id: s01_e17_c13_u006_e1
+utterance_id: s01_e17_c13_u006
+  tuple: ('think', 'we/Chandler Bing+group', "he was trying to spell out 'MONKEY'", 's01_e17_c13_u006')
+
+event_id: s01_e17_c13_u006_e2
+utterance_id: s01_e17_c13_u006
+  tuple: ('try', 'he/Marcel', "to spell out 'MONKEY'", 's01_e17_c13_u006')
+  tuple: ('spell', 'he/Marcel', "out 'MONKEY'", 's01_e17_c13_u006')
+
+event_id: s01_e17_c13_u008_e1
+utterance_id: s01_e17_c13_u008
+  tuple: ('say', 'the doctor', "he's gonna be fine", 's01_e17_c13_u008')
+
+event_id: s01_e17_c13_u008_e2
+utterance_id: s01_e17_c13_u008
+  tuple: ('be', 'he/Marcel', 'fine', 's01_e17_c13_u008')
+
+event_id: s01_e17_c13_u008_e3
+utterance_id: s01_e17_c13_u008
+  tuple: ('sleep', 'he/Marcel', None, 's01_e17_c13_u008')
+
+event_id: s01_e17_c13_u009_e1
+utterance_id: s01_e17_c13_u009
+  tuple: ('feel', 'you/Ross Geller', 'like a dad', 's01_e17_c13_u009')
+
+event_id: s01_e17_c13_u011_e1
+utterance_id: s01_e17_c13_u011
+  tuple: ('come', 'you/Ross Geller', 'on', 's01_e17_c13_u011')
+
+event_id: s01_e17_c13_u011_e2
+utterance_id: s01_e17_c13_u011
+  tuple: ('come', 'you/Ross Geller', 'through', 's01_e17_c13_u011')
+  tuple: ('do', 'you/Ross Geller', 'what you had to do', 's01_e17_c13_u011')
+  tuple: ('have', 'you/Ross Geller', 'to do', 's01_e17_c13_u011')
+  tuple: ('be', "that/Ross Geller's action", 'very dad', 's01_e17_c13_u011')
+
+event_id: s01_e17_c13_u013_e1
+utterance_id: s01_e17_c13_u013
+  tuple: ('look', 'you/Everyone present', None, 's01_e17_c13_u013')
+
+event_id: s01_e17_c13_u013_e2
+utterance_id: s01_e17_c13_u013
+  tuple: ('wake', 'he/Marcel', 'up', 's01_e17_c13_u013')
+
+event_id: s01_e17_c13_u014_e1
+utterance_id: s01_e17_c13_u014
+  tuple: ('do', 'you/Marcel', None, 's01_e17_c13_u014')
+

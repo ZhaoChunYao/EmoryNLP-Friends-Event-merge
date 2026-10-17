@@ -1,0 +1,72 @@
+('believe', 'I/Joey Tribbiani', "what I'm hearing here", 's01_e01_c15_u001')
+[s01_e01_c15_u001] Joey Tribbiani: I can't believe what I'm hearing here.
+
+('hear', 'I/Joey Tribbiani', 'what', 's01_e01_c15_u001')
+[s01_e01_c15_u001] Joey Tribbiani: I can't believe what I'm hearing here.
+
+('believe', 'I/Phoebe Buffay', "what I'm hearing here", 's01_e01_c15_u002')
+[s01_e01_c15_u002] Phoebe Buffay: I can't believe what I'm hearing here...
+
+('hear', 'I/Phoebe Buffay', 'what', 's01_e01_c15_u002')
+[s01_e01_c15_u002] Phoebe Buffay: I can't believe what I'm hearing here...
+
+('stop', 'you/Phoebe Buffay', None, 's01_e01_c15_u005')
+[s01_e01_c15_u005] Monica Geller: Would you stop?
+
+('do', 'I/Phoebe Buffay', 'it', 's01_e01_c15_u006')
+[s01_e01_c15_u006] Phoebe Buffay: Oh, was I doing it again?
+
+('say', 'I/Monica Geller', 'that you had a nice butt', 's01_e01_c15_u008')
+[s01_e01_c15_u008] Monica Geller: I said that you had a nice butt, it's just not a great butt.
+
+('have', 'you/Rachel Green', 'a nice butt', 's01_e01_c15_u008')
+[s01_e01_c15_u008] Monica Geller: I said that you had a nice butt, it's just not a great butt.
+
+('be', 'it/(butt)', 'just not a great butt', 's01_e01_c15_u008')
+[s01_e01_c15_u008] Monica Geller: I said that you had a nice butt, it's just not a great butt.
+
+('know', 'you/Monica Geller', 'a great butt', 's01_e01_c15_u009')
+[s01_e01_c15_u009] Joey Tribbiani: Oh, you wouldn't know a great butt if it came up and bit ya.
+
+('come', 'it/(a great butt)', None, 's01_e01_c15_u009')
+[s01_e01_c15_u009] Joey Tribbiani: Oh, you wouldn't know a great butt if it came up and bit ya.
+
+('bite', 'it/(a great butt)', 'ya', 's01_e01_c15_u009')
+[s01_e01_c15_u009] Joey Tribbiani: Oh, you wouldn't know a great butt if it came up and bit ya.
+
+('be', 'There', 'an image', 's01_e01_c15_u010')
+[s01_e01_c15_u010] Ross Geller: There's an image.
+
+('like', 'anybody', 'more coffee', 's01_e01_c15_u011')
+[s01_e01_c15_u011] Rachel Green: Would anybody like more coffee?
+
+('make', 'you/Rachel Green', 'it', 's01_e01_c15_u012')
+[s01_e01_c15_u012] Chandler Bing: Did you make it, or are you just serving it?
+
+('serve', 'you/Rachel Green', 'it', 's01_e01_c15_u012')
+[s01_e01_c15_u012] Chandler Bing: Did you make it, or are you just serving it?
+
+('serve', 'I/Rachel Green', 'it', 's01_e01_c15_u013')
+[s01_e01_c15_u013] Rachel Green: I'm just serving it.
+
+('have', 'I/#ALL#', 'a cup of coffee', 's01_e01_c15_u014')
+[s01_e01_c15_u014] #ALL#: Yeah. Yeah, I'll have a cup of coffee.
+
+('be', 'I/Chandler Bing', 'in Las Vegas', 's01_e01_c15_u015')
+[s01_e01_c15_u015] Chandler Bing: Kids, new dream... I'm in Las Vegas.
+
+('excuse', 'you/Customer', 'me', 's01_e01_c15_u017')
+[s01_e01_c15_u017] Rachel Green: Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.
+
+('give', 'you/Customer', 'this to that guy over there', 's01_e01_c15_u017')
+[s01_e01_c15_u017] Rachel Green: Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.
+
+('go', 'you/Customer', None, 's01_e01_c15_u017')
+[s01_e01_c15_u017] Rachel Green: Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.
+
+('thank', 'I/Rachel Green', 'you', 's01_e01_c15_u017')
+[s01_e01_c15_u017] Rachel Green: Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.
+
+('be', 'I/Chandler Bing', 'Liza Minelli', 's01_e01_c15_u018')
+[s01_e01_c15_u018] Chandler Bing: Okay, so, I'm in Las Vegas... I'm Liza Minelli-
+

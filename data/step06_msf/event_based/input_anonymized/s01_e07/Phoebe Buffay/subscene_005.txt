@@ -1,0 +1,21 @@
+Episode: s01_e07
+Scene: s01_e07_c14
+Subscene index for speaker: 005
+Main speaker: TargetSpeaker
+UID span: s01_e07_c14_u005 → s01_e07_c14_u011
+Peak window: 5 → 5
+
+Dialogue:
+  [s01_e07_c14_u005]
+  1. Speaker_01 says the cat is Speaker_01's cat.
+  2. Speaker_01 says Speaker_02 and TargetSpeaker should give Speaker_01 his cat.
+  [s01_e07_c14_u006]
+  1. TargetSpeaker says Speaker_01 should wait a minute.
+  2. TargetSpeaker says Speaker_01 should tell the cat's name.
+  [s01_e07_c14_u007] Speaker_01: Ehhhh... B-Buttons.
+  [s01_e07_c14_u008] Speaker_02: Bob Buttons?
+  [s01_e07_c14_u009] Speaker_01: Mmm. Bob Buttons. Here, Bob Buttons.
+  [s01_e07_c14_u010]
+  1. TargetSpeaker says Speaker_01 is a very bad man.
+  [s01_e07_c14_u011]
+  1. Speaker_01 says Speaker_02 and TargetSpeaker owe Speaker_01 a cat.

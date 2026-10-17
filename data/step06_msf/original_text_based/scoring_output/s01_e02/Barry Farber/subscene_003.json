@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Openly and assertively discusses relationship feelings and quickly fires back with a retort, showing outgoing, candid engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Gloats about being happy with someone else to the other person and even ‘Spit.’ is noted; the retort “Well, thank you for giving it back” reads as snarky rather than warm."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior about planning, reliability, or organization is shown; only a brief exchange."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks confidently about being happy and shows no signs of anxiety or sensitivity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from briefly acknowledging the other was right, there is no clear display of curiosity, creativity, or dogmatism."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Talkative and outgoing, making many unsolicited observations about the TV show and people present (u001 multiple statements), dominating the conversation."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Openly hostile: says they and Speaker_03 hate Speaker_02 and are glad Speaker_02 is dying (u001.4–5)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless/disorganized: lost Speaker_03 and doesn’t know how (u004.1), allowed them to poop in Speaker_04’s shoe and can’t say which shoe (u004.3; u006.1)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Shows no anxiety despite losing Speaker_03; remains casual and joking (u004.1–3) and speaks with certainty about a ‘gift’ (u001.9), indicating calm/confident affect."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear evidence of curiosity or imaginative exploration; remarks center on gossip/jokes about TV and shoes."
+  }
+}

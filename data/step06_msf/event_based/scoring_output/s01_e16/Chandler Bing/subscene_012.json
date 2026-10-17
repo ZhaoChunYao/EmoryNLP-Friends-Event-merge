@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Bold, socially forward behavior: abruptly proposes marriage to Speaker_01 and confidently leads the exchange (u013, u008, u010)."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Not straightforward/boastful and undercutting others: claims people are jealous of “you and me” (u004), gives glib, shifting explanations (u006–u010), and deflects by saying Speaker_02 drinks alcohol (u013)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Careless, ad‑hoc decisions: grants a raise with “Sure, why not?” (u008) and only then tells staff to push paperwork (u010); ignores/deflects procedural question about psychological profile (u011–u013)."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and no nervousness: decisive “Sure, why not?” about a raise (u008), directs others (u010), and makes a bold marriage proposal (u013)."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Inventive/expansive responses: improvises explanations (jealousy, raise) (u004, u006–u008) and makes an unconventional proposal of marriage (u013)."
+  }
+}

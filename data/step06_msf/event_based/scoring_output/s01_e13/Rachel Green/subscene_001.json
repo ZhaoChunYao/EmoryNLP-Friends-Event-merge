@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Directly confronts Speaker_01 about barging in, speaks forcefully, and responds emphatically with repeated 'What? What?!' indicating energetic, outspoken engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Accuses Speaker_01 of having no respect for privacy, calls the behavior 'ridiculous,' and issues sharp commands like 'wait right now,' showing low patience and confrontational tone."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Insists on rules and boundaries (knocking, respecting privacy) and criticizes disorderly behavior, reflecting a preference for order and proper conduct."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses reaching a 'breaking point,' reacts with heightened emotion ('What? What?!'), and shows sudden embarrassment ('Oh!!') upon the wardrobe issue."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The exchange focuses on enforcing social norms and privacy; there is no clear sign of curiosity or openness to new ideas, nor of rigid dogmatism beyond standard boundary-setting."
+  }
+}

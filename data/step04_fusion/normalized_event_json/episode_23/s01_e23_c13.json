@@ -1,0 +1,81 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c13_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c13_u001_e1",
+          "tuples": [
+            "('go', 'everything', 'fine', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e2",
+          "tuples": [
+            "('be', 'Ross', 'great', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e3",
+          "tuples": [
+            "('be', 'he/Ross', 'in a whole other place', 's01_e23_c13_u001')",
+            "('be', 'he/Ross', 'gone', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e4",
+          "tuples": [
+            "('fly', 'you/(Mom)', 'back', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e5",
+          "tuples": [
+            "('mean', 'you/(Mom)', 'this might be your only chance', 's01_e23_c13_u001')",
+            "('be', 'this', 'your only chance', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e6",
+          "tuples": [
+            "('stop', 'you/(Mom)', None, 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e7",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'only 26', 's01_e23_c13_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c13_u001_e8",
+          "tuples": [
+            "('think', 'I/(Monica Geller)', 'about babies', 's01_e23_c13_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c13_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c13_u003_e1",
+          "tuples": [
+            "('be', 'you/(Joey Tribbiani)', 'where', 's01_e23_c13_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c13_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c13_u004_e1",
+          "tuples": [
+            "('have', 'I/(Joey Tribbiani)', 'a baby', 's01_e23_c13_u004')"
+          ]
+        }
+      ]
+    }
+  ]
+}

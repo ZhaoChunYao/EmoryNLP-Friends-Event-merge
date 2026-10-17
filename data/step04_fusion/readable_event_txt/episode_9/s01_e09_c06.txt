@@ -1,0 +1,24 @@
+event_id: s01_e09_c06_u001_e1
+utterance_id: s01_e09_c06_u001
+  tuple: ('guess', 'I/(Joey Tribbiani)', 'you all saw it', 's01_e09_c06_u001')
+
+event_id: s01_e09_c06_u001_e2
+utterance_id: s01_e09_c06_u001
+  tuple: ('see', 'you all/(Rachel Green and Phoebe Buffay)', 'it', 's01_e09_c06_u001')
+
+event_id: s01_e09_c06_u002_e1
+utterance_id: s01_e09_c06_u002
+  tuple: ('see', 'you/(Joey Tribbiani)', 'what', 's01_e09_c06_u002')
+
+event_id: s01_e09_c06_u003_e1
+utterance_id: s01_e09_c06_u003
+  tuple: ('laugh', 'we/(Rachel Green and Phoebe Buffay)', None, 's01_e09_c06_u003')
+
+event_id: s01_e09_c06_u003_e2
+utterance_id: s01_e09_c06_u003
+  tuple: ('know', 'you/(Joey Tribbiani)', 'how laughter can be infectious', 's01_e09_c06_u003')
+
+event_id: s01_e09_c06_u003_e3
+utterance_id: s01_e09_c06_u003
+  tuple: ('be', 'laughter', 'infectious', 's01_e09_c06_u003')
+

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker shares feelings when asked but is subdued and not notably outgoing or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is candid about their emotions and corrects gently but directly (“Nono, she’s gone”), showing straightforwardness."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "According to Speaker_03, TargetSpeaker (with others) checked repeatedly to confirm their grandmother was gone, indicating careful, thorough behavior."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Says they don’t know how to feel, that it feels weird, and they don’t feel right yet—showing emotional sensitivity and unease."
+  },
+  "OPN": {
+    "score": -1,
+    "evidence": "Rejects the idea that the grandmother isn’t really gone and insists on the concrete reality (“Nono, she’s gone”), reflecting a skeptical, less open stance toward abstract explanations."
+  }
+}

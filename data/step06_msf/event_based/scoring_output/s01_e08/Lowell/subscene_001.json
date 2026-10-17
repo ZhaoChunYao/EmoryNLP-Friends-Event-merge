@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Uses lively, humorous banter and an energetic metaphor about work (“like Mardi Gras…”) and readily volunteers information about ‘gaydar’ and a coworker, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Reassures Speaker_01 he knows and already told others that Speaker_01 isn’t gay, and answers questions directly and straightforwardly."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior related to organization or task-follow-through; the exchange is casual banter."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Speaks calmly and confidently (matter-of-factly states Speaker_01 isn’t gay, asserts having ‘radar,’ and teases comfortably), showing no signs of nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Uses an inventive, imaginative comparison (“like Mardi Gras without the paper mâché heads”)."
+  }
+}

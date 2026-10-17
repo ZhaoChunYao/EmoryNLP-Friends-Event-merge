@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker makes bold, provocative remarks (saying the others are having sex) and keeps teasing about Speaker_01’s thoughts about Speaker_02, prompting others to tell him to shut up—outspoken rather than reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "The crude, needling comment about others having sex leads Speaker_01 and Speaker_04 to tell him to shut up, showing inconsiderate, uncooperative behavior."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Blurts an inappropriate, unfounded claim and continues teasing despite pushback, suggesting careless, impulsive conduct."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Comfortably makes provocative jokes and persists despite reprimand; no signs of anxiety, indicating confidence."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Jumps to a vivid, imaginative interpretation (sex) rather than the cautious explanation (napping), showing playful, speculative thinking."
+  }
+}

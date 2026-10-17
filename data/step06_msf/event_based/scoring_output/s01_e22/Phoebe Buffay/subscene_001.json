@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker speaks up assertively (u003 asks for something, mentions operating a drill press) and quickly volunteers for a job without hesitation (u012, u016), showing outgoing, energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker is straightforward and self-deprecating about a mistake (u009: calls self a dummie, explains teaching a massage-yourself workshop) and is cooperative about helping as a secretary (u014, u016)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Teaching a workshop that caused clients to stop booking (u009) shows poor foresight/carelessness; also agrees to do a job before even knowing what it is (u012), suggesting impulsivity rather than organized planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite setbacks, TargetSpeaker responds calmly and confidently to the job opportunity (u012, u014, u016: \"I could do that\"), with no signs of nervousness or distress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Shows curiosity and willingness to try new things: wants to operate a drill press (u003, u006), created a new workshop (u009), and is open to taking on a different role as a secretary (u014, u016)."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker engages by asking questions (e.g., whether there’s a way to keep the monkey and how to get a monkey into a zoo), but shows no clear signs of being especially outgoing or energetic."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Shows empathy and support: says it’s terrible that Speaker_01 has to give up the monkey and seeks ways to help (asks if there’s any way to keep him and later how to place him in a zoo)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Displays a solution-focused, responsible approach by asking practical questions about options to keep the monkey and, after learning the risks, how to get the monkey into a zoo."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "Expresses concern about the situation but does not show anxiety, insecurity, or emotional volatility; shifts to practical problem-solving."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Questions are practical rather than imaginative; no clear evidence of unusual curiosity or dogmatism."
+  }
+}

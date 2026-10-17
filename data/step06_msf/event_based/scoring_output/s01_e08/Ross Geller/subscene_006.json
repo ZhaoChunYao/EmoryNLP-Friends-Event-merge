@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Leads a lively back-and-forth about his own burial, inviting Speaker_02 to come on board and make a day of it (rent a boat, pack a lunch)."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Playful, morbid joking without clear signs of generosity/cooperation or of hostility/unreliability."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Proposes concrete, organized steps—renting a boat and packing a lunch—for the sea-burial day."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Talks about his own death with humor and confidence and even likes the idea of others’ reactions (‘Buried at sea! Huh!’), showing no nervousness."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Embraces an unconventional idea (burial at sea) and imaginatively anticipates how others will respond."
+  }
+}

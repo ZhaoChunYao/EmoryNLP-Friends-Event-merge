@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker makes brief, functional comments (introduces Speaker_04, offers a short compliment, then just says \"Yeah\"), without clear signs of being especially outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "TargetSpeaker facilitates help for Speaker_02 by bringing in Speaker_04 to talk, is supportive (“Speaker_04 is good”), and agrees with others—cooperative and affirming."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "TargetSpeaker organizes the exchange by identifying who wants to speak and to whom, and per Speaker_02’s remark had already informed Speaker_04 about the smoking—showing planning and follow‑through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No indications of anxiety, irritability, or emotional volatility; responses are calm and neutral."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear expressions of curiosity, new ideas, or resistance to them; statements are procedural and affirming only."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker is out socializing (“go out and meet women”), confidently tells Speaker_03 to relax and look around, and even demonstrates a gesture—showing outgoing, energetic engagement."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "He reassures that others are fine but also dismisses concern with a brief “So?”; behavior is neither notably warm/generous nor hostile/boastful."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "He downplays potential problems and offers no plan beyond “relax,” but there’s no clear evidence of disorganization or careful planning."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "He stays calm and confident, saying others are fine and telling Speaker_03 to relax, showing security rather than nervousness."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or of rigid dogmatism; his optimism about the situation doesn’t establish openness one way or the other."
+  }
+}

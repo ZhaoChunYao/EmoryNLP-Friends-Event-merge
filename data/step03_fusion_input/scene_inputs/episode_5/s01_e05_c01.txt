@@ -1,0 +1,81 @@
+('let', 'you/(Ross Geller)', 'it', 's01_e05_c01_u001')
+[s01_e05_c01_u001] Monica Geller: Would you let it go? It's not that big a deal.
+
+('go', 'it/(bra removal trick)', None, 's01_e05_c01_u001')
+[s01_e05_c01_u001] Monica Geller: Would you let it go? It's not that big a deal.
+
+('be', 'it/(bra removal trick)', 'not that big a deal', 's01_e05_c01_u001')
+[s01_e05_c01_u001] Monica Geller: Would you let it go? It's not that big a deal.
+
+('be', 'it/(bra removal trick)', 'amazing', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('reach', 'you/(generic)', 'in there', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('be', 'there', 'one little maneuver', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('be', 'I/(Ross Geller)', 'concerned', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('be', 'there', 'nothing', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('do', 'a guy', 'nothing', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('come', 'that/(thing a guy can do)', 'close', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('be', 'I/(Ross Geller)', 'right', 's01_e05_c01_u002')
+[s01_e05_c01_u002] Ross Geller: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+
+('come', 'you/(everyone)', None, 's01_e05_c01_u003')
+[s01_e05_c01_u003] Rachel Green: Come on! You guys can pee standing up.
+
+('pee', 'you guys/(Ross Geller, Chandler Bing, Joey Tribbiani)', None, 's01_e05_c01_u003')
+[s01_e05_c01_u003] Rachel Green: Come on! You guys can pee standing up.
+
+('stand', 'you guys/(Ross Geller, Chandler Bing, Joey Tribbiani)', 'up', 's01_e05_c01_u003')
+[s01_e05_c01_u003] Rachel Green: Come on! You guys can pee standing up.
+
+('try', 'I/(Chandler Bing)', 'that', 's01_e05_c01_u004')
+[s01_e05_c01_u004] Chandler Bing: We can? All right, I'm tryin' that.
+
+('know', 'you/(everyone)', 'what blows my mind', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('blow', 'what/(women can see breasts any time they want)', 'my mind', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('see', 'women', 'breasts', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('want', 'they/breasts', None, 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('look', 'you/(women)', 'down', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('be', 'they/breasts', 'there', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('get', 'you/(women)', 'any work done', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('be', 'how you get any work done', 'beyond me', 's01_e05_c01_u005')
+[s01_e05_c01_u005] Joey Tribbiani: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+
+('know', 'you/(everyone)', "what I don't get", 's01_e05_c01_u006')
+[s01_e05_c01_u006] Phoebe Buffay: Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.
+
+('get', 'I/(Phoebe Buffay)', None, 's01_e05_c01_u006')
+[s01_e05_c01_u006] Phoebe Buffay: Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.
+
+('do', 'guys', 'so many mean things', 's01_e05_c01_u006')
+[s01_e05_c01_u006] Phoebe Buffay: Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.
+
+('care', 'guys', None, 's01_e05_c01_u006')
+[s01_e05_c01_u006] Phoebe Buffay: Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.
+

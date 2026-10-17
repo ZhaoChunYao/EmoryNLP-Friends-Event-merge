@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Pushes to set Speaker_01 up with Speaker_02, talks enthusiastically about Speaker_02, and acknowledges he goes out with many girls—showing sociability and assertiveness."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "He pressures Speaker_01 despite objections and reveals the setup is to help himself get Speaker_03 back, indicating self-serving, manipulative intent rather than generosity."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No clear signs of organization or reliability in tasks; while he regrets past choices, there is insufficient evidence of either efficient planning or careless disorganization."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Admits he made a huge mistake, says he never should have broken up with Speaker_03, and pleads for help—showing regret, vulnerability, and emotional insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "The dialogue focuses on social maneuvering, not on curiosity, creativity, or openness to new ideas or experiences."
+  }
+}

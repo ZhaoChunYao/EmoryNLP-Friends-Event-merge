@@ -1,0 +1,37 @@
+event_id: s01_e07_c20_u001_e1
+utterance_id: s01_e07_c20_u001
+  tuple: ('look', 'you/(Ross Geller and Joey Tribbiani)', None, 's01_e07_c20_u001')
+
+event_id: s01_e07_c20_u001_e2
+utterance_id: s01_e07_c20_u001
+  tuple: ('burn out', 'the last candle', None, 's01_e07_c20_u001')
+
+event_id: s01_e07_c20_u002_e1
+utterance_id: s01_e07_c20_u002
+  tuple: ('thank', 'I/(Ross Geller)', 'you', 's01_e07_c20_u002')
+
+event_id: s01_e07_c20_u003_e1
+utterance_id: s01_e07_c20_u003
+  tuple: ('thank', 'I/(Phoebe Buffay)', 'you', 's01_e07_c20_u003')
+
+event_id: s01_e07_c20_u004_e1
+utterance_id: s01_e07_c20_u004
+  tuple: ('be', 'it/(the room)', 'spooky', 's01_e07_c20_u004')
+  tuple: ('be', 'it/(the room)', 'without any lights', 's01_e07_c20_u004')
+
+event_id: s01_e07_c20_u007_e1
+utterance_id: s01_e07_c20_u007
+  tuple: ('have', 'I/(Ross Geller)', 'the definitive one', 's01_e07_c20_u007')
+
+event_id: s01_e07_c20_u010_e1
+utterance_id: s01_e07_c20_u010
+  tuple: ('be', 'this/(now)', 'the best time to bring it up', 's01_e07_c20_u010')
+
+event_id: s01_e07_c20_u010_e2
+utterance_id: s01_e07_c20_u010
+  tuple: ('bring', 'I/(Joey Tribbiani)', 'it', 's01_e07_c20_u010')
+
+event_id: s01_e07_c20_u010_e3
+utterance_id: s01_e07_c20_u010
+  tuple: ('throw', 'you/(Ross Geller)', 'a party for Monica', 's01_e07_c20_u010')
+

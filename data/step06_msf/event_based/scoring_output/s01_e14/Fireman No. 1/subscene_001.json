@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker gives brief, factual updates (u001, u005) without showing either sociable enthusiasm or withdrawn behavior."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "Interactions are neutral and task-focused; no clear signs of warmth/generosity or hostility/boastfulness (u001, u005)."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "They are actively identifying items (“determining what they are,” u001) and tracking workload (“third call tonight,” u005), indicating organized, task-focused behavior."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "No expressions of anxiety or distress, but also no explicit signs of confident reassurance; tone remains neutral (u001, u005)."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Assessing items appears procedural rather than showing curiosity or imaginative thinking; no explicit openness cues (u001)."
+  }
+}

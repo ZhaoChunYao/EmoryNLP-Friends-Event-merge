@@ -1,0 +1,40 @@
+{
+  "tuples": [
+    {
+      "verb": "do",
+      "subject": "you/Ross Geller",
+      "object": "suck the door open",
+      "uid": "s01_e23_c12_u001"
+    },
+    {
+      "verb": "suck",
+      "subject": "you/Ross Geller",
+      "object": "the door",
+      "uid": "s01_e23_c12_u001"
+    },
+    {
+      "verb": "open",
+      "subject": "you/Ross Geller",
+      "object": "the door",
+      "uid": "s01_e23_c12_u001"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(anyone)",
+      "object": null,
+      "uid": "s01_e23_c12_u002"
+    },
+    {
+      "verb": "find",
+      "subject": "They/(unknown)",
+      "object": "their bodies",
+      "uid": "s01_e23_c12_u003"
+    },
+    {
+      "verb": "help",
+      "subject": "you/(anyone)",
+      "object": null,
+      "uid": "s01_e23_c12_u004"
+    }
+  ]
+}

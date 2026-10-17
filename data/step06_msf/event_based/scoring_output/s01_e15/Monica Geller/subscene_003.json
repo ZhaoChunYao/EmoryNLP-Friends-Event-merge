@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "TargetSpeaker only asks a brief clarifying question and gives a short exclamation (“Oh my God!”); no clear signs of being notably talkative or socially energetic."
+  },
+  "AGR": {
+    "score": 0,
+    "evidence": "No behavior indicating warmth, generosity, or conflict; interactions are neutral and task-focused."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Apart from asking what kind of food is wanted, there’s no clear evidence of planning, organization, or follow-through."
+  },
+  "NEU": {
+    "score": 0,
+    "evidence": "The exclamation could indicate excitement, but there are no signs of anxiety, insecurity, or stress."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Asks about the kind of food the new restaurant is looking for and reacts with enthusiasm to the creative opportunity, showing curiosity and interest in new ideas."
+  }
+}

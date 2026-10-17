@@ -1,0 +1,311 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e18_c04_u001",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u001_e1",
+          "tuples": [
+            "('believe', 'you/Monica Geller', 'what a jerk Ross was being', 's01_e18_c04_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u001_e2",
+          "tuples": [
+            "('be', 'Ross', 'a jerk', 's01_e18_c04_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u002",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u002_e1",
+          "tuples": [
+            "('know', 'I/Monica Geller', None, 's01_e18_c04_u002')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u002_e2",
+          "tuples": [
+            "('get', 'he/Ross Geller', 'really competitive', 's01_e18_c04_u002')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u005",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u005_e1",
+          "tuples": [
+            "('be', 'this/Monica Geller', 'Monica', 's01_e18_c04_u005')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u005_e2",
+          "tuples": [
+            "('be', 'you/Monica Geller', 'black', 's01_e18_c04_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u006",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u006_e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'not as bad as Ross', 's01_e18_c04_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u007",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u007_e1",
+          "tuples": [
+            "('beg', 'I/Rachel Green', 'to differ', 's01_e18_c04_u007')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u008",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u008_e1",
+          "tuples": [
+            "('be', 'that/Pictionary incident', 'not an incident', 's01_e18_c04_u008')",
+            "('gesture', 'I/Monica Geller', None, 's01_e18_c04_u008')",
+            "('slip', 'the plate', None, 's01_e18_c04_u008')",
+            "('slip', 'the plate', 'out of my hand', 's01_e18_c04_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u009",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u009_e1",
+          "tuples": [
+            "('get', 'I/Rachel Green', 'an interview', 's01_e18_c04_u009')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u010",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u010_e1",
+          "tuples": [
+            "('kid', 'you/Rachel Green', None, 's01_e18_c04_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u013",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u013_e1",
+          "tuples": [
+            "('be', 'it/Saks Fifth Avenue', 'like the mother ship is calling you home', 's01_e18_c04_u013')",
+            "('call', 'the mother ship', 'you/Rachel Green', 's01_e18_c04_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u014",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u014_e1",
+          "tuples": [
+            "('be', 'what', 'the job', 's01_e18_c04_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u015",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u015_e1",
+          "tuples": [
+            "('shop', 'I/Rachel Green', None, 's01_e18_c04_u015')",
+            "('shop', 'I/Rachel Green', 'for a living', 's01_e18_c04_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u017",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u017_e1",
+          "tuples": [
+            "('look', 'you/Rachel Green', None, 's01_e18_c04_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u017_e2",
+          "tuples": [
+            "('be', 'that/Aunt Iris', 'Aunt Iris', 's01_e18_c04_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u017_e3",
+          "tuples": [
+            "('play', 'this woman/Aunt Iris', 'poker', 's01_e18_c04_u017')",
+            "('play', 'this woman/Aunt Iris', 'since she was five', 's01_e18_c04_u017')",
+            "('be', 'she/Aunt Iris', 'five', 's01_e18_c04_u017')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u017_e4",
+          "tuples": [
+            "('listen', 'you/Rachel Green', None, 's01_e18_c04_u017')",
+            "('listen', 'you/Rachel Green', 'to every word she says', 's01_e18_c04_u017')",
+            "('say', 'she/Aunt Iris', 'every word', 's01_e18_c04_u017')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u018",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u018_e1",
+          "tuples": [
+            "('be', 'Tony Randall', 'dead', 's01_e18_c04_u018')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u020",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u020_e1",
+          "tuples": [
+            "('think', 'I/Monica Geller', 'so', 's01_e18_c04_u020')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u022",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u022_e1",
+          "tuples": [
+            "('be', 'he/Tony Randall', None, 's01_e18_c04_u022')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u022_e2",
+          "tuples": [
+            "('think', 'I/Aunt Iris', 'I hit him with my car', 's01_e18_c04_u022')",
+            "('hit', 'I/Aunt Iris', 'him', 's01_e18_c04_u022')",
+            "('hit', 'I/Aunt Iris', 'with my car', 's01_e18_c04_u022')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u026",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u026_e1",
+          "tuples": [
+            "('be', 'that/previous story', 'bluffing', 's01_e18_c04_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u026_e2",
+          "tuples": [
+            "('let', 'you/Monica Geller', 'me', 's01_e18_c04_u026')",
+            "('tell', 'me/Aunt Iris', 'you something', 's01_e18_c04_u026')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u026_e3",
+          "tuples": [
+            "('be', 'everything you hear at a poker game', 'pure crap', 's01_e18_c04_u026')",
+            "('hear', 'you/(anyone)', 'everything', 's01_e18_c04_u026')",
+            "('hear', 'you/(anyone)', 'at a poker game', 's01_e18_c04_u026')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u027",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u027_e1",
+          "tuples": [
+            "('thank', 'I/Phoebe Buffay', 'you', 's01_e18_c04_u027')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u028",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u028_e1",
+          "tuples": [
+            "('sit', 'girls', None, 's01_e18_c04_u028')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u029",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u029_e1",
+          "tuples": [
+            "('be', 'this/Phoebe Buffay', 'Phoebe', 's01_e18_c04_u029')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u029_e2",
+          "tuples": [
+            "('be', 'that/Rachel Green', 'Rachel', 's01_e18_c04_u029')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e18_c04_u030",
+      "events": [
+        {
+          "event_id": "s01_e18_c04_u030_e1",
+          "tuples": [
+            "('listen', 'you/girls', None, 's01_e18_c04_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u030_e2",
+          "tuples": [
+            "('park', 'I/Aunt Iris', None, 's01_e18_c04_u030')",
+            "('park', 'I/Aunt Iris', 'at a meter', 's01_e18_c04_u030')"
+          ]
+        },
+        {
+          "event_id": "s01_e18_c04_u030_e3",
+          "tuples": [
+            "('do', 'we/(Aunt Iris and others)', 'it', 's01_e18_c04_u030')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e24_c08_u004",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('exchange', 'I/Rachel Green', 'the blouse you got me', 's01_e24_c08_u004')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('get', 'you/Monica Geller', 'me', 's01_e24_c08_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u005",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it/(the gift)', 'the thought', 's01_e24_c08_u005')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('get', \"Ross's flight\", 'in a couple hours', 's01_e24_c08_u005')",
+            "('get', \"Ross's flight\", 'at gate 27-B', 's01_e24_c08_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u006",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('think', 'I/Rachel Green', 'about it', 's01_e24_c08_u006')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('decide', 'I/Rachel Green', 'this whole Ross thing is just not a good idea', 's01_e24_c08_u006')",
+            "('be', 'it/(this whole Ross thing)', 'just not a good idea', 's01_e24_c08_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u008",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('feel', 'I/Rachel Green', \"like I wouldn't just be going out with him\", 's01_e24_c08_u008')",
+            "('go', 'I/Rachel Green', 'with him', 's01_e24_c08_u008')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('go', 'I/Rachel Green', 'with all of you', 's01_e24_c08_u008')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'there', 'all this pressure', 's01_e24_c08_u008')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('want', 'I/Rachel Green', None, 's01_e24_c08_u008')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u010",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('happen', 'nothing', None, 's01_e24_c08_u010')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'you/Monica Geller', None, 's01_e24_c08_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u011",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'so', 's01_e24_c08_u011')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'a teensy bit weird', 's01_e24_c08_u011')",
+            "('be', 'I/Monica Geller', 'at first', 's01_e24_c08_u011')"
+          ]
+        },
+        {
+          "event_id": "e3",
+          "tuples": [
+            "('be', 'I/Monica Geller', 'good', 's01_e24_c08_u011')"
+          ]
+        },
+        {
+          "event_id": "e4",
+          "tuples": [
+            "('promise', 'I/Monica Geller', None, 's01_e24_c08_u011')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u013",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'who', 's01_e24_c08_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u014",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', 'it', 'me, Carl', 's01_e24_c08_u014')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u015",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('come', 'you/Carl', 'up', 's01_e24_c08_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e24_c08_u016",
+      "events": [
+        {
+          "event_id": "e1",
+          "tuples": [
+            "('be', \"it/(dating behind my brother's back)\", \"exactly the kind of crazy thing you won't be hearing from me\", 's01_e24_c08_u016')"
+          ]
+        },
+        {
+          "event_id": "e2",
+          "tuples": [
+            "('hear', 'you/Rachel Green', 'from me', 's01_e24_c08_u016')"
+          ]
+        }
+      ]
+    }
+  ]
+}

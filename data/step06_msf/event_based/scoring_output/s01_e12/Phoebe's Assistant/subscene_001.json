@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Provides brief, factual schedule updates without sociable or energetic engagement."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Communicates changes clearly and politely; is straightforward and considerate, noting not to sound unprofessional."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Keeps track of and promptly reports schedule adjustments and arrivals, showing organization and reliability."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Expresses concern about sounding unprofessional, indicating sensitivity to evaluation."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No indication of curiosity, inventiveness, or openness to new ideas; only routine updates given."
+  }
+}

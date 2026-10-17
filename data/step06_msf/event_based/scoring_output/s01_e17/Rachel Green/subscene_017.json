@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Speaks briefly and only to address the bill; no clear signs of being either outgoing or withdrawn."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Accepts the correction about insurance without argument and self-deprecates (“not that bright either”), keeping a cooperative tone."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Plans to pay the hospital bill by check until reminded insurance will cover it, suggesting an oversight and inefficient planning."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Self-deprecating remark (“not that bright either”) indicates insecurity/low self-confidence."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear display of curiosity or openness to new ideas; simply acknowledges practical information."
+  }
+}

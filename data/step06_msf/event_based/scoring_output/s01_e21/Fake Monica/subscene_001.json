@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Proposes boldly auditioning for a Broadway show, saying they should go to the open call for Cats and even 'make complete fools of ourselves,' and earlier joined a wild hotel stunt impersonating guests."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Compliments Speaker_02 as very brave, invites them to do the audition together, and explicitly asks if they agree to the plan—supportive and cooperative."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Engages in impulsive, rule‑breaking behavior (impersonating hotel guests and getting thrown out) and suggests auditioning with no preparation 'to make complete fools of ourselves'."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Displays confidence and little anxiety—jokes about being caught, eagerly plans a public audition, and frames past fear as something overcome."
+  },
+  "OPN": {
+    "score": 1,
+    "evidence": "Eager to try new and unconventional experiences (the wild hotel stunt; enthusiastic about attending a Broadway open call) and proposes alternative approaches like community theatre."
+  }
+}

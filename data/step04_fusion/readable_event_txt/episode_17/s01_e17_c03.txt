@@ -1,0 +1,39 @@
+event_id: s01_e17_c03_u001_e1
+utterance_id: s01_e17_c03_u001
+  tuple: ('add', 'you/Monica Geller', 'a pinch of saffron', 's01_e17_c03_u001')
+  tuple: ('make', 'it/(a pinch of saffron)', 'all the difference', 's01_e17_c03_u001')
+
+event_id: s01_e17_c03_u004_e1
+utterance_id: s01_e17_c03_u004
+  tuple: ('be', 'she/Rachel Green', None, 's01_e17_c03_u004')
+
+event_id: s01_e17_c03_u005_e1
+utterance_id: s01_e17_c03_u005
+  tuple: ('be', 'this/Rachel Green', 'my friend Rachel', 's01_e17_c03_u005')
+
+event_id: s01_e17_c03_u007_e1
+utterance_id: s01_e17_c03_u007
+  tuple: ('be', 'I/Dr. Mitchell', 'Dr.Mitchell', 's01_e17_c03_u007')
+
+event_id: s01_e17_c03_u008_e1
+utterance_id: s01_e17_c03_u008
+  tuple: ('be', 'I/Dr. Rosen', 'his friend, Dr.Rosen', 's01_e17_c03_u008')
+
+event_id: s01_e17_c03_u010_e1
+utterance_id: s01_e17_c03_u010
+  tuple: ('be', 'you/Dr. Mitchell', 'a little cute to be a doctor', 's01_e17_c03_u010')
+  tuple: ('be', 'you/Dr. Mitchell', 'a doctor', 's01_e17_c03_u010')
+
+event_id: s01_e17_c03_u011_e1
+utterance_id: s01_e17_c03_u011
+  tuple: ('excuse', 'you/Rachel Green', 'me/Dr. Rosen', 's01_e17_c03_u011')
+
+event_id: s01_e17_c03_u012_e1
+utterance_id: s01_e17_c03_u012
+  tuple: ('mean', 'I/Rachel Green', 'young, young to be a doctor', 's01_e17_c03_u012')
+  tuple: ('be', 'you/Dr. Rosen', 'a doctor', 's01_e17_c03_u012')
+
+event_id: s01_e17_c03_u013_e1
+utterance_id: s01_e17_c03_u013
+  tuple: ('thank', 'I/Monica Geller', 'you/Rachel Green', 's01_e17_c03_u013')
+

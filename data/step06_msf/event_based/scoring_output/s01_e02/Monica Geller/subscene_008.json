@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 0,
+    "evidence": "Mostly functional talk (apologizes, asks for help with spaghetti); no clear signs of being especially outgoing or reserved."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "She prefaces a request as 'unbelievably selfish' and asks Speaker_01 to bring up his painful situation to deflect parents’ criticism from her, showing manipulative/self-serving behavior."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "She is hosting and coordinating dinner by asking for help with the spaghetti, and she corrects a misstatement about her job ('I don't have a restaurant; I work in one'), showing organization and accuracy."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "She worries about parental criticism and seeks to shift attention away from herself, indicating anxiety/insecurity."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity or creativity versus rigidity; her actions focus on managing family dynamics and avoiding criticism."
+  }
+}

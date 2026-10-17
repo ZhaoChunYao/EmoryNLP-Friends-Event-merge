@@ -1,0 +1,162 @@
+{
+  "utterances": [
+    {
+      "utterance_id": "s01_e23_c20_u001",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u001_e1",
+          "tuples": [
+            "('shout', 'you/(everyone)', None, 's01_e23_c20_u001')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c20_u001_e2",
+          "tuples": [
+            "('need', 'we/(Susan Bunch, Carol Willick, Ross Geller)', 'a name', 's01_e23_c20_u001')",
+            "('need', 'we/(Susan Bunch, Carol Willick, Ross Geller)', 'for this little guy', 's01_e23_c20_u001')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u003",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u003_e1",
+          "tuples": [
+            "('like', 'I/(Susan Bunch)', 'Ben', 's01_e23_c20_u003')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u004",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u004_e1",
+          "tuples": [
+            "('be', 'Ben', 'good', 's01_e23_c20_u004')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c20_u004_e2",
+          "tuples": [
+            "('mention', 'you/(Ross Geller)', 'Ben', 's01_e23_c20_u004')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u005",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u005_e1",
+          "tuples": [
+            "('cook up', 'we/(Ross Geller, Susan Bunch)', 'it', 's01_e23_c20_u005')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u006",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u006_e1",
+          "tuples": [
+            "('be', 'That', 'what we were off doing', 's01_e23_c20_u006')",
+            "('do', 'we/(Ross Geller, Susan Bunch)', None, 's01_e23_c20_u006')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u010",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u010_e1",
+          "tuples": [
+            "('come', 'we/(Monica Geller, Rachel Green)', 'in', 's01_e23_c20_u010')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u012",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u012_e1",
+          "tuples": [
+            "('know', 'I/(Ross Geller)', None, 's01_e23_c20_u012')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c20_u012_e2",
+          "tuples": [
+            "('be', 'there', \"someone I'd like you to meet\", 's01_e23_c20_u012')",
+            "('like', 'I/(Ross Geller)', 'you to meet', 's01_e23_c20_u012')",
+            "('meet', 'you/(everybody)', 'someone', 's01_e23_c20_u012')",
+            "('be', 'This', 'Ben', 's01_e23_c20_u012')",
+            "('be', 'this', 'everybody', 's01_e23_c20_u012')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u013",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u013_e1",
+          "tuples": [
+            "('look', 'he/(Ben)', 'like you', 's01_e23_c20_u013')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u015",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u015_e1",
+          "tuples": [
+            "('believe', 'I/(Rachel Green)', 'one of us actually has one of these', 's01_e23_c20_u015')",
+            "('have', 'one of us', 'one of these', 's01_e23_c20_u015')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u016",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u016_e1",
+          "tuples": [
+            "('know', 'I/(Chandler Bing)', None, 's01_e23_c20_u016')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c20_u016_e2",
+          "tuples": [
+            "('be', 'I/(Chandler Bing)', 'one of these', 's01_e23_c20_u016')"
+          ]
+        }
+      ]
+    },
+    {
+      "utterance_id": "s01_e23_c20_u020",
+      "events": [
+        {
+          "event_id": "s01_e23_c20_u020_e1",
+          "tuples": [
+            "('be', 'I/(Monica Geller)', 'your Aunt Monica', 's01_e23_c20_u020')"
+          ]
+        },
+        {
+          "event_id": "s01_e23_c20_u020_e2",
+          "tuples": [
+            "('have', 'I/(Monica Geller)', 'gum', 's01_e23_c20_u020')"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Greets and brings a date into the group (“Buzz Speaker_02 in!”; “Hi, come in! ... everybody, this is Speaker_02.”) and responds enthusiastically (“Yes!”)."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers to cancel the date and checks on a friend’s needs (“wait, I can cancel… Are you okay, do you want me to stay?”)."
+  },
+  "CON": {
+    "score": -1,
+    "evidence": "Surprised by the time and unprepared, rushing to change after the guest arrives (“Oh God, is it 6:30?… I’ll be right back… Change! Two seconds.”)."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "Displays anxiety and flustered speech when the date arrives (“Oh God…,” “umm-umm… gotta go…”) and hurried behavior."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear indication of curiosity or unconventional thinking in the exchange."
+  }
+}

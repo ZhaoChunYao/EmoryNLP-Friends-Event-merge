@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": -1,
+    "evidence": "Gives very brief, minimal responses (“A monkey.” “Oh. Then, no.”) and speaks only when prompted, showing a reserved, not talkative style."
+  },
+  "AGR": {
+    "score": 1,
+    "evidence": "Offers cooperative help to someone else’s problem by suggesting how to fix the radiator, showing willingness to assist."
+  },
+  "CON": {
+    "score": 1,
+    "evidence": "Provides a specific, practical troubleshooting step (“try turning the radiator knob back the other way”) and quickly updates when it’s already been tried, indicating task-focused efficiency."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Despite an ‘emergency,’ responds matter-of-factly and stays calm, offering practical advice without signs of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear sign of imaginative or unconventional thinking; the advice is standard troubleshooting rather than inventive."
+  }
+}

@@ -1,0 +1,120 @@
+('woo-hoo', 'I/Monica Geller', None, 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('mean', 'I/Monica Geller', None, 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('hope', 'I/Monica Geller', 'what would happen', 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('happen', 'what', None, 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('turn', 'he/unnamed man', 'round', 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('say', 'he/unnamed man', 'I love that sound; I must have you now', 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('love', 'I/unnamed man', 'that sound', 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('have', 'I/unnamed man', 'you/Monica Geller', 's01_e11_c02_u001')
+[s01_e11_c02_u001] Monica Geller: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+
+('wish', 'I/Phoebe Buffay', 'there was something we could do', 's01_e11_c02_u002')
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+
+('be', 'there', 'something we could do', 's01_e11_c02_u002')
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+
+('do', 'we/Phoebe Buffay & Monica Geller', 'something', 's01_e11_c02_u002')
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+
+('get', 'you/Coma Guy', 'up', 's01_e11_c02_u002')
+[s01_e11_c02_u002] Phoebe Buffay: I just wish there was something we could do. Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+
+('do', 'you/Phoebe Buffay', 'what', 's01_e11_c02_u003')
+[s01_e11_c02_u003] Monica Geller: Phoebe, what are you doing?
+
+('try', 'nobody', 'this', 's01_e11_c02_u004')
+[s01_e11_c02_u004] Phoebe Buffay: Maybe nobody's tried this.
+
+('wish', 'I/Monica Geller', 'we at least knew his name', 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('know', 'we/Monica Geller & Phoebe Buffay', 'his name', 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('look', 'you/Phoebe Buffay', None, 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('look', 'you/Phoebe Buffay', 'at that face', 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('sleep', 'he/Coma Guy', None, 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('look', 'he/Coma Guy', 'smart', 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('bet', 'I/Monica Geller', "he's a lawyer", 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('be', 'he/Coma Guy', 'a lawyer', 's01_e11_c02_u005')
+[s01_e11_c02_u005] Monica Geller: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+
+('see', 'you/Monica Geller', 'the dents', 's01_e11_c02_u006')
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+
+('see', 'you/Monica Geller', 'in his knuckles', 's01_e11_c02_u006')
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+
+('mean', 'that/the dents in his knuckles', "he's artistic", 's01_e11_c02_u006')
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+
+('be', 'he/Coma Guy', 'artistic', 's01_e11_c02_u006')
+[s01_e11_c02_u006] Phoebe Buffay: Yeah, but did you see the dents in his knuckles? That means he's artistic.
+
+('teach', 'he/Coma Guy', 'sculpting', 's01_e11_c02_u007')
+[s01_e11_c02_u007] Monica Geller: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+
+('teach', 'he/Coma Guy', 'on the side', 's01_e11_c02_u007')
+[s01_e11_c02_u007] Monica Geller: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+
+('dance', 'he/Coma Guy', None, 's01_e11_c02_u007')
+[s01_e11_c02_u007] Monica Geller: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+
+('be', 'he/Coma Guy', 'the kinda guy', 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('talk', 'you/Monica Geller', None, 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('listen', 'he/Coma Guy', None, 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('say', 'he/Coma Guy', 'Yeah, I understand', 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('understand', 'I/Coma Guy', None, 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('wonder', 'he/Coma Guy', 'what you/Monica Geller look like naked', 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('look', 'you/Monica Geller', 'like naked', 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('know', 'you/Monica Geller', None, 's01_e11_c02_u008')
+[s01_e11_c02_u008] Phoebe Buffay: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+
+('wish', 'I/Monica Geller', 'all guys could be like him', 's01_e11_c02_u009')
+[s01_e11_c02_u009] Monica Geller: I wish all guys could be like him.
+
+('be', 'all guys', 'like him/Coma Guy', 's01_e11_c02_u009')
+[s01_e11_c02_u009] Monica Geller: I wish all guys could be like him.
+
+('know', 'I/Phoebe Buffay', None, 's01_e11_c02_u010')
+[s01_e11_c02_u010] Phoebe Buffay: I know.
+

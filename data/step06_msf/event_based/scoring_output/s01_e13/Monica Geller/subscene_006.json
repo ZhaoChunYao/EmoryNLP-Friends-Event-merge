@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "TargetSpeaker asks Speaker_01 how they are doing right now, initiating friendly small talk."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Others report that TargetSpeaker (with others) feels Speaker_02 is objectionable, showing a critical, untrusting stance toward the person."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "No behavior indicating organization/efficiency or carelessness/sloppiness is shown."
+  },
+  "NEU": {
+    "score": 1,
+    "evidence": "It is stated that something about Speaker_02 makes TargetSpeaker uncomfortable."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "No clear signs of curiosity/inventiveness or dogmatism/caution beyond a person-specific discomfort."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "EXT": {
+    "score": 1,
+    "evidence": "Initiates social interaction by directing Speaker_02 to look at Speaker_04 and publicly shares big personal news about being made a partner, showing outgoing engagement."
+  },
+  "AGR": {
+    "score": -1,
+    "evidence": "Makes a teasing remark about Speaker_04 ('looks like she is in a play') and boasts about becoming a partner."
+  },
+  "CON": {
+    "score": 0,
+    "evidence": "Provides banter and self-focused news but no behavior indicating organization or carelessness."
+  },
+  "NEU": {
+    "score": -1,
+    "evidence": "Confidently announces a major achievement without any sign of anxiety."
+  },
+  "OPN": {
+    "score": 0,
+    "evidence": "Aside from a light metaphor, there is no strong evidence of curiosity or caution."
+  }
+}
